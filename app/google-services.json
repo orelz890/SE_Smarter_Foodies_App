@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "375458593948",
+    "project_id": "smarter-foodies",
+    "storage_bucket": "smarter-foodies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375458593948:android:52e34674f783b6f80b4159",
+        "android_client_info": {
+          "package_name": "com.example.smarter_foodies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375458593948-iatkihfcklqpfqvouf2gk3t4pm1vmeai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarter_foodies",
+            "certificate_hash": "1c4b30e7a05f4f2c32582628d12fd9e79682859d"
+          }
+        },
+        {
+          "client_id": "375458593948-epgmf7kvdilf2rfildso84cq4o12oki2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYw2mw_EMRNoqFUW3zKSQ6x9g1dP08tXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375458593948-epgmf7kvdilf2rfildso84cq4o12oki2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
