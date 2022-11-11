@@ -29,6 +29,8 @@ public class MainActivity extends AppCompatActivity {
         users.put("bbb", "zamler");
         users.put("firstName", "Eilon");
         users.put("LastName", "Barashi");
+        users.put("password1", "1234");
+        users.put("password2", "5678");
         firestore.collection("users").add(users).addOnSuccessListener(new OnSuccessListener<DocumentReference>() {
             @Override
             public void onSuccess(DocumentReference documentReference) {
