@@ -1,30 +1,26 @@
 package com.example.smarter_foodies;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.google.android.gms.tasks.OnCompleteListener;
-import com.google.android.gms.tasks.Task;
 import com.google.android.material.textfield.TextInputEditText;
-import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class ApplyAsChef extends AppCompatActivity {
+public class ApplyChef extends AppCompatActivity {
 
     TextInputEditText etRegEmail;
     TextInputEditText etRegPassword;
     TextInputEditText etResume;
+    TextView etBackLogin;
     Button btnApply;
 
     FirebaseAuth mAuth;
@@ -32,11 +28,12 @@ public class ApplyAsChef extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_register);
+        setContentView(R.layout.activity_apply_chef);
 
         etRegEmail = findViewById(R.id.etRegEmail);
         etRegPassword = findViewById(R.id.etRegPass);
         etResume = findViewById(R.id.etResume);
+        etBackLogin = findViewById(R.id.etBackLogin);
         btnApply = findViewById(R.id.btnApply);
 
         mAuth = FirebaseAuth.getInstance();
@@ -45,6 +42,9 @@ public class ApplyAsChef extends AppCompatActivity {
             createApplication();
         });
 
+        etBackLogin.setOnClickListener(view ->{
+            startActivity(new Intent(ApplyChef.this,LoginActivity.class));
+        });
     }
 
     private boolean containsWordsArray(String inputString, String[] words) {
@@ -70,20 +70,17 @@ public class ApplyAsChef extends AppCompatActivity {
         }else{
             String[] keyWords = {"Education", "Skills", "Chef", "kitchen", "food", "passion"};
             if(containsWordsArray(resume, keyWords)) {
-                mAuth.createUserWithEmailAndPassword(email, password).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
-                    @Override
-                    public void onComplete(@NonNull Task<AuthResult> task) {
-                        if (task.isSuccessful()) {
-                            Toast.makeText(ApplyAsChef.this, "User registered successfully as chef..", Toast.LENGTH_SHORT).show();
-                            startActivity(new Intent(ApplyAsChef.this, LoginActivity.class));
-                        } else {
-                            Toast.makeText(ApplyAsChef.this, "Registration Error: " + task.getException().getMessage(), Toast.LENGTH_SHORT).show();
-                        }
+                mAuth.createUserWithEmailAndPassword(email, password).addOnCompleteListener(task -> {
+                    if (task.isSuccessful()) {
+                        Toast.makeText(ApplyChef.this, "User registered successfully as chef..", Toast.LENGTH_SHORT).show();
+                        startActivity(new Intent(ApplyChef.this, LoginActivity.class));
+                    } else {
+                        Toast.makeText(ApplyChef.this, "Registration Error: " + task.getException().getMessage(), Toast.LENGTH_SHORT).show();
                     }
                 });
             }else{
-                Toast.makeText(ApplyAsChef.this, "Please try again in the future.. for now you can register regularly :)", Toast.LENGTH_SHORT).show();
-                startActivity(new Intent(ApplyAsChef.this, LoginActivity.class));
+                Toast.makeText(ApplyChef.this, "Please try again in the future.. for now you can register regularly :)", Toast.LENGTH_LONG).show();
+                startActivity(new Intent(ApplyChef.this, LoginActivity.class));
             }
         }
     }
