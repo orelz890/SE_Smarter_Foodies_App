@@ -43,7 +43,7 @@ public class LoginActivity extends AppCompatActivity {
             loginUser();
         });
         tvRegisterHere.setOnClickListener(view ->{
-            startActivity(new Intent(LoginActivity.this, RegisterActivity.class));
+            startActivity(new Intent(LoginActivity.this, LoginGoogle.class));
         });
         tvRegisterAsChef.setOnClickListener(view ->{
             startActivity(new Intent(LoginActivity.this, ApplyChef.class));
