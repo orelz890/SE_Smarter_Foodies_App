@@ -1,8 +1,12 @@
 import requests
 import re
 from bs4 import BeautifulSoup as bs, BeautifulSoup
+import json
+
+from dish import dish
 
 URLlist = []
+objects = []
 
 
 def URLScollect():
@@ -19,14 +23,16 @@ def URLScollect():
             i) + '/'
         req = requests.get(URL)
         found = re.findall("<a class=\"categories__item\" href=\"(.*)\">", req.text)
-        URLlist.append(found)
+        for X in found:
+            URLlist.append(X)
     # helthy respis
     for i in range(1, 21):
         URL = 'https://www.10dakot.co.il/category/%D7%9E%D7%AA%D7%9B%D7%95%D7%A0%D7%99%D7%9D-%D7%91%D7%A8%D7%99%D7%90%D7%99%D7%9D/?page=' + str(
             i) + '/'
         req = requests.get(URL)
         found = re.findall("<a class=\"categories__item\" href=\"(.*)\">", req.text)
-        URLlist.append(found)
+        for X in found:
+            URLlist.append(X)
     # breds
     for i in range(1, 5):
         URL = 'https://www.10dakot.co.il/category/%d7%9e%d7%90%d7%a4%d7%99%d7%9d/?page=' + str(i) + '/'
@@ -40,71 +46,87 @@ def URLScollect():
             i) + '/'
         req = requests.get(URL)
         found = re.findall("<a class=\"categories__item\" href=\"(.*)\">", req.text)
-        URLlist.append(found)
+        for X in found:
+            URLlist.append(X)
 
 
 def date():
-    count = 0
-    print(URLlist)
+
     for URL in URLlist:
-    # if "1" == "1":
-    #     URL = 'https://www.10dakot.co.il/recipe/%d7%9c%d7%97%d7%9d-%d7%9b%d7%95%d7%a1%d7%9e%d7%99%d7%9f/'
-        print(URL)
         try:
+            arry_photo = []
             r = requests.get(URL)
             soup = BeautifulSoup(r.content, 'html.parser')
             proudects = soup.findAll("div", {"class":"resipes__content"})[0].text
-
             x = proudects.find("רוצים")
-            condumens = proudects[0:x:1]
             y = proudects.find("אופן ההכנה")
             z = proudects.find("טיפים")
+            condumens = proudects[0:x:1]
             tips =""
             if(z == -1):
                 make_way = proudects[y::1]
             else:
                 make_way = proudects[y:z:1]
                 tips = proudects[z::1]
-            num_of_Dishes = soup.findAll("div", {"class": "resipes__header-col"})[2].text
-            print(num_of_Dishes)
-            if num_of_Dishes.find("סוג: פרווה") != -1 or num_of_Dishes.find("סוג: חלבי")  != -1 or num_of_Dishes.find("סוג: בשרי") != -1 or num_of_Dishes.find('סוג: פרוה') != -1 :
-                preparation_time = 0
-                cooking_biking_time = soup.findAll("div", {"class": "resipes__header-col"})[0].text
-                num_of_Dishes = soup.findAll("div", {"class": "resipes__header-col"})[1].text
-                category_type = soup.findAll("div", {"class": "resipes__header-col"})[2].text
-            else:
-                preparation_time = soup.findAll("div", {"class":"resipes__header-col"})[0].text
-                cooking_biking_time = soup.findAll("div", {"class": "resipes__header-col"})[1].text
-                category_type = soup.findAll("div", {"class": "resipes__header-col"})[3].text
+            informison = soup.findAll("div", {"class": "resipes__header-col"})
+            preparation_time = "זמן הכנה: "
+            cooking_biking_time = "זמן בישול/אפיה: "
+            num_of_Dishes = "מס' מנות: "
+            category_type = "סוג קטגוריה: "
+            for i in informison:
+                if i.text.find("זמן הכנה") != -1 and i.text.find("זמן בישול") == -1 and i.text.find("מנות") == -1 and i.text.find("סוג") == -1:
+                    preparation_time += i.text
+
+                if i.text.find("זמן הכנה") == -1 and i.text.find("זמן בישול") != -1 and i.text.find("מנות") == -1 and i.text.find("סוג") == -1:
+                    cooking_biking_time = i.text
+
+                if (i.text.find("זמן הכנה") == -1 and i.text.find("זמן בישול") == -1 and i.text.find("מנות") != -1 and i.text.find("סוג") == -1):
+                    num_of_Dishes = i.text
+
+                if (i.text.find("זמן הכנה") == -1 and i.text.find("זמן בישול") == -1 and i.text.find("מנות") == -1 and i.text.find("סוג") != -1):
+                    category_type = i.text
 
             try:
                 category = soup.findAll("div", {"class": "banner_resipe__tag"})[0].text
-                print("the category is" + category)
             except Exception as e:
                 category = category_type
-            name = soup.findAll("h1", {"class": "banner_resipe__title"})[0].text
-            print(condumens)
+
+            try:
+                name = soup.findAll("h1", {"class": "banner_resipe__title"})[0].text
+
+            except Exception as e:
+                name = ""
+
+            try:
+                images = soup.findAll("img", {"class": "banner-slider__slide-img"})
+
+                for image in images:
+                    arry_photo.append(image.get('src'))
+
+            except Exception as e:
+                t = "תמונה: "
+                arry_photo.append(t)
+
+            category = "קטגוריה: " + category
+            name_of_proudect = "שם המוצר: " + name
             if y != -1:
-                print(make_way)
-            print(tips)
-            print(preparation_time)
-            print(cooking_biking_time)
-            print(num_of_Dishes)
-            print(category_type)
+                make_way = make_way
+            else:
+                make_way = "אופן הכנה: "
+            try:
+                if arry_photo[0].find("data") != -1:
+                    del arry_photo[0]
+            except Exception as e:
+                print("")
 
+            data = dish(category,category_type,name_of_proudect,condumens,make_way,tips,preparation_time,cooking_biking_time,num_of_Dishes,arry_photo)
+            objects.append(data)
 
-            print("the name is:" + name)
         except Exception as e:
-            count+=1
             print(e)
-        print(count)
 
-
-
-
-
-
-
+    for i in objects:
+        print(i)
 
 if __name__ == '__main__':
     URLScollect()
