@@ -1,4 +1,5 @@
 package com.example.smarter_foodies;
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
@@ -17,6 +18,10 @@ import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.example.smarter_foodies.recipe;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+
 public class AddRecipe extends AppCompatActivity {
     DatabaseReference mDatabase;
     recipe dish;
@@ -111,16 +116,9 @@ public class AddRecipe extends AppCompatActivity {
                 npFat.setValue(newValue);
             }
         });
-//        npCookingTime.setMinValue(0);
-//        npCookingTime.setValue(-1);
-//        npCookingTime.setOnValueChangedListener(new NumberPicker.OnValueChangeListener() {
-//            @Override
-//            public void onValueChange(NumberPicker numberPicker, int oldValue, int newValue) {
-//                npCookingTime.setValue(newValue);
-//            }
-//        });
+
         btnSubmit = findViewById(R.id.btnSubmit);
-        btnSubmit.setOnClickListener(view ->{
+        btnSubmit.setOnClickListener(view -> {
             submitRecipe();
         });
 
@@ -149,27 +147,54 @@ public class AddRecipe extends AppCompatActivity {
 
     private void submitRecipe() {
         String title = etTitle.getText().toString();
-        String ingredients = etIngredients.getText().toString();
-        String directions = etDirections.getText().toString();
-
-        if (TextUtils.isEmpty(title)){
+        if (TextUtils.isEmpty(title)) {
             etTitle.setError("Title cannot be empty");
             etTitle.requestFocus();
-        }else if (TextUtils.isEmpty(ingredients)){
+            return;
+        }
+        String ingredients = etIngredients.getText().toString();
+        String[] ingredients_list = ingredients.split("\n");
+        if (TextUtils.isEmpty(ingredients)) {
             etIngredients.setError("Ingredients cannot be empty");
             etIngredients.requestFocus();
-        }else if (TextUtils.isEmpty(directions)){
+            return;
+        } else {
+            for (String s : ingredients_list) {
+                String[] temp = s.trim().split(" ");
+                try {
+                    Double.parseDouble(temp[0]);
+                }catch (Exception e){
+                    etIngredients.setError("Every Ingredient must begin with the quantity..");
+                    etIngredients.requestFocus();
+                    return;
+                }
+            }
+        }
+        String directions = etDirections.getText().toString();
+        String[] directions_list = directions.split("\n");
+        if (TextUtils.isEmpty(directions)) {
             etDirections.setError("Directions cannot be empty");
             etDirections.requestFocus();
-        }else if (category.isEmpty()){
+            return;
+        } else if (category.isEmpty()) {
             autoCompleteCategory.setError("Category cannot be empty");
             autoCompleteCategory.requestFocus();
-        }else if (subCategory.isEmpty()){
+            return;
+        } else if (subCategory.isEmpty()) {
             autoCompleteSubCategory.setError("Sub category cannot be empty");
             autoCompleteSubCategory.requestFocus();
-        }else{
-//            dish = new recipe(title, category, subCategory, ingredients,);
-
+            return;
+        } else if (npPrepTime.getValue() == 0 || npCookingTime.getValue() == 0 ||
+                   npServings.getValue() == 0 || npProtein.getValue() == 0 ||
+                   npFat.getValue() == 0 || npCarbs.getValue() == 0) {
+            Toast.makeText(getApplicationContext(), "All bottom half must be filled too!",
+                    Toast.LENGTH_SHORT).show();
+        } else {
+            dish = new recipe(title, category, subCategory, ingredients_list, directions_list,
+                    npPrepTime.getValue(), npCookingTime.getValue(), npServings.getValue(),
+                    npProtein.getValue(), npFat.getValue(), npCarbs.getValue(), 0,
+                    new ArrayList<String>(), 0, new HashMap<>());
+            Toast.makeText(getApplicationContext(), dish.toString(), Toast.LENGTH_SHORT).show();
         }
     }
 

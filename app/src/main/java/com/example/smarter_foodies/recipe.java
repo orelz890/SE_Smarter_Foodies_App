@@ -2,6 +2,7 @@ package com.example.smarter_foodies;
 
 import android.util.Pair;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Objects;
 
@@ -25,7 +26,7 @@ public class recipe {
 
     private int numOfStarGivers;
 
-    private String[] images;
+    private ArrayList<String> images;
     //  <user_name, comment>
     //  User comments:
     private HashMap<String, ArrayList<String>> comments;
@@ -36,7 +37,7 @@ public class recipe {
     public recipe(String title, String main_category, String category,
                   String[] ingredients, String[] directions,
                   int prepTime, int cookingTime, int servings, int protein,
-                  int fat, int carbs, double stars, String[] images, int numOfStarGivers,
+                  int fat, int carbs, double stars, ArrayList<String> images, int numOfStarGivers,
                   HashMap<String, ArrayList<String>> comments) {
         init();
         this.setTitle(title);
@@ -189,41 +190,20 @@ public class recipe {
         this.stars = stars;
     }
 
-    public String[] getImages() {
+    public ArrayList<String> getImages() {
         return images;
     }
 
-    public void setImages(String[] images) {
-        this.images = new String[images.length];
-        System.arraycopy(images, 0, this.images, 0, images.length);
+    public void setImages(ArrayList<String> imgs) {
+        this.images = imgs;
     }
 
     public void addImage(String img) {
-        String[] new_images = new String[this.images.length + 1];
-        System.arraycopy(this.images, 0, new_images, 0, this.images.length);
-        new_images[this.images.length] = img;
-        this.images = new_images;
+        this.images.add(img);
     }
 
     public void delImage(String img) {
-        String[] new_images = new String[this.images.length];
-        int pos = -1;
-        for (int i = 0; i < this.images.length; i++){
-            if (this.images[i].equals(img)){
-                pos = i;
-            }
-        }
-        if (pos == -1){
-            return;
-        }
-        for (int i = 0; i < this.images.length; i++){
-            if (i < pos){
-                new_images[i] = this.images[i];
-            }else if(i != pos){
-                new_images[i - 1] = this.images[i];
-            }
-        }
-        this.images = new_images;
+        this.images.remove(img);
     }
 
     public HashMap<String, ArrayList<String>> getComments() {
@@ -242,6 +222,27 @@ public class recipe {
             this.comments.put(name, new ArrayList<>());
         }
         Objects.requireNonNull(this.comments.get(name)).add(comment);
+    }
 
+    @Override
+    public String toString() {
+        return "recipe{" +
+                "title='" + title + '\'' +
+                ", main_category='" + main_category + '\'' +
+                ", category='" + category + '\'' +
+                ", ingredients=" + ingredients +
+                ", directions=" + Arrays.toString(directions) +
+                ", prepTime=" + prepTime +
+                ", cookingTime=" + cookingTime +
+                ", totalTime=" + totalTime +
+                ", servings=" + servings +
+                ", protein=" + protein +
+                ", fat=" + fat +
+                ", carbs=" + carbs +
+                ", stars=" + stars +
+                ", numOfStarGivers=" + numOfStarGivers +
+                ", images=" + images +
+                ", comments=" + comments +
+                '}';
     }
 }
