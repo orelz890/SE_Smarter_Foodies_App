@@ -1,0 +1,111 @@
+{
+    "title": "Apple Dapple Cake",
+    "Category": "Coffee Cake",
+    "Ingredients": [
+        {
+            "1": "1 Cake-"
+        },
+        {
+            "2": "0.5 cups white sugar"
+        },
+        {
+            "3": "1 cup vegetable oil"
+        },
+        {
+            "4": "0.5 cup butter, softened"
+        },
+        {
+            "5": "3 large eggs"
+        },
+        {
+            "6": "0.5 teaspoon vanilla extract"
+        },
+        {
+            "7": "3 cups all-purpose flour"
+        },
+        {
+            "8": "1 teaspoon baking soda"
+        },
+        {
+            "9": "0.5 teaspoon salt"
+        },
+        {
+            "10": "2 cups diced apple without peel"
+        },
+        {
+            "11": "1 cup flaked coconut"
+        },
+        {
+            "12": "1 cup raisins"
+        },
+        {
+            "13": "1 cup chopped walnuts"
+        },
+        {
+            "14": "1 Glaze (Optional)-"
+        },
+        {
+            "15": "1 cup brown sugar"
+        },
+        {
+            "16": "0.5 cup butter"
+        },
+        {
+            "17": "0.25 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 325 degrees F (165 degrees C). Grease and flour a 10-inch tube pan."
+        },
+        {
+            "2": "Make the cake: Combine sugar, oil, and softened butter in a large mixing bowl; beat with an electric mixer until smooth and creamy. Mix in eggs, one at a time, then mix in vanilla. Gradually mix in flour, baking soda, and salt until well combined. Stir in apples, coconut, raisins, and walnuts. Pour batter into the prepared pan."
+        },
+        {
+            "3": "Bake in the preheated oven until a cake tester inserted in the center comes out clean, about 90 minutes. Remove from the oven and let cool from the pan for a few minutes. Run a table knife around the edges to loosen. Invert carefully onto a serving plate or cooling rack."
+        },
+        {
+            "4": "While the cake is cooling, make the glaze: Combine brown sugar, butter, and milk in a small saucepan; bring to a boil. Once boiling, stir for 1 minute to combine."
+        },
+        {
+            "5": "Pour glaze over warm cake."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "14 "
+        },
+        {
+            "Yield": "1 10-inch tube cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "512"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9300880.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8012067.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7123087.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7151434.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

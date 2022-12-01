@@ -1,0 +1,84 @@
+{
+    "title": "Pork Chop Casserole III",
+    "Category": "Rice Casserole",
+    "Ingredients": [
+        {
+            "1": "1 cup uncooked white rice"
+        },
+        {
+            "2": "1 (1 ounce) package dry onion soup mix"
+        },
+        {
+            "3": "2 (10.75 ounce) cans  condensed cream of mushroom soup"
+        },
+        {
+            "4": "1.0 cups water"
+        },
+        {
+            "5": "1  green bell pepper, sliced in rings"
+        },
+        {
+            "6": "1  onion, sliced into rings"
+        },
+        {
+            "7": "5  pork chops"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Spread rice in the bottom of a 9x13 inch baking dish. Sprinkle contents of dried onion soup mix over rice. Mix mushroom soup with water, and pour over rice. Arrange the bell pepper and onion slices over soup and rice mixture. Place pork chops on top of pepper and onions. Cover the dish with a lid or aluminum foil."
+        },
+        {
+            "3": "Bake for 1 hour in the preheated oven, until pork chops are very tender, and rice is fully cooked."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "5 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "395"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5322277.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5951140.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5951106.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F559580.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

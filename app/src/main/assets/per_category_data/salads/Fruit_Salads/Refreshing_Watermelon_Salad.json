@@ -1,0 +1,84 @@
+{
+    "title": "Refreshing Watermelon Salad",
+    "Category": "Fruit Salads",
+    "Ingredients": [
+        {
+            "1": "3 tablespoons lime juice"
+        },
+        {
+            "2": "1 cup sliced red onion, cut lengthwise"
+        },
+        {
+            "3": "15 cups cubed watermelon"
+        },
+        {
+            "4": "3 cups cubed English cucumber"
+        },
+        {
+            "5": "1 (8 ounce) package feta cheese, crumbled"
+        },
+        {
+            "6": "0.5 cup chopped fresh cilantro"
+        },
+        {
+            "7": "1 cracked black pepper"
+        },
+        {
+            "8": "1 sea salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a small bowl, pour lime juice over red onions. Allow to marinate while assembling the salad."
+        },
+        {
+            "2": "Gently combine the watermelon, cucumber, feta cheese, and cilantro in a large bowl. Season with black pepper. Toss watermelon salad with marinated onions and season with sea salt just before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "15 "
+        },
+        {
+            "Yield": "15 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "94"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3badb3660dee9388b81e8b941265f24b%2F16549922995A489920-09B9-475E-A667-BAB19A349DDD.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9295864.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8283083.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8745568.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/KG-Q563UA5d3alIiuUxtXRfQDqA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/671056-refreshing-watermelon-salad-CookinBug-1x1-1-d9cdf304db2e4ee795fba3c9b386e8a1.jpg"
+        }
+    ],
+    "main category": "salads"
+}

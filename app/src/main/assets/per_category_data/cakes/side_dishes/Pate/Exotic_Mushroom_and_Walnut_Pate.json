@@ -1,0 +1,102 @@
+{
+    "title": "Exotic Mushroom and Walnut Pate",
+    "Category": "Pate",
+    "Ingredients": [
+        {
+            "1": "1 cup walnuts"
+        },
+        {
+            "2": "0.5 cup minced shallots"
+        },
+        {
+            "3": "0.5 cup unsalted butter"
+        },
+        {
+            "4": "0.25 pound shiitake mushrooms, chopped"
+        },
+        {
+            "5": "0.25 pound crimini mushrooms, chopped"
+        },
+        {
+            "6": "0.25 pound portobello mushrooms, chopped"
+        },
+        {
+            "7": "1 tablespoon roasted garlic puree"
+        },
+        {
+            "8": "0.25 cup chopped fresh Italian parsley"
+        },
+        {
+            "9": "1 tablespoon chopped fresh thyme"
+        },
+        {
+            "10": "0.5 teaspoon salt"
+        },
+        {
+            "11": "0.5 teaspoon white pepper"
+        },
+        {
+            "12": "2 tablespoons extra-virgin olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Spread walnuts in a single layer on a cookie sheet. Toast for 10 minutes, or until fragrant and lightly browned."
+        },
+        {
+            "2": "In a large saute pan, cook shallots in butter over medium heat until translucent. Then add chopped mushrooms, garlic, parsley, thyme, salt, and pepper. Cook, stirring often, until most of the liquid has evaporated."
+        },
+        {
+            "3": "Process toasted walnuts and olive oil in a blender or food processor until mixture forms a thick paste. Spoon in the cooked mushroom mixture, and process to desired texture."
+        },
+        {
+            "4": "Pack mixture into well-oiled ramekins or bowl. Cover with plastic wrap, and refrigerate for a few hours or overnight."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "127"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8699998.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1714c376c4eefd5376d0baf12a477a7c%2F7680203.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6885267.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5424756.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

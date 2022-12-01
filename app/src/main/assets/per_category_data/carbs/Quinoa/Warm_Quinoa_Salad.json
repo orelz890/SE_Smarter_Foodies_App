@@ -1,0 +1,99 @@
+{
+    "title": "Warm Quinoa Salad",
+    "Category": "Quinoa",
+    "Ingredients": [
+        {
+            "1": "1 Dressing-"
+        },
+        {
+            "2": "0.25 cup extra-virgin olive oil"
+        },
+        {
+            "3": "1 tablespoon lime juice"
+        },
+        {
+            "4": "0.5 teaspoon kosher salt"
+        },
+        {
+            "5": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "6": "0.5 teaspoon ground cumin"
+        },
+        {
+            "7": "1 Quinoa Salad-"
+        },
+        {
+            "8": "0.5 cups water"
+        },
+        {
+            "9": "1 cup dry quinoa (such as Quinta\u00ae)"
+        },
+        {
+            "10": "0.5 teaspoon kosher salt"
+        },
+        {
+            "11": "1 (15 ounce) can black beans, drained and rinsed"
+        },
+        {
+            "12": "1 (15 ounce) can yellow corn kernels, drained and rinsed"
+        },
+        {
+            "13": "0.5 cup finely chopped red bell pepper"
+        },
+        {
+            "14": "0.5 cup finely chopped red onion"
+        },
+        {
+            "15": "0.5 cup finely chopped fresh cilantro"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Make dressing: Whisk together olive oil, lime juice, salt, pepper, and cumin in a large serving bowl until combined."
+        },
+        {
+            "2": "Make salad: Bring water, quinoa, and salt to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until quinoa is tender, 15 to 20 minutes."
+        },
+        {
+            "3": "Transfer cooked quinoa into the serving bowl with dressing. Add beans, corn, bell pepper, onion, and cilantro. Mix with a large spoon or wide spatula until combined."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "483"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "69g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8203869.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5743920.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

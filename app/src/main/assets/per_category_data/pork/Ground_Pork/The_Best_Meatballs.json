@@ -1,0 +1,96 @@
+{
+    "title": "The Best Meatballs",
+    "Category": "Ground Pork",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "0.5 pound ground veal"
+        },
+        {
+            "3": "0.5 pound ground pork"
+        },
+        {
+            "4": "1 cup freshly grated Romano cheese"
+        },
+        {
+            "5": "2  eggs"
+        },
+        {
+            "6": "2 cloves garlic, minced"
+        },
+        {
+            "7": "0.5 tablespoons chopped Italian flat leaf parsley"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        },
+        {
+            "9": "2 cups stale Italian bread, crumbled"
+        },
+        {
+            "10": "0.5 cups lukewarm water"
+        },
+        {
+            "11": "1 cup olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine beef, veal, and pork in a large bowl. Mix in cheese, eggs, garlic, parsley, salt, and pepper."
+        },
+        {
+            "2": "Add bread crumbs and slowly mix in water, 1/2 cup at a time, until mixture is moist but still holds its shape (I usually use about 1 1/4 cups of water); shape into meatballs."
+        },
+        {
+            "3": "Heat olive oil in a large skillet; add meatballs in batches and cook until browned on all sides, slightly crisp, and cooked through, about 10 to 15 minutes. Drain on paper towels."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "613"
+        },
+        {
+            "Fat": "53g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9ea450b52b84171b85517d4d704d53c1%2F166388177116638817569947090454871883117906.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9ea450b52b84171b85517d4d704d53c1%2F166103648816610364371857628232508317752869.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9ea450b52b84171b85517d4d704d53c1%2F165025275520220417_133512.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9ea450b52b84171b85517d4d704d53c1%2F1644790793italianmeatballs2.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/3G6RkgYqNE6mlOYKfOhR2E_cTCM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/887350-1ca923f2b30743488e66a9af0af67637.jpg"
+        }
+    ],
+    "main category": "pork"
+}

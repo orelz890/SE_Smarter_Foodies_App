@@ -1,0 +1,66 @@
+{
+    "title": "Strawberry Jam with JELL-O",
+    "Category": "Jams and Jellies",
+    "Ingredients": [
+        {
+            "1": "2 cups strawberries"
+        },
+        {
+            "2": "1 cup cold water"
+        },
+        {
+            "3": "1 (3 ounce) package strawberry flavored Jell-O\u00ae, sugar free"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Crush strawberries in a large saucepan. Add water and gelatin, mixing well."
+        },
+        {
+            "2": "Over medium heat bring mixture to boiling, stirring constantly. Reduce heat to low and simmer for 2 minutes."
+        },
+        {
+            "3": "Pour into jars, allow to cool, and then cover. Can be stored in the refrigerator for 1 week, or frozen for several weeks."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "24 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "17"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8106773.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6756948.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0ed36058c07a11382081bfa072f73862%2F6519107.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5185624.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

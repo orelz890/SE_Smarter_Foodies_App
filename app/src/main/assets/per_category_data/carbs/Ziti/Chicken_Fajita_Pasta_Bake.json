@@ -1,0 +1,108 @@
+{
+    "title": "Chicken Fajita Pasta Bake",
+    "Category": "Ziti",
+    "Ingredients": [
+        {
+            "1": "1 pound ziti pasta"
+        },
+        {
+            "2": "1 tablespoon vegetable oil"
+        },
+        {
+            "3": "1 medium onion, sliced"
+        },
+        {
+            "4": "1 medium green bell pepper, sliced"
+        },
+        {
+            "5": "1 pound boneless chicken breast, cubed"
+        },
+        {
+            "6": "1 (16 ounce) jar salsa"
+        },
+        {
+            "7": "2 (8 ounce) packages cream cheese, softened"
+        },
+        {
+            "8": "1 (1 ounce) package taco seasoning"
+        },
+        {
+            "9": "1 (15 ounce) can black beans, rinsed and drained"
+        },
+        {
+            "10": "1 (15 ounce) can corn, drained"
+        },
+        {
+            "11": "1 (16 ounce) package shredded Cheddar cheese, divided"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a large pot with lightly salted water and bring to a rolling boil. Add ziti and return to a boil. Cook, stirring occasionally, until tender yet firm to the bite, about 10 minutes. Drain."
+        },
+        {
+            "2": "Meanwhile, heat oil in a skillet over medium heat. Add onion and green pepper; cook and stir until soft, 5 to 7 minutes. Transfer to a bowl."
+        },
+        {
+            "3": "Cook chicken in the same skillet until no longer pink in the center, 7 to 10 minutes."
+        },
+        {
+            "4": "Combine salsa, cream cheese, and taco seasoning in a saucepan over low heat; cook and stir until cream cheese is melted, about 5 minutes."
+        },
+        {
+            "5": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "6": "Combine ziti, chicken, salsa mixture, onion mixture, black beans, and corn in a large bowl. Add 1/2 of the Cheddar cheese and mix until combined. Pour into a baking pan."
+        },
+        {
+            "7": "Bake in the preheated oven for 20 minutes. Sprinkle remaining Cheddar over top. Continue to bake until cheese is melted, about 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "836"
+        },
+        {
+            "Fat": "43g"
+        },
+        {
+            "Carbs": "71g"
+        },
+        {
+            "Protein": "43g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9371720.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9280197.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9268645.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9209831.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/B6PzEA2dlMThwKKl0kvV24VcFT0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-402-ade532d1f69148028f77a88068198741.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

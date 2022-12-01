@@ -1,0 +1,99 @@
+{
+    "title": "Grilled Teriyaki Beer Chicken",
+    "Category": "Chicken Teriyaki",
+    "Ingredients": [
+        {
+            "1": "1 (12 fluid ounce) can or bottle beer"
+        },
+        {
+            "2": "0.25 cup brown sugar"
+        },
+        {
+            "3": "0.25 cup kosher salt"
+        },
+        {
+            "4": "0.25 cup paprika"
+        },
+        {
+            "5": "2 tablespoons ground black pepper"
+        },
+        {
+            "6": "0.25 teaspoon cayenne pepper"
+        },
+        {
+            "7": "1 cup teriyaki marinade"
+        },
+        {
+            "8": "0.25 cup vegetable oil"
+        },
+        {
+            "9": "10  chicken legs, rinsed and patted dry"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir the beer, brown sugar, kosher salt, paprika, black pepper, cayenne pepper, and teriyaki marinade together in a bowl."
+        },
+        {
+            "2": "Rub the chicken legs thoroughly with the vegetable oil. Poke several holes in the flesh of the chicken legs with a fork; arrange in a single layer in a glass dish. Pour the marinade over the chicken legs; marinate in refrigerator for 1 hour."
+        },
+        {
+            "3": "Preheat an outdoor grill for medium heat, and lightly oil the grate."
+        },
+        {
+            "4": "Remove the chicken from the marinade and shake off any excess liquid. Discard remaining marinade."
+        },
+        {
+            "5": "Grill the chicken legs on the preheated grill until no longer pink at the bone and the juices run clear, turning one-quarter turn every 5 minutes, 20 to 25 minutes total. An instant-read thermometer inserted into the thickest part of the leg, near the bone should read 180 degrees F (82 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "412"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "44g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7005124.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6700250.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F646e1f1c1112829a7d30855db1f0b598%2F3687615.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3578749.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

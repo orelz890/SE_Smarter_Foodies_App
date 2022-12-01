@@ -1,0 +1,60 @@
+{
+    "title": "Strawberry Fluff",
+    "Category": "Jell-O\u00ae Salad",
+    "Ingredients": [
+        {
+            "1": "2 (3 ounce) packages strawberry flavored Jell-O\u00ae"
+        },
+        {
+            "2": "1 (16 ounce) package cottage cheese"
+        },
+        {
+            "3": "1 (8 ounce) container frozen whipped topping, thawed"
+        },
+        {
+            "4": "1 (20 ounce) can crushed pineapple, drained"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a mixing bowl, combine the gelatin mix, cottage cheese, whipped topping and pineapple. Mix together well, refrigerate until chilled and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "9 "
+        },
+        {
+            "Yield": "8 to 10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "236"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7962508.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7380041.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3428196.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fda358be6f0b70a6930112b6095bba0b6%2F2612063.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

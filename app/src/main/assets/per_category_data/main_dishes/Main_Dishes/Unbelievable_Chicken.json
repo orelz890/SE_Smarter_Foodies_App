@@ -1,0 +1,99 @@
+{
+    "title": "Unbelievable Chicken",
+    "Category": "Main Dishes",
+    "Ingredients": [
+        {
+            "1": "0.25 cup cider vinegar"
+        },
+        {
+            "2": "3 tablespoons prepared coarse-ground mustard"
+        },
+        {
+            "3": "3 cloves garlic, peeled and minced"
+        },
+        {
+            "4": "1  lime, juiced"
+        },
+        {
+            "5": "0.5  lemon, juiced"
+        },
+        {
+            "6": "0.5 cup brown sugar"
+        },
+        {
+            "7": "0.5 teaspoons salt"
+        },
+        {
+            "8": "1 ground black pepper to taste"
+        },
+        {
+            "9": "6 tablespoons olive oil"
+        },
+        {
+            "10": "6  skinless, boneless chicken breast halves"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large glass bowl, mix the cider vinegar, mustard, garlic, lime juice, lemon juice, brown sugar, salt, and pepper. Whisk in the olive oil. Place chicken in the mixture. Cover, and marinate 8 hours, or overnight."
+        },
+        {
+            "2": "Preheat an outdoor grill for high heat."
+        },
+        {
+            "3": "Lightly oil the grill grate. Place chicken on the prepared grill, and cook 6 to 8 minutes per side, until juices run clear. Discard marinade."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": " 8 hrs 25 mins"
+        },
+        {
+            "Total Time": " 9 hrs"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "337"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8d28ec5fb49a2989b0de450b8252d2c2%2F165557544447FB3DFC-C0CE-4D50-B717-2B29DBB11CBB.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8999122.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0ab894dcc91ef721d995bea22cc5b38b%2F7467867.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5734085.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/yLXf-PRdbiEkqAAzw7uSRF8LSgY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8999122-unbelievable-chicken-Scott-Fitzgerald-1x1-1-f9c5c2e944c649569f6a9feb31da7747.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

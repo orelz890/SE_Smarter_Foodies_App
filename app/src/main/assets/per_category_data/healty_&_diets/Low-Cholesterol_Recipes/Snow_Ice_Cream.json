@@ -1,0 +1,69 @@
+{
+    "title": "Snow Ice Cream",
+    "Category": "Low-Cholesterol Recipes",
+    "Ingredients": [
+        {
+            "1": "1 gallon snow"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "1 tablespoon vanilla extract"
+        },
+        {
+            "4": "2 cups milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "When it starts to snow, place a large, clean bowl outside to collect flakes."
+        },
+        {
+            "2": "When the bowl is full, mix in sugar and vanilla. Stir in just enough milk for desired consistency. Serve at once."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "132"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9041982.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9038084.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7992174.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7992173.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/EBqfmL0TSwvpkjIQsI6hAXmdWyU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/576283-snow-ice-cream-Melissa-Goff-1x1-1-70477b5adf7a4451adba6896872298be.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

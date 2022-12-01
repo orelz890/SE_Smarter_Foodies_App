@@ -1,0 +1,72 @@
+{
+    "title": "Bread Machine Sugar-Free Bread",
+    "Category": "Sugar-Free Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (.25 ounce) package active dry yeast"
+        },
+        {
+            "2": "1 cup skim milk, luke warm"
+        },
+        {
+            "3": "2 tablespoons warm water (110 degrees F/45 degrees C)"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "2 cups all-purpose flour"
+        },
+        {
+            "6": "0.25 cups whole wheat flour"
+        },
+        {
+            "7": "1 tablespoon olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select lightest setting; press Start."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "15 "
+        },
+        {
+            "Yield": "1 - 1 1/2 pound loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "110"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcffc29fee7e496973c19eed49db7432b%2F2043772.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1dad7f948262f162dbe5814dd7fb52b3%2F2043767.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Ultimate French Toast",
+    "Category": "French Toast",
+    "Ingredients": [
+        {
+            "1": "4  eggs"
+        },
+        {
+            "2": "2 tablespoons milk"
+        },
+        {
+            "3": "0.25 teaspoon ground cinnamon"
+        },
+        {
+            "4": "8 slices bread"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine eggs, milk and cinnamon; beat well. Dip bread into egg mixture until completely coated."
+        },
+        {
+            "2": "Heat a lightly oiled griddle or frying pan over medium high heat. Cook bread slices until they are golden brown on both sides. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "209"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9383066.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9240599.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9229979.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6035833.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

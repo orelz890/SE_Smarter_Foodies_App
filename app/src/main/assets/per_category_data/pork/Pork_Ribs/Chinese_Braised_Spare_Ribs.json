@@ -1,0 +1,93 @@
+{
+    "title": "Chinese Braised Spare Ribs",
+    "Category": "Pork Ribs",
+    "Ingredients": [
+        {
+            "1": "1 pound pork spareribs, cut into 3 inch pieces"
+        },
+        {
+            "2": "1 tablespoon vegetable oil"
+        },
+        {
+            "3": "1 (1 inch) piece fresh ginger root, sliced"
+        },
+        {
+            "4": "5  green onions cut into 2-inch pieces"
+        },
+        {
+            "5": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "6": "2 cups water"
+        },
+        {
+            "7": "0.5 tablespoons soy sauce"
+        },
+        {
+            "8": "1 teaspoon white sugar"
+        },
+        {
+            "9": "1 teaspoon rice wine"
+        },
+        {
+            "10": "0.25 teaspoon salt"
+        },
+        {
+            "11": "0.25 teaspoon pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of water to a boil, then add the spareribs, and cook uncovered for 3 to 5 minutes. Drain in a colander and set aside."
+        },
+        {
+            "2": "Heat the vegetable oil in a skillet over high heat. Stir in the ginger, green onions, and cinnamon; cook and stir until fragrant. Stir in the spareribs and cook for 3 to 5 minutes. Pour in the water, soy sauce, sugar, and rice wine. Season with salt and pepper. Bring the mixture to a boil, then reduce heat to low and cover. Simmer until the spareribs are tender, about 1 hour."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "244"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F56c07d696b370633bb89ad9cc149b30d%2F1649260843Screen%2520Shot%25202022-04-06%2520at%25208.55.25%2520AM.png&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3973291.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2434168.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcee6359d0bd5b7dbc4e0d8aaf795577f%2F2319797.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

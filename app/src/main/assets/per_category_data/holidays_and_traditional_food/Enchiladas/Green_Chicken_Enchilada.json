@@ -1,0 +1,78 @@
+{
+    "title": "Green Chicken Enchilada",
+    "Category": "Enchiladas",
+    "Ingredients": [
+        {
+            "1": "1 pound skinless, boneless chicken breast halves"
+        },
+        {
+            "2": "12 (10 inch) flour tortillas"
+        },
+        {
+            "3": "1 (8 ounce) package shredded Monterey Jack cheese"
+        },
+        {
+            "4": "1 (19 ounce) can green enchilada sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a pot with enough water to cover, boil the chicken 25 minutes, or until juices run clear. Drain, cool, and shred."
+        },
+        {
+            "2": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a medium baking dish."
+        },
+        {
+            "3": "Fill each tortilla with equal amounts of chicken and cheese, reserving 1/4 cup cheese for topping. Roll tortillas to form enchiladas. Arrange enchiladas in the prepared baking dish. Cover with the enchilada sauce."
+        },
+        {
+            "4": "Bake enchiladas 30 minutes in the preheated oven. Top with reserved cheese, and continue baking 5 minutes, until cheese is melted."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "724"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "77g"
+        },
+        {
+            "Protein": "37g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F089f8ebd159d50c7848036fa8ffaf2d9%2F164532374276F45683-D291-46AA-A9D3-381B92A1AE2B.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8611731.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8217678.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8089113.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

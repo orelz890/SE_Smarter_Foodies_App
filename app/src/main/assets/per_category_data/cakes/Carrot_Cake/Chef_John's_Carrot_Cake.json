@@ -1,0 +1,141 @@
+{
+    "title": "Chef John's Carrot Cake",
+    "Category": "Carrot Cake",
+    "Ingredients": [
+        {
+            "1": "1 For the Cake-"
+        },
+        {
+            "2": "2 cups all-purpose flour"
+        },
+        {
+            "3": "1 teaspoon salt"
+        },
+        {
+            "4": "1 teaspoon baking soda"
+        },
+        {
+            "5": "2 teaspoons baking powder"
+        },
+        {
+            "6": "0.5 teaspoon ground ginger"
+        },
+        {
+            "7": "2 teaspoons ground cinnamon"
+        },
+        {
+            "8": "2 cups white sugar"
+        },
+        {
+            "9": "4  large eggs"
+        },
+        {
+            "10": "0.25 cup unsalted butter"
+        },
+        {
+            "11": "1 cup coconut oil"
+        },
+        {
+            "12": "2 cups finely grated carrots, or more to taste"
+        },
+        {
+            "13": "1 (8 ounce) can finely crushed pineapple, drained"
+        },
+        {
+            "14": "0.5 cup finely chopped pecans (Optional)"
+        },
+        {
+            "15": "0.5 cup finely chopped walnuts (Optional)"
+        },
+        {
+            "16": "1 For the Frosting-"
+        },
+        {
+            "17": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "18": "0.25 cup unsalted butter, softened"
+        },
+        {
+            "19": "0.5 teaspoons vanilla extract, or to taste"
+        },
+        {
+            "20": "3 cups confectioners' sugar, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Place flour in a bowl. Add salt, baking soda, and baking powder. Sprinkle in ground ginger and cinnamon. Whisk thoroughly until combined. Set aside."
+        },
+        {
+            "3": "Add sugar to a separate bowl. Whisk in eggs until mixture is smooth and pale yellow, 2 to 3 minutes."
+        },
+        {
+            "4": "Heat butter and coconut oil in a saucepan over low heat until just melted but not too hot. Whisk into the bowl with the eggs and sugar until well combined. Add carrots, crushed pineapple, pecans, and walnuts. Stir well."
+        },
+        {
+            "5": "Stir flour mixture into the carrot mixture until no dry spots remain. Pour batter into a greased 9x13-inch baking pan. Tap the pan against your counter to let any big air bubbles rise to the surface."
+        },
+        {
+            "6": "Bake in the preheated oven until a toothpick inserted into the cake comes out clean, 40 to 45 minutes. Let cool completely before frosting, at least 40 minutes."
+        },
+        {
+            "7": "Beat cream cheese, butter, and vanilla extract together using an electric mixer until light and fluffy. Gradually beat in the confectioners' sugar to form a smooth frosting. Spread evenly over the cooled cake. Chill completely before slicing."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Additional Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x13-inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "728"
+        },
+        {
+            "Fat": "41g"
+        },
+        {
+            "Carbs": "88g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fcd6c88dd646f0ac52505b3ea0cc1338e%2F165019061120220417_192737.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9412725.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8246851.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8191620.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/k_-gMpqxLf3BjWp4XV5r7St2HyE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5262194-chef-johns-carrot-cake-Chef-John-1x1-1-75e0d58736ce4db6a27f197b0de40c10.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

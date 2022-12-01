@@ -1,0 +1,84 @@
+{
+    "title": "Lime Gelatin Salad",
+    "Category": "Jell-O\u00ae Salad",
+    "Ingredients": [
+        {
+            "1": "1 cup boiling water"
+        },
+        {
+            "2": "1 (6 ounce) package lime flavored Jell-O\u00ae mix"
+        },
+        {
+            "3": "1 (20 ounce) can crushed pineapple, drained with juice reserved"
+        },
+        {
+            "4": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "5": "2 cups heavy cream"
+        },
+        {
+            "6": "1 cup chopped pecans"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine boiling water and gelatin mix in a large bowl; stir until dissolved. Stir in 1/2 cup pineapple juice. Refrigerate until thickened but not set, about 1 hour."
+        },
+        {
+            "2": "Meanwhile, place crushed pineapple and remaining juice in a small saucepan. Bring to a boil, reduce heat, and simmer for about 5 minutes. Remove from heat, and cool to room temperature."
+        },
+        {
+            "3": "Blend softened cream cheese and prepared gelatin until smooth. Mix in cooled pineapple."
+        },
+        {
+            "4": "Beat cream in a chilled glass or metal bowl with an electric mixer until soft peaks form; fold into gelatin mixture. Fold in chopped nuts. Pour into a pretty glass bowl, and refrigerate for at least 4 hours, or until set."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": " 5 hrs"
+        },
+        {
+            "Total Time": " 5 hrs 25 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "412"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9138025.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe46d95ce895aa09896270f1f3d743da1%2F7448411.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7289041.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1360577.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Tasty Tomatillo Guacamole",
+    "Category": "Guacamole",
+    "Ingredients": [
+        {
+            "1": "6  fresh tomatillos, husks discarded and tomatillos rinsed"
+        },
+        {
+            "2": "1  white onion, quartered"
+        },
+        {
+            "3": "2 cloves garlic"
+        },
+        {
+            "4": "2  jalapeno peppers, seeded if desired"
+        },
+        {
+            "5": "0.5 cups water, or amount to cover"
+        },
+        {
+            "6": "1 salt to taste"
+        },
+        {
+            "7": "0.25 cup chopped fresh cilantro"
+        },
+        {
+            "8": "1 tablespoon fresh lime juice, or to taste"
+        },
+        {
+            "9": "3  ripe avocados, halved lengthwise and pitted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place tomatillos, onion, garlic, and jalapeno peppers into a saucepan over medium heat, and pour in enough water to cover. Bring the mixture to a boil, reduce heat, and simmer until the tomatillos soften and change color from bright green to a yellow-green color, 5 to 8 minutes."
+        },
+        {
+            "2": "With a slotted spoon, transfer vegetables to a blender, filling the pitcher no more than halfway full. Hold down the lid of the blender with a folded kitchen towel, and carefully start the blender, using a few quick pulses to get the tomatillo mixture moving before leaving it on to puree. Puree until smooth, about 1 minute; mix in salt, cilantro, and lime juice. Blend again for a few seconds just to mix."
+        },
+        {
+            "3": "Scoop out the avocado flesh, and place into the blender; blend until well mixed. Adjust salt, cilantro, and lime juice before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "48"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9155354.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5899325.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2f89fe30840873411f3645665054fe03%2F4574456.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F826518.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

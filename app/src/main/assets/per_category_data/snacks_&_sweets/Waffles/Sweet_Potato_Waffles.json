@@ -1,0 +1,105 @@
+{
+    "title": "Sweet Potato Waffles",
+    "Category": "Waffles",
+    "Ingredients": [
+        {
+            "1": "1  sweet potato"
+        },
+        {
+            "2": "1 cup flour"
+        },
+        {
+            "3": "2 teaspoons baking powder"
+        },
+        {
+            "4": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "0.25 cups milk"
+        },
+        {
+            "7": "2  eggs"
+        },
+        {
+            "8": "3 tablespoons melted butter"
+        },
+        {
+            "9": "1 tablespoon brown sugar"
+        },
+        {
+            "10": "1 teaspoon lime juice"
+        },
+        {
+            "11": "0.5 teaspoon vanilla extract"
+        },
+        {
+            "12": "0.5 teaspoon grated lime zest"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pierce a sweet potato with a fork and place in a microwave-safe bowl; heat in microwave until tender, 5 to 10 minutes. Cool and measure out 3/4 cup sweet potato, reserving the rest for another use."
+        },
+        {
+            "2": "Preheat a waffle iron according to manufacturer's instructions."
+        },
+        {
+            "3": "Combine flour, baking powder, cinnamon, and salt together in a large bowl."
+        },
+        {
+            "4": "Mix sweet potato, eggs, melted butter, brown sugar, lime juice, vanilla extract, and grated lime zest together in a bowl. Pour sweet potato mixture into the flour mixture; stir until batter is smooth."
+        },
+        {
+            "5": "Spoon batter into the waffle iron and cook according to manufacturer's instructions until golden brown, about 5 minutes. Repeat with remaining batter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 waffles"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "171"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8875794.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7703795.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4588426.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4470150.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

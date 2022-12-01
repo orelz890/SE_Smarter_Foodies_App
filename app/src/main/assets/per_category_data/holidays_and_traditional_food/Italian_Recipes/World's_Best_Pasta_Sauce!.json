@@ -1,0 +1,105 @@
+{
+    "title": "World's Best Pasta Sauce!",
+    "Category": "Italian Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound sweet Italian sausage, sliced"
+        },
+        {
+            "2": "0.75 pound lean ground beef"
+        },
+        {
+            "3": "0.5 cup minced onion"
+        },
+        {
+            "4": "2 cloves garlic, crushed"
+        },
+        {
+            "5": "1 (28 ounce) can crushed tomatoes"
+        },
+        {
+            "6": "2 (6.5 ounce) cans tomato sauce"
+        },
+        {
+            "7": "2 (6 ounce) cans tomato paste"
+        },
+        {
+            "8": "0.5 cup water"
+        },
+        {
+            "9": "2 tablespoons white sugar"
+        },
+        {
+            "10": "0.5 teaspoons dried basil"
+        },
+        {
+            "11": "1 teaspoon Italian seasoning"
+        },
+        {
+            "12": "0.5 teaspoon fennel seed"
+        },
+        {
+            "13": "0.5 teaspoon salt"
+        },
+        {
+            "14": "0.25 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook sausage, beef, onion, and garlic in a large pot or Dutch oven over medium heat until browned; drain fat."
+        },
+        {
+            "2": "Stir in crushed tomatoes, tomato sauce, tomato paste, and water. Mix in sugar, basil, Italian seasoning, fennel seed, salt, and pepper."
+        },
+        {
+            "3": "Cover and simmer, stirring occasionally, until cooked through, about 1 1/2 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 40 mins"
+        },
+        {
+            "Total Time": " 1 hrs 55 mins"
+        },
+        {
+            "Servings": "16 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "157"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe8602d93c26db61d85b77642892bc783%2F1662495932image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9319429.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8868012.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8617047.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/H70ADp_2SrNSonDgvNfI8h-hGWs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/670610-70c903ebca004ac7a7cffed255113fc6.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Sous Vide Corned Beef",
+    "Category": "St. Patrick's Day Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (3 pound) corned beef brisket with spice packet"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a large pot with water and place a sous vide immersion cooker into the water. Set temperature to 140 degrees F (60 degrees C) according to manufacturer's instructions."
+        },
+        {
+            "2": "Rinse corned beef under cool water to remove excess salt, then pat dry. Sprinkle seasoning on fatty side and press into meat. Place corned beef into a large vacuum bag. Seal using a vacuum sealer."
+        },
+        {
+            "3": "Place bag into the water and set timer for 48 hours. Transfer corned beef to a cutting board and slice across the grain."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "2 days"
+        },
+        {
+            "Total Time": "2 days 5 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 3-pound corned beef"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "125"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "0g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7768073.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,114 @@
+{
+    "title": "Irish Lamb Stew",
+    "Category": "Stew",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds thickly sliced bacon, diced"
+        },
+        {
+            "2": "6 pounds boneless lamb shoulder, cut into 2 inch pieces"
+        },
+        {
+            "3": "0.5 cup all-purpose flour"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "6": "1 large onion, chopped"
+        },
+        {
+            "7": "3 cloves garlic, minced"
+        },
+        {
+            "8": "0.5 cup water"
+        },
+        {
+            "9": "4 cups beef stock"
+        },
+        {
+            "10": "2 teaspoons white sugar"
+        },
+        {
+            "11": "4 cups diced carrots"
+        },
+        {
+            "12": "3  potatoes, peeled and cubed"
+        },
+        {
+            "13": "2 large onions, cut into bite-size pieces"
+        },
+        {
+            "14": "1 cup white wine"
+        },
+        {
+            "15": "1 teaspoon dried thyme"
+        },
+        {
+            "16": "2  bay leaves"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large skillet and cook over medium-high heat, stirring occasionally, until evenly browned, about 10 minutes. Use a slotted spoon to transfer bacon to a paper towel-lined plate to drain. Reserve bacon fat in the skillet."
+        },
+        {
+            "2": "Place lamb, flour, salt, and pepper in a large mixing bowl; toss to coat evenly. Brown lamb in bacon fat in the skillet over medium-high heat. Transfer browned meat into a stockpot, leaving 1/4 cup of fat in the skillet."
+        },
+        {
+            "3": "Cook onion and garlic in reserved fat in the skillet over medium heat until onion is golden. Deglaze the skillet with water, then pour onion mixture into the stockpot. Add bacon, beef stock, and sugar to the stockpot. Cover and simmer for 1 1/2 hours."
+        },
+        {
+            "4": "Add carrots, potatoes, onions, wine, thyme, and bay leaves to the stockpot. Reduce heat and simmer, covered, until vegetables are tender, about 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 2 hrs 25 mins"
+        },
+        {
+            "Total Time": " 2 hrs 45 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "672"
+        },
+        {
+            "Fat": "39g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "46g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F35445e42d070d908070724f289010073%2F165967853620220805_004500-COLLAGE.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9049983.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8528874.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8313826.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/A6ErKbJpnLytEA2yFzPZsa6US1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2432842-31fcf9510537493a9895a105c507b56a.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

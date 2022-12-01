@@ -1,0 +1,102 @@
+{
+    "title": "Shrimp and Grits Louisiana Style",
+    "Category": "Grits",
+    "Ingredients": [
+        {
+            "1": "1 cup water"
+        },
+        {
+            "2": "1 pinch salt"
+        },
+        {
+            "3": "6 tablespoons grits"
+        },
+        {
+            "4": "2 tablespoons olive oil"
+        },
+        {
+            "5": "0.5 cup diced tasso ham"
+        },
+        {
+            "6": "2 tablespoons diced onion"
+        },
+        {
+            "7": "2 tablespoons diced green bell pepper"
+        },
+        {
+            "8": "20  medium shrimp, peeled and deveined"
+        },
+        {
+            "9": "0.25 cup white wine"
+        },
+        {
+            "10": "1 cup heavy whipping cream"
+        },
+        {
+            "11": "1 salt and ground black pepper to taste"
+        },
+        {
+            "12": "1 tablespoon chopped green onion, green parts only"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring water and 1 pinch of salt to a boil in a saucepan and slowly mix in the grits, stirring constantly. Reduce heat to low and simmer grits until tender and smooth, about 20 minutes; stir often. Set aside and keep warm."
+        },
+        {
+            "2": "Heat olive oil in a large skillet over medium-high heat; cook and stir tasso ham until crisp. Stir in onion and green bell pepper and cook until onion is translucent, about 4 minutes. Lightly stir the shrimp with the vegetables and olive oil just until pink, 30 to 45 seconds; remove shrimp from pan and set aside."
+        },
+        {
+            "3": "Pour white wine into the skillet and stir, dissolving any browned bits of food in the bottom of the skillet; slowly add the cream, reduce heat to low, and simmer until thickened, about 10 minutes. Season with salt and black pepper."
+        },
+        {
+            "4": "Divide the grits onto 2 serving plates and line the edge of each plate with 10 shrimp. Pour cream sauce over grits and sprinkle each serving with chopped green onion tops."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "677"
+        },
+        {
+            "Fat": "60g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9146612.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7911942.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7638080.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6944308.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

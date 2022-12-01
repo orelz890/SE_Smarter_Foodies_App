@@ -1,0 +1,59 @@
+{
+    "title": "Pudding Shots",
+    "Category": "New Year's Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup milk"
+        },
+        {
+            "2": "0.5 cup Irish cream liqueur (eg. Bailey's\u00ae)"
+        },
+        {
+            "3": "0.5 cup vodka (eg. Smirnoff\u00ae)"
+        },
+        {
+            "4": "1 (3.9 ounce) package instant chocolate pudding mix"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk milk, Irish cream liqueur, vodka, and instant pudding mix together in a bowl until thoroughly combined, about 2 minutes."
+        },
+        {
+            "2": "Spoon the pudding mixture into shot glasses or disposable party shot cups. Chill until set, about 30 minutes. The shots will have the consistency of mousse."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "15 "
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fed7bd739e1a0a71eda2a16257a9d6b1f%2F4488244.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2981194.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F807175.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F625232.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/8FWdeZ48OQNgYGA2fgmrSIkOy8s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/807175-c6c448fdf5d14f18ac626d9c368ed1e4.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

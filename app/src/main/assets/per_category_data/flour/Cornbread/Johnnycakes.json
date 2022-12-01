@@ -1,0 +1,66 @@
+{
+    "title": "Johnnycakes",
+    "Category": "Cornbread",
+    "Ingredients": [
+        {
+            "1": "2 cups stone ground cornmeal"
+        },
+        {
+            "2": "1 teaspoon salt"
+        },
+        {
+            "3": "4 tablespoons unsalted butter"
+        },
+        {
+            "4": "1 cup whole milk"
+        },
+        {
+            "5": "2 tablespoons boiling water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cream the cornmeal, salt, and butter together. Add the milk and enough water to make a moist but firm batter."
+        },
+        {
+            "2": "Drop by large spoonfuls onto a hot greased griddle, and flatten slightly with the back of a spoon. When brown, turn and cook the other side."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 johnnycakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "144"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8626951.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8069888.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7864270.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6774720.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

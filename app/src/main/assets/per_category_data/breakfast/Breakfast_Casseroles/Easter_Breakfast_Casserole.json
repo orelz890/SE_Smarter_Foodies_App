@@ -1,0 +1,90 @@
+{
+    "title": "Easter Breakfast Casserole",
+    "Category": "Breakfast Casseroles",
+    "Ingredients": [
+        {
+            "1": "1 pound bacon"
+        },
+        {
+            "2": "0.25 cup diced onion"
+        },
+        {
+            "3": "0.25 cup diced green bell pepper"
+        },
+        {
+            "4": "3 cups shredded Cheddar cheese"
+        },
+        {
+            "5": "8  eggs"
+        },
+        {
+            "6": "2 cups milk"
+        },
+        {
+            "7": "1 (16 ounce) package frozen hash brown potatoes, thawed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 7x11 inch casserole dish."
+        },
+        {
+            "2": "Fry the bacon in a large, deep skillet over medium-high heat until evenly browned, about 10 minutes. Drain on a paper towel-lined plate. Crumble."
+        },
+        {
+            "3": "In a large bowl beat together eggs and milk. Mix in cheese, bacon, onion and green pepper. Stir in the thawed hash browns. Pour mixture into prepared casserole."
+        },
+        {
+            "4": "Cover with aluminum foil and bake in preheated oven for 45 minutes. Uncover and bake for another 30 minutes until eggs have set."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "281"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9369077.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9136538.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9132969.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8959325.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/9NfN-mWH2QxAghXy9ocTazXe1Ng=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4556853-easter-breakfast-casserole-AllrecipesPhoto-1x1-1-3cba620ee76b4a328dbbf8ad1c51e776.jpg"
+        }
+    ],
+    "main category": "breakfast"
+}

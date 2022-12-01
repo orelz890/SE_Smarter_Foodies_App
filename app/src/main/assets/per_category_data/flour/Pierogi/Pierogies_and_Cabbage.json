@@ -1,0 +1,90 @@
+{
+    "title": "Pierogies and Cabbage",
+    "Category": "Pierogi",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons vegetable oil, divided"
+        },
+        {
+            "2": "1 (16 ounce) package frozen potato and cheese filled pierogies"
+        },
+        {
+            "3": "0.25 pound bacon, diced"
+        },
+        {
+            "4": "0.5 small head cabbage, chopped"
+        },
+        {
+            "5": "1 large onion, thinly sliced"
+        },
+        {
+            "6": "2 medium tomatoes, chopped"
+        },
+        {
+            "7": "2 teaspoons white wine vinegar"
+        },
+        {
+            "8": "0.5 teaspoon white sugar"
+        },
+        {
+            "9": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat 1 tablespoon oil in a large skillet over medium heat. Add frozen pierogies and cook, turning occasionally, until golden brown, about 8 minutes per side. Keep warm until ready to serve."
+        },
+        {
+            "2": "At the same time, cook bacon in a large, deep skillet over medium-high heat until evenly browned, 7 to 10 minutes. Remove bacon to a paper towel-lined plate, reserving drippings in the pan."
+        },
+        {
+            "3": "Add cabbage and onion to the bacon drippings. Stir, cover, and cook over medium heat for 10 minutes. Stir in tomatoes, remaining 1 tablespoon oil, vinegar, sugar, and salt. Add bacon and cook, uncovered, for 5 minutes."
+        },
+        {
+            "4": "Combine pierogies with the cabbage mixture and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "404"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8964776.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8602168.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8246865.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4107475.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

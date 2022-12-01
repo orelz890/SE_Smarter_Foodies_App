@@ -1,0 +1,63 @@
+{
+    "title": "Southern-Style Vanilla Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "4  lemons"
+        },
+        {
+            "2": "0.75 cup white sugar"
+        },
+        {
+            "3": "0.25 teaspoon vanilla extract"
+        },
+        {
+            "4": "6 cups cold water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cut the lemons in half and scoop the pulp into a blender. Add half of the rinds along with sugar, vanilla extract, and 2 cups of water. Blend until smooth, then strain into a serving pitcher and stir in the remaining water."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "112"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9212852.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2024285.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F417141.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

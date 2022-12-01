@@ -1,0 +1,135 @@
+{
+    "title": "Detroit-Style Pizza",
+    "Category": "Pizza",
+    "Ingredients": [
+        {
+            "1": "1 For the Dough-"
+        },
+        {
+            "2": "1 cup warm water"
+        },
+        {
+            "3": "1 (.25 ounce) package active dry yeast"
+        },
+        {
+            "4": "1 teaspoon white sugar"
+        },
+        {
+            "5": "3 teaspoons olive oil, divided"
+        },
+        {
+            "6": "1 teaspoon kosher salt"
+        },
+        {
+            "7": "1.0 cups bread flour"
+        },
+        {
+            "8": "1 For the Sauce-"
+        },
+        {
+            "9": "1 (24 ounce) jar marinara sauce"
+        },
+        {
+            "10": "1 dried oregano"
+        },
+        {
+            "11": "1 teaspoon red pepper flakes"
+        },
+        {
+            "12": "1 teaspoon garlic powder"
+        },
+        {
+            "13": "1 Toppings-"
+        },
+        {
+            "14": "1 (8 ounce) package shredded Monterey Jack cheese"
+        },
+        {
+            "15": "0.5 (8 ounce) package mild Cheddar cheese"
+        },
+        {
+            "16": "1 (8 ounce) package thick pepperoni slices"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour warm water into the bowl of stand mixer; mix in yeast and sugar and let dissolve. Add 2 teaspoons olive oil, salt, and bread flour. Knead mixture together with a dough hook attachment until dough is very smooth, soft, and elastic."
+        },
+        {
+            "2": "Drizzle remaining olive oil over the bottom of a 10x14-inch Detroit-style pizza pan and spread around with your fingers. Place dough in the center; pull and stretch into a roughly rectangular shape with oiled fingers. Cover and let rise until doubled in volume, about 1 hour. Prepare sauce and cheese in the meantime."
+        },
+        {
+            "3": "Combine marinara sauce, oregano, red pepper flakes, and garlic powder in a saucepan over medium-low heat. Simmer to fully hydrate the oregano and garlic, about 15 minutes."
+        },
+        {
+            "4": "Preheat the oven to 500 to 550 degrees F (260 to 288 degrees C)."
+        },
+        {
+            "5": "Dice Monterey Jack and Cheddar cheese into small cubes. Toss lightly to mix together."
+        },
+        {
+            "6": "Rub fingertips with some olive oil from the pan. Press out air from the dough while stretching and pushing into a rectangle that goes all the way to the edges of the pan. Stretch up the sides about 1/2 inch or so."
+        },
+        {
+            "7": "Lay most of the pepperoni onto the dough. Scatter cheese cubes evenly on top, making sure to fully cover all the edges where dough meets the pan. Ladle sauce on top in 3 long strips. Arrange remaining pepperoni over the sauce."
+        },
+        {
+            "8": "Bake in the preheated oven until pizza is somewhere between golden brown and golden black, about 15 minutes. Let cool for 5 minutes."
+        },
+        {
+            "9": "Very carefully slide pizza onto a cutting board using a spatula. Cut into individual pieces using the lines of sauce as a guide."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 14x10 detroit-style pizza"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "354"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9368190.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9180890.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9118910.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9107465.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/k6Ujz3dHNCGVNyfc34tyeO_owtE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5822211-detroit-style-pizza-Chef-John-1x1-1-49215a22362a4464bc0c34157deceadd.jpg"
+        }
+    ],
+    "main category": "pizza"
+}

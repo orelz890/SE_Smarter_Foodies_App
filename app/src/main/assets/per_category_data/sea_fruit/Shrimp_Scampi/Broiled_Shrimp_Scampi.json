@@ -1,0 +1,72 @@
+{
+    "title": "Broiled Shrimp Scampi",
+    "Category": "Shrimp Scampi",
+    "Ingredients": [
+        {
+            "1": "2 pounds medium shrimp, peeled and deveined"
+        },
+        {
+            "2": "0.5 cup butter, melted"
+        },
+        {
+            "3": "2 cloves garlic, minced"
+        },
+        {
+            "4": "0.25 cup dry white wine"
+        },
+        {
+            "5": "3  green onions, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat broiler to 500 degrees (260 degrees C)."
+        },
+        {
+            "2": "Stir shrimp together with butter, garlic and wine. Place on a baking sheet and broil for 10 minutes. Sprinkle on scallions and broil for another 2 to 3 minutes, until shrimp are firm. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "432"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "45g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5931974.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F221258.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F15453.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "sea_fruit"
+}

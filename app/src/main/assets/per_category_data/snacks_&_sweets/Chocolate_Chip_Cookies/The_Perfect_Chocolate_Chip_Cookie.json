@@ -1,0 +1,96 @@
+{
+    "title": "The Perfect Chocolate Chip Cookie",
+    "Category": "Chocolate Chip Cookies",
+    "Ingredients": [
+        {
+            "1": "1.0 cups all-purpose flour"
+        },
+        {
+            "2": "1 teaspoon baking soda"
+        },
+        {
+            "3": "0.5 teaspoon salt"
+        },
+        {
+            "4": "1 cup vegetable oil"
+        },
+        {
+            "5": "1 cup packed brown sugar"
+        },
+        {
+            "6": "0.5 cup white sugar"
+        },
+        {
+            "7": "2  eggs"
+        },
+        {
+            "8": "1 teaspoon vanilla extract"
+        },
+        {
+            "9": "1 teaspoon almond extract"
+        },
+        {
+            "10": "1 cup semisweet chocolate chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Stir together the flour, baking soda and salt; set aside."
+        },
+        {
+            "2": "In a large bowl, cream together the vegetable oil, brown sugar and white sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla and almond extracts. Blend in the dry ingredients, then fold in the chocolate chips. Drop by rounded spoonfuls onto ungreased cookie sheets."
+        },
+        {
+            "3": "Bake for 8 to 10 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "2 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "219"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd770971c25f89c28a0c9d71d6b672fc5%2F166302125816630212467537637778488874222453.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9023596.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9023585.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8971388.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

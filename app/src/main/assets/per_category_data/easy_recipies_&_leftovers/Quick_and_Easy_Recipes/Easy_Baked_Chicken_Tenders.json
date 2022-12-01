@@ -1,0 +1,111 @@
+{
+    "title": "Easy Baked Chicken Tenders",
+    "Category": "Quick and Easy Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "1 large egg, beaten"
+        },
+        {
+            "3": "0.25 cups panko bread crumbs"
+        },
+        {
+            "4": "2 teaspoons garlic powder"
+        },
+        {
+            "5": "1 teaspoon onion powder"
+        },
+        {
+            "6": "1 teaspoon ground paprika"
+        },
+        {
+            "7": "1 teaspoon kosher salt"
+        },
+        {
+            "8": "1 teaspoon ground black pepper"
+        },
+        {
+            "9": "4  skinless, boneless chicken tenders, cut into 1/2-inch strips lengthwise"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 450 degrees F (230 degrees C). Line a baking sheet with aluminum foil and spray with cooking spray."
+        },
+        {
+            "2": "Place egg in a shallow dish. Place panko, garlic powder, onion powder, paprika, salt, and pepper into a large zip-top freezer bag and mix well."
+        },
+        {
+            "3": "Dip 2 chicken strips into egg, then place into panko mixture and shake to coat. Place coated chicken pieces onto the prepared baking sheet. Repeat with remaining chicken."
+        },
+        {
+            "4": "Spray each chicken tender with cooking spray twice."
+        },
+        {
+            "5": "Bake tenders in the preheated oven for 7 minutes. Flip and continue to bake on opposite side until no longer pink in the centers, about 7 minutes more. Remove from the oven."
+        },
+        {
+            "6": "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler."
+        },
+        {
+            "7": "Broil tenders in the preheated oven for extra crunch, about 1 to 2 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "172"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F49f128b080c601faca60fae4c3507559%2F1667522778601EFBC3581-17EC-476F-9ACF-19682CDAD86B.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6978b78c3f357f3122348b636de486b1%2F166006987120220809_132525%7E2.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8991886.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6804792.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Zw6XqplGnbgPBhRrEG6tQFeqEzc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9461753_Easy-Baked-Chicken-Tenders-4x3-1-8a7b93a64292401986f839a5374d0fc8.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/oR9g5AsL72ejxBqHs2SctDXcX7w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1060187-Homemade-Ketchup-232397-Chef-John-42d824b0de0d4227aefc164c646bd99f.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/s_Ko4xztGnjB-GReZy8ac52h8Qg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3678575-0093b22dee824fe3974ab37798153262.jpg"
+        },
+        {
+            "img8": "https://www.allrecipes.com/thmb/d1Qyef5Lu6QEPILeWHhRVNAOyoI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/273852-easy-baked-chicken-tenders-ddmfs-1x1-1-8281d65abf7e472ca3cfc614ca0c88c1.jpg"
+        }
+    ],
+    "main category": "easy_recipies_&_leftovers"
+}

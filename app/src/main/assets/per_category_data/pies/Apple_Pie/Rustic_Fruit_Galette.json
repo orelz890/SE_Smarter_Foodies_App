@@ -1,0 +1,81 @@
+{
+    "title": "Rustic Fruit Galette",
+    "Category": "Apple Pie",
+    "Ingredients": [
+        {
+            "1": "4 cups thinly sliced apples"
+        },
+        {
+            "2": "2 tablespoons white sugar, or more to taste"
+        },
+        {
+            "3": "1 tablespoon cornstarch"
+        },
+        {
+            "4": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "5": "0.5 teaspoon vanilla extract"
+        },
+        {
+            "6": "1 (9 inch) prepared pie crust (such as Pillsbury\u00ae)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Grease a baking sheet."
+        },
+        {
+            "2": "Combine apples, sugar, cornstarch, cinnamon, and vanilla extract together in a bowl. Place pie crust on the prepared baking sheet. Spoon apple mixture into the center of crust, leaving a 2-inch border. Fold crust over the edges of the apple mixture."
+        },
+        {
+            "3": "Bake in the preheated oven until apples are tender and crust is golden, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "319"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9331348.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9106852.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7879206.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6ca75a139fd44bbed0d46968cca29d71%2F7387699.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

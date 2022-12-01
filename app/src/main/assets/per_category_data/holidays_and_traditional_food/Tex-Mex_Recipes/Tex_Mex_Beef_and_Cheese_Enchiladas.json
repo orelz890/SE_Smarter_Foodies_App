@@ -1,0 +1,105 @@
+{
+    "title": "Tex-Mex Beef and Cheese Enchiladas",
+    "Category": "Tex-Mex Recipes",
+    "Ingredients": [
+        {
+            "1": "2 pounds ground beef"
+        },
+        {
+            "2": "3 tablespoons chili powder"
+        },
+        {
+            "3": "2 tablespoons paprika"
+        },
+        {
+            "4": "1 tablespoon ground cumin"
+        },
+        {
+            "5": "1 tablespoon garlic powder"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "1 (8 ounce) can tomato sauce"
+        },
+        {
+            "8": "4 cups water"
+        },
+        {
+            "9": "0.5 cup all-purpose flour, divided"
+        },
+        {
+            "10": "0.5 teaspoons sugar"
+        },
+        {
+            "11": "2 tablespoons cooking oil"
+        },
+        {
+            "12": "12 (6 inch) corn tortillas"
+        },
+        {
+            "13": "4 cups shredded American cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Heat ground beef in a large skillet over medium heat. Cook, stirring to crumble, until no longer pink. Drain off grease and season with chili powder, paprika, cumin, garlic powder, and salt. Mix in tomato sauce and 2 cups water. Simmer over low heat."
+        },
+        {
+            "3": "Mix remaining water with flour and sugar until flour is dissolved; stir into the simmering meat sauce. Simmer until thickened, about 10 minutes."
+        },
+        {
+            "4": "While the sauce is cooking, heat oil in another skillet over medium-high heat. Warm tortillas in hot oil until pliable. Fill each tortilla with a little bit of cheese, and place in a 9x13-inch baking dish, reserving some of the cheese to sprinkle on top. Pour meat sauce evenly over the rolled tortillas. Top with remaining cheese."
+        },
+        {
+            "5": "Bake for 25 minutes in the preheated oven, until cheese is melted and lightly browned."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "794"
+        },
+        {
+            "Fat": "49g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "47g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9162581.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fba4cddca007f5d3e81c2c1e95120754d%2F6387964.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F71d99379905d554aafe80f8c394152a9%2F6301989.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4089832.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Cream of Mushroom Soup II",
+    "Category": "Mushroom Soup",
+    "Ingredients": [
+        {
+            "1": "1 pound fresh mushrooms"
+        },
+        {
+            "2": "0.25 cup salted butter"
+        },
+        {
+            "3": "4  green onions, thinly sliced"
+        },
+        {
+            "4": "3 cloves garlic, chopped"
+        },
+        {
+            "5": "1 teaspoon chopped fresh thyme"
+        },
+        {
+            "6": "2 tablespoons all-purpose flour"
+        },
+        {
+            "7": "4 cups vegetable broth"
+        },
+        {
+            "8": "1 cup light cream"
+        },
+        {
+            "9": "1 salt and pepper to taste"
+        },
+        {
+            "10": "1 sprig fresh thyme leaves"
+        },
+        {
+            "11": "1 tablespoon chopped fresh chives"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Thinly slice the mushroom caps, discarding the stalks."
+        },
+        {
+            "2": "Melt the butter in a heavy-based pan and cook the spring onion, garlic and lemon thyme, stirring, for 1 minute, or until the garlic is golden. Add the mushroom and salt and white pepper. Cook for 3 to 4 minutes, or until the mushroom just softens. Add flour and cook, stirring for 1 minute."
+        },
+        {
+            "3": "Remove from the heat and add the stock, stirring continuously. Return to the heat and bring to the boil, stirring. Reduce the heat and simmer gently for 2 minutes, stirring occasionally."
+        },
+        {
+            "4": "Whisk the cream into the soup, then reheat gently, stirring. Do not allow the soup to boil. Season to taste with salt and pepper, and garnish with the chopped chives and thyme."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "297"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9143687.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8996658.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8606473.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6665781.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

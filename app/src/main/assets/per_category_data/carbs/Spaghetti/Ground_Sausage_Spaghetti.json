@@ -1,0 +1,90 @@
+{
+    "title": "Ground Sausage Spaghetti",
+    "Category": "Spaghetti",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package spaghetti"
+        },
+        {
+            "2": "1 pound ground sausage"
+        },
+        {
+            "3": "0.5  onion, chopped"
+        },
+        {
+            "4": "0.5  green bell pepper, chopped"
+        },
+        {
+            "5": "2 tablespoons margarine"
+        },
+        {
+            "6": "1 (14.5 ounce) can diced tomatoes"
+        },
+        {
+            "7": "1 (6 ounce) can tomato sauce"
+        },
+        {
+            "8": "0.5 teaspoon Italian seasoning"
+        },
+        {
+            "9": "0.25 cup grated Parmesan cheese, or more to taste"
+        },
+        {
+            "10": "0.25 cup shredded mozzarella cheese, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until cooked through but firm to the bite, about 12 minutes. Drain."
+        },
+        {
+            "2": "Cook and stir sausage in a large skillet over medium-high heat until browned and crumbly, 5 to 7 minutes. Drain and discard grease. Stir onion, bell pepper, and margarine into sausage. Reduce heat to low, cover, and cook until onion is soft, 3 to 5 minutes."
+        },
+        {
+            "3": "Stir tomatoes, tomato sauce, and Italian seasoning into sausage mixture; bring to a boil. Stir in Parmesan cheese and pour over cooked spaghetti. Top with mozzarella."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "558"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "63g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8304855.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4538358.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1060537.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Momma's Sloppy Joes",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "1 pound ground turkey"
+        },
+        {
+            "2": "1 cup ketchup"
+        },
+        {
+            "3": "2 tablespoons white sugar"
+        },
+        {
+            "4": "2 tablespoons white vinegar"
+        },
+        {
+            "5": "2 tablespoons yellow mustard"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the turkey in a large skillet over medium heat, cook until evenly brown, and drain."
+        },
+        {
+            "2": "In a large saucepan over medium heat, mix the ketchup, sugar, vinegar, and mustard. Mix in the turkey. Cook, stirring often, 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "170"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8004370.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4696128.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3259254.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2141198.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

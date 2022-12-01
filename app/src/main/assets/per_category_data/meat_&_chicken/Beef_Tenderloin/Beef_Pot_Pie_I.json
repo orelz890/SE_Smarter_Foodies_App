@@ -1,0 +1,111 @@
+{
+    "title": "Beef Pot Pie I",
+    "Category": "Beef Tenderloin",
+    "Ingredients": [
+        {
+            "1": "1 (17.5 ounce) package frozen puff pastry, thawed"
+        },
+        {
+            "2": "4 tablespoons olive oil"
+        },
+        {
+            "3": "1 cup chopped onion"
+        },
+        {
+            "4": "1 teaspoon minced garlic"
+        },
+        {
+            "5": "1 cup raw porcini mushrooms"
+        },
+        {
+            "6": "1 cup chopped carrots"
+        },
+        {
+            "7": "0.5 cup chopped celery"
+        },
+        {
+            "8": "1  potato, diced"
+        },
+        {
+            "9": "1 pound beef tenderloin, cubed"
+        },
+        {
+            "10": "1  bay leaf"
+        },
+        {
+            "11": "1 teaspoon dried oregano"
+        },
+        {
+            "12": "1 cup dry Marsala wine"
+        },
+        {
+            "13": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "14": "1  egg white"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "In a large skillet, cook bay leaf, oregano, onions and mushrooms in olive oil until soft. Stir in garlic, carrots, celery, potatoes, and meat."
+        },
+        {
+            "3": "Cook and stir for 10 minutes, or until meat starts to brown. Pour in wine. Bring to a boil, and reduce heat to simmer. Simmer for 35 to 45 minutes."
+        },
+        {
+            "4": "Place in pie dish, sprinkle with parsley, and cover with pastry. Brush with egg whites."
+        },
+        {
+            "5": "Bake at 350 degrees F (175 degrees C) for 45 minutes to 1 hour."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": " 1 hrs"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 2 hrs"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 9-inch deep dish pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "861"
+        },
+        {
+            "Fat": "58g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8740220.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8676199.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4534905.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4549847.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

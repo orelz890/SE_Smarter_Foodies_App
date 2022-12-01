@@ -1,0 +1,108 @@
+{
+    "title": "Delicious Spinach and Turkey Lasagna",
+    "Category": "Lasagna",
+    "Ingredients": [
+        {
+            "1": "9  whole-wheat lasagna noodles"
+        },
+        {
+            "2": "1 teaspoon olive oil"
+        },
+        {
+            "3": "0.5 cup chopped onion"
+        },
+        {
+            "4": "1 pound ground turkey breast"
+        },
+        {
+            "5": "3 cups tomato sauce"
+        },
+        {
+            "6": "0.5 cup sliced fresh mushrooms"
+        },
+        {
+            "7": "3 tablespoons Italian seasoning"
+        },
+        {
+            "8": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "9": "0.25 teaspoon garlic powder"
+        },
+        {
+            "10": "6 cups chopped fresh spinach"
+        },
+        {
+            "11": "2 cups fat-free ricotta cheese"
+        },
+        {
+            "12": "0.25 teaspoon ground nutmeg"
+        },
+        {
+            "13": "2 cups shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water."
+        },
+        {
+            "3": "Heat the olive oil in a skillet over medium heat. Stir in the onion; cook and stir until the onion has softened and turned translucent, about 2 minutes. Add ground turkey and cook 5 to 7 minutes more, stirring to break up any large chunks of meat. Stir in tomato sauce, mushrooms, Italian seasoning, black pepper, and garlic powder. Simmer for 2 minutes and season to taste."
+        },
+        {
+            "4": "Combine spinach, ricotta, and nutmeg in a large bowl."
+        },
+        {
+            "5": "To assemble, arrange 3 noodles lengthwise in the bottom of a greased 9x13 inch baking dish. Spread with 1/3 the ricotta mixture, 1/3 of the turkey mixture, and 1/3 of the mozzarella. Repeat layers, ending with remaining mozzarella. Bake in preheated oven for 25 minutes. Cool for 5 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "326"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "33g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4e9ac2478e7067b9d232835bacccc60f%2F166202988545B96FD4-D49B-48DA-B051-1618740D1547.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8912092.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8683300.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8566034.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

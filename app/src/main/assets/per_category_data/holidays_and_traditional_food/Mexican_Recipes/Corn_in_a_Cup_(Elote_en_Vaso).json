@@ -1,0 +1,90 @@
+{
+    "title": "Corn in a Cup (Elote en Vaso)",
+    "Category": "Mexican Recipes",
+    "Ingredients": [
+        {
+            "1": "10 ears corn, shucked and kernels removed"
+        },
+        {
+            "2": "0.25 cups butter"
+        },
+        {
+            "3": "1.0 cups lime juice"
+        },
+        {
+            "4": "1.0 cups crema Mexicana (Mexican cream)"
+        },
+        {
+            "5": "0.25 teaspoons chili powder, or to taste"
+        },
+        {
+            "6": "1 salt to taste"
+        },
+        {
+            "7": "0.25 cups crumbled cotija cheese"
+        },
+        {
+            "8": "10 dashes hot pepper sauce (Optional)"
+        },
+        {
+            "9": "10 wedges fresh lime"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place corn kernels in a saucepan and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, 2 to 3 minutes. Drain and return corn to the saucepan to dry."
+        },
+        {
+            "2": "Spoon 3/4 cup corn into each of 10 serving bowls. Stir 2 tablespoons butter into each bowl until melted. Mix 1/4 cup lime juice and 1/4 cup crema Mexicana into each bowl. Sprinkle 1/8 teaspoon chili powder on top and season with salt."
+        },
+        {
+            "3": "Top each serving with 2 tablespoons cotija cheese, a dash of hot sauce, and a lime wedge."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "564"
+        },
+        {
+            "Fat": "52g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9182365.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9167418.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9167359.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2297272.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ApJ3Eq4Zo_KeQxXv_A-OWnQCgzQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/242204-corn-in-a-cup-elote-en-vaso-ddmfs-1x1-0121-d6e18cbd26c246eb9a1ac4698ee7fbed.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

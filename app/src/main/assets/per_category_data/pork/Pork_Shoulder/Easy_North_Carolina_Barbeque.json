@@ -1,0 +1,90 @@
+{
+    "title": "Easy North Carolina Barbeque",
+    "Category": "Pork Shoulder",
+    "Ingredients": [
+        {
+            "1": "1 (5 pound) pork butt roast"
+        },
+        {
+            "2": "2 cups white vinegar"
+        },
+        {
+            "3": "1 cup butter, melted"
+        },
+        {
+            "4": "2 tablespoons salt"
+        },
+        {
+            "5": "2 tablespoons lemon juice"
+        },
+        {
+            "6": "2 tablespoons crushed red pepper flakes"
+        },
+        {
+            "7": "1 tablespoon hot sauce"
+        },
+        {
+            "8": "1 tablespoon ground black pepper"
+        },
+        {
+            "9": "2 tablespoons white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Trim the fat from the roast; place in slow cooker and cook on Low overnight, at least 8 hours."
+        },
+        {
+            "2": "To make the sauce, whisk together the vinegar, melted butter, salt, lemon juice, crushed red pepper, hot sauce, black pepper, and sugar in a bowl."
+        },
+        {
+            "3": "Carefully remove the roast to a cutting board. Pull the meat from the bone with a fork. Return the pork to the slow cooker. Pour the sauce over the pulled pork. Simmer for 1 hour more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 9 hrs"
+        },
+        {
+            "Total Time": " 9 hrs 10 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "449"
+        },
+        {
+            "Fat": "38g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9318964.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8710631.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0df0b107ca83d503e4c558fbf9de2b92%2F5716009.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2942036.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

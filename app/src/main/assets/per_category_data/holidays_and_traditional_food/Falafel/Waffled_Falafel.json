@@ -1,0 +1,108 @@
+{
+    "title": "Waffled Falafel",
+    "Category": "Falafel",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "2 (15 ounce) cans garbanzo beans (chickpeas), drained and rinsed"
+        },
+        {
+            "3": "1 medium onion, chopped"
+        },
+        {
+            "4": "2  large egg whites"
+        },
+        {
+            "5": "0.25 cup chopped fresh cilantro"
+        },
+        {
+            "6": "0.25 cup chopped fresh parsley"
+        },
+        {
+            "7": "3 cloves roasted garlic, or more to taste"
+        },
+        {
+            "8": "0.5 tablespoons all-purpose flour"
+        },
+        {
+            "9": "2 teaspoons ground cumin"
+        },
+        {
+            "10": "0.75 teaspoons salt"
+        },
+        {
+            "11": "1 teaspoon ground coriander"
+        },
+        {
+            "12": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "13": "0.25 teaspoon cayenne pepper"
+        },
+        {
+            "14": "1 pinch ground cardamom"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat a waffle iron according to manufacturer's instructions. Spray inside of waffle iron with cooking spray."
+        },
+        {
+            "2": "Process garbanzo beans in a food processor until coarsely chopped. Add onion, egg whites, cilantro, parsley, garlic, flour, cumin, salt, coriander, black pepper, cayenne pepper, and cardamom to garbanzo beans. Pulse, scraping down the sides of the bowl occasionally, until falafel batter resembles a coarse meal. Pour batter into a bowl and stir with a fork."
+        },
+        {
+            "3": "Spoon about 1/4 cup falafel batter onto each section of the preheated waffle iron. Cook until evenly browned, about 5 minutes. Repeat with remaining batter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "210"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa6108654a3e6d8aaa111d07d72a42e78%2F165606255417357D65-C282-4F66-803B-ACA3D9BAA9D5.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9376361.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9224442.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9172397.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/anjdCqKDRSaUICO6HBn6jMYSsV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4306190-be7ffcd7213041078302894feaa09961.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

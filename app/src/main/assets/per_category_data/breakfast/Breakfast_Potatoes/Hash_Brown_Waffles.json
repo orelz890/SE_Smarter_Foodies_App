@@ -1,0 +1,90 @@
+{
+    "title": "Hash Brown Waffles",
+    "Category": "Breakfast Potatoes",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "1 pound yellow potatoes, shredded"
+        },
+        {
+            "3": "2 tablespoons vegetable oil"
+        },
+        {
+            "4": "1 clove garlic, minced"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "7": "0.25 teaspoon smoked paprika"
+        },
+        {
+            "8": "2 large eggs, lightly beaten"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the waffle iron according to manufacturer's instructions. Grease the waffle iron with cooking spray."
+        },
+        {
+            "2": "Place potatoes in a medium bowl. Pour in enough cold water to cover potatoes; soak for 2 to 3 minutes. Drain and rinse to remove starch. Squeeze water from potatoes by hand or roll in a clean kitchen towel and twist the towel to wring out water."
+        },
+        {
+            "3": "Toss potatoes with oil, garlic, salt, pepper, and paprika in a large bowl until evenly coated. Stir eggs into potato mixture until well combined."
+        },
+        {
+            "4": "Spoon 1/2 of the potato mixture into the preheated waffle iron; close and cook until potatoes are tender and golden brown, 5 to 8 minutes. Repeat with remaining potato mixture."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 waffles"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "372"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9014811.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8933568.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8933589.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8395781.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

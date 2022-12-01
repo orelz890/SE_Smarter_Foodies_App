@@ -1,0 +1,57 @@
+{
+    "title": "Peanut Butter Mango Smoothie",
+    "Category": "Smoothies",
+    "Ingredients": [
+        {
+            "1": "1 cup vanilla yogurt"
+        },
+        {
+            "2": "1  banana, broken into chunks"
+        },
+        {
+            "3": "0.5 cup frozen mango chunks"
+        },
+        {
+            "4": "2 tablespoons peanut butter, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Blend yogurt, banana, mango, and peanut butter together in a blender until smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 smoothies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "279"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F944646614a79cc04ce685c6930f45912%2F1351359.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Creamy Peanut Butter Fudge",
+    "Category": "Fudge",
+    "Ingredients": [
+        {
+            "1": "4 cups white sugar"
+        },
+        {
+            "2": "1 cup light brown sugar"
+        },
+        {
+            "3": "0.5 cup butter"
+        },
+        {
+            "4": "1 (12 fluid ounce) can evaporated milk"
+        },
+        {
+            "5": "1 (7 ounce) jar marshmallow creme"
+        },
+        {
+            "6": "1 (16 ounce) jar peanut butter"
+        },
+        {
+            "7": "1 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Grease a 9x13 inch baking dish."
+        },
+        {
+            "2": "In a medium saucepan over medium heat, combine sugar, brown sugar, butter and evaporated milk. Bring to a boil, stirring constantly, and boil for 7 minutes. Remove from heat; stir in marshmallow creme until well incorporated and melted. Stir in peanut butter and vanilla until smooth; spread in prepared pan. Let cool before cutting into squares."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "1 - 9x13 inch dish"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "357"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "54g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9373772.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9078313.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8888495.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8864466.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/LGTHBfJEo-1tAkH_ZZOKrupsbYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22645-creamy-peanut-butter-fudge-vat-hero-01-1x1-1-2000-1f667e786b114443bc194e4ef19811ce.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,120 @@
+{
+    "title": "Antipasto Pasta Salad",
+    "Category": "Pasta Salad",
+    "Ingredients": [
+        {
+            "1": "1 Antipasto Salad-"
+        },
+        {
+            "2": "1 pound seashell pasta"
+        },
+        {
+            "3": "0.5 pound Asiago cheese, diced"
+        },
+        {
+            "4": "0.25 pound Genoa salami, chopped"
+        },
+        {
+            "5": "0.25 pound pepperoni sausage, chopped"
+        },
+        {
+            "6": "3 medium tomatoes, chopped"
+        },
+        {
+            "7": "1 medium red bell pepper, diced"
+        },
+        {
+            "8": "1 medium green bell pepper, chopped"
+        },
+        {
+            "9": "1 (6 ounce) can black olives, drained and chopped"
+        },
+        {
+            "10": "1 (.7 ounce) package dry Italian-style salad dressing mix"
+        },
+        {
+            "11": "1 Dressing-"
+        },
+        {
+            "12": "0.75 cup extra virgin olive oil"
+        },
+        {
+            "13": "0.25 cup balsamic vinegar"
+        },
+        {
+            "14": "2 tablespoons dried oregano"
+        },
+        {
+            "15": "1 tablespoon dried parsley"
+        },
+        {
+            "16": "1 tablespoon grated Parmesan cheese"
+        },
+        {
+            "17": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Make the antipasto salad: Bring a large pot of salted water to a boil. Add shell pasta and cook, stirring occasionally, until tender yet firm to the bite, about 9 minutes. Drain, run under cold water to cool pasta, and drain again."
+        },
+        {
+            "2": "Transfer drained pasta to a large bowl. Add Asiago cheese, salami, pepperoni, tomatoes, bell peppers, and olives. Sprinkle dry dressing mix over top and stir until ingredients are thoroughly mixed. Cover and refrigerate for at least 1 hour."
+        },
+        {
+            "3": "Make the dressing: Whisk oil, vinegar, oregano, parsley, Parmesan cheese, salt, and pepper together in a small bowl. Cover and set aside until ready to serve."
+        },
+        {
+            "4": "To serve, pour dressing over the chilled salad and mix until well combined."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "451"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6af061cfbe7a941b27c7bf098a00ea2f%2F1659130112IMG_20220729_140922-01.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8912481.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8778209.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8400473.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/0mghcgIJL5VN2wQhJ1OFXn57nbU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2341472-d89eae770ea14a868aed2052e0b20dc1.jpg"
+        }
+    ],
+    "main category": "salads"
+}

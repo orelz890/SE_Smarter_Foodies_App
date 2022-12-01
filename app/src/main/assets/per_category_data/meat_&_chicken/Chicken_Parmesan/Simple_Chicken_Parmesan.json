@@ -1,0 +1,138 @@
+{
+    "title": "Simple Chicken Parmesan",
+    "Category": "Chicken Parmesan",
+    "Ingredients": [
+        {
+            "1": "1 Tomato Sauce-"
+        },
+        {
+            "2": "2 tablespoons extra-virgin olive oil"
+        },
+        {
+            "3": "2 medium garlic cloves, peeled and crushed"
+        },
+        {
+            "4": "1 (28 ounce) can crushed tomatoes"
+        },
+        {
+            "5": "0.5 teaspoon dried basil"
+        },
+        {
+            "6": "0.25 teaspoon dried oregano"
+        },
+        {
+            "7": "0.25 teaspoon sugar"
+        },
+        {
+            "8": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "9": "1 Pasta-"
+        },
+        {
+            "10": "8 ounces spaghetti or linguine"
+        },
+        {
+            "11": "1 Chicken Cutlets-"
+        },
+        {
+            "12": "2 large boneless, skinless chicken breasts (6 to 8 ounces each), halved crosswise"
+        },
+        {
+            "13": "1 large egg"
+        },
+        {
+            "14": "0.5 cup dry bread crumbs"
+        },
+        {
+            "15": "1 freshly ground black pepper to taste"
+        },
+        {
+            "16": "0.25 cup extra-virgin olive oil"
+        },
+        {
+            "17": "0.5 cup grated part-skim mozzarella cheese"
+        },
+        {
+            "18": "0.25 cup grated Parmesan cheese, plus more for serving"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Make tomato sauce: Heat oil and garlic in a large saucepan over medium-high heat until garlic starts to sizzle. Stir in tomatoes, basil, oregano, and sugar; season with salt and pepper. Bring to a simmer; cook until sauce slightly thickens and flavors meld, 10 to 12 minutes. Cover and keep warm. (Remember, this makes twice the amount of sauce needed, so put aside half for another meal.)"
+        },
+        {
+            "2": "Cook pasta: Bring a large pot of lightly salted water to a boil. Cook spaghetti in boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain and keep warm."
+        },
+        {
+            "3": "Make chicken cutlets: Lay chicken pieces between 2 sheets of plastic wrap. Use a mallet or heavy pan to pound chicken to about 1/4-inch thickness."
+        },
+        {
+            "4": "Beat egg in a shallow dish until well blended. Season bread crumbs with black pepper in another shallow dish."
+        },
+        {
+            "5": "Preheat the oven broiler to high. Place a rack 4 to 5 inches from the heat source."
+        },
+        {
+            "6": "Working with one cutlet at a time, dip chicken in beaten egg, then in bread crumbs. Lay breaded cutlets on a wire rack set over a cookie sheet (this step helps breading stay put)."
+        },
+        {
+            "7": "Heat 1/4 cup oil in a 12-inch skillet over medium-high heat until it shimmers."
+        },
+        {
+            "8": "Fry breaded cutlets in hot oil until golden brown on each side, about 5 minutes total. Wash and dry the wire rack and return to the cookie sheet. Place fried cutlets on the clean wire rack."
+        },
+        {
+            "9": "Top each cutlet with mozzarella and Parmesan cheese. Broil until cheese melts and is spotty brown, 2 to 3 minutes."
+        },
+        {
+            "10": "Portion pasta onto 4 plates and top each with a chicken cutlet. Spoon 2 to 3 tablespoons tomato sauce over each cutlet, then sauce pasta as desired. Serve with extra Parmesan at the table."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "715"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "67g"
+        },
+        {
+            "Protein": "46g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9296074.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9017149.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8980608.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8891858.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/PjHXWo0vDsoqMNdrby4thjqMJH8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/808422-c31e3b9c9052491ebb1634f67f39798c.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

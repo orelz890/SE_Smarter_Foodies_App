@@ -1,0 +1,90 @@
+{
+    "title": "Bangers and Mash",
+    "Category": "Mashed Potatoes",
+    "Ingredients": [
+        {
+            "1": "8 large baking potatoes, peeled and quartered"
+        },
+        {
+            "2": "2 teaspoons butter, divided"
+        },
+        {
+            "3": "0.5 cup milk, or as needed"
+        },
+        {
+            "4": "1 salt and pepper to taste"
+        },
+        {
+            "5": "0.5 pounds beef sausage"
+        },
+        {
+            "6": "0.5 cup diced onion"
+        },
+        {
+            "7": "1 (.75 ounce) packet dry brown gravy mix"
+        },
+        {
+            "8": "1 cup water, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Place potatoes in a saucepan with enough water to cover. Bring to a boil, and cook until tender, about 20 minutes. Drain, and mash with 1 teaspoon of butter, and enough milk to reach your desired creaminess. Continue mashing, or beat with an electric mixer, until smooth. Season with salt and pepper."
+        },
+        {
+            "2": "In a large skillet over medium heat, cook the sausage until heated through. Remove from pan, and set aside. Add remaining teaspoon of butter to the skillet, and fry the onions over medium heat until tender. Mix gravy mix and water as directed on the package, and add to the skillet with the onions. Simmer, stirring constantly, to form a thick gravy."
+        },
+        {
+            "3": "Pour half of the gravy into a square casserole dish so that is coats the bottom. Place sausages in a layer over the gravy (you can butterfly the sausages if you wish). Pour remaining gravy over them, then top with mashed potatoes."
+        },
+        {
+            "4": "Bake uncovered for 20 minutes in the preheated oven, or until potatoes are evenly brown."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "570"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "68g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9251076.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F703d9caaa00fb943b58dd897c9fb3c8d%2F6472834.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6159043.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1c41b3834ea3e66b7f521966bb44b334%2F4518114.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

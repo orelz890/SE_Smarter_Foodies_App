@@ -1,0 +1,84 @@
+{
+    "title": "Pickled Jalapenos",
+    "Category": "Pickles",
+    "Ingredients": [
+        {
+            "1": "1 cup vinegar"
+        },
+        {
+            "2": "1 cup water"
+        },
+        {
+            "3": "2 tablespoons white sugar"
+        },
+        {
+            "4": "1 tablespoon salt"
+        },
+        {
+            "5": "2 cloves garlic, smashed"
+        },
+        {
+            "6": "1 pound jalapeno peppers, thinly sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine vinegar, water, sugar, salt, and garlic in a pot over medium-high heat. Bring to a boil, stirring until sugar and salt dissolve. Remove pickling liquid from heat."
+        },
+        {
+            "2": "Stir jalapeno peppers into the pot. Let stand until slightly cooled, about 15 minutes."
+        },
+        {
+            "3": "Transfer jalapeno peppers to a large Mason jar; pour in pickling liquid to cover. Let cool to room temperature, about 30 minutes. Cover and refrigerate."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "48 "
+        },
+        {
+            "Yield": "1 1/2 quart"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "5"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4c9be62e10d6a992cd6b4099f05eddb6%2F166465081248520221001_144412.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F502468c05e1030907f16d8908862f914%2F1659258104IMG_0591.png&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F502468c05e1030907f16d8908862f914%2F164952782318896914-77D7-4E8C-9237-A89F212D9CED.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9417322.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}

@@ -1,0 +1,75 @@
+{
+    "title": "BLT Dip",
+    "Category": "Gluten-Free Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound bacon"
+        },
+        {
+            "2": "1 cup mayonnaise"
+        },
+        {
+            "3": "1 cup sour cream"
+        },
+        {
+            "4": "1  tomato - peeled, seeded and diced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels."
+        },
+        {
+            "2": "Combine mayonnaise and sour cream in a medium bowl. Crumble bacon into mayonnaise mixture; mix until combined. Stir in tomatoes right before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "181"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7749145.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7248190.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6372830.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4553023.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/BmitD5qdN-Nd2rvfk_58fE2DLHw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/665563-33b48cd48f894675b6fec9e980f92d50.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

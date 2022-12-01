@@ -1,0 +1,87 @@
+{
+    "title": "Favorite Strawberry Rhubarb Pie",
+    "Category": "Strawberry Pie",
+    "Ingredients": [
+        {
+            "1": "3 cups sliced strawberries"
+        },
+        {
+            "2": "3 cups sliced rhubarb"
+        },
+        {
+            "3": "0.5 cups white sugar"
+        },
+        {
+            "4": "0.25 cup instant tapioca"
+        },
+        {
+            "5": "1 squeeze fresh lemon juice"
+        },
+        {
+            "6": "1 recipe pastry for a 9 inch double crust pie"
+        },
+        {
+            "7": "2 tablespoons butter, cut into small pieces"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Place a pie dish onto a baking sheet."
+        },
+        {
+            "2": "Mix the strawberries, rhubarb, sugar, tapioca, and lemon juice in a bowl, and let stand for 15 minutes, stirring occasionally. Fit a pie crust into a 9-inch pie dish; pour the filling into the bottom crust. Scatter pieces of butter over the filling, and place the top crust onto the pie. Press the edges together and crimp with a fork to seal. Cut several slits into the top crust with a sharp knife."
+        },
+        {
+            "3": "Bake in the preheated oven until the crust is golden brown and the filling is bubbling, 40 to 55 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 15 mins"
+        },
+        {
+            "Total Time": " 2 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "442"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "69g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8784058.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8784034.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8279427.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8193885.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

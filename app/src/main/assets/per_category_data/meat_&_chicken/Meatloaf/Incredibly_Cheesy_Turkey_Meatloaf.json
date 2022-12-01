@@ -1,0 +1,90 @@
+{
+    "title": "Incredibly Cheesy Turkey Meatloaf",
+    "Category": "Meatloaf",
+    "Ingredients": [
+        {
+            "1": "2 pounds ground turkey"
+        },
+        {
+            "2": "1 cup milk"
+        },
+        {
+            "3": "1 cup Italian seasoned bread crumbs"
+        },
+        {
+            "4": "2  eggs"
+        },
+        {
+            "5": "1 teaspoon salt"
+        },
+        {
+            "6": "0.25 teaspoon pepper"
+        },
+        {
+            "7": "0.75 pound Colby cheese, cut into 1/2-inch cubes"
+        },
+        {
+            "8": "0.5 cup ketchup (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "In a bowl, mix the turkey, milk, bread crumbs, and eggs by hand. Season with salt and pepper. Fold the cheese cubes into the mixture. Transfer to a loaf pan, and top with ketchup."
+        },
+        {
+            "3": "Bake 1 hour in the preheated oven, to an internal temperature of 180 degrees F (85 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "440"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "38g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9307355.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9307356.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8859848.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9023790.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/TJJcmT2vA6EIw0e5CMDr-yZSbqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/39919-incredibly-cheesy-turkey-meatloaf-Beth-Wand-Sidell-1x1-1-d6248762cb784ac2b38eb666263733c9.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

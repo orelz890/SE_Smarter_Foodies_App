@@ -1,0 +1,81 @@
+{
+    "title": "Chinese Chicken Wings",
+    "Category": "Chinese Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups soy sauce"
+        },
+        {
+            "2": "2 cups brown sugar"
+        },
+        {
+            "3": "2 tablespoons garlic powder"
+        },
+        {
+            "4": "5 pounds chicken wings, split and tips discarded"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir together soy sauce, brown sugar, and garlic powder in a saucepan over medium heat. Cook and stir until sugar has dissolved. Remove from heat and allow to cool."
+        },
+        {
+            "2": "Place chicken wings in a large bowl. Pour soy sauce mixture over wings and toss to coat evenly. Cover the bowl with plastic wrap. Allow chicken to marinate in the refrigerator for 8 hours to overnight."
+        },
+        {
+            "3": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "4": "Pour chicken wings and marinade into a 9x13-inch baking dish. Cover the baking dish with aluminum foil."
+        },
+        {
+            "5": "Bake in the preheated oven until thoroughly hot, about 45 minutes. Remove foil and bake for 15 more minutes. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 5 mins"
+        },
+        {
+            "Additional Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 9 hrs 10 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "256"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8187812.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7652558.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6a088577503671b07217b739d7eab2d3%2F6606665.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8263286.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Buffalo Dip",
+    "Category": "Buffalo Chicken Dip",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "2": "0.5 cup ranch salad dressing, or to taste"
+        },
+        {
+            "3": "0.5 cup Buffalo wing sauce (such as Sweet Baby Ray's\u00ae)"
+        },
+        {
+            "4": "0.5 cup shredded mozzarella cheese, or to taste"
+        },
+        {
+            "5": "2 (12.5 fl oz) cans chicken chunks, drained"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Beat cream cheese in a deep baking dish until smooth. Add ranch dressing, Buffalo wing sauce, and mozzarella cheese to cream cheese and stir until smooth. Stir in chicken."
+        },
+        {
+            "3": "Bake in the preheated oven until heated through and bubbling, about 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "4 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "349"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7616046.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3471115.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F38f73606cce59093a38e1d46f439d7ed%2F3259677.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1981539.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

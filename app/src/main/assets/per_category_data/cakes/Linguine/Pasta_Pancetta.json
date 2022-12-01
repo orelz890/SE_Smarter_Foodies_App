@@ -1,0 +1,93 @@
+{
+    "title": "Pasta Pancetta",
+    "Category": "Linguine",
+    "Ingredients": [
+        {
+            "1": "1 (12 ounce) package linguine pasta"
+        },
+        {
+            "2": "0.25 cup olive oil"
+        },
+        {
+            "3": "6 ounces pancetta bacon, diced"
+        },
+        {
+            "4": "5  shallots, chopped"
+        },
+        {
+            "5": "2 cups fresh sliced mushrooms"
+        },
+        {
+            "6": "4 cloves garlic, chopped"
+        },
+        {
+            "7": "2 pinches freshly ground black pepper, or as needed"
+        },
+        {
+            "8": "2 pinches dried oregano"
+        },
+        {
+            "9": "0.5 cup chicken broth"
+        },
+        {
+            "10": "0.5 cup freshly grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook linguine at a boil until tender yet firm to the bite, about 11 minutes. Drain, transfer back to the pot, and set aside."
+        },
+        {
+            "2": "Meanwhile, heat olive oil in a large skillet over medium heat. Cook pancetta in hot oil until just beginning to brown. Stir in shallots, mushrooms, garlic, pepper, and oregano; cook until fragrant, about 1 minute."
+        },
+        {
+            "3": "Pour in chicken broth; bring to a boil over medium-high heat, stirring occasionally, for 1 to 2 minutes. Reduce heat, cover, and simmer for 5 to 7 minutes."
+        },
+        {
+            "4": "Strain liquid from the pan into pasta; toss to coat. Divide pasta onto individual serving plates, then top with equal portions of pancetta and mushrooms. Serve with Parmesan cheese and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "477"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fcdb1add7240d57163ea190b0eb150aa4%2F166031685516603168406051858945586670811459.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8776466.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcaec4190bc79d0eac5a75bb02b9ef45d%2F7523941.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F829e9ae34aaaa71c006645cfb848f728%2F6844225.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

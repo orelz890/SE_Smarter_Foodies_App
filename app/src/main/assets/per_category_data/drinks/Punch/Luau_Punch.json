@@ -1,0 +1,69 @@
+{
+    "title": "Luau Punch",
+    "Category": "Punch",
+    "Ingredients": [
+        {
+            "1": "1 (46 fluid ounce) can pineapple juice"
+        },
+        {
+            "2": "1 (6 ounce) can frozen orange juice concentrate, thawed"
+        },
+        {
+            "3": "2 liters lemon-lime flavored carbonated beverage"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In an empty gallon milk jug or pitcher, pour pineapple juice and orange juice concentrate. Shake to mix and pour in the lemon-lime soda. You may need to let the fizz settle and then return to pouring. This will fill up the gallon. Freeze overnight."
+        },
+        {
+            "2": "Let the punch start to thaw 2 hours before serving. Serve slushy."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "182"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "45g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe9628f3152ce88585c00fb2217d37038%2F3557163.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F15e985a768d2399829aa8e5ec7c9d3c5%2F3428022.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe4aec36117317b7f506569a548342904%2F3358850.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F960585.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/K9ACmPEId8V18AVxRKSdnrqhi_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23943-uau-punch-Linda-Singleton-1x1-1-8617bc7eaa7b47d9ae19958f287b91d8.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Manhattan Clam Chowder",
+    "Category": "Chowder",
+    "Ingredients": [
+        {
+            "1": "1 pint shucked clams"
+        },
+        {
+            "2": "1 cup tomato and clam juice cocktail"
+        },
+        {
+            "3": "2  potatoes, cleaned and chopped"
+        },
+        {
+            "4": "1 cup chopped green bell pepper"
+        },
+        {
+            "5": "0.25 cup chopped green onions"
+        },
+        {
+            "6": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "7": "1 (14.5 ounce) can Italian-style diced tomatoes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Chop clams, reserving juice; set clams aside. Strain clam juice to remove bits of shell. Measure juice; add enough water to equal 1 1/2 cups liquid."
+        },
+        {
+            "2": "Combine clam juice mixture, clam-tomato juice cocktail, potatoes, bell peppers, scallions and black pepper in large saucepan; heat to a boil. Reduce heat; cover and simmer for about 15 minutes or until potatoes are just tender."
+        },
+        {
+            "3": "Stir in the undrained tomatoes and the chopped clams and heat through."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "82"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F262737.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dairy"
+}

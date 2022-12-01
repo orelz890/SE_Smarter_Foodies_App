@@ -1,0 +1,60 @@
+{
+    "title": "Easiest Brown Gravy Ever",
+    "Category": "Gravy",
+    "Ingredients": [
+        {
+            "1": "1 (10.75 ounce) can  cream of mushroom soup"
+        },
+        {
+            "2": "1 (10.25 ounce) can beef gravy"
+        },
+        {
+            "3": "0.25 cups Marsala wine"
+        },
+        {
+            "4": "0.25 teaspoon kosher salt, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk together the mushroom soup, beef gravy, and Marsala wine in a saucepan. Bring to a simmer over medium heat and cook for 10 minutes, whisking frequently. Season to taste with kosher salt before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "98"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F17b7af810009c6f124e3b59ee11fe33b%2F2890356.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Homemade Garlic Bread",
+    "Category": "Garlic Bread",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter, softened"
+        },
+        {
+            "2": "3 tablespoons olive oil"
+        },
+        {
+            "3": "4 cloves garlic, minced"
+        },
+        {
+            "4": "1 tablespoon garlic powder"
+        },
+        {
+            "5": "1 tablespoon chopped fresh parsley"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "1 loaf French bread"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil."
+        },
+        {
+            "2": "Mix butter, olive oil, minced garlic, garlic powder, parsley, and salt in a bowl until well combined."
+        },
+        {
+            "3": "Cut bread loaf into 1-inch slices and spread garlic mixture over each slice. Place each on a baking sheet. Wrap with additional aluminum foil."
+        },
+        {
+            "4": "Bake in the preheated oven until bread is crispy and heated through, 25 to 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "316"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8635127.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3354745.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

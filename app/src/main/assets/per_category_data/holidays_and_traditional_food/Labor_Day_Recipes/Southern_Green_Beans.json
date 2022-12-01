@@ -1,0 +1,90 @@
+{
+    "title": "Southern Green Beans",
+    "Category": "Labor Day Recipes",
+    "Ingredients": [
+        {
+            "1": "6 slices bacon, chopped"
+        },
+        {
+            "2": "3 tablespoons butter"
+        },
+        {
+            "3": "1  red onion, chopped"
+        },
+        {
+            "4": "2 pounds fresh green beans, trimmed and snapped"
+        },
+        {
+            "5": "8 small new potatoes, diced"
+        },
+        {
+            "6": "1 large clove garlic, minced"
+        },
+        {
+            "7": "0.25 cup chicken broth"
+        },
+        {
+            "8": "0.5 teaspoons white balsamic vinegar"
+        },
+        {
+            "9": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook chopped bacon in a skillet over medium heat, stirring occasionally, until evenly browned, 8 to 10 minutes. Drain bacon pieces on a paper towel-lined plate."
+        },
+        {
+            "2": "Melt butter in a skillet with a lid over medium-low heat. Add onion; cook and stir until onion is translucent, about 5 minutes. Stir in cooked bacon, green beans, potatoes, garlic, and chicken broth. Bring to a boil, cover, and simmer over low heat until green beans are tender, about 10 minutes."
+        },
+        {
+            "3": "Sprinkle with vinegar, salt, and pepper; serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "189"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb082f2842d2bd87f952811de659e8554%2F165725182216572518044009168072798840684169.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9376942.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9365344.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9350524.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/2CcslLmnLFsZ2eakZqcSg4Vo9QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2201276-southern-green-beans-Kristy-H-1x1-1-9d48d1618e984397a8770550e82d0f54.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

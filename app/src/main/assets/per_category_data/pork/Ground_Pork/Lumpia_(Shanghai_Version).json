@@ -1,0 +1,96 @@
+{
+    "title": "Lumpia (Shanghai Version)",
+    "Category": "Ground Pork",
+    "Ingredients": [
+        {
+            "1": "1 pound ground pork"
+        },
+        {
+            "2": "1 pound ground beef"
+        },
+        {
+            "3": "1  medium onion, finely chopped"
+        },
+        {
+            "4": "1  carrot, grated"
+        },
+        {
+            "5": "0.25 cup soy sauce"
+        },
+        {
+            "6": "2 tablespoons salt"
+        },
+        {
+            "7": "0.5 tablespoons garlic powder"
+        },
+        {
+            "8": "1.0 teaspoons black pepper"
+        },
+        {
+            "9": "1 (16 ounce) package spring roll wrappers"
+        },
+        {
+            "10": "0.25 cup water, or as needed"
+        },
+        {
+            "11": "0.5 quarts oil for frying"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine ground pork, ground beef, onion, and carrot in a large bowl; mix well with hands. Gradually blend in soy sauce, salt, garlic powder, and pepper until incorporated."
+        },
+        {
+            "2": "Working one at a time, lay a wrapper on a flat surface with a corner pointing at you. Place about 2 tablespoons filling in a line, no thicker than your thumb, across the center of the wrapper. Moisten the edges of wrapper with water. Fold the bottom edge of wrapper snugly over filling. Fold in the left and right sides of wrapper towards the center. Roll up tightly to seal in filling."
+        },
+        {
+            "3": "Heat oil in a deep fryer or heavy skillet to 375 degrees F (190 degrees C)."
+        },
+        {
+            "4": "Working in batches, fry lumpia in hot oil, turning once, until golden brown, 3 to 4 minutes. Drain on a paper towel-lined plate. Cut lumpia in half, or serve as-is with dipping sauce."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": " 1 hrs"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "20 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "262"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8606606.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8606604.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7740948.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6234822.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

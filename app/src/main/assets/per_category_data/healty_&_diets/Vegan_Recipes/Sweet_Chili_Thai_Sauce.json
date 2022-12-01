@@ -1,0 +1,81 @@
+{
+    "title": "Sweet Chili Thai Sauce",
+    "Category": "Vegan Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup water"
+        },
+        {
+            "2": "1 cup rice vinegar"
+        },
+        {
+            "3": "1 cup sugar"
+        },
+        {
+            "4": "2 teaspoons fresh ginger root, minced"
+        },
+        {
+            "5": "2 teaspoons hot chile pepper, minced"
+        },
+        {
+            "6": "2 teaspoons ketchup"
+        },
+        {
+            "7": "1 teaspoon garlic, minced"
+        },
+        {
+            "8": "2 teaspoons cornstarch"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour water and vinegar into a saucepan; bring to a boil over high heat. Stir in sugar, ginger, chile pepper, ketchup, and garlic; simmer for 5 minutes. Whisk in cornstarch."
+        },
+        {
+            "2": "Remove saucepan from stove to cool. Transfer to a bowl, cover, and refrigerate until needed."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "34"
+        },
+        {
+            "Carbs": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F900d48ded52342391296df2d953b1337%2F166163780316616377867022854877279843193627.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9362760.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9250932.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8436369.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/t0ikFVRxV11GaM7pxTpM0RLuqmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7865466-sweet-chili-thai-sauce-Cherise-Marie-Garland-4x3-1-6e13af0ea5f846e49fa87ce01546c0c3.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Brownie Frosting",
+    "Category": "Frosting and Icing Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 cups white sugar"
+        },
+        {
+            "2": "6 tablespoons milk"
+        },
+        {
+            "3": "6 tablespoons unsalted butter, softened"
+        },
+        {
+            "4": "1 cup chocolate chips"
+        },
+        {
+            "5": "1 dash vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir together sugar, milk, and butter in a saucepan over medium heat; bring to a boil. Cook at a rolling boil for 30 seconds, then immediately remove from the heat."
+        },
+        {
+            "2": "Add chocolate chips and vanilla to the saucepan; stir until chips are completely melted. Pour immediately over warm brownies."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x13-inch pan of brownies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "219"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd817fb4e895ac657d0d11ef09b2896b8%2F1649197837666F5C16-FAD4-4135-B05B-F1B545A971E1.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd817fb4e895ac657d0d11ef09b2896b8%2F164511648416451164623535955726900067993377.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9264709.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9225901.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

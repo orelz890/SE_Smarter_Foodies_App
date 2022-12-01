@@ -1,0 +1,117 @@
+{
+    "title": "Chef John's Shepherd's Pie",
+    "Category": "Shepherd's Pie",
+    "Ingredients": [
+        {
+            "1": "0.25 pounds Yukon Gold potatoes, peeled and cubed"
+        },
+        {
+            "2": "3 cloves garlic, halved"
+        },
+        {
+            "3": "1 pound lean ground beef"
+        },
+        {
+            "4": "2 tablespoons flour"
+        },
+        {
+            "5": "0.75 cup beef broth"
+        },
+        {
+            "6": "3 tablespoons ketchup"
+        },
+        {
+            "7": "4 cups frozen mixed vegetables"
+        },
+        {
+            "8": "0.5 teaspoon black pepper"
+        },
+        {
+            "9": "0.5 cup shredded Cheddar cheese, divided"
+        },
+        {
+            "10": "0.75 cup light sour cream"
+        },
+        {
+            "11": "1 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place cubed potatoes and garlic in a large pot with enough water to cover. Bring to a boil over high heat; reduce heat to medium-low, cover, and simmer until tender, about 20 minutes."
+        },
+        {
+            "2": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "3": "Brown ground beef over medium heat in a skillet. Stir in flour, mixing with beef drippings."
+        },
+        {
+            "4": "Add beef broth, ketchup and vegetables. Stir to combine. Cook for 5 minutes, until thick."
+        },
+        {
+            "5": "Transfer beef mixture into an oven-proof casserole dish."
+        },
+        {
+            "6": "Drain potatoes and smash them a little bit before adding 1/4 cup of grated cheese and sour cream. Mash together until smooth."
+        },
+        {
+            "7": "Spoon potatoes onto the middle of the meat mixture. With a fork, spread potatoes from the center to the edges to form the top layer."
+        },
+        {
+            "8": "Sprinkle with remaining 1/4 cup of grated cheese."
+        },
+        {
+            "9": "Bake in the preheated oven for 20-25 minutes, or until cheese is melted and golden. Let cool 15 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "311"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fec3a8408fc5af1f9634227d6c6d1504b%2F1659838809image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9422541.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9346357.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9341982.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

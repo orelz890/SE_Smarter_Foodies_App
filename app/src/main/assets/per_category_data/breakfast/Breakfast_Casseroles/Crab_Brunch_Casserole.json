@@ -1,0 +1,90 @@
+{
+    "title": "Crab Brunch Casserole",
+    "Category": "Breakfast Casseroles",
+    "Ingredients": [
+        {
+            "1": "2  eggs, beaten"
+        },
+        {
+            "2": "2 cups milk"
+        },
+        {
+            "3": "2 cups seasoned croutons"
+        },
+        {
+            "4": "8 ounces shredded Cheddar cheese"
+        },
+        {
+            "5": "1 tablespoon dried minced onion"
+        },
+        {
+            "6": "1 tablespoon dried parsley"
+        },
+        {
+            "7": "1 pound fresh crabmeat"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        },
+        {
+            "9": "0.25 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 325 degrees F (165 degrees C). Lightly grease a medium baking dish."
+        },
+        {
+            "2": "In large bowl, mix the eggs, milk, croutons, cheese, onion, and parsley. Stir in the crabmeat. Season with salt and pepper. Spoon into the prepared baking dish, and sprinkle with Parmesan cheese."
+        },
+        {
+            "3": "Bake 1 hour in the preheated oven, or until a knife inserted into center of the casserole comes out clean. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "273"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9239415.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F90489083dbea6f853186aa80f2268fdc%2F6719683.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6663254.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc30b9ae79f2667596fae8fbd338e97a3%2F6463437.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

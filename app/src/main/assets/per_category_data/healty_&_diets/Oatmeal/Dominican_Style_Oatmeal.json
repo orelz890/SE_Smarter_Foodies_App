@@ -1,0 +1,78 @@
+{
+    "title": "Dominican Style Oatmeal",
+    "Category": "Oatmeal",
+    "Ingredients": [
+        {
+            "1": "0.5 cups milk"
+        },
+        {
+            "2": "0.5 cup quick cooking oats"
+        },
+        {
+            "3": "2 tablespoons white sugar"
+        },
+        {
+            "4": "0.25 teaspoon ground cinnamon"
+        },
+        {
+            "5": "1 pinch ground nutmeg"
+        },
+        {
+            "6": "1 pinch salt"
+        },
+        {
+            "7": "0.25 teaspoon lemon zest (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine milk, oats, sugar, cinnamon, nutmeg, and salt in a saucepan. Add lemon peel, if using. Bring to a boil, stirring constantly for 2 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "220"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9078131.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8936688.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8684144.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8182304.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

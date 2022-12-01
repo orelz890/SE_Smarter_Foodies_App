@@ -1,0 +1,78 @@
+{
+    "title": "Jalapeno Popper Cups",
+    "Category": "Jalapeno Poppers",
+    "Ingredients": [
+        {
+            "1": "12  mini phyllo tart shells"
+        },
+        {
+            "2": "4 ounces cream cheese, softened"
+        },
+        {
+            "3": "0.5 cup shredded Cheddar cheese"
+        },
+        {
+            "4": "2  jalapeno peppers, seeded and chopped"
+        },
+        {
+            "5": "1 tablespoon hot pepper sauce"
+        },
+        {
+            "6": "1 bacon bits"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 350 degrees F (175 degrees C). Place phyllo cups onto a baking sheet."
+        },
+        {
+            "2": "Stir together cream cheese, Cheddar cheese, jalapenos, and hot sauce in a bowl. Spoon mixture into phyllo cups. Sprinkle bacon bits on top. Bake in preheated oven until golden brown, about 15 to 20 minutes. Serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "81"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7690800.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7690796.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F51be0b96a66a7dabc9f28edd67597f18%2F7686524.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdc54de867c4ed65952fd9da7cec7b005%2F7684988.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

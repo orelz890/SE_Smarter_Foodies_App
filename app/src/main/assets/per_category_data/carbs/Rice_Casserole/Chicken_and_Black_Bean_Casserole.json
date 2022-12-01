@@ -1,0 +1,90 @@
+{
+    "title": "Chicken and Black Bean Casserole",
+    "Category": "Rice Casserole",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons butter"
+        },
+        {
+            "2": "1 medium onion, sliced"
+        },
+        {
+            "3": "2  chicken breasts, cut into 2 inch pieces"
+        },
+        {
+            "4": "1 (16 ounce) can stewed tomatoes, undrained"
+        },
+        {
+            "5": "1 (8 ounce) package black beans, cooked and drained"
+        },
+        {
+            "6": "0.5 cup uncooked white rice"
+        },
+        {
+            "7": "2 ounces green chile peppers, diced"
+        },
+        {
+            "8": "2 tablespoons chopped fresh cilantro"
+        },
+        {
+            "9": "1 tablespoon ground cumin"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Heat butter in a large skillet over medium heat. Cook and stir onions in hot butter until soft and translucent, 3 to 4 minutes. Add chicken; cook, stirring occasionally, until golden on all sides, about 10 minutes."
+        },
+        {
+            "3": "Pour chicken-onion mixture into a casserole dish. Stir in tomatoes, beans, rice, chile peppers, cilantro, and cumin until well combined."
+        },
+        {
+            "4": "Bake in the preheated oven until chicken is fully cooked and rice is tender, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "452"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "65g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6668192.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6547903.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4557803.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3084315.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

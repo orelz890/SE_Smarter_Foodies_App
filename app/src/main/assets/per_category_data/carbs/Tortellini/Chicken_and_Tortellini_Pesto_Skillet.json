@@ -1,0 +1,93 @@
+{
+    "title": "Chicken and Tortellini Pesto Skillet",
+    "Category": "Tortellini",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil"
+        },
+        {
+            "2": "0.5 pounds chicken breast, cubed"
+        },
+        {
+            "3": "1 salt and ground black pepper to taste"
+        },
+        {
+            "4": "0.5 cup chicken broth"
+        },
+        {
+            "5": "0.5 cup prepared pesto"
+        },
+        {
+            "6": "0.5 cup heavy cream"
+        },
+        {
+            "7": "1 cup Parmesan cheese, divided"
+        },
+        {
+            "8": "1 cup baby spinach"
+        },
+        {
+            "9": "0.5 cup cherry tomatoes, halved"
+        },
+        {
+            "10": "1 (16 ounce) package refrigerated cheese tortellini"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a large skillet over medium-high heat. Add chicken to the skillet and season with salt and pepper. Saute until chicken is cooked through and has browned, 5 to 10 minutes. Remove from skillet and transfer to a bowl; cover to keep warm. Set aside."
+        },
+        {
+            "2": "Deglaze pan with chicken broth over medium heat, scraping up any browned bits. Stir in pesto and heavy cream. Cook until thickened, 3 to 5 minutes. Mix in 1/2 cup Parmesan cheese and stir until melted. Add in spinach and tomatoes. Cook until spinach begins to wilt, 3 to 5 minutes."
+        },
+        {
+            "3": "Add tortellini and cooked chicken and continue cooking until bubbly and hot, 5 to 10 minutes. Sprinkle with remaining 1/2 cup of Parmesan cheese and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "634"
+        },
+        {
+            "Fat": "35g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "44g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8966742.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8590369.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8501610.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6647183.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

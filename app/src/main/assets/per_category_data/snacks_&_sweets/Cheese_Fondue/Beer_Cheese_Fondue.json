@@ -1,0 +1,93 @@
+{
+    "title": "Beer Cheese Fondue",
+    "Category": "Cheese Fondue",
+    "Ingredients": [
+        {
+            "1": "8 ounces shredded sharp Cheddar cheese"
+        },
+        {
+            "2": "8 ounces shredded Swiss cheese"
+        },
+        {
+            "3": "2 tablespoons all-purpose flour"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "6": "1 clove garlic, halved"
+        },
+        {
+            "7": "1 (12 fluid ounce) can or bottle beer"
+        },
+        {
+            "8": "1 dash hot pepper sauce (such as Tabasco\u00ae)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine Cheddar cheese, Swiss cheese, flour, salt, and black pepper in a bowl."
+        },
+        {
+            "2": "Rub cut side of garlic clove around bottom and sides of fondue pot."
+        },
+        {
+            "3": "Pour beer into fondue pot and slowly bring to a simmer over medium-low heat, about 5 minutes."
+        },
+        {
+            "4": "Gradually stir cheese mixture into beer, adding small amounts at a time, until cheese is melted and blended, 10 to 15 minutes."
+        },
+        {
+            "5": "Stir hot pepper sauce into cheese mixture."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "332"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9032276.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7990829.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6612624.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4400782.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

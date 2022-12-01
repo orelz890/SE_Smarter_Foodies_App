@@ -1,0 +1,87 @@
+{
+    "title": "Cheese Garlic Biscuits II",
+    "Category": "Biscuit",
+    "Ingredients": [
+        {
+            "1": "0.75 cups all-purpose flour"
+        },
+        {
+            "2": "0.5 teaspoon salt"
+        },
+        {
+            "3": "0.5 teaspoon baking powder"
+        },
+        {
+            "4": "5 tablespoons butter"
+        },
+        {
+            "5": "1 cup milk"
+        },
+        {
+            "6": "1 cup shredded Cheddar cheese"
+        },
+        {
+            "7": "0.25 cup butter, melted"
+        },
+        {
+            "8": "1 clove garlic, minced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "2": "In a large bowl, sift together flour, salt and baking powder. Cut in butter until mixture resembles coarse crumbs. Make a well in the center of flour mixture. Add the milk and cheddar cheese; stir to combine. Drop batter by spoonfuls onto an ungreased baking sheet."
+        },
+        {
+            "3": "Bake in preheated oven for 12 to 15 minutes, until lightly browned. While biscuits are baking mix melted butter and minced garlic. Brush garlic butter over hot baked biscuits."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "191"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3040ad58e42511fd1afd4c620e9500aa%2F165732694920220708_203219.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8955063.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8062192.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7979056.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

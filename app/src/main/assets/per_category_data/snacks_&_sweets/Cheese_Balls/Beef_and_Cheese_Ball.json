@@ -1,0 +1,66 @@
+{
+    "title": "Beef and Cheese Ball",
+    "Category": "Cheese Balls",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "2": "5 ounces dried beef"
+        },
+        {
+            "3": "1 small white onion, chopped"
+        },
+        {
+            "4": "1 small finely chopped green bell pepper"
+        },
+        {
+            "5": "1 tablespoon Worcestershire sauce"
+        },
+        {
+            "6": "1 teaspoon onion juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium-sized mixing bowl, combine cream cheese, 2/3 of the beef, onion, green bell pepper, Worcestershire sauce, and onion juice. Mix well and shape mixture into a ball. Using the reserved beef, coat the rest of the ball with beef."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "106"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1600844.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F970173.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

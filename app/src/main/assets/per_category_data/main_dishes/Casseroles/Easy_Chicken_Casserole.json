@@ -1,0 +1,84 @@
+{
+    "title": "Easy Chicken Casserole",
+    "Category": "Casseroles",
+    "Ingredients": [
+        {
+            "1": "4  skinless, boneless chicken breast halves"
+        },
+        {
+            "2": "1 (10.5 ounce) can condensed cream of chicken soup"
+        },
+        {
+            "3": "1 cup sour cream"
+        },
+        {
+            "4": "0.25 cup chopped onion (Optional)"
+        },
+        {
+            "5": "0.25 cup chopped mushrooms (Optional)"
+        },
+        {
+            "6": "32  buttery round crackers, crumbled"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Fill a large pot with water; bring to a boil. Cook chicken in boiling water until no longer pink inside, 20 to 30 minutes. Chop chicken into bite-sized pieces and place in a 9x13-inch baking dish."
+        },
+        {
+            "3": "Combine condensed soup, sour cream, onion, and mushrooms in a bowl. Pour mixture over chicken and top with crumbled crackers."
+        },
+        {
+            "4": "Cover and bake in the preheated oven until top is lightly browned, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "466"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "33g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7088362.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6072597.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5293581.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5045798.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/zJWaQpTdyymo3Xb7U2lKMJQVXeY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5293581-15c91fe878304f9aaf32cc5838c1705f.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

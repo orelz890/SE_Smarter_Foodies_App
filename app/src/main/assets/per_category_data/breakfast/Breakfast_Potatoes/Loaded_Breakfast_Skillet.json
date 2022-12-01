@@ -1,0 +1,96 @@
+{
+    "title": "Loaded Breakfast Skillet",
+    "Category": "Breakfast Potatoes",
+    "Ingredients": [
+        {
+            "1": "4 slices bacon, cut into 1-inch pieces"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "3  russet potatoes, scrubbed, chopped into 3/4-inch cubes"
+        },
+        {
+            "4": "0.25 cup water"
+        },
+        {
+            "5": "2  green onions, sliced"
+        },
+        {
+            "6": "2 cloves garlic, minced"
+        },
+        {
+            "7": "0.5 teaspoon smoked paprika"
+        },
+        {
+            "8": "1 kosher salt and freshly ground pepper to taste"
+        },
+        {
+            "9": "4  eggs"
+        },
+        {
+            "10": "1 cup shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until crispy, 5 to 8 minutes. Drain on paper towels; reserve most of the bacon fat in skillet."
+        },
+        {
+            "2": "Reduce heat to medium. Cook and stir onions until starting to soften, about 5 minutes. Add potatoes; toss to coat evenly in bacon fat. Pour in water and cover skillet with a large lid. Cook, checking occasionally, until potatoes are tender, about 20 minutes. Add green onions, garlic, and paprika. Season with salt and pepper."
+        },
+        {
+            "3": "Make 4 wells in the potato mixture using a wooden spoon, revealing the bottom of the skillet. Crack an egg into each well; season with salt and pepper. Sprinkle cooked bacon and Cheddar cheese over the entire skillet. Replace lid; cook until egg whites are set and yolks are still runny, about 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "418"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "43g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9145754.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9111790.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9106228.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9105935.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/1ms7lPTn_dGry6nbjCRQnSNR_Ao=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9145754-loaded-breakfast-skillet-Coco-1x1-1-5539daedcd304d638c3dc52504cae621.jpg"
+        }
+    ],
+    "main category": "breakfast"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Fettuccine with Sweet Pepper-Cayenne Sauce",
+    "Category": "Fettuccini",
+    "Ingredients": [
+        {
+            "1": "12 ounces dry fettuccine pasta"
+        },
+        {
+            "2": "2  red bell peppers, julienned"
+        },
+        {
+            "3": "3 cloves garlic, minced"
+        },
+        {
+            "4": "0.75 teaspoon cayenne pepper"
+        },
+        {
+            "5": "1 cup reduced fat sour cream"
+        },
+        {
+            "6": "0.75 cup chicken broth"
+        },
+        {
+            "7": "0.75 cup grated Parmesan cheese"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+            "2": "Meanwhile, spray cooking oil in a large skillet and saute red bell peppers, garlic and cayenne pepper over medium heat for 3 to 5 minutes."
+        },
+        {
+            "3": "Stir in sour cream and broth; simmer uncovered for 5 minutes. Remove from heat and stir in cheese."
+        },
+        {
+            "4": "Toss hot pasta with sauce and season with salt and pepper to taste; serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "475"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "69g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9403011.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9114276.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0948b13e2b331b0b6a9b0b5eb790bb17%2F7309356.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9976f824b8b5fba6a56f1393f3600b4b%2F5970358.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/p5wpn3b3kvyPSz_9sqZDNuhxe3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/805186-94a6a12a485247a4a4672badc3855e85.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Chicken and Egg Salad",
+    "Category": "Everyday Leftovers",
+    "Ingredients": [
+        {
+            "1": "2 cups diced cooked chicken"
+        },
+        {
+            "2": "3  hard-boiled eggs, diced"
+        },
+        {
+            "3": "0.5  onion, chopped"
+        },
+        {
+            "4": "1 stalk celery, diced"
+        },
+        {
+            "5": "2 tablespoons mayonnaise, or to taste"
+        },
+        {
+            "6": "2 tablespoons chopped fresh cilantro"
+        },
+        {
+            "7": "1 tablespoon chopped fresh parsley"
+        },
+        {
+            "8": "1 pinch salt and cracked black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine chicken, eggs, onion, celery, mayonnaise, cilantro, parsley, salt, and pepper in a big bowl; stir well. Taste and adjust salt, pepper, and mayonnaise to your liking. Place in the refrigerator to chill, about 3 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Additional Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "274"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9262888.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9261752.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1131774.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

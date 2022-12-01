@@ -1,0 +1,90 @@
+{
+    "title": "Easy Ice Cream Sandwiches",
+    "Category": "Sandwich Cookies",
+    "Ingredients": [
+        {
+            "1": "1 (18.25 ounce) package chocolate cake mix"
+        },
+        {
+            "2": "0.5 cup butter, softened"
+        },
+        {
+            "3": "1 teaspoon vanilla extract"
+        },
+        {
+            "4": "2  eggs"
+        },
+        {
+            "5": "0.5 cup semisweet chocolate chips"
+        },
+        {
+            "6": "0.5 cup butterscotch chips"
+        },
+        {
+            "7": "0.5 gallon vanilla ice cream, softened"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease baking sheets."
+        },
+        {
+            "2": "In a large bowl, mix together the cake mix, butter, vanilla extract, eggs, chocolate chips, and butterscotch chips. Roll dough into 2-inch balls and place them onto the prepared baking sheets. Bake for 10 minutes in the preheated oven. Do not overbake; the cookies should be set, but still soft. Let cool on the baking sheet for a few minutes before removing to finish cooling on wire racks."
+        },
+        {
+            "3": "Using an ice cream scoop, mold the softened ice cream into a ball about the size of the cookies. Place scoop of ice cream between two cookies and gently press together. If you like a smooth edge, run the back of a spoon around the edge of the ice cream sandwich. Working quickly, fill all of the cookies, lay out on a baking sheet, and place in the freezer to harden. Serve when the ice cream has frozen solid. Sandwich cookies can be stored in a freezer bag for up to two weeks."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 ice cream sandwiches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "515"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "61g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1264da50304973f7056b8f436f745554%2F5680493.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F986a2aaf90ed09c53c567b5f024423f1%2F3790950.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1025536.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F115838.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/TEYqrJsQuuQdc5DS9Z9iVN3EuOI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/111697-cc2bb1fc13d64397896f8a28ebf4ab4f.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

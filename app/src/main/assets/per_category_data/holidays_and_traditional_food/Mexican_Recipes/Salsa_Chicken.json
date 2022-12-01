@@ -1,0 +1,81 @@
+{
+    "title": "Salsa Chicken",
+    "Category": "Mexican Recipes",
+    "Ingredients": [
+        {
+            "1": "4  skinless, boneless chicken breast halves"
+        },
+        {
+            "2": "4 teaspoons taco seasoning mix"
+        },
+        {
+            "3": "1 cup salsa"
+        },
+        {
+            "4": "1 cup shredded Cheddar cheese"
+        },
+        {
+            "5": "2 tablespoons sour cream (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a 9x13-inch baking dish."
+        },
+        {
+            "2": "Place chicken breasts in the prepared dish. Sprinkle seasoning mix on both sides of chicken breasts; pour salsa on top."
+        },
+        {
+            "3": "Bake in the preheated oven until chicken is tender and juicy and the juices run clear, 25 to 35 minutes."
+        },
+        {
+            "4": "Sprinkle chicken evenly with cheese. Continue baking until cheese is melted and bubbly, 3 to 5 minutes more. Top with sour cream and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "287"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "36g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F652e28b0334bcc021903c6850b4673a1%2F1663461117181105B8-3870-4A64-853D-CD27ECA2140D.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F652e28b0334bcc021903c6850b4673a1%2F1653171455387972C2-0469-46A7-9B35-C46161D38D42.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F652e28b0334bcc021903c6850b4673a1%2F16433352405D5E1E21-7E75-4624-BD45-5B94FFFCC4DE.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9382253.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/zM-MjiF5Bsp2O2Uylv3mVvWlYz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9131361-a4afb189459245ecb57170029b06e16a.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

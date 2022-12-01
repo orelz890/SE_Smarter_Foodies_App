@@ -1,0 +1,96 @@
+{
+    "title": "Classic Pub Style Nachos",
+    "Category": "Nachos",
+    "Ingredients": [
+        {
+            "1": "0.25 cup chopped red onion"
+        },
+        {
+            "2": "4  tomatoes, seeded and finely chopped"
+        },
+        {
+            "3": "0.5 cup chopped fresh parsley"
+        },
+        {
+            "4": "0.25 cup olive oil"
+        },
+        {
+            "5": "1  lime, juiced"
+        },
+        {
+            "6": "1 pinch salt and black pepper (Optional)"
+        },
+        {
+            "7": "1 (8 ounce) package tortilla chips"
+        },
+        {
+            "8": "2 cups shredded Cheddar cheese, divided"
+        },
+        {
+            "9": "0.5 cup sour cream (Optional)"
+        },
+        {
+            "10": "0.5 cup guacamole (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Mix together the onion, tomatoes, parsley, olive oil, lime juice, salt and pepper in a bowl."
+        },
+        {
+            "3": "Spread tortilla chips in a single layer onto a baking sheet, and spoon about 1 teaspoon of the tomato salsa onto each chip. Spread 1 cup of Cheddar cheese over the nachos, top the chips with another teaspoon or so of salsa, and top with the remaining 1 cup of cheese."
+        },
+        {
+            "4": "Bake the nachos in the preheated oven until the cheese is bubbling, about 5 minutes. Serve hot with sour cream, guacamole, and any remaining salsa on the side for dipping the chips."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "504"
+        },
+        {
+            "Fat": "37g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Faac6a2a0de6868062643bd7f2e527770%2F5994525.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3353258.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2131414.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F962581.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

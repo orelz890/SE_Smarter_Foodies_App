@@ -1,0 +1,81 @@
+{
+    "title": "Tomato and Bocconcini Salad",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "0.5 cup olive oil"
+        },
+        {
+            "2": "0.5 cup balsamic vinegar"
+        },
+        {
+            "3": "1 clove garlic, minced"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "1 teaspoon ground black pepper"
+        },
+        {
+            "6": "4 cups baby spinach, rinsed and dried"
+        },
+        {
+            "7": "2 cups arugula, rinsed and dried"
+        },
+        {
+            "8": "2 cups grape tomatoes"
+        },
+        {
+            "9": "1 cup fresh bocconcini cheese, cut into bite-sized pieces"
+        },
+        {
+            "10": "1 cup minced red onion"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine the olive oil, vinegar, garlic, salt, and black pepper in a jar with a lid; set aside. Gently combine the spinach, arugula, tomatoes, bocconcini cheese, and onion in a pretty serving bowl. Shake the salad dressing vigorously to combine, and drizzle over the salad to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "259"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2327720.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F952882.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F952880.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Caprese Salad with Balsamic Reduction",
+    "Category": "Salad Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup balsamic vinegar"
+        },
+        {
+            "2": "0.25 cup honey"
+        },
+        {
+            "3": "3 large tomatoes, cut into 1/2-inch slices"
+        },
+        {
+            "4": "1 (16 ounce) package fresh mozzarella cheese, cut into 1/4-inch slices"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "7": "0.5 cup fresh basil leaves"
+        },
+        {
+            "8": "0.25 cup extra-virgin olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir balsamic vinegar and honey together in a small saucepan and place over high heat. Bring to a boil, reduce heat to low, and simmer until mixture has reduced to 1/3 cup, about 10 minutes. Set aside to cool."
+        },
+        {
+            "2": "Arrange alternating slices of tomato and mozzarella decoratively on a serving platter. Sprinkle with salt and black pepper, tuck basil leaves around slices, and drizzle with olive oil and the balsamic reduction."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "580"
+        },
+        {
+            "Fat": "39g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F38d498b2df8676a89d0db8c28ae45d22%2F164728004620220314_104720.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8643823.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9320972.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9319243.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/K-NRsyjVuHXx9jmpG1h3V0ax9eA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1018869-400586536fcc4e77a22223465b65e095.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

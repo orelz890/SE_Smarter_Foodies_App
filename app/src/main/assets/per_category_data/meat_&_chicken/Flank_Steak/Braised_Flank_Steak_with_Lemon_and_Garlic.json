@@ -1,0 +1,84 @@
+{
+    "title": "Braised Flank Steak with Lemon and Garlic",
+    "Category": "Flank Steak",
+    "Ingredients": [
+        {
+            "1": "0.5 cup all-purpose flour"
+        },
+        {
+            "2": "0.5 teaspoon garlic powder"
+        },
+        {
+            "3": "1 salt and pepper to taste"
+        },
+        {
+            "4": "1 (1 1/2-pound) beef flank steak"
+        },
+        {
+            "5": "1 tablespoon cooking oil"
+        },
+        {
+            "6": "1 (13.75 ounce) can  chicken broth"
+        },
+        {
+            "7": "2 teaspoons lemon juice"
+        },
+        {
+            "8": "2 cloves garlic, minced"
+        },
+        {
+            "9": "3  whole cloves"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix the flour and garlic powder together in a shallow dish. Season with salt and pepper to taste. Dip the steak in the flour mixture evenly coating both sides. Set aside. Discard remaining flour mixture."
+        },
+        {
+            "2": "Heat the cooking oil in a skillet over medium-high heat. Place the steak in the skillet and cook until browned on both sides, about 5 minutes for each side. Stir in the chicken broth, lemon juice, garlic, and cloves. Bring the mixture to a boil over medium-high heat, then reduce heat to low. Cover, and simmer until steak is tender, about 1 1/2 hours."
+        },
+        {
+            "3": "To serve, remove steak from the skillet, and slice across the grain in thin strips. Place on serving plates, and ladle sauce over meat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 40 mins"
+        },
+        {
+            "Total Time": " 1 hrs 50 mins"
+        },
+        {
+            "Servings": "3 "
+        },
+        {
+            "Yield": "3 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "732"
+        },
+        {
+            "Fat": "43g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "64g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0fab41d28d82568703bba0326d2d7522%2F957442.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F283272.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

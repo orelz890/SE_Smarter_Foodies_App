@@ -1,0 +1,99 @@
+{
+    "title": "Paella II",
+    "Category": "Paella",
+    "Ingredients": [
+        {
+            "1": "20  mussels, cleaned and debearded"
+        },
+        {
+            "2": "10 large shrimp"
+        },
+        {
+            "3": "2 large squid, cleaned and sliced into rings"
+        },
+        {
+            "4": "2 tablespoons olive oil"
+        },
+        {
+            "5": "2 pounds boneless, skinless chicken pieces cut into chunks"
+        },
+        {
+            "6": "3 cloves garlic, chopped"
+        },
+        {
+            "7": "1  red bell pepper, sliced"
+        },
+        {
+            "8": "2  tomatoes, cubed"
+        },
+        {
+            "9": "3 cups long-grain white rice"
+        },
+        {
+            "10": "1 pinch saffron"
+        },
+        {
+            "11": "1 teaspoon paprika"
+        },
+        {
+            "12": "1 cup green peas"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a pot of lightly salted water, boil the mussels until they open. Drain, and discard unopened mussels. In a separate pot of lightly salted water, boil the prawns and squid until opaque, 3 to 4 minutes. Drain, reserving liquid."
+        },
+        {
+            "2": "Heat olive oil in a large skillet. Place chicken pieces in the skillet, fry them until they are golden brown. Remove the chicken pieces from the skillet and set aside."
+        },
+        {
+            "3": "Place garlic, peppers and tomato cubes into the skillet that the chicken was just removed from. Fry the vegetables until they soften."
+        },
+        {
+            "4": "Bring the fish stock and 3 cups salted water to a boil and mix in 3 cups rice, saffron and paprika. Bring to a boil again. Cover, reduce heat and simmer for 50 minutes or until rice is tender."
+        },
+        {
+            "5": "Stir the peas into the rice. Pour the rice mixture into a large serving dish. Arrange the fried vegetables, chicken, shellfish and prawns around the rice. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "367"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "52g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4807269.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2110617.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Maryland Crab Cakes Recipe",
+    "Category": "Crab Cakes",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "1 pound crabmeat, shredded"
+        },
+        {
+            "3": "0.5 tablespoons dry bread crumbs"
+        },
+        {
+            "4": "2 teaspoons chopped fresh parsley"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        },
+        {
+            "6": "1  egg"
+        },
+        {
+            "7": "0.5 tablespoons mayonnaise"
+        },
+        {
+            "8": "0.5 teaspoon ground dry mustard"
+        },
+        {
+            "9": "1 dash hot pepper sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven's broiler. Lightly grease a broiler pan or baking sheet with cooking spray."
+        },
+        {
+            "2": "Mix crabmeat, bread crumbs, parsley, salt, and pepper together in a large bowl."
+        },
+        {
+            "3": "Mix egg, mayonnaise, mustard, and hot sauce together in a small bowl; stir into crab mixture until well combined. Form into patties and place on the prepared broiler pan or baking sheet."
+        },
+        {
+            "4": "Broil crab cakes under the preheated broiler until golden brown on both sides, about 5 to 7 minutes per side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "211"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0dfeaedfb79618b384f17c12b67490e7%2F1659550609Screenshot_20220619-181801_Gallery.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8658688.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8501553.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8304916.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/yjUSOUNhLrSb2_es8IyJQecsR58=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19489-maryland-crab-cakes-mfs-1-1-35b2f9837d4f4b3385dc8d232d729f74.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

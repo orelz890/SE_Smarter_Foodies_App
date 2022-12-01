@@ -1,0 +1,90 @@
+{
+    "title": "Peppermint Patty Brownies",
+    "Category": "Brownies",
+    "Ingredients": [
+        {
+            "1": "0.5 cups margarine"
+        },
+        {
+            "2": "3 cups white sugar"
+        },
+        {
+            "3": "1 tablespoon vanilla extract"
+        },
+        {
+            "4": "5  eggs"
+        },
+        {
+            "5": "2 cups all-purpose flour"
+        },
+        {
+            "6": "1 cup unsweetened cocoa powder"
+        },
+        {
+            "7": "1 teaspoon baking powder"
+        },
+        {
+            "8": "1 teaspoon salt"
+        },
+        {
+            "9": "24  small peppermint patties"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking pan."
+        },
+        {
+            "2": "Mix margarine, sugar, and vanilla in a large bowl. Beat in eggs until well-blended. Stir in flour, cocoa, baking powder, and salt; blend well. Set aside 2 cups batter."
+        },
+        {
+            "3": "Spread remaining batter in the prepared pan. Arrange peppermint patties in a single layer over batter about 1/2 inch apart. Spread reserved 2 cups batter over patties."
+        },
+        {
+            "4": "Bake until brownies begin to pull away from the sides of the pan, 50 to 55 minutes. Cool completely in the pan on a wire rack, then cut into 24 brownies."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "24 brownies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "653"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "98g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F353706.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F164058.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F62037.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

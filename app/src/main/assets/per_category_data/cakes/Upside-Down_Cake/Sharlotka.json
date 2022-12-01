@@ -1,0 +1,87 @@
+{
+    "title": "Sharlotka",
+    "Category": "Upside-Down Cake",
+    "Ingredients": [
+        {
+            "1": "2  Granny Smith apples - peeled, cored, and chopped"
+        },
+        {
+            "2": "5  eggs"
+        },
+        {
+            "3": "1 cup white sugar"
+        },
+        {
+            "4": "1 cup all-purpose flour"
+        },
+        {
+            "5": "0.25 cup sour cream (Optional)"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "0.5 teaspoon baking powder"
+        },
+        {
+            "8": "1 teaspoon vanilla extract (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease an oversized, deep, glass pie dish and spread apples inside."
+        },
+        {
+            "2": "Combine eggs and sugar in the bowl of a stand mixer fitted with the wire whisk attachment. Mix on the highest setting until eggs are foamy and change in color, 5 to 7 minutes. The goal is to achieve a consistency something close to meringue."
+        },
+        {
+            "3": "Turn stand mixer off and switch the attachment to the standard mixing paddle. With the machine on its lowest setting, add flour, sour cream, salt, baking powder, and vanilla extract. Mix until just incorporated. Batter should be thick, fluffy, and airy. Do not overmix, as it will deflate the batter. Pour batter over apples in the pie dish."
+        },
+        {
+            "4": "Bake in the preheated oven until the top turns golden brown and a knife comes out clean, about 40 minutes. Let cool just until it is safe to handle the pan; loosen edges and flip the cake onto a serving platter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "231"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9430559.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9422764.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9409642.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Teriyaki Chicken",
+    "Category": "Chicken Teriyaki",
+    "Ingredients": [
+        {
+            "1": "1 (3 pound) whole chicken, cut in half"
+        },
+        {
+            "2": "0.75 cup granulated sugar"
+        },
+        {
+            "3": "0.75 cup soy sauce"
+        },
+        {
+            "4": "1 tablespoon grated fresh ginger"
+        },
+        {
+            "5": "2 cloves garlic, minced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Rinse chicken halves, and pat dry with paper towels. Place chicken cut side down in a 9x13 inch baking dish."
+        },
+        {
+            "2": "In a medium mixing bowl, combine sugar, soy sauce, grated ginger and garlic. Mix well, and pour mixture over chicken. Cover and refrigerate for at least 3 hours."
+        },
+        {
+            "3": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "4": "Bake chicken uncovered in the preheated oven for 1 hour, basting frequently. Test for doneness, making sure there is no pink left in the meat. Let cool slightly, then cut into smaller pieces to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "604"
+        },
+        {
+            "Fat": "34g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "44g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9162615.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9164544.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8584471.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8460438.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

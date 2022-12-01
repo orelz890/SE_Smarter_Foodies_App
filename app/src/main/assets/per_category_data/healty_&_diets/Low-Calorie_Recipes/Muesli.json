@@ -1,0 +1,81 @@
+{
+    "title": "Muesli",
+    "Category": "Low-Calorie Recipes",
+    "Ingredients": [
+        {
+            "1": "2.0 cups rolled oats"
+        },
+        {
+            "2": "1 cup raisins"
+        },
+        {
+            "3": "0.5 cup toasted wheat germ"
+        },
+        {
+            "4": "0.5 cup wheat bran"
+        },
+        {
+            "5": "0.5 cup oat bran"
+        },
+        {
+            "6": "0.5 cup chopped walnuts"
+        },
+        {
+            "7": "0.25 cup packed brown sugar"
+        },
+        {
+            "8": "0.25 cup raw sunflower seeds"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine oats, raisins, wheat germ, wheat bran, oat bran, walnuts, brown sugar, and sunflower seeds in a large bowl; mix well. Store muesli in an airtight container at room temperature for up to 2 months."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "8 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "188"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9436232.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9039483.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F15d808635b2950a8fbd9a9e3831368f7%2F6253825.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3589497.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/d5vQBAC_DrHj0L8YWCyVN0SHppo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/888014-f94dab3b95ce41ebad1fa04b5539f804.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

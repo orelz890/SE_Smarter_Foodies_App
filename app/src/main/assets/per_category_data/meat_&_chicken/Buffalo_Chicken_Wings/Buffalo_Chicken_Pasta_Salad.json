@@ -1,0 +1,93 @@
+{
+    "title": "Buffalo Chicken Pasta Salad",
+    "Category": "Buffalo Chicken Wings",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package uncooked rotini pasta"
+        },
+        {
+            "2": "0.5 cup mayonnaise"
+        },
+        {
+            "3": "1 cup chunky blue cheese dressing"
+        },
+        {
+            "4": "0.5 cup buffalo wing sauce"
+        },
+        {
+            "5": "1 teaspoon salt"
+        },
+        {
+            "6": "0.5 teaspoon black pepper"
+        },
+        {
+            "7": "1 pound frozen cooked chicken strips, defrosted and diced"
+        },
+        {
+            "8": "0.5 cup red bell pepper, diced"
+        },
+        {
+            "9": "0.5 cup green bell pepper, diced"
+        },
+        {
+            "10": "1 cup red onion, diced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once the water is boiling, stir in the rotini, and return to a boil. Cook uncovered, stirring occasionally, until the pasta has cooked through, but is still firm to the bite, about 8 minutes. Drain well in a colander set in the sink."
+        },
+        {
+            "2": "Stir together the mayonnaise, blue cheese dressing, buffalo wing sauce, salt and pepper in a large bowl. Add the chicken, bell peppers, red onion, and cooked pasta and toss to coat with the dressing. Cover and chill at least 1 hour in the refrigerator before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "379"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F315df049ff37f63b5b643632f4252d20%2F165794761321F34C40-D93E-48D5-825F-1179159CA581.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9307511.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9307529.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8169330.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

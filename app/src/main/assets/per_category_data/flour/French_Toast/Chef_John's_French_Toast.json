@@ -1,0 +1,93 @@
+{
+    "title": "Chef John's French Toast",
+    "Category": "French Toast",
+    "Ingredients": [
+        {
+            "1": "2  eggs"
+        },
+        {
+            "2": "0.5 cup milk"
+        },
+        {
+            "3": "1 teaspoon vanilla extract"
+        },
+        {
+            "4": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "5": "0.25 teaspoon ground allspice"
+        },
+        {
+            "6": "1 pinch salt"
+        },
+        {
+            "7": "6 (1 inch thick) slices French bread"
+        },
+        {
+            "8": "1 tablespoon butter, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Whisk eggs, milk, vanilla extract, cinnamon, allspice, and salt together in a large bowl. Place bread slices in egg mixture and soak, turning to coat, until bread is completely saturated."
+        },
+        {
+            "3": "Melt butter in a cast-iron skillet over medium heat. Working in batches, cook bread in hot butter until golden, about 3 minutes per side. Transfer toasted bread to a baking sheet."
+        },
+        {
+            "4": "Bake toast in the oven until outside is crisp and slightly puffed, 12 to 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "199"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9206792.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9009288.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8978058.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8976273.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Ywcc5Lzvg1cgiY9fuvGk9CDDRbs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2084571-chef-johns-french-toast-Tishka11-1x1-1-d935bd020a10454087baecf015bee756.jpg"
+        }
+    ],
+    "main category": "flour"
+}

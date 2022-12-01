@@ -1,0 +1,87 @@
+{
+    "title": "Bocconcini Salad",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "1 pound bocconcini (bite-size mozzarella balls)"
+        },
+        {
+            "2": "8  cherry tomatoes, halved"
+        },
+        {
+            "3": "0.5 cup chopped green bell pepper"
+        },
+        {
+            "4": "0.5 cup chopped celery"
+        },
+        {
+            "5": "0.5 cup Belgian endive leaves"
+        },
+        {
+            "6": "0.5 cup coarsely chopped arugula, stems included"
+        },
+        {
+            "7": "0.5 tablespoons fresh lemon juice"
+        },
+        {
+            "8": "3 tablespoons extra virgin olive oil"
+        },
+        {
+            "9": "2 tablespoons chopped fresh basil leaves"
+        },
+        {
+            "10": "1 salt and freshly ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large salad bowl, combine the mozzarella, cherry tomatoes, bell pepper, celery, endive and arugula."
+        },
+        {
+            "2": "Whisk together the lemon juice and olive oil; pour over the salad. Toss until all the ingredients are thoroughly coated with the dressing. Transfer salad to individual serving plates, if desired. Sprinkle the basil over the salad, season with salt and pepper, and serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "449"
+        },
+        {
+            "Fat": "36g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5462695.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F21558bebb0e1bf11824fb89493f1170c%2F3554954.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1125900.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F969819.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

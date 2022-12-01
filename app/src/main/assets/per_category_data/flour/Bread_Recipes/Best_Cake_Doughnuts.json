@@ -1,0 +1,99 @@
+{
+    "title": "Best Cake Doughnuts",
+    "Category": "Bread Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "1 tablespoon baking powder"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "0.25 teaspoon ground cinnamon"
+        },
+        {
+            "6": "1 dash ground nutmeg"
+        },
+        {
+            "7": "2 tablespoons melted butter"
+        },
+        {
+            "8": "0.5 cup milk"
+        },
+        {
+            "9": "1  egg, beaten"
+        },
+        {
+            "10": "1 quart oil for frying"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a deep-fryer to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Sift together flour, sugar, baking powder, salt, cinnamon, and nutmeg in a large bowl. Mix in butter until crumbly. Stir in milk and egg until smooth."
+        },
+        {
+            "3": "Knead lightly, then turn out onto a lightly floured surface. Roll or pat to 1/4-inch thickness. Cut with a doughnut cutter, or use two round biscuit cutters of different sizes."
+        },
+        {
+            "4": "Lay doughnuts in hot oil, a few at a time. Do not overcrowd the pan, or oil may overflow. Fry, turning once, until golden, about 3 minutes. Drain on paper towels."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 doughnuts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "202"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F830ee264cd417a193dba6f4e3ef7c5bc%2F1661031268PXL_20220820_202456799.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F830ee264cd417a193dba6f4e3ef7c5bc%2F1648821752A435BDC6-84ED-4407-9029-85E3530CF4DF.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9410372.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9387730.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/c4Xr5MEkMgIwxh2HrDo29661Pg8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3390842-be313ad3f9a4415fb2a5f3547c3d5752.jpg"
+        }
+    ],
+    "main category": "flour"
+}

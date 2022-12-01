@@ -1,0 +1,69 @@
+{
+    "title": "3-Minute Fudge",
+    "Category": "Fudge",
+    "Ingredients": [
+        {
+            "1": "1 cup sweetened condensed milk"
+        },
+        {
+            "2": "1 (12 ounce) bag semisweet chocolate chips"
+        },
+        {
+            "3": "1 (1 ounce) square semisweet baking chocolate, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Grease an 8x8-inch square baking dish with butter."
+        },
+        {
+            "2": "Place sweetened condensed milk, chocolate chips, and baking chocolate in a microwave-safe dish; cook in microwave on low power until chocolate has melted, about 3 minutes. Beat with an electric mixer until smooth, about 1 minute."
+        },
+        {
+            "3": "Pour fudge into the prepared baking dish; let stand until set, 3 to 4 hours. Cut into squares to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "3 mins"
+        },
+        {
+            "Additional Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 8 mins"
+        },
+        {
+            "Servings": "35 "
+        },
+        {
+            "Yield": "35 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "78"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6636990.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1068771.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

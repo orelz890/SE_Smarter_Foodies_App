@@ -1,0 +1,75 @@
+{
+    "title": "'Chinese Buffet' Green Beans",
+    "Category": "Low-Calorie Recipes",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon oil, peanut or sesame"
+        },
+        {
+            "2": "2 cloves garlic, thinly sliced"
+        },
+        {
+            "3": "1 pound fresh green beans, trimmed"
+        },
+        {
+            "4": "2 tablespoons oyster sauce"
+        },
+        {
+            "5": "1 tablespoon white sugar"
+        },
+        {
+            "6": "2 teaspoons soy sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a wok or large skillet over medium-high heat. Stir in garlic; cook until edges begin to brown, about 20 seconds. Add green beans; cook and stir until they begin to soften, about 5 minutes."
+        },
+        {
+            "2": "Stir in oyster sauce, sugar, and soy sauce. Cook and stir until beans have attained the desired degree of tenderness, 2 to 4 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "55"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd4e423cd32f8779748ea21867b17e3ea%2F1643667129top%2520choice.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9419362.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9386566.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9136054.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

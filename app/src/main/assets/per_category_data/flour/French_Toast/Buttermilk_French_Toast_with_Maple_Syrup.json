@@ -1,0 +1,105 @@
+{
+    "title": "Buttermilk French Toast with Maple Syrup",
+    "Category": "French Toast",
+    "Ingredients": [
+        {
+            "1": "1 French Toast-"
+        },
+        {
+            "2": "2  eggs"
+        },
+        {
+            "3": "0.75 cup buttermilk"
+        },
+        {
+            "4": "0.5 teaspoon almond extract"
+        },
+        {
+            "5": "0.25 teaspoon ground cinnamon"
+        },
+        {
+            "6": "0.25 teaspoon nutmeg"
+        },
+        {
+            "7": "4 thick slices Texas toast"
+        },
+        {
+            "8": "1 cooking spray"
+        },
+        {
+            "9": "1 Syrup-"
+        },
+        {
+            "10": "1 cup white sugar"
+        },
+        {
+            "11": "0.5 cup water"
+        },
+        {
+            "12": "2 tablespoons brown sugar"
+        },
+        {
+            "13": "1 teaspoon maple-flavored extract"
+        },
+        {
+            "14": "0.25 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Beat eggs in a bowl until smooth. Add buttermilk, almond extract, cinnamon, and nutmeg and beat well until batter is smooth. Dip bread into batter until evenly coated."
+        },
+        {
+            "2": "Spray a skillet with cooking spray and heat over medium heat. Cook coated bread until golden brown, 4 to 5 minutes per side."
+        },
+        {
+            "3": "Combine white sugar, water, and brown sugar in a saucepan; bring to a boil and cook for 1 minute. Remove saucepan from heat and cool syrup for 2 minutes. Stir maple-flavored extract and vanilla extract into syrup. Serve syrup over French toast."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "361"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "75g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbff569f4f0403708a85ab1a98b71c00e%2F6378696.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F502b6650fe13c9bee6aaabdb0ad56c2a%2F5642725.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5374458.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5316668.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

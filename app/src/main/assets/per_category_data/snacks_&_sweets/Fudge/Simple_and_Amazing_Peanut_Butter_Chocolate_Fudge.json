@@ -1,0 +1,63 @@
+{
+    "title": "Simple and Amazing Peanut Butter-Chocolate Fudge",
+    "Category": "Fudge",
+    "Ingredients": [
+        {
+            "1": "1 cup semi-sweet chocolate chips"
+        },
+        {
+            "2": "1 cup peanut butter"
+        },
+        {
+            "3": "0.75 cup maple syrup"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt the chocolate chips with the peanut butter and maple syrup in a double boiler over medium heat, stirring continually until smooth. Pour into a dish lined with parchment paper; refrigerate 6 hours to overnight before cutting to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": " 6 hrs"
+        },
+        {
+            "Total Time": " 6 hrs 10 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "124"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8736105.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F83015bfc5314d53668ce73c59b014d69%2F7495736.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F622936.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

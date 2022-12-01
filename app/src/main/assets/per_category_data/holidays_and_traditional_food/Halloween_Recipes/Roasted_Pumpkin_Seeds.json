@@ -1,0 +1,78 @@
+{
+    "title": "Roasted Pumpkin Seeds",
+    "Category": "Halloween Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 cups raw whole pumpkin seeds"
+        },
+        {
+            "2": "2 teaspoons butter, melted"
+        },
+        {
+            "3": "1 pinch salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 300 degrees F (150 degrees C)."
+        },
+        {
+            "2": "Toss seeds in a bowl with the melted butter and salt. Spread the seeds in a single layer on a baking sheet and bake for about 45 minutes or until golden brown; stir occasionally."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 1/2 cups roasted pumpkin seeds"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "83"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7bc15769e80f9d94c9c5c6564f23cb44%2F1668783902338image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7bc15769e80f9d94c9c5c6564f23cb44%2F1667677472067IMG_20221101_164005372.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7bc15769e80f9d94c9c5c6564f23cb44%2F1667267271233A434C815-842E-4C07-9CD8-B1417A0AFF6A.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8844610.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/EMUQVPrIekOJcVIoll_NVnm9Y34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13768-Roasted-Pumpkin-Seeds-mfs_001-a11eaedd21e042d2ac19fac5459f89c4.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/Kgt-SjKNqjSa9qoZe4MrAX3BkCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13768-Roasted-Pumpkin-Seeds-4438ec69950f4d6da2e3cde0cc9b33e7.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/eBhEYbyKqgPXgjl6tYb3WRA50DI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13768-Roasted-Pumpkin-Seeds-mfs_003-9ddcf1504c3745a492a9a374dac3611a.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

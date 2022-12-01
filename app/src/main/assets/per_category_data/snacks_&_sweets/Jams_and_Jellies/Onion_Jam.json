@@ -1,0 +1,78 @@
+{
+    "title": "Onion Jam",
+    "Category": "Jams and Jellies",
+    "Ingredients": [
+        {
+            "1": "0.25 cup vegetable oil"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "4 cups onion, coarsely chopped"
+        },
+        {
+            "4": "0.25 teaspoon salt"
+        },
+        {
+            "5": "1 ground black pepper to taste"
+        },
+        {
+            "6": "0.5 cup red wine vinegar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat vegetable oil in a heavy skillet over medium heat. Stir sugar into oil with a wooden spoon, stirring constantly, until mixture is a light caramel color, about 10 minutes. Mixture will be very hot."
+        },
+        {
+            "2": "Stir onion, salt, and black pepper into sugar mixture. Onions will immediately start to caramelize. Stir frequently over medium heat until sugar has dissolved and onions are browned, about 15 minutes."
+        },
+        {
+            "3": "Pour red wine vinegar into onion mixture; simmer until mixture reaches a jam consistency, about 30 minutes. Let cool to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "32 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "37"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9436515.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9321784.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9265094.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8979849.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

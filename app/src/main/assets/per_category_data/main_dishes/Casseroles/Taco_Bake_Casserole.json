@@ -1,0 +1,108 @@
+{
+    "title": "Taco Bake Casserole",
+    "Category": "Casseroles",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray (such as Pam\u00ae)"
+        },
+        {
+            "2": "0.5 pounds ground beef"
+        },
+        {
+            "3": "1 cup chopped onion"
+        },
+        {
+            "4": "0.5 cup water"
+        },
+        {
+            "5": "1 (1 ounce) package taco seasoning mix"
+        },
+        {
+            "6": "1 (10 ounce) can refried beans (Optional)"
+        },
+        {
+            "7": "1 (6 ounce) can sliced black olives (Optional)"
+        },
+        {
+            "8": "1 (4 ounce) can diced green chiles"
+        },
+        {
+            "9": "0.5 cup salsa"
+        },
+        {
+            "10": "15  taco shells, broken up, or more to taste"
+        },
+        {
+            "11": "2 cups shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C). Spray a 9x13-inch baking pan with cooking spray."
+        },
+        {
+            "2": "Cook ground beef and onions in a skillet over medium heat until beef is browned, 7 to 10 minutes; drain grease. Stir in water and taco seasoning; cook, stirring often, until thickened, about 2 minutes."
+        },
+        {
+            "3": "Reduce heat to low and add refried beans, olives, green chiles, and salsa. Cook and stir until ingredients are warmed through, 3 to 4 minutes."
+        },
+        {
+            "4": "Place 1/2 of the broken taco shells in the bottom of the prepared baking dish. Pour in 1/2 of the ground beef mixture, then sprinkle 1/2 of the Cheddar cheese over top. Repeat layers once more."
+        },
+        {
+            "5": "Bake in the preheated oven until cheese is melted and bubbly, 20 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x13-inch casserole"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "360"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc19cef599a9417479e62b97c3faf7db2%2F1644277948DFA0BDAC-4F69-441C-83E1-9F25CA58E375.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc19cef599a9417479e62b97c3faf7db2%2F1643774229image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc19cef599a9417479e62b97c3faf7db2%2F1643428244D4A9E802-C465-4D89-A1DF-14ED80941F56.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9383315.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/aXg8EL1OqYV3-xTAAL4ro17M1iA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/254819-taco-bake-casserole-ddmfs-186-3x4-1-0d59729ce6e044b7aa2b084596e13154.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/ZCgqmniSY75eLnJNGYdml8OFMfs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/254819-taco-bake-casserole-ddmfs-190-1x1-1-50a0fff04f554f04b8ab454ea5a8c262.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Ruby Drive Sloppy Joes",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "0.5 cups ketchup"
+        },
+        {
+            "3": "1 cup chunky salsa"
+        },
+        {
+            "4": "2 tablespoons brown sugar"
+        },
+        {
+            "5": "1 tablespoon Worcestershire sauce"
+        },
+        {
+            "6": "2 tablespoons white vinegar"
+        },
+        {
+            "7": "2 tablespoons Dijon mustard"
+        },
+        {
+            "8": "1 teaspoon hot sauce"
+        },
+        {
+            "9": "6  potato rolls"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large skillet over medium-high heat and stir in the ground beef. Cook and stir until the beef is crumbly, evenly browned, and no longer pink. Drain and discard any excess grease."
+        },
+        {
+            "2": "Stir in ketchup, salsa, brown sugar, Worcestershire sauce, white vinegar, Dijon mustard, and hot sauce. Bring to a simmer and cook, stirring occasionally, over low heat 20 to 30 minutes. Serve on potato rolls."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 sandwiches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "382"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8948910.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7797033.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6674820.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5721482.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

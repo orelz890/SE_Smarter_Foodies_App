@@ -1,0 +1,123 @@
+{
+    "title": "Chicken Cacciatore II",
+    "Category": "Chicken Cacciatore",
+    "Ingredients": [
+        {
+            "1": "2 (3 pound) whole chickens, each cut into 8 pieces"
+        },
+        {
+            "2": "1 salt and ground black pepper to taste"
+        },
+        {
+            "3": "1 cup all-purpose flour"
+        },
+        {
+            "4": "2 tablespoons olive oil"
+        },
+        {
+            "5": "1  yellow onion, chopped"
+        },
+        {
+            "6": "1 large green bell pepper, seeded and chopped"
+        },
+        {
+            "7": "6 cloves garlic, minced"
+        },
+        {
+            "8": "1 pound white button mushrooms, quartered"
+        },
+        {
+            "9": "2 teaspoons chopped fresh oregano"
+        },
+        {
+            "10": "1 (28 ounce) can whole peeled tomatoes in juice, coarsely chopped"
+        },
+        {
+            "11": "2 tablespoons tomato paste"
+        },
+        {
+            "12": "0.75 cup white wine"
+        },
+        {
+            "13": "0.5 cups chicken stock"
+        },
+        {
+            "14": "3 tablespoons capers, drained and rinsed"
+        },
+        {
+            "15": "2 tablespoons coarsely chopped fresh basil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Season the chicken pieces with salt and black pepper."
+        },
+        {
+            "2": "Place the flour in a shallow bowl. Press each chicken piece into the flour and tap off excess."
+        },
+        {
+            "3": "Heat the olive oil in a large Dutch oven over medium heat until almost smoking hot."
+        },
+        {
+            "4": "Pan-fry the chicken until golden brown on both sides, about 3 minutes per side. Work in batches so as to not overcrowd the pan. Set the browned chicken aside."
+        },
+        {
+            "5": "Stir the onion, green bell pepper, and garlic into the Dutch oven; cook, stirring occasionally, until tender, about 5 minutes."
+        },
+        {
+            "6": "Stir in the mushroom; cook until they release their juice, 5 to 8 more minutes."
+        },
+        {
+            "7": "Mix in oregano, tomatoes, tomato paste, white wine, and chicken stock; bring to a boil."
+        },
+        {
+            "8": "Return the chicken pieces to the sauce, cover the pan, reduce heat to medium-low, and simmer until the chicken is no longer pink inside and the juices run clear, 30 to 40 minutes."
+        },
+        {
+            "9": "Stir in capers and sprinkle with basil to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "587"
+        },
+        {
+            "Fat": "30g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "51g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4560998.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4540430.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F780495.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

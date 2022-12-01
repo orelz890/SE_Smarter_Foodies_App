@@ -1,0 +1,75 @@
+{
+    "title": "Dark Chocolate Popcorn",
+    "Category": "Popcorn",
+    "Ingredients": [
+        {
+            "1": "0.75 cup white sugar"
+        },
+        {
+            "2": "0.5 cup butter"
+        },
+        {
+            "3": "0.25 cup unsweetened cocoa powder"
+        },
+        {
+            "4": "0.25 cup corn syrup"
+        },
+        {
+            "5": "1 teaspoon vanilla extract"
+        },
+        {
+            "6": "8 cups popped popcorn"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 250 degrees F (120 degrees C). Grease a 9x13-inch baking dish."
+        },
+        {
+            "2": "Bring sugar, butter, cocoa powder, and corn syrup to a gentle boil in a saucepan; cook until thickened, 1 to 2 minutes. Stir in vanilla extract. Pour popcorn into a large bowl, add cocoa mixture and stir until popcorn is well coated. Spread evenly in prepared baking dish."
+        },
+        {
+            "3": "Bake in the preheated oven, stirring occasionally, until mixture is set, about 30 minutes."
+        },
+        {
+            "4": "Remove from oven and cool to room temperature; break into clumps."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "32 mins"
+        },
+        {
+            "Total Time": "42 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "8 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "138"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4423749.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

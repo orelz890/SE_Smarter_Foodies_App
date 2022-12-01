@@ -1,0 +1,78 @@
+{
+    "title": "Tomato, Basil, and Feta Salad",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "6  roma (plum) tomatoes, diced"
+        },
+        {
+            "2": "1 small cucumber - peeled, quartered lengthwise, and chopped"
+        },
+        {
+            "3": "3  green onions, chopped"
+        },
+        {
+            "4": "0.25 cup fresh basil leaves, cut into thin strips"
+        },
+        {
+            "5": "3 tablespoons olive oil"
+        },
+        {
+            "6": "2 tablespoons balsamic vinegar"
+        },
+        {
+            "7": "3 tablespoons crumbled feta cheese"
+        },
+        {
+            "8": "1 salt and freshly ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, toss together the tomatoes, cucumber, green onions, basil, olive oil, balsamic vinegar, and feta cheese. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "140"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9192326.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8753105.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8753103.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8453473.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

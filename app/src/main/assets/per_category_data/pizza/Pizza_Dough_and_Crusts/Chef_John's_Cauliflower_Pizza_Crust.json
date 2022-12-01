@@ -1,0 +1,96 @@
+{
+    "title": "Chef John's Cauliflower Pizza Crust",
+    "Category": "Pizza Dough and Crusts",
+    "Ingredients": [
+        {
+            "1": "1 head cauliflower, cored and separated into florets"
+        },
+        {
+            "2": "0.5 cup water"
+        },
+        {
+            "3": "0.5 teaspoon salt"
+        },
+        {
+            "4": "2 ounces fresh goat cheese"
+        },
+        {
+            "5": "0.5 ounce finely grated Parmigiano-Reggiano cheese"
+        },
+        {
+            "6": "1  large egg"
+        },
+        {
+            "7": "1 pinch cayenne pepper, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper."
+        },
+        {
+            "2": "Puree cauliflower in a food processor until finely ground."
+        },
+        {
+            "3": "Cook ground cauliflower, water, and salt together in a skillet over medium-high heat until fragrant and most of the water evaporates, 5 to 6 minutes. Cool completely."
+        },
+        {
+            "4": "Transfer cauliflower to the center of a clean dish towel. Wrap and squeeze tightly to remove all excess moisture. You should have about 1 1/2 cups cauliflower pulp."
+        },
+        {
+            "5": "Stir cauliflower, goat cheese, Parmigiano-Reggiano cheese, egg, and cayenne pepper together in a bowl to form a soft dough. Gather dough into a ball and place in the center of the prepared baking sheet. Press dough into circle about 1/4-inch thick."
+        },
+        {
+            "6": "Bake in the preheated oven until golden brown and set, about 40 minutes. Cool and turn crust over before topping."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "1 pizza crust"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "121"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4cf42c0ffa05a547729a063964e3d2a3%2F16466005255F2E5CC7-6B92-4C76-B6B6-67BC370BEAC0.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9438410.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9363503.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9363499.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/VWfnUOONhPJWYksOeHok1yrTccg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2460282-647e7a1d7de74e649388a6ec00c4d0d4.jpg"
+        }
+    ],
+    "main category": "pizza"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Simple Air Fryer Brussels Sprouts",
+    "Category": "Air Fryer Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds Brussels sprouts"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "1 teaspoon garlic powder"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "0.5 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an air fryer to 390 degrees F (200 degrees C) for 15 minutes."
+        },
+        {
+            "2": "While the air fryer is preheating, trim Brussels sprouts. Place in a bowl with olive oil, garlic powder, salt, and pepper in a bowl and mix well. Spread sprouts evenly in the air fryer basket."
+        },
+        {
+            "3": "Cook in the preheated air fryer for 15 minutes, shaking the basket halfway through the cycle."
+        }
+    ],
+    "Details": [
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "91"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa702e5cef1d7aa239cdd4bb70e36094a%2F164925848522E60CE0-96C6-41A8-BC59-EAA7CAE1503B.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8213790.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8213811.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8029299.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/U1yEkqtJde3hjrwkuqU90X0xz3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8029299-b9d4a99164c24ef1bc2da388c59e3c8a.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

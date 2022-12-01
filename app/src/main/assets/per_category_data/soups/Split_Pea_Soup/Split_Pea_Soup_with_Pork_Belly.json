@@ -1,0 +1,78 @@
+{
+    "title": "Split Pea Soup with Pork Belly",
+    "Category": "Split Pea Soup",
+    "Ingredients": [
+        {
+            "1": "1  yellow onion, chopped"
+        },
+        {
+            "2": "0.25 pound pork belly, diced"
+        },
+        {
+            "3": "4 cups water, more if needed"
+        },
+        {
+            "4": "1 cup vegetable broth, or more if needed"
+        },
+        {
+            "5": "0.5 cup white wine"
+        },
+        {
+            "6": "2 cups split peas"
+        },
+        {
+            "7": "1 teaspoon ground thyme"
+        },
+        {
+            "8": "0.5 teaspoon celery seed"
+        },
+        {
+            "9": "2  bay leaves"
+        },
+        {
+            "10": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook and stir onion and pork belly in a large pot over medium heat until pork is browned and onion is translucent, 10 to 15 minutes. Add water, vegetable broth, white wine, split peas, thyme, celery seed, bay leaves, salt, and pepper; stir to combine. Bring to a boil, reduce heat, cover, and simmer until flavors have combined, about 2 hours, stirring occasionally. Remove bay leaves before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 2 hrs 10 mins"
+        },
+        {
+            "Total Time": " 2 hrs 25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "216"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff0776789748e9b366e8c57c640e5cd2f%2F973590.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

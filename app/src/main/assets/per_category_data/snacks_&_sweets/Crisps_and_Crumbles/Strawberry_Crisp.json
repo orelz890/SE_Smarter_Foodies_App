@@ -1,0 +1,93 @@
+{
+    "title": "Strawberry Crisp",
+    "Category": "Crisps and Crumbles",
+    "Ingredients": [
+        {
+            "1": "6 cups halved fresh strawberries"
+        },
+        {
+            "2": "3 tablespoons all-purpose white flour"
+        },
+        {
+            "3": "1 tablespoon white sugar"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "0.5 cups all-purpose flour"
+        },
+        {
+            "6": "0.25 cups white sugar"
+        },
+        {
+            "7": "1 cup butter"
+        },
+        {
+            "8": "1 cup rolled oats"
+        },
+        {
+            "9": "1 salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Combine strawberries, 3 tablespoons white flour, sugar, and vanilla extract in a large bowl and mix thoroughly. Pour into a 9x13-inch baking dish."
+        },
+        {
+            "3": "Combine 1 1/2 cup flour, 1 1/4 cup sugar, butter, rolled oats, and salt in a bowl; mix by hand or with a pastry cutter until crumbly and well mixed. Spread over strawberry mixture."
+        },
+        {
+            "4": "Bake in the preheated oven until bubbly and light brown, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "15 "
+        },
+        {
+            "Yield": "1 9x13-inch strawberry crisp"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "269"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8170484.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6723926.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd075099a08370eb69551b67d06e82166%2F4550837.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7de6d031707500794ea88e579ea8ac0c%2F4550833.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

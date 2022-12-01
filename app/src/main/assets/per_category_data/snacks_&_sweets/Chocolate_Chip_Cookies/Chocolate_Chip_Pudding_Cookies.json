@@ -1,0 +1,87 @@
+{
+    "title": "Chocolate Chip Pudding Cookies",
+    "Category": "Chocolate Chip Cookies",
+    "Ingredients": [
+        {
+            "1": "0.5 cups all-purpose flour"
+        },
+        {
+            "2": "1 teaspoon baking soda"
+        },
+        {
+            "3": "1 cup butter, softened"
+        },
+        {
+            "4": "0.75 cup packed light brown sugar"
+        },
+        {
+            "5": "0.25 cup white sugar"
+        },
+        {
+            "6": "1 (3.4 ounce) package instant butterscotch pudding mix"
+        },
+        {
+            "7": "1 teaspoon vanilla extract"
+        },
+        {
+            "8": "2  eggs"
+        },
+        {
+            "9": "12 ounces semisweet chocolate chips"
+        },
+        {
+            "10": "1 cup chopped walnuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Combine the flour and baking soda. Set aside."
+        },
+        {
+            "3": "Mix the butter, brown sugar, white sugar, pudding mix, and vanilla. Beat until creamy. Add the eggs and mix well. Gradually stir in the flour mixture. Stir in the chocolate chips and the chopped nuts. Drop from teaspoon onto ungreased cookie sheets about 1 inch apart."
+        },
+        {
+            "4": "Bake at 375 degrees F (190 degrees C) for 8 to 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "36 "
+        },
+        {
+            "Yield": "2 to 3 - dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "177"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8dd3ed1fcead366c30cc1dcc4d29f54c%2F164972358015D113C0-CDD9-469F-A743-7158AB08E39D.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9156362.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9034801.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8837493.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

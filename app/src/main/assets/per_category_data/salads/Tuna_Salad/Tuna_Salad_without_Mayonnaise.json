@@ -1,0 +1,72 @@
+{
+    "title": "Tuna Salad without Mayonnaise",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "1 (5 ounce) can tuna in water (such as StarKist\u00ae Chunk Light), drained"
+        },
+        {
+            "2": "0.25 cup Italian-style salad dressing"
+        },
+        {
+            "3": "2 teaspoons prepared yellow mustard"
+        },
+        {
+            "4": "1 teaspoon tomato relish"
+        },
+        {
+            "5": "1 teaspoon celery seed"
+        },
+        {
+            "6": "1 teaspoon onion powder"
+        },
+        {
+            "7": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix tuna, salad dressing, mustard, relish, celery seed, onion powder, salt, and pepper together in a bowl."
+        },
+        {
+            "2": "Place in the refrigerator for 1 hour."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "173"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7759872.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

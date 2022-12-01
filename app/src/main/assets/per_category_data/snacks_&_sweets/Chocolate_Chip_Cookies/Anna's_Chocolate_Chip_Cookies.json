@@ -1,0 +1,90 @@
+{
+    "title": "Anna's Chocolate Chip Cookies",
+    "Category": "Chocolate Chip Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup butter"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "1 cup packed brown sugar"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "2  eggs"
+        },
+        {
+            "6": "1.0 cups all-purpose flour"
+        },
+        {
+            "7": "1 teaspoon baking soda"
+        },
+        {
+            "8": "1 teaspoon salt"
+        },
+        {
+            "9": "2 cups semisweet chocolate chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "In a large bowl, cream together the butter and sugar until smooth. Beat in the vanilla and eggs one at a time. Combine the flour, baking soda and salt; stir into the sugar mixture. Finally, mix in the chocolate chips. Drop by tablespoonfuls onto ungreased cookie sheets."
+        },
+        {
+            "3": "Bake for 8 to 10 minutes in the preheated oven, or until edges are golden. Remove from baking sheet to cool on wire racks."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "48 "
+        },
+        {
+            "Yield": "3 to 4 - dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "120"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9060562.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9425699.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9425701.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9377436.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

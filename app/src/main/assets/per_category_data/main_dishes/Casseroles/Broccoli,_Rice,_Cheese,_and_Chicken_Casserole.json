@@ -1,0 +1,96 @@
+{
+    "title": "Broccoli, Rice, Cheese, and Chicken Casserole",
+    "Category": "Casseroles",
+    "Ingredients": [
+        {
+            "1": "2 cups water"
+        },
+        {
+            "2": "2 cups uncooked instant rice"
+        },
+        {
+            "3": "2 (10 ounce) cans chunk chicken, drained"
+        },
+        {
+            "4": "1 (16 ounce) package frozen chopped broccoli"
+        },
+        {
+            "5": "1 pound processed cheese food, cubed"
+        },
+        {
+            "6": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "7": "1 (10.75 ounce) can  condensed cream of chicken soup"
+        },
+        {
+            "8": "1 cup milk"
+        },
+        {
+            "9": "0.25 cup butter, cubed"
+        },
+        {
+            "10": "1 small white onion, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Bring water to a boil in a medium saucepan; stir in instant rice, cover, and remove from heat. Let stand for 5 minutes."
+        },
+        {
+            "3": "Mix prepared rice, chicken, broccoli, processed cheese, condensed mushroom soup, condensed chicken soup, milk, butter, and onion in a 9x13-inch baking dish."
+        },
+        {
+            "4": "Bake in the preheated oven until cheese is melted, about 30 to 35 minutes. Stir halfway through cooking to help cheese melt evenly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "756"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "83g"
+        },
+        {
+            "Protein": "36g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F240f6ef84d3a454f60218dd7e9d00a30%2F1661735802IMG_20220828_194848845.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9440584.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9432502.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9397092.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/UP9Vkfkfi-UQs8Im9QQa8ulhmpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3878110-d597ab41f7ed457180d77fd71cf3e51f.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

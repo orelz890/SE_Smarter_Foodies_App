@@ -1,0 +1,69 @@
+{
+    "title": "Stacked Tomato and Burrata Salad",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "1  vine-ripened tomato, cored and cut into 1/2-inch slices"
+        },
+        {
+            "2": "1 flaked sea salt and freshly ground black pepper to taste"
+        },
+        {
+            "3": "0.25 cup burrata cheese, or more to taste"
+        },
+        {
+            "4": "1 tablespoon torn fresh basil leaves, or to taste"
+        },
+        {
+            "5": "1 tablespoon extra-virgin olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place a tomato slice on a plate; season with sea salt and black pepper. Spread burrata cheese over tomato slice and top with torn basil leaves. Drizzle with olive oil. Top with another tomato slice. Repeat cheese and tomato layering process with remaining slices, finishing with a tomato slice."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "329"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F02afeb0d7cde44c3b3b458e62faed7c6%2F16636400915500814A-863B-41B8-A4DB-9A3D7BB3BFDD.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F02afeb0d7cde44c3b3b458e62faed7c6%2F166126392120220821_193954.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7765862.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7780795.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/uLMi9qyppg1THqt6R2vhdzuoROI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4534355-0a6059a84ccb40a6aa31eb1c852496ed.jpg"
+        }
+    ],
+    "main category": "salads"
+}

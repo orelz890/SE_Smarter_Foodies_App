@@ -1,0 +1,84 @@
+{
+    "title": "Simple Instant Pot\u00ae Mashed Potatoes",
+    "Category": "Mashed Potatoes",
+    "Ingredients": [
+        {
+            "1": "0.25 pounds Yukon Gold potatoes"
+        },
+        {
+            "2": "0.5 cups water"
+        },
+        {
+            "3": "2 cubes  chicken bouillon"
+        },
+        {
+            "4": "0.5 cup sour cream"
+        },
+        {
+            "5": "0.5 cup unsalted butter, cubed"
+        },
+        {
+            "6": "2 tablespoons milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cut potatoes into 1-inch cubes. Add to a multi-functional pressure cooker (such as Instant Pot\u00ae) with water and bouillon cubes. Select Saute function; set timer for 4 minutes on High."
+        },
+        {
+            "2": "Mix potatoes and water and break up the bouillon cubes. Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 10 minutes. Allow 10 to 15 minutes for pressure to build."
+        },
+        {
+            "3": "Release pressure using the natural-release method according to manufacturer's instructions, about 10 minutes. Release remaining pressure carefully using the quick-release method. Remove the pot and carefully drain off most of the liquid."
+        },
+        {
+            "4": "Add sour cream, butter, and milk. Gently mash with a potato masher to reach your desired consistency."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "386"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8685795.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8583606.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://www.allrecipes.com/thmb/KD4V7wcKHbuO7d_dPDw5vtS9_wg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8685795-868d5cebf68d4adcbd317d6212b33418.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

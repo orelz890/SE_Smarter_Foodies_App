@@ -1,0 +1,96 @@
+{
+    "title": "Spicy Pumpkin Pie II",
+    "Category": "Pumpkin Pie",
+    "Ingredients": [
+        {
+            "1": "2 cups canned pumpkin puree"
+        },
+        {
+            "2": "1 cup milk"
+        },
+        {
+            "3": "1 cup light cream"
+        },
+        {
+            "4": "0.5 cup brown sugar"
+        },
+        {
+            "5": "0.5 cup white sugar"
+        },
+        {
+            "6": "0.5 teaspoons ground cinnamon"
+        },
+        {
+            "7": "0.25 teaspoon salt"
+        },
+        {
+            "8": "0.5 teaspoon ground nutmeg"
+        },
+        {
+            "9": "0.25 teaspoon ground ginger"
+        },
+        {
+            "10": "0.25 teaspoon ground cloves"
+        },
+        {
+            "11": "1 tablespoon all-purpose flour"
+        },
+        {
+            "12": "2  eggs, lightly beaten"
+        },
+        {
+            "13": "1 (9 inch) unbaked pie crust"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 450 degrees F (230 degrees C.)"
+        },
+        {
+            "2": "In a large bowl, combine pumpkin puree, milk, cream, brown sugar and white sugar. Mix in the cinnamon, salt, nutmeg, ginger and cloves. Beat in the flour and eggs. Pour filling into pie shell."
+        },
+        {
+            "3": "Bake for 10 minutes at 450 degrees F (230 degrees C) then reduce the temperature to 350 degrees F (175 degrees C) and bake for 50 minutes, or until filling has set."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 to 9 - inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "333"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "45g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2876296.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8bac4d49ea85613f4b3e61b6994af159%2F287340.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

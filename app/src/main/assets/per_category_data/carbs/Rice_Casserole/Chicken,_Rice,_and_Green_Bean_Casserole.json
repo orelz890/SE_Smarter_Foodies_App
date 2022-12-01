@@ -1,0 +1,87 @@
+{
+    "title": "Chicken, Rice, and Green Bean Casserole",
+    "Category": "Rice Casserole",
+    "Ingredients": [
+        {
+            "1": "1 (6 ounce) package wild rice (such as Uncle Ben's \u00ae)"
+        },
+        {
+            "2": "3 cups water"
+        },
+        {
+            "3": "1 tablespoon vegetable oil"
+        },
+        {
+            "4": "1 pound skinless, boneless chicken breast meat - cut into chunks"
+        },
+        {
+            "5": "1 (14.5 ounce) can French-cut green beans, drained"
+        },
+        {
+            "6": "1 (10.75 ounce) can  cream of mushroom soup"
+        },
+        {
+            "7": "1 cup mayonnaise"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Bring the wild rice and water to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until the rice is tender but not mushy, 20 to 25 minutes. Drain off any excess liquid, fluff the rice with a fork, and cook uncovered 5 minutes more."
+        },
+        {
+            "3": "While the rice cooks, heat the oil in a pan over medium heat. Add the chicken and cook until completely browned on all sides, about 5 minutes. Combine the rice, chicken, green beans, mushroom soup, and mayonnaise in a large baking dish."
+        },
+        {
+            "4": "Bake in the preheated oven until the chicken is no longer pink in the center, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "508"
+        },
+        {
+            "Fat": "37g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7850483.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7005452.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6455803.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2408921.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Simple Hamburger Stroganoff",
+    "Category": "Beef Stroganoff",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package egg noodles"
+        },
+        {
+            "2": "1 pound lean ground beef"
+        },
+        {
+            "3": "1 (.75 ounce) packet dry brown gravy mix"
+        },
+        {
+            "4": "1 (8 ounce) package cream cheese"
+        },
+        {
+            "5": "1 (6 ounce) can chopped mushrooms, with liquid"
+        },
+        {
+            "6": "0.5 cup milk"
+        },
+        {
+            "7": "1 (8 ounce) container sour cream"
+        },
+        {
+            "8": "2 (10.75 ounce) cans  condensed cream of mushroom soup"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add egg noodles and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+            "2": "In a skillet over medium heat, brown the ground beef until no pink shows, about 5 minutes; drain fat."
+        },
+        {
+            "3": "Mix brown gravy, cream cheese, and mushrooms with hamburger, stirring until cream cheese melts. Add milk, sour cream, and mushroom soup to cooked pasta. Blend hamburger mixture with pasta."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "735"
+        },
+        {
+            "Fat": "42g"
+        },
+        {
+            "Carbs": "61g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8ba36619210909017dd5d8991e95349b%2F166371170516637116714437185783504092389338.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8ba36619210909017dd5d8991e95349b%2F165785533720220714_173641.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8949032.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8924951.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/I_miASoUgVJV0XkcJEosAJX5BQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23260_Simple-Hamburger-Stroganoff_Melissa-Goff_4573295_original-1x1-1-b7a622bc2b2a470fb6cb84a10950417b.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

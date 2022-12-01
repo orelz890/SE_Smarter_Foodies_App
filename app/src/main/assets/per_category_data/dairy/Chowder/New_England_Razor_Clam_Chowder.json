@@ -1,0 +1,90 @@
+{
+    "title": "New England Razor Clam Chowder",
+    "Category": "Chowder",
+    "Ingredients": [
+        {
+            "1": "1 pound thick-cut bacon strips, diced"
+        },
+        {
+            "2": "2 pounds potatoes, diced"
+        },
+        {
+            "3": "1  onion, minced"
+        },
+        {
+            "4": "2 cloves garlic, minced"
+        },
+        {
+            "5": "2 tablespoons all-purpose flour"
+        },
+        {
+            "6": "1 (12 fluid ounce) can evaporated milk"
+        },
+        {
+            "7": "1 cup heavy cream"
+        },
+        {
+            "8": "1 pound frozen razor clams, thawed with liquid reserved"
+        },
+        {
+            "9": "1  bay leaf"
+        },
+        {
+            "10": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook and stir bacon in a large pot over medium-high heat until browned, about 10 minutes. Remove bacon with a slotted spoon to a paper towel-lined plate, reserving drippings in the pot."
+        },
+        {
+            "2": "Cook and stir potatoes, onion, and garlic in hot drippings until onion is translucent, 7 to 10 minutes. Stir flour into potato mixture; cook and stir for 1 minute. Stir evaporated milk, heavy cream, liquid from clams, and bay leaf into potato mixture."
+        },
+        {
+            "3": "Bring mixture to a simmer, reduce heat to medium, and cook until potatoes are soft, about 15 minutes. Add clams to soup; cook until clams are hot, about 5 minutes. Sprinkle with bacon; season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "575"
+        },
+        {
+            "Fat": "41g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429386.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1ed3f9ca520439c072b3053738a601fd%2F5458048.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5458048.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4058568.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dairy"
+}

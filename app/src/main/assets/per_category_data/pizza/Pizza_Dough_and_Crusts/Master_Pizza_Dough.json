@@ -1,0 +1,81 @@
+{
+    "title": "Master Pizza Dough",
+    "Category": "Pizza Dough and Crusts",
+    "Ingredients": [
+        {
+            "1": "1.0 cups all-purpose flour, or as needed"
+        },
+        {
+            "2": "1 envelope Fleischmann's\u00ae RapidRise Yeast*"
+        },
+        {
+            "3": "0.75 teaspoon salt"
+        },
+        {
+            "4": "1 cup very warm water (120 degrees F to 130 degrees F)"
+        },
+        {
+            "5": "2 tablespoons olive or vegetable oil"
+        },
+        {
+            "6": "1 Cornmeal"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, combine 2 cups flour, undissolved yeast, and salt. Stir very warm water and olive oil into flour mixture. Stir in enough remaining flour to make soft dough. Knead on lightly floured surface until smooth and elastic, about 4 to 6 minutes. Cover; let rest on floured surface 10 minutes."
+        },
+        {
+            "2": "Lightly oil 1 (14-inch) or 2 (12-inch) round pizza pan(s).** Sprinkle with cornmeal. Shape dough into smooth ball. Divide and roll dough to fit desired pan(s). Top pizza as desired."
+        },
+        {
+            "3": "Bake at 400 degrees F for 20 to 30 minutes or until done. Baking time depends on size and thickness of crust and selected toppings."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 14-inch thick crust pizza or 2 12-inch thin crust"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "235"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9426147.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9400914.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9395187.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9349215.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pizza"
+}

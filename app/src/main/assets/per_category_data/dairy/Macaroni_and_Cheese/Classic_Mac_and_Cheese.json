@@ -1,0 +1,84 @@
+{
+    "title": "Classic Mac and Cheese",
+    "Category": "Macaroni and Cheese",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package elbow macaroni"
+        },
+        {
+            "2": "4 tablespoons butter"
+        },
+        {
+            "3": "4 tablespoons flour"
+        },
+        {
+            "4": "2 cups whole milk"
+        },
+        {
+            "5": "8 ounces shredded Cheddar cheese"
+        },
+        {
+            "6": "4 ounces shredded Swiss cheese"
+        },
+        {
+            "7": "4 ounces Velveeta\u00ae processed cheese"
+        },
+        {
+            "8": "0.5 cup panko bread crumbs"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally, until tender yet firm to the bite, about 8 minutes. Drain."
+        },
+        {
+            "3": "Melt butter in the bottom of an oven-proof fry pan. Add flour and stir over heat until just beginning to brown \u2014 don't let it get too brown. Take it off the heat and stir in about 1 cup of milk until the butter and flour mixture is fully incorporated. Put it back on the heat and simmer until just beginning to thicken, about 5 minutes. Add the rest of the milk; stir to fully incorporate."
+        },
+        {
+            "4": "Add all of the cheeses and stir to melt. Once melted, add the cooked macaroni. Stir to mix."
+        },
+        {
+            "5": "Cover the top of the macaroni and cheese with panko crumbs and place the pan in the oven. Bake for about 20 minutes, or until it is bubbling and the bread crumbs are slightly browned."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "538"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "55g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5a8097d577f50f7c957294014bc5b5a8%2F1649277723B4B3B62A-7F0C-43C3-B043-121DA27436FD.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5679005.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dairy"
+}

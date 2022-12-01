@@ -1,0 +1,72 @@
+{
+    "title": "Amazing Whipped Potatoes",
+    "Category": "Mashed Potatoes",
+    "Ingredients": [
+        {
+            "1": "5 pounds yellow potatoes, peeled and cut into 1/2-inch cubs"
+        },
+        {
+            "2": "0.25 cup butter at room temperature"
+        },
+        {
+            "3": "0.25 cup cream cheese at room temperature"
+        },
+        {
+            "4": "0.5 cup warm milk, or more as needed"
+        },
+        {
+            "5": "1 tablespoon sour cream"
+        },
+        {
+            "6": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes; drain and transfer to a large bowl."
+        },
+        {
+            "2": "Add butter and cream cheese to potatoes; beat with an electric mixer until butter is nearly melted. Add milk and sour cream; continue to beat until smooth. Season with salt and black pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "245"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8842436.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2415474.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F88bb5d99ce79c7f1b93773965ffc98a8%2F934917.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

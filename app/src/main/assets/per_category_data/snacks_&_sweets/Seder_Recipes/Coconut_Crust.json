@@ -1,0 +1,66 @@
+{
+    "title": "Coconut Crust",
+    "Category": "Seder Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 cups flaked coconut"
+        },
+        {
+            "2": "3 tablespoons unsalted butter, melted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 325 degrees F (165 degrees C)."
+        },
+        {
+            "2": "Mix coconut and butter together in a bowl until well combined. Press mixture into an 8- or 9-inch pie plate."
+        },
+        {
+            "3": "Bake in the preheated oven until golden, about 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 8- or 9-inch pie crust"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "102"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5245718.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F993547.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8d4fd107252ffff26e5cee0830406fc9%2F792453.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

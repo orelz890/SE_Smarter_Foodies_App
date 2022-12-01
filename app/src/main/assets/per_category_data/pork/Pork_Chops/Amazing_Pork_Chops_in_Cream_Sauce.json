@@ -1,0 +1,81 @@
+{
+    "title": "Amazing Pork Chops in Cream Sauce",
+    "Category": "Pork Chops",
+    "Ingredients": [
+        {
+            "1": "3 tablespoons butter"
+        },
+        {
+            "2": "8  boneless pork chops"
+        },
+        {
+            "3": "1 salt, to taste"
+        },
+        {
+            "4": "1 ground black pepper, to taste"
+        },
+        {
+            "5": "0.75 cup white wine"
+        },
+        {
+            "6": "0.75 cup heavy cream"
+        },
+        {
+            "7": "1 (8 ounce) package sliced fresh mushrooms"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a large skillet over medium heat. Season pork chops with salt and pepper, and arrange in a single layer in pan. Pan-fry for 2 minutes on each side to brown. Pour in wine, and continue cooking for 6 minutes. Remove chops from pan."
+        },
+        {
+            "2": "Pour cream into the skillet, and then add mushrooms. Increase heat to high; cook for 5 minutes, stirring frequently, until sauce reduces and thickens. Return chops to pan to warm before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "349"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8932413.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8932412.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8932407.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8260812.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

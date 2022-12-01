@@ -1,0 +1,93 @@
+{
+    "title": "Vanilla Pumpkin Pie",
+    "Category": "Pumpkin Pie",
+    "Ingredients": [
+        {
+            "1": "0.5 cups pumpkin puree"
+        },
+        {
+            "2": "1 (12 fluid ounce) can evaporated milk"
+        },
+        {
+            "3": "2  eggs"
+        },
+        {
+            "4": "0.75 cup white sugar"
+        },
+        {
+            "5": "1 tablespoon all-purpose flour"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "0.25 teaspoons vanilla extract"
+        },
+        {
+            "8": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "9": "1 (9 inch) unbaked pie crust"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "2": "In a large bowl, combine pumpkin, evaporated milk, eggs, sugar, flour, salt vanilla, and cinnamon. Pour filling into pie shell."
+        },
+        {
+            "3": "Bake for 20 minutes in the oven then turn the oven temperature down to 350 degrees F (175 degrees C). Continue baking 40 more minutes or until a knife inserted in center comes out clean. Cool completely on a wire rack before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "289"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F65b6a2847a80d685de5adc02db1c0536%2F1750819.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F70b7d84a64167e00ef647df44975c528%2F925008.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F520184.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F89652f48e564d1ee62f2600acdbfb932%2F509472.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

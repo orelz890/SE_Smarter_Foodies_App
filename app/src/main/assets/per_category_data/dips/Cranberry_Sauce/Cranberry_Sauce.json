@@ -1,0 +1,75 @@
+{
+    "title": "Cranberry Sauce",
+    "Category": "Cranberry Sauce",
+    "Ingredients": [
+        {
+            "1": "12 ounces cranberries"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "1 cup orange juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Dissolve sugar in the orange juice in a medium saucepan over medium heat."
+        },
+        {
+            "2": "Stir in the cranberries and cook until they start to pop, about 10 minutes."
+        },
+        {
+            "3": "Remove from heat and place sauce in a bowl. It will thicken as it cools."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "95"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0a3f16bf12d1d91ee6a9859f4c2c8217%2F1669309285125image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0a3f16bf12d1d91ee6a9859f4c2c8217%2F1669293911384image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9435401.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9426314.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/UBd2_5B_4OdK__bWBQV9k5BN5RQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9111-cranberry-sauce-mfs292-1x1-1-3687e0eb6d8b4b88bd76a301c42132ba.jpg"
+        }
+    ],
+    "main category": "dips"
+}

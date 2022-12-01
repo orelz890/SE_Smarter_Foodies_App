@@ -1,0 +1,87 @@
+{
+    "title": "Mini Ham and Swiss Frittatas",
+    "Category": "Frittata",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "6 slices Swiss cheese, finely chopped"
+        },
+        {
+            "3": "6 slices deli ham, finely chopped"
+        },
+        {
+            "4": "8  eggs"
+        },
+        {
+            "5": "0.5 teaspoon onion powder"
+        },
+        {
+            "6": "0.5 teaspoon garlic powder"
+        },
+        {
+            "7": "0.25 teaspoon freshly ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C). Prepare 24-cup mini-muffin pan with cooking spray."
+        },
+        {
+            "2": "Toss cheese and ham together in a bowl; distribute evenly between the 24 prepared muffin cups."
+        },
+        {
+            "3": "Beat eggs, onion powder, garlic powder, and pepper together with a whisk in a bowl; pour in equal amounts over ham and cheese in muffin cups."
+        },
+        {
+            "4": "Bake in preheated oven until tops turn light golden brown, about 12 minutes. Remove frittatas form cups with a spoon."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "24 mini frittatas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "198"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9034063.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F128f229e22892f5bac6e5c2e7517bbce%2F5507886.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4478018.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2360049.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "French Onion Casserole",
+    "Category": "Rice Casserole",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "1 cup uncooked white rice"
+        },
+        {
+            "3": "1 (10.5 ounce) can condensed French onion soup"
+        },
+        {
+            "4": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "5": "0.5 cup chopped celery"
+        },
+        {
+            "6": "0.5 cup chopped green onions"
+        },
+        {
+            "7": "0.5 cup chopped green bell pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "In a 2 quart casserole dish, combine the ground beef, rice, French onion soup, cream of mushroom soup, celery, green onions and green bell pepper. Mix all together well."
+        },
+        {
+            "3": "Cover and bake at 350 degrees F (175 degrees C) for 1 hour."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "342"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8670292.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7986712.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7956553.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7951204.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

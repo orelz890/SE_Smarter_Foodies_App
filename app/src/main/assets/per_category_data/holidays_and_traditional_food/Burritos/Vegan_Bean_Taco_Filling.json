@@ -1,0 +1,93 @@
+{
+    "title": "Vegan Bean Taco Filling",
+    "Category": "Burritos",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "1  onion, diced"
+        },
+        {
+            "3": "2 cloves garlic, minced"
+        },
+        {
+            "4": "1  bell pepper, chopped"
+        },
+        {
+            "5": "2 (14.5 ounce) cans black beans, rinsed, drained, and mashed"
+        },
+        {
+            "6": "2 tablespoons yellow cornmeal"
+        },
+        {
+            "7": "0.5 tablespoons cumin"
+        },
+        {
+            "8": "1 teaspoon paprika"
+        },
+        {
+            "9": "1 teaspoon cayenne pepper"
+        },
+        {
+            "10": "1 teaspoon chili powder"
+        },
+        {
+            "11": "1 cup salsa"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a medium skillet over medium heat. Stir in onion, garlic, and bell pepper; cook until tender. Stir in mashed beans. Add the cornmeal. Mix in cumin, paprika, cayenne, chili powder, and salsa. Cover, and cook 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "142"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9271652.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9240106.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7846980.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7005013.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/V7Q06UuXOzFR4I-bE4FZYzB_I44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/84043_vegan-bean-taco-filling_Rita1-2000-4aaf96b6e5a84301a543f18ba6da3625.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

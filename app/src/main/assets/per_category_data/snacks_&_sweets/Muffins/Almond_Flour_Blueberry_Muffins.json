@@ -1,0 +1,93 @@
+{
+    "title": "Almond Flour Blueberry Muffins",
+    "Category": "Muffins",
+    "Ingredients": [
+        {
+            "1": "2 cups finely ground almond flour"
+        },
+        {
+            "2": "0.5 teaspoon baking soda"
+        },
+        {
+            "3": "0.25 teaspoon salt"
+        },
+        {
+            "4": "0.25 cup coconut oil, melted and cooled"
+        },
+        {
+            "5": "0.25 cup pure maple syrup"
+        },
+        {
+            "6": "3 large eggs"
+        },
+        {
+            "7": "1 tablespoon lemon zest"
+        },
+        {
+            "8": "1 teaspoon vanilla extract"
+        },
+        {
+            "9": "1 cup frozen blueberries"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Line a 12-cup muffin tin with paper liners."
+        },
+        {
+            "2": "Whisk almond flour, baking soda, and salt together in a large bowl. Add coconut oil, maple syrup, eggs, lemon zest, and vanilla; mix until combined. Fold in frozen blueberries and spoon into the prepared muffin cups."
+        },
+        {
+            "3": "Bake in the preheated oven until tops spring back when lightly pressed, 18 to 20 minutes. Cool in the tin for 5 minutes. Transfer to a wire rack to cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 muffins"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "203"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fad9560d0d85b7c5491610c9c5bddf38d%2F166757441066316675744025837378979604367768353.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb02ed8bda01b640f6ce4b1e117fd0fab%2F1644787721605114F7-7F7F-4A66-A057-6E5BEA863EEE.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9288854.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9088917.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

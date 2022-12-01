@@ -1,0 +1,84 @@
+{
+    "title": "Ham with Pineapple",
+    "Category": "Easter Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (12 pound)  bone-in ham"
+        },
+        {
+            "2": "0.5 cup whole cloves"
+        },
+        {
+            "3": "1 (20 ounce) can pineapple rings in heavy syrup"
+        },
+        {
+            "4": "1 (12 fluid ounce) can or bottle lemon-lime flavored carbonated beverage"
+        },
+        {
+            "5": "0.5 cup packed brown sugar"
+        },
+        {
+            "6": "1 (4 ounce) jar chopped maraschino cherries"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 325 degrees F (160 degrees C)."
+        },
+        {
+            "2": "Place ham in a roasting pan. Use a sharp knife to score ham rind with a diamond pattern. Press a clove into the center of each diamond."
+        },
+        {
+            "3": "Drain juice from pineapple rings into a medium bowl; stir in lemon-lime soda and brown sugar. Coat ham with juice mixture and arrange pineapple rings on ham. Place a maraschino cherry in the center of each pineapple ring and secure with a toothpick."
+        },
+        {
+            "4": "Bake uncovered, basting frequently with pan juices, in the preheated oven until the internal temperature of the ham is 160 degrees F (72 degrees C), 4 to 5 hours. Be sure the meat thermometer does not touch the bone."
+        },
+        {
+            "5": "Remove toothpicks before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 20 mins"
+        },
+        {
+            "Servings": "20 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "586"
+        },
+        {
+            "Fat": "36g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "47g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9138785.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9081052.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8953187.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8890107.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

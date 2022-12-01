@@ -1,0 +1,72 @@
+{
+    "title": "Easy Cheese Ball II",
+    "Category": "Cheese Balls",
+    "Ingredients": [
+        {
+            "1": "2 (8 ounce) packages cream cheese, softened"
+        },
+        {
+            "2": "1 (1 ounce) package ranch dressing mix"
+        },
+        {
+            "3": "1.0 cups shredded Cheddar cheese"
+        },
+        {
+            "4": "0.5 cups chopped pecans"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium size bowl, mash cream cheese. Mix dressing mix and Cheddar cheese into the cream cheese. Shape the mixture into a ball. Roll the ball in the chopped nuts. Refrigerate covered until ready to serve. Yum!"
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 5 mins"
+        },
+        {
+            "Servings": "7 "
+        },
+        {
+            "Yield": "6 to 8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "557"
+        },
+        {
+            "Fat": "53g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9046000.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7547911.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7391514.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7182463.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/yrtnwY12uwCvnVU3YUFXJSNXDsk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3412205-2ad71b1902e341d4b75eb8669b23f6f9.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

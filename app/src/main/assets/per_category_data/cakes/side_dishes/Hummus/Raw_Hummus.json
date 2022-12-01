@@ -1,0 +1,87 @@
+{
+    "title": "Raw Hummus",
+    "Category": "Hummus",
+    "Ingredients": [
+        {
+            "1": "0.5 cups dry garbanzo beans"
+        },
+        {
+            "2": "2 tablespoons tahini"
+        },
+        {
+            "3": "1 teaspoon sea salt"
+        },
+        {
+            "4": "2  lemons, juiced"
+        },
+        {
+            "5": "4 cloves garlic, crushed or to taste"
+        },
+        {
+            "6": "1 cup filtered or spring water"
+        },
+        {
+            "7": "1 pinch paprika"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Soak the beans for 24 hours. Drain, and let sit for 2 to 3 days, until the bean's sprouts are about 1/2 inch long. Rinse the beans once or twice a day."
+        },
+        {
+            "2": "Bring a large pot of water to a boil. Remove from heat, and let stand for 1 minute. Place the sprouted beans in the hot water, and let sit for 1 minute. Drain. If you do not do this step, the hummus will be awful."
+        },
+        {
+            "3": "Place the sprouted beans into the container of a large food processor. Add the tahini, sea salt, lemon juice, and garlic. Process until smooth, adding water if necessary. It will take 3 to 5 minutes to blend. Let sit in the food processor for 5 minutes to allow the beans to absorb as much of the water as possible. If too thick, add more water, and blend again. Taste and adjust seasonings if needed. Spoon into a serving dish, and garnish with paprika."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "2 mins"
+        },
+        {
+            "Additional Time": "3 days"
+        },
+        {
+            "Total Time": "3 days 17 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "20 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "67"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F681355.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F442970.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Feedf14c6e7e61be17174e4c09f3642fc%2F440347.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F24684.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

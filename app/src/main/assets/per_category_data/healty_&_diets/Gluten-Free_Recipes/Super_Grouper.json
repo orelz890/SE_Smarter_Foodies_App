@@ -1,0 +1,87 @@
+{
+    "title": "Super Grouper",
+    "Category": "Gluten-Free Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter, melted"
+        },
+        {
+            "2": "2 tablespoons lemon juice"
+        },
+        {
+            "3": "0.5 teaspoon dried parsley"
+        },
+        {
+            "4": "0.25 teaspoon garlic salt"
+        },
+        {
+            "5": "0.25 teaspoon ground white pepper"
+        },
+        {
+            "6": "0.25 teaspoon paprika, divided"
+        },
+        {
+            "7": "2 pounds grouper fillets"
+        },
+        {
+            "8": "2 tablespoons mayonnaise"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Line a broiler pan with aluminum foil."
+        },
+        {
+            "2": "Combine melted butter and lemon juice in a small bowl. Brush 2 tablespoons butter mixture onto the prepared pan."
+        },
+        {
+            "3": "Mix together parsley, garlic salt, white pepper, and 1/8 teaspoon paprika in a small bowl. Sprinkle spice mixture on both sides of fillets and lay them on the prepared pan."
+        },
+        {
+            "4": "Bake in the preheated oven until fish flakes easily with a fork, about 10 minutes. Brush fillets with remaining lemon butter and spread with mayonnaise. Sprinkle with remaining 1/8 teaspoon paprika before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "465"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "44g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7151604.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F454489a57bc768cc63ae8d0de5287fdb%2F6767804.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6509252.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbb7c8eac8bba2d101a08e301587d997f%2F4451308.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

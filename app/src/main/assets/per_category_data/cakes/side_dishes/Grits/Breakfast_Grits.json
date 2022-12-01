@@ -1,0 +1,78 @@
+{
+    "title": "Breakfast Grits",
+    "Category": "Grits",
+    "Ingredients": [
+        {
+            "1": "3 cups water"
+        },
+        {
+            "2": "0.5 teaspoon salt"
+        },
+        {
+            "3": "1 cup hominy grits"
+        },
+        {
+            "4": "1 freshly ground black pepper"
+        },
+        {
+            "5": "1 tablespoon butter"
+        },
+        {
+            "6": "0.5 cup shredded sharp Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring the water and salt to a boil in a saucepan. Whisk in the grits and continue to whisk for 1 minute. When the mixture comes to a boil again, turn the heat to low. Stir frequently, cook for 10 to 15 minutes."
+        },
+        {
+            "2": "Remove the grits from the heat and add pepper, butter and cheese; mix well. Stir until the butter and cheese are melted."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "240"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9256345.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7971953.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7603941.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6569137.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

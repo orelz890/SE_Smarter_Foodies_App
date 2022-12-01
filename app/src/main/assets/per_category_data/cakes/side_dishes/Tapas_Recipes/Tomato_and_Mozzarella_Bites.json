@@ -1,0 +1,81 @@
+{
+    "title": "Tomato and Mozzarella Bites",
+    "Category": "Tapas Recipes",
+    "Ingredients": [
+        {
+            "1": "20  toothpicks"
+        },
+        {
+            "2": "20  grape or cherry tomatoes, halved"
+        },
+        {
+            "3": "20  fresh basil leaves"
+        },
+        {
+            "4": "20  small balls fresh mozzarella cheese (often labeled bocconcini)"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        },
+        {
+            "6": "0.5 cup balsamic vinegar"
+        },
+        {
+            "7": "0.25 cup extra virgin olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Thread a tomato half, a basil leaf, a mozzarella ball, and another tomato half onto a toothpick. Repeat with remaining ingredients."
+        },
+        {
+            "2": "Arrange toothpicks on a serving platter and season with salt and pepper."
+        },
+        {
+            "3": "Mix vinegar and oil together in a small bowl to serve as a dipping sauce."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "20 skewers"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "58"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9290776.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8233241.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7534662.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6963722.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

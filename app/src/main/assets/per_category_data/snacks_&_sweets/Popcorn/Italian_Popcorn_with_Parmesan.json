@@ -1,0 +1,81 @@
+{
+    "title": "Italian Popcorn with Parmesan",
+    "Category": "Popcorn",
+    "Ingredients": [
+        {
+            "1": "6 tablespoons unpopped popcorn"
+        },
+        {
+            "2": "0.25 cup olive oil"
+        },
+        {
+            "3": "2 tablespoons olive oil"
+        },
+        {
+            "4": "0.5 tablespoons Italian seasoning"
+        },
+        {
+            "5": "0.5 teaspoons garlic salt"
+        },
+        {
+            "6": "1 cup freshly grated Parmigiano cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine popcorn and 1/4 cup olive oil in a 2-quart saucepan; cover. Cook over high heat, continuously shaking the pan, until the popcorn is popped and the lid begins to lift from the popcorn, about 5 minutes. Pour popcorn into a large bowl."
+        },
+        {
+            "2": "Mix 2 tablespoons olive oil, Italian seasoning, and garlic salt into popcorn; toss to coat. Add Parmesan cheese and mix well."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "2 quarts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "227"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8669599.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8470047.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8458683.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8245818.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/AmkUIBDdvKxh4ftiXsCXsQojx7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2513602-8bd0662eb34043278488390922b7609f.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

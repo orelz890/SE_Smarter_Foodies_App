@@ -1,0 +1,93 @@
+{
+    "title": "Easy Chocolate Cupcakes",
+    "Category": "Cupcakes",
+    "Ingredients": [
+        {
+            "1": "10 tablespoons butter"
+        },
+        {
+            "2": "0.25 cups white sugar"
+        },
+        {
+            "3": "4  eggs"
+        },
+        {
+            "4": "0.25 teaspoon almond extract"
+        },
+        {
+            "5": "1 teaspoon vanilla extract"
+        },
+        {
+            "6": "0.5 cups all-purpose flour"
+        },
+        {
+            "7": "0.75 cup unsweetened cocoa powder"
+        },
+        {
+            "8": "2 teaspoons baking powder"
+        },
+        {
+            "9": "0.25 teaspoon salt"
+        },
+        {
+            "10": "0.75 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease two muffin pans or line with 20 paper baking cups."
+        },
+        {
+            "2": "In a medium bowl, beat the butter and sugar with an electric mixer until light and fluffy. Mix in the eggs, almond extract and vanilla. Combine the flour, cocoa, baking powder and salt; stir into the batter, alternating with the milk, just until blended. Spoon the batter into the prepared cups, dividing evenly."
+        },
+        {
+            "3": "Bake in the preheated oven until the tops spring back when lightly pressed, 20 to 25 minutes. Cool in the pan set over a wire rack. When cool, arrange the cupcakes on a serving platter. Frost with your favorite frosting."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 cupcakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "201"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9341919.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8288598.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8234459.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6973822.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

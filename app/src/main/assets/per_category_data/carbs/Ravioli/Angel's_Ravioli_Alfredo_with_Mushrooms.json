@@ -1,0 +1,84 @@
+{
+    "title": "Angel's Ravioli Alfredo with Mushrooms",
+    "Category": "Ravioli",
+    "Ingredients": [
+        {
+            "1": "1 (20 ounce) package cheese ravioli"
+        },
+        {
+            "2": "3 tablespoons butter"
+        },
+        {
+            "3": "1 (8 ounce) package fresh mushrooms, sliced"
+        },
+        {
+            "4": "4 cloves garlic, minced"
+        },
+        {
+            "5": "1 (10 ounce) container Alfredo sauce"
+        },
+        {
+            "6": "2 tablespoons grated Parmesan cheese"
+        },
+        {
+            "7": "2  green onions, finely chopped"
+        },
+        {
+            "8": "0.25 teaspoon crushed red pepper flakes to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of water to a boil. Add ravioli and cook for 5 to 8 minutes or until al dente; drain."
+        },
+        {
+            "2": "Heat butter in a skillet over medium heat. Stir in mushrooms and garlic and cook until tender."
+        },
+        {
+            "3": "In a medium saucepan over low heat, toss the cooked ravioli with Alfredo sauce to coat. Mix in mushrooms and garlic. Cook and stir until sauce is heated. Top with Parmesan cheese, green onion, and red pepper to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "516"
+        },
+        {
+            "Fat": "32g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9293828.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8700298.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8286649.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8383350.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

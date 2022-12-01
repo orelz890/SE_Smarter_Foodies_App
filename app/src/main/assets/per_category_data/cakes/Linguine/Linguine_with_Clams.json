@@ -1,0 +1,93 @@
+{
+    "title": "Linguine with Clams",
+    "Category": "Linguine",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package linguine pasta"
+        },
+        {
+            "2": "8 tablespoons unsalted butter"
+        },
+        {
+            "3": "1  medium white onion, chopped"
+        },
+        {
+            "4": "8 ounces fresh mushrooms, sliced"
+        },
+        {
+            "5": "4 cloves garlic, pressed"
+        },
+        {
+            "6": "1 cup dry white wine"
+        },
+        {
+            "7": "4 (6.5 ounce) cans chopped clams, drained and rinsed with juices reserved"
+        },
+        {
+            "8": "2 tablespoons sour cream"
+        },
+        {
+            "9": "1 freshly ground black pepper"
+        },
+        {
+            "10": "0.25 cup chopped flat leaf parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes, or until al dente. Drain and set aside."
+        },
+        {
+            "2": "Melt butter over medium-high heat in a large skillet. Add onions, mushrooms, and garlic, and saute until tender. Pour in wine and simmer for 10 minutes, reducing heat if necessary."
+        },
+        {
+            "3": "Stir in clams, reserved clam juice, sour cream, pepper, and parsley, and simmer another 20 minutes. Toss with linguine, and serve. Enjoy!"
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "43 mins"
+        },
+        {
+            "Total Time": "58 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "323"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9408601.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9408446.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9062865.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8920209.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

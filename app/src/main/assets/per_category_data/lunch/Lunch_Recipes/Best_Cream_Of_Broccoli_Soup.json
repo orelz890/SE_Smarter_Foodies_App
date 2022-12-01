@@ -1,0 +1,90 @@
+{
+    "title": "Best Cream Of Broccoli Soup",
+    "Category": "Lunch Recipes",
+    "Ingredients": [
+        {
+            "1": "5 tablespoons butter, divided"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "1 stalk celery, chopped"
+        },
+        {
+            "4": "3 cups chicken broth"
+        },
+        {
+            "5": "8 cups broccoli florets"
+        },
+        {
+            "6": "3 tablespoons all-purpose flour"
+        },
+        {
+            "7": "2 cups milk"
+        },
+        {
+            "8": "1 ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt 2 tablespoons butter in a medium stock pot over medium heat. Saute onion and celery until tender. Add broccoli and broth, cover, and simmer for 10 minutes."
+        },
+        {
+            "2": "Pour the soup into a blender, filling the pitcher no more than halfway full. Hold down the lid of the blender with a folded kitchen towel, and carefully start the blender, using a few quick pulses to get the soup moving before leaving it on to puree. Puree in batches until smooth and pour into a clean pot. Alternately, you can use an immersion blender and puree the soup right in the cooking pot."
+        },
+        {
+            "3": "Melt 3 tablespoons butter in a small saucepan over medium to medium-low heat; stir in flour and add milk. Stir until thick and bubbly, and add to soup. Season with pepper and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "207"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F90078f6f2da7a3c050d7f558669f0bed%2F16641478539574456D-89D2-43DC-8B39-B002644876BE.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F90078f6f2da7a3c050d7f558669f0bed%2F165812398216581239615151745716610124059968.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F90078f6f2da7a3c050d7f558669f0bed%2F1654703918image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F90078f6f2da7a3c050d7f558669f0bed%2F1645331999image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/uMcDhmjckCPqwW4VVWE2vQ_L2tU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13313_BestCreamofBroccoliSoup_ArMag-7d4ae2b074864fdeba8e0726d1d5e34c.jpg"
+        }
+    ],
+    "main category": "lunch"
+}

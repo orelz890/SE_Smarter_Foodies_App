@@ -1,0 +1,75 @@
+{
+    "title": "Strawberry Yogurt Pie",
+    "Category": "Strawberry Pie",
+    "Ingredients": [
+        {
+            "1": "1 (9 inch) pie shell, baked"
+        },
+        {
+            "2": "1 (16 ounce) package frozen strawberries, defrosted"
+        },
+        {
+            "3": "2 (8 ounce) containers strawberry flavored yogurt"
+        },
+        {
+            "4": "1 (8 ounce) container frozen whipped topping, thawed"
+        },
+        {
+            "5": "1 (.25 ounce) package unflavored gelatin"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place strawberries and yogurt in a blender or food processor. Blend until strawberries are in small chunks."
+        },
+        {
+            "2": "In a large bowl, mix together whipped topping and gelatin. Stir in strawberry mixture. Pour mixture into baked pastry shell and chill overnight."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": "1 day"
+        },
+        {
+            "Total Time": "1 day 10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "246"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbfd2fc2c96d5f5deb90dce5504aa27cd%2F6560197.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6576429.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6563752.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6571715.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

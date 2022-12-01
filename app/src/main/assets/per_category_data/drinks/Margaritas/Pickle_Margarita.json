@@ -1,0 +1,62 @@
+{
+    "title": "Pickle Margarita",
+    "Category": "Margaritas",
+    "Ingredients": [
+        {
+            "1": "0.5 cup ice"
+        },
+        {
+            "2": "2 fluid ounces tequila blanco"
+        },
+        {
+            "3": "0.5 fluid ounces triple sec"
+        },
+        {
+            "4": "1 fluid ounce freshly squeezed lime juice"
+        },
+        {
+            "5": "0.5 fluid ounce dill pickle juice"
+        },
+        {
+            "6": "1 slice dill pickle"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a cocktail shaker with ice. Add tequila, triple sec, lime juice, and pickle juice and shake to combine."
+        },
+        {
+            "2": "Strain into a glass filled with more ice and garnish with a pickle slice."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 margarita"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "300"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [],
+    "main category": "drinks"
+}

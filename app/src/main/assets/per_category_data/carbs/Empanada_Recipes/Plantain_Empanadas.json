@@ -1,0 +1,69 @@
+{
+    "title": "Plantain Empanadas",
+    "Category": "Empanada Recipes",
+    "Ingredients": [
+        {
+            "1": "1 large ripe plantain"
+        },
+        {
+            "2": "2.0 tablespoons shredded mild Cheddar cheese"
+        },
+        {
+            "3": "2 tablespoons vegetable oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cut plantain into 3 pieces with the peel left on."
+        },
+        {
+            "2": "Bring a pot of water to a boil. Add plantain pieces and boil until peel starts to bubble, 3 to 5 minutes. Remove plantains with a slotted spoon and allow to cool until easily handled. Peel and mash plantain in a bowl."
+        },
+        {
+            "3": "Separate mashed plantain into 3 equal-sized balls, each the size of a golf ball. Wrap each ball with a piece of plastic wrap and press into a 6-inch round. Unwrap and place 1 1/2 tablespoons cheese in the middle of each round. Fold over and pinch the edges together."
+        },
+        {
+            "4": "Heat oil in a skillet over medium heat. Fry stuffed plantains until lightly browned, 2 to 3 minutes. Flip and fry on the other side until lightly browned, 2 to 3 more minutes. Drain on paper towels to absorb excess oil."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "3 "
+        },
+        {
+            "Yield": "3 plantain empanadas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "243"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6869762.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

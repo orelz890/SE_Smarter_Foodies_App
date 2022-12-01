@@ -1,0 +1,87 @@
+{
+    "title": "Creamy Mushroom Soup",
+    "Category": "Mushroom Soup",
+    "Ingredients": [
+        {
+            "1": "0.25 cup butter"
+        },
+        {
+            "2": "1 cup chopped shiitake mushrooms"
+        },
+        {
+            "3": "1 cup chopped portobello mushrooms"
+        },
+        {
+            "4": "2  shallots, chopped"
+        },
+        {
+            "5": "2 tablespoons all-purpose flour"
+        },
+        {
+            "6": "1 (14.5 ounce) can chicken broth"
+        },
+        {
+            "7": "1 cup half-and-half"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        },
+        {
+            "9": "1 pinch ground cinnamon (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt the butter in a large saucepan over medium-high heat. Saute the shiitake mushrooms, portobello mushrooms, and shallots for about 5 minutes, or until soft. Mix in the flour until smooth. Gradually stir in the chicken broth. Cook, stirring, 5 minutes, or until thick and bubbly."
+        },
+        {
+            "2": "Stir in the half-and-half, season with salt and pepper, and sprinkle with cinnamon. Heat through, but do not boil."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "234"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffd09531a6840c4bbbdb7f8c8dbfa22a5%2F1663956373image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9422375.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8289097.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8161457.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

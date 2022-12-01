@@ -1,0 +1,72 @@
+{
+    "title": "Brazilian Grilled Pineapple",
+    "Category": "Low-Cholesterol Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup brown sugar"
+        },
+        {
+            "2": "2 teaspoons ground cinnamon"
+        },
+        {
+            "3": "1  pineapple - peeled, cored, and cut into 6 wedges"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for medium-high heat and lightly oil the grate."
+        },
+        {
+            "2": "Whisk brown sugar and cinnamon together in a bowl; transfer into a large resealable plastic bag. Add pineapple wedges to the bag; shake well to coat each wedge."
+        },
+        {
+            "3": "Grill pineapple wedges on the preheated grill until heated through, 3 to 5 minutes per side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 wedges"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "255"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "66g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9183814.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9042313.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6648433.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F01f0652630fe8da78c96b2e5078f043d%2F5984693.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Healthy Ham and Egg Muffins",
+    "Category": "Omelets",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "6  large eggs"
+        },
+        {
+            "3": "0.5 cups frozen chopped spinach, thawed and drained"
+        },
+        {
+            "4": "1 cup chopped red bell pepper"
+        },
+        {
+            "5": "7 ounces diced fully cooked ham"
+        },
+        {
+            "6": "0.75 cup egg whites"
+        },
+        {
+            "7": "0.25 cup crumbled feta cheese"
+        },
+        {
+            "8": "2 tablespoons water"
+        },
+        {
+            "9": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C). Spray 12 muffin cups with cooking spray or line with paper liners."
+        },
+        {
+            "2": "Combine eggs, spinach, red bell pepper, ham, egg whites, feta cheese, water, salt, and pepper in a large bowl. Ladle egg mixture into the prepared muffin cups."
+        },
+        {
+            "3": "Bake in the preheated oven until set in the middle, 20 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 muffins"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "101"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9386117.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6421532.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8522960.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6528001.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Thanksgiving Cheese Ball",
+    "Category": "Cheese Balls",
+    "Ingredients": [
+        {
+            "1": "8 ounces cream cheese"
+        },
+        {
+            "2": "4 ounces sharp Cheddar cheese"
+        },
+        {
+            "3": "2 ounces crumbled blue cheese"
+        },
+        {
+            "4": "2 tablespoons grated onion"
+        },
+        {
+            "5": "1 clove garlic, minced"
+        },
+        {
+            "6": "4 dashes Worcestershire sauce"
+        },
+        {
+            "7": "1 (2.25 ounce) can green olives"
+        },
+        {
+            "8": "0.5 cup chopped pecans"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a food processor, mix the cream cheese, Cheddar cheese, blue cheese, onion, garlic, and Worcestershire sauce. Process until well blended. Add olives, and pulse into small chunks."
+        },
+        {
+            "2": "Shape the mixture into a ball, and roll in the chopped pecans to coat. Wrap in plastic, and chill at least 4 hours in the refrigerator."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "243"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F159a3c64a52a18a2cf6ec8176f10ef21%2F7302055.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4587596.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F84384721748a966dd59ee0a9d5d17102%2F4158669.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4163667.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

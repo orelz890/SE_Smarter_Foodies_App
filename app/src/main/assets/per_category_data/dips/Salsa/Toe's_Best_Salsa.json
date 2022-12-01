@@ -1,0 +1,78 @@
+{
+    "title": "Toe's Best Salsa",
+    "Category": "Salsa",
+    "Ingredients": [
+        {
+            "1": "1  white onion, chopped"
+        },
+        {
+            "2": "2 (15 ounce) cans tomato sauce"
+        },
+        {
+            "3": "2  jalapeno peppers"
+        },
+        {
+            "4": "1  serrano pepper"
+        },
+        {
+            "5": "4 cloves garlic"
+        },
+        {
+            "6": "1  lime, juiced"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "1 pinch ground black pepper"
+        },
+        {
+            "9": "0.5 bunch cilantro"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the onion in a bowl, and set aside. In a blender, place tomato sauce, jalapeno peppers, serrano pepper, garlic, lime juice, salt, and pepper. Blend well. Place the cilantro into the blender, and pulse several times to chop the cilantro. Do not over blend. Pour the tomato sauce mixture into the bowl with the onion, stir well to combine, and refrigerate at least 1 hour to blend flavors before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "4 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "18"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F616268.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F540210.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

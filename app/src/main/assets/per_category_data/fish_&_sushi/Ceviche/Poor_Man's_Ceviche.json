@@ -1,0 +1,69 @@
+{
+    "title": "Poor Man's Ceviche",
+    "Category": "Ceviche",
+    "Ingredients": [
+        {
+            "1": "1 pound imitation crabmeat, flaked"
+        },
+        {
+            "2": "3  Roma (plum) tomatoes, diced"
+        },
+        {
+            "3": "0.5 cup chopped fresh cilantro"
+        },
+        {
+            "4": "2  serrano chile peppers, chopped"
+        },
+        {
+            "5": "1  green onion, chopped"
+        },
+        {
+            "6": "0.75 cup fresh lime juice, or more to taste"
+        },
+        {
+            "7": "1 pinch salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix imitation crabmeat, tomatoes, cilantro, serrano chiles, and green onion together in a large bowl. Pour lime juice over the crabmeat mixture and gently mix; season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "5 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "105"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8073028.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9a14d4d14a52bc5eec04981ffa84d3e7%2F1128234.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

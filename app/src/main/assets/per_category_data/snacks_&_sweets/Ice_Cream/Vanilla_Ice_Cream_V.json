@@ -1,0 +1,75 @@
+{
+    "title": "Vanilla Ice Cream V",
+    "Category": "Ice Cream",
+    "Ingredients": [
+        {
+            "1": "2 quarts half-and-half cream"
+        },
+        {
+            "2": "0.5 pint heavy cream"
+        },
+        {
+            "3": "0.5 cups white sugar"
+        },
+        {
+            "4": "4 teaspoons vanilla extract"
+        },
+        {
+            "5": "1 pinch salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine half-and-half, cream, sugar, vanilla and salt in freezer container of ice cream maker. Freeze according to manufacturer's instructions."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": "45 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "32 "
+        },
+        {
+            "Yield": "1 gallon"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "142"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8138681.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3826900.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F521d1432a21f50ea5412bfb88b08891f%2F3736780.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1033205.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/bQASGthWP8MTg4RQAr9hDyjgZ2I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1032706-e931aa86daf046098d43f3195aef5b93.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Brown Sugar Pie I",
+    "Category": "Chess Pie",
+    "Ingredients": [
+        {
+            "1": "6 tablespoons all-purpose flour"
+        },
+        {
+            "2": "2 cups packed brown sugar"
+        },
+        {
+            "3": "0.5 cups evaporated milk"
+        },
+        {
+            "4": "4 tablespoons butter"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "In a saucepan, combine flour and sugar. Stir in milk, butter, salt and vanilla. Cook, stirring constantly, until mixture comes to a boil. Pour into an unbaked pie shell."
+        },
+        {
+            "3": "Bake at 400 degrees F (200 degrees C) for 5 minutes. Reduce heat to 350 degrees F (175 degrees C) and continue baking for 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "346"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "63g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8476096.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8437987.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc6c6061a75666b07f5c419a8a023dbac%2F7493921.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7400262.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

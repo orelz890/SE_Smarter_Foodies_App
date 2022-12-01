@@ -1,0 +1,81 @@
+{
+    "title": "Marinated Cherry Tomato Salad",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "0.25 cup vegetable oil"
+        },
+        {
+            "2": "3 tablespoons cider vinegar"
+        },
+        {
+            "3": "0.5 teaspoons white sugar"
+        },
+        {
+            "4": "1 teaspoon dried parsley"
+        },
+        {
+            "5": "1 teaspoon dried basil"
+        },
+        {
+            "6": "1 teaspoon dried oregano"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "4 cups halved cherry tomatoes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a small bowl or cup measure, mix together oil, vinegar, sugar, parsley, basil, oregano, and salt."
+        },
+        {
+            "2": "Pour dressing over cherry tomatoes in a serving dish, and gently stir to coat. Chill for at least 2 hours. Gently stir from bottom to top, coating all tomatoes, before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 10 mins"
+        },
+        {
+            "Servings": "7 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "94"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9355449.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F60f7c72482fb5c6582c39ab7c1b32dd6%2F5555970.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1b12389a09d0a4bbfdbb573c713140c7%2F5539090.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5516515.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

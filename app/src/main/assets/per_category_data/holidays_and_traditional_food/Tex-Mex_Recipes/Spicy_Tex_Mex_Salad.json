@@ -1,0 +1,63 @@
+{
+    "title": "Spicy Tex-Mex Salad",
+    "Category": "Tex-Mex Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (15 ounce) can pinto beans, drained and rinsed"
+        },
+        {
+            "2": "1 (15 ounce) can black beans, rinsed and drained"
+        },
+        {
+            "3": "3  tomatoes, chopped"
+        },
+        {
+            "4": "0.5 cups shredded Cheddar and Monterey cheese blend"
+        },
+        {
+            "5": "1 (10 ounce) package chopped romaine lettuce"
+        },
+        {
+            "6": "1 (16 ounce) bottle Catalina salad dressing"
+        },
+        {
+            "7": "1 (16 ounce) package corn chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, combine pinto beans, black beans, tomatoes, cheese blend, and lettuce. Add 3/4 of the dressing and mix well. Add corn chips before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "542"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2988348.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

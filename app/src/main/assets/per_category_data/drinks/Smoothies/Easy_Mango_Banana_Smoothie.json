@@ -1,0 +1,63 @@
+{
+    "title": "Easy Mango Banana Smoothie",
+    "Category": "Smoothies",
+    "Ingredients": [
+        {
+            "1": "2  mangos - peeled, seeded, and sliced"
+        },
+        {
+            "2": "2  bananas"
+        },
+        {
+            "3": "2 cups vanilla yogurt"
+        },
+        {
+            "4": "2 cups milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine mangos, banana, vanilla yogurt, and milk in a blender; blend until smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "133"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9cee038bba31faa3142dc3139baa25a0%2F6813694.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffb27fd08b2646fdf9756a567516e67f9%2F6692322.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6236089.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdc779262410cc2fed622af9cf8097e0e%2F4528084.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

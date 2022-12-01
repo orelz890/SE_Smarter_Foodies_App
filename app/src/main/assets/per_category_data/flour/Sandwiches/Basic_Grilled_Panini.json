@@ -1,0 +1,72 @@
+{
+    "title": "Basic Grilled Panini",
+    "Category": "Sandwiches",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon extra-light olive oil, or as needed"
+        },
+        {
+            "2": "2 slices Italian bread"
+        },
+        {
+            "3": "2 tablespoons mayonnaise"
+        },
+        {
+            "4": "3 slices deli ham, or more to taste"
+        },
+        {
+            "5": "2 slices Cheddar cheese"
+        },
+        {
+            "6": "1 slice firm-ripe tomato"
+        },
+        {
+            "7": "1 thin slice onion"
+        },
+        {
+            "8": "1 cooking spray"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Drizzle olive oil on 1 side of each bread slice. Spread 1 tablespoon mayonnaise on other side of each slice. Arrange layers of ham, Cheddar cheese, tomato, and onion on top. Top with other bread slice, mayonnaise-side down."
+        },
+        {
+            "2": "Heat a grill pan over medium-high heat; spray lightly with cooking spray. Place sandwich on grill pan; weigh it down with a heavy pan. Cook until cheese is melted and grill marks appear, 3 to 5 minutes per side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "6 mins"
+        },
+        {
+            "Total Time": "16 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "802"
+        },
+        {
+            "Fat": "63g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4563079.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

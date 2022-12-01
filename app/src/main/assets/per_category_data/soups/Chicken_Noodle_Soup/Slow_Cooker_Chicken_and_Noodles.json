@@ -1,0 +1,81 @@
+{
+    "title": "Slow Cooker Chicken and Noodles",
+    "Category": "Chicken Noodle Soup",
+    "Ingredients": [
+        {
+            "1": "4  skinless, boneless chicken breast halves"
+        },
+        {
+            "2": "6 cups water"
+        },
+        {
+            "3": "1  onion, chopped"
+        },
+        {
+            "4": "2 stalks celery, chopped (Optional)"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        },
+        {
+            "6": "1 (12 ounce) package frozen egg noodles"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place chicken, water, onion and salt and pepper to taste into a slow cooker. Add celery if desired. Set temperature to low and cook for 6 to 8 hours."
+        },
+        {
+            "2": "When chicken is tender, remove from the slow cooker and tear or chop into bite-sized pieces. Set aside in a small casserole dish to keep warm. Turn the slow cooker up to high heat and stir in the frozen egg noodles. Cook until noodles are tender then return the chicken pieces to the broth. Adjust seasonings to taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 to 1 - cup servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "311"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8019163.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7686063.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5abf010f8a844df4f17d6ebeb638cc78%2F7279207.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7214690.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/kYzaVt-7xgLv9UfS5_-XabTW4Xw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/554104-a39f14a429554ad58f2b88a13ead9b14.jpg"
+        }
+    ],
+    "main category": "soups"
+}

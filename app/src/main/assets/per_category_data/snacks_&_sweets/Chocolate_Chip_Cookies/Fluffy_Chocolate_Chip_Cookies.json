@@ -1,0 +1,93 @@
+{
+    "title": "Fluffy Chocolate Chip Cookies",
+    "Category": "Chocolate Chip Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup margarine"
+        },
+        {
+            "2": "1 cup packed brown sugar"
+        },
+        {
+            "3": "0.5 cup white sugar"
+        },
+        {
+            "4": "2  eggs"
+        },
+        {
+            "5": "2 teaspoons vanilla extract"
+        },
+        {
+            "6": "2 cups all-purpose flour"
+        },
+        {
+            "7": "1 teaspoon baking soda"
+        },
+        {
+            "8": "1 teaspoon salt"
+        },
+        {
+            "9": "2 cups chocolate chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Beat margarine, brown sugar, and white sugar together with an electric mixer in a large bowl until smooth and creamy. Beat first egg into butter mixture. Beat second egg into mixture along with vanilla extract."
+        },
+        {
+            "3": "Combine flour, baking soda, and salt in a bowl; stir into creamed margarine mixture until dough is almost white. Fold chocolate chips into dough. Drop small spoonfuls of dough onto a baking sheet."
+        },
+        {
+            "4": "Bake in the preheated oven until edges are lightly browned, 10 to 12 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "72 "
+        },
+        {
+            "Yield": "6 dozen cookies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "77"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F732d031da8ca4976e1c03fb5006d8fca%2F1649009091image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F4b42cc54608bb60acce5a0b8cbf8b73c%2F6196192.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2914b296f48dd4e8d03203af2eff29dc%2F6078312.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5472662.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

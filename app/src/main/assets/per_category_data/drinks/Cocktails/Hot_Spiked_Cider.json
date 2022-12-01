@@ -1,0 +1,74 @@
+{
+    "title": "Hot Spiked Cider",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "1 quart water"
+        },
+        {
+            "2": "3  orange spice tea bags"
+        },
+        {
+            "3": "2 cups apple cider"
+        },
+        {
+            "4": "0.5 cups light rum"
+        },
+        {
+            "5": "0.5 cup light brown sugar"
+        },
+        {
+            "6": "2  cinnamon sticks"
+        },
+        {
+            "7": "3 teaspoons butter"
+        },
+        {
+            "8": "6  cinnamon sticks, garnish"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour water into a large saucepan and bring to a boil."
+        },
+        {
+            "2": "Remove from heat and add orange spice tea bags. Cover and let steep for 5 minutes."
+        },
+        {
+            "3": "Remove tea bags and stir in apple cider, rum, brown sugar, and 2 cinnamon sticks. Heat cider over medium-low heat until just steaming."
+        },
+        {
+            "4": "Ladle hot cider into 6 mugs and drop 1/2 teaspoon butter into each. Garnish with a cinnamon swizzle stick."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9410143.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8737368.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2872178.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1700738.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

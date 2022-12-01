@@ -1,0 +1,90 @@
+{
+    "title": "Peanut Butter Blondie Brownies",
+    "Category": "Blondies",
+    "Ingredients": [
+        {
+            "1": "1 vegetable oil cooking spray"
+        },
+        {
+            "2": "1 cup crunchy peanut butter"
+        },
+        {
+            "3": "0.5 cup butter, softened"
+        },
+        {
+            "4": "2 cups brown sugar"
+        },
+        {
+            "5": "4  large eggs"
+        },
+        {
+            "6": "1 tablespoon vanilla extract"
+        },
+        {
+            "7": "0.5 cups all-purpose flour"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Spray a 9x13-inch baking dish with cooking spray."
+        },
+        {
+            "2": "Beat peanut butter and butter together in a bowl with an electric mixer until smooth. Gradually beat brown sugar into peanut butter mixture. Beat eggs into peanut butter mixture 1 at a time, beating well after each addition; add vanilla extract."
+        },
+        {
+            "3": "Gradually sift flour into peanut butter mixture and mix until batter is well-combined. Pour batter into prepared baking dish and spread evenly in the dish."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted into the center of the blondies comes out clean, about 35 minutes. Cool in the baking dish for 15 minutes before slicing into 24 bars. Remove to a wire rack to cool until just warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "209"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6636743.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6438453.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6355477.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6083613.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

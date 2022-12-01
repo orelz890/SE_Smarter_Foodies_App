@@ -1,0 +1,117 @@
+{
+    "title": "Chef John's Italian Sausage Chili",
+    "Category": "Chili",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "0.25 pounds hot Italian sausage, casings removed"
+        },
+        {
+            "3": "0.25 pounds mild Italian sausage, casings removed"
+        },
+        {
+            "4": "1  onion, chopped"
+        },
+        {
+            "5": "1 salt to taste"
+        },
+        {
+            "6": "2 tablespoons ancho chile powder"
+        },
+        {
+            "7": "1 teaspoon paprika"
+        },
+        {
+            "8": "1 teaspoon ground cumin"
+        },
+        {
+            "9": "1 teaspoon ground black pepper"
+        },
+        {
+            "10": "0.5 teaspoon chipotle chile powder"
+        },
+        {
+            "11": "0.5 teaspoon dried oregano"
+        },
+        {
+            "12": "1.0 cups water, or as needed"
+        },
+        {
+            "13": "1 cup tomato puree"
+        },
+        {
+            "14": "2 (15 ounce) cans cannellini beans, drained and rinsed"
+        },
+        {
+            "15": "1  red bell pepper, diced"
+        },
+        {
+            "16": "1  green bell pepper, diced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large pot over medium-high heat. Cook and stir hot Italian sausage, mild Italian sausage, onion, and a pinch of salt together in the pot, breaking up sausage with a wooden spoon. Cook until sausage is browned and crumbly, and most of the liquid is evaporated, about 10 minutes."
+        },
+        {
+            "2": "Stir ancho chile powder, paprika, cumin, ground black pepper, chipotle chile powder, and oregano into sausage mixture; saute until fragrant, about 2 minutes."
+        },
+        {
+            "3": "Pour water and tomato puree into sausage mixture, bring to a simmer, reduce heat to medium-low, and cook on a steady simmer until sausage is tender, about 45 minutes. Add water as necessary and skim any fat that floats to the top."
+        },
+        {
+            "4": "Stir cannellini beans, red bell pepper, and green bell pepper into sausage mixture. Simmer until vegetables are tender, about 30 minutes. Season with salt to taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "599"
+        },
+        {
+            "Fat": "38g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9015354.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9015359.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F4449b5d2a2693ff02f4a9b329870b399%2F7462366.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7438857.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/WdEv0pS2f8tyu7eNfus9TUzQDmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1105025-7114f920dc0a4a57936a71e6c46ccbfb.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

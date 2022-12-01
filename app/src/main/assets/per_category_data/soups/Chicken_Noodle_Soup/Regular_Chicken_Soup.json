@@ -1,0 +1,72 @@
+{
+    "title": "Regular Chicken Soup",
+    "Category": "Chicken Noodle Soup",
+    "Ingredients": [
+        {
+            "1": "3  skinless, boneless chicken breast halves"
+        },
+        {
+            "2": "8 cups water"
+        },
+        {
+            "3": "10  carrots, peeled and sliced"
+        },
+        {
+            "4": "6 stalks celery, thinly sliced"
+        },
+        {
+            "5": "1  onion, diced"
+        },
+        {
+            "6": "8 cubes  chicken bouillon"
+        },
+        {
+            "7": "1 (12 ounce) package uncooked egg noodles"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large saucepan, boil the chicken until tender and no longer pink. Drain and dice."
+        },
+        {
+            "2": "Return diced chicken to the large saucepan. Mix together the water, carrots, celery, onion, chicken bouillon and egg noodles. Boil the mixture approximately 15 minutes, stirring occasionally. Reduce heat and simmer at least 2 hours before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 2 hrs 30 mins"
+        },
+        {
+            "Total Time": " 3 hrs"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "348"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "54g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F74ccbef26362d785d2de329b2df66f83%2F871321.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

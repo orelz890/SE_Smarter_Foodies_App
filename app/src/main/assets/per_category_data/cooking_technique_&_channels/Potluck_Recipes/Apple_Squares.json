@@ -1,0 +1,105 @@
+{
+    "title": "Apple Squares",
+    "Category": "Potluck Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup sifted all-purpose flour"
+        },
+        {
+            "2": "1 teaspoon baking powder"
+        },
+        {
+            "3": "0.25 teaspoon salt"
+        },
+        {
+            "4": "0.5 teaspoons ground cinnamon"
+        },
+        {
+            "5": "2 tablespoons white sugar"
+        },
+        {
+            "6": "0.5 cup packed brown sugar"
+        },
+        {
+            "7": "0.5 cup white sugar"
+        },
+        {
+            "8": "0.25 cup unsalted butter, melted"
+        },
+        {
+            "9": "1 large egg"
+        },
+        {
+            "10": "1 teaspoon vanilla extract"
+        },
+        {
+            "11": "0.5 cup chopped apple"
+        },
+        {
+            "12": "0.5 cup finely chopped walnuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9-inch square pan."
+        },
+        {
+            "2": "Sift flour, baking powder, salt, and 1/4 teaspoon of cinnamon into a medium bowl. Stir 2 tablespoons white sugar and remaining 2 teaspoons cinnamon together in a small bowl."
+        },
+        {
+            "3": "Mix brown sugar, 1/2 cup white sugar, and melted butter together in a large bowl with a wooden spoon until smooth. Stir in egg and vanilla. Blend in flour mixture until just combined, then stir in apple and walnuts. Spread mixture evenly into the prepared pan and sprinkle cinnamon-sugar mixture over top."
+        },
+        {
+            "4": "Bake in the preheated oven until the top springs back when lightly pressed, 25 to 30 minutes. Let cool completely in the pan before cutting into 16 squares."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 squares"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "143"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8cf18d2f77bfbe2644d0d7195edbd2c9%2F16676659990279A13F1E7-07DD-4506-A68A-3AA2966148E8.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8cf18d2f77bfbe2644d0d7195edbd2c9%2F1666406810101A8F9E732-A8FD-428C-A7D5-77F453A959AE.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fffbff651a83ee911f4b93340d8f318b0%2F165747664920220709_224608.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9100190.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/hB3ljsvSO8orDxuQDppxeG4RB-8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/556599-apple-squares-Cristi-1x1-1-0e0c11212e764f7fbc1256c69cedbbff.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Eggnog-Flavored Rice Pudding",
+    "Category": "Rice Pudding",
+    "Ingredients": [
+        {
+            "1": "0.5 cups eggnog"
+        },
+        {
+            "2": "0.5 cups cooked rice"
+        },
+        {
+            "3": "1 teaspoon vanilla extract"
+        },
+        {
+            "4": "0.5 teaspoon ground nutmeg"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "0.5 cup half-and-half"
+        },
+        {
+            "7": "1  egg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine eggnog, rice, vanilla extract, nutmeg, and salt in a saucepan; cook and stir over medium heat until bubbling, about 5 minutes."
+        },
+        {
+            "2": "Whisk half-and-half and egg together in a glass bowl. Whisk in some of the hot eggnog mixture. Pour the egg mixture back into the saucepan; cook and stir until pudding is thick, about 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "268"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4305706.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

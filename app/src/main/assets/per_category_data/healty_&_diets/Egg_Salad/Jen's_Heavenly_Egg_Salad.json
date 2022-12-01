@@ -1,0 +1,81 @@
+{
+    "title": "Jen's Heavenly Egg Salad",
+    "Category": "Egg Salad",
+    "Ingredients": [
+        {
+            "1": "6  eggs"
+        },
+        {
+            "2": "0.25 cup mayonnaise"
+        },
+        {
+            "3": "1 teaspoon Dijon mustard"
+        },
+        {
+            "4": "0.5 teaspoon prepared yellow mustard"
+        },
+        {
+            "5": "0.5  lemon, juiced"
+        },
+        {
+            "6": "0.25 cup chopped green onions"
+        },
+        {
+            "7": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place egg in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool and peel. For faster cooling, place the eggs in an ice bath before peeling."
+        },
+        {
+            "2": "In a medium bowl, stir together the mayonnaise, Dijon mustard, yellow mustard, lemon juice and green onions. Chop the eggs into big chunks and mix gently with the dressing. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "16 mins"
+        },
+        {
+            "Total Time": "21 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "212"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9051895.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1c80c0267366735f3f5d542f6a6ec40f%2F3067261.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1844693.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F62bab5ea182a3e349a3ff4ec6851e52d%2F567590.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,108 @@
+{
+    "title": "Chef John's Crab Cakes",
+    "Category": "Crab Cakes",
+    "Ingredients": [
+        {
+            "1": "8  saltine crackers, finely crushed"
+        },
+        {
+            "2": "2 tablespoons mayonnaise"
+        },
+        {
+            "3": "0.5 teaspoon Dijon mustard"
+        },
+        {
+            "4": "0.5 teaspoon seafood seasoning (such as Old Bay\u00ae)"
+        },
+        {
+            "5": "0.25 teaspoon Worcestershire sauce"
+        },
+        {
+            "6": "1  egg, beaten"
+        },
+        {
+            "7": "1 salt to taste"
+        },
+        {
+            "8": "1 pinch cayenne pepper (Optional)"
+        },
+        {
+            "9": "1 pound fresh crabmeat, well drained"
+        },
+        {
+            "10": "0.25 cup dry bread crumbs"
+        },
+        {
+            "11": "2 tablespoons butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix saltine crackers, mayonnaise, Dijon mustard, seafood seasoning, Worcestershire sauce, egg, salt, and cayenne pepper in a large bowl."
+        },
+        {
+            "2": "Stir in crabmeat until mixture is combined but still chunky. Cover and refrigerate for 1 hour."
+        },
+        {
+            "3": "Sprinkle breadcrumbs on a plate."
+        },
+        {
+            "4": "Shape chilled crab mixture into 4 small thick patties; coat completely with bread crumbs."
+        },
+        {
+            "5": "Melt butter in a skillet over medium-heat; cook crab cakes until golden brown, about 4 minutes per side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "8 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 23 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 crab cakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "297"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff835d64b7ea778717a6d8fe700eb49af%2F1651615456IMG_20220503_175015867_HDR.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9400672.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9335540.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9324258.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/9qyQ7ihXop60Mr_ZFkX0Q0Q5778=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/871730-ac87e372f68440219d80dfa6df68e578.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

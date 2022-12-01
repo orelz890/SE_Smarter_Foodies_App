@@ -1,0 +1,75 @@
+{
+    "title": "Honey Mustard Pork Chops",
+    "Category": "Pork Chops",
+    "Ingredients": [
+        {
+            "1": "0.25 cup honey"
+        },
+        {
+            "2": "2 tablespoons prepared yellow mustard"
+        },
+        {
+            "3": "1 tablespoon butter"
+        },
+        {
+            "4": "0.5 pounds center-cut boneless pork chops - 1/2-inch thick"
+        },
+        {
+            "5": "1 garlic powder, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix honey and mustard together in a small bowl until thoroughly combined."
+        },
+        {
+            "2": "Heat butter in a skillet over medium-high heat. Add pork chops and sprinkle with 1/2 of the garlic powder; cook until browned, about 3 minutes. Turn chops over, sprinkle with remaining garlic powder and cook for 3 more minutes."
+        },
+        {
+            "3": "Brush honey-mustard sauce over chops, turn them over, and cook for 5 minutes; turn chops onto the other side and brush with honey-mustard sauce. Cook until chops are no longer pink inside and an instant-read meat thermometer inserted into the thickest part of a chop reads 145 degrees F (63 degrees C), about 5 more minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "287"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9442818.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9367653.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9355812.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8997936.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

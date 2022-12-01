@@ -1,0 +1,108 @@
+{
+    "title": "Grilled Potato Salad",
+    "Category": "Potato Salad",
+    "Ingredients": [
+        {
+            "1": "2 pounds red potatoes"
+        },
+        {
+            "2": "2 tablespoons extra-virgin olive oil"
+        },
+        {
+            "3": "1 Dressing-"
+        },
+        {
+            "4": "0.5 cup extra-virgin olive oil"
+        },
+        {
+            "5": "1 tablespoon apple cider vinegar"
+        },
+        {
+            "6": "1 teaspoon kosher salt"
+        },
+        {
+            "7": "1 teaspoon ground black pepper"
+        },
+        {
+            "8": "1 clove garlic, chopped"
+        },
+        {
+            "9": "0.5 teaspoon white sugar"
+        },
+        {
+            "10": "6 slices cooked bacon, chopped"
+        },
+        {
+            "11": "4  green onions, chopped"
+        },
+        {
+            "12": "2 tablespoons minced fresh parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat grill for medium heat and lightly oil the grate."
+        },
+        {
+            "2": "Place potatoes in a bowl; add 2 tablespoons olive oil and toss to coat."
+        },
+        {
+            "3": "Cook on preheated grill until tender, about 30 minutes. Cool potatoes, 10 to 15 minutes; cut into quarters."
+        },
+        {
+            "4": "Whisk 1/2 cup olive oil, vinegar, salt, black pepper, garlic, and sugar together in a bowl until dressing is smooth. Toss potatoes, bacon, green onions, and parsley with dressing in a bowl until evenly coated."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "290"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8455517.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8279632.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8178792.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8132953.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/FmObhks7YWNsdURo7wHigYNcfYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2328466-0872a729b7464974a02896e5095646a8.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

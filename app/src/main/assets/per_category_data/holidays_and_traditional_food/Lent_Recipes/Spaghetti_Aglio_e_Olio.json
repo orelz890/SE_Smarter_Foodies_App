@@ -1,0 +1,87 @@
+{
+    "title": "Spaghetti Aglio e Olio",
+    "Category": "Lent Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound uncooked spaghetti"
+        },
+        {
+            "2": "0.5 cup olive oil"
+        },
+        {
+            "3": "6 cloves garlic, thinly sliced"
+        },
+        {
+            "4": "0.25 teaspoon red pepper flakes, or to taste"
+        },
+        {
+            "5": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "6": "0.25 cup chopped fresh Italian parsley"
+        },
+        {
+            "7": "1 cup finely grated Parmigiano-Reggiano cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally until cooked through but firm to the bite, about 10 to 12 minutes. Drain and transfer to a pasta bowl."
+        },
+        {
+            "2": "While the pasta is cooking, combine olive oil and garlic in a cold skillet. Cook over medium heat to slowly toast garlic, about 10 minutes. Reduce heat to medium-low when olive oil begins to bubble. Cook and stir until garlic is golden brown, about another 5 minutes. Remove from heat."
+        },
+        {
+            "3": "Stir red pepper flakes, salt, and black pepper into pasta. Pour in hot olive oil and garlic, and sprinkle on Italian parsley and half of the Parmigiano-Reggiano cheese; toss until combined."
+        },
+        {
+            "4": "Serve pasta topped with the remaining Parmigiano-Reggiano cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "755"
+        },
+        {
+            "Fat": "35g"
+        },
+        {
+            "Carbs": "87g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffc013a018c22892e012ecb8be8a5d684%2F1661045717image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8962968.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9423139.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9302028.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/zHrf_4auDNDfyj8zvwugsUfJQw0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8962968_original-Tammy-2000-ce9b060431df4d3cb3b73b760b970bcc.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

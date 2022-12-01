@@ -1,0 +1,96 @@
+{
+    "title": "Egyptian Lentil Soup",
+    "Category": "Lentil Soup",
+    "Ingredients": [
+        {
+            "1": "3 cups water"
+        },
+        {
+            "2": "1 cup red lentils"
+        },
+        {
+            "3": "1  roma tomato, quartered"
+        },
+        {
+            "4": "1  carrot, quartered"
+        },
+        {
+            "5": "1 small onion, quartered"
+        },
+        {
+            "6": "4 cloves garlic, quartered"
+        },
+        {
+            "7": "0.25 cube chicken bouillon (such as Maggi\u00ae)"
+        },
+        {
+            "8": "1 cup water"
+        },
+        {
+            "9": "2 teaspoons ground cumin"
+        },
+        {
+            "10": "0.5 teaspoon sea salt"
+        },
+        {
+            "11": "0.5 teaspoon cracked black pepper"
+        },
+        {
+            "12": "0.25 teaspoon ground coriander"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place 3 cups water, lentils, tomato, carrot, onion, garlic, and chicken bouillon in a stockpot over medium heat; cook until vegetables and lentils are softened, 20 to 25 minutes. Remove from heat and cool to lukewarm."
+        },
+        {
+            "2": "Blend vegetable and lentil mixture with an immersion blender until smooth. Stir 1 cup water, cumin, sea salt, pepper, and coriander into soup; heat over medium heat until warmed."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "196"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5196784.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4581739.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F69c99ac6141f6c63c57d702bcbc87608%2F2406875.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F06d4949c3f6cae3a3c7faf7ea8718c9f%2F1920918.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

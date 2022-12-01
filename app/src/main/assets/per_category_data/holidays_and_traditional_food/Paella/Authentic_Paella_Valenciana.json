@@ -1,0 +1,105 @@
+{
+    "title": "Authentic Paella Valenciana",
+    "Category": "Paella",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "0.5 (4 pound) whole chicken, cut into 6 pieces"
+        },
+        {
+            "3": "0.5 (2 pound) rabbit, cleaned and cut into pieces"
+        },
+        {
+            "4": "1 head garlic, cloves separated and peeled"
+        },
+        {
+            "5": "1 medium tomato, finely chopped"
+        },
+        {
+            "6": "1 (15.5 ounce) can butter beans"
+        },
+        {
+            "7": "0.5 (10 ounce) package frozen green peas"
+        },
+        {
+            "8": "0.5 (10 ounce) package frozen green beans"
+        },
+        {
+            "9": "1 teaspoon mild paprika, or to taste"
+        },
+        {
+            "10": "6 cups water, or as needed"
+        },
+        {
+            "11": "1 salt to taste"
+        },
+        {
+            "12": "1 pinch saffron threads, or to taste"
+        },
+        {
+            "13": "1 pinch dried thyme, or to taste"
+        },
+        {
+            "14": "1 pinch dried rosemary, or to taste"
+        },
+        {
+            "15": "3 cups short-grain white rice, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a paella pan over medium-high heat, and coat with olive oil. Add chicken, rabbit, and garlic; cook and stir until nicely browned. Move the browned meat to the sides of the pan, and add tomato, butter beans, peas, and green beans. Season with paprika, and mix well."
+        },
+        {
+            "2": "Fill the paella pan almost to the top with water, measuring the water as you add it so you can determine the amount of rice to add later. Bring to a boil. Simmer for about 1 hour to make a nice broth."
+        },
+        {
+            "3": "Season with a generous amount of salt, just enough saffron for a yellow color, thyme, and rosemary. Stir in half as much rice as the amount of water added to the pan. Cover, reduce heat to low, and simmer until all of the liquid has been absorbed, about 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 30 mins"
+        },
+        {
+            "Total Time": " 2 hrs"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "783"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "87g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7817798.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1127727.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2143b39935325f9c62115eeab1e76953%2F1088194.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F959122.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

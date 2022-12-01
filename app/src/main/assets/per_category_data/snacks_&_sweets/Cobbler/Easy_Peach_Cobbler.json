@@ -1,0 +1,81 @@
+{
+    "title": "Easy Peach Cobbler",
+    "Category": "Cobbler",
+    "Ingredients": [
+        {
+            "1": "1 cup white sugar"
+        },
+        {
+            "2": "0.5 cup butter, room temperature"
+        },
+        {
+            "3": "1 cup self-rising flour"
+        },
+        {
+            "4": "1 cup milk"
+        },
+        {
+            "5": "1 (15 ounce) can peaches"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "In a one-quart baking dish or 9 inch square pan, cream together sugar and butter. Mix in flour and milk until smooth. Pour peaches and their juice over the top."
+        },
+        {
+            "3": "Bake 25 to 30 minutes in the preheated oven, until golden brown."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "390"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "59g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F85466596cfa28ca8a7c64668d4e1a963%2F1653863107image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F85466596cfa28ca8a7c64668d4e1a963%2F165231612816523161115113450669948729328268.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F85466596cfa28ca8a7c64668d4e1a963%2F1650235145P1060170.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9405062.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/0HjbMxmBzlAQLojFQWy0DGAXu_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/438953-fd91fe795986496ea8581de57d136ef6.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

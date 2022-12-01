@@ -1,0 +1,99 @@
+{
+    "title": "Easy Naan",
+    "Category": "Flat Bread",
+    "Ingredients": [
+        {
+            "1": "1 cup warm water"
+        },
+        {
+            "2": "1.0 teaspoons active dry yeast"
+        },
+        {
+            "3": "2 tablespoons sugar, or more to taste"
+        },
+        {
+            "4": "3 tablespoons milk"
+        },
+        {
+            "5": "1  egg, beaten"
+        },
+        {
+            "6": "2 teaspoons salt, or to taste"
+        },
+        {
+            "7": "2.5 cups bread flour, or as needed"
+        },
+        {
+            "8": "2 cloves garlic, minced (Optional)"
+        },
+        {
+            "9": "0.25 cup butter, melted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine water, yeast, and sugar in a large bowl. Let stand until bubbly and frothy, about 10 minutes."
+        },
+        {
+            "2": "Stir in milk, egg, salt, and enough flour to make a soft dough. Knead dough on a lightly floured surface until smooth, 6 to 8 minutes. Place dough into a well oiled bowl, cover with a damp cloth, and set aside to rise until the dough has doubled in volume, about 1 hour."
+        },
+        {
+            "3": "Punch down dough and knead well. For garlic naan, knead in garlic at this point."
+        },
+        {
+            "4": "Pinch off small handfuls of dough about the size of golf balls. Roll into balls, cover with a clean cloth, and allow to rise until doubled in size, about 30 minutes."
+        },
+        {
+            "5": "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler."
+        },
+        {
+            "6": "Roll out 2 balls of dough into elongated ovals. Place on an ungreased baking sheet and cook under the broiler until lightly browned, about 2 minutes. Brush butter on both sides and flip. Continue broiling until the second side is firm and golden, 2 minutes more. Repeat with remaining dough."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 40 mins"
+        },
+        {
+            "Total Time": " 2 hrs 30 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 naan breads"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "252"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "43g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8215627.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8162673.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8029831.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

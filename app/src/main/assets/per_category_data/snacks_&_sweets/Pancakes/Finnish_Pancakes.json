@@ -1,0 +1,81 @@
+{
+    "title": "Finnish Pancakes",
+    "Category": "Pancakes",
+    "Ingredients": [
+        {
+            "1": "1 cup milk"
+        },
+        {
+            "2": "2 tablespoons butter, melted"
+        },
+        {
+            "3": "2  eggs"
+        },
+        {
+            "4": "0.5 cup all-purpose flour"
+        },
+        {
+            "5": "1 teaspoon baking powder"
+        },
+        {
+            "6": "0.5 teaspoon vanilla extract"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour milk into a microwave-safe bowl. Heat in the microwave until slightly warm, 20 to 30 seconds. Whisk in butter. Whisk in eggs. Add flour, baking powder, vanilla extract, and salt; blend briefly with an immersion blender to make a smooth batter."
+        },
+        {
+            "2": "Heat a lightly oiled griddle over medium-high heat. Drop batter by large spoonfuls onto the griddle and cook until bottom is golden brown, 2 to 3 minutes. Flip and cook until browned on the other side, 2 to 3 minutes. Repeat with remaining batter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "10 pancakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "176"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4ced2bc1111d017b07237fc2682a6639%2F165445432263A700DE-90E6-4B0F-8EB1-E838818E85B3.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9388257.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8885810.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8434913.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

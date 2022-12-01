@@ -1,0 +1,75 @@
+{
+    "title": "B and L's Strawberry Smoothie",
+    "Category": "Smoothies",
+    "Ingredients": [
+        {
+            "1": "8  strawberries, hulled"
+        },
+        {
+            "2": "0.5 cup skim milk"
+        },
+        {
+            "3": "0.5 cup plain yogurt"
+        },
+        {
+            "4": "3 tablespoons white sugar"
+        },
+        {
+            "5": "2 teaspoons vanilla extract"
+        },
+        {
+            "6": "6 cubes  ice, crushed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine strawberries, milk, yogurt, sugar, and vanilla in a blender. Add ice and blend until smooth and creamy."
+        },
+        {
+            "2": "Pour into glasses and serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "160"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9cfaf149c34ec8002dd59d2d1703dd49%2F164691533316469153172783493864328135044055.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9367269.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9219069.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9180111.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/9p7MUwx1PZimOOWdT0cEmKnTRU8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8087891-6673f8974fc542ac9a1aa618c9c70e34.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

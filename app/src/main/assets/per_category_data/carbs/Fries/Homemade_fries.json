@@ -1,0 +1,87 @@
+{
+    "title": "Homemade fries",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "800 grams waxy potatoes"
+        },
+        {
+            "2": "1 tablespoon olive oil"
+        },
+        {
+            "3": "1 salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Peel the potatoes and cut them into long, 8 mm thick French fries. (You can use a French fry cutter for this.)"
+        },
+        {
+            "2": "Soak the fries in water for at least 30 minutes. Drain them thoroughly, then pat them dry with kitchen paper."
+        },
+        {
+            "3": "Heat the Philips Airfryer to 320 degrees F (160 degrees C)."
+        },
+        {
+            "4": "Put the fries in a large bowl, drizzle with the oil and toss to coat them. Transfer them to the Philips Airfryer basket. Slide the basket into the Philips Airfryer and set the timer for 18 minutes."
+        },
+        {
+            "5": "When the timer rings, slide out the basket and shake the fries. Adjust the temperature to 180C and set the timer for another 12 minutes."
+        },
+        {
+            "6": "After 6 minutes, slide out the basket and shake the fries again."
+        },
+        {
+            "7": "Fry until the timer rings and the fries are golden brown. Sprinkle with salt and serve on a platter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 (200 gram) servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "184"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9120740.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7878003.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6922845.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4546571.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

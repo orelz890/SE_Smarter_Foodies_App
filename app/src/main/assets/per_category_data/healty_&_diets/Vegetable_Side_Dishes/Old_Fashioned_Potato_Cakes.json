@@ -1,0 +1,81 @@
+{
+    "title": "Old-Fashioned Potato Cakes",
+    "Category": "Vegetable Side Dishes",
+    "Ingredients": [
+        {
+            "1": "2 cups mashed potatoes"
+        },
+        {
+            "2": "1 cup all-purpose flour"
+        },
+        {
+            "3": "1  onion, diced"
+        },
+        {
+            "4": "1  egg"
+        },
+        {
+            "5": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "0.5 cup vegetable oil, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix mashed potatoes, flour, onion, egg, black pepper, and salt in a bowl until well combined, similar to a batter consistency."
+        },
+        {
+            "2": "Heat vegetable oil in a skillet over medium heat. Drop 4-inch circles of batter into the hot oil. Cook until golden brown, about 4 to 5 minutes per side; drain on paper towels. Repeat with any remaining batter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "255"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "45g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff029be7d69b8a7d8bfdf1e915dc7726e%2F16612157301661215711056979403969715021449.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff029be7d69b8a7d8bfdf1e915dc7726e%2F1660206060image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff029be7d69b8a7d8bfdf1e915dc7726e%2F165541346716554134578849180723170641541216.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff029be7d69b8a7d8bfdf1e915dc7726e%2F165453361616545336055854025070332624484532.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/WaGtfV5_hlifFWfxl8-au9Y69bM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/874657-69e9029d9d3148de9beb1d8a5cc7ebad.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

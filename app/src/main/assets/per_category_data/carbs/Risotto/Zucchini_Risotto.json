@@ -1,0 +1,96 @@
+{
+    "title": "Zucchini Risotto",
+    "Category": "Risotto",
+    "Ingredients": [
+        {
+            "1": "7 cups vegetable or chicken stock"
+        },
+        {
+            "2": "1 tablespoon butter"
+        },
+        {
+            "3": "1 medium onion, chopped"
+        },
+        {
+            "4": "2 cups Arborio rice, uncooked"
+        },
+        {
+            "5": "0.5  medium zucchini, thinly sliced with a vegetable peeler"
+        },
+        {
+            "6": "10  sun-dried tomatoes, softened and chopped"
+        },
+        {
+            "7": "1 teaspoon dried thyme, crushed"
+        },
+        {
+            "8": "6 tablespoons freshly grated Parmesan (or mozzarella) cheese"
+        },
+        {
+            "9": "1 tablespoon chopped fresh basil leaves, or to taste (Optional)"
+        },
+        {
+            "10": "1 freshly ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring vegetable or chicken stock to a boil in a medium stock pot, then reduce heat to a low simmer."
+        },
+        {
+            "2": "Melt butter in a large, heavy bottomed stock pot over medium heat. Stir in onions and cook for 2 minutes, or until softened. Add the rice and cook for another 2 minutes, stirring constantly, until lightly toasted. Gradually ladle in simmering vegetable stock, stirring continuously. Risotto will become creamy and slightly sticky, yet still firm in the center, or al dente."
+        },
+        {
+            "3": "When almost finished, stir in the zucchini, sun-dried tomatoes, and thyme, adding stock as needed and stirring continuously. Stir in basil and 3 tablespoons cheese just before serving. Divide risotto among 6 bowls, sprinkle with remaining cheese, and season with pepper to taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "364"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "71g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8460520.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8455925.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7955293.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7437144.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/6O7WKOWPPgWPHvpdJO28PkZF8qE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2534305-5d52156414aa47c1bda16db54c3d6a59.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

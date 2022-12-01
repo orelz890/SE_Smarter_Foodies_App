@@ -1,0 +1,60 @@
+{
+    "title": "The Arnold Palmer",
+    "Category": "Father's Day Recipes",
+    "Ingredients": [
+        {
+            "1": "5 fluid ounces prepared lemonade"
+        },
+        {
+            "2": "5 fluid ounces prepared iced tea"
+        },
+        {
+            "3": "1 cup ice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine lemonade and iced tea in a highball or tall glass. Add ice and stir until chilled."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "60"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9b4b8d48569f074cde199da40f7db493%2F3862822.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F77ad8dfaf176903111e1c8fc7a4dad04%2F2292013.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F849475.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8d23564fae1fc51e36a76b5570a6cd3d%2F835872.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

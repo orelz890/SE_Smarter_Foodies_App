@@ -1,0 +1,81 @@
+{
+    "title": "Oven Fried Okra",
+    "Category": "Diabetic Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package frozen cut okra"
+        },
+        {
+            "2": "1 butter flavored cooking spray"
+        },
+        {
+            "3": "0.25 cup yellow cornmeal"
+        },
+        {
+            "4": "0.25 cup panko bread crumbs"
+        },
+        {
+            "5": "0.5 teaspoon garlic salt"
+        },
+        {
+            "6": "0.25 teaspoon ground black pepper (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 375 degrees F (190 degrees C). Place a baking rack on top of a baking sheet or sheet pan."
+        },
+        {
+            "2": "Cook the frozen okra in the microwave using your microwave's frozen vegetable setting, or on high for 8 minutes. Drain and cool on paper towels, about 5 to 10 minutes. Spray generously with butter flavored cooking spray. Add the cornmeal, panko bread crumbs, garlic salt, and pepper to a plastic food storage bag. Place the okra into the bag and shake to coat the okra with the cornmeal mixture."
+        },
+        {
+            "3": "Remove the okra from the bag and spread it on the prepared baking rack. Bake in the preheated oven until golden brown and crispy, about 15 to 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "95"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8365516.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1111812.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F657108.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F657082.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

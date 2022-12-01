@@ -1,0 +1,69 @@
+{
+    "title": "Garlic Hummus",
+    "Category": "Hummus",
+    "Ingredients": [
+        {
+            "1": "1 (15 ounce) can garbanzo beans, drained"
+        },
+        {
+            "2": "4 cloves garlic, sliced"
+        },
+        {
+            "3": "1 large lemon, juiced"
+        },
+        {
+            "4": "1 tablespoon tahini"
+        },
+        {
+            "5": "1 tablespoon water"
+        },
+        {
+            "6": "1 tablespoon olive oil"
+        },
+        {
+            "7": "0.5 teaspoon sea salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine garbanzo beans, garlic, lemon juice, tahini, water, olive oil, and salt in the bowl of a food processor; process until smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "97"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F906c34897a580a7709f32eb08ac9295c%2F165712302616571229963397628774121451268853.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8676926.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

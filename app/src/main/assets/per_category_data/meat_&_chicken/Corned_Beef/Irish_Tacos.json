@@ -1,0 +1,87 @@
+{
+    "title": "Irish Tacos",
+    "Category": "Corned Beef",
+    "Ingredients": [
+        {
+            "1": "2 cups plain yogurt"
+        },
+        {
+            "2": "0.5 cup mayonnaise"
+        },
+        {
+            "3": "1  lime, juiced"
+        },
+        {
+            "4": "2 tablespoons chopped fresh cilantro"
+        },
+        {
+            "5": "1 pinch cayenne pepper, or to taste"
+        },
+        {
+            "6": "1 salt to taste"
+        },
+        {
+            "7": "0.5 cups shredded corned beef"
+        },
+        {
+            "8": "8 (10 inch) flour tortillas"
+        },
+        {
+            "9": "1 pound prepared coleslaw"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix together the yogurt, mayonnaise, lime juice, cilantro, cayenne pepper, and salt in a bowl until smooth."
+        },
+        {
+            "2": "Place the corned beef in a saucepan over medium-low heat just until hot. Place a tortilla into a heavy skillet over medium heat until hot and just beginning to show brown spots, about 30 seconds per side. To assemble, arrange about 2 tablespoons of coleslaw on a tortilla; follow with 3 tablespoons of corned beef. Drizzle with 2 tablespoons of the yogurt sauce; roll up to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 tacos"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "433"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7813284.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4897543.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4478382.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2162420.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

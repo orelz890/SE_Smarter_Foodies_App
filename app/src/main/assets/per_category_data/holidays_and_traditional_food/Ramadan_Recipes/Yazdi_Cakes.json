@@ -1,0 +1,93 @@
+{
+    "title": "Yazdi Cakes",
+    "Category": "Ramadan Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "1 teaspoon baking powder"
+        },
+        {
+            "3": "4  eggs"
+        },
+        {
+            "4": "0.25 cups white sugar"
+        },
+        {
+            "5": "0.5 cups butter, melted"
+        },
+        {
+            "6": "1 cup plain yogurt"
+        },
+        {
+            "7": "0.5 teaspoons ground cardamom"
+        },
+        {
+            "8": "1 tablespoon rose water"
+        },
+        {
+            "9": "0.5 cup blanched slivered almonds"
+        },
+        {
+            "10": "0.5 tablespoons chopped pistachio nuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Sift the flour and baking powder into a bowl; set aside. Grease the cups of a cupcake/muffin pan. You will need 24 cups."
+        },
+        {
+            "2": "Combine the eggs and sugar in a large heatproof bowl and set on top of a pan of simmering water. Beat constantly with a whisk or electric mixer until thick and pale, about 8 minutes. Remove from the heat and continue to beat until cooled, about 10 minutes. Mix in the butter, yogurt, cardamom and rose water. Stir in the flour mixture by hand and fold in the slivered almonds. Spoon into the prepared cupcake molds, filling 3/4 full. Sprinkle some chopped pistachios over the tops."
+        },
+        {
+            "3": "Bake in the preheated oven until firm to the touch and golden brown, 25 to 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 cakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "215"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9397334.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9104708.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7987207.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6017699.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

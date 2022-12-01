@@ -1,0 +1,75 @@
+{
+    "title": "Basil Pecan Pesto",
+    "Category": "Pesto Sauce",
+    "Ingredients": [
+        {
+            "1": "3 cups fresh basil leaves"
+        },
+        {
+            "2": "0.5 cups pecans"
+        },
+        {
+            "3": "4 cloves garlic"
+        },
+        {
+            "4": "0.5 cup shredded Parmesan cheese"
+        },
+        {
+            "5": "0.75 cup olive oil"
+        },
+        {
+            "6": "0.5 teaspoon kosher salt"
+        },
+        {
+            "7": "1 pinch ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Blend the basil, pecans, garlic, Parmesan cheese, olive oil, salt, and pepper together in a food processor until the mixture becomes a slightly chunky paste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "232"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9338357.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8797055.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8352810.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8301547.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

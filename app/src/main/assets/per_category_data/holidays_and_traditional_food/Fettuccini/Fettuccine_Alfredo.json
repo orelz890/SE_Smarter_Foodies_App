@@ -1,0 +1,87 @@
+{
+    "title": "Fettuccine Alfredo",
+    "Category": "Fettuccini",
+    "Ingredients": [
+        {
+            "1": "10 ounces fettuccini pasta"
+        },
+        {
+            "2": "0.5 cup butter"
+        },
+        {
+            "3": "5 cloves garlic, chopped"
+        },
+        {
+            "4": "1 cup heavy cream"
+        },
+        {
+            "5": "1  egg yolk"
+        },
+        {
+            "6": "2 cups freshly grated Parmesan cheese"
+        },
+        {
+            "7": "2 tablespoons dried parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+            "2": "Meanwhile, in a large skillet melt butter and add chopped garlic. Cook on low for about 5 minutes, stirring often to prevent garlic from burning."
+        },
+        {
+            "3": "Pour about a 1/4 cup of heavy cream into a small bowl. Add egg yolk and beat together; set aside."
+        },
+        {
+            "4": "Pour remaining cream into the skillet. Increase heat to medium-high. As cream starts to boil, mix rapidly using a whisk. Add egg mixture slowly to prevent curdling, whisking until well blended. Stir in 1 cup Parmesan cheese until combined."
+        },
+        {
+            "5": "Add remaining Parmesan cheese and parsley; mix until smooth. Remove from heat and serve over cooked pasta."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "854"
+        },
+        {
+            "Fat": "59g"
+        },
+        {
+            "Carbs": "56g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F02a5eef655f20102e02b23b059d12f14%2F166379462816637946008664041678991577007676.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F02a5eef655f20102e02b23b059d12f14%2F165766502316576649971797610551367695556041.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F02a5eef655f20102e02b23b059d12f14%2F1644105403download.jfif&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9379349.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

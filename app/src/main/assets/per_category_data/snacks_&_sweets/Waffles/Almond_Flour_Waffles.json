@@ -1,0 +1,81 @@
+{
+    "title": "Almond Flour Waffles",
+    "Category": "Waffles",
+    "Ingredients": [
+        {
+            "1": "1 cup almond flour"
+        },
+        {
+            "2": "1 teaspoon baking soda"
+        },
+        {
+            "3": "1 pinch salt"
+        },
+        {
+            "4": "4  eggs"
+        },
+        {
+            "5": "0.25 cup honey"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "1 cooking spray"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat a waffle iron according to the manufacturer's instructions."
+        },
+        {
+            "2": "Combine almond flour, baking soda, and salt in a large bowl. Whisk eggs, honey, and vanilla together in a separate bowl. Stir flour mixture into egg mixture until smooth."
+        },
+        {
+            "3": "Spray the preheated waffle iron with cooking spray. Spoon batter onto waffle iron; cook until golden brown and the iron stops steaming, about 5 minutes. Repeat with remaining batter. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "214"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9410288.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9217216.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8904383.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8583467.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Easy Coleslaw Dressing",
+    "Category": "Salad Dressings",
+    "Ingredients": [
+        {
+            "1": "0.5 cup mayonnaise"
+        },
+        {
+            "2": "2 tablespoons white sugar"
+        },
+        {
+            "3": "0.5 tablespoons lemon juice"
+        },
+        {
+            "4": "1 tablespoon vinegar"
+        },
+        {
+            "5": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "6": "0.25 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk mayonnaise, sugar, lemon juice, vinegar, pepper, and salt together in a bowl until smooth and creamy."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "94"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff495e4bfd9f3f20b4b9ab781b5302c41%2F166200741020220831_174426.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff495e4bfd9f3f20b4b9ab781b5302c41%2F1658776153image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff495e4bfd9f3f20b4b9ab781b5302c41%2F1655576477coleslaw.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff495e4bfd9f3f20b4b9ab781b5302c41%2F164942135316494213254697254042730225111391.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/EZY0c-kbBP3KeGzIwiz76nmuOxc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240784-EasyColeslawDressing_002-809a614f91b44fb8b18ec429b2d490db.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/CMP46npcxMWSR-PD9Xcw6xkgPtw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240784-EasyColeslawDressing_003-d82edf7e37f94b46a2e852e480d1010c.jpg"
+        }
+    ],
+    "main category": "salads"
+}

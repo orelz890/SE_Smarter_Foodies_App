@@ -1,0 +1,84 @@
+{
+    "title": "Mom's Baking Powder Biscuits",
+    "Category": "Biscuit",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour, plus more for dusting"
+        },
+        {
+            "2": "1.0 teaspoons baking powder"
+        },
+        {
+            "3": "0.75 teaspoon salt"
+        },
+        {
+            "4": "5 tablespoons shortening"
+        },
+        {
+            "5": "0.75 cup milk"
+        },
+        {
+            "6": "1 tablespoon melted shortening, or as needed (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "2": "Mix flour, baking powder, and salt in a bowl. Add shortening and cut into flour until incorporated into little pieces. Add milk a little at a time and mix until dough forms a ball."
+        },
+        {
+            "3": "Roll out dough on a floured board to 1/2- to 1/4-inch thick. Cut out biscuits to desired size and dip in melted shortening. Place biscuits on an ungreased baking sheet."
+        },
+        {
+            "4": "Bake in the preheated oven for 12 to 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "2 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "66"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9238695.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8415689.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8415691.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7605023.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Sweet Potato Gnocchi",
+    "Category": "Gnocchi",
+    "Ingredients": [
+        {
+            "1": "2 (8 ounce) sweet potatoes"
+        },
+        {
+            "2": "1 clove garlic, pressed"
+        },
+        {
+            "3": "0.5 teaspoon salt"
+        },
+        {
+            "4": "0.5 teaspoon ground nutmeg"
+        },
+        {
+            "5": "1  egg"
+        },
+        {
+            "6": "2 cups all-purpose flour"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Bake sweet potatoes for 30 minutes, or until soft to the touch. Remove from the oven, and set aside to cool."
+        },
+        {
+            "2": "Once the potatoes are cool enough to work with, remove the peels, and mash them, or press them through a ricer into a large bowl. Blend in the garlic, salt, nutmeg, and egg. Mix in the flour a little at a time until you have soft dough. Use more or less flour as needed."
+        },
+        {
+            "3": "Bring a large pot of lightly salted water to a boil. While you wait for the water, make the gnocchi. On a floured surface, roll the dough out in several long snakes, and cut into 1-inch sections. Drop the pieces into the boiling water, and allow them to cook until they float to the surface. Remove the floating pieces with a slotted spoon, and keep warm in a serving dish. Serve with butter or cream sauce."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "346"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "71g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9069091.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8698917.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8061343.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7918155.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

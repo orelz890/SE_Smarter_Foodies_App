@@ -1,0 +1,135 @@
+{
+    "title": "Authentic Pho",
+    "Category": "Soup",
+    "Ingredients": [
+        {
+            "1": "4 pounds beef soup bones (shank and knee)"
+        },
+        {
+            "2": "1 medium onion, unpeeled and cut in half"
+        },
+        {
+            "3": "5 slices fresh ginger"
+        },
+        {
+            "4": "1 tablespoon salt"
+        },
+        {
+            "5": "2 pods star anise"
+        },
+        {
+            "6": "1.0 tablespoons fish sauce"
+        },
+        {
+            "7": "4 quarts water"
+        },
+        {
+            "8": "1 (8 ounce) package dried rice noodles"
+        },
+        {
+            "9": "0.5 pounds beef top sirloin, thinly sliced"
+        },
+        {
+            "10": "0.5 cup chopped cilantro"
+        },
+        {
+            "11": "1 tablespoon chopped green onion"
+        },
+        {
+            "12": "0.5 cups bean sprouts"
+        },
+        {
+            "13": "1 bunch Thai basil"
+        },
+        {
+            "14": "1 medium lime, cut into 4 wedges"
+        },
+        {
+            "15": "0.25 cup hoisin sauce (Optional)"
+        },
+        {
+            "16": "0.25 cup chile-garlic sauce (such as Sriracha\u00ae) (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "2": "Place beef bones on a baking sheet and roast in the preheated oven until browned, about 1 hour."
+        },
+        {
+            "3": "Place onion halves on a second baking sheet and roast on another rack until blackened and soft, about 45 minutes."
+        },
+        {
+            "4": "Transfer beef bones and onion halves to a large stockpot. Add ginger, salt, star anise, fish sauce, and 4 quarts water; bring to a boil. Reduce heat to low and simmer for 6 to 10 hours. Strain the broth into a saucepan and set aside."
+        },
+        {
+            "5": "Place rice noodles in a large bowl filled with room temperature water. Let soak for 1 hour. Drain."
+        },
+        {
+            "6": "When noodles have soaked for 1 hour, heat up the reserved broth by bringing it to a simmer."
+        },
+        {
+            "7": "Bring a large pot of water to a boil. Cook the noodles in the boiling water for 1 minute. Drain."
+        },
+        {
+            "8": "Divide noodles among 4 serving bowls; top with sirloin, cilantro, and green onion. Ladle hot broth over the top. Stir and let sit until beef is partially cooked and no longer pink, 1 to 2 minutes."
+        },
+        {
+            "9": "Serve with bean sprouts, Thai basil, lime wedges, hoisin sauce, and chile-garlic sauce on the side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 7 hrs 5 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 25 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "509"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "66g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9006771.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8992398.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8986511.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8919952.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ir__2JjxC7rjzOouLk03En-Khz8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228443-AuthenticPho-mfs-3x2-0484-99ebf6b7cfb84fc892301d5b3d1d5df5.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/TIXz_D45o53DMnd8aN5TJR6WhNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228443-AuthenticPho-mfs-1x1-0483-b7ad4260c5b344a785587f33f5e5c92d.jpg"
+        }
+    ],
+    "main category": "soups"
+}

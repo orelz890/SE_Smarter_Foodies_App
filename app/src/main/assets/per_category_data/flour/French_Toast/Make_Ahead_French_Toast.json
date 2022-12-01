@@ -1,0 +1,96 @@
+{
+    "title": "Make Ahead French Toast",
+    "Category": "French Toast",
+    "Ingredients": [
+        {
+            "1": "5  eggs, lightly beaten"
+        },
+        {
+            "2": "0.5 cups milk"
+        },
+        {
+            "3": "1 cup half-and-half cream"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "0.5 (1 pound) loaf French bread, cut diagonally in 1 inch slices"
+        },
+        {
+            "6": "0.5 cup butter, melted"
+        },
+        {
+            "7": "1 cup light brown sugar"
+        },
+        {
+            "8": "2 tablespoons maple syrup"
+        },
+        {
+            "9": "1 cup chopped pecans"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, whisk together eggs, milk, cream and vanilla. Dip bread slices into egg mixture and place in a lightly greased 9x13 inch baking pan. Refrigerate overnight."
+        },
+        {
+            "2": "The next morning: Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "3": "In a small bowl, combine butter, sugar, maple syrup and pecans. Spoon mixture over bread."
+        },
+        {
+            "4": "Bake in preheated oven until golden, about 40 minutes. Let stand 5 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Additional Time": " 13 hrs 10 mins"
+        },
+        {
+            "Total Time": " 14 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "503"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "52g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8931383.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8887741.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8107064.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7392088.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

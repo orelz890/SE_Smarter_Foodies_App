@@ -1,0 +1,87 @@
+{
+    "title": "Hamburger Potato Casserole",
+    "Category": "Comfort Food",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "1 (10.5 ounce) can condensed cream of mushroom soup"
+        },
+        {
+            "3": "0.75 cup milk"
+        },
+        {
+            "4": "0.5 cup chopped onion"
+        },
+        {
+            "5": "1 salt and ground black pepper to taste"
+        },
+        {
+            "6": "3 cups peeled and thinly sliced potatoes"
+        },
+        {
+            "7": "1 cup shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease."
+        },
+        {
+            "3": "Mix condensed soup, milk, onion, salt, and pepper in a medium bowl until combined. Alternately layer the potatoes, soup mixture, and browned ground beef in a 2-quart baking dish."
+        },
+        {
+            "4": "Bake in the preheated oven until potatoes are tender, about 1 to 1 1/2 hours. Top with Cheddar cheese, and continue baking until cheese is melted."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "403"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F52015f19ef6fbf465802c784ca457ac5%2F1657063187Resized_20220705_181345.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F52015f19ef6fbf465802c784ca457ac5%2F1653260253CE163C3A-B25C-4524-807A-1C700D2DFB79.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F52015f19ef6fbf465802c784ca457ac5%2F165197041716519703864567614327957176137028.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F52015f19ef6fbf465802c784ca457ac5%2F164791557616479155294992427419579206872526.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/maSIOHoMRuCP8wiTEvMHKcRbBiM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/419304-hamburger-potato-casserole-Dianne-1x1-1-2000-734a47b5a5354c49bc73b1f65b8bd57d.jpg"
+        }
+    ],
+    "main category": "gifts_&_comfort_food"
+}

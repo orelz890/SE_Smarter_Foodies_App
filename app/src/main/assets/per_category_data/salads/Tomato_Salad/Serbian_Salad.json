@@ -1,0 +1,66 @@
+{
+    "title": "Serbian Salad",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "1 cup red tomatoes, cut into wedges"
+        },
+        {
+            "2": "0.5 cup cubed cucumber"
+        },
+        {
+            "3": "0.25 cup diced red onion"
+        },
+        {
+            "4": "0.25 cup extra-virgin olive oil"
+        },
+        {
+            "5": "1 salt to taste"
+        },
+        {
+            "6": "1  banana pepper, sliced into 1/4 inch rings"
+        },
+        {
+            "7": "1 parsley for garnish (optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine tomatoes, cucumber, and red onion in a large bowl. Drizzle with olive oil and stir. Season to taste with salt. Sprinkle banana pepper slices on top and garnish with parsley."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "139"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3661112.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

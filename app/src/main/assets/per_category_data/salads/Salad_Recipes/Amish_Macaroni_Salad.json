@@ -1,0 +1,99 @@
+{
+    "title": "Amish Macaroni Salad",
+    "Category": "Salad Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups uncooked elbow macaroni"
+        },
+        {
+            "2": "3 large hard-cooked eggs, chopped"
+        },
+        {
+            "3": "1 small onion, chopped"
+        },
+        {
+            "4": "3 stalks celery, chopped"
+        },
+        {
+            "5": "1 small red bell pepper, seeded and chopped"
+        },
+        {
+            "6": "2 tablespoons dill pickle relish"
+        },
+        {
+            "7": "2 cups creamy salad dressing (e.g. Miracle Whip)"
+        },
+        {
+            "8": "0.75 cup white sugar"
+        },
+        {
+            "9": "3 tablespoons prepared yellow mustard"
+        },
+        {
+            "10": "0.5 teaspoons white vinegar"
+        },
+        {
+            "11": "0.75 teaspoon celery seed"
+        },
+        {
+            "12": "0.25 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in boiling water, stirring occasionally, until tender yet firm to the bite, about 8 minutes. Drain and set aside to cool."
+        },
+        {
+            "2": "Combine eggs, onion, celery, bell pepper, and relish in a large bowl. Stir together salad dressing, sugar, mustard, vinegar, celery seed, and salt in a small bowl. Pour over eggs and vegetables. Top with cooled macaroni; stir until well combined. Cover and chill in the refrigerator for at least 1 hour before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "532"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "66g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F078833e32b19a6432b1f314767098850%2F1656961150BDD04B5A-EDF9-4A0E-904E-F22199084324.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4775823.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9442083.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9420963.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/7P1v97YWhYZ22ZKftDqzf2lW5R8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/410845-c19c74b3241148d882d40bd082b5eafa.jpg"
+        }
+    ],
+    "main category": "salads"
+}

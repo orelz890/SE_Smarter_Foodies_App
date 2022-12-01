@@ -1,0 +1,75 @@
+{
+    "title": "Refreshing Cucumber Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "1 cup water"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "1  cucumber, sliced"
+        },
+        {
+            "4": "6  lemons, juiced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Make the simple syrup: Combine water and sugar together in a saucepan over medium heat; heat until just about to boil and sugar has dissolved. Place in refrigerator until cool, about 30 minutes."
+        },
+        {
+            "2": "Blend cucumber in a blender or food processor until mashed into a pulp. Pour cucumber pulp into a fine mesh strainer placed over a bowl; allow to sit until you have about 2/3 cup of cucumber juice in the bowl, about 15 minutes."
+        },
+        {
+            "3": "Stir simple syrup, cucumber juice, and lemon juice together in a pitcher. Serve cold."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "141"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2458481.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2373735.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1279911.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1009205.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

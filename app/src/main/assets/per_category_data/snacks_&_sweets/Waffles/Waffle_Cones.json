@@ -1,0 +1,81 @@
+{
+    "title": "Waffle Cones",
+    "Category": "Waffles",
+    "Ingredients": [
+        {
+            "1": "1  vanilla bean, split"
+        },
+        {
+            "2": "1 cup butter"
+        },
+        {
+            "3": "1 cup packed dark brown sugar"
+        },
+        {
+            "4": "1 cup egg whites"
+        },
+        {
+            "5": "1 tablespoon vanilla extract"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "0.25 cups all-purpose flour"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Scrape vanilla bean seeds into a small saucepan over medium heat; add butter and cook until melted, 2 to 3 minutes. Whisk vanilla butter, brown sugar, egg whites, vanilla extract, and salt together in a bowl; add flour and beat until batter is smooth."
+        },
+        {
+            "2": "Preheat a waffle cone maker according to manufacturer's instructions."
+        },
+        {
+            "3": "Pour batter into the preheated waffle maker and cook according to instructions."
+        },
+        {
+            "4": "Immediately wrap around a cone-shaped dowel or press into a bowl-shaped mold. Let each cone or bowl cool for a few minutes. Store in an airtight container for up to 2 days."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": "3 mins"
+        },
+        {
+            "Total Time": "23 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 cones"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "270"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6689710.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

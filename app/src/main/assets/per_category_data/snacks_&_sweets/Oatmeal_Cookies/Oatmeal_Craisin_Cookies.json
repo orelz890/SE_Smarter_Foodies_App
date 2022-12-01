@@ -1,0 +1,99 @@
+{
+    "title": "Oatmeal Craisin Cookies",
+    "Category": "Oatmeal Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup butter, softened"
+        },
+        {
+            "2": "1 cup packed brown sugar"
+        },
+        {
+            "3": "1 cup white sugar"
+        },
+        {
+            "4": "2 large eggs"
+        },
+        {
+            "5": "1 teaspoon vanilla extract"
+        },
+        {
+            "6": "2 cups quick cooking oats"
+        },
+        {
+            "7": "2 cups all-purpose flour"
+        },
+        {
+            "8": "1 teaspoon baking soda"
+        },
+        {
+            "9": "1 teaspoon baking powder"
+        },
+        {
+            "10": "1 teaspoon salt"
+        },
+        {
+            "11": "1 cup raisins"
+        },
+        {
+            "12": "1 cup sweetened dried cranberries (such as Craisins\u00ae)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease cookie sheets."
+        },
+        {
+            "2": "Beat together butter, sugars, eggs, and vanilla in a large bowl with an electric mixer until light and fluffy, about 5 minutes. Combine oats, flour, baking soda, baking powder, and salt in a separate bowl. Add flour mixture, 1 cup at a time, beating batter briefly after each addition. Mix in raisins and cranberries. Drop by spoonfuls onto the prepared cookie sheets."
+        },
+        {
+            "3": "Bake in the preheated oven until edges are golden, 12 to 14 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "4 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "238"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa15ba2d65c5b81de16cd1ff1709954eb%2F1666492588276541F8760-8FEC-4A13-A3C9-D57D72A145C0.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9442038.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9383194.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9238742.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

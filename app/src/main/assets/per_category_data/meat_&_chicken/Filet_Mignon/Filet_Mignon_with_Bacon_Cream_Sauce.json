@@ -1,0 +1,87 @@
+{
+    "title": "Filet Mignon with Bacon Cream Sauce",
+    "Category": "Filet Mignon",
+    "Ingredients": [
+        {
+            "1": "4 (4 ounce) filet mignon (beef tenderloin)"
+        },
+        {
+            "2": "1 teaspoon olive oil"
+        },
+        {
+            "3": "3 slices bacon, chopped"
+        },
+        {
+            "4": "1 tablespoon butter"
+        },
+        {
+            "5": "4  shallots, diced"
+        },
+        {
+            "6": "0.25 cup half-and-half cream"
+        },
+        {
+            "7": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill to medium-high heat and lightly oil the grate."
+        },
+        {
+            "2": "Brush filets with olive oil, and cook on the preheated grill to desired doneness (about 4 minutes per side for medium rare). An instant-read thermometer inserted into the center should read 130 degrees F (54 degrees C). Set steaks aside on a platter tented with aluminum foil to rest."
+        },
+        {
+            "3": "While steaks are resting, prepare sauce. Cook and stir the chopped bacon in a small saucepan over medium heat until bacon pieces are crisp, 3 to 5 minutes. Stir in butter and shallots, and cook and stir until shallots are soft and translucent, about 5 minutes more."
+        },
+        {
+            "4": "Stir in the half-and-half, bring mixture to a simmer over medium-low heat, and cook, occasionally stirring, until sauce is slightly thickened, about 8 minutes. Season to taste with salt and pepper, and serve over steaks."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "383"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9187705.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9035012.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8956205.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8949925.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Dandelion Salad",
+    "Category": "Green Salads",
+    "Ingredients": [
+        {
+            "1": "0.5 pound torn dandelion greens"
+        },
+        {
+            "2": "0.5  red onion, chopped"
+        },
+        {
+            "3": "2  tomatoes, chopped"
+        },
+        {
+            "4": "0.5 teaspoon dried basil"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium bowl, toss together dandelion greens, red onion, and tomatoes. Season with basil, salt, and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "43"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8025961.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6849543.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4589900.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F337356.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Homemade Pesto",
+    "Category": "Pesto Sauce",
+    "Ingredients": [
+        {
+            "1": "4 cups packed fresh basil leaves"
+        },
+        {
+            "2": "0.25 cup Italian parsley"
+        },
+        {
+            "3": "2 cloves garlic, peeled and lightly crushed"
+        },
+        {
+            "4": "1 cup pine nuts"
+        },
+        {
+            "5": "0.5 cups shredded Parmigiano-Reggiano cheese"
+        },
+        {
+            "6": "1 tablespoon fresh lemon juice"
+        },
+        {
+            "7": "0.5 cup extra-virgin olive oil, or more as needed"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place basil, Italian parsley, and garlic into a food processor, pulse several times to combine, and process until basil is finely chopped, about 30 seconds. Add pine nuts to basil mixture; process until finely chopped, 30 more seconds. Process Parmigiano-Reggiano cheese into mixture until finely ground."
+        },
+        {
+            "2": "Mix lemon juice into mixture with the machine running; slowly drizzle olive oil into pesto in the running machine until incorporated and pesto is thoroughly combined. Turn off machine and season pesto to taste with salt and black pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "389"
+        },
+        {
+            "Fat": "36g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9318995.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8690264.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8465612.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7789359.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

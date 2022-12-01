@@ -1,0 +1,84 @@
+{
+    "title": "Onion Gravy for British Bangers and Mash",
+    "Category": "Gravy",
+    "Ingredients": [
+        {
+            "1": "6 tablespoons butter"
+        },
+        {
+            "2": "3 medium onions, thinly sliced"
+        },
+        {
+            "3": "1 tablespoon all-purpose flour"
+        },
+        {
+            "4": "1 (14.5 ounce) can chicken stock"
+        },
+        {
+            "5": "0.5 cup red wine"
+        },
+        {
+            "6": "2 teaspoons Dijon mustard"
+        },
+        {
+            "7": "1 teaspoon Worcestershire sauce"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a heavy-bottomed pan over medium heat. Add onion; cook and stir until softened, about 10 minutes."
+        },
+        {
+            "2": "Reduce heat to low; cover, and cook until onions are caramelized, stirring occasionally, about 20 minutes."
+        },
+        {
+            "3": "Stir in flour until well mixed. Stir in chicken stock, red wine, Dijon mustard, and Worcestershire sauce; simmer until sauce is thickened, stirring frequently, about 15 minutes. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "226"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Faaeb1c88abeb48292f0def9b96b7f0f2%2F166181234520220829_183019.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9159061.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8738505.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6571617.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

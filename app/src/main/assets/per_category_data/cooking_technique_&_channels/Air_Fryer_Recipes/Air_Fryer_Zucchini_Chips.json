@@ -1,0 +1,78 @@
+{
+    "title": "Air Fryer Zucchini Chips",
+    "Category": "Air Fryer Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup panko bread crumbs"
+        },
+        {
+            "2": "0.75 cup grated Parmesan cheese"
+        },
+        {
+            "3": "1 medium zucchini, thinly sliced"
+        },
+        {
+            "4": "1 large egg, beaten"
+        },
+        {
+            "5": "1 cooking spray"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an air fryer to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Combine panko and Parmesan cheese on a plate. Dip 1 zucchini slice into beaten egg then into panko mixture, pressing to coat. Place zucchini slice on a wire baking rack and repeat with remaining slices. Lightly spray zucchini slices with cooking spray."
+        },
+        {
+            "3": "Arrange zucchini slices in a single layer in the air fryer basket, working in batches if necessary."
+        },
+        {
+            "4": "Cook in the preheated air fryer for 10 minutes; flip the slices and cook 2 minutes more. Repeat with remaining zucchini slices."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "160"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff876fdb67d99aa4bbd7c08443f61ddd9%2F1648590150BEDB4026-F2AD-4312-99AF-495539C43566.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9396203.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9392566.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9296717.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

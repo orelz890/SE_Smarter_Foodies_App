@@ -1,0 +1,105 @@
+{
+    "title": "Breakfast Paella",
+    "Category": "Paella",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "0.5 cup chopped onion"
+        },
+        {
+            "3": "0.5 cup chopped red bell pepper"
+        },
+        {
+            "4": "0.5 cup chopped Spanish chorizo"
+        },
+        {
+            "5": "2 cloves garlic, minced"
+        },
+        {
+            "6": "1 cup medium-grain white rice"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "0.5 teaspoon smoked paprika"
+        },
+        {
+            "9": "1 pinch saffron threads"
+        },
+        {
+            "10": "2 cups low-sodium chicken broth"
+        },
+        {
+            "11": "1 (15 ounce) can red kidney beans, rinsed and drained"
+        },
+        {
+            "12": "0.5 cup sofrito sauce"
+        },
+        {
+            "13": "0.25 cup green olives, pitted and chopped"
+        },
+        {
+            "14": "2  bay leaves"
+        },
+        {
+            "15": "1 cup frozen peas"
+        },
+        {
+            "16": "4 large eggs"
+        },
+        {
+            "17": "1 chopped fresh parsley (Optional)"
+        },
+        {
+            "18": "1 lemon wedges, for serving (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a paella pan or large cast iron skillet over medium heat. Add onion, bell pepper, and chorizo. Cook, stirring frequently, until vegetables soften, about 5 minutes. Add garlic and cook until fragrant, about 30 seconds. Add rice, salt, paprika, and saffron. Cook, stirring frequently, until rice is lightly toasted, about 1 minute."
+        },
+        {
+            "2": "Add broth, beans, sofrito, olives, and bay leaves. Bring to a boil. Reduce heat and simmer, covered, shaking pan occasionally (do not stir) until rice is almost done but still toothsome, 12 to 15 minutes. Remove and discard bay leaves."
+        },
+        {
+            "3": "Gently fold in peas, being careful not to disturb the bottom of the skillet. Make 4 indentations in the rice. Add one egg into each indentation. Simmer, covered, until whites are set and yolks are thickened, 7 to 10 minutes. Sprinkle with parsley and serve with lemon wedges (if using)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "506"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "67g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F75598cf2949a5c2543af2944448d2b51%2F165964476920220803_180830.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

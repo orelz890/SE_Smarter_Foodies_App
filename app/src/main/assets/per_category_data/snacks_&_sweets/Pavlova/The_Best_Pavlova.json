@@ -1,0 +1,81 @@
+{
+    "title": "The Best Pavlova",
+    "Category": "Pavlova",
+    "Ingredients": [
+        {
+            "1": "3  egg whites"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "1 tablespoon cornstarch"
+        },
+        {
+            "4": "1 teaspoon lemon juice"
+        },
+        {
+            "5": "0.25 cups heavy whipping cream"
+        },
+        {
+            "6": "0.5 cup confectioners' sugar"
+        },
+        {
+            "7": "1 pint fresh strawberries"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 300 degrees F (150 degrees C). Line a sheet pan with parchment paper. Draw a 9 inch circle on the parchment. An easy way to do this is to draw around the outside of a 9 inch pan with a pencil."
+        },
+        {
+            "2": "In a large bowl, beat egg whites on high speed until soft peaks form. Add 3/4 cup of the sugar gradually, while continuing to whip. Make sure sugar is completely dissolved. Mix together the remaining 1/4 cup sugar with the cornstarch; lightly fold into meringue with lemon juice."
+        },
+        {
+            "3": "Spread a layer of meringue to fit circle on parchment, approximately 1/4 inch thick. With remainder of mixture, pipe or spoon swirls around the edges to form a shallow bowl shape."
+        },
+        {
+            "4": "Bake at 300 degrees F (150 degrees C) for 1 hour. Turn off oven, but leave meringue in oven for an additional 30 minutes. When cool, the meringue should be hard on the outside, and slightly moist on the inside."
+        },
+        {
+            "5": "In a large bowl, combine the cream and half a cup of confectioners sugar, and whip until thickened. Decorate with fruit of your choice; strawberries are excellent."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 to 9 - inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "186"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7c13d192cff47529ee7d7974a9f57ad7%2F1645915765722EA235-14FA-4125-BD38-EC69ED304AF4.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8637577.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8345929.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7562539.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

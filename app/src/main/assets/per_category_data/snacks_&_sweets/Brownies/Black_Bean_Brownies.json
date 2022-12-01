@@ -1,0 +1,93 @@
+{
+    "title": "Black Bean Brownies",
+    "Category": "Brownies",
+    "Ingredients": [
+        {
+            "1": "1 (15.5 ounce) can black beans, rinsed and drained"
+        },
+        {
+            "2": "3  eggs"
+        },
+        {
+            "3": "3 tablespoons vegetable oil"
+        },
+        {
+            "4": "0.25 cup cocoa powder"
+        },
+        {
+            "5": "1 pinch salt"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "0.75 cup white sugar"
+        },
+        {
+            "8": "1 teaspoon instant coffee (Optional)"
+        },
+        {
+            "9": "0.5 cup milk chocolate chips (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease an 8x8 square baking dish."
+        },
+        {
+            "2": "Combine the black beans, eggs, oil, cocoa powder, salt, vanilla extract, sugar, and instant coffee in a blender; blend until smooth; pour the mixture into the prepared baking dish. Sprinkle the chocolate chips over the top of the mixture."
+        },
+        {
+            "3": "Bake in the preheated oven until the top is dry and the edges start to pull away from the sides of the pan, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "126"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8992594.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8690656.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8450945.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7921663.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ggGmAEe1KfjGHHntvPnesQbwO1s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/565709-black-bean-brownies-C.-P.-1x1-1-641425629b9742cb83841d75484a1a71.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

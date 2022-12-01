@@ -1,0 +1,60 @@
+{
+    "title": "Refreshing Brazilian Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "1.0 cups water"
+        },
+        {
+            "2": "4  large limes, cut into wedges and seeded"
+        },
+        {
+            "3": "0.5 (14 ounce) can sweetened condensed milk"
+        },
+        {
+            "4": "1 ice cubes"
+        },
+        {
+            "5": "5 tablespoons white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine water and limes in a blender; blend until smooth. Strain mixture through a strainer into a bowl; discard solids. Pour lime mixture into blender. Add condensed milk, ice, and sugar; blend until combined."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "145"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2b0c5542e7d82fa31ea0da06c0c09b6b%2F3851886.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

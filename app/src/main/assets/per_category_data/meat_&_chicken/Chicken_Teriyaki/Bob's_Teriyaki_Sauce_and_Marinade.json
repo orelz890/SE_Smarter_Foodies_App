@@ -1,0 +1,75 @@
+{
+    "title": "Bob's Teriyaki Sauce and Marinade",
+    "Category": "Chicken Teriyaki",
+    "Ingredients": [
+        {
+            "1": "0.5 cup soy sauce"
+        },
+        {
+            "2": "0.5 cup mirin"
+        },
+        {
+            "3": "0.5 cup sake"
+        },
+        {
+            "4": "2 teaspoons white sugar"
+        },
+        {
+            "5": "0.25 teaspoon ginger puree"
+        },
+        {
+            "6": "2 teaspoons cornstarch, or as desired (Optional)"
+        },
+        {
+            "7": "2 teaspoons water (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring the soy sauce, mirin, sake, sugar, and ginger puree to a boil in a saucepan. Reduce heat to medium low. For a marinade, remove from heat and allow to cool. For a thicker sauce, mix cornstarch and water to form a smooth paste and stir into the mixture; allow to simmer until thickened, about 2 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "69"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9100910.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9100896.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F04dedddd699a6fca86829530c31845d2%2F1317430.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F850640.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

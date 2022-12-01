@@ -1,0 +1,72 @@
+{
+    "title": "Eggs on the Grill",
+    "Category": "Camping Recipes",
+    "Ingredients": [
+        {
+            "1": "12  eggs"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for medium high heat."
+        },
+        {
+            "2": "Coat all holes of a muffin pan with cooking spray and crack an egg into each hole."
+        },
+        {
+            "3": "Place on grill and grill over medium high heat for 2 minutes, or to desired doneness."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "2 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "3 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "143"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8106368.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4675392.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F772073.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3719040.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/V57ckwKClpLtM-hUgn2p0IS0fXw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3719036-41efc07567334d479c3d362451f04ea9.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

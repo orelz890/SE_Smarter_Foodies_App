@@ -1,0 +1,93 @@
+{
+    "title": "Fluffy Flapjack Pancakes",
+    "Category": "Breakfast and Brunch",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "3 tablespoons white sugar"
+        },
+        {
+            "3": "2 teaspoons baking powder"
+        },
+        {
+            "4": "1 teaspoon baking soda"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "2 cups milk"
+        },
+        {
+            "7": "2  eggs"
+        },
+        {
+            "8": "0.25 cup canola oil"
+        },
+        {
+            "9": "1 cooking spray"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk together flour, sugar, baking powder, baking soda, and salt in a bowl until no lumps remain. Add milk, eggs, and oil; whisk until batter is runny and smooth."
+        },
+        {
+            "2": "Heat a nonstick griddle over medium heat and lightly coat with cooking spray."
+        },
+        {
+            "3": "Working in batches, ladle a generous 1/4 cup batter for each pancake onto the preheated grill and cook until bubbles appear, 3 to 4 minutes. Flip and cook, pressing middle gently with the spatula, until bottom is lightly browned, 2 to 3 minutes more. Repeat with remaining batter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 pancakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "243"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F199b0480cb400273ae8d27232fa0b243%2F16612443061661244280024.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F199b0480cb400273ae8d27232fa0b243%2F165069570016506956807143101624276556436654.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F199b0480cb400273ae8d27232fa0b243%2F1647851209930F3CA8-27CD-4D6B-898F-7AB7C5CB9D53.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9020727.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/xMdhQ0EexgL8sjOBSKg74MMWBWQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8016830-b28aea7c4d0c4931a4338188edc7a1da.jpg"
+        }
+    ],
+    "main category": "breakfast"
+}

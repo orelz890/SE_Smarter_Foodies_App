@@ -1,0 +1,99 @@
+{
+    "title": "Venison Bacon Burgers",
+    "Category": "Picnic Recipes",
+    "Ingredients": [
+        {
+            "1": "6 slices bacon, minced"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "2  shallots, minced"
+        },
+        {
+            "4": "1 teaspoon minced garlic"
+        },
+        {
+            "5": "2 pounds ground venison"
+        },
+        {
+            "6": "1 tablespoon Worcestershire sauce"
+        },
+        {
+            "7": "1 tablespoon chopped fresh parsley"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        },
+        {
+            "9": "1 large egg, beaten to mix"
+        },
+        {
+            "10": "6  hamburger buns"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook bacon in a skillet over medium heat until browned and crispy. Pour bacon and grease into a heatproof bowl and allow to cool."
+        },
+        {
+            "2": "Heat oil in a skillet. Add shallots and garlic. Cook and stir until softened, about 3 minutes. Mix with bacon."
+        },
+        {
+            "3": "Mix venison with cooled bacon mixture. Season with Worcestershire sauce, parsley, salt, and pepper. Stir in egg until evenly combined. Refrigerate for 20 minutes."
+        },
+        {
+            "4": "Preheat an outdoor grill for medium-high heat."
+        },
+        {
+            "5": "Shape venison mixture into 6 patties and grill to desired doneness. Serve on toasted hamburger buns with your favorite toppings."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "481"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "39g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8924928.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7612333.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7457183.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5116997.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

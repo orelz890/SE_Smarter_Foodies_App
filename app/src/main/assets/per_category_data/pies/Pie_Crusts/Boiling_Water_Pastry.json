@@ -1,0 +1,60 @@
+{
+    "title": "Boiling Water Pastry",
+    "Category": "Pie Crusts",
+    "Ingredients": [
+        {
+            "1": "1 cup shortening"
+        },
+        {
+            "2": "0.5 cup boiling water"
+        },
+        {
+            "3": "2 cups cake flour"
+        },
+        {
+            "4": "1 pinch salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place shortening into a heat-proof bowl. Pour in boiling water and whip mixture until creamy."
+        },
+        {
+            "2": "Mix together flour and salt in a separate bowl. Add flour mixture to shortening mixture. Stir until pastry stops sticking to the sides of the bowl. Refrigerate pastry before rolling it out."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 double crust"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "356"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F569336.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

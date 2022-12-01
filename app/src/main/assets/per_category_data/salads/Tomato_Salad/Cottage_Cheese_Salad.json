@@ -1,0 +1,69 @@
+{
+    "title": "Cottage Cheese Salad",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) container cottage cheese, drained"
+        },
+        {
+            "2": "4  roma (plum) tomatoes, chopped"
+        },
+        {
+            "3": "4  green onions, chopped"
+        },
+        {
+            "4": "2 medium cucumbers, peeled and diced"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium bowl, stir together the cottage cheese, tomatoes, green onions, and cucumbers. Season with salt and pepper to taste. Chill until serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "138"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7842560.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F396226.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F389278.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F379369.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

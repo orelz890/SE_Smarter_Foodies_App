@@ -1,0 +1,81 @@
+{
+    "title": "Lisa's Tomatillo and Strawberry Pie",
+    "Category": "Strawberry Pie",
+    "Ingredients": [
+        {
+            "1": "1  pastry for 9-inch double crust pie"
+        },
+        {
+            "2": "3 cups sliced ripe tomatillos"
+        },
+        {
+            "3": "3 cups sliced strawberries"
+        },
+        {
+            "4": "0.25 cup instant tapioca"
+        },
+        {
+            "5": "0.5 cups white sugar"
+        },
+        {
+            "6": "1 teaspoon lemon juice, or more to taste"
+        },
+        {
+            "7": "3 tablespoons butter, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Press 1 pie crust into a 9-inch pie dish."
+        },
+        {
+            "2": "Stir tomatillos, strawberries, tapioca, sugar, and lemon juice together in a bowl; let stand, stirring occasionally, until sugar is dissolved, about 15 minutes. Spoon tomatillo-strawberry mixture into the prepared pie crust. Scatter butter slices over filling."
+        },
+        {
+            "3": "Cover pie with second pie crust and pinch edges together to seal. Cut slits into top crust for ventilation. Place pie on a baking sheet."
+        },
+        {
+            "4": "Bake in the preheated oven until top crust is golden brown and filling is bubbling, about 50 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "470"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "71g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1371587.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Thanksgiving Egg Noodles",
+    "Category": "Homemade Pasta",
+    "Ingredients": [
+        {
+            "1": "1.0 cups all-purpose flour"
+        },
+        {
+            "2": "1 pinch salt"
+        },
+        {
+            "3": "0.5 cup milk"
+        },
+        {
+            "4": "2 large eggs, beaten"
+        },
+        {
+            "5": "1 tablespoon unsalted butter"
+        },
+        {
+            "6": "1 (32 fluid ounce) container chicken stock, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir flour and salt together in a large bowl. Add milk, beaten eggs, and butter. Knead dough until smooth, about 5 minutes. Let rest in a covered bowl for 10 minutes."
+        },
+        {
+            "2": "Roll dough out on a floured surface to 1/8 or 1/4 inch thickness. Cut into desired lengths and shapes. Allow to air dry before cooking, at least 1 hour."
+        },
+        {
+            "3": "Bring chicken stock to a boil in a large pot. Add noodles; cook at a boil until noodles are salt with no bite and the broth has thickened, about 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 50 mins"
+        },
+        {
+            "Servings": "7 "
+        },
+        {
+            "Yield": "7 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "212"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F511391.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

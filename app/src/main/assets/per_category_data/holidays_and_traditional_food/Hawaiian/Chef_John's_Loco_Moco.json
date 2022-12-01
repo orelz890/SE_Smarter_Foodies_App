@@ -1,0 +1,114 @@
+{
+    "title": "Chef John's Loco Moco",
+    "Category": "Hawaiian",
+    "Ingredients": [
+        {
+            "1": "2 (4 ounce) patties ground beef"
+        },
+        {
+            "2": "1 pinch salt and freshly ground black pepper to taste"
+        },
+        {
+            "3": "1 pinch cayenne pepper"
+        },
+        {
+            "4": "0.5 cups beef stock"
+        },
+        {
+            "5": "4 teaspoons soy sauce"
+        },
+        {
+            "6": "1 teaspoon Worcestershire sauce"
+        },
+        {
+            "7": "4 teaspoons cornstarch"
+        },
+        {
+            "8": "2 teaspoons ketchup"
+        },
+        {
+            "9": "2 teaspoons white sugar (Optional)"
+        },
+        {
+            "10": "2 drops sesame oil, or to taste"
+        },
+        {
+            "11": "2 teaspoons unsalted butter, divided"
+        },
+        {
+            "12": "2 tablespoons minced green onions, white and light green parts only"
+        },
+        {
+            "13": "2  eggs"
+        },
+        {
+            "14": "2 cups hot cooked white rice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Season patties with salt, pepper, and cayenne; set aside."
+        },
+        {
+            "2": "Whisk together beef stock, soy sauce, Worcestershire sauce, cornstarch, ketchup, sugar, and sesame oil in a bowl; set aside."
+        },
+        {
+            "3": "Melt 1 teaspoon butter in a skillet over medium-high heat. Cook patties in the hot skillet until the bottoms are nicely browned, about 5 minutes. Flip patties; add green onions and cook until both beef and onions are browned, 4 to 5 minutes. Remove patties and most of green onions to a plate."
+        },
+        {
+            "4": "Pour beef stock mixture into the skillet. Stir, scraping up browned bits from the bottom, until thickened, about 2 minutes. Reduce heat to low and reserve gravy until needed."
+        },
+        {
+            "5": "Melt remaining butter in another skillet over medium heat. Add eggs to the skillet and fry side-by-side until whites are set and yolks are still runny."
+        },
+        {
+            "6": "Divide rice between 2 serving bowls. Place patties over rice, spoon gravy on top, and add fried eggs."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "608"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "60g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4480b6c560354b48982a005072860e9a%2F1659969937IMG_5892.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9245467.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9229338.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8913206.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/L1ZtQvAIIu5-86qjyGyVd_SJtT8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/272767-ChefJohnsLocoMoco-ddmfs-2x3-1044-c36d0ed7aa0941948c5551106bb7e6fb.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

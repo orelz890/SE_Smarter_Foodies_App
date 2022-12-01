@@ -1,0 +1,78 @@
+{
+    "title": "World's Best Potato Soup",
+    "Category": "Potato Soup",
+    "Ingredients": [
+        {
+            "1": "8  unpeeled potatoes, cubed"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "2 stalks celery, diced"
+        },
+        {
+            "4": "6 cubes  chicken bouillon"
+        },
+        {
+            "5": "1 pint half-and-half cream"
+        },
+        {
+            "6": "1 pound bacon - cooked and crumbled"
+        },
+        {
+            "7": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "8": "2 cups shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large stock pot combine potatoes, onions, celery, bouillon cubes and enough water to cover all ingredients. Bring to a boil and simmer on medium heat until potatoes are with in 15 minutes of being finished."
+        },
+        {
+            "2": "Add half and half, bacon, cream of mushroom soup and stir until creamy. Add cheese and stir until completely melted. Simmer on low until potatoes are done."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "9 "
+        },
+        {
+            "Yield": "8 to 10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "642"
+        },
+        {
+            "Fat": "39g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8452986.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8282171.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8147344.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7960499.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ZL0AB8UQojqjCnm3zeGYrh7Q4wU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/114574-d252a2a812ed42a6b9dcda8c4ff6b555.jpg"
+        }
+    ],
+    "main category": "soups"
+}

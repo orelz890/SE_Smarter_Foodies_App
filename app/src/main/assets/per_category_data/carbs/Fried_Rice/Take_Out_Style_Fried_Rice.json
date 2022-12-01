@@ -1,0 +1,90 @@
+{
+    "title": "Take Out-Style Fried Rice",
+    "Category": "Fried Rice",
+    "Ingredients": [
+        {
+            "1": "4 teaspoons canola oil, divided"
+        },
+        {
+            "2": "2  eggs, beaten"
+        },
+        {
+            "3": "2  carrots, chopped"
+        },
+        {
+            "4": "1 salt and ground black pepper to taste"
+        },
+        {
+            "5": "3 cloves garlic, crushed"
+        },
+        {
+            "6": "1 cup frozen peas"
+        },
+        {
+            "7": "4  scallions, minced"
+        },
+        {
+            "8": "4 cups cooked rice"
+        },
+        {
+            "9": "1 teaspoon soy sauce, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a wok or large skillet over high heat; add 1 teaspoon canola oil. Cook and stir eggs in the hot oil until scrambled and set, 3 to 4 minutes. Transfer eggs to a plate, clean the wok, and return to high heat."
+        },
+        {
+            "2": "Mix 1 tablespoon canola oil, carrots, and salt in the hot wok; cook and stir for 2 minutes. Add garlic to carrots; cook and stir until garlic is fragrant and browned, about 2 minutes. Stir peas and scallions into carrot mixture; cook and stir until peas are warmed, 1 to 2 minutes. Lower heat to medium."
+        },
+        {
+            "3": "Stir rice into carrot mixture; add scrambled eggs, soy sauce, salt, and pepper. Cook and stir rice mixture until heated through, 2 to 3 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "369"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "63g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F573a7c02eacfe54be1d9fc5fe45156f4%2F1664425648rice.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8700391.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7897654.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7743630.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

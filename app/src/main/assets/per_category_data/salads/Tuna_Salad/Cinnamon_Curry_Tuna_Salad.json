@@ -1,0 +1,81 @@
+{
+    "title": "Cinnamon-Curry Tuna Salad",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "2 (5 ounce) cans water packed tuna, drained and flaked"
+        },
+        {
+            "2": "2 teaspoons mayonnaise"
+        },
+        {
+            "3": "1 teaspoon Dijon mustard"
+        },
+        {
+            "4": "1 tablespoon sweet pickle relish"
+        },
+        {
+            "5": "2 teaspoons lemon juice"
+        },
+        {
+            "6": "0.5 teaspoons ground cinnamon"
+        },
+        {
+            "7": "1 teaspoon curry powder"
+        },
+        {
+            "8": "1 teaspoon ground black pepper"
+        },
+        {
+            "9": "1 salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a bowl, mix the tuna, mayonnaise, mustard, relish, lemon juice, cinnamon, curry powder, pepper, and salt. Cover, and refrigerate until ready to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "102"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6dc6ef99a2bf267697564a9c7a87f98c%2F165454969620220512_121754%7E2.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5545137.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2275175.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F210757.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

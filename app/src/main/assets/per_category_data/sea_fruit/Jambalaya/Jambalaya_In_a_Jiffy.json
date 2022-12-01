@@ -1,0 +1,96 @@
+{
+    "title": "Jambalaya In a Jiffy",
+    "Category": "Jambalaya",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil"
+        },
+        {
+            "2": "1  onion, diced"
+        },
+        {
+            "3": "1  green bell pepper, diced"
+        },
+        {
+            "4": "4 cloves garlic, minced"
+        },
+        {
+            "5": "1 pound fully cooked kielbasa, cubed"
+        },
+        {
+            "6": "1 (28 ounce) can diced tomatoes with juice"
+        },
+        {
+            "7": "0.5 cup water"
+        },
+        {
+            "8": "1 teaspoon paprika"
+        },
+        {
+            "9": "0.5 teaspoon dried oregano"
+        },
+        {
+            "10": "0.25 teaspoon dried thyme"
+        },
+        {
+            "11": "3 dashes hot sauce"
+        },
+        {
+            "12": "0.5 cups orzo pasta"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a large, deep skillet over medium heat; cook and stir onion and green bell pepper in the hot oil until tender, 5 to 8 minutes. Stir garlic into vegetables and cook until fragrant and softened, about 2 minutes."
+        },
+        {
+            "2": "Stir kielbasa sausage, tomatoes with juice, water, paprika, oregano, thyme, and hot sauce into onion mixture, bring to a boil, and stir in orzo. Reduce heat to low, cover, and simmer until orzo are tender, about 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "529"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8708052.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7893710.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7008309.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6766415.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "sea_fruit"
+}

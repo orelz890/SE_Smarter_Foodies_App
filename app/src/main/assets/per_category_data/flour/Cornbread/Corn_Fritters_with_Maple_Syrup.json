@@ -1,0 +1,84 @@
+{
+    "title": "Corn Fritters with Maple Syrup",
+    "Category": "Cornbread",
+    "Ingredients": [
+        {
+            "1": "4 cups vegetable oil for deep-frying"
+        },
+        {
+            "2": "1 cup cream-style corn"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "1 cup all-purpose flour"
+        },
+        {
+            "5": "0.75 teaspoon baking powder"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "1 teaspoon sugar"
+        },
+        {
+            "8": "1 cup maple flavored pancake syrup"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a deep fryer to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Mix together cream-style corn and egg in a small bowl. Stir together flour, baking powder, salt, and sugar in a medium bowl. Add corn mixture to dry ingredients; mix until just blended."
+        },
+        {
+            "3": "Drop batter 1/8 cup at a time into hot oil. Fry until golden brown, turning once if fritters don't turn over by themselves. Drain fritters on paper towels and serve with maple syrup."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "11 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "849"
+        },
+        {
+            "Fat": "81g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F933ce16fa34da25084e3bf23fe9845bb%2F7332686.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F65b56c2f4b9c4e6fe3dfb0e00bc9782f%2F6850515.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4172674.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3579371.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Lawn Mower Salad",
+    "Category": "Broccoli Salad",
+    "Ingredients": [
+        {
+            "1": "0.5 cup canola oil"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "0.25 cup water"
+        },
+        {
+            "4": "0.25 cup balsamic vinegar"
+        },
+        {
+            "5": "2 (3 ounce) packages chicken-flavored ramen noodles, crushed, seasoning packets reserved"
+        },
+        {
+            "6": "1 (12 ounce) package broccoli coleslaw mix"
+        },
+        {
+            "7": "1 bunch green onions, sliced"
+        },
+        {
+            "8": "1 cup roasted cashews"
+        },
+        {
+            "9": "0.25 cup roasted sunflower seed kernels"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk canola oil, sugar, water, balsamic vinegar, and seasoning packets from ramen noodles in a bowl until thoroughly combined and sugar and seasoning packets have dissolved."
+        },
+        {
+            "2": "Toss ramen noodles in a large salad bowl with broccoli slaw mix and green onions. Pour dressing over the salad and let stand 1/2 hour to 4 hours - shorter for crunchier noodles, longer for softer ones. Just before serving, toss salad again with cashews and sunflower seeds."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "527"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "51g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2396084.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1359489.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff8bd6b4021f9b812aec50be1458752c7%2F1224345.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9f3559c2409ce6b8de37d33c20cf7715%2F1209839.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

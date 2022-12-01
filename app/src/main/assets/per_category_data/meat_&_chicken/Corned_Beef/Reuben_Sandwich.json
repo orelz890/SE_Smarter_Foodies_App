@@ -1,0 +1,93 @@
+{
+    "title": "Reuben Sandwich",
+    "Category": "Corned Beef",
+    "Ingredients": [
+        {
+            "1": "8 slices rye bread"
+        },
+        {
+            "2": "0.5 cup Thousand Island dressing"
+        },
+        {
+            "3": "8 slices Swiss cheese"
+        },
+        {
+            "4": "8 slices deli sliced corned beef"
+        },
+        {
+            "5": "1 cup sauerkraut, drained"
+        },
+        {
+            "6": "2 tablespoons butter, softened"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat a large griddle or skillet over medium heat."
+        },
+        {
+            "2": "Spread one side of bread slices evenly with Thousand Island dressing. On four bread slices, layer one slice Swiss cheese, 2 slices corned beef, 1/4 cup sauerkraut, and a second slice of Swiss cheese. Top with remaining bread slices, dressing-side down. Butter the top of each sandwich."
+        },
+        {
+            "3": "Place sandwiches, butter-side down on the preheated griddle; butter the top of each sandwich with remaining butter. Grill until both sides are golden brown, about 5 minutes per side. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 sandwiches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "657"
+        },
+        {
+            "Fat": "40g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9a12ea797b888c1e4ca5b7d6097b98e1%2F166829895305316682989431355791136489616312679.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9320759.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9109692.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9007207.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/G-xhxjG51mXIRWMpr-VQ6WdEUoo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/47717-reuben-sandwich-ii-mike-phillips-b77c676e6aaf45e280d34e0c668d8f2f.jpeg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/oLD9WK1JwXXZPmBA3V1OWUbJvA4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/464895-Reuben-Sandwich-II-47717-abapplez-2000-f8c5dc90405543c38fb8f7f0a5138348.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/6kSkRTT1Zy6FIJhxzByOGNTj-nY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/610814-reuben-sandwich-ii-photo-by-molly-265e0ff7a0cb40b98d7e2dfab6eb5ab2.jpg"
+        },
+        {
+            "img8": "https://www.allrecipes.com/thmb/eMy1YZat6WPkVWKnYqpDvyRl4lY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9109692-d1046b5d2ca84f498691b31f9511e460.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

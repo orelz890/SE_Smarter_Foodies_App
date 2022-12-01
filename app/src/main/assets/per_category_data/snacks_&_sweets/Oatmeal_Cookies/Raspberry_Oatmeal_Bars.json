@@ -1,0 +1,78 @@
+{
+    "title": "Raspberry Oatmeal Bars",
+    "Category": "Oatmeal Cookies",
+    "Ingredients": [
+        {
+            "1": "1 (18.25 ounce) package yellow cake mix"
+        },
+        {
+            "2": "1.0 cups quick cooking oats"
+        },
+        {
+            "3": "0.75 cup margarine, melted"
+        },
+        {
+            "4": "1 cup raspberry jam"
+        },
+        {
+            "5": "1 tablespoon water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C). Grease a 9x13-inch pan."
+        },
+        {
+            "2": "In a large bowl, mix together oats, cake mix, and melted margarine so that it makes nice clumps and there is no dry mix left. Press 1/2 of oats mixture evenly into the bottom of the prepared pan. In a separate bowl, mix jam with water, and spread over oat mixture in the pan. Sprinkle remaining oat mixture evenly over top."
+        },
+        {
+            "3": "Bake in the preheated oven for 18 to 23 minutes, or until top is lightly browned. Cool before cutting into bars."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "1 9x13-inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "210"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff37686352c7f55f543f81f28f70aeb64%2F7608283.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6577134.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4553503.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4459412.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

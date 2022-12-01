@@ -1,0 +1,87 @@
+{
+    "title": "Chicken Cordon Bleu Bites",
+    "Category": "Ground Chicken",
+    "Ingredients": [
+        {
+            "1": "9 ounces ground chicken"
+        },
+        {
+            "2": "0.25 cup cooked, diced ham"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "0.5 cup bread crumbs"
+        },
+        {
+            "5": "8 ounces Swiss cheese, cut into 1/2 inch cubes"
+        },
+        {
+            "6": "1 canola oil for pan-frying"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Combine chicken, ham, and egg in a large bowl until well-blended. Gradually add bread crumbs until mixture loses its stickiness and can be easily formed into balls."
+        },
+        {
+            "3": "Form chicken mixture around cheese cubes, forming 2-inch balls. Place on a plate."
+        },
+        {
+            "4": "Heat 1 1/2 inches of oil in a deep skillet to 350 degrees F (175 degrees C)."
+        },
+        {
+            "5": "Fry balls in hot oil until golden brown, about 4 minutes. Drain on paper towels and place in a baking dish."
+        },
+        {
+            "6": "Bake in the preheated oven until cooked through and cheese is soft, about 20 minutes. Cool briefly before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "174"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7201091.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5942275.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4999364.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4506688.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Irish Soda Bread",
+    "Category": "Irish Soda Bread",
+    "Ingredients": [
+        {
+            "1": "4 cups all-purpose flour"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "2 teaspoons baking powder"
+        },
+        {
+            "4": "1 teaspoon baking soda"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "1 pint sour cream"
+        },
+        {
+            "7": "1 cup raisins"
+        },
+        {
+            "8": "3  eggs"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 325 degrees F (165 degrees C). Grease two 8x4-inch loaf pans."
+        },
+        {
+            "2": "Mix flour, sugar, baking powder, baking soda, and salt. Add sour cream, raisins, and eggs; mix until just combined. Distribute batter evenly between the prepared pans."
+        },
+        {
+            "3": "Bake loaves in the preheated oven for 1 hour."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "2 loaves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "215"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9102503.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9100330.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9100136.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9100090.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/zfWNrdxfNCXSbOcHP0zRJkzGXSU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/374447-81f9c23aee8944d1890b2856480689b9.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

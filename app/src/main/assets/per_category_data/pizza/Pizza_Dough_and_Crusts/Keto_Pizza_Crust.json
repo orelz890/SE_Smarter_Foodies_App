@@ -1,0 +1,90 @@
+{
+    "title": "Keto Pizza Crust",
+    "Category": "Pizza Dough and Crusts",
+    "Ingredients": [
+        {
+            "1": "1 head cauliflower, broken into florets"
+        },
+        {
+            "2": "2 tablespoons water, or as needed"
+        },
+        {
+            "3": "2  eggs, lightly beaten"
+        },
+        {
+            "4": "0.5 cup shredded mozzarella cheese"
+        },
+        {
+            "5": "0.25 cup grated Parmesan cheese (Optional)"
+        },
+        {
+            "6": "0.5 teaspoons paprika"
+        },
+        {
+            "7": "0.5 teaspoon dried oregano"
+        },
+        {
+            "8": "0.5 teaspoon kosher salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place cauliflower florets into a food processor and blend into rice-like bits. Transfer to a saucepan and add water. Cook over medium-low heat for 10 to 15 minutes. Transfer cauliflower rice to a bowl and refrigerate until completely cooled, about 30 minutes."
+        },
+        {
+            "2": "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper."
+        },
+        {
+            "3": "Spread cooled cauliflower rice onto a clean kitchen towel. Wrap it up tightly and squeeze out all the water. Transfer to a large bowl and add eggs, mozzarella cheese, Parmesan cheese, paprika, oregano, and salt. Mix well."
+        },
+        {
+            "4": "Transfer cauliflower mixture to the baking sheet and spread and shape it into a pizza crust shape."
+        },
+        {
+            "5": "Bake in the preheated oven for 20 minutes. Allow to cool completely before carefully flipping crust over and adding toppings, if desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "264"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7767239.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7767248.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pizza"
+}

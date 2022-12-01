@@ -1,0 +1,84 @@
+{
+    "title": "Veronica's Apple Pancakes",
+    "Category": "Pancakes",
+    "Ingredients": [
+        {
+            "1": "1 cup shredded tart apple"
+        },
+        {
+            "2": "1 cup milk"
+        },
+        {
+            "3": "0.25 cup butter, melted"
+        },
+        {
+            "4": "1 large egg"
+        },
+        {
+            "5": "0.25 cups all-purpose flour"
+        },
+        {
+            "6": "1 tablespoon white sugar"
+        },
+        {
+            "7": "0.25 teaspoons baking powder"
+        },
+        {
+            "8": "0.25 teaspoon ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine apple, milk, butter, and egg in a large bowl. Sift together flour, sugar, baking powder, and cinnamon in a separate bowl. Stir flour mixture into apple mixture until just combined."
+        },
+        {
+            "2": "Heat a lightly oiled griddle or frying pan over medium high heat."
+        },
+        {
+            "3": "Drop batter by 1/4 cup spoonfuls onto the hot griddle and cook until bottom is lightly browned. Flip and cook until browned on the other side. Repeat with remaining batter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "322"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9300280.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9003352.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8604480.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8007977.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

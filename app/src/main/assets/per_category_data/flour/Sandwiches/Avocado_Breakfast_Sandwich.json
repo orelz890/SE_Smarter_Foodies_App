@@ -1,0 +1,90 @@
+{
+    "title": "Avocado Breakfast Sandwich",
+    "Category": "Sandwiches",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "2  large eggs"
+        },
+        {
+            "3": "1 salt and ground black pepper to taste"
+        },
+        {
+            "4": "1 tablespoon butter, softened"
+        },
+        {
+            "5": "2 slices Italian bread"
+        },
+        {
+            "6": "1 ounce Swiss cheese, sliced"
+        },
+        {
+            "7": "1 ounce Cheddar cheese, sliced"
+        },
+        {
+            "8": "0.5  ripe avocado, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a skillet over medium heat. Crack eggs into skillet; cook for 1 to 2 minutes. Flip and cook egg until done, 2 to 5 minutes more. Transfer eggs to a plate and season with salt and pepper."
+        },
+        {
+            "2": "Spread butter onto 1 side of each bread slice."
+        },
+        {
+            "3": "Heat a skillet over medium heat. Lay bread slices in the hot skillet, butter-side down. Quickly layer Swiss cheese, 1 fried egg, Cheddar cheese, 1 fried egg, avocado, and remaining bread slice, butter-side up. Carefully flip sandwich to grill other side until golden brown, 3 to 4 minutes."
+        },
+        {
+            "4": "Remove sandwich from skillet and cut in half."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "6 mins"
+        },
+        {
+            "Total Time": "16 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "552"
+        },
+        {
+            "Fat": "44g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8942860.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8582174.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8247406.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7701318.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/MZUW_0Ni_5meg_r5LJlr7E0S1vY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4520479-avocado-breakfast-sandwich-Buckwheat-Queen-1x1-1-0c41845d9017421a86e742a0d19302d2.jpg"
+        }
+    ],
+    "main category": "flour"
+}

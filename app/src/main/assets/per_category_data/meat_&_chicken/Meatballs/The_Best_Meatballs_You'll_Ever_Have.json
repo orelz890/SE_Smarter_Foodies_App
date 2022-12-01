@@ -1,0 +1,93 @@
+{
+    "title": "The Best Meatballs You'll Ever Have",
+    "Category": "Meatballs",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "0.75 cup crushed seasoned croutons"
+        },
+        {
+            "3": "0.25 cup chopped sweet onion"
+        },
+        {
+            "4": "1 large egg, lightly beaten"
+        },
+        {
+            "5": "2 cloves garlic, chopped"
+        },
+        {
+            "6": "3 tablespoons Worcestershire sauce"
+        },
+        {
+            "7": "1 tablespoon prepared yellow mustard"
+        },
+        {
+            "8": "1 teaspoon red pepper flakes"
+        },
+        {
+            "9": "1 teaspoon Cajun seasoning"
+        },
+        {
+            "10": "1 tablespoon butter"
+        },
+        {
+            "11": "1 teaspoon extra virgin olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix ground beef, croutons, sweet onion, egg, garlic, Worcestershire sauce, mustard, red pepper flakes, and Cajun seasoning in a large bowl until well combined. Form mixture into meatballs by hand."
+        },
+        {
+            "2": "Melt butter in olive oil in a skillet over medium heat. Place meatballs in the hot skillet. Cook, turning constantly, until desired doneness is reached, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C) for well done."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "336"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8309599.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F80dbdb371f2907621bd17496a9b8e31e%2F7413096.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4470532.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3555051.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/59y6-H7hdVYP39gOcHLnYI7IMGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/63324-f0cd672c4d1f48fe9d73552c927e2bf1.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

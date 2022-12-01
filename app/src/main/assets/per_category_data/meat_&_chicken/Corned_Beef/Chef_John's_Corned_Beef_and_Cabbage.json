@@ -1,0 +1,96 @@
+{
+    "title": "Chef John's Corned Beef and Cabbage",
+    "Category": "Corned Beef",
+    "Ingredients": [
+        {
+            "1": "1 (4 pound) corned beef brisket with spice packet"
+        },
+        {
+            "2": "3 quarts water"
+        },
+        {
+            "3": "1  onion, quartered"
+        },
+        {
+            "4": "3  carrots, cut into large chunks"
+        },
+        {
+            "5": "3 stalks celery, cut into 2-inch pieces"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "2 pounds red potatoes, halved"
+        },
+        {
+            "8": "1 small head cabbage, cut into eighths"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine corned beef and spice packet contents, water, onion, carrots, celery, and salt together in a large pot or Dutch oven; bring to a simmer, skimming off any foam that rises to the surface."
+        },
+        {
+            "2": "Cover the pot, reduce heat to low, and simmer until meat is almost fork-tender, about 3 hours. Add potatoes and simmer, uncovered, until potatoes are almost tender, about 30 minutes more."
+        },
+        {
+            "3": "Place cabbage pieces on top of and around meat, cover the pot, and simmer until cabbage is tender, 20 to 30 minutes more."
+        },
+        {
+            "4": "Remove meat to a cutting board and let rest 10 to 15 minutes. Cut across the grain and serve in a bowl; ladle vegetables and broth over the top."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 3 hrs 50 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 4 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "380"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9100097.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9099724.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7830642.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7829720.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/_oeLZOW7e6g_7_eFV2wm0788uKM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9099724-chef-johns-corned-beef-and-cabbage-Wendy-Evelyn-Purcell-DeRose-1x1-1-2c69d6b667124caaaede86c69a80528a.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

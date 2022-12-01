@@ -1,0 +1,108 @@
+{
+    "title": "Cheesy Potato Pancakes",
+    "Category": "Potato Pancakes",
+    "Ingredients": [
+        {
+            "1": "4  russet potatoes, peeled and grated"
+        },
+        {
+            "2": "2  eggs"
+        },
+        {
+            "3": "0.5 cup milk"
+        },
+        {
+            "4": "1 cup all-purpose flour"
+        },
+        {
+            "5": "0.5 cup grated Parmesan cheese"
+        },
+        {
+            "6": "0.5 cup shredded Cheddar cheese"
+        },
+        {
+            "7": "0.25 cup real bacon bits (Optional)"
+        },
+        {
+            "8": "1 teaspoon onion salt"
+        },
+        {
+            "9": "1 teaspoon baking powder"
+        },
+        {
+            "10": "1 teaspoon salt"
+        },
+        {
+            "11": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "12": "0.25 cup corn oil"
+        },
+        {
+            "13": "2 tablespoons butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix together potatoes, eggs, and milk in a large bowl."
+        },
+        {
+            "2": "Stir flour, Parmesan cheese, Cheddar cheese, bacon bits, onion salt, baking powder, salt, and black pepper into potato mixture using a fork."
+        },
+        {
+            "3": "Heat corn oil and butter in a large skillet over medium heat."
+        },
+        {
+            "4": "Spoon about 2 tablespoons potato mixture into per patty into skillet. Cook patties until golden brown, about 4 minutes per side."
+        },
+        {
+            "5": "Drain cooked pancakes on paper towel-lined plate."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "427"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "43g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Facf3a20ce7a68acae7f412e1c901d6cb%2F166260252616626024845337096326601370415769.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8645926.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8322891.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7750675.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Spicy Tuna Sushi Roll",
+    "Category": "Sushi",
+    "Ingredients": [
+        {
+            "1": "2 cups uncooked glutinous white rice"
+        },
+        {
+            "2": "1.0 cups water"
+        },
+        {
+            "3": "1 tablespoon rice vinegar"
+        },
+        {
+            "4": "1 (5 ounce) can solid white tuna in water, drained"
+        },
+        {
+            "5": "1 tablespoon mayonnaise"
+        },
+        {
+            "6": "1 teaspoon chili powder"
+        },
+        {
+            "7": "1 teaspoon wasabi paste"
+        },
+        {
+            "8": "4 sheets nori (dry seaweed)"
+        },
+        {
+            "9": "0.5  cucumber, finely diced"
+        },
+        {
+            "10": "1  carrot, finely diced"
+        },
+        {
+            "11": "1  avocado - peeled, pitted and diced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring the rice, water, and vinegar to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until the rice is tender, and the liquid has been absorbed, 20 to 25 minutes. Let stand, covered, for about 10 minutes to absorb any excess water. Set rice aside to cool."
+        },
+        {
+            "2": "Lightly mix together the tuna, mayonnaise, chili powder, and wasabi paste in a bowl, breaking the tuna apart but not mashing it into a paste."
+        },
+        {
+            "3": "To roll the sushi, cover a bamboo sushi rolling mat with plastic wrap. Lay a sheet of nori, rough side up, on the plastic wrap. With wet fingers, firmly pat a thick, even layer of prepared rice over the nori, covering it completely. Place about 1 tablespoon each of diced cucumber, carrot, and avocado in a line along the bottom edge of the sheet, and spread a line of tuna mixture alongside the vegetables."
+        },
+        {
+            "4": "Pick up the edge of the bamboo rolling sheet, fold the bottom edge of the sheet up, enclosing the filling, and tightly roll the sushi into a thick cylinder. Once the sushi is rolled, wrap it in the mat and gently squeeze to compact it tightly. Cut each roll into 6 pieces, and refrigerate until served."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "40 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "24 pieces"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "346"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6648154.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5697449.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F878132.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F399938.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

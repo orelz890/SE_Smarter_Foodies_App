@@ -1,0 +1,69 @@
+{
+    "title": "Superfast Asparagus",
+    "Category": "Diabetic Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound asparagus"
+        },
+        {
+            "2": "1 teaspoon Cajun seasoning"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "2": "Snap the asparagus at the tender part of the stalk. Arrange spears in one layer on a baking sheet. Spray lightly with nonstick spray; sprinkle with the Cajun seasoning."
+        },
+        {
+            "3": "Bake in the preheated oven until tender, about 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "3 "
+        },
+        {
+            "Yield": "3 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "32"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9319328.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9275543.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9249286.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8009606.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

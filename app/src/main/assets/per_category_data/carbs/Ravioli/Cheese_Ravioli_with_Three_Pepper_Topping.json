@@ -1,0 +1,84 @@
+{
+    "title": "Cheese Ravioli with Three Pepper Topping",
+    "Category": "Ravioli",
+    "Ingredients": [
+        {
+            "1": "1 pound cheese ravioli"
+        },
+        {
+            "2": "3 tablespoons olive oil"
+        },
+        {
+            "3": "1 small onion, diced"
+        },
+        {
+            "4": "1  green bell pepper, thinly sliced"
+        },
+        {
+            "5": "0.5  red bell pepper, thinly sliced"
+        },
+        {
+            "6": "0.5  yellow bell pepper, thinly sliced"
+        },
+        {
+            "7": "2 cups chicken broth, divided"
+        },
+        {
+            "8": "0.25 teaspoon crushed red pepper flakes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook ravioli in boiling water for 8 to 10 minutes, or until done; drain."
+        },
+        {
+            "2": "Heat olive oil in large skillet over medium heat. Saute onion and bell peppers until tender. Add one cup of the broth, season with pepper flakes, and simmer 5 minutes. Stir in remaining broth, and cook until most of broth has evaporated. Spoon pepper mixture over ravioli."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "255"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4467429.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1275720.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7fd99e0daec71408c1eae7e1e968aa9d%2F1015157.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F613f98db149ab879c5fa33da55e42889%2F1011213.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Pineapple and Banana Smoothie",
+    "Category": "High-Fiber Recipes",
+    "Ingredients": [
+        {
+            "1": "4  ice cubes"
+        },
+        {
+            "2": "0.25  fresh pineapple - peeled, cored and cubed"
+        },
+        {
+            "3": "1 large banana, cut into chunks"
+        },
+        {
+            "4": "1 cup pineapple or apple juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place ice cubes, pineapple, banana, and pineapple juice into the container of a blender. Puree on high until smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 smoothie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "313"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "79g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8920786.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8231288.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8183194.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8017703.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/HTfBfNHYpGanMrrM4ufCZQh88E0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/138159-pineapple-and-banana-smoothie-ddmfs-1x1-0065-f2a9d534c9a1492d827218a576e43cb6.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

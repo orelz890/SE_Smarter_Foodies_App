@@ -1,0 +1,78 @@
+{
+    "title": "Beef Tenderloin Filets",
+    "Category": "Beef Tenderloin",
+    "Ingredients": [
+        {
+            "1": "8  1-inch-thick beef tenderloin steaks"
+        },
+        {
+            "2": "1 salt and ground black pepper to taste"
+        },
+        {
+            "3": "3 tablespoons butter"
+        },
+        {
+            "4": "0.5 cup dry red wine"
+        },
+        {
+            "5": "0.5 cup beef stock"
+        },
+        {
+            "6": "1 cup heavy whipping cream"
+        },
+        {
+            "7": "1 cup chopped tomatoes"
+        },
+        {
+            "8": "0.5 cup chopped fresh basil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pat meat dry and season with salt and black pepper to taste."
+        },
+        {
+            "2": "Melt butter in a heavy skillet over medium heat. Add fillets and cook to desired doneness, 4 to 5 minutes for medium. Transfer filets to a serving plate and pour off fat from the skillet. Add wine and bring to a boil to deglaze pan. Stir in stock and cream and boil sauce until thickened, 3 to 5 minutes. Remove from heat. Add tomatoes and basil and blend well."
+        },
+        {
+            "3": "Pour sauce over beef on the serving plate."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 filets"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "379"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc185a8481a596efb638524dee1ee5750%2F6387878.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

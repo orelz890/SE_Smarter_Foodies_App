@@ -1,0 +1,72 @@
+{
+    "title": "Light Primavera Pasta",
+    "Category": "Pasta Primavera",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package penne pasta (such as Barilla\u00ae Plus)"
+        },
+        {
+            "2": "3 tablespoons olive oil"
+        },
+        {
+            "3": "1  yellow squash, sliced and quartered"
+        },
+        {
+            "4": "1  zucchini, sliced and quartered"
+        },
+        {
+            "5": "0.5 teaspoon minced garlic"
+        },
+        {
+            "6": "0.5 (16 ounce) bottle light Parmesan-peppercorn dressing (such as Cains\u00ae)"
+        },
+        {
+            "7": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add penne and cook, stirring occasionally, until tender yet firm to the bite, about 11 minutes. Drain and transfer to a bowl."
+        },
+        {
+            "2": "Meanwhile, heat a skillet over medium heat. Add olive oil and heat for about 30 seconds. Add yellow squash, zucchini, and garlic and saute until tender, about 5 minutes. Season lightly with salt and pepper. Add to cooked pasta, pour in dressing, and toss to combine. Serve hot or cold."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "292"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F723261.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

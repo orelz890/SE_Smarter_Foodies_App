@@ -1,0 +1,90 @@
+{
+    "title": "Low-Carb Tacos",
+    "Category": "Taco Salad",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds ground beef"
+        },
+        {
+            "2": "1  onion, diced"
+        },
+        {
+            "3": "0.5 (4 ounce) can diced jalapeno peppers"
+        },
+        {
+            "4": "1 (1 ounce) package taco seasoning mix"
+        },
+        {
+            "5": "2 cups shredded lettuce"
+        },
+        {
+            "6": "1  tomato, chopped"
+        },
+        {
+            "7": "0.5 cup shredded reduced-fat Cheddar cheese"
+        },
+        {
+            "8": "0.25 cup salsa"
+        },
+        {
+            "9": "0.25 cup low-fat sour cream"
+        },
+        {
+            "10": "1  avocado - peeled, pitted, and sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook and stir ground beef, onion, and jalapeno peppers together in a skillet over medium-high heat until meat is browned and crumbly, 7 to 10 minutes. Stir taco seasoning into meat mixture; bring to a simmer and cook until flavors combine, about 5 minutes."
+        },
+        {
+            "2": "Stir meat mixture, shredded lettuce, tomato, Cheddar cheese, salsa, and sour cream together in a large bowl. Divide taco mixture among 4 bowls and top each with avocado slices."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "521"
+        },
+        {
+            "Fat": "35g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9221224.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6434948.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5742085.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5026527.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

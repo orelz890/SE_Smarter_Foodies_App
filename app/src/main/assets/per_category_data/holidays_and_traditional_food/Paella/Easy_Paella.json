@@ -1,0 +1,147 @@
+{
+    "title": "Easy Paella",
+    "Category": "Paella",
+    "Ingredients": [
+        {
+            "1": "1 Marinade-"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "1 tablespoon ground paprika"
+        },
+        {
+            "4": "2 teaspoons dried oregano"
+        },
+        {
+            "5": "1 salt and ground black pepper to taste"
+        },
+        {
+            "6": "1 Paella-"
+        },
+        {
+            "7": "2 pounds skinless, boneless chicken breasts, cut into 2 inch pieces"
+        },
+        {
+            "8": "2 tablespoons olive oil, divided"
+        },
+        {
+            "9": "3 cloves garlic, crushed"
+        },
+        {
+            "10": "1 teaspoon crushed red pepper flakes"
+        },
+        {
+            "11": "2 cups uncooked short-grain white rice"
+        },
+        {
+            "12": "1 pinch saffron threads"
+        },
+        {
+            "13": "1 large bay leaf"
+        },
+        {
+            "14": "0.5 bunch Italian flat leaf parsley, chopped"
+        },
+        {
+            "15": "1 quart chicken stock"
+        },
+        {
+            "16": "2 medium lemons, zested"
+        },
+        {
+            "17": "2 tablespoons olive oil"
+        },
+        {
+            "18": "1 medium Spanish onion, chopped"
+        },
+        {
+            "19": "1 medium red bell pepper, coarsely chopped"
+        },
+        {
+            "20": "1 pound shrimp, peeled and deveined"
+        },
+        {
+            "21": "1 pound chorizo sausage, casings removed and crumbled"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix olive oil, paprika, oregano, salt, and pepper for marinade in a glass bowl."
+        },
+        {
+            "2": "Begin paella: Add chicken and stir to coat. Cover and refrigerate until needed."
+        },
+        {
+            "3": "Heat 2 tablespoons olive oil in a large skillet or paella pan over medium heat. Stir in garlic and pepper flakes, then stir in rice. Cook and stir until rice is coated with oil, about 3 minutes."
+        },
+        {
+            "4": "Add saffron threads, bay leaf, parsley, chicken stock, and lemon zest. Stir until well combined and bring to a boil. Reduce heat to medium-low, cover, and simmer for 20 minutes."
+        },
+        {
+            "5": "While the rice is cooking, heat olive oil in a separate skillet over medium heat. Stir in marinated chicken and cook for 3 minutes. Add onion and cook until translucent, about 5 minutes."
+        },
+        {
+            "6": "Add bell pepper and sausage; cook and stir, breaking sausage up with a spatula, for 5 minutes. Add shrimp; cook and stir until shrimp are bright pink on the outside and the meat is opaque, about 2 minutes."
+        },
+        {
+            "7": "Spread rice mixture onto a serving tray. Top with meat and seafood mixture."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "736"
+        },
+        {
+            "Fat": "35g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "56g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8253233.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9062831.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9048006.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8962181.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/t2-RxaNYUUG1sHFMdFflH9v3oT4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/84137-easy-paella-3x2-165-39370bddb89f47aeb69164c52d294afb.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/NPHdj6hEUShvuXVbam4hOWeEKAs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/84137_easy-paella_Medea-Dudley-2000-a26b3268e0f64c52bc96c69a338c17bf.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/vXVYeOxHxn_k2EuXMjONmOgtSgQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/easy-paella-8448e89fdab149f8b8f02b8493d19bca.jpeg"
+        },
+        {
+            "img8": "https://www.allrecipes.com/thmb/0yGlO9yVQkTz59_1XaaqhkdLZJI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/84137-easy-paella-1x1-166-d61f301a4a0344c5b3f1e652a087df5a.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Golompke (Beef and Cabbage Casserole)",
+    "Category": "Cabbage Rolls",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1 small onion, chopped"
+        },
+        {
+            "3": "1 (16 ounce) bag coleslaw mix"
+        },
+        {
+            "4": "0.75 cup uncooked white rice"
+        },
+        {
+            "5": "2 (10.75 ounce) cans  condensed tomato soup"
+        },
+        {
+            "6": "1 (10.75 ounce) can  water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Heat a large skillet over medium-high heat, and stir in the ground beef and onion. Cook and stir until the beef is crumbly, evenly browned, and no longer pink. Drain and discard any excess grease."
+        },
+        {
+            "3": "Layer the coleslaw mix, rice, and ground beef in a 9x13 inch baking dish. Combine the soup and water in a medium bowl. Pour the soup over the top of the ground beef. Cover with foil."
+        },
+        {
+            "4": "Bake for 1 hour and 15 minutes, or until the rice is tender."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "268"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6926650.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6591325.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1087446.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

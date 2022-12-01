@@ -1,0 +1,90 @@
+{
+    "title": "Mango Pudding (Flan de Mango)",
+    "Category": "Flan",
+    "Ingredients": [
+        {
+            "1": "1 cup white sugar"
+        },
+        {
+            "2": "1 tablespoon lemon juice"
+        },
+        {
+            "3": "2 cups pureed mango"
+        },
+        {
+            "4": "1 (14 ounce) can sweetened condensed milk"
+        },
+        {
+            "5": "2 tablespoons cornstarch"
+        },
+        {
+            "6": "1 tablespoon rum (Optional)"
+        },
+        {
+            "7": "1 cup evaporated milk"
+        },
+        {
+            "8": "6  eggs, beaten"
+        },
+        {
+            "9": "1 pinch salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Fill a large, shallow baking pan with about 1 1/2 inches water."
+        },
+        {
+            "2": "In an 8x13 inch aluminum baking pan over medium heat, mix the sugar and lemon juice. Cook and stir until caramelized. Remove from heat, and blend in mango, sweetened condensed milk, cornstarch, rum, evaporated milk, eggs, and salt."
+        },
+        {
+            "3": "Set pan with the mango mixture into the pan with water. Place in the preheated oven, and bake 45 minutes, or until firm. Cool before turning out onto a platter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "259"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "43g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9252069.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F042b3846dd13a6b318a4a15733c62e7f%2F6789720.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F887865.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F887297.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Spicy Jalapeno-Infused Margarita",
+    "Category": "Margaritas",
+    "Ingredients": [
+        {
+            "1": "0.5 cup ice cubes, or as needed"
+        },
+        {
+            "2": "3 ounces jalapeno-infused tequila"
+        },
+        {
+            "3": "2 ounces freshly squeezed lime juice"
+        },
+        {
+            "4": "1 ounce triple sec"
+        },
+        {
+            "5": "1 ounce simple syrup"
+        },
+        {
+            "6": "1 kosher salt"
+        },
+        {
+            "7": "1 wedge lime"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a cocktail shaker with ice. Add tequila, lime juice, triple sec, and simple syrup. Cover and shake until mixed and chilled."
+        },
+        {
+            "2": "Place kosher salt on a plate. Run lime wedge around edge of glass and dip into kosher salt. Strain margarita into the glass."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 margarita"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "373"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9187463.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

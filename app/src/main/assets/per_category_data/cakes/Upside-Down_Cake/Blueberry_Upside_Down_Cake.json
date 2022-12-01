@@ -1,0 +1,105 @@
+{
+    "title": "Blueberry Upside-Down Cake",
+    "Category": "Upside-Down Cake",
+    "Ingredients": [
+        {
+            "1": "2 cups fresh blueberries"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "2 tablespoons all-purpose flour"
+        },
+        {
+            "4": "2 tablespoons grated lemon zest"
+        },
+        {
+            "5": "0.5 cup butter, softened"
+        },
+        {
+            "6": "1 cup white sugar"
+        },
+        {
+            "7": "3  eggs"
+        },
+        {
+            "8": "1 teaspoon almond extract"
+        },
+        {
+            "9": "1 tablespoon grated lemon zest"
+        },
+        {
+            "10": "0.75 cup milk"
+        },
+        {
+            "11": "2 cups all-purpose flour"
+        },
+        {
+            "12": "4 teaspoons baking powder"
+        },
+        {
+            "13": "0.5 cup slivered almonds, toasted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9 inch springform pan. In a medium bowl, combine blueberries, 1/2 cup sugar, 2 tablespoons flour and 2 tablespoons grated lemon zest. Toss to coat berries, then pour into the prepared pan."
+        },
+        {
+            "2": "In a large bowl, cream together the butter and 1 cup sugar until light and fluffy. Beat in the eggs one at a time, then stir in the almond extract and 1 tablespoon grated lemon zest. Stir together 2 cups flour and the baking powder. Beat into butter mixture alternately with the milk, mixing just until incorporated. Pour batter over the berries in the pan."
+        },
+        {
+            "3": "Bake in the preheated oven for 60 to 70 minutes, or until a toothpick inserted into the center of the cake comes out clean. Place serving plate over the top of the pan and carefully invert cake and plate together, so that the berries end up on top. Carefully unlock the buckle on the side of the pan and remove. Sprinkle toasted almonds on top of cake and serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 10 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 50 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 to 9 - inch springform pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "313"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8363519.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3808690.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1744683.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3d3c9affd0e7fffe1c78d85ee2aa0c6d%2F1020288.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

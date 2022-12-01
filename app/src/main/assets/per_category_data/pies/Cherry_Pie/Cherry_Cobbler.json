@@ -1,0 +1,99 @@
+{
+    "title": "Cherry Cobbler",
+    "Category": "Cherry Pie",
+    "Ingredients": [
+        {
+            "1": "3 tablespoons butter, melted"
+        },
+        {
+            "2": "1 cup all-purpose flour"
+        },
+        {
+            "3": "0.25 teaspoon salt"
+        },
+        {
+            "4": "1 teaspoon baking powder"
+        },
+        {
+            "5": "0.5 cup milk"
+        },
+        {
+            "6": "1 cup white sugar"
+        },
+        {
+            "7": "1 tablespoon cornstarch"
+        },
+        {
+            "8": "1 cup boiling water"
+        },
+        {
+            "9": "1.5 cups fresh cherries, pitted"
+        },
+        {
+            "10": "0.75 cup white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Place cherries in the bottom of a 9-inch square pan."
+        },
+        {
+            "3": "Mix 3/4 cup sugar, butter, flour, salt, baking powder, and milk together in a bowl. Spread dough over cherries."
+        },
+        {
+            "4": "Combine 1 cup sugar and cornstarch in a small bowl. Stir in boiling water. Pour mixture over dough."
+        },
+        {
+            "5": "Bake in the preheated oven for 45 minutes. Serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch square cobbler"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "322"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "68g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9389643.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9262278.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8407673.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8341197.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

@@ -1,0 +1,63 @@
+{
+    "title": "No-Sweat Mojito",
+    "Category": "Mojitos",
+    "Ingredients": [
+        {
+            "1": "6 sprigs fresh mint, divided"
+        },
+        {
+            "2": "1 teaspoon white sugar"
+        },
+        {
+            "3": "3 ounces white rum"
+        },
+        {
+            "4": "1 (12 fluid ounce) can lime-flavored seltzer water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Muddle 4 mint sprigs and sugar together in a mixing glass until crushed."
+        },
+        {
+            "2": "Add rum and stir to dissolve sugar. Strain into 2 ice-filled Collins or rocks glasses. Top with lime-flavored seltzer and garnish each glass with a remaining mint sprig."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 cocktails"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "107"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb69f4cf2f56e4b16bc1bf335dd6d68ae%2F16578390968E91580A-7483-480F-A941-2F208D5D8B47.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9079267.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

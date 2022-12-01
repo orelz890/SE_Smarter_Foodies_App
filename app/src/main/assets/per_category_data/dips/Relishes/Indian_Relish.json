@@ -1,0 +1,78 @@
+{
+    "title": "Indian Relish",
+    "Category": "Relishes",
+    "Ingredients": [
+        {
+            "1": "2  red bell peppers, chopped"
+        },
+        {
+            "2": "1  sweet onion, peeled and chopped"
+        },
+        {
+            "3": "1 cup white wine vinegar"
+        },
+        {
+            "4": "1 cup white sugar"
+        },
+        {
+            "5": "1 tablespoon crushed red pepper flakes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium saucepan over medium heat, mix together red bell peppers, onion, white wine vinegar, sugar and crushed red pepper flakes. Bring to a boil, then reduce heat to simmer. Stirring occasionally, cook 30 minutes, or until thickened. Refrigerate 4 hours or overnight before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 35 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "39"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8976852.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8176702.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff665e1332b692d4b3b8793a167e5b98a%2F7517772.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5275147.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/0OBw_MlKhxTUP2iQ44EBh1KP2jw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/86389-620a6328959c4345a282dafce5e37cd1.jpg"
+        }
+    ],
+    "main category": "dips"
+}

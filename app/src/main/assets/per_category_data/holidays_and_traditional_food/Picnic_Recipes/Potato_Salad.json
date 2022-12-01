@@ -1,0 +1,96 @@
+{
+    "title": "Potato Salad",
+    "Category": "Picnic Recipes",
+    "Ingredients": [
+        {
+            "1": "5 pounds red potatoes, chopped"
+        },
+        {
+            "2": "3 cups mayonnaise"
+        },
+        {
+            "3": "2 cups finely chopped pickles"
+        },
+        {
+            "4": "5  hard-cooked eggs, chopped"
+        },
+        {
+            "5": "0.5 cup chopped red onion"
+        },
+        {
+            "6": "0.5 cup chopped celery"
+        },
+        {
+            "7": "3 tablespoons prepared mustard"
+        },
+        {
+            "8": "1 tablespoon apple cider vinegar"
+        },
+        {
+            "9": "1 teaspoon salt, or to taste"
+        },
+        {
+            "10": "0.5 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 10 minutes. Drain. Return potatoes to empty pot to dry while you mix the dressing. Sprinkle with salt."
+        },
+        {
+            "2": "Stir mayonnaise, pickles, hard-cooked eggs, red onion, celery, mustard, cider vinegar, 1 teaspoon salt, and pepper together in a large bowl. Fold potatoes into the mayonnaise mixture. Allow to chill at least six hours, or overnight, before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 6 hrs"
+        },
+        {
+            "Total Time": " 6 hrs 30 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "20 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "339"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9339376.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9295409.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9284406.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9284407.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/yc_91nhYtsXfi1i5xUiShptC238=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2881145-potato-salad-naples34102-1x1-1-0e37fcc743c54bbc97b8226a23b09530.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

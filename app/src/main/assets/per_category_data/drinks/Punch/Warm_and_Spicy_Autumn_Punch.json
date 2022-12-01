@@ -1,0 +1,84 @@
+{
+    "title": "Warm and Spicy Autumn Punch",
+    "Category": "Punch",
+    "Ingredients": [
+        {
+            "1": "2  oranges"
+        },
+        {
+            "2": "8  whole cloves"
+        },
+        {
+            "3": "6 cups apple juice"
+        },
+        {
+            "4": "1  cinnamon stick"
+        },
+        {
+            "5": "0.25 teaspoon ground nutmeg"
+        },
+        {
+            "6": "0.25 cup honey"
+        },
+        {
+            "7": "3 tablespoons lemon juice"
+        },
+        {
+            "8": "0.5 cups pineapple juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Stud whole oranges with cloves, and bake in the preheated oven for 30 minutes."
+        },
+        {
+            "2": "In a large saucepan, combine apple juice and cinnamon stick. Bring to a boil, reduce heat to medium, and simmer 5 minutes. Remove from heat, and stir in nutmeg, honey, lemon juice, and pineapple juice."
+        },
+        {
+            "3": "Serve hot in a punch bowl with clove-studded baked oranges floating on top."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "16 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "91"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1080067.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7c8d95f27aee80fb5dca55bc6bf5cd3d%2F920707.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F45277.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F26026.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

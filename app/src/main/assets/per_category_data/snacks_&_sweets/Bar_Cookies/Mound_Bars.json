@@ -1,0 +1,75 @@
+{
+    "title": "Mound Bars",
+    "Category": "Bar Cookies",
+    "Ingredients": [
+        {
+            "1": "2 cups graham cracker crumbs"
+        },
+        {
+            "2": "0.25 cup white sugar"
+        },
+        {
+            "3": "0.5 cup melted butter"
+        },
+        {
+            "4": "1 (14 ounce) can sweetened condensed milk"
+        },
+        {
+            "5": "2 cups flaked coconut"
+        },
+        {
+            "6": "1 (12 ounce) package semisweet chocolate chips, melted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Combine the graham cracker crumbs, sugar and melted butter or margarine. Mix and pat into the bottom of one 9x13 inch baking pan. Bake at 350 degrees F (175 degrees C) for 15 minutes."
+        },
+        {
+            "3": "Combine the condensed milk and flaked coconut. Spread over the crust and bake at 350 degrees F (175 degrees C) for 15 minutes."
+        },
+        {
+            "4": "Spread the melted chocolate chips over the top. Let cool and cut into squares."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "1 -9x13 inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "219"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9404638.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9211163.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7293215.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F4fb912f6d4d7d72b652b87805b42057b%2F6411518.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

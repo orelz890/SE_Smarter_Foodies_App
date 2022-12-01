@@ -1,0 +1,81 @@
+{
+    "title": "Tasty Tuna Pasta",
+    "Category": "Fettuccini",
+    "Ingredients": [
+        {
+            "1": "8 ounces dry fettuccine pasta"
+        },
+        {
+            "2": "1 (5 ounce) can tuna, drained"
+        },
+        {
+            "3": "1 (15 ounce) can peas, drained"
+        },
+        {
+            "4": "0.5 (16 ounce) jar Alfredo-style pasta sauce"
+        },
+        {
+            "5": "1 teaspoon garlic powder"
+        },
+        {
+            "6": "1 teaspoon dried oregano"
+        },
+        {
+            "7": "1 teaspoon dried basil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain and set aside."
+        },
+        {
+            "2": "In a large saucepan over medium heat, combine tuna, peas, Alfredo sauce, garlic powder, oregano, and basil; mix well. Cook until heated through."
+        },
+        {
+            "3": "Add cooked pasta to sauce; mix well. Adjust seasoning as needed; serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "460"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "54g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8054302.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7723663.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6853476.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4730946.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

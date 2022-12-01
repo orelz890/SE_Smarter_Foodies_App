@@ -1,0 +1,78 @@
+{
+    "title": "Sour Cream Biscuits",
+    "Category": "Biscuit",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "0.5 teaspoon salt"
+        },
+        {
+            "3": "0.5 teaspoon baking soda"
+        },
+        {
+            "4": "3 teaspoons baking powder"
+        },
+        {
+            "5": "0.75 cup sour cream"
+        },
+        {
+            "6": "0.5 tablespoons water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix together flour, salt, baking soda, and baking powder. Add sour cream and mix to a soft dough. Add additional water if necessary."
+        },
+        {
+            "2": "With well floured hands shape dough into round biscuit shapes. Bake at 450 degrees F (230 degrees C) for 12 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "12 mins"
+        },
+        {
+            "Total Time": "22 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "107"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9242547.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8341996.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8164426.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8133505.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

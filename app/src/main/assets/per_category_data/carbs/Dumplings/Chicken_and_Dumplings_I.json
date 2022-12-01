@@ -1,0 +1,78 @@
+{
+    "title": "Chicken and Dumplings I",
+    "Category": "Dumplings",
+    "Ingredients": [
+        {
+            "1": "1 (2 to 3 pound) whole chicken"
+        },
+        {
+            "2": "2 cups all-purpose flour"
+        },
+        {
+            "3": "1 teaspoon baking powder"
+        },
+        {
+            "4": "1 cup hot chicken broth"
+        },
+        {
+            "5": "1  egg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large stockpot or Dutch oven cover the chicken with salted water and simmer until cooked through. When tender, remove chicken from pot. Remove meat from bones and keep warm while making the dumplings."
+        },
+        {
+            "2": "TO MAKE DUMPLINGS: Sift about 2 cups of flour and 1 teaspoon baking powder into a large mixing bowl. Make a well in the flour/powder mixture; pour in 1 cup of hot chicken broth, mixing first with a fork, then with your fingers. Add the egg and mix well again."
+        },
+        {
+            "3": "Knead the dough for a few seconds on a floured board. Separate the dough into 4 or 5 parts and roll as thin as possible. Cut into 1 1/2 or 2 inch wide pieces. Break these into 2 inch long strips. Drop into boiling chicken broth and simmer for 10 to 15 minutes. Serve with previously prepared meat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "349"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8888880.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5026083.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4467620.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3524924.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

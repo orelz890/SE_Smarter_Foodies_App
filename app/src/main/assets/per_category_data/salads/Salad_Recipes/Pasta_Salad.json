@@ -1,0 +1,90 @@
+{
+    "title": "Pasta Salad",
+    "Category": "Salad Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound tri-colored spiral pasta"
+        },
+        {
+            "2": "1 (16 ounce) bottle Italian-style salad dressing"
+        },
+        {
+            "3": "6 tablespoons salad seasoning mix"
+        },
+        {
+            "4": "2 cups cherry tomatoes, diced"
+        },
+        {
+            "5": "1  green bell pepper, chopped"
+        },
+        {
+            "6": "1  red bell pepper, diced"
+        },
+        {
+            "7": "0.5  yellow bell pepper, chopped"
+        },
+        {
+            "8": "1 (2.25 ounce) can black olives, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook pasta in the boiling water, stirring occasionally, until tender yet firm to the bite, about 10 to 12 minutes; rinse under cold water and drain."
+        },
+        {
+            "2": "Whisk Italian dressing and salad spice mix together until smooth."
+        },
+        {
+            "3": "Combine pasta, tomatoes, bell peppers, and olives in a salad bowl; pour dressing over salad and toss to coat. Refrigerate salad, 8 hours to overnight."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "400"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9314088.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9281277.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9297759.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9172730.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/6rtM_zmCsaOzvQJe4yT52LEQljE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14385-pasta-salad-mfs-66-553a4348fa7b4d83a52099146aca7439.jpg"
+        }
+    ],
+    "main category": "salads"
+}

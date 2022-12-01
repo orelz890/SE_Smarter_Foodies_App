@@ -1,0 +1,81 @@
+{
+    "title": "Stir-Fried Rice",
+    "Category": "Fried Rice",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon oil"
+        },
+        {
+            "2": "3  eggs, lightly beaten"
+        },
+        {
+            "3": "1 (14.5 ounce) can chicken broth"
+        },
+        {
+            "4": "1 (16 ounce) package frozen stir-fry vegetables, thawed"
+        },
+        {
+            "5": "2 tablespoons soy sauce"
+        },
+        {
+            "6": "2 cups Minute\u00ae White Rice, uncooked"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in large skillet on medium heat. Add eggs; cook until set, stirring occasionally. Remove from skillet."
+        },
+        {
+            "2": "Add broth, vegetables and soy sauce to skillet; bring to boil. Stir in rice; cover. Remove from heat. Let stand 5 minutes."
+        },
+        {
+            "3": "Stir in cooked eggs. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "382"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "60g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8294982.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8098058.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7866207.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6831147.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

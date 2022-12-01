@@ -1,0 +1,90 @@
+{
+    "title": "Grandma's Peach French Toast",
+    "Category": "French Toast",
+    "Ingredients": [
+        {
+            "1": "1 cup packed brown sugar"
+        },
+        {
+            "2": "0.5 cup butter"
+        },
+        {
+            "3": "2 tablespoons water"
+        },
+        {
+            "4": "1 (29 ounce) can sliced peaches, drained"
+        },
+        {
+            "5": "12 (3/4 inch thick) slices day-old French bread"
+        },
+        {
+            "6": "5  eggs"
+        },
+        {
+            "7": "1 tablespoon vanilla extract"
+        },
+        {
+            "8": "1 pinch ground cinnamon, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a saucepan, stir together the brown sugar, butter and water. Bring to a boil, then reduce heat to low, and simmer for 10 minutes, stirring frequently."
+        },
+        {
+            "2": "Pour the brown sugar mixture into a 9x13 inch baking dish, and tilt the dish to cover the entire bottom. Place peaches in a layer over the sugar coating, then top with slices of French bread. In a medium bowl, whisk together the eggs and vanilla. Slowly pour over the bread slices to coat evenly. Sprinkle cinnamon over the top. Cover and refrigerate for 8 hours or overnight."
+        },
+        {
+            "3": "Remove the dish from the refrigerator about 30 minutes before baking to come to room temperature. Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "4": "Bake for 25 to 30 minutes in the preheated oven, or until the bread is golden brown. Spoon out portions to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": " 9 hrs"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 9 hrs 45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "362"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "51g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0f13a152ce9cec4d8d2dc178950f17f6%2F1661876546301301789_1025024201525823_2887302156887003007_n.png&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8353202.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8264714.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7522184.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

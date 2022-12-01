@@ -1,0 +1,111 @@
+{
+    "title": "Fried Chicken Tenders",
+    "Category": "Fried Chicken",
+    "Ingredients": [
+        {
+            "1": "1 cup all-purpose flour"
+        },
+        {
+            "2": "2 large eggs, beaten"
+        },
+        {
+            "3": "2 tablespoons water"
+        },
+        {
+            "4": "2 cups Italian-style seasoned bread crumbs"
+        },
+        {
+            "5": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "6": "0.5 teaspoon cayenne pepper"
+        },
+        {
+            "7": "24  chicken tenderloins"
+        },
+        {
+            "8": "2 quarts oil for frying"
+        },
+        {
+            "9": "1 Dipping Sauce-"
+        },
+        {
+            "10": "1 cup mayonnaise"
+        },
+        {
+            "11": "0.5 cup sour cream"
+        },
+        {
+            "12": "3 tablespoons prepared horseradish"
+        },
+        {
+            "13": "3 tablespoons prepared mustard"
+        },
+        {
+            "14": "1 dash Worcestershire sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Prepare the breading station: Place flour in a shallow bowl. Place eggs and water in a second shallow bowl. Place bread crumbs in a third shallow bowl, and mix in ground black pepper and cayenne pepper."
+        },
+        {
+            "2": "Coat chicken in flour, then eggs, and then bread crumbs, one piece at a time, and set aside."
+        },
+        {
+            "3": "Heat oil in a deep fryer to 375 degrees F (190 degrees C)."
+        },
+        {
+            "4": "Fry chicken in small batches until the pieces are golden brown, 6 to 8 minutes. Remove chicken and drain on paper towels."
+        },
+        {
+            "5": "Make the dipping sauce: Combine mayonnaise, sour cream, horseradish, mustard, and Worcestershire sauce in a small bowl. Mix well, and serve with chicken."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "821"
+        },
+        {
+            "Fat": "55g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "45g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8721172.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8649258.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8575175.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8575191.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/TT6fA_Tf74mmAIpYeEE5OMkgA5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16669-fried-chicken-tenders-ddmfs-1x1-1-adc4535e51744ab6b9eab95d319d7332.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

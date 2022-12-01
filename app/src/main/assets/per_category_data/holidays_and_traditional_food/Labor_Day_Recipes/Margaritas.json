@@ -1,0 +1,53 @@
+{
+    "title": "Margaritas",
+    "Category": "Labor Day Recipes",
+    "Ingredients": [
+        {
+            "1": "4 cups crushed ice, or as needed"
+        },
+        {
+            "2": "1 (6 ounce) can frozen limeade concentrate"
+        },
+        {
+            "3": "6 fluid ounces tequila"
+        },
+        {
+            "4": "2 fluid ounces triple sec"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill blender with crushed ice. Pour in limeade concentrate, tequila, and triple sec. Blend until smooth. Pour into glasses and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9183856.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8288002.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8092657.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8010678.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/eA-8_QZ64eUJgdBlyijpTsA1jO4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8092657-0b3ecf2ffd094f2d91244f4cc23dbc31.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

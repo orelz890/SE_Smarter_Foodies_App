@@ -1,0 +1,81 @@
+{
+    "title": "Bannock",
+    "Category": "Bread Recipes",
+    "Ingredients": [
+        {
+            "1": "3 cups all-purpose flour"
+        },
+        {
+            "2": "2 tablespoons baking powder"
+        },
+        {
+            "3": "1 teaspoon salt"
+        },
+        {
+            "4": "0.5 cups water"
+        },
+        {
+            "5": "0.25 cup butter, melted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir together flour, baking powder, and salt in a large bowl. Pour water and melted butter over flour mixture. Stir with a fork to make a ball."
+        },
+        {
+            "2": "Turn dough out onto a lightly floured surface; knead gently about 10 times. Pat into a flat circle, 3/4- to 1-inch thick."
+        },
+        {
+            "3": "Warm a greased frying pan over medium heat."
+        },
+        {
+            "4": "Place dough in the hot pan and cook until browned, about 15 minutes per side. Use two lifters for easy turning."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "149"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdf17bf67722af001e4b9a13079e45574%2F166871545509920221116_144945.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdf17bf67722af001e4b9a13079e45574%2F166819933510820221111_123236-4.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9417454.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9415934.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

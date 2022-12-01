@@ -1,0 +1,87 @@
+{
+    "title": "Molasses Cake",
+    "Category": "Spice Cake",
+    "Ingredients": [
+        {
+            "1": "0.5 cup shortening"
+        },
+        {
+            "2": "0.5 cup packed brown sugar"
+        },
+        {
+            "3": "1 cup molasses"
+        },
+        {
+            "4": "2  eggs"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "1 teaspoon ground cinnamon"
+        },
+        {
+            "7": "0.5 teaspoon ground cloves"
+        },
+        {
+            "8": "1 teaspoon ground ginger"
+        },
+        {
+            "9": "1.0 cups all-purpose flour"
+        },
+        {
+            "10": "1 teaspoon baking soda"
+        },
+        {
+            "11": "1 cup hot, brewed coffee"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Sift together salt, cinnamon, cloves, ginger, flour, and baking soda."
+        },
+        {
+            "2": "Cream shortening and sugar gradually, then add molasses and eggs. Mix in sifted ingredients. Stir in hot coffee; batter will be thin."
+        },
+        {
+            "3": "Bake at 350 degrees F (175 degrees C) for 30 minutes. Cool."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 to 9 - inch square cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "298"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F61fdc35c2529c92bf7843033d1841009%2F1662739163IMG_6161.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F53f4ac043db61fba1d97a07b102c4958%2F5602956.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5522447.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4508903.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

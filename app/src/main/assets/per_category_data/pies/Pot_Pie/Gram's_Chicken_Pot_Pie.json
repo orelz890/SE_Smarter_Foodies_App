@@ -1,0 +1,75 @@
+{
+    "title": "Gram's Chicken Pot Pie",
+    "Category": "Pot Pie",
+    "Ingredients": [
+        {
+            "1": "1 (2 to 3 pound) whole chicken"
+        },
+        {
+            "2": "2 (9 inch)  deep dish frozen pie crusts, thawed"
+        },
+        {
+            "3": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "4": "1 (10 ounce) package frozen green peas, thawed"
+        },
+        {
+            "5": "2 cups water, or as needed"
+        },
+        {
+            "6": "1 teaspoon chicken bouillon granules"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large heavy pot, place chicken and water to cover. Bring to a boil and let simmer uncovered for 30 minutes, adding water as needed. When chicken is boiled and tender, pick all the meat off of the bones."
+        },
+        {
+            "2": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "3": "Open 1 can of cream of mushroom soup and pour into a small saucepan. Add frozen peas and carrots, water and chicken bouillon to taste. Simmer all together until the soup is smooth. Add chicken meat and mix all together."
+        },
+        {
+            "4": "Pour chicken and soup mixture into one pie crust and cover with the other crust. Seal the edges and cut a small steam hole in the top crust. Bake in the preheated oven 30 to 35 minutes or until crust is brown. Yummy!"
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 to 9 - inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "798"
+        },
+        {
+            "Fat": "52g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "41g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8792907.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8168236.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6296763.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0e59a94ea24e2d029df081baa5bdaf03%2F5996728.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

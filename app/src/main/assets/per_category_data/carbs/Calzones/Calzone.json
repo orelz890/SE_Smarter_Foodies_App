@@ -1,0 +1,105 @@
+{
+    "title": "Calzone",
+    "Category": "Calzones",
+    "Ingredients": [
+        {
+            "1": "0.25 cups water"
+        },
+        {
+            "2": "1 teaspoon salt"
+        },
+        {
+            "3": "3 cups bread flour"
+        },
+        {
+            "4": "1 teaspoon dry milk powder"
+        },
+        {
+            "5": "0.5 tablespoons white sugar"
+        },
+        {
+            "6": "2 teaspoons active dry yeast"
+        },
+        {
+            "7": "0.75 cup pizza sauce"
+        },
+        {
+            "8": "4 ounces pepperoni sausage, chopped"
+        },
+        {
+            "9": "0.25 cups shredded mozzarella cheese"
+        },
+        {
+            "10": "2 tablespoons butter, melted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place water, salt, bread flour, dry milk, sugar, and yeast in the pan of the bread machine in the order suggested by the manufacturer. Select Dough cycle."
+        },
+        {
+            "2": "When the cycle has finished, preheat the oven to 350 degrees F (175 degrees C). Lightly grease a baking sheet."
+        },
+        {
+            "3": "Roll out dough on a lightly floured surface; shape it into a 16x10-inch rectangle. Transfer to prepared baking sheet."
+        },
+        {
+            "4": "In a small bowl, mix together chopped pepperoni and mozzarella. Spoon pizza sauce in a stripe down the center of dough lengthwise; add pepperoni and cheese filling. Make diagonal cuts 1 1/2 inches apart down each side, cutting within a 1/2 inch of the filling. Criss-cross strips over filling, sealing with water. Brush top with melted butter."
+        },
+        {
+            "5": "Bake calzone in preheated oven for 35 to 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 5 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 16x10-inch calzone"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "285"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9d1f053bc9c60fb40c1c270540fda074%2F1646282486C5133EA5-36D3-4B08-AAFB-07EED0CE7FDD.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9d1f053bc9c60fb40c1c270540fda074%2F164485798120220211_105105.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8436817.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7950068.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/4owemk5_N8oevwLkuSmXiGkPSnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/734277-ff6f4e7178f5473b8a981747b8b18c5b.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

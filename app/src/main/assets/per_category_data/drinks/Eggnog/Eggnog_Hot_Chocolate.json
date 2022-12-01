@@ -1,0 +1,62 @@
+{
+    "title": "Eggnog Hot Chocolate",
+    "Category": "Eggnog",
+    "Ingredients": [
+        {
+            "1": "1.0 cups milk"
+        },
+        {
+            "2": "12 ounces bittersweet chocolate chips"
+        },
+        {
+            "3": "4 cups eggnog"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "0.25 cup coffee flavored liqueur"
+        },
+        {
+            "6": "0.5 cup whipped cream"
+        },
+        {
+            "7": "8  cinnamon sticks, garnish"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt milk with chocolate in a medium saucepan over medium-low heat. Remove from heat and let stand for 2 minutes. Whisk mixture until melted and smooth."
+        },
+        {
+            "2": "Stir in eggnog. Heat gently over low heat until very warm but not boiling. Remove from heat; stir in vanilla and coffee liqueur."
+        },
+        {
+            "3": "Pour into mugs. Serve topped with whipped cream and a cinnamon stick garnish."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 cups"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F943113.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

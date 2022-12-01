@@ -1,0 +1,84 @@
+{
+    "title": "Instant Pot Whole Chicken",
+    "Category": "Meal Prep",
+    "Ingredients": [
+        {
+            "1": "2 stalks celery, cut into large chunks"
+        },
+        {
+            "2": "2 medium carrots, peeled and cut into large chunks"
+        },
+        {
+            "3": "1 medium onions, peeled and cut into wedges"
+        },
+        {
+            "4": "1 (4 pound) whole chicken"
+        },
+        {
+            "5": "0.5 teaspoons kosher salt"
+        },
+        {
+            "6": "0.75 teaspoon ground black pepper"
+        },
+        {
+            "7": "0.25 teaspoon paprika"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place celery, carrots, and onion in the bottom of a multi-functional pressure cooker (such as Instant Pot\u00ae). Pat chicken dry and place on top of the vegetables. Sprinkle chicken evenly with salt, pepper, and paprika."
+        },
+        {
+            "2": "Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 25 minutes. Allow 10 to 15 minutes for pressure to build."
+        },
+        {
+            "3": "Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid. Remove chicken and let stand for 5 minutes before cutting or shredding."
+        },
+        {
+            "4": "Strain solids from the cooking liquid, if desired. Set to Saute, and reduce by half for a flavorful sauce."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 whole chicken"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "417"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "46g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8941993.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://www.allrecipes.com/thmb/rIBHweR0bfmRyMVN3fVYKwSOaGs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8941993-instant-pot-whole-chicken-photo-by-allrecipes-2000-9e9d2606eed34a318d5047dd5c5dfa84.jpg"
+        }
+    ],
+    "main category": "side_dishes"
+}

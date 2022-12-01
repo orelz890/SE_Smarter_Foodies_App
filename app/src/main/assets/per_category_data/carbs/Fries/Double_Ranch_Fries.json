@@ -1,0 +1,72 @@
+{
+    "title": "Double Ranch Fries",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "3 large potatoes, scrubbed"
+        },
+        {
+            "2": "1 cup milk"
+        },
+        {
+            "3": "1 (1 ounce) package dry Ranch-style dressing mix"
+        },
+        {
+            "4": "1 pinch garlic salt"
+        },
+        {
+            "5": "1 quart oil for frying, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a deep-fryer to 365 degrees F (185 degrees C)."
+        },
+        {
+            "2": "Cut potatoes into wedges or fries, and soak in a bowl with milk. Stir together the ranch dressing mix and garlic salt; place on a plate or in a bag. Drain potatoes, and roll in the seasonings to coat."
+        },
+        {
+            "3": "Place potatoes into the deep-fryer in batches so they are not too crowded. Fry for 5 minutes, or until golden brown. Drain on paper towels, and season with leftover seasoning mixture."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "305"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1124902.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F787926.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

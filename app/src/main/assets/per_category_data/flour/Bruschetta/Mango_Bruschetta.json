@@ -1,0 +1,72 @@
+{
+    "title": "Mango Bruschetta",
+    "Category": "Bruschetta",
+    "Ingredients": [
+        {
+            "1": "1 (1 pound) loaf French bread, cut into 1/2 inch pieces"
+        },
+        {
+            "2": "1  mango - peeled, seeded and diced"
+        },
+        {
+            "3": "1 tablespoon fresh basil, minced"
+        },
+        {
+            "4": "1 cup grated Romano cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the broiler."
+        },
+        {
+            "2": "Arrange French bread slices in a single layer on a large baking sheet. Broil in the preheated oven 1 to 2 minutes per side, until lightly toasted. Remove from heat."
+        },
+        {
+            "3": "In a medium bowl, mix mango and fresh basil."
+        },
+        {
+            "4": "Top each bread slice with equal amounts of the mango and basil mixture. Sprinkle with Romano cheese, adjusting the amount to taste."
+        },
+        {
+            "5": "Return topped bread to broiler. Broil 2 to 3 minutes, or until the cheese is melted and lightly browned. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "315"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F12924.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

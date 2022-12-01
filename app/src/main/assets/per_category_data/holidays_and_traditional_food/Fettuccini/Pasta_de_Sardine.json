@@ -1,0 +1,87 @@
+{
+    "title": "Pasta de Sardine",
+    "Category": "Fettuccini",
+    "Ingredients": [
+        {
+            "1": "8 ounces dry fettuccine pasta"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "1 medium yellow onion, chopped"
+        },
+        {
+            "4": "3 cloves garlic, crushed"
+        },
+        {
+            "5": "1 medium lemon, juiced"
+        },
+        {
+            "6": "1 (3.75 ounce) can sardines in tomato sauce"
+        },
+        {
+            "7": "0.25 cup freshly grated Parmesan cheese"
+        },
+        {
+            "8": "1 pinch red pepper flakes, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a large pot with lightly salted water and bring to a rolling boil. Cook fettuccine at a boil until almost tender, about 8 minutes."
+        },
+        {
+            "2": "While the pasta is cooking, heat oil in a skillet over medium heat. Add onion and cook until starting to soften, about 3 minutes. Add garlic and cook until fragrant, about 1 minute. Pour in sardines and tomato sauce, stir to combine, and cook until heated through, about 3 minutes. Reduce the heat to low and keep at a simmer."
+        },
+        {
+            "3": "Drain pasta, add to sauce, and stir to combine. Cover, turn off the heat, and let stand for 3 minutes. Squeeze lemon over top and divide onto four serving plates. Garnish with Parmesan and red pepper flakes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "350"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8839016.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8550976.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8550961.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6486985.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

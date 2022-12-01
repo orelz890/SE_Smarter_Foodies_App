@@ -1,0 +1,105 @@
+{
+    "title": "Lamb Patties",
+    "Category": "Ground Lamb",
+    "Ingredients": [
+        {
+            "1": "1 pound ground lamb"
+        },
+        {
+            "2": "5  green chile peppers, diced"
+        },
+        {
+            "3": "3  onions, peeled and chopped"
+        },
+        {
+            "4": "1 tablespoon dark soy sauce"
+        },
+        {
+            "5": "1 tablespoon Worcestershire sauce"
+        },
+        {
+            "6": "2 tablespoons ginger paste"
+        },
+        {
+            "7": "2 tablespoons garlic paste"
+        },
+        {
+            "8": "0.5 teaspoon ground white pepper"
+        },
+        {
+            "9": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "10": "0.5 teaspoon ground cardamom"
+        },
+        {
+            "11": "0.5 teaspoon ground cloves"
+        },
+        {
+            "12": "2 tablespoons chopped fresh cilantro"
+        },
+        {
+            "13": "1 (17.5 ounce) package frozen puff pastry sheets, thawed"
+        },
+        {
+            "14": "1  egg, beaten"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large pot, combine the ground lamb, onion, chilies, soy sauce and Worcestershire sauce. Season with ginger and garlic pastes, white pepper, cinnamon, cardamom and cloves. Cook, stirring occasionally, over medium heat until the meat is evenly browned and the onions are tender, about 15 minutes. Mix in cilantro, cover and set aside."
+        },
+        {
+            "2": "Preheat the oven to 375 degrees F (190 degrees C). Lay sheets of puff pastry out on a lightly floured surface. Cut each one into 9 squares and roll out to 1/4 inch thickness. Spoon about 1 1/2 tablespoons of the meat mixture into the center of each square. Brush the edge with water, fold corner over to form a triangle, and press to seal. Do not overstuff the triangles, or they will burst in the oven. Place the patties onto a foil lined baking sheet leaving at least an inch between each one. Brush the tops lightly with beaten egg."
+        },
+        {
+            "3": "Bake for 12 to 15 minutes in the preheated oven, or until golden brown all over. Serve hot for best flavor."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "18 patties"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "222"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9322635.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5222883.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3482b884f04f4c3a642b33112d29663c%2F4533605.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4533590.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

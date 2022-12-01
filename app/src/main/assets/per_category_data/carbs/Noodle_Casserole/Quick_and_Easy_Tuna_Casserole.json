@@ -1,0 +1,81 @@
+{
+    "title": "Quick and Easy Tuna Casserole",
+    "Category": "Noodle Casserole",
+    "Ingredients": [
+        {
+            "1": "1 (12 ounce) package egg noodles"
+        },
+        {
+            "2": "2 cups frozen green peas"
+        },
+        {
+            "3": "2 (10.75 ounce) cans  condensed cream of mushroom soup"
+        },
+        {
+            "4": "2 (5 ounce) cans tuna, drained"
+        },
+        {
+            "5": "10 slices American processed cheese"
+        },
+        {
+            "6": "1  onion, chopped"
+        },
+        {
+            "7": "1 ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of water to a boil. Add noodles and frozen peas; simmer for 8 to 10 minutes, or until noodles are al dente. Drain well, then return noodles and peas to the pot."
+        },
+        {
+            "2": "Stir in condensed soup, tuna, cheese, onion, and pepper until well mixed and the cheese has melted. Serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "545"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "58g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Feb619537cee247e1e04c29b3596033fd%2F1653465644image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Feb619537cee247e1e04c29b3596033fd%2F1649814200image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9366775.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9295428.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/31E8dC_X6TQixCk3qLDkMajXqnI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16964-Quick-and-Easy-Tuna-Casserole-ddmfs-1x1-104152-849d0780b79e485b9b727de7681d0929.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

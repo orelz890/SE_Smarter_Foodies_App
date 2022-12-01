@@ -1,0 +1,96 @@
+{
+    "title": "Rye Pizza Dough",
+    "Category": "Pizza Dough and Crusts",
+    "Ingredients": [
+        {
+            "1": "1.0 cups unbleached all-purpose flour"
+        },
+        {
+            "2": "1 cup rye flour"
+        },
+        {
+            "3": "1 teaspoon salt"
+        },
+        {
+            "4": "0.5 cups water, divided"
+        },
+        {
+            "5": "1 teaspoon brown sugar"
+        },
+        {
+            "6": "1 (.25 ounce) package active dry yeast"
+        },
+        {
+            "7": "2 tablespoons extra-virgin olive oil"
+        },
+        {
+            "8": "0.5 cup all-purpose flour for kneading dough, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix 2 1/2 cups all-purpose flour, rye flour, and salt together in a bowl."
+        },
+        {
+            "2": "Pour 1/2 cup water into a microwave-safe bowl; heat in microwave for 30 seconds. Stir brown sugar into water until dissolved; add yeast and stir. Let mixture stand until bubbling, about 10 minutes."
+        },
+        {
+            "3": "Pour yeast mixture into flour mixture."
+        },
+        {
+            "4": "Pour remaining 1 cup water into a microwave-safe bowl; heat in microwave for 30 seconds. Stir olive oil into the warm water; pour over flour mixture. Knead flour mixture, adding more all-purpose flour if dough is sticky, until dough is smooth and holds together."
+        },
+        {
+            "5": "Form dough into a ball and place in a bowl. Cover bowl with a damp towel and let rise until doubled in size, about 1 hour."
+        },
+        {
+            "6": "Punch dough down and transfer to a floured work surface. Roll or shape dough into desired shape."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 24-inch pizza"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "253"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7990792.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7638391.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7638393.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8e0eeb4d6b3d7de00543432b039cfd20%2F7625113.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pizza"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Easy Chicken Tetrazzini",
+    "Category": "Tetrazzini",
+    "Ingredients": [
+        {
+            "1": "1 pound cooked and drained spaghetti"
+        },
+        {
+            "2": "5  chicken breasts, cooked and cubed"
+        },
+        {
+            "3": "2 (10.75 ounce) cans  condensed cream of chicken soup"
+        },
+        {
+            "4": "0.5 cups water"
+        },
+        {
+            "5": "0.25 cup butter"
+        },
+        {
+            "6": "2 cubes  chicken bouillon"
+        },
+        {
+            "7": "0.25 cup shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Put cooked spaghetti into 9x13-inch baking dish. Place chicken on top of spaghetti."
+        },
+        {
+            "2": "In medium saucepan heat together soup, water, butter, and bouillon. Bring to a boil and then pour over the pasta and chicken. Put shredded cheese (to taste) on top and press down a bit."
+        },
+        {
+            "3": "Bake at 350 degrees F (175 degrees C) for 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "473"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9195474.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8781610.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8547894.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8235244.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/tKty2AyUpIeIaJwSHO39g4pfmkw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3332203-a4c4a5bffcc64c668bc73dbc5d916891.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

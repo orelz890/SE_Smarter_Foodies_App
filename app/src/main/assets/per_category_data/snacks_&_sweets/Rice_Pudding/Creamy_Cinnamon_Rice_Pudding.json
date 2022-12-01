@@ -1,0 +1,81 @@
+{
+    "title": "Creamy Cinnamon Rice Pudding",
+    "Category": "Rice Pudding",
+    "Ingredients": [
+        {
+            "1": "3 quarts milk"
+        },
+        {
+            "2": "2 tablespoons ground cinnamon"
+        },
+        {
+            "3": "0.25 cup butter"
+        },
+        {
+            "4": "2 cups white sugar"
+        },
+        {
+            "5": "1 cup heavy cream"
+        },
+        {
+            "6": "4  eggs"
+        },
+        {
+            "7": "1 cup uncooked white rice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine the milk, cinnamon, butter, and rice in a large pot. Bring to a boil, then reduce heat to low, and simmer for 30 minutes, or until rice is tender. Gradually stir in the sugar."
+        },
+        {
+            "2": "In a medium bowl, whisk together the heavy cream and eggs until smooth. Gradually whisk in about a cup of the hot milk mixture, or enough to raise the temperature to just above body temperature. Gradually stir the warmed egg mixture into the pot. This will keep you from having scrambled egg in your pudding!"
+        },
+        {
+            "3": "Simmer the pudding over low heat for about 10 minutes, stirring constantly until thickened. Pour into a baking dish or bowl, and allow to cool for 10 to 15 minutes before refrigerating. Refrigerate for at least 2 hours before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 (1 cup) servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "436"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "59g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F97b761ccd246f22d63a12d1b2bf3d6e9%2F7448657.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1111726.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F27633.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

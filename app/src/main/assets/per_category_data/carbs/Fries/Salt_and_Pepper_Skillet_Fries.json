@@ -1,0 +1,75 @@
+{
+    "title": "Salt and Pepper Skillet Fries",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil"
+        },
+        {
+            "2": "1 teaspoon butter"
+        },
+        {
+            "3": "3 large potatoes, sliced lengthwise into 1/2-inch circles and cut into 1/2-inch strips"
+        },
+        {
+            "4": "0.25 teaspoon coarse sea salt"
+        },
+        {
+            "5": "0.25 teaspoon cracked black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil and butter in a skillet over medium heat."
+        },
+        {
+            "2": "Cook and stir potato strips in hot oil mixture until browned on all sides, 20 to 25 minutes."
+        },
+        {
+            "3": "Transfer fries to a paper towel-lined plate; season with sea salt and cracked black pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "282"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5363183.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2251710.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fab603d9f525ac53f37757e27ccdbf5e8%2F1842964.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbb1f6bc914f4ef45d268e15a320dd460%2F1842958.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

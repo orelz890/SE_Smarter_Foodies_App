@@ -1,0 +1,96 @@
+{
+    "title": "Filet Mignon for Two",
+    "Category": "Beef Tenderloin",
+    "Ingredients": [
+        {
+            "1": "2 (6 ounce) filet mignon steaks"
+        },
+        {
+            "2": "1 teaspoon olive oil"
+        },
+        {
+            "3": "1 salt and ground black pepper to taste"
+        },
+        {
+            "4": "1 Gorgonzola Sauce-"
+        },
+        {
+            "5": "1 tablespoon butter"
+        },
+        {
+            "6": "1  shallot, minced"
+        },
+        {
+            "7": "1 teaspoon minced garlic"
+        },
+        {
+            "8": "1 cup heavy cream"
+        },
+        {
+            "9": "4 ounces crumbled Gorgonzola cheese"
+        },
+        {
+            "10": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 500 degrees F (260 degrees C). Place a large, oven-proof skillet in the oven as it preheats."
+        },
+        {
+            "2": "Bring steaks to room temperature. Rub with olive oil and season generously with salt and pepper."
+        },
+        {
+            "3": "Remove the hot skillet from the oven carefully and place it on a burner set to high heat. Leave the oven on."
+        },
+        {
+            "4": "Place steaks into the dry pan immediately and sear, turning with tongs, 1 to 2 minutes on both sides."
+        },
+        {
+            "5": "Transfer the pan back into the preheated oven and cook until desired doneness is reached, 3 to 5 minutes. For medium doneness, an instant-read thermometer inserted into the centers should read 140 degrees F (60 degrees C). Transfer steaks to a warm platter and tent loosely with foil. Let rest for 5 to 10 minutes; the steaks will continue to cook during this process and the internal temperature will rise 5 to 10 degrees."
+        },
+        {
+            "6": "Meanwhile, heat butter in a medium saucepan over medium heat. Add shallot and garlic and saute until shallot is tender, 5 to 7 minutes. Pour in cream; let cook until reduced by half, about 10 minutes. Turn heat to low and add Gorgonzola cheese. Let cheese melt; season with salt and pepper. Serve sauce with steaks."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "1031"
+        },
+        {
+            "Fat": "82g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "64g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8976832.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7755550.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

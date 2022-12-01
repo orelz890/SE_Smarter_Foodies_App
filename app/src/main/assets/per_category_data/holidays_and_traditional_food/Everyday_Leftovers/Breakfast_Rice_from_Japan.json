@@ -1,0 +1,72 @@
+{
+    "title": "Breakfast Rice from Japan",
+    "Category": "Everyday Leftovers",
+    "Ingredients": [
+        {
+            "1": "1 teaspoon vegetable oil"
+        },
+        {
+            "2": "1 cup cold cooked rice, or more to taste"
+        },
+        {
+            "3": "1  egg, or more to taste"
+        },
+        {
+            "4": "2  green onions, sliced, or more to taste"
+        },
+        {
+            "5": "2 teaspoons soy sauce, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large skillet over medium-high heat. Spread rice in a flat layer in hot oil; cook until crispy on the bottom, 2 to 3 minutes."
+        },
+        {
+            "2": "Stir egg into rice until scrambled, about 2 minutes more. Sprinkle green onions on top and season with soy sauce."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "332"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8989198.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7904479.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8fe9e7c7e6e06b885533e697af66a28a%2F6401436.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6257357.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

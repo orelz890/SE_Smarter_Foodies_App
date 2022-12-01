@@ -1,0 +1,72 @@
+{
+    "title": "Delicious Almond Rice Pilaf",
+    "Category": "Rice Pilaf",
+    "Ingredients": [
+        {
+            "1": "2 teaspoons vegetable oil"
+        },
+        {
+            "2": "0.25 cup diced onion"
+        },
+        {
+            "3": "1 cup white rice"
+        },
+        {
+            "4": "2 tablespoons slivered almonds"
+        },
+        {
+            "5": "2 cups water"
+        },
+        {
+            "6": "1 cube beef bouillon"
+        },
+        {
+            "7": "1 teaspoon dried parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a saucepan over medium heat; cook and stir onion until tender, about 5 minutes. Add rice and almonds, cooking and stirring until rice is lightly toasted, about 5 minutes more. Stir in water, bouillon, and parsley; cover and reduce heat to medium-low. Simmer until water is absorbed and rice is tender, about 20 minutes. Remove from heat and allow rice to rest for 5 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "212"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F4c5256cafc5b9775018ce69b731177dd%2F944148.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

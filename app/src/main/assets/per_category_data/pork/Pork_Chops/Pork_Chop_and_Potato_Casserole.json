@@ -1,0 +1,87 @@
+{
+    "title": "Pork Chop and Potato Casserole",
+    "Category": "Pork Chops",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon vegetable oil"
+        },
+        {
+            "2": "6  boneless pork chops"
+        },
+        {
+            "3": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "4": "1 cup milk"
+        },
+        {
+            "5": "4  potatoes, thinly sliced"
+        },
+        {
+            "6": "0.5 cup chopped onion"
+        },
+        {
+            "7": "1 cup shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Heat oil in a large skillet over medium-high heat. Place pork chops in the oil, and sear."
+        },
+        {
+            "3": "Combine condensed soup and milk in a medium bowl. Arrange potatoes and onions in a 9x13-inch baking dish. Place browned pork chops over potatoes and onions, then pour the soup mixture over everything in the dish."
+        },
+        {
+            "4": "Bake 30 minutes in the preheated oven. Top with cheese, and bake for 30 more minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "5 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "705"
+        },
+        {
+            "Fat": "47g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "33g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9325395.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9307447.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8878543.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8840957.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/NOkpIunJed7x67Naxr_Va4v-NDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3368665-6eccb7c0512b4d2e8556e12f4892f3c7.jpg"
+        }
+    ],
+    "main category": "pork"
+}

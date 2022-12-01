@@ -1,0 +1,105 @@
+{
+    "title": "Minestrone Vegetable Soup",
+    "Category": "Minestrone Soup",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "2 cloves garlic, finely chopped"
+        },
+        {
+            "4": "1 (32 ounce) carton chicken broth"
+        },
+        {
+            "5": "4 cups tomato juice"
+        },
+        {
+            "6": "1 (28 ounce) can diced tomatoes, undrained"
+        },
+        {
+            "7": "2 cups chopped fresh spinach"
+        },
+        {
+            "8": "2  zucchini, chopped"
+        },
+        {
+            "9": "2  carrots, chopped"
+        },
+        {
+            "10": "2 stalks celery, chopped"
+        },
+        {
+            "11": "1 (15.5 ounce) can cannellini beans, drained and rinsed"
+        },
+        {
+            "12": "1 tablespoon Italian seasoning"
+        },
+        {
+            "13": "1 teaspoon salt (Optional)"
+        },
+        {
+            "14": "0.25 teaspoon ground black pepper (Optional)"
+        },
+        {
+            "15": "2 cups rotini pasta"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a large soup pot over medium heat; cook and stir onion and garlic in the hot oil until onion is tender, 2 to 5 minutes. Stir chicken broth, tomato juice, diced tomatoes and their juice, spinach, zucchini, carrots, celery, cannellini beans, Italian seasoning, salt, and black pepper. Bring soup to a boil, reduce heat to low, and cover pot. Simmer soup for 45 minutes."
+        },
+        {
+            "2": "Bring soup back to a full boil and stir in rotini pasta. Reduce heat to low and simmer until pasta is tender, 10 to 15 more minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "174"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8456610.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7692859.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6638720.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1027313.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

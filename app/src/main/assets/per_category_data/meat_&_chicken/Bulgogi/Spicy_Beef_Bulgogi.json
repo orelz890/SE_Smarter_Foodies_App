@@ -1,0 +1,102 @@
+{
+    "title": "Spicy Beef Bulgogi",
+    "Category": "Bulgogi",
+    "Ingredients": [
+        {
+            "1": "1 pound flank steak, thinly sliced"
+        },
+        {
+            "2": "5 tablespoons soy sauce"
+        },
+        {
+            "3": "0.25 cup sriracha sauce"
+        },
+        {
+            "4": "0.25 cup chopped green onion"
+        },
+        {
+            "5": "1.0 tablespoons white sugar"
+        },
+        {
+            "6": "2 tablespoons whole dried cayenne peppers"
+        },
+        {
+            "7": "2 tablespoons minced garlic"
+        },
+        {
+            "8": "2 tablespoons sesame seeds"
+        },
+        {
+            "9": "2 tablespoons sesame oil"
+        },
+        {
+            "10": "1 teaspoon ground cayenne pepper, or to taste"
+        },
+        {
+            "11": "0.5 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place flank steak slices in a shallow dish."
+        },
+        {
+            "2": "Mix soy sauce, sriracha sauce, green onion, sugar, whole dried peppers, garlic, sesame seeds, sesame oil, ground cayenne, and black pepper together in a bowl. Pour over steak. Cover with plastic wrap and refrigerate to marinate, at least 1 hour but preferably overnight."
+        },
+        {
+            "3": "Preheat an outdoor grill for high heat, and lightly oil the grate."
+        },
+        {
+            "4": "Remove steak slices from marinade and grill on preheated grill until slightly charred and cooked through, 1 to 2 minutes per side."
+        },
+        {
+            "5": "Simmer marinade in a wok or skillet over medium heat until thick and the consistency of gravy; pour over grilled steak."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "2 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 17 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "1 pound flank steak"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "248"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8595214.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8595203.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3391030.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

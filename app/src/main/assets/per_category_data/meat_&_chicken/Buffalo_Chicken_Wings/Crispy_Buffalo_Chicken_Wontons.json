@@ -1,0 +1,84 @@
+{
+    "title": "Crispy Buffalo Chicken Wontons",
+    "Category": "Buffalo Chicken Wings",
+    "Ingredients": [
+        {
+            "1": "1 vegetable oil for frying"
+        },
+        {
+            "2": "1 cup shredded cooked chicken"
+        },
+        {
+            "3": "0.25 cup shredded Cheddar cheese"
+        },
+        {
+            "4": "2 tablespoons ranch dressing"
+        },
+        {
+            "5": "1 tablespoon butter, melted"
+        },
+        {
+            "6": "0.5 teaspoons hot pepper sauce, or more to taste"
+        },
+        {
+            "7": "20  wonton wrappers"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat vegetable oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Combine chicken, Cheddar cheese, ranch dressing, butter, and hot sauce in a bowl. Scoop about 1 tablespoon chicken mixture onto the center of each wonton wrapper; fold wontons in half and press to seal. Arrange wontons on a baking sheet and freeze for 5 to 10 minutes."
+        },
+        {
+            "3": "Fry in preheated oil until golden brown, 2 to 3 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "20 wontons"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "295"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3407779.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F952e6127e75665487503fbc9316b8cf4%2F1906013.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://www.allrecipes.com/thmb/drn8XRrcNA8WErazKEaTwoPbrz8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1906013-1c6669e9b2ab4f0cb0cd22ab0215dade.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

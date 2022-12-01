@@ -1,0 +1,87 @@
+{
+    "title": "Split Pea Soup with Rosemary",
+    "Category": "Split Pea Soup",
+    "Ingredients": [
+        {
+            "1": "6 slices bacon, cut into 1 inch pieces"
+        },
+        {
+            "2": "1 small onion, chopped"
+        },
+        {
+            "3": "1  leek, thinly sliced"
+        },
+        {
+            "4": "1 large carrot, chopped"
+        },
+        {
+            "5": "2 cloves garlic, minced"
+        },
+        {
+            "6": "4 (10.5 ounce) cans chicken broth"
+        },
+        {
+            "7": "0.5 cups green split peas"
+        },
+        {
+            "8": "2  bay leaves"
+        },
+        {
+            "9": "1 teaspoon chopped fresh rosemary"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large pot, and cook over medium heat until crisp. Stir in onion, leek, carrot, and garlic; cook until the vegetables are soft, about 8 minutes. Pour in chicken broth. Stir in split peas, bay leaves, and rosemary. Bring to a boil. Reduce heat to low; cover, and simmer until peas are cooked, about 1 hour, stirring occasionally."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "253"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8245040.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8037002.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7547025.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5288036.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/dcuKknVOqnyfSxJOGWKf6U8B9SE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/385476-5a995275373a46dc9620e191500481cf.jpg"
+        }
+    ],
+    "main category": "soups"
+}

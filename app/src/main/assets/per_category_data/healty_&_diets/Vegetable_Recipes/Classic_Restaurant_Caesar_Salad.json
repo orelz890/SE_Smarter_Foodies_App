@@ -1,0 +1,93 @@
+{
+    "title": "Classic Restaurant Caesar Salad",
+    "Category": "Vegetable Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cloves garlic, finely chopped"
+        },
+        {
+            "2": "3  anchovy fillets"
+        },
+        {
+            "3": "0.5  lemon, juiced"
+        },
+        {
+            "4": "2 tablespoons red wine vinegar"
+        },
+        {
+            "5": "1 tablespoon Dijon mustard"
+        },
+        {
+            "6": "1  egg yolk"
+        },
+        {
+            "7": "1 dash Worcestershire sauce"
+        },
+        {
+            "8": "0.25 cup olive oil"
+        },
+        {
+            "9": "1 pinch salt and ground black pepper to taste"
+        },
+        {
+            "10": "0.5 head romaine lettuce, chopped"
+        },
+        {
+            "11": "0.25 cup grated Parmesan cheese"
+        },
+        {
+            "12": "2 tablespoons croutons"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mash garlic with anchovies in a large salad bowl. Whisk lemon juice, red wine vinegar, Dijon mustard, egg yolk, and Worcestershire sauce into the anchovy mixture until mixture is smooth and creamy. Gradually whisk olive oil into the dressing, pouring the oil into the dressing in a thin stream while stirring constantly. Season with salt and black pepper."
+        },
+        {
+            "2": "Gently mix romaine lettuce and Parmesan cheese into the dressing until thoroughly coated; serve salad topped with croutons."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "362"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7035059.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6201030.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3119949.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1917296.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

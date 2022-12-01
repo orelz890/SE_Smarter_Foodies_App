@@ -1,0 +1,75 @@
+{
+    "title": "Amy's Lavender Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "1 tray ice cubes"
+        },
+        {
+            "2": "0.25 cup dried lavender"
+        },
+        {
+            "3": "2 cups boiling water"
+        },
+        {
+            "4": "0.75 cup white sugar"
+        },
+        {
+            "5": "8  lemons"
+        },
+        {
+            "6": "5 cups cold water, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place ice cubes into a 2 quart pitcher. Place the lavender into a bowl, and pour boiling water over it. Allow to steep for about 10 minutes, then strain out the lavender and discard. Mix the sugar into the hot lavender water, then pour into the pitcher with the ice."
+        },
+        {
+            "2": "Squeeze the juice from the lemons into the pitcher, getting as much juice as you can. Top off the pitcher with cold water, and stir. Taste, and adjust lemon juice or sugar if desired. Pour into tall glasses, pull up a lawn chair and a good book, and relax!"
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "127"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8209438.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F445525c6033b3c3dcf2c2e490c2a0395%2F6794467.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6783014.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2467310.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

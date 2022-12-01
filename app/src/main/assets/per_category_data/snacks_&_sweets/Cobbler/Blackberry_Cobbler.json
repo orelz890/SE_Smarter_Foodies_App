@@ -1,0 +1,78 @@
+{
+    "title": "Blackberry Cobbler",
+    "Category": "Cobbler",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter"
+        },
+        {
+            "2": "2 cups self-rising flour"
+        },
+        {
+            "3": "2 cups white sugar"
+        },
+        {
+            "4": "2 cups milk"
+        },
+        {
+            "5": "1.5 cups blackberries"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Once oven temperature is reached melt butter in a 9x13 inch baking pan."
+        },
+        {
+            "2": "In a medium bowl stir together the flour, sugar and milk; batter will be slightly lumpy. Pour mixture on top of melted butter in baking pan. Do not mix butter and mixture together."
+        },
+        {
+            "3": "Drop blackberries into batter; if more crust is desired add less blackberries. Bake in preheated oven for one hour or until golden brown."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "11 "
+        },
+        {
+            "Yield": "1 - 9x13 inch cobbler"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "337"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "60g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6c047076975e658183f6c9f157032706%2F16585119795883A1D8-0467-469D-A960-B00F688273AC.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6c047076975e658183f6c9f157032706%2F16575101431140486A-2A1D-416D-8390-DA319DE422C6.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9331176.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9140626.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

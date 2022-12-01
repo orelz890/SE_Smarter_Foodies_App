@@ -1,0 +1,105 @@
+{
+    "title": "Absolutely Ultimate Potato Soup",
+    "Category": "Potato Soup",
+    "Ingredients": [
+        {
+            "1": "1 pound bacon, chopped"
+        },
+        {
+            "2": "2 stalks celery, diced"
+        },
+        {
+            "3": "1  onion, chopped"
+        },
+        {
+            "4": "3 cloves garlic, minced"
+        },
+        {
+            "5": "8  potatoes, peeled and cubed"
+        },
+        {
+            "6": "4 cups chicken stock, or enough to cover potatoes"
+        },
+        {
+            "7": "3 tablespoons butter"
+        },
+        {
+            "8": "0.25 cup all-purpose flour"
+        },
+        {
+            "9": "1 cup heavy cream"
+        },
+        {
+            "10": "1 teaspoon dried tarragon"
+        },
+        {
+            "11": "3 teaspoons chopped fresh cilantro"
+        },
+        {
+            "12": "1 salt and freshly ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a Dutch oven and cook over medium-high heat, turning occasionally, until evenly browned, 5 to 10 minutes. Drain bacon pieces on paper towels. Drain off all but 1/4 cup of the bacon grease."
+        },
+        {
+            "2": "Cook celery and onion in the reserved bacon drippings until onion is soft and translucent, about 5 minutes. Stir in garlic, and continue cooking for 1 to 2 minutes. Add cubed potatoes, and toss to coat. Saute for 3 to 4 minutes. Return bacon to the pan, and add enough chicken stock to just cover the potatoes. Cover, and simmer until potatoes are tender, 15 to 20 minutes."
+        },
+        {
+            "3": "Meanwhile, melt butter in a separate skillet over medium heat. Whisk in flour. Cook, stirring constantly, 1 to 2 minutes. Whisk in heavy cream, tarragon, and cilantro. Bring cream mixture to a boil, and cook, stirring constantly, until thickened, about 5 minutes. Add cream mixture to the potato mixture; stir to combine."
+        },
+        {
+            "4": "Transfer about 1/2 of the soup to a blender and puree. Return to the Dutch oven. Adjust seasonings to taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "594"
+        },
+        {
+            "Fat": "42g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fca48154ff0d34a832eafa34bb53c08e5%2F1664610982684BE437100-F3A6-48D7-A165-21FEEBAB115D.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa810e6f3d26465482505a38850b73730%2F165810532420220717_181304.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa810e6f3d26465482505a38850b73730%2F1654194507IMG_20220602_132804.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa810e6f3d26465482505a38850b73730%2F1650498096993AE14E-8E72-4713-BA12-44F6A031BE2E.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/T70HMCmk_k_ZrjTL1DoL7ULSzlA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13218-Absolutely-Ultimate-Potato-Soup-Recipe-mfs-065-ae6a7e2da00d487688f0e4fed85b22d4.jpg"
+        }
+    ],
+    "main category": "soups"
+}

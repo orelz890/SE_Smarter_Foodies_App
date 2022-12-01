@@ -1,0 +1,72 @@
+{
+    "title": "Daddy's Popcorn",
+    "Category": "Popcorn",
+    "Ingredients": [
+        {
+            "1": "0.25 cup vegetable oil"
+        },
+        {
+            "2": "3 tablespoons margarine"
+        },
+        {
+            "3": "0.5 cup unpopped popcorn"
+        },
+        {
+            "4": "0.5 teaspoon seasoned salt, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Start by cutting a paper grocery sack in half. This will serve as a makeshift serving bowl and it will absorb excess oil."
+        },
+        {
+            "2": "In a 2-quart pot, combine oil, margarine and popcorn. Set over high heat, and constantly shake pan back and forth. After first kernel of corn pops, place the lid on the pot, and continue shaking. When popcorn starts to lift the lid up off the pan, remove it from the heat, and hold it over the paper bag until it stops popping."
+        },
+        {
+            "3": "Pour into the paper sack and season with half of seasoned salt. Shake the paper sack to distribute salt. Taste before adding more so you don't make it too salty. You can always add more salt."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "2 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "7 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "285"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8966632.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8371601.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7729848.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5305608.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

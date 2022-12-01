@@ -1,0 +1,87 @@
+{
+    "title": "Wake-Up Casserole",
+    "Category": "Breakfast Potatoes",
+    "Ingredients": [
+        {
+            "1": "8  frozen hash brown patties"
+        },
+        {
+            "2": "4 cups shredded Cheddar cheese"
+        },
+        {
+            "3": "1 pound cooked ham, cut into cubes"
+        },
+        {
+            "4": "7  eggs"
+        },
+        {
+            "5": "1 cup milk"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "0.5 teaspoon ground mustard"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish."
+        },
+        {
+            "2": "Arrange hash brown patties on the prepared baking dish. Sprinkle Cheddar cheese and ham over patties."
+        },
+        {
+            "3": "Beat eggs, milk, salt, and mustard in a large bowl using a whisk; pour over ham. Cover baking dish with aluminum foil."
+        },
+        {
+            "4": "Bake in the preheated oven for 1 hour. Remove foil and bake until edges are golden brown and a knife inserted in the center comes out clean, about 15 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "566"
+        },
+        {
+            "Fat": "40g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8fa8d1e1326de5df8a9d834e04ae16fd%2F1648479017Breakfast%2520cassarole.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9178928.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8582447.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8582449.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Tajin\u00ae Fruit Salad",
+    "Category": "Fruit Salads",
+    "Ingredients": [
+        {
+            "1": "2 large  oranges, peeled and segmented"
+        },
+        {
+            "2": "1  mango, diced"
+        },
+        {
+            "3": "1 cup diced fresh pineapple"
+        },
+        {
+            "4": "1 cup diced jicama"
+        },
+        {
+            "5": "1 small cucumber, sliced"
+        },
+        {
+            "6": "1  banana, sliced"
+        },
+        {
+            "7": "2  limes, juiced"
+        },
+        {
+            "8": "1 tablespoon chile-lime seasoning (such as Tajin\u00ae), or more to taste"
+        },
+        {
+            "9": "0.5 teaspoon chopped fresh mint, or to taste (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cut orange segments in half and place in a bowl. Add mango, pineapple, jicama, cucumber, and banana. Add lime juice and sprinkle with chile-lime seasoning; toss to coat. Sprinkle with mint."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "152"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7126379.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

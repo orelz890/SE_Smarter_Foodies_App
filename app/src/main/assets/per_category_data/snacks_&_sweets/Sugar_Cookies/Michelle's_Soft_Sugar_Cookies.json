@@ -1,0 +1,84 @@
+{
+    "title": "Michelle's Soft Sugar Cookies",
+    "Category": "Sugar Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup margarine"
+        },
+        {
+            "2": "0.5 cups white sugar"
+        },
+        {
+            "3": "3  eggs"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "1.5 cups all-purpose flour"
+        },
+        {
+            "6": "2 teaspoons cream of tartar"
+        },
+        {
+            "7": "1 teaspoon baking soda"
+        },
+        {
+            "8": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cream the margarine and add the sugar gradually. Beat until light and fluffy. Add eggs one at time, mixing well after each addition."
+        },
+        {
+            "2": "Stir in the vanilla. Add the flour, cream of tartar, baking soda and salt gradually to the creamed mixture, stirring in by hand. Cover and chill dough overnight."
+        },
+        {
+            "3": "Preheat oven to 375 degrees F (190 degrees C). Line baking sheets with parchment paper."
+        },
+        {
+            "4": "Roll dough out on a floured surface to 1/8 to 1/4 inch thick and cut into your favorite shapes. Place cookies onto the prepared baking sheets."
+        },
+        {
+            "5": "Bake at 375 degrees F (190 degrees C) for 6 to 8 minutes or until cookie has a golden appearance."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "60 "
+        },
+        {
+            "Yield": "3 to 5 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "77"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7472575.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F83e8a9b69b5eae809bb642e55264d1b5%2F7215646.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7120975.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6257549.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

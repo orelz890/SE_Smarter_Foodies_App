@@ -1,0 +1,69 @@
+{
+    "title": "Best Buttercream Frosting",
+    "Category": "Frosting and Icing Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup butter, softened"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "4 tablespoons all-purpose flour"
+        },
+        {
+            "4": "1 cup milk"
+        },
+        {
+            "5": "1 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In small saucepan cook flour and milk until it forms a ball, stirring constantly. Cool to room temperature."
+        },
+        {
+            "2": "With an electric mixer, beat butter and sugar until fluffy."
+        },
+        {
+            "3": "Beat both mixtures together on high speed until fluffy and smooth. Add vanilla and beat until combined. Refrigerate for about 1/2 hour, until it is of spreading consistency."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "1 -9x13-inch cake's frosting"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "147"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8711976.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8210432.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8126029.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8071798.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Hot Dog Mummies",
+    "Category": "Halloween Recipes",
+    "Ingredients": [
+        {
+            "1": "8  hot dogs"
+        },
+        {
+            "2": "1 (8 ounce) package refrigerated crescent rolls (such as Pillsbury\u00ae Grands! Big and Flaky)"
+        },
+        {
+            "3": "1 teaspoon yellow mustard, or as needed (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Place hot dogs in a saucepan and cover with water; bring to a boil. Reduce heat to medium-low and simmer until warmed through, about 5 minutes. Drain."
+        },
+        {
+            "3": "Roll crescent dough onto a work surface; tear into 8 pieces. Roll 1 piece dough around each hot dog, creating the look of a mummy. Place dots of mustard on the top of each for the eyes, nose, and mouth. Arrange hot dogs on a baking sheet."
+        },
+        {
+            "4": "Bake in the preheated oven until crescent dough is golden brown and flaky, about 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "248"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F697d296f64a05a92aff7fb280c7908d9%2F166845242938420221106_001856.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F697d296f64a05a92aff7fb280c7908d9%2F1667584535314F434BC62-992F-49F0-8852-6B8A8C2EF005.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8688525.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8651165.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/YYVcUxhaf6RPHnbtYnCiIydukyc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Hot-Dog-Mummies-2000-75741d25cb6644efba2849a4e7bcc5b6.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

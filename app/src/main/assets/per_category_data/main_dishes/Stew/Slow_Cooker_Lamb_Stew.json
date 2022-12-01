@@ -1,0 +1,96 @@
+{
+    "title": "Slow Cooker Lamb Stew",
+    "Category": "Stew",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "1 pound cubed lamb stew meat"
+        },
+        {
+            "3": "1 large onion, sliced into petals"
+        },
+        {
+            "4": "1 pound red potatoes, cut into large cubes"
+        },
+        {
+            "5": "2 large carrots, sliced"
+        },
+        {
+            "6": "2 stalks celery, sliced"
+        },
+        {
+            "7": "4  fresh button mushrooms, sliced"
+        },
+        {
+            "8": "2 cups beef broth"
+        },
+        {
+            "9": "1 (6 ounce) can tomato paste"
+        },
+        {
+            "10": "0.5 cup beer"
+        },
+        {
+            "11": "3 tablespoons Worcestershire sauce"
+        },
+        {
+            "12": "1  large sprig fresh rosemary"
+        },
+        {
+            "13": "1 salt and pepper to taste"
+        },
+        {
+            "14": "0.5 cups frozen peas"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large skillet over medium-high heat. Add lamb and onions; cook and stir until lamb is browned and onions are starting to soften, about 5 minutes. Transfer lamb mixture to a slow cooker."
+        },
+        {
+            "2": "Add potatoes, carrots, celery, and mushrooms. Stir in beef broth, tomato paste, beer, Worcestershire sauce, rosemary, salt, and pepper; cover."
+        },
+        {
+            "3": "Cook on High for 7 hours. Add peas and cook for an additional 15 minutes. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 7 hrs 25 mins"
+        },
+        {
+            "Total Time": " 7 hrs 40 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "438"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8135746.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6092687.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Aunt Rose's Cheese Ball",
+    "Category": "Cheese Balls",
+    "Ingredients": [
+        {
+            "1": "2 (8 ounce) packages cream cheese, softened"
+        },
+        {
+            "2": "0.5 cup shredded sharp Cheddar cheese"
+        },
+        {
+            "3": "3 ounces blue cheese"
+        },
+        {
+            "4": "0.5 cup butter, melted"
+        },
+        {
+            "5": "0.5 cup finely chopped black olives"
+        },
+        {
+            "6": "2 tablespoons finely chopped green onions"
+        },
+        {
+            "7": "1 teaspoon garlic salt"
+        },
+        {
+            "8": "2 dashes Worcestershire sauce"
+        },
+        {
+            "9": "1 cup chopped walnuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, mix the cream cheese, Cheddar cheese, blue cheese, butter, olives, green onions, garlic salt, and Worcestershire sauce. Cover, and refrigerate 30 minutes, until firm."
+        },
+        {
+            "2": "Form the mixture into 2 balls, and roll in the walnuts to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "239"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F50806d6164f88de152938d44249c455a%2F657870.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

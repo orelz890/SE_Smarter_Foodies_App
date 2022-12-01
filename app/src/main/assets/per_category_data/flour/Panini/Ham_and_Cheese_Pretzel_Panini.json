@@ -1,0 +1,63 @@
+{
+    "title": "Ham and Cheese Pretzel Panini",
+    "Category": "Panini",
+    "Ingredients": [
+        {
+            "1": "16 slices deli ham"
+        },
+        {
+            "2": "16 slices dill Havarti cheese"
+        },
+        {
+            "3": "16  frozen soft pretzels (such as SuperPretzel\u00ae), thawed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill to medium heat (325 to 375 degrees F (160 to 190 degrees C). Lightly oil grill grate."
+        },
+        {
+            "2": "Divide ham and cheese among 8 pretzels arranged salt-sides down on a baking sheet. Top with remaining pretzels, salt-sides up."
+        },
+        {
+            "3": "Transfer pretzel panini to grill and top with a heavy oven-safe skillet or bricks wrapped in foil to weigh them down. Close lid; grill panini until cheese is melted, 2 to 3 minutes per side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 panini"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "755"
+        },
+        {
+            "Fat": "36g"
+        },
+        {
+            "Carbs": "76g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7072076.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

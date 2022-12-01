@@ -1,0 +1,114 @@
+{
+    "title": "Hotteok",
+    "Category": "Flat Bread",
+    "Ingredients": [
+        {
+            "1": "1.0 cups all-purpose flour"
+        },
+        {
+            "2": "1 tablespoon instant dry yeast"
+        },
+        {
+            "3": "2 teaspoons white sugar"
+        },
+        {
+            "4": "1 cup milk"
+        },
+        {
+            "5": "0.25 cup water"
+        },
+        {
+            "6": "0.75 teaspoon salt"
+        },
+        {
+            "7": "0.75 cup packed brown sugar"
+        },
+        {
+            "8": "0.25 cup white sugar"
+        },
+        {
+            "9": "0.25 cup finely chopped walnuts"
+        },
+        {
+            "10": "0.25 cup black sesame seeds, ground"
+        },
+        {
+            "11": "2 teaspoons ground cinnamon"
+        },
+        {
+            "12": "2 tablespoons margarine, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine flour, yeast, and 2 teaspoons white sugar together in a bowl."
+        },
+        {
+            "2": "Stir milk and water together in a microwave-safe bowl and heat until lukewarm, about 20 seconds. Pour milk mixture into the flour mixture and mix with a fork until dough is evenly combined."
+        },
+        {
+            "3": "Turn dough onto a lightly floured surface and knead for 2 minutes. (Dough will be sticky.) Add salt to the dough and knead until dough is smooth, 2 minutes more. Shape dough into a ball, place on a floured surface, cover with a wet paper towel, and let rise for 10 minutes."
+        },
+        {
+            "4": "Mix brown sugar, 1/4 cup white sugar, walnuts, sesame seeds, and cinnamon together in a resealable plastic bag. Close bag and shake until filling is evenly combined."
+        },
+        {
+            "5": "Roll dough into a cylinder, cut into 10 pieces and form each into a ball. Roll each ball into a 5-inch circle using a rolling pin. Place dough into the palm of your hand and spoon 2 tablespoons filling into the middle of the dough. Wrap dough around filling, forming into a ball by taking 4 corners of dough, pinching together in the middle. Take another 4 corners and pinch together, sealing completely. Place balls, seam-side down, onto a floured surface."
+        },
+        {
+            "6": "Roll each ball into a 5-inch circle using a rolling pin, making sure filling stays in dough."
+        },
+        {
+            "7": "Place margarine in a skillet, spreading around with a paper towel; heat over medium heat. Place dough in the melted margarine and cook until golden brown, 5 to 10 minutes per side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 hotteok"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "271"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8ce98435101de29fa021f40db75403cd%2F16513394111651339387708850572768173343.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8693868.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8240060.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5061913.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Breakfast Pasta for Dinner",
+    "Category": "Pasta Carbonara",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package spaghetti"
+        },
+        {
+            "2": "4 slices bacon"
+        },
+        {
+            "3": "0.25 cup sliced green onion"
+        },
+        {
+            "4": "2 teaspoons minced garlic, or more to taste"
+        },
+        {
+            "5": "4 large eggs, beaten"
+        },
+        {
+            "6": "1 salt and ground black pepper to taste"
+        },
+        {
+            "7": "0.5 cup grated Parmesan cheese"
+        },
+        {
+            "8": "1 teaspoon garlic powder"
+        },
+        {
+            "9": "1 teaspoon onion powder"
+        },
+        {
+            "10": "0.5 cup diced fresh tomato"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, for 8 minutes. Pasta should still be firm. Drain."
+        },
+        {
+            "2": "At the same time, place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels and crumble when cool enough to handle. Reserve bacon drippings in the skillet."
+        },
+        {
+            "3": "Return crumbled bacon to the skillet with green onion and garlic; cook in the drippings over medium heat until onion starts to soften, about 5 minutes. Add drained spaghetti and mix well."
+        },
+        {
+            "4": "Slowly add beaten eggs and scramble with the spaghetti mixture for 1 to 2 minutes. Season with salt and pepper. Add Parmesan cheese, garlic powder, and onion powder; continue to scramble until all ingredients are combined. Stir in diced tomatoes and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "383"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9230605.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7912844.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Bourbon Brown Butter Blondies",
+    "Category": "Blondies",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter"
+        },
+        {
+            "2": "1 cup light brown sugar, packed"
+        },
+        {
+            "3": "2 tablespoons bourbon whiskey"
+        },
+        {
+            "4": "1 large egg"
+        },
+        {
+            "5": "1 teaspoon vanilla extract"
+        },
+        {
+            "6": "1 cup all-purpose flour"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Line an 8-inch square baking dish with parchment paper."
+        },
+        {
+            "2": "Melt butter in a saucepan over medium heat. Cook, stirring regularly, until butter turns brown and smells nutty, about 5 minutes, making sure it doesn't burn. Pour brown butter into a large bowl and allow to cool slightly."
+        },
+        {
+            "3": "Stir brown sugar into browned butter and add bourbon. Mix in egg and vanilla extract until combined. Add flour and salt; stir until well combined. Pour into the prepared baking dish."
+        },
+        {
+            "4": "Bake in the preheated oven until top is dry and edges have started to pull away from the sides of the pan, 20 to 25 minutes. Remove from oven and cool on wire rack. Let cool completely before slicing."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 blondies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "142"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7633259.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6983958.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

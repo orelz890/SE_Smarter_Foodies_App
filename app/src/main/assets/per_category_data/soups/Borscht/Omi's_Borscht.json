@@ -1,0 +1,96 @@
+{
+    "title": "Omi's Borscht",
+    "Category": "Borscht",
+    "Ingredients": [
+        {
+            "1": "6  beets, peeled"
+        },
+        {
+            "2": "6  potatoes, peeled and diced"
+        },
+        {
+            "3": "2  carrots, peeled and diced"
+        },
+        {
+            "4": "1  parsley root with greens, peeled and diced, greens finely chopped"
+        },
+        {
+            "5": "2  celery ribs, chopped"
+        },
+        {
+            "6": "3 tablespoons white vinegar"
+        },
+        {
+            "7": "1 salt and ground black pepper to taste"
+        },
+        {
+            "8": "0.25 cup butter"
+        },
+        {
+            "9": "0.5 cup all-purpose flour"
+        },
+        {
+            "10": "1 teaspoon vegetable bouillon (such as Better Than Bouillon\u00ae) (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place beets, potatoes, carrots, parsley root (greens reserved), celery, and vinegar in a large pot; season with salt and pepper. Pour enough water to cover vegetables into the pot; bring to a boil. Reduce heat to low; simmer until vegetables are tender, about 45 minutes."
+        },
+        {
+            "2": "Remove beets with a slotted spoon; set aside to cool slightly, about 10 minutes. Grate beets when they are cool enough to handle."
+        },
+        {
+            "3": "Melt butter in a small saucepan, whisk in flour, and cook and stir until mixture is a light tan color, about 10 minutes; stir mixture into soup. Stir in grated beets and parsley root greens; bring to a simmer and cook until heated through, about 5 minutes. Season soup with vegetable bouillon, salt, and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "12 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "248"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8934040.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8687979.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8566842.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6739917.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

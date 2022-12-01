@@ -1,0 +1,81 @@
+{
+    "title": "Tuna, Noodles, Pickles and Cheese",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "8 ounces uncooked elbow macaroni"
+        },
+        {
+            "2": "2  dill pickles, chopped"
+        },
+        {
+            "3": "6 ounces Colby-Jack cheese, cubed"
+        },
+        {
+            "4": "1 (5 ounce) can albacore tuna in water, drained and flaked"
+        },
+        {
+            "5": "0.5 cup light mayonnaise"
+        },
+        {
+            "6": "0.5 teaspoon prepared yellow mustard"
+        },
+        {
+            "7": "1 teaspoon dill pickle juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a saucepan of lightly salted water to a boil. Add the macaroni, and cook until tender, about 7 minutes. Rinse under cold running water, then drain well and pat lightly with paper towels."
+        },
+        {
+            "2": "In a large bowl, stir together the macaroni, pickles, cheese, tuna, mayonnaise and mustard. Season with a splash of pickle juice, salt and pepper. Cover, and refrigerate for at least 30 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "491"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "55g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8408726.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4546651.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2835856.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F995767.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

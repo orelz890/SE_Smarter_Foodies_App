@@ -1,0 +1,66 @@
+{
+    "title": "All Natural Strawberry Lemonade",
+    "Category": "4th of July Recipes",
+    "Ingredients": [
+        {
+            "1": "8 large strawberries, halved"
+        },
+        {
+            "2": "2 tablespoons white sugar"
+        },
+        {
+            "3": "7 cups water, divided"
+        },
+        {
+            "4": "2 cups freshly squeezed lemon juice"
+        },
+        {
+            "5": "1 cup white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place strawberries in a blender; top with 2 tablespoons sugar. Pour 1 cup water over sugared strawberries; blend until completely smooth."
+        },
+        {
+            "2": "Transfer strawberry juice into a large pitcher; stir in remaining 6 cups water, lemon juice, and 1 cup sugar until well blended. Chill before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "87"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fed662e20017c196be1737ea38f43c0ad%2F1652571316D62D0597-534B-4112-B60B-48F8F2240D86.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9209791.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9194742.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8301501.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

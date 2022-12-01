@@ -1,0 +1,72 @@
+{
+    "title": "Buttercream Icing",
+    "Category": "Frosting and Icing Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter, softened"
+        },
+        {
+            "2": "0.5 cup shortening"
+        },
+        {
+            "3": "1 teaspoon vanilla extract"
+        },
+        {
+            "4": "4 cups confectioners' sugar"
+        },
+        {
+            "5": "2 tablespoons milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, cream together the butter, shortening, and vanilla. Blend in confectioners' sugar, 1 cup at a time, beating well after each addition. Beat in the milk, and continue mixing until light and fluffy. Keep icing covered until ready to decorate."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "2 1/2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "181"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8793331.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8473873.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8290932.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8281778.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/nbs6kIJjzyKYXWt890H0bu_9q_I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/794610-buttercream-icing-Lori-1x1-1-7fd50ee811994b62a41f2b5759bd8efe.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

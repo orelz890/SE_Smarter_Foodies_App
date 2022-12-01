@@ -1,0 +1,84 @@
+{
+    "title": "Sausage Cheese Grits",
+    "Category": "Polenta",
+    "Ingredients": [
+        {
+            "1": "1 pound bulk spicy pork sausage"
+        },
+        {
+            "2": "4 cups water"
+        },
+        {
+            "3": "1 cup quick-cooking grits"
+        },
+        {
+            "4": "4 ounces shredded Gouda cheese"
+        },
+        {
+            "5": "3 tablespoons butter"
+        },
+        {
+            "6": "0.25 teaspoon hot pepper sauce"
+        },
+        {
+            "7": "3  eggs, beaten"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Cook sausage in a large skillet over medium-high heat, stirring until sausage is crumbly and lightly browned. Drain off grease and place sausage in a bowl. Meanwhile, bring water to a boil in a large saucepan over high heat. Stir in grits, and reduce heat to medium-low. Cook and stir constantly for 5 minutes until grits are tender, or follow package directions."
+        },
+        {
+            "3": "Stir together sausage, cheese, butter, hot pepper sauce, and eggs. Fold in grits until combined, then spread into an ungreased, small casserole dish. Bake in the preheated oven until golden brown on top, 30 to 40 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "6 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "314"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8855375.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3804368.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3911134.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3363892.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

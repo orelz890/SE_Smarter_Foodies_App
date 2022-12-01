@@ -1,0 +1,81 @@
+{
+    "title": "Hot Chicken Salad I",
+    "Category": "Chicken Salad",
+    "Ingredients": [
+        {
+            "1": "4 cups diced, cooked chicken meat"
+        },
+        {
+            "2": "2 cups chopped celery"
+        },
+        {
+            "3": "4 tablespoons lemon juice"
+        },
+        {
+            "4": "2 tablespoons chopped onion"
+        },
+        {
+            "5": "1 cup almonds"
+        },
+        {
+            "6": "1 cup mayonnaise"
+        },
+        {
+            "7": "1 cup sour cream"
+        },
+        {
+            "8": "1 cup shredded American cheese"
+        },
+        {
+            "9": "2 cups crushed cornflakes cereal"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 325 degrees F ( 165 degrees )."
+        },
+        {
+            "2": "Mix together chicken, celery, lemon juice, chopped onion, toasted almonds, mayonnaise, sour cream, and grated cheese and place mixture in a lightly greased 9x13 inch baking dish. Top with crushed corn flakes."
+        },
+        {
+            "3": "Bake in preheated oven for 45 minutes to 1 hour, until heated through."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "7 "
+        },
+        {
+            "Yield": "6 to 8 - servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "636"
+        },
+        {
+            "Fat": "51g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F773208.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,65 @@
+{
+    "title": "Parker's Famous Margaritas",
+    "Category": "Margaritas",
+    "Ingredients": [
+        {
+            "1": "5 fluid ounces tequila"
+        },
+        {
+            "2": "3 fluid ounces fresh lime juice"
+        },
+        {
+            "3": "1 fluid ounce sweetened lime juice"
+        },
+        {
+            "4": "3 fluid ounces triple sec (orange-flavored liqueur)"
+        },
+        {
+            "5": "1 ice cubes"
+        },
+        {
+            "6": "1  lime, cut into wedges"
+        },
+        {
+            "7": "1 rimming salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Measure the tequila, lime juice, sweetened lime juice and triple sec into a cocktail shaker and add a generous scoop of ice. Cover and shake until the shaker is frosty, about 30 seconds."
+        },
+        {
+            "2": "Rub a lime wedge around the rim of a margarita glass and dip in salt. Fill each glass with ice. Strain equal amounts of the cocktail into the glasses to serve. Garnish with a lime wedge."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "12 fluid ounces"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8089183.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5378407.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3671221.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F58c8a2f0adc34f624531f6dc179ef4d0%2F2248998.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

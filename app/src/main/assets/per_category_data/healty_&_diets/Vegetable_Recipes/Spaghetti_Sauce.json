@@ -1,0 +1,81 @@
+{
+    "title": "Spaghetti Sauce",
+    "Category": "Vegetable Recipes",
+    "Ingredients": [
+        {
+            "1": "2 teaspoons olive oil"
+        },
+        {
+            "2": "0.5 small onion, chopped"
+        },
+        {
+            "3": "2  green onions, chopped"
+        },
+        {
+            "4": "2 teaspoons crushed garlic"
+        },
+        {
+            "5": "1 (28 ounce) can peeled and diced tomatoes"
+        },
+        {
+            "6": "4 teaspoons dried basil"
+        },
+        {
+            "7": "4 teaspoons dried oregano"
+        },
+        {
+            "8": "1 teaspoon white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large saucepan over medium heat. Add onion, green onion, and garlic; cook until onions are translucent, 3 to 4 minutes. Stir in tomatoes, basil, oregano, and sugar. Bring to a boil, reduce heat to low, and simmer for 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "82"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F545e1d0a732fcc3cd433d179b683ad27%2F1661270837IMG_1250.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F545e1d0a732fcc3cd433d179b683ad27%2F1661044409image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9231685.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9205888.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/5wMs5Fw_vEKe8wVCbIAEE0JwdN8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1044864-spaghetti-sauce-Rock_lobster-1x1-1-5261b79dd6fc4860a94fa20ad613174a.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

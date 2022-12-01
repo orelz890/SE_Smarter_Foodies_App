@@ -1,0 +1,78 @@
+{
+    "title": "Feta Cheese Ball",
+    "Category": "Cheese Balls",
+    "Ingredients": [
+        {
+            "1": "2 (8 ounce) packages cream cheese, softened"
+        },
+        {
+            "2": "4 ounces feta cheese, crumbled"
+        },
+        {
+            "3": "4 tablespoons olive oil"
+        },
+        {
+            "4": "5  green onions, finely chopped"
+        },
+        {
+            "5": "3 cloves garlic, minced"
+        },
+        {
+            "6": "4 teaspoons dried dill weed"
+        },
+        {
+            "7": "2 teaspoons dried oregano"
+        },
+        {
+            "8": "1 teaspoon cracked black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, combine cream cheese, feta cheese, olive oil, green onions and garlic. Season with dill, oregano and pepper. Mix well, and form into 2 balls. Cover, and chill for 2 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 10 mins"
+        },
+        {
+            "Servings": "32 "
+        },
+        {
+            "Yield": "2 cheese balls"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "75"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7369051.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F291472.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F56797.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

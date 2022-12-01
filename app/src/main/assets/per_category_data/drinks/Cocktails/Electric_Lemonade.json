@@ -1,0 +1,59 @@
+{
+    "title": "Electric Lemonade",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "1 ice cubes"
+        },
+        {
+            "2": "2 fluid ounces sour mix"
+        },
+        {
+            "3": "1 (1.5 fluid ounce) jigger citron vodka"
+        },
+        {
+            "4": "0.5 fluid ounce Blue Curacao"
+        },
+        {
+            "5": "1 (12 fluid ounce) can or bottle lemon-lime flavored carbonated beverage"
+        },
+        {
+            "6": "1  lemon - cut into wedges, for garnish"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a Collins glass with ice. Pour sour mix, vodka, and blue curacao over ice."
+        },
+        {
+            "2": "Fill to the top with lemon-lime soda. Garnish with lemon wedge; serve with a straw."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2467331.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1193817.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F4310b1a7bb206d57e5e3d3e5be57cccf%2F1082117.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F776737.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

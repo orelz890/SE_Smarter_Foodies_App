@@ -1,0 +1,87 @@
+{
+    "title": "Delicious and Easy Prime Rib",
+    "Category": "Prime Rib",
+    "Ingredients": [
+        {
+            "1": "1 (7 pound) bone-in prime rib, trimmed and retied to the bone"
+        },
+        {
+            "2": "8 cloves garlic"
+        },
+        {
+            "3": "2 tablespoons olive oil"
+        },
+        {
+            "4": "2 teaspoons kosher salt"
+        },
+        {
+            "5": "2 teaspoons freshly ground black pepper"
+        },
+        {
+            "6": "1 ounce fresh rosemary, or to taste"
+        },
+        {
+            "7": "1 ounce fresh thyme, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Slice several slits into the top of prime rib; push garlic cloves into slits. Coat prime rib with olive oil and season with salt and pepper. Arrange rosemary sprigs and thyme sprigs atop prime rib and place in a roasting pan."
+        },
+        {
+            "3": "Bake in the preheated oven until browned on the outside and pink in the center, 3 1/2 to 4 hours. An instant-read thermometer inserted into the center should read at least 125 degrees F (52 degrees C). Allow prime rib to rest 15 minutes before slicing."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 3 hrs 30 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": " 4 hrs"
+        },
+        {
+            "Servings": "14 "
+        },
+        {
+            "Yield": "14 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "447"
+        },
+        {
+            "Fat": "39g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb8b72360790cf971dd5ee45ddb45de26%2F1663503128My%2520prime%2520rib.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3024540.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1898186.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1898173.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

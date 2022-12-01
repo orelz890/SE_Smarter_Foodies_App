@@ -1,0 +1,105 @@
+{
+    "title": "Greek Lamb Stew",
+    "Category": "Lamb Recipes",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil"
+        },
+        {
+            "2": "1 pound lamb shoulder blade chops"
+        },
+        {
+            "3": "1 salt and pepper to taste"
+        },
+        {
+            "4": "1 large onion, chopped"
+        },
+        {
+            "5": "3 cloves garlic, minced"
+        },
+        {
+            "6": "0.5 cup dry red wine"
+        },
+        {
+            "7": "2 cups chopped tomatoes"
+        },
+        {
+            "8": "1 (15 ounce) can tomato sauce"
+        },
+        {
+            "9": "1 cup lamb stock"
+        },
+        {
+            "10": "0.5  lemon, zested and juiced"
+        },
+        {
+            "11": "0.5 teaspoon dried oregano"
+        },
+        {
+            "12": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "13": "1  bay leaf"
+        },
+        {
+            "14": "1 pound fresh green beans, trimmed"
+        },
+        {
+            "15": "0.25 cup chopped fresh parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat the olive oil in a large, heavy bottomed pot over medium-high heat. Season the lamb with salt and pepper, add to the pot, and cook until deeply browned, about 5 minutes on each side. Stir in the onions and garlic, and cook until lightly browned, about 2 minutes."
+        },
+        {
+            "2": "Pour the wine into the pot, and bring to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon. Stir in the tomatoes, tomato sauce, lamb stock, lemon zest and juice, oregano, cinnamon, and bay leaf. Bring back to a boil over high heat, then reduce the heat to medium-low, cover, and simmer until the lamb is very tender, about 1 1/2 hours. Stir in the green beans and cook until they are tender, about 20 additional minutes."
+        },
+        {
+            "3": "Remove the bay leaf and any bones from the stew. Garnish stew with chopped fresh parsley."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 2 hrs 20 mins"
+        },
+        {
+            "Total Time": " 2 hrs 35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "365"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa798e66d79f9f14277181c5cb3ff6b9a%2F4551863.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F77d383b12920e991586bedfcb37e1cf9%2F4551861.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F783353.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

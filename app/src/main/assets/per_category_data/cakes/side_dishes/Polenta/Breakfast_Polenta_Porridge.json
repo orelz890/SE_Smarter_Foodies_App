@@ -1,0 +1,78 @@
+{
+    "title": "Breakfast Polenta Porridge",
+    "Category": "Polenta",
+    "Ingredients": [
+        {
+            "1": "2 cups water"
+        },
+        {
+            "2": "2 cups almond milk"
+        },
+        {
+            "3": "0.75 cup dry polenta"
+        },
+        {
+            "4": "0.25 cup almond meal"
+        },
+        {
+            "5": "1 tablespoon brown sugar"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "1 cup mixed berries, sliced"
+        },
+        {
+            "8": "2 pinches ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring water and almond milk to a boil in a medium saucepan. Add polenta and almond meal in a steady stream, whisking constantly to prevent lumps. Reduce heat to low and stir porridge frequently until thick, about 15 minutes. Stir in brown sugar and vanilla extract."
+        },
+        {
+            "2": "Ladle porridge into bowls and top with berries and a dash of cinnamon."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "465"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "72g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8b24d08b460b0911d19288e53f936964%2F166596446691316659644743132150928920158524961.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F644020.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Aunt Kathy's Irish Soda Bread",
+    "Category": "Irish Soda Bread",
+    "Ingredients": [
+        {
+            "1": "4 cups all-purpose flour"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "1 cup raisins"
+        },
+        {
+            "4": "2 tablespoons caraway seeds"
+        },
+        {
+            "5": "1 tablespoon baking powder"
+        },
+        {
+            "6": "0.5 teaspoon baking soda"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "2  eggs, beaten"
+        },
+        {
+            "9": "1 cup buttermilk"
+        },
+        {
+            "10": "0.75 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C). Grease and flour a heavy pan."
+        },
+        {
+            "2": "Mix flour, sugar, raisins, caraway seeds, baking powder, baking soda, and salt in a large bowl. Add eggs, buttermilk, and milk to the flour mixture; stir until evenly incorporated. Transfer dough to the prepared pan."
+        },
+        {
+            "3": "Bake in preheated oven until when the bread is tapped on top it sounds hollow, about 75 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "346"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "74g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1536237.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Individual Baked Frittatas",
+    "Category": "Omelets",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "0.5 pound bacon"
+        },
+        {
+            "3": "1 cup chopped broccoli"
+        },
+        {
+            "4": "0.5 tablespoons water"
+        },
+        {
+            "5": "10  eggs"
+        },
+        {
+            "6": "1 salt and ground black pepper to taste"
+        },
+        {
+            "7": "1 cup shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C). Coat a 12-cup muffin tin with cooking spray."
+        },
+        {
+            "2": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels. Crumble when cool enough to handle."
+        },
+        {
+            "3": "Meanwhile, place broccoli and water in a microwave-safe bowl. Cover and cook on high until tender, 1 1/2 to 2 minutes. Carefully remove cover and drain any liquid."
+        },
+        {
+            "4": "Crack eggs into a bowl and beat with a whisk. Season with salt and pepper."
+        },
+        {
+            "5": "Layer bacon and broccoli into each muffin cup, filling about 1/3 full. Pour egg mixture into each cup, leaving a bit of space at the top. Sprinkle with Cheddar cheese."
+        },
+        {
+            "6": "Bake in the preheated oven until a toothpick inserted at the center comes out clean or nearly clean, 15 to 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 mini frittatas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "127"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8182625.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

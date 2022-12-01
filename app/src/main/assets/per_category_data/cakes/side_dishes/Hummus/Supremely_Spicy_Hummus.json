@@ -1,0 +1,87 @@
+{
+    "title": "Supremely Spicy Hummus",
+    "Category": "Hummus",
+    "Ingredients": [
+        {
+            "1": "0.25 cup tahini"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "1 tablespoon lemon juice"
+        },
+        {
+            "4": "1 tablespoon minced garlic"
+        },
+        {
+            "5": "1 teaspoon cayenne pepper"
+        },
+        {
+            "6": "0.5 teaspoon ground cumin"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "0.25 teaspoon sesame oil"
+        },
+        {
+            "9": "5 dashes hot pepper sauce (such as Cholula\u00ae)"
+        },
+        {
+            "10": "1 (15 ounce) can garbanzo beans, drained and rinsed"
+        },
+        {
+            "11": "2 tablespoons cold water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine tahini, olive oil, lemon juice, garlic, cayenne pepper, cumin, salt, sesame oil, and hot sauce in a food processor or blender; blend until very smooth, about 3 minutes. Add garbanzo beans and blend for 2 minutes. Add water and blend for 3 minutes more. Chill in refrigerator."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "120"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8309495.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fab6b0bd00422acd2144df4e39ef8f769%2F6382016.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5874632.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F318790952d9c94b51d01f396021c79f0%2F4502930.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

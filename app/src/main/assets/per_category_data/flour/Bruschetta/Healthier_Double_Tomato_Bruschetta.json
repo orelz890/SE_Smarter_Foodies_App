@@ -1,0 +1,96 @@
+{
+    "title": "Healthier Double Tomato Bruschetta",
+    "Category": "Bruschetta",
+    "Ingredients": [
+        {
+            "1": "1 loaf whole grain artisan bread, cut into 3/4-inch slices"
+        },
+        {
+            "2": "6  roma (plum) tomatoes, chopped"
+        },
+        {
+            "3": "0.5 cup ready-to-eat sun-dried tomatoes, chopped"
+        },
+        {
+            "4": "3 cloves minced garlic"
+        },
+        {
+            "5": "2 tablespoons olive oil"
+        },
+        {
+            "6": "1 tablespoon balsamic vinegar"
+        },
+        {
+            "7": "0.25 cup fresh basil, stems removed and leaves chopped"
+        },
+        {
+            "8": "0.25 teaspoon salt"
+        },
+        {
+            "9": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "10": "1 cup shredded part-skim mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven on broiler setting. Arrange the artisan bread slices in a single layer on a baking sheet."
+        },
+        {
+            "2": "Combine the roma tomatoes, sun-dried tomatoes, garlic, olive oil, vinegar, basil, salt, and pepper in a large bowl. Allow the mixture to sit for 10 minutes."
+        },
+        {
+            "3": "Broil the bread until slightly brown, about 1 to 2 minutes."
+        },
+        {
+            "4": "Divide the tomato mixture evenly over the bread slices. Top the slices with mozzarella cheese."
+        },
+        {
+            "5": "Return the baking sheet to the oven and broil until the cheese is melted, about 1 to 2 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "158"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc2bfd23fa393eed59e316346e1a95b2d%2F947410.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbe9d7064d277c63e41ea539e1efc786b%2F947411.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F67b0651ff26361558330dc084811b9ae%2F837584.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

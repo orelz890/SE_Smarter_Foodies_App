@@ -1,0 +1,93 @@
+{
+    "title": "Chicken Tostadas",
+    "Category": "Tostadas",
+    "Ingredients": [
+        {
+            "1": "2  skinless, boneless chicken breasts, diced"
+        },
+        {
+            "2": "0.5 (1 ounce) package taco seasoning mix"
+        },
+        {
+            "3": "1 (16 ounce) can refried beans"
+        },
+        {
+            "4": "6  corn tostada shells"
+        },
+        {
+            "5": "1 cup shredded Mexican cheese blend"
+        },
+        {
+            "6": "1  tomato, diced"
+        },
+        {
+            "7": "0.75  red onion, diced"
+        },
+        {
+            "8": "0.75  green bell pepper, diced"
+        },
+        {
+            "9": "0.5 cup chopped fresh cilantro"
+        },
+        {
+            "10": "0.25 cup salsa, or to taste (Optional)"
+        },
+        {
+            "11": "0.25 cup sour cream, or to taste (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Place chicken into a frying pan over medium heat. Sprinkle with taco seasoning and cook until no longer pink in the center and juices run clear, 5 to 7 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        },
+        {
+            "3": "Spread a thin layer of refried beans onto each tostada shell; sprinkle each with Mexican cheese. Divide cooked chicken on top of cheese layer. Sprinkle tomato, red onion, and bell pepper evenly on top of each tostada. Place tostadas on a baking sheet."
+        },
+        {
+            "4": "Bake in the preheated oven until crispy, 10 to 15 minutes."
+        },
+        {
+            "5": "Remove tostadas from the oven. Sprinkle with cilantro and spread salsa and sour cream on top."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 tostadas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "312"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6399f31054f10ace7b2711bc5fbf0ad2%2F6695607.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

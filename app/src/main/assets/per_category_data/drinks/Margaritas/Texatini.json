@@ -1,0 +1,62 @@
+{
+    "title": "Texatini",
+    "Category": "Margaritas",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon coarse salt"
+        },
+        {
+            "2": "1 (1.5 fluid ounce) jigger tequila"
+        },
+        {
+            "3": "1 (1.5 fluid ounce) jigger orange liqueur (Cointreau, Triple Sec or Grand Marnier)"
+        },
+        {
+            "4": "0.5 cup sweet and sour mix"
+        },
+        {
+            "5": "1 fluid ounce orange juice"
+        },
+        {
+            "6": "1 cup crushed ice"
+        },
+        {
+            "7": "1  jalapeno-stuffed green olive"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Slightly moisten rim of a large martini glass, and dip in course salt to rim the glass."
+        },
+        {
+            "2": "Combine tequila, orange liqueur, sweet and sour mix, orange juice, and ice in a shaker. Shake vigorously, and strain into martini glass. Garnish with jalapeno-stuffed green olives."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 serving"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3d03b0d4f30ef9236add87115bea86f8%2F6332578.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3874158.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb360066d585fa89136b362a021d27e80%2F683825.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

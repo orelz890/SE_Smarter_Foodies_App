@@ -1,0 +1,96 @@
+{
+    "title": "Sushi Bake",
+    "Category": "Hawaiian",
+    "Ingredients": [
+        {
+            "1": "1 ounce dried shiitake mushrooms"
+        },
+        {
+            "2": "1 cooking spray"
+        },
+        {
+            "3": "4 cups cooked short-grain rice"
+        },
+        {
+            "4": "6 tablespoons aji nori furikake (seasoned seaweed and sesame rice topping)"
+        },
+        {
+            "5": "1 (8 ounce) package imitation crabmeat, shredded"
+        },
+        {
+            "6": "0.5 cup mayonnaise"
+        },
+        {
+            "7": "0.5 cup sour cream"
+        },
+        {
+            "8": "1 ounce tobiko (flying fish roe) (Optional)"
+        },
+        {
+            "9": "1  kamaboko (Japanese fish cake), sliced into matchsticks"
+        },
+        {
+            "10": "12 (2 ounce) packages seasoned Korean seaweed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler."
+        },
+        {
+            "2": "Soak shiitake mushrooms in hot water until soft, 5 to 10 minutes."
+        },
+        {
+            "3": "Meanwhile, lightly grease a 9x13-inch baking pan or glass baking dish. Spread rice in the prepared pan; sprinkle furikake evenly over the top."
+        },
+        {
+            "4": "Drain mushrooms and squeeze out excess water. Mix mushrooms, imitation crabmeat, mayonnaise, sour cream, tobiko, and kamaboko in a large bowl. Spread over the furikake."
+        },
+        {
+            "5": "Broil in the preheated oven until the top is lightly browned, about 15 minutes. Slice into 24 portions and serve in the pan. Spoon a generous mound onto a sheet of seaweed, wrap loosely, and consume immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 portions"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "131"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8982248.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2290405.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

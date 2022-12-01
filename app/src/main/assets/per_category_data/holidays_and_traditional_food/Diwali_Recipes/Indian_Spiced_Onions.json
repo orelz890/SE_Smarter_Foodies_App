@@ -1,0 +1,72 @@
+{
+    "title": "Indian Spiced Onions",
+    "Category": "Diwali Recipes",
+    "Ingredients": [
+        {
+            "1": "1  onion, chopped"
+        },
+        {
+            "2": "2 teaspoons ketchup"
+        },
+        {
+            "3": "1 teaspoon lemon juice"
+        },
+        {
+            "4": "1 tablespoon white sugar"
+        },
+        {
+            "5": "1 teaspoon chopped fresh cilantro"
+        },
+        {
+            "6": "1 teaspoon chopped fresh fenugreek leaves"
+        },
+        {
+            "7": "1 teaspoon chili powder"
+        },
+        {
+            "8": "1 pinch salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir together onion and ketchup in a medium bowl until onion is thinly and evenly coated. Mix in lemon juice. Stir in sugar, cilantro, fenugreek, chili powder, and salt until well combined. Cover and chill in the refrigerator for 24 hours to let the lemon juice neutralize the onion flavor slightly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Additional Time": "1 day"
+        },
+        {
+            "Total Time": "1 day 5 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "28"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8924945.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4560037.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

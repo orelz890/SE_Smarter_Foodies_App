@@ -1,0 +1,72 @@
+{
+    "title": "Chicken and Rice Casserole I",
+    "Category": "Rice Casserole",
+    "Ingredients": [
+        {
+            "1": "1 cup uncooked white rice"
+        },
+        {
+            "2": "1 (1 ounce) package dry onion soup mix"
+        },
+        {
+            "3": "2 (10.75 ounce) cans  condensed cream of mushroom soup"
+        },
+        {
+            "4": "1 (4.5 ounce) can sliced mushrooms"
+        },
+        {
+            "5": "1 cup milk"
+        },
+        {
+            "6": "6  skinless, boneless chicken breast halves"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "In a large bowl mix the rice, dry onion soup mix, cream of mushroom soup, mushroom pieces and milk."
+        },
+        {
+            "3": "Place the chicken pieces in a 9x13 inch baking dish and pour the mushroom mixture over the chicken. Cover and bake in the preheated oven for 1 hour. Uncover and bake for 15 more minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "367"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "33g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5231910.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4071835.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3808617.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2191199.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

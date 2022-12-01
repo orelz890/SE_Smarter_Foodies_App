@@ -1,0 +1,66 @@
+{
+    "title": "Citrus Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "1 cup white sugar, or to taste"
+        },
+        {
+            "2": "4  lemons, juiced"
+        },
+        {
+            "3": "4  limes, juiced"
+        },
+        {
+            "4": "4  oranges, juiced"
+        },
+        {
+            "5": "3 quarts cold water"
+        },
+        {
+            "6": "1  lime, sliced into rounds"
+        },
+        {
+            "7": "12 cups ice cubes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour the sugar, lemon juice, lime juice, and orange juice into a gallon-sized container; stir until the sugar has dissolved. Serve over ice with a slice of lime if desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "107"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F113958.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

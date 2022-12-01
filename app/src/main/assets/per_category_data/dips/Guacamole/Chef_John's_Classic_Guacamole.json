@@ -1,0 +1,81 @@
+{
+    "title": "Chef John's Classic Guacamole",
+    "Category": "Guacamole",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons minced fresh serrano chili"
+        },
+        {
+            "2": "0.5 cup chopped fresh cilantro, divided"
+        },
+        {
+            "3": "0.25 cup finely diced white onion"
+        },
+        {
+            "4": "0.5 teaspoon kosher salt for grinding vegetables, plus more to taste"
+        },
+        {
+            "5": "4 large Hass avocados"
+        },
+        {
+            "6": "1 cup diced ripe tomatoes, drained (Optional)"
+        },
+        {
+            "7": "1  lime, juiced, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place minced peppers, 1/4 cup of the chopped cilantro, and the diced onions on a cutting board. Chop them together into very small pieces. Sprinkle with kosher salt. Using the flat side of the knife blade, smear the mixture to work it into a paste, and chop again to achieve as fine a texture as possible."
+        },
+        {
+            "2": "Stem, halve, and pit the avocados. Scoop out flesh and place in a bowl. Add 1/4 cup chopped cilantro, onion and serrano mixture, salt, and fresh lime juice. Mash with a potato masher to desired texture (smooth or chunky), 5 or 6 minutes. Taste and adjust seasonings. If not serving immediately, cover and refrigerate."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "158"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7798175.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6606243.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5399529.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5354648.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/hqesNg8OBqva4D3a8agR8LNQgl8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3983181-chef-johns-classic-guacamole-Chef-John-1x1-1-2b5424932ed442f89c20b8b60ef75821.jpg"
+        }
+    ],
+    "main category": "dips"
+}

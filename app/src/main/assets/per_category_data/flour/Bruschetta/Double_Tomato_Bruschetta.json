@@ -1,0 +1,105 @@
+{
+    "title": "Double Tomato Bruschetta",
+    "Category": "Bruschetta",
+    "Ingredients": [
+        {
+            "1": "6  roma (plum) tomatoes, chopped"
+        },
+        {
+            "2": "0.5 cup sun-dried tomatoes, packed in oil"
+        },
+        {
+            "3": "3 cloves minced garlic"
+        },
+        {
+            "4": "0.25 cup olive oil"
+        },
+        {
+            "5": "2 tablespoons balsamic vinegar"
+        },
+        {
+            "6": "0.25 cup fresh basil, stems removed"
+        },
+        {
+            "7": "0.25 teaspoon salt"
+        },
+        {
+            "8": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "9": "1  French baguette"
+        },
+        {
+            "10": "2 cups shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven on broiler setting."
+        },
+        {
+            "2": "In a large bowl, combine the roma tomatoes, sun-dried tomatoes, garlic, olive oil, vinegar, basil, salt, and pepper. Allow the mixture to sit for 10 minutes."
+        },
+        {
+            "3": "Cut the baguette into 3/4-inch slices. On a baking sheet, arrange the baguette slices in a single layer. Broil for 1 to 2 minutes, until slightly brown."
+        },
+        {
+            "4": "Divide the tomato mixture evenly over the baguette slices. Top the slices with mozzarella cheese."
+        },
+        {
+            "5": "Broil for 5 minutes, or until the cheese is melted."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "7 mins"
+        },
+        {
+            "Additional Time": "13 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "215"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9375001.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8728920.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8724181.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8644157.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/h_DSSeC6zwqn3phO0RBCqhvrOc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4542188-3315e87b9ea84c588b5656544648d59f.jpg"
+        }
+    ],
+    "main category": "flour"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Gnudi (Ricotta Gnocchi)",
+    "Category": "Gnocchi",
+    "Ingredients": [
+        {
+            "1": "1 pound fresh basil, stems removed"
+        },
+        {
+            "2": "1 cup ricotta cheese"
+        },
+        {
+            "3": "0.75 cup all-purpose flour, divided"
+        },
+        {
+            "4": "0.5 cup freshly grated Parmigiano-Reggiano"
+        },
+        {
+            "5": "2  egg yolks, lightly beaten"
+        },
+        {
+            "6": "0.25 teaspoon freshly grated nutmeg"
+        },
+        {
+            "7": "2 teaspoons freshly ground white pepper"
+        },
+        {
+            "8": "2 teaspoons sea salt, or more to taste"
+        },
+        {
+            "9": "0.5  lemon, juiced (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of salted water to a boil. Add basil and cook uncovered until just wilted, about 1 minute. Immerse in ice water for several minutes to stop the cooking process. Drain. Squeeze very dry and finely chop."
+        },
+        {
+            "2": "Mix ricotta cheese, 1/2 cup flour, Parmigiano-Reggiano cheese, egg yolks, and nutmeg in a large bowl. Add basil, white pepper, and salt; mix until gnudi mixture is well-combined."
+        },
+        {
+            "3": "Dust your hands with remaining 1/4 cup flour and form gnudi mixture into small balls."
+        },
+        {
+            "4": "Bring a large pot of salted water to a boil. Add lemon juice. Boil gnudi in batches until they float to the top of the water, 3 to 4 minutes. Drain."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "185"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6837171.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6584092.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5974707.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4472329.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

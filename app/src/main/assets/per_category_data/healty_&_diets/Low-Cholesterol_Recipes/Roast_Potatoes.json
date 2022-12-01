@@ -1,0 +1,78 @@
+{
+    "title": "Roast Potatoes",
+    "Category": "Low-Cholesterol Recipes",
+    "Ingredients": [
+        {
+            "1": "2 pounds red potatoes, cut into quarters"
+        },
+        {
+            "2": "2 tablespoons vegetable oil"
+        },
+        {
+            "3": "1 teaspoon salt"
+        },
+        {
+            "4": "0.5 teaspoon freshly ground black pepper"
+        },
+        {
+            "5": "0.5 teaspoon dried rosemary, crushed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 450 degrees F (250 degrees C)."
+        },
+        {
+            "2": "Place potatoes in a large roasting pan and toss with oil, salt, pepper, and rosemary until evenly coated. Spread out potatoes in a single layer."
+        },
+        {
+            "3": "Bake, stirring occasionally, in the preheated oven until tender, about 20 minutes. Serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "227"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9321439.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8629782.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8583378.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8609473.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/E3oOHzEvY0ejxVMMT7MowLfzLYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18324-roast-potatoes-ddmfs-1x1-0188-4f0d4ad7c8f34420bea1d27abec6ba8f.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

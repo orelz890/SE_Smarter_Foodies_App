@@ -1,0 +1,87 @@
+{
+    "title": "Asian Mushroom Soup",
+    "Category": "Mushroom Soup",
+    "Ingredients": [
+        {
+            "1": "4 cups fat-free, reduced-sodium chicken broth"
+        },
+        {
+            "2": "3 tablespoons reduced-sodium soy sauce"
+        },
+        {
+            "3": "2 teaspoons grated fresh ginger"
+        },
+        {
+            "4": "3  garlic cloves, crushed"
+        },
+        {
+            "5": "3 cups assorted mushrooms, sliced (I like white buttons, oyster, shiitake, portobello and crimini; if using shiitake, discard stems)"
+        },
+        {
+            "6": "3 cups white cabbage, cut in wedges"
+        },
+        {
+            "7": "1 cup thinly sliced carrots"
+        },
+        {
+            "8": "2 cups chicken breast, shredded"
+        },
+        {
+            "9": "2 cups fresh udon noodles (or substitute cooked linguine)"
+        },
+        {
+            "10": "1 cup thinly sliced green onions, with some of the green tops"
+        },
+        {
+            "11": "2 cups shredded raw spinach or whole baby spinach leaves"
+        },
+        {
+            "12": "1 Freshly ground black pepper to taste"
+        },
+        {
+            "13": "1 tablespoon mirin (sweetened rice wine) (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large pot, combine broth, soy sauce, ginger, garlic, mushrooms, cabbage, carrots and chicken. Cover. Bring to a boil; simmer until mushrooms are soft, about 5 minutes. Stir in noodles, green onions and spinach; simmer until greens are wilted, about 2 minutes. Season."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "192"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429480.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429481.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9051897.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8576787.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

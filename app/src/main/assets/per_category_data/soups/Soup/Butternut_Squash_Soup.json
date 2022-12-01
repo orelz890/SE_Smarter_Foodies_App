@@ -1,0 +1,96 @@
+{
+    "title": "Butternut Squash Soup",
+    "Category": "Soup",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons butter"
+        },
+        {
+            "2": "1 small onion, chopped"
+        },
+        {
+            "3": "1 stalk celery, chopped"
+        },
+        {
+            "4": "1 medium carrot, chopped"
+        },
+        {
+            "5": "2 medium potatoes, cubed"
+        },
+        {
+            "6": "1 medium butternut squash - peeled, seeded, and cubed"
+        },
+        {
+            "7": "1 (32 fluid ounce) container chicken stock"
+        },
+        {
+            "8": "1 salt and freshly ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a large pot over medium heat, and cook onion, celery, carrot, potatoes, and squash until lightly browned, about 5 minutes. Pour in enough of the chicken stock to cover vegetables."
+        },
+        {
+            "2": "Bring to a boil over medium-high heat. Reduce heat to low, cover pot, and simmer until all vegetables are tender, about 40 minutes."
+        },
+        {
+            "3": "Transfer the soup to a blender, and blend until smooth. Return to the pot, and mix in any remaining stock to reach desired consistency. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "305"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "60g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5b56a4d6b4d2f8c5fe6e943938e33b6c%2F166734169882020221101_181733.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe890d7408951d95f0421e6285e888c10%2F1663975872image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe890d7408951d95f0421e6285e888c10%2F1662935843image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe890d7408951d95f0421e6285e888c10%2F1660942849image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/MVjjhQRUOC5VhSNrE00KwLRstCM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/77981-butternut-squash-soup-ii-AR-40503f98d6984741818c6ea2f7cd66c9.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/U07u8gNQgaqIwAaZquOjGnIr6uc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/77981-Butternut-Squash-Soup-II-mfs_Step5_006-1x1-1-e004736e46c54915920f105d17a6653a.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/U07u8gNQgaqIwAaZquOjGnIr6uc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/77981-Butternut-Squash-Soup-II-mfs_Step5_006-1x1-1-e004736e46c54915920f105d17a6653a.jpg"
+        }
+    ],
+    "main category": "soups"
+}

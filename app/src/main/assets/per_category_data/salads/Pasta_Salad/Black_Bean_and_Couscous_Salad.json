@@ -1,0 +1,102 @@
+{
+    "title": "Black Bean and Couscous Salad",
+    "Category": "Pasta Salad",
+    "Ingredients": [
+        {
+            "1": "1 cup uncooked couscous"
+        },
+        {
+            "2": "0.25 cups chicken broth"
+        },
+        {
+            "3": "3 tablespoons extra virgin olive oil"
+        },
+        {
+            "4": "2 tablespoons fresh lime juice"
+        },
+        {
+            "5": "1 teaspoon red wine vinegar"
+        },
+        {
+            "6": "0.5 teaspoon ground cumin"
+        },
+        {
+            "7": "8  green onions, chopped"
+        },
+        {
+            "8": "1  red bell pepper, seeded and chopped"
+        },
+        {
+            "9": "0.25 cup chopped fresh cilantro"
+        },
+        {
+            "10": "1 cup frozen corn kernels, thawed"
+        },
+        {
+            "11": "2 (15 ounce) cans black beans, drained"
+        },
+        {
+            "12": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring chicken broth to a boil in a 2 quart or larger sauce pan and stir in the couscous. Cover the pot and remove from heat. Let stand for 5 minutes."
+        },
+        {
+            "2": "In a large bowl, whisk together the olive oil, lime juice, vinegar and cumin. Add green onions, red pepper, cilantro, corn and beans and toss to coat."
+        },
+        {
+            "3": "Fluff the couscous well, breaking up any chunks. Add to the bowl with the vegetables and mix well. Season with salt and pepper to taste and serve at once or refrigerate until ready to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 to 10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "253"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7691f023a23bada0d1cdf7021e31ec2d%2F166205808616620580689568811688850536978800.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7691f023a23bada0d1cdf7021e31ec2d%2F1655344149942CB570-5E88-4CC2-9773-45FE8B15F03E.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9104243.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9093642.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/PU6ANI2azkmb8Oy39Ec9ak-UO38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3359485-a2789de3b5534ee49a9ee91167b81873.jpg"
+        }
+    ],
+    "main category": "salads"
+}

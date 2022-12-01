@@ -1,0 +1,96 @@
+{
+    "title": "Pizza Casserole",
+    "Category": "Father's Day Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups uncooked egg noodles"
+        },
+        {
+            "2": "0.5 pound lean ground beef"
+        },
+        {
+            "3": "1  onion, chopped"
+        },
+        {
+            "4": "2 cloves garlic, minced"
+        },
+        {
+            "5": "1  green bell pepper, chopped"
+        },
+        {
+            "6": "1 cup sliced pepperoni sausage"
+        },
+        {
+            "7": "16 ounces pizza sauce"
+        },
+        {
+            "8": "4 tablespoons milk"
+        },
+        {
+            "9": "1 cup shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook noodles according to package directions."
+        },
+        {
+            "2": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "3": "In a medium skillet over medium-high heat, brown the ground beef with the onion, garlic and green bell pepper. Drain excess fat. Stir in the noodles, pepperoni, pizza sauce and milk, and mix well. Pour this mixture into a 2-quart casserole dish."
+        },
+        {
+            "4": "Bake at 350 degrees F (175 degrees C) for 20 minutes, top with the cheese, then bake for 5 to 10 more minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "7 "
+        },
+        {
+            "Yield": "6 to 8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "387"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc7b3341a17fd77e5adf901815cd805a0%2F1655019444IMG_20220609_213907538%7E2.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9414806.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9337916.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9050108.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/0u2HqcBrANIN1NlHomE36oHVYo0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/639577-6bd54cc3d5434ac3950d3f74e58ebd72.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

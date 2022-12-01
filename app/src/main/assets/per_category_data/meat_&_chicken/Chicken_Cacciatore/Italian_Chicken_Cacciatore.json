@@ -1,0 +1,114 @@
+{
+    "title": "Italian Chicken Cacciatore",
+    "Category": "Chicken Cacciatore",
+    "Ingredients": [
+        {
+            "1": "0.25 cup olive oil, divided"
+        },
+        {
+            "2": "1  onion, diced"
+        },
+        {
+            "3": "0.25 cup all-purpose flour"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.25 teaspoon freshly ground black pepper"
+        },
+        {
+            "6": "8  chicken thighs"
+        },
+        {
+            "7": "0.5 cup dry white wine"
+        },
+        {
+            "8": "2 (14.5 ounce) cans diced tomatoes"
+        },
+        {
+            "9": "2 teaspoons tomato paste"
+        },
+        {
+            "10": "0.25 teaspoon white sugar, or more to taste"
+        },
+        {
+            "11": "1 salt and ground black pepper to taste"
+        },
+        {
+            "12": "0.5 cup chicken broth, or more as needed"
+        },
+        {
+            "13": "0.5 cup black olives, pitted"
+        },
+        {
+            "14": "1 tablespoon chopped fresh parsley"
+        },
+        {
+            "15": "1 tablespoon torn basil leaves"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat 2 tablespoons olive oil in a skillet over medium heat and cook onion, stirring often, until soft and translucent, about 5 minutes. Transfer to a pot."
+        },
+        {
+            "2": "Combine flour, 1/2 teaspoon salt, and 1/4 teaspoon pepper in a large bowl. Toss chicken thighs in the flour mixture until evenly coated."
+        },
+        {
+            "3": "Heat remaining 2 tablespoons olive oil in the skillet over medium heat, add chicken thighs, and brown on one side, without turning, for 5 minutes. Turn and cook until browned on the other side, about 5 minutes more. Transfer browned chicken thighs to the pot."
+        },
+        {
+            "4": "Pour white wine into the skillet; bring to a boil. Stir to loosen all the browned bits of chicken and flavors in the skillet pour into the pot. Add diced tomatoes, tomato paste, and sugar; season with salt and pepper. Add as much chicken stock as needed to cover the chicken. Cover pot and simmer over medium heat, stirring occasionally, until chicken is no longer pink in the center, about 45 minutes."
+        },
+        {
+            "5": "Stir in olives, parsley, and basil. Stir to heat through."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "520"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4ff729b20467958cea7f75cd207c93fc%2F165015845520220416_201218.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429363.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429346.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4561718.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

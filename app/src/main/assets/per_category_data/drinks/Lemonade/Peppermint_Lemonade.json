@@ -1,0 +1,60 @@
+{
+    "title": "Peppermint Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "1 (12 ounce) can frozen lemonade concentrate, thawed"
+        },
+        {
+            "2": "1  fresh lemon"
+        },
+        {
+            "3": "0.25 cups white sugar"
+        },
+        {
+            "4": "0.5 cup fresh mint leaves"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour the lemonade concentrate into a large pitcher or cooler with a spout. Stir in enough water to make 1 gallon. Grate the zest from the lemon and add to the pitcher, then squeeze the lemon juice from the lemon into the pitcher. In a small bowl, crush the mint leaves into the sugar using a muddler or a wooden spoon. Stir into the lemonade. Cover and chill for several hours, then strain to remove the leaves and zest before serving. Serve over ice and garnish with a sprig of mint."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 15 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "1 gallon"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "112"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F392205.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

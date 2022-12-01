@@ -1,0 +1,75 @@
+{
+    "title": "Spinach Tortellini Soup",
+    "Category": "Tortellini",
+    "Ingredients": [
+        {
+            "1": "2 (14.5 ounce) cans chicken broth"
+        },
+        {
+            "2": "1 (10 ounce) package frozen chopped spinach"
+        },
+        {
+            "3": "1 (9 ounce) package cheese tortellini"
+        },
+        {
+            "4": "0.25 tablespoon dried basil"
+        },
+        {
+            "5": "0.25 tablespoon garlic powder"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine chicken broth and spinach in a large pot over high heat; bring to a boil."
+        },
+        {
+            "2": "Reduce heat to medium-low and stir in tortellini; cook uncovered, stirring occasionally, until the tortellini float to the top and the filling is hot, about 3 to 5 minutes. Season with basil, garlic powder, salt, and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "224"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9096167.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8453565.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7642139.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7309254.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

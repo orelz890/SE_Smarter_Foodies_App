@@ -1,0 +1,81 @@
+{
+    "title": "Thanksgiving Leftovers Monkey Bread",
+    "Category": "Monkey Bread",
+    "Ingredients": [
+        {
+            "1": "2 pounds frozen bread dough, thawed"
+        },
+        {
+            "2": "1 cup chopped cooked turkey"
+        },
+        {
+            "3": "1 cup prepared stuffing"
+        },
+        {
+            "4": "1 cup prepared mashed potatoes"
+        },
+        {
+            "5": "0.5 cup mixed vegetables"
+        },
+        {
+            "6": "0.5 cup shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish."
+        },
+        {
+            "2": "Break off 2-inch pieces of dough and flatten each piece as thin as possible without breaking using a rolling pin. Spoon about 1 teaspoon turkey, 1 teaspoon stuffing, 1 teaspoon mashed potatoes, and 1 teaspoon vegetables onto each piece of flattened dough. Gently close dough around filling, sealing edges together and forming a ball. Arrange filled dough balls in the prepared baking dish; sprinkle with Cheddar cheese."
+        },
+        {
+            "3": "Bake in the preheated oven until dough balls are cooked through, 30 to 40 minutes. Invert monkey bread onto a serving dish."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "448"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "66g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9426181.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2847767.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1067778.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://www.allrecipes.com/thmb/sfWbl9sBK3OjYaVYgpvm-bXtWd4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1067778-7f6ec8a6507c43b7907d6f61fd1be6a8.jpg"
+        }
+    ],
+    "main category": "flour"
+}

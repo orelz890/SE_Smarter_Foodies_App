@@ -1,0 +1,75 @@
+{
+    "title": "French Toast Sticks",
+    "Category": "French Toast",
+    "Ingredients": [
+        {
+            "1": "2 large eggs"
+        },
+        {
+            "2": "0.5 cup powdered sugar"
+        },
+        {
+            "3": "0.25 cup milk"
+        },
+        {
+            "4": "2 tablespoons maple syrup"
+        },
+        {
+            "5": "1 teaspoon brown sugar"
+        },
+        {
+            "6": "0.25 teaspoon ground cinnamon"
+        },
+        {
+            "7": "6 slices white bread, cut into thirds"
+        },
+        {
+            "8": "1 nonstick cooking spray"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix eggs, powdered sugar, milk, maple syrup, brown sugar, and cinnamon together in a bowl with a fork until well blended. Dip each bread stick into the egg mixture."
+        },
+        {
+            "2": "Coat a skillet with nonstick spray and heat over medium heat. Place sticks in the hot skillet and cook until brown, 2 to 3 minutes; turn over and cook until browned on other side, 2 to 3 minutes more. Repeat with the second batch."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "18 sticks"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "52"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8408117.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

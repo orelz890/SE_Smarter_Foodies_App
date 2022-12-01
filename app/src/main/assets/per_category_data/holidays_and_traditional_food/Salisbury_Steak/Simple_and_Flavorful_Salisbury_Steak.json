@@ -1,0 +1,93 @@
+{
+    "title": "Simple and Flavorful Salisbury Steak",
+    "Category": "Salisbury Steak",
+    "Ingredients": [
+        {
+            "1": "2 pounds lean ground beef"
+        },
+        {
+            "2": "2  eggs, beaten"
+        },
+        {
+            "3": "1 cup Italian seasoned bread crumbs"
+        },
+        {
+            "4": "1 (1 ounce) package dry onion soup mix"
+        },
+        {
+            "5": "1 salt and ground black pepper to taste"
+        },
+        {
+            "6": "1 (10 ounce) can beef broth"
+        },
+        {
+            "7": "1 (10.75 ounce) can  cream of mushroom soup"
+        },
+        {
+            "8": "0.5 teaspoon dry mustard"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Mix ground beef, eggs, bread crumbs, dry soup mix, salt, and pepper together in a large bowl; add about 1/2 the can of beef broth and continue mixing until beef mixture is thoroughly moistened. Divide mixture into six portions and shape into patties."
+        },
+        {
+            "3": "Heat a Dutch oven over medium heat. Brown patties in the hot pot, 3 to 5 minutes per side. Spoon excess grease from the pot."
+        },
+        {
+            "4": "Stir remaining beef broth with cream of mushroom soup and dry mustard in a bowl until smooth; pour over the browned patties."
+        },
+        {
+            "5": "Bake in preheated oven until patties are no longer pink in the center, about 45 minutes. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "447"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8295675.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7843605.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdfce4a287bd27abf3039ccb3eb6d5784%2F5856708.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5607899.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

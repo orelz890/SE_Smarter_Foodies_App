@@ -1,0 +1,69 @@
+{
+    "title": "Simple Egg Salad",
+    "Category": "Egg Salad",
+    "Ingredients": [
+        {
+            "1": "6  hard-cooked eggs, chopped"
+        },
+        {
+            "2": "0.25 cup chopped cucumber"
+        },
+        {
+            "3": "3 tablespoons ranch dressing"
+        },
+        {
+            "4": "1 tablespoon mustard"
+        },
+        {
+            "5": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine eggs, cucumber, ranch dressing, mustard, salt, and black pepper in a bowl."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "176"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5e80d21c01e785ceaca44a17200e607d%2F1664712009426IMG_20220909_110649605.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9f9bbd066d3088ed2788584d4c83238a%2F4539195.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa2af5d5507a3f53741edf178581307ab%2F1815942.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F974073.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

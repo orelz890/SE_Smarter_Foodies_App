@@ -1,0 +1,108 @@
+{
+    "title": "Shannon's Smoky Macaroni and Cheese",
+    "Category": "Macaroni and Cheese",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package elbow macaroni"
+        },
+        {
+            "2": "6 tablespoons butter"
+        },
+        {
+            "3": "0.5 cup all-purpose flour"
+        },
+        {
+            "4": "2.5 cups milk, divided"
+        },
+        {
+            "5": "1.0 cups shredded smoked Gouda cheese"
+        },
+        {
+            "6": "0.5 cups shredded Cheddar cheese"
+        },
+        {
+            "7": "0.5 cups shredded Swiss cheese"
+        },
+        {
+            "8": "1 cup grated Parmesan cheese"
+        },
+        {
+            "9": "0.5 cup grated Parmesan cheese"
+        },
+        {
+            "10": "0.5 cup dry bread crumbs"
+        },
+        {
+            "11": "1 teaspoon ground cayenne pepper"
+        },
+        {
+            "12": "1 olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Fill a pot with lightly-salted water and bring to a boil. Stir the macaroni into the water and return to a boil. Cook and occasionally stir until the pasta has cooked through, but is still firm to the bite, about 8 minutes; drain."
+        },
+        {
+            "3": "Melt the butter in a large pot over medium heat. Add the flour to the melted butter and whisk continually for 1 to 2 minutes to make a roux. Whisk 2 cups of the milk into the roux until smooth and then add the remaining milk. Raise the heat to medium-high and continue cooking and stirring until thickened, but not boiling. Stir the Gouda, Cheddar, Swiss, and 1 cup Parmesan cheese into the mixture; once the cheeses have melted completely, fold the drained macaroni into the mixture to coat. Pour the macaroni mixture into a 9x13-inch baking dish."
+        },
+        {
+            "4": "Stir 1/2 cup Parmesan cheese, bread crumbs, and cayenne pepper together in a small bowl; sprinkle over the macaroni. Drizzle the olive oil over the bread crumbs."
+        },
+        {
+            "5": "Bake in the preheated oven until golden and bubbly, about 30 minutes. Allow to rest 10 minutes before cutting."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "651"
+        },
+        {
+            "Fat": "35g"
+        },
+        {
+            "Carbs": "51g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1c021780b088c0f9167b0b4c9a335cbd%2F165705162120220704_165347.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9177355.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8995121.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8914406.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dairy"
+}

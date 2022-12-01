@@ -1,0 +1,53 @@
+{
+    "title": "Caribbean Rum Punch",
+    "Category": "Punch",
+    "Ingredients": [
+        {
+            "1": "1 cup fresh lime juice"
+        },
+        {
+            "2": "2 cups simple syrup"
+        },
+        {
+            "3": "3 cups amber rum"
+        },
+        {
+            "4": "4 cups orange juice"
+        },
+        {
+            "5": "4 dashes bitters"
+        },
+        {
+            "6": "1 freshly grated nutmeg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a pitcher, combine lime juice, simple syrup, rum and orange juice. Add a few dashes of bitters and some grated nutmeg to taste. Serve chilled over ice."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "20 (4 ounce) servings"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F38fadc408f70a0ed70b970de805e41b1%2F5711872.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F124756.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

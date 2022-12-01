@@ -1,0 +1,93 @@
+{
+    "title": "Real Italian Pizza Dough",
+    "Category": "Pizza Dough and Crusts",
+    "Ingredients": [
+        {
+            "1": "4 cups all-purpose flour, or more as needed"
+        },
+        {
+            "2": "2 teaspoons salt"
+        },
+        {
+            "3": "2.25 teaspoons fresh, compressed yeast"
+        },
+        {
+            "4": "0.25 cups water, at room temperature"
+        },
+        {
+            "5": "1.0 tablespoons extra-virgin olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to the lowest setting possible."
+        },
+        {
+            "2": "Combine 4 cups flour and salt in the bowl of a stand mixer fitted with the dough hook attachment; turn mixer on low speed. Crumble yeast into small pieces and add to the flour. Slowly pour in water. Scrape the sides to make sure all flour is incorporated and mix until dough begins to pull away from the sides and form a ball. Drizzle in oil and mix until fully incorporated."
+        },
+        {
+            "3": "Knead on low speed for 5 or 6 minutes, adding 1 to 2 tablespoons extra flour if needed. Remove dough from the bowl and use your hands to form a ball. Return dough to the bowl and score the top with an x. Cover with a damp cloth."
+        },
+        {
+            "4": "Turn oven off and place dough in the oven to rise for at least 1 hour, or up to 8 hours."
+        },
+        {
+            "5": "Remove dough from the oven and reattach the bowl to the stand mixer. Uncover and punch down dough. Knead on low speed for 5 minutes."
+        },
+        {
+            "6": "Meanwhile, place a pizza stone or tray on the bottom oven rack and preheat oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "7": "Cut dough into 4 equal pieces and roll each one into ball. Dust with flour if needed. Place balls on a sheet pan and cover with a damp cloth. Roll out each ball into a 9-inch circle and top with desired toppings (no more than 1 cup sauce per pizza)."
+        },
+        {
+            "8": "Place pizza on the pizza stone in the preheated oven. Immediately lower the temperature to 410 degrees F (210 degrees C) and bake for 10 to 12 minutes; actual length of time will depend on your toppings. Repeat to make remaining pizzas."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 9-inch pizza crusts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "533"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "96g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3bab574f2793944598474a45ae1af0db%2F16435009467660610B-847B-4641-9040-8A08CFBDC83D.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9101749.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9096804.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pizza"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Jalapeno Popper Risotto",
+    "Category": "Risotto",
+    "Ingredients": [
+        {
+            "1": "4 cups low-sodium vegetable broth"
+        },
+        {
+            "2": "1 (12 ounce) package Arborio rice"
+        },
+        {
+            "3": "1  jalapeno pepper, seeded and diced"
+        },
+        {
+            "4": "0.5 teaspoon vegetable oil"
+        },
+        {
+            "5": "0.5 (7 ounce) container plain Greek yogurt"
+        },
+        {
+            "6": "0.5 cup shredded pepper Jack cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat vegetable broth in a pot over medium-high heat until boiling; reduce heat to a simmer."
+        },
+        {
+            "2": "Heat a heavy-bottomed pot over medium heat. Add rice and begin to toast, flipping it to ensure it toasts evenly. Continue until rice becomes golden and fragrant, about 10 minutes. Do not burn."
+        },
+        {
+            "3": "Remove rice from the pot. Add jalapeno and vegetable oil. Saute over medium heat until softened, about 8 minutes. Add toasted rice and stir to absorb the jalapeno flavor."
+        },
+        {
+            "4": "Stir 1/2 cup heated broth into the rice mixture until broth is absorbed. Continue adding broth, 1/2 cup at a time, stirring continuously, until liquid is absorbed and rice has doubled in size. Add Greek yogurt. Mix well until melted and incorporated, adding more broth as necessary until rice is al dente."
+        },
+        {
+            "5": "Turn off heat and add pepper Jack cheese, saving 1 to 2 teaspoons as garnish. Wait until starches settle, about 2 minutes. Distribute evenly between 4 plates. Top with reserved pepper Jack cheese. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "421"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "74g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7651185.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

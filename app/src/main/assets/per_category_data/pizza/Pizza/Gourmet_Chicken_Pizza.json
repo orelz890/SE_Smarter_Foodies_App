@@ -1,0 +1,87 @@
+{
+    "title": "Gourmet Chicken Pizza",
+    "Category": "Pizza",
+    "Ingredients": [
+        {
+            "1": "2  skinless, boneless chicken breast halves"
+        },
+        {
+            "2": "1 (10 ounce) can refrigerated pizza crust"
+        },
+        {
+            "3": "0.5 cup Ranch-style salad dressing"
+        },
+        {
+            "4": "1 cup shredded mozzarella cheese"
+        },
+        {
+            "5": "1 cup shredded Cheddar cheese"
+        },
+        {
+            "6": "1 cup chopped tomatoes"
+        },
+        {
+            "7": "0.25 cup chopped green onions"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 425 degrees F (220 degrees C). Lightly grease a pizza pan or medium baking sheet."
+        },
+        {
+            "2": "Place chicken in a large skillet over medium-high heat. Cook until no longer pink, and juices run clear. Cool, then either shred or chop into small pieces."
+        },
+        {
+            "3": "Unroll dough, and press into the prepared pizza pan or baking sheet. Bake crust for 7 minutes in the preheated oven, or until it begins to turn golden brown. Remove from oven."
+        },
+        {
+            "4": "Spread ranch dressing over partially baked crust. Sprinkle on mozzarella cheese. Place tomatoes, green onion, and chicken on top of mozzarella cheese, then top with Cheddar cheese. Return to the oven for 20 to 25 minutes, until cheese is melted and bubbly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 pizza"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "303"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8206413.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7741664.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3900949.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa84b3a6254389888a7932f780b859d24%2F2180829.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pizza"
+}

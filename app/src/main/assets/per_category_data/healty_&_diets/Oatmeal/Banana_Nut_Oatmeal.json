@@ -1,0 +1,75 @@
+{
+    "title": "Banana Nut Oatmeal",
+    "Category": "Oatmeal",
+    "Ingredients": [
+        {
+            "1": "0.25 cup quick cooking oats"
+        },
+        {
+            "2": "0.5 cup skim milk"
+        },
+        {
+            "3": "1 teaspoon flax seeds"
+        },
+        {
+            "4": "2 tablespoons chopped walnuts"
+        },
+        {
+            "5": "3 tablespoons honey"
+        },
+        {
+            "6": "1  banana, peeled"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine the oats, milk, flax seeds, walnuts, honey, and banana in a microwave-safe bowl. Cook in microwave on High for 2 minutes. Mash the banana with a fork and stir into the mixture. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "2 mins"
+        },
+        {
+            "Total Time": "7 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 bowl of oatmeal"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "532"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "102g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7f6cc567ca98b75ef6ea7c038ca49bad%2F7238811.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F701880.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3e77ef394fdcbb1584f34a159f2f828d%2F611631.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F364484.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Mexican Gazpacho",
+    "Category": "Gazpacho",
+    "Ingredients": [
+        {
+            "1": "1 large poblano pepper"
+        },
+        {
+            "2": "1 teaspoon olive oil"
+        },
+        {
+            "3": "1  cucumber - peeled, seeded, and diced"
+        },
+        {
+            "4": "0.5 cup onion, finely diced"
+        },
+        {
+            "5": "1.0 pounds fresh ripe tomatoes - stemmed, peeled, and seeded"
+        },
+        {
+            "6": "1  jalapeno pepper, stemmed and chopped"
+        },
+        {
+            "7": "3 cloves garlic, smashed"
+        },
+        {
+            "8": "1  lime, juiced"
+        },
+        {
+            "9": "1 teaspoon white sugar"
+        },
+        {
+            "10": "1 teaspoon salt"
+        },
+        {
+            "11": "0.5 teaspoon freshly ground black pepper"
+        },
+        {
+            "12": "0.5 teaspoon ground cumin"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Rub the poblano pepper with olive oil. Roast over the gas flame of your stove, turning often, until the skin is black, 7 to 10 minutes. Place pepper into a paper bag and seal; set aside to cool, about 10 minutes."
+        },
+        {
+            "2": "Combine cucumber and onion in a bowl. Set aside."
+        },
+        {
+            "3": "Take cooled poblano from the bag and scrape off the burned skin. Remove stem and seeds; roughly chop the pepper."
+        },
+        {
+            "4": "Place tomatoes, poblano, jalapeno, garlic, lime juice, sugar, salt, pepper, and cumin into the bowl of a food processor and pulse until thick and not runny. Add cucumber and onion; pulse 3 to 4 times to incorporate. Refrigerate until chilled, about 30 minutes. Serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "101"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5603672.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Bettie's Lasagna Roll Ups",
+    "Category": "Lasagna",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package uncooked lasagna noodles"
+        },
+        {
+            "2": "1 pound mozzarella cheese, shredded"
+        },
+        {
+            "3": "1 (15 ounce) container ricotta cheese"
+        },
+        {
+            "4": "1 pound firm tofu"
+        },
+        {
+            "5": "1 (10 ounce) package frozen chopped spinach - thawed, drained and squeezed dry"
+        },
+        {
+            "6": "2 cups grated Parmesan cheese"
+        },
+        {
+            "7": "1 (28 ounce) jar pasta sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook lasagna noodles for 5 to 8 minutes, or until just slightly underdone; drain and rinse."
+        },
+        {
+            "2": "In a large mixing bowl, mix together grated cheese, ricotta cheese, tofu, frozen spinach, and 1 cup Parmesan cheese."
+        },
+        {
+            "3": "Lay out a noodle. Spread a layer of the cheese mixture on the noodle, then add a thin layer of sauce. Roll the noodle up, and place seam side down in a 13x9 pan. Repeat for other noodles. Top with remaining sauce and Parmesan cheese."
+        },
+        {
+            "4": "Bake in a preheated 350 degree F (175 degree C) oven for 30 min, or until hot and bubbly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "455"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8884596.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8575349.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8040823.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7985966.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/veU-sqCFfEvyR_GEdBhB1Ist2X4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1098041-8cce0ea6a09d4c52aa8337fb34925bed.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

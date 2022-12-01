@@ -1,0 +1,96 @@
+{
+    "title": "Venison Fajitas",
+    "Category": "Fajitas",
+    "Ingredients": [
+        {
+            "1": "1 Fajita Seasoning-"
+        },
+        {
+            "2": "2 teaspoons seasoned salt"
+        },
+        {
+            "3": "0.25 teaspoon garlic salt"
+        },
+        {
+            "4": "0.5 teaspoon black pepper"
+        },
+        {
+            "5": "0.5 teaspoon cayenne pepper"
+        },
+        {
+            "6": "1 teaspoon dried oregano"
+        },
+        {
+            "7": "0.5 pounds venison, cut into 2 inch strips"
+        },
+        {
+            "8": "4 tablespoons vegetable oil"
+        },
+        {
+            "9": "1 medium red bell pepper, cut into 2 inch strips"
+        },
+        {
+            "10": "1 medium yellow bell pepper, cut into 2 inch strips"
+        },
+        {
+            "11": "1 medium onion, cut into 1/2-inch wedges"
+        },
+        {
+            "12": "12  fajita size flour tortillas, warmed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine seasoned salt, garlic salt, black pepper, cayenne pepper, and oregano to make the fajita seasoning. Sprinkle two teaspoons of the seasoning over the sliced venison. Mix well, cover, and refrigerate for 30 minutes."
+        },
+        {
+            "2": "Heat 2 tablespoons of oil in a heavy frying pan. Cook bell peppers and onion until starting to soften, then remove. Pour in remaining oil, then cook venison until browned. Return pepper mixture to the pan, season with remaining fajita seasoning, and reheat. Served with the warmed tortillas."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "688"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "79g"
+        },
+        {
+            "Protein": "39g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9268406.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9268407.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8246565.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7545802.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

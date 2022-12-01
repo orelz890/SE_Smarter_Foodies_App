@@ -1,0 +1,60 @@
+{
+    "title": "Spinach and Banana Power Smoothie",
+    "Category": "High-Fiber Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup plain soy milk"
+        },
+        {
+            "2": "0.75 cup packed fresh spinach leaves"
+        },
+        {
+            "3": "1 large banana, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Blend soy milk and spinach together in a blender until smooth. Add banana and pulse until thoroughly blended."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "257"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5ee80cb6da6b1c4bbfce3a4661e151b7%2F16436360476A6D37B3-A8CC-4908-8DC6-D97EFD707EBD.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9252600.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6476742.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6236099.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

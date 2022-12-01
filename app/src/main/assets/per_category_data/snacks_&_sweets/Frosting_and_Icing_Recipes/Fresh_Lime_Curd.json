@@ -1,0 +1,78 @@
+{
+    "title": "Fresh Lime Curd",
+    "Category": "Frosting and Icing Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup sugar"
+        },
+        {
+            "2": "0.75 cup fresh lime juice"
+        },
+        {
+            "3": "0.25 cup butter"
+        },
+        {
+            "4": "1 tablespoon lime zest"
+        },
+        {
+            "5": "2 large eggs, beaten"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place sugar, lime juice, butter, and lime zest in the top of a double boiler; stir over medium-high heat until butter melts."
+        },
+        {
+            "2": "Temper eggs by mixing 2 tablespoons hot lime mixture into eggs, stir to blend."
+        },
+        {
+            "3": "Reduce heat to medium until water simmers. Slowly whisk egg mixture into the lime mixture. Cook over the double boiler until lime mixture thickens and coats the back of a wooden spoon, 20 to 25 minutes."
+        },
+        {
+            "4": "Cool slightly and spoon into a clean, glass jar. Cover and refrigerate."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "172"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9076718.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8986256.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8774185.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7763499.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

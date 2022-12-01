@@ -1,0 +1,78 @@
+{
+    "title": "Ground Beef and Cabbage",
+    "Category": "Paleo Diet",
+    "Ingredients": [
+        {
+            "1": "1 large head cabbage, finely chopped"
+        },
+        {
+            "2": "1 (14.5 ounce) can diced tomatoes with juice"
+        },
+        {
+            "3": "1  onion, halved and thinly sliced"
+        },
+        {
+            "4": "1 tablespoon Italian seasoning"
+        },
+        {
+            "5": "1 salt and ground black pepper to taste"
+        },
+        {
+            "6": "1 pound lean ground beef"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place cabbage, tomatoes with juice, onion, Italian seasoning, salt, and pepper into a Dutch oven or large pot over low heat; cook and stir until it begins to simmer."
+        },
+        {
+            "2": "Add lean ground beef on top; cover and cook, stirring occasionally, until cabbage is tender and ground beef is cooked through, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "228"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9439062.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9309862.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9217994.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9203462.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/AMeXZ9QQ49ebzYWBYcSguQ-rt30=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1118509-ground-beef-and-cabbage-Laguna-Lala-1x1-1-fe6332bae39a4cc193077b1c749e1bcb.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "No Mayo Easy Pasta Salad",
+    "Category": "Pasta Salad",
+    "Ingredients": [
+        {
+            "1": "1 (12 ounce) package rotini pasta"
+        },
+        {
+            "2": "1 (12 ounce) package tri-color rotini pasta"
+        },
+        {
+            "3": "6  roma (plum) tomatoes, chopped"
+        },
+        {
+            "4": "1  cucumber, chopped"
+        },
+        {
+            "5": "0.5 cup chopped purple onion"
+        },
+        {
+            "6": "1 (16 ounce) bottle ranch dressing"
+        },
+        {
+            "7": "1 (16 ounce) bottle Italian-style salad dressing"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil; cook the rotini and tri-color rotini at a boil until tender yet firm to the bite, about 8 minutes; drain. Rinse the pasta with cold water until cool; drain."
+        },
+        {
+            "2": "Combine pasta, tomatoes, cucumber, and purple onion in a large bowl."
+        },
+        {
+            "3": "Stir ranch dressing and Italian-style salad dressing together in a separate bowl; spread over the pasta mixture and stir to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "517"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7542158.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F832690.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

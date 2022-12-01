@@ -1,0 +1,111 @@
+{
+    "title": "Chicken Etouffee",
+    "Category": "Etouffee",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "1 tablespoon salt"
+        },
+        {
+            "3": "1 tablespoon ground black pepper"
+        },
+        {
+            "4": "1 teaspoon ground cayenne pepper"
+        },
+        {
+            "5": "0.25 cup butter"
+        },
+        {
+            "6": "1 tablespoon extra-virgin olive oil"
+        },
+        {
+            "7": "1 (16 ounce) package skinless, boneless chicken breast halves, cubed"
+        },
+        {
+            "8": "1  green bell pepper, chopped"
+        },
+        {
+            "9": "1  onion, chopped"
+        },
+        {
+            "10": "3 stalks celery, chopped, or more to taste"
+        },
+        {
+            "11": "1 clove garlic, minced"
+        },
+        {
+            "12": "2 tablespoons butter, or more to taste"
+        },
+        {
+            "13": "1 cup water, or as needed to cover"
+        },
+        {
+            "14": "4  bay leaves"
+        },
+        {
+            "15": "3 cups cooked rice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk flour, salt, black pepper, and cayenne pepper together in a bowl."
+        },
+        {
+            "2": "Heat 1/4 cup butter and olive oil in a large skillet. Dredge chicken cubes in seasoned flour and fry in the hot butter and oil until golden brown and no longer pink inside, about 10 minutes. Remove chicken, leaving butter mixture in skillet. Reduce heat to low."
+        },
+        {
+            "3": "Stir 1 tablespoon leftover seasoned flour into pan drippings in skillet; cook and stir until the mixture forms a paste and cooks to the color of dark caramel, 10 to 15 minutes. Watch carefully and stir constantly to avoid burning. Add bell pepper, onion, celery, garlic, and 2 more tablespoons butter to flour paste and toss to coat vegetables with butter and browned flour mixture. Cook and stir until vegetables are soft, about 10 minutes."
+        },
+        {
+            "4": "Pour in enough water to cover vegetables, add bay leaves, and bring to a simmer. Return chicken to skillet and cook until flavors are blended, about 10 more minutes. Serve with cooked rice."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "480"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "60g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8587302.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8581103.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8237315.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6308756.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "sea_fruit"
+}

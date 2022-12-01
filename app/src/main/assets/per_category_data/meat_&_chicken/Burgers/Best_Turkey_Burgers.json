@@ -1,0 +1,93 @@
+{
+    "title": "Best Turkey Burgers",
+    "Category": "Burgers",
+    "Ingredients": [
+        {
+            "1": "3 pounds ground turkey"
+        },
+        {
+            "2": "0.25 cup seasoned bread crumbs"
+        },
+        {
+            "3": "0.25 cup finely diced onion"
+        },
+        {
+            "4": "2  egg whites, lightly beaten"
+        },
+        {
+            "5": "0.25 cup chopped fresh parsley"
+        },
+        {
+            "6": "1 clove garlic, peeled and minced"
+        },
+        {
+            "7": "1 teaspoon salt"
+        },
+        {
+            "8": "0.25 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix ground turkey, seasoned bread crumbs, onion, egg whites, parsley, garlic, salt, and pepper together in a large bowl."
+        },
+        {
+            "2": "Form into 12 patties."
+        },
+        {
+            "3": "Cook the patties in a medium skillet over medium heat, turning once, to an internal temperature of 180 degrees F (85 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 burgers"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "184"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9008159.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8982187.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8460018.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8298208.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/m6JX6UgGXtVvFLDfTe4M0i5sdqQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/39748-Actually-Delicious-Turkey-Burgers-mfs-162-1-b0b36214b3bf44ff95c643feae1d4252.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/LKAP6heI3a1VM77fwX0q4ct9BqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/39748-Actually-Delicious-Turkey-Burgers-mfs-162-baf01690d5574e55a59e9fdc02d716e3.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

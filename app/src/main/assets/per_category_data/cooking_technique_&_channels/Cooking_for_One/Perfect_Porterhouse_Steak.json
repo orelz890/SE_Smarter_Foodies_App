@@ -1,0 +1,72 @@
+{
+    "title": "Perfect Porterhouse Steak",
+    "Category": "Cooking for One",
+    "Ingredients": [
+        {
+            "1": "20 ounces porterhouse steak"
+        },
+        {
+            "2": "1 teaspoon olive oil"
+        },
+        {
+            "3": "1 tablespoon meat tenderizer"
+        },
+        {
+            "4": "1 teaspoon steak seasoning"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place steak onto a plate; coat with olive oil, rub with tenderizer, then gently rub with steak seasoning. Cover with plastic wrap and let stand for 20 minutes."
+        },
+        {
+            "2": "Meanwhile, preheat a grill for high heat. When hot, lightly oil the grate."
+        },
+        {
+            "3": "Cook steak on the preheated grill until hot, slightly pink in the center, and beginning to firm, 3 to 5 minutes per side. An instant-read thermometer inserted into the center should read 140 degrees F (60 degrees C) for medium."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "461"
+        },
+        {
+            "Fat": "37g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7900288.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F4031eb3b9361a3bd93cd4ec8fb1238f6%2F7558160.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5205154.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3571410.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

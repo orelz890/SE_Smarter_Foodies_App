@@ -1,0 +1,60 @@
+{
+    "title": "Easy Pizza Sauce from Tomato Sauce",
+    "Category": "Low Glycemic Impact Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) can tomato sauce"
+        },
+        {
+            "2": "0.5 teaspoon minced garlic"
+        },
+        {
+            "3": "0.5 teaspoon dried oregano"
+        },
+        {
+            "4": "0.5 teaspoon dried basil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix tomato sauce, garlic, oregano, and basil in a bowl until well combined. Spread mixture over pizza crusts as desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "8"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8004019.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F12e7b9d47e9968efc8c8d9e5f2ecc6e9%2F3443240.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1154957.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1068333.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

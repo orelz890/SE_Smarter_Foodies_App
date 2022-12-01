@@ -1,0 +1,84 @@
+{
+    "title": "Blueberry Turnovers",
+    "Category": "Danishes",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package refrigerated crescent rolls"
+        },
+        {
+            "2": "0.5 cup fresh blueberries"
+        },
+        {
+            "3": "0.25 cup confectioners' sugar"
+        },
+        {
+            "4": "0.25 cup prepared vanilla frosting (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Roll out crescent dough triangles onto a baking sheet."
+        },
+        {
+            "3": "Place 1 tablespoon blueberries on the widest end of each triangle. Sprinkle 1/2 teaspoon confectioners' sugar over blueberries on each roll. Beginning with the wide end, roll up each crescent around blueberries; pinch both sides to seal completely."
+        },
+        {
+            "4": "Bake in the preheated oven until golden, about 12 minutes. Remove to cool on a wire rack for 5 minutes."
+        },
+        {
+            "5": "Dust turnovers with remaining confectioners' sugar. Drizzle with vanilla frosting."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 turnovers"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "159"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff86142ab9e913148d00ebd6e21d630e7%2F1649532537AF973EAC-641C-4EEA-8A8E-933A976CF3CF.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9401600.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8917981.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcac1050d05fe438c8720ecc168064289%2F6767405.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Pasta with Yogurt Sauce",
+    "Category": "Ramadan Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package pasta"
+        },
+        {
+            "2": "1 tablespoon butter (Optional)"
+        },
+        {
+            "3": "2 cups plain yogurt"
+        },
+        {
+            "4": "4 cloves garlic, minced"
+        },
+        {
+            "5": "1 teaspoon salt"
+        },
+        {
+            "6": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "7": "3 tablespoons pine nuts (Optional)"
+        },
+        {
+            "8": "2 tablespoons butter (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook the pasta in a large pot of boiling salted water until al dente."
+        },
+        {
+            "2": "Using a mortar and pestle, mash the salt and garlic cloves together into a paste. Warm the yogurt slightly in a sauce pan. Remove a small amount of warmed yogurt from the pan, and stir together with the garlic paste. Stir this mixture into the remaining yogurt"
+        },
+        {
+            "3": "Drain the pasta, and rinse in cold water. Place in a casserole or deep serving dish, toss with 1 tablespoon butter or margarine. Toss with half of the garlic-yogurt sauce. Spread the remaining sauce over the pasta. Garnish with the parsley."
+        },
+        {
+            "4": "For a very special dish, brown the pine nuts in 2 tablespoons butter or margarine. Pour over the parsley. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "7 "
+        },
+        {
+            "Yield": "6 to 8 - servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "295"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2191850.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F838306.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F52f46cb32641f48d0a2a0f4275414bf5%2F312580.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F78921.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

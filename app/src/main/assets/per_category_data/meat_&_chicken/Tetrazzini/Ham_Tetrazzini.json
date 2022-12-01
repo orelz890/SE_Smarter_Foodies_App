@@ -1,0 +1,99 @@
+{
+    "title": "Ham Tetrazzini",
+    "Category": "Tetrazzini",
+    "Ingredients": [
+        {
+            "1": "6 ounces spaghetti"
+        },
+        {
+            "2": "3 quarts water"
+        },
+        {
+            "3": "1 teaspoon salt"
+        },
+        {
+            "4": "1 tablespoon butter"
+        },
+        {
+            "5": "2 tablespoons chopped onion"
+        },
+        {
+            "6": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "7": "0.5 cup water"
+        },
+        {
+            "8": "0.5 cup shredded Cheddar cheese"
+        },
+        {
+            "9": "1 cup diced ham"
+        },
+        {
+            "10": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "11": "2 tablespoons chopped pimento peppers"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add spaghetti and cook for 8 to 10 minutes or until al dente; drain (or use leftover pasta; see Cook's Note)."
+        },
+        {
+            "2": "While pasta is cooking, melt butter in a saucepan over medium heat. Stir in onion; cook and stir until the onion has softened and turned translucent, about 5 minutes."
+        },
+        {
+            "3": "Stir in cream of mushroom soup, 1/2 cup water, and shredded cheese. Heat mixture until cheese melts, stirring often."
+        },
+        {
+            "4": "Mix in the ham, cooked and drained pasta, chopped pimento, and chopped parsley to saucepan; stir to combine. Cook until mixture is heated through, then serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "358"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9143367.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9139186.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8929581.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8925211.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

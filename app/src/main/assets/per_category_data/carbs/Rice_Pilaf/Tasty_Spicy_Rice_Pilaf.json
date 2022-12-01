@@ -1,0 +1,87 @@
+{
+    "title": "Tasty Spicy Rice Pilaf",
+    "Category": "Rice Pilaf",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons butter"
+        },
+        {
+            "2": "1  onion, diced"
+        },
+        {
+            "3": "1  roasted red pepper, diced"
+        },
+        {
+            "4": "6  mushrooms, chopped"
+        },
+        {
+            "5": "6 cloves garlic, minced"
+        },
+        {
+            "6": "2 cups uncooked instant rice"
+        },
+        {
+            "7": "3 cups chicken stock"
+        },
+        {
+            "8": "2 teaspoons red pepper flakes"
+        },
+        {
+            "9": "0.5 teaspoon salt"
+        },
+        {
+            "10": "0.5 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a large pot over medium heat; cook and stir onion, red pepper, mushrooms, and garlic until tender, about 10 minutes. Stir in rice. Add chicken stock; cover and boil until liquid is absorbed, about 10 minutes. Season with red pepper flakes, salt, and black pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "287"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7064928.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4543961.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Feade78db9f656e8b1126fff1a3b905ca%2F1296762.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd4cd6d17bcee8f4347984b7cf2f549a0%2F1100461.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

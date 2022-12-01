@@ -1,0 +1,90 @@
+{
+    "title": "Slow Cooker Bulgogi",
+    "Category": "Bulgogi",
+    "Ingredients": [
+        {
+            "1": "0.5 cup soy sauce, divided"
+        },
+        {
+            "2": "0.25 cup white sugar, divided"
+        },
+        {
+            "3": "4 teaspoons sesame oil, divided"
+        },
+        {
+            "4": "2 cloves garlic, chopped, divided"
+        },
+        {
+            "5": "1 teaspoon ground black pepper, divided"
+        },
+        {
+            "6": "0.5 pounds beef, thinly sliced"
+        },
+        {
+            "7": "0.5 teaspoon sesame seeds"
+        },
+        {
+            "8": "1  green onion, cut into 1-inch pieces, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk 1/4 cup soy sauce, 2 tablespoons sugar, 2 teaspoons sesame oil, 1 clove garlic, and 1/2 teaspoon black pepper together in a large bowl; stir in beef. Cover with plastic wrap and let marinate in the refrigerator, at least 30 minutes and preferably overnight."
+        },
+        {
+            "2": "Combine remaining 1/4 cup soy sauce, 2 tablespoons sugar, 2 teaspoons sesame oil, 1 clove garlic, and 1/2 teaspoon black pepper in a small bowl to make a second batch of marinade."
+        },
+        {
+            "3": "Toast sesame seeds in a small skillet over medium heat until lightly browned, 3 to 5 minutes."
+        },
+        {
+            "4": "Place marinated beef, second batch of marinade, toasted sesame seeds, and green onion in a slow cooker. Cook on Low until beef is tender and flavors are combined, 6 to 8 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": " 6 hrs 5 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 7 hrs"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "365"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9253055.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8495820.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8444337.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8007201.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

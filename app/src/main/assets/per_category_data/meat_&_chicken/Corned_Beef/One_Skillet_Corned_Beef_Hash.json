@@ -1,0 +1,75 @@
+{
+    "title": "One Skillet Corned Beef Hash",
+    "Category": "Corned Beef",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons vegetable oil"
+        },
+        {
+            "2": "2  onions, chopped"
+        },
+        {
+            "3": "4  potatoes, peeled and chopped"
+        },
+        {
+            "4": "2 (12 ounce) cans corned beef"
+        },
+        {
+            "5": "1 tablespoon ground black pepper"
+        },
+        {
+            "6": "5 tablespoons cider vinegar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large skillet over medium high heat. Saute onions and potatoes until slightly browned, then stir in corned beef. Season with pepper and add vinegar 1 tablespoon at a time, cooking for 3 to 5 minutes in between each addition. Partially cover skillet, reduce heat to medium-low and cook, stirring occasionally, for about 20 minutes or until potatoes are tender."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "450"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "33g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9247932.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8362504.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6460574.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb184c4dad3c0bfe48217b39939bc0c26%2F5294628.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

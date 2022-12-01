@@ -1,0 +1,78 @@
+{
+    "title": "The Best Steak Marinade",
+    "Category": "Side Dishes",
+    "Ingredients": [
+        {
+            "1": "0.25 cup olive oil"
+        },
+        {
+            "2": "0.25 cup balsamic vinegar"
+        },
+        {
+            "3": "0.25 cup Worcestershire sauce"
+        },
+        {
+            "4": "0.25 cup soy sauce"
+        },
+        {
+            "5": "2 teaspoons Dijon mustard"
+        },
+        {
+            "6": "2 teaspoons minced garlic"
+        },
+        {
+            "7": "1 pinch salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix olive oil, balsamic vinegar, Worcestershire sauce, soy sauce, Dijon mustard, and garlic in a small bowl. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "1 cup marinade"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "156"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8889ad5fd4d51ec96ec8087f9526e494%2F1669096163120IMG_7857.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9398307.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9184937.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8661331.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/lmLhUXJKoOnrOwPBVqrcfSFQW2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1305801-d0eed75a9f9d4b5abc3326e931cf34cd.jpg"
+        }
+    ],
+    "main category": "side_dishes"
+}

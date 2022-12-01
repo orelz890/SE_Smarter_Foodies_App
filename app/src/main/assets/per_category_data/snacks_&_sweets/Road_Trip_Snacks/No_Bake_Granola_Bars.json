@@ -1,0 +1,84 @@
+{
+    "title": "No Bake Granola Bars",
+    "Category": "Road Trip Snacks",
+    "Ingredients": [
+        {
+            "1": "2 cups rolled oats"
+        },
+        {
+            "2": "0.25 cups chunky natural peanut butter"
+        },
+        {
+            "3": "1 cup ground flaxseed"
+        },
+        {
+            "4": "0.75 cup honey"
+        },
+        {
+            "5": "0.75 cup dried cranberries"
+        },
+        {
+            "6": "0.5 cup chocolate chips"
+        },
+        {
+            "7": "0.25 cup sliced almonds"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir oats, peanut butter, flaxseed, honey, cranberries, chocolate chips, and almonds together in a bowl; press into a 9x11-inch baking dish, using the back of a spatula to press into a flat layer."
+        },
+        {
+            "2": "Refrigerate mixture at least 1 hour."
+        },
+        {
+            "3": "Cut into 12 bars and wrap each individually in plastic wrap for storage."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 bars"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "405"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8810911.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8575421.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8082439.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7922166.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

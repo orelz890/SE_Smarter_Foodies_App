@@ -1,0 +1,96 @@
+{
+    "title": "Sweet Potato Potato Salad",
+    "Category": "Potato Salad",
+    "Ingredients": [
+        {
+            "1": "2  potatoes"
+        },
+        {
+            "2": "1  sweet potato"
+        },
+        {
+            "3": "4  eggs"
+        },
+        {
+            "4": "2 stalks celery, chopped"
+        },
+        {
+            "5": "0.5  onion, chopped"
+        },
+        {
+            "6": "0.75 cup mayonnaise"
+        },
+        {
+            "7": "1 tablespoon prepared mustard"
+        },
+        {
+            "8": "1 teaspoon salt"
+        },
+        {
+            "9": "0.5 teaspoons ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 30 minutes. Drain, cool, peel and chop."
+        },
+        {
+            "2": "Place eggs in a saucepan and cover with cold water. Bring water to a boil. Cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water; cool, peel and chop."
+        },
+        {
+            "3": "Combine the potatoes, eggs, celery and onion."
+        },
+        {
+            "4": "Whisk together the mayonnaise, mustard, salt and pepper. Add to potato mixture, toss well to coat. Refrigerate and serve chilled."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 55 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "244"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4ed9a1d60e072aa6a2ac034a84dfa7fd%2F1652442262Sweet%2520Potato%2520Salad.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7831367.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4529783.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2196085.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

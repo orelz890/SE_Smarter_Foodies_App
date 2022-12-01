@@ -1,0 +1,81 @@
+{
+    "title": "Hot Buttered Rum Batter",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "1 pound unsalted butter"
+        },
+        {
+            "2": "1 pound brown sugar"
+        },
+        {
+            "3": "1 pound confectioners' sugar"
+        },
+        {
+            "4": "1 quart vanilla ice cream, softened"
+        },
+        {
+            "5": "1 tablespoon ground cinnamon"
+        },
+        {
+            "6": "1 teaspoon ground nutmeg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a large pot over medium heat. Blend in brown sugar and confectioners' sugar until smooth."
+        },
+        {
+            "2": "Remove from the heat. Add ice cream, cinnamon, and nutmeg and whisk until incorporated. Pour mixture into a plastic container, cover, and store in the freezer."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "100 "
+        },
+        {
+            "Yield": "6 cups mix"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "78"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8807874.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8798868.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6379860.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb14b577818a1e3e50cf59bfefb1165e5%2F6015347.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/5Qd8bVkCs_Irbzp_k8a-dluL2sA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1123112-6e1afdbedd384613be35ac224b74836c.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Lemon Pasta Sauce",
+    "Category": "Linguine",
+    "Ingredients": [
+        {
+            "1": "4 tablespoons butter"
+        },
+        {
+            "2": "1 cup heavy whipping cream"
+        },
+        {
+            "3": "2 tablespoons fresh lemon juice"
+        },
+        {
+            "4": "1 teaspoon lemon zest"
+        },
+        {
+            "5": "1 teaspoon grated lime zest"
+        },
+        {
+            "6": "1 cup beef broth"
+        },
+        {
+            "7": "10 ounces uncooked pasta"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a sauce pan or skillet large enough to hold the pasta when it is done, combine the butter, cream, and beef broth or bouillon and simmer over medium heat until reduced by about half. Add the lemon juice, lemon and lime zest and set aside."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain. Toss pasta with sauce; serve."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "4 to 6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "412"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8167419.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7698814.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3742025.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2227042.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

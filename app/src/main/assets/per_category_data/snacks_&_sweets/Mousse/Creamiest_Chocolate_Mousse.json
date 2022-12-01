@@ -1,0 +1,87 @@
+{
+    "title": "Creamiest Chocolate Mousse",
+    "Category": "Mousse",
+    "Ingredients": [
+        {
+            "1": "7 ounces bittersweet chocolate, chopped"
+        },
+        {
+            "2": "7  egg yolks, beaten"
+        },
+        {
+            "3": "2 tablespoons sugar"
+        },
+        {
+            "4": "1 pinch salt"
+        },
+        {
+            "5": "7  egg white"
+        },
+        {
+            "6": "0.25 cups heavy cream"
+        },
+        {
+            "7": "1 tablespoon kirschwasser (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place chocolate in a metal bowl over a pan of simmering water. Stir occasionally until mostly melted, then remove from heat, and stir until smooth. Set aside to cool slightly."
+        },
+        {
+            "2": "In a separate bowl, whip heavy cream to medium stiff peaks, but do not allow it to become grainy. Set aside."
+        },
+        {
+            "3": "In a separate bowl, whip egg whites with salt until soft peaks form. Sprinkle in the sugar, and continue whipping to medium stiff peaks. Fold in egg yolks and kirshwasser."
+        },
+        {
+            "4": "Fold in the melted chocolate until completely incorporated, then fold in whipped cream until evenly blended. Spoon into dessert cups, and chill until firm, about 1 hour."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "45 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 45 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "274"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6429837.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4526922.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3245634.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbaa320266fd6c76c412e3298d687c96b%2F17571.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

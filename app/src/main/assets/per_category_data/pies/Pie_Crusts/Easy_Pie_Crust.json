@@ -1,0 +1,81 @@
+{
+    "title": "Easy Pie Crust",
+    "Category": "Pie Crusts",
+    "Ingredients": [
+        {
+            "1": "0.5 cups all-purpose flour"
+        },
+        {
+            "2": "2 teaspoons white sugar"
+        },
+        {
+            "3": "1 teaspoon salt"
+        },
+        {
+            "4": "0.5 cup vegetable oil"
+        },
+        {
+            "5": "2 tablespoons milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Place all ingredients in 9 inch pie pan. Stir together with fork. Pat mixture into bottom and up the sides of the pan. Poke holes in bottom and side of crust."
+        },
+        {
+            "3": "Bake for 15 minutes in the preheated oven, or until light brown. Use as directed in favorite pie recipe."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 to 9 - inch pie crust"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "215"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9422899.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc5f387c629323d60da197529ffda1d43%2F6302091.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5756506.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe1ffd0a06a964217a602701a908514af%2F5143066.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/5Oq8usbWpcn4hzwkYTFAadTw0ac=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4444098-easy-pie-crust-CookGoodFood-1x1-1-b9cf88bb93f0493ca59a154dbb6ca301.jpg"
+        }
+    ],
+    "main category": "pies"
+}

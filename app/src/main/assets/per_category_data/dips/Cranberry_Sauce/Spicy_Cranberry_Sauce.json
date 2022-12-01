@@ -1,0 +1,75 @@
+{
+    "title": "Spicy Cranberry Sauce",
+    "Category": "Cranberry Sauce",
+    "Ingredients": [
+        {
+            "1": "2 (8 ounce) cans pineapple tidbits, drained and patted dry"
+        },
+        {
+            "2": "1 (16 ounce) can whole berry cranberry sauce"
+        },
+        {
+            "3": "0.25 cup brown sugar"
+        },
+        {
+            "4": "0.5 teaspoon ground ginger"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "3  green onions, chopped"
+        },
+        {
+            "7": "1  fresh jalapeno chile (or more to taste), seeded and chopped"
+        },
+        {
+            "8": "1 sprig fresh rosemary (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine pineapple tidbits, cranberry sauce, brown sugar, ginger, and salt in a saucepan; bring to a boil. Reduce heat and simmer, stirring often, until berries pop, about 5 minutes."
+        },
+        {
+            "2": "Remove from heat and mix in green onions and jalapeno peppers. Garnish with rosemary."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "95"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff79863014a2a134d98b8e96ecfc772f7%2F7640944.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

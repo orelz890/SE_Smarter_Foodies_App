@@ -1,0 +1,105 @@
+{
+    "title": "Creamy Banana Bread",
+    "Category": "Banana Bread",
+    "Ingredients": [
+        {
+            "1": "0.5 cup margarine, softened"
+        },
+        {
+            "2": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "3": "0.25 cups white sugar"
+        },
+        {
+            "4": "2  eggs"
+        },
+        {
+            "5": "1 cup mashed bananas"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "0.5 cups all-purpose flour"
+        },
+        {
+            "8": "0.5 teaspoons baking powder"
+        },
+        {
+            "9": "0.5 teaspoon baking soda"
+        },
+        {
+            "10": "0.75 cup chopped pecans"
+        },
+        {
+            "11": "2 tablespoons brown sugar"
+        },
+        {
+            "12": "2 teaspoons ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour two 8x4-inch loaf pans."
+        },
+        {
+            "2": "Cream the margarine and cream cheese together. Gradually add the white sugar, and continue beating until light and fluffy. Add eggs one at a time, beating well after each addition. Stir in the mashed bananas and vanilla. Add flour, baking powder, and baking soda; mix until batter is just moist."
+        },
+        {
+            "3": "In a small bowl, mix together chopped pecans, 2 tablespoons brown sugar, and cinnamon."
+        },
+        {
+            "4": "Divide half the batter between the two prepared loaf pans. Sprinkle pecan mixture over the batter in the pans, and top with remaining batter."
+        },
+        {
+            "5": "Bake in the preheated oven until a toothpick inserted in the center of each loaf comes out clean, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 8x4-inch loaves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "289"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F32a26c2f89757ec8d0453660a8a1147d%2F1654651767E9F6CECC-0FB7-4B19-8114-23A449C641F6.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F32a26c2f89757ec8d0453660a8a1147d%2F1645781338PXL_20220224_215243530.PORTRAIT.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F32a26c2f89757ec8d0453660a8a1147d%2F1645665776102A98CE-8FB7-4569-868C-E5BF2BA8DE12.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9413777.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Shrimp Etoufee III",
+    "Category": "Etouffee",
+    "Ingredients": [
+        {
+            "1": "4 pounds fresh shrimp, peeled and deveined"
+        },
+        {
+            "2": "1 teaspoon salt"
+        },
+        {
+            "3": "1 teaspoon ground black pepper"
+        },
+        {
+            "4": "1 teaspoon crushed red pepper flakes"
+        },
+        {
+            "5": "1 cup margarine, divided"
+        },
+        {
+            "6": "2 cups minced onion"
+        },
+        {
+            "7": "3 cups sliced celery"
+        },
+        {
+            "8": "3 cups diced green bell pepper"
+        },
+        {
+            "9": "2 tablespoons cornstarch"
+        },
+        {
+            "10": "1.5 cups water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, combine the shrimp, salt, pepper, and red pepper flakes. Blend well. Cover and place in the refrigerator."
+        },
+        {
+            "2": "In a large pot over medium heat, melt 1/2 cup of margarine and add the onions. Saute the onions until they are translucent."
+        },
+        {
+            "3": "Stir in the celery and bell pepper. Increase the heat to high and stir occasionally for 20 minutes. Add the remaining 1/2 cup of margarine and bring to a boil. Fold in the shrimp and reduce heat to medium cook for 10 minutes."
+        },
+        {
+            "4": "Mix the cornstarch and water together and slowly pour it into the pot; just covering the top of the shrimp mixture. Cook on medium/high heat until the celery is soft; about 20 minutes. Add any additional salt, pepper and red pepper flakes to taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": " 1 hrs"
+        },
+        {
+            "Cook Time": " 1 hrs 30 mins"
+        },
+        {
+            "Total Time": " 2 hrs 30 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "369"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "37g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5125848.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcc55c0a20a6818e9e68628e828aa30dc%2F4319422.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2c4ddcfa823c8830d65bfbf70d8450f4%2F64413.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc5b09f14cfc974607cf4269e97813c6b%2F18380.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "sea_fruit"
+}

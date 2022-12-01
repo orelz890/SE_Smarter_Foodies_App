@@ -1,0 +1,84 @@
+{
+    "title": "Easy Malai Kulfi",
+    "Category": "Ice Cream",
+    "Ingredients": [
+        {
+            "1": "2 cups whole milk"
+        },
+        {
+            "2": "0.5 cup condensed milk"
+        },
+        {
+            "3": "0.25 cup dry milk powder"
+        },
+        {
+            "4": "2 teaspoons white sugar, or to taste (Optional)"
+        },
+        {
+            "5": "0.5 teaspoon ground cardamom"
+        },
+        {
+            "6": "1 pinch saffron threads"
+        },
+        {
+            "7": "0.25 cup chopped pistachio nuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir the milk, condensed milk, and dry milk powder together in a heavy-bottomed pan and bring to a boil. Add the sugar, cardamom, and saffron to the boiling milk; reduce heat to low and simmer, stirring frequently, for 10 minutes. Remove from heat and allow to cool to room temperature; fold the pistachio nuts into the mixture."
+        },
+        {
+            "2": "Pour the mixture into popsicle molds and freeze until solid, about 1 hour"
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "194"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5610788.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5147593.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4550887.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://www.allrecipes.com/thmb/ztl0f4CYRng-66ppXDWnqU7_cAE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4550887-easy-malai-kulfi-Buckwheat-Queen-1x1-1-90d79ec37a684200ae35faebe1ae2ea7.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

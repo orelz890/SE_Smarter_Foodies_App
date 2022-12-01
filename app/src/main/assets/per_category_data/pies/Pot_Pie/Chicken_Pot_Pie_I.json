@@ -1,0 +1,69 @@
+{
+    "title": "Chicken Pot Pie I",
+    "Category": "Pot Pie",
+    "Ingredients": [
+        {
+            "1": "4  skinless, boneless chicken breast halves"
+        },
+        {
+            "2": "1 (10.75 ounce) can  condensed cream of chicken soup"
+        },
+        {
+            "3": "2 (15 ounce) cans mixed vegetables, drained"
+        },
+        {
+            "4": "1 recipe pastry for a 9 inch double crust pie"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Boil or steam the chicken breasts until done. Dice."
+        },
+        {
+            "2": "Mix together undiluted soup, canned vegetables, and diced chicken. Pour mixture into pie shell, and cover with the second crust. Crimp the edges, and make slits in the top crust."
+        },
+        {
+            "3": "Bake at 375 degrees F (190 degrees C) for 45 minutes, or until crust is golden brown."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 to 9 - inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "246"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9119438.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8655481.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8563096.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8393962.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/sDgLNcPiFGn5nnH6MyvBy6AjQK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/36051-7533fe80788749ada16fa7624a7df48c.jpg"
+        }
+    ],
+    "main category": "pies"
+}

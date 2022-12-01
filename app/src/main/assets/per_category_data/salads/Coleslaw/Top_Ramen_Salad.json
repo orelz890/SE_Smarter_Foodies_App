@@ -1,0 +1,102 @@
+{
+    "title": "Top Ramen Salad",
+    "Category": "Coleslaw",
+    "Ingredients": [
+        {
+            "1": "1 Salad-"
+        },
+        {
+            "2": "2 (3 ounce) packages chicken-flavored ramen noodles, broken into pieces, seasoning packets reserved"
+        },
+        {
+            "3": "0.5 cup raw sunflower seeds"
+        },
+        {
+            "4": "0.5 cup slivered almonds"
+        },
+        {
+            "5": "1 (16 ounce) package coleslaw mix"
+        },
+        {
+            "6": "3  green onions, chopped"
+        },
+        {
+            "7": "1 Dressing-"
+        },
+        {
+            "8": "0.5 cup olive oil"
+        },
+        {
+            "9": "3 tablespoons white vinegar"
+        },
+        {
+            "10": "1 tablespoon white sugar"
+        },
+        {
+            "11": "0.5 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Spread ramen noodles, sunflower seeds, and almonds onto a baking sheet."
+        },
+        {
+            "2": "Bake noodle mixture in the preheated oven until fragrant and toasted, 10 to 15 minutes. Set aside to cool to room temperature."
+        },
+        {
+            "3": "Combine coleslaw mix and green onions in a large bowl; sprinkle cooled noodle mixture over the top."
+        },
+        {
+            "4": "Make dressing: Whisk olive oil, reserved ramen seasoning packets, vinegar, sugar, and black pepper together in a bowl until smooth."
+        },
+        {
+            "5": "Pour dressing over noodle mixture and toss to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "450"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8888003.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6812911.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6762437.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6672789.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

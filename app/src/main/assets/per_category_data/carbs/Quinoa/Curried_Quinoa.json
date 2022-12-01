@@ -1,0 +1,84 @@
+{
+    "title": "Curried Quinoa",
+    "Category": "Quinoa",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil, or as needed"
+        },
+        {
+            "2": "1 small onion, diced"
+        },
+        {
+            "3": "2 cloves garlic, minced"
+        },
+        {
+            "4": "1 cup quinoa"
+        },
+        {
+            "5": "2 cups chicken broth"
+        },
+        {
+            "6": "1 tablespoon curry powder, or to taste"
+        },
+        {
+            "7": "1 tablespoon ancho chile powder"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large skillet over medium heat. Add onion and garlic and cook and stir for 2 minutes; add quinoa and cook and stir until lightly toasted, about 5 minutes."
+        },
+        {
+            "2": "Pour broth into the pan and bring to a boil. Reduce heat and add curry and chile powders; cover and simmer until tender, about 25 minutes. Season to taste with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "473"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "63g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8945225.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8625008.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8451977.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8271675.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

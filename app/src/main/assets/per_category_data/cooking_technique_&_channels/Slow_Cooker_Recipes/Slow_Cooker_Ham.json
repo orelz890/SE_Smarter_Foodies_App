@@ -1,0 +1,72 @@
+{
+    "title": "Slow Cooker Ham",
+    "Category": "Slow Cooker Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups packed brown sugar"
+        },
+        {
+            "2": "1 (8 pound) cured, bone-in picnic ham"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Spread about 1 1/2 cups of brown sugar on the bottom of a slow cooker."
+        },
+        {
+            "2": "Place ham on the brown sugar with the flat side facing down; you might have to trim it a little to make it fit. Use your hands to rub the remaining brown sugar onto the ham."
+        },
+        {
+            "3": "Cover, and cook on Low for 8 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 5 mins"
+        },
+        {
+            "Servings": "24 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "360"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2544a93ca1322fa134b913fc57eb83d6%2F1652883383BE557C74-E226-4EDD-B936-852D9DE9941C.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8138600.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb7a0b2b151d0dae1ef1c39463880abfe%2F6575577.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6189127.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/NCAqRaoiUoFLN1Vg5mvYnEVnyfU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2465980-slow-cooker-ham-AllrecipesMagazine-1x1-1-286f1729210349ac80971712cc5b5284.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/NCAqRaoiUoFLN1Vg5mvYnEVnyfU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2465980-slow-cooker-ham-AllrecipesMagazine-1x1-1-286f1729210349ac80971712cc5b5284.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

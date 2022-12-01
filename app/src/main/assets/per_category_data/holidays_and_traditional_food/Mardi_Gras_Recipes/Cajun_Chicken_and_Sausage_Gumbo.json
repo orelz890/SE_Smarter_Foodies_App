@@ -1,0 +1,102 @@
+{
+    "title": "Cajun Chicken and Sausage Gumbo",
+    "Category": "Mardi Gras Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup vegetable oil"
+        },
+        {
+            "2": "1 cup all-purpose flour"
+        },
+        {
+            "3": "1 pound andouille or smoked sausage, sliced 1/4 inch thick"
+        },
+        {
+            "4": "2  celery stalks, chopped"
+        },
+        {
+            "5": "1 large green bell pepper, chopped"
+        },
+        {
+            "6": "1 large onion, chopped"
+        },
+        {
+            "7": "4 cloves garlic, minced"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        },
+        {
+            "9": "1 pinch Creole seasoning, or to taste"
+        },
+        {
+            "10": "6 cups chicken broth"
+        },
+        {
+            "11": "1  bay leaf"
+        },
+        {
+            "12": "1  rotisserie chicken, boned and shredded"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a stockpot over medium heat; whisk in flour until roux is smooth and has cooked to the color of chocolate milk, about 8 to 10 minutes. Be careful not to burn the roux. If you see black specks in the mixture, it's best to start over."
+        },
+        {
+            "2": "Add sausage, celery, bell pepper, and onion into the roux; cook and stir 5 minutes. Add garlic; continue to cook and stir another 5 minutes."
+        },
+        {
+            "3": "Season with salt, pepper, and Creole seasoning; stir well to blend. Pour in chicken broth and add bay leaf. Bring to a boil over high heat; reduce heat to medium-low and simmer, uncovered, for 1 hour, stirring occasionally."
+        },
+        {
+            "4": "Stir in the chicken and simmer 1 hour more. Skim off any foam that floats to the top during this time."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "45 mins"
+        },
+        {
+            "Cook Time": " 2 hrs 30 mins"
+        },
+        {
+            "Total Time": " 3 hrs 15 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "480"
+        },
+        {
+            "Fat": "40g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F312e14625fd741540ef7ca3121876b00%2F165908392020220723_220119.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F312e14625fd741540ef7ca3121876b00%2F1657406397Chicken-Sausage-Gumbo.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F312e14625fd741540ef7ca3121876b00%2F16490371849269DA05-A9EA-4BE2-AEE7-830AA651F49C.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8337951.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/hdp1YAraLD2xEu9DMzKNlZ75GLk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1088072-fee9dfee87474d378d769b3177bf176a.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

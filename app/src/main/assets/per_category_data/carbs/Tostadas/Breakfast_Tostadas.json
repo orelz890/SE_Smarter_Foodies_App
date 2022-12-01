@@ -1,0 +1,87 @@
+{
+    "title": "Breakfast Tostadas",
+    "Category": "Tostadas",
+    "Ingredients": [
+        {
+            "1": "4  tostada shells"
+        },
+        {
+            "2": "1 (15.25 ounce) can black beans, rinsed and drained"
+        },
+        {
+            "3": "0.25 cup prepared salsa"
+        },
+        {
+            "4": "0.5 cup prepared guacamole"
+        },
+        {
+            "5": "2 tablespoons vegetable oil"
+        },
+        {
+            "6": "4  frozen hash brown patties"
+        },
+        {
+            "7": "4  eggs"
+        },
+        {
+            "8": "0.5 cup shredded Cheddar cheese"
+        },
+        {
+            "9": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Divide tostada shells between 4 plates."
+        },
+        {
+            "2": "Place beans in a bowl. Add salsa and stir to combine. Divide mixture between the tostada shells. Place a dollop of guacamole on top of each bean mixture."
+        },
+        {
+            "3": "Heat oil in a large skillet over medium-high heat. Place frozen hash brown patties in the skillet and cook 3 minutes. Flip and cook 3 minutes more. Transfer patties to a paper towel-lined plate."
+        },
+        {
+            "4": "In the same skillet, crack eggs and cook for 2 minutes. Flip and cook 2 minutes more, or until desired doneness."
+        },
+        {
+            "5": "Place a hash brown patty on top of each tostada, pressing down in the guacamole so it sticks. Top each patty with shredded cheese and a fried egg. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 tostadas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "439"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://www.allrecipes.com/thmb/wRAaFh32VR_IL3oj8etl8mp8A34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1Breakfast-Tostadas-35a4f186aa1b4405b5ccd5ac991eb23b.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

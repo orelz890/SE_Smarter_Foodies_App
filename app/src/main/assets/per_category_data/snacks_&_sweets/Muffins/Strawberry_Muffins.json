@@ -1,0 +1,93 @@
+{
+    "title": "Strawberry Muffins",
+    "Category": "Muffins",
+    "Ingredients": [
+        {
+            "1": "0.5 cup milk"
+        },
+        {
+            "2": "0.25 cup canola oil"
+        },
+        {
+            "3": "1 large egg"
+        },
+        {
+            "4": "0.75 cups all-purpose flour"
+        },
+        {
+            "5": "0.5 cup white sugar"
+        },
+        {
+            "6": "2 teaspoons baking powder"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "1 cup chopped strawberries"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C) Line 8 standard-sized muffin cups with paper liners."
+        },
+        {
+            "2": "Lightly beat milk, oil, and egg in a small bowl."
+        },
+        {
+            "3": "Mix flour, sugar, baking powder, and salt together in a large bowl. Toss in chopped strawberries and stir to coat with flour. Fold in the milk mixture until just combined. Divide batter evenly among the prepared muffin cups."
+        },
+        {
+            "4": "Bake in the preheated oven until the tops bounce back from the touch and a toothpick inserted into the center comes out clean, about 25 minutes. Remove from the oven and cool for 10 minutes in the pan before removing to a wire rack to cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 muffins"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "233"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc2fd3c94533d2de82fe9bcc6e3e4f032%2F1663578629488A5AB0-18E1-4A16-A6FE-97FC239696D0.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc2fd3c94533d2de82fe9bcc6e3e4f032%2F165831376620220720_054159.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc2fd3c94533d2de82fe9bcc6e3e4f032%2F1655383173IMG_157AC3DA154C-1.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc2fd3c94533d2de82fe9bcc6e3e4f032%2F1646875560850E8BA0-4F92-4BFA-812F-7BE40944562D.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Easy and Elegant Pork Tenderloin",
+    "Category": "Pork Tenderloin",
+    "Ingredients": [
+        {
+            "1": "2 cups Italian seasoned bread crumbs"
+        },
+        {
+            "2": "0.5 cup olive oil"
+        },
+        {
+            "3": "2 pounds pork tenderloin"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "2": "Mix bread crumbs and olive oil in bowl to reach consistency that would be moist enough to stick to the meat when pressed. Place pork on a shallow cooking sheet. Press the crumb mixture onto all sides of the meat until there is no pink showing, usually 1/4 inch thick."
+        },
+        {
+            "3": "Bake for at least 35 minutes until a meat thermometer reads 165 degrees F (75 degrees C) or until there is no pink when the pork is cut. Let the pork rest for 10 minutes, then cut into 1/2 inch slices."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "437"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8815496.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8605898.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6367499.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcd6a50094ae0b0a130433690b93e4243%2F6195986.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/PUPgLJpjtmj8KJszQQiIPFhCNU0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/602402-45417a25c6614c058c96f3aa9c7616ce.jpg"
+        }
+    ],
+    "main category": "pork"
+}

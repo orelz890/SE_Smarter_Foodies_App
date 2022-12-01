@@ -1,0 +1,99 @@
+{
+    "title": "Ground Beef Casserole with Rice",
+    "Category": "Rice Casserole",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "1 medium green bell pepper, diced"
+        },
+        {
+            "3": "1 medium tomato, chopped"
+        },
+        {
+            "4": "4 tablespoons Worcestershire sauce"
+        },
+        {
+            "5": "1 (28 ounce) can diced tomatoes, undrained"
+        },
+        {
+            "6": "1 tablespoon minced onion"
+        },
+        {
+            "7": "1 teaspoon minced garlic"
+        },
+        {
+            "8": "1 teaspoon dried oregano"
+        },
+        {
+            "9": "1 teaspoon dried basil"
+        },
+        {
+            "10": "1 salt and ground black pepper to taste"
+        },
+        {
+            "11": "2 cups cooked rice"
+        },
+        {
+            "12": "0.5 cup shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Add bell pepper, tomato, and Worcestershire sauce. Cook and stir until pepper has slightly softened, about 5 minutes. Strain 1/2 of the liquid from the canned diced tomatoes into the mixture."
+        },
+        {
+            "3": "Stir diced tomatoes, onion, garlic, oregano, basil, salt, and pepper into the ground beef mixture. Simmer until some of the liquid has reduced, about 10 minutes. Add rice and mix well. Transfer to a casserole dish and sprinkle Cheddar cheese on top."
+        },
+        {
+            "4": "Bake in the preheated oven until filling is heated through and cheese is melted, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "230"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F773a3b89db6abd6cafeaf9388f2bf6eb%2F1667777942322EAB515E7-A8C7-4D7B-851A-50A1EBC8DBBD.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9219874.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3832762.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

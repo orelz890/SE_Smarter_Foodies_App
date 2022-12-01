@@ -1,0 +1,84 @@
+{
+    "title": "Sweet and Tangy Broccoli Salad",
+    "Category": "Broccoli Salad",
+    "Ingredients": [
+        {
+            "1": "0.75 pound bacon"
+        },
+        {
+            "2": "2 heads broccoli, cut into florets"
+        },
+        {
+            "3": "0.5 cup chopped red onion"
+        },
+        {
+            "4": "0.5 cup raisins"
+        },
+        {
+            "5": "1 cup mayonnaise"
+        },
+        {
+            "6": "0.5 cup white sugar"
+        },
+        {
+            "7": "0.5 cup distilled white vinegar"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain the bacon slices on a paper towel-lined plate; crumble bacon."
+        },
+        {
+            "2": "Place broccoli, onion, raisins, and bacon in a large bowl."
+        },
+        {
+            "3": "Stir mayonnaise, sugar, and vinegar together in a bowl; pour dressing over broccoli mixture and toss to coat. Season with salt and black pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "382"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa38c0f529e7e5d2184a011b44d4c76df%2F1103478.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1026175.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F30d77166c6d4017edde88f3b579e9ee6%2F840646.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

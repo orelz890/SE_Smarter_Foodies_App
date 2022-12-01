@@ -1,0 +1,72 @@
+{
+    "title": "Grilled Asparagus",
+    "Category": "Low Glycemic Impact Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound fresh asparagus spears, trimmed"
+        },
+        {
+            "2": "1 tablespoon olive oil"
+        },
+        {
+            "3": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for high heat and lightly oil the grate."
+        },
+        {
+            "2": "Lightly coat the asparagus spears with olive oil. Season with salt and pepper to taste."
+        },
+        {
+            "3": "Cook asparagus on the preheated grill, turning often until lightly charred and fork-tender about 3 to 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "53"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9236421.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9199165.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9077604.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9052983.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/hvcF22c2D2P68wlDCA_1zx7jdDQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1014212-fc937371084b44e9b04f77ed8a3b2bad.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

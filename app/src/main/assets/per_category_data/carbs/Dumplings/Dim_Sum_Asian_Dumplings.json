@@ -1,0 +1,108 @@
+{
+    "title": "Dim Sum Asian Dumplings",
+    "Category": "Dumplings",
+    "Ingredients": [
+        {
+            "1": "1 pound ground pork"
+        },
+        {
+            "2": "1 large onion, chopped"
+        },
+        {
+            "3": "0.5 bunch cilantro, chopped"
+        },
+        {
+            "4": "0.5 teaspoon crushed red pepper flakes"
+        },
+        {
+            "5": "2 teaspoons red curry paste"
+        },
+        {
+            "6": "0.5 teaspoon garam masala"
+        },
+        {
+            "7": "0.5 teaspoon chili powder"
+        },
+        {
+            "8": "0.25 teaspoon onion powder"
+        },
+        {
+            "9": "0.25 teaspoon garlic powder"
+        },
+        {
+            "10": "1 cup all-purpose flour"
+        },
+        {
+            "11": "0.25 cup water as needed"
+        },
+        {
+            "12": "3 tablespoons peanut butter"
+        },
+        {
+            "13": "0.5 teaspoon cayenne pepper"
+        },
+        {
+            "14": "1 teaspoon white sugar"
+        },
+        {
+            "15": "1 teaspoon vegetable oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine pork, onion, cilantro, red pepper flakes, red curry paste, garam masala, chili powder, onion powder, and garlic powder in a bowl. Mix well, then set aside. Place flour into a separate bowl. Slowly stir in the water as needed until a soft dough is achieved. There may be some water left over. Roll out walnut-sized balls of dough into thin circles."
+        },
+        {
+            "2": "Fill each of the wrappers with about 1 tablespoon of the pork mixture. Moisten the edges of the wrapper, then fold in half, sealing to create a half moon shape. Repeat with the remaining wrappers and filling. Place the dumplings in a steamer over 1 inch of boiling water, and cover. Steam until the dough becomes glossy, about 10 minutes."
+        },
+        {
+            "3": "To make sauce: Combine peanut butter, cayenne pepper, sugar, and vegetable oil in a microwave-safe glass or ceramic bowl. Cook in the microwave on High for 30 seconds and stir. Serve with the dumplings."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "40 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "40 dumplings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "344"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8981849.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6130254.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F284b851b41c5b1ebaf580d49b772573d%2F3910619.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F289344.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Spicy Tomato and Lentil Soup",
+    "Category": "Lentil Soup",
+    "Ingredients": [
+        {
+            "1": "1  onion, finely chopped"
+        },
+        {
+            "2": "1 tablespoon olive oil"
+        },
+        {
+            "3": "1  chile pepper, chopped"
+        },
+        {
+            "4": "1 cup red lentils"
+        },
+        {
+            "5": "1 (14.5 ounce) can peeled and diced tomatoes"
+        },
+        {
+            "6": "1 cup water"
+        },
+        {
+            "7": "1 salt and pepper to taste"
+        },
+        {
+            "8": "0.5 teaspoon ground cumin"
+        },
+        {
+            "9": "1 teaspoon dried basil"
+        },
+        {
+            "10": "0.25 cup sour cream, for topping (Optional)"
+        },
+        {
+            "11": "2 sprigs fresh basil leaves for garnish (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat the olive oil in a large saucepan or Dutch oven. Lightly brown the onions in the oil. Add the tomatoes, chili pepper, lentils, cumin and basil to the pan along with the water. Bring to a boil, then reduce heat to medium-low and simmer for about 20 minutes, or until the lentils are tender."
+        },
+        {
+            "2": "When the lentils have softened, use a stick blender to puree the soup. Season to taste with salt and pepper. For a special touch, put sour cream in a squirt bottle, and squeeze a spiral onto the top of each bowl of soup, and garnish with a sprig of fresh basil."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "239"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8609327.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6793e46d1ee34dd310ba1077e23fca74%2F4977497.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1114429.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F248153.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

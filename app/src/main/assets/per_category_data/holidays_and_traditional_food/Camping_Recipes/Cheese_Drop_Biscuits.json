@@ -1,0 +1,90 @@
+{
+    "title": "Cheese Drop Biscuits",
+    "Category": "Camping Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "1 tablespoon baking powder"
+        },
+        {
+            "3": "1 teaspoon dried chives"
+        },
+        {
+            "4": "0.5 teaspoon garlic salt"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "0.25 cup shortening"
+        },
+        {
+            "7": "0.75 cup milk"
+        },
+        {
+            "8": "0.25 cup shredded sharp Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 450 degrees F (230 degrees C). Lightly grease a baking sheet."
+        },
+        {
+            "2": "Mix together flour, baking powder, chives, garlic salt, and salt in a large bowl. Cut in shortening until mixture has only small lumps."
+        },
+        {
+            "3": "Add milk and cheese; stir until moistened. Drop dough by heaping spoonfuls onto the prepared baking sheet."
+        },
+        {
+            "4": "Bake in the preheated oven until golden, 12 to 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 biscuits"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "131"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9124270.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8430594.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8177496.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8041897.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

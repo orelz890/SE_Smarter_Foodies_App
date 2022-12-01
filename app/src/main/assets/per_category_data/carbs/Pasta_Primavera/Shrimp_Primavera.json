@@ -1,0 +1,108 @@
+{
+    "title": "Shrimp Primavera",
+    "Category": "Pasta Primavera",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package rigatoni pasta"
+        },
+        {
+            "2": "1 tablespoon vegetable oil"
+        },
+        {
+            "3": "1  onion, sliced"
+        },
+        {
+            "4": "3 cloves garlic, crushed"
+        },
+        {
+            "5": "1 small zucchini, sliced"
+        },
+        {
+            "6": "1 small yellow squash, sliced"
+        },
+        {
+            "7": "1  green bell pepper, sliced"
+        },
+        {
+            "8": "1 (8 ounce) package sliced fresh mushrooms"
+        },
+        {
+            "9": "1 (28 ounce) can crushed tomatoes"
+        },
+        {
+            "10": "1 teaspoon dried oregano"
+        },
+        {
+            "11": "1 teaspoon dried basil"
+        },
+        {
+            "12": "0.5 teaspoon red pepper flakes"
+        },
+        {
+            "13": "0.25 teaspoon salt"
+        },
+        {
+            "14": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "15": "2 pounds shrimp, peeled and deveined"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook rigatoni in the boiling water, stirring occasionally until cooked through but firm to the bite, about 13 minutes. Drain."
+        },
+        {
+            "2": "Heat vegetable oil in a skillet over medium heat; cook and stir onion and garlic until onion is tender, about 5 minutes. Add zucchini, yellow squash, bell peppers, and mushrooms; continue cooking and stirring until vegetables are tender, about 5 minutes more. Pour tomatoes into skillet and season with oregano, basil, red pepper flakes, salt, and black pepper; bring to a simmer."
+        },
+        {
+            "3": "Cook shrimp in vegetables sauce until they are bright pink on the outside and the meat is no longer transparent in the center, about 5 minutes. Serve shrimp and sauce over rigatoni."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "460"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "66g"
+        },
+        {
+            "Protein": "38g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F160a90aa763d01149c30cbb57ceac758%2F165784379320220714_183350.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9361188.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9319095.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9312483.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

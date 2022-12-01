@@ -1,0 +1,93 @@
+{
+    "title": "Chicken Cordon Bleu Casserole",
+    "Category": "Chicken Cordon Bleu",
+    "Ingredients": [
+        {
+            "1": "1  egg"
+        },
+        {
+            "2": "0.5 cup milk"
+        },
+        {
+            "3": "2 pounds skinless, boneless chicken breast halves - cut into chunks"
+        },
+        {
+            "4": "1 cup plain dried bread crumbs"
+        },
+        {
+            "5": "1 cup oil for frying"
+        },
+        {
+            "6": "8 ounces Swiss cheese, cubed"
+        },
+        {
+            "7": "8 ounces cubed ham"
+        },
+        {
+            "8": "1 (10.75 ounce) can  condensed cream of chicken soup"
+        },
+        {
+            "9": "1 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Beat egg and 1/2 cup milk together until combined. Stir in the chicken chunks to coat, then drain, and coat with bread crumbs. Heat oil in a large skillet to 375 degrees F (190 degrees C). Fry breaded chicken cubes in hot oil until golden brown on all sides, then remove, and drain on paper towels."
+        },
+        {
+            "3": "Place chicken cubes in a glass baking dish, along with the Swiss cheese, and ham. Stir together the soup with 1 cup milk, pour over casserole."
+        },
+        {
+            "4": "Bake in preheated oven until golden brown and bubbly, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "500"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "36g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5826462.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5034984.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4587867.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F610258a975bcedc4f6d30fabe0264944%2F1089334.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

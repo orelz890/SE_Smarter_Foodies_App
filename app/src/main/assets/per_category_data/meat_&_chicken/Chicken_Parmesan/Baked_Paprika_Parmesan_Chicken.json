@@ -1,0 +1,93 @@
+{
+    "title": "Baked Paprika-Parmesan Chicken",
+    "Category": "Chicken Parmesan",
+    "Ingredients": [
+        {
+            "1": "0.25 cup all-purpose flour"
+        },
+        {
+            "2": "0.5 cup grated Parmesan cheese"
+        },
+        {
+            "3": "2 teaspoons paprika"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.5 teaspoon black pepper"
+        },
+        {
+            "6": "1  egg, beaten"
+        },
+        {
+            "7": "2 tablespoons milk"
+        },
+        {
+            "8": "4  skinless, boneless chicken breast halves"
+        },
+        {
+            "9": "0.25 cup butter, melted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Coat a shallow baking dish with nonstick cooking spray."
+        },
+        {
+            "2": "Combine flour, parmesan, paprika, salt, and pepper in a bowl. In a separate bowl, whisk together the egg and milk. Dip the chicken in the egg, then dredge in the flour mixture. Place in the baking dish, and pour the melted butter evenly over the chicken."
+        },
+        {
+            "3": "Bake for about 1 hour and 15 minutes in the preheated oven, until the cheese has browned, and the chicken has cooked."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "364"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "42g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9440080.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9375538.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9174567.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8357052.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/uEemyFx9ivuW6-duUP3vIq9rHY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1039526-f51c9f4a7e6443ba8470a09039fc9a05.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Lighter Banana Muffins",
+    "Category": "Banana Bread",
+    "Ingredients": [
+        {
+            "1": "2  eggs, beaten"
+        },
+        {
+            "2": "3  very ripe bananas, mashed"
+        },
+        {
+            "3": "2 cups all-purpose flour"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "0.75 cup white sugar"
+        },
+        {
+            "6": "1 teaspoon baking soda"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease or line 10 muffin cups."
+        },
+        {
+            "2": "In a medium bowl, combine eggs and bananas. In a separate bowl, mix together flour, salt, sugar and baking soda. Stir banana mixture into flour mixture. Fold in walnuts if desired. Pour batter into prepared muffin cups."
+        },
+        {
+            "3": "Bake in preheated oven for 20 to 25 minutes, or until a toothpick inserted into center of a muffin comes out clean."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 muffins"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "195"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9243157.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8096709.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7018546.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6757208.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

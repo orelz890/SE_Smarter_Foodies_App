@@ -1,0 +1,87 @@
+{
+    "title": "Broccoli Raisin Salad",
+    "Category": "Picnic Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound bacon"
+        },
+        {
+            "2": "6 cups chopped broccoli"
+        },
+        {
+            "3": "1 small red onion, finely chopped"
+        },
+        {
+            "4": "1 cup raisins"
+        },
+        {
+            "5": "1 cup mayonnaise"
+        },
+        {
+            "6": "0.5 cup white sugar"
+        },
+        {
+            "7": "2 tablespoons white vinegar"
+        },
+        {
+            "8": "1 (3 ounce) package sunflower seeds"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain the bacon slices on paper towels and cool. Chop bacon."
+        },
+        {
+            "2": "Mix broccoli, bacon, red onion, and raisins in a bowl."
+        },
+        {
+            "3": "Whisk mayonnaise, sugar, and vinegar together in a bowl; stir dressing into broccoli mixture until evenly coated. Cover bowl and refrigerate for flavors to blend, about 1 hour. Sprinkle salad with sunflower seeds."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "330"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8365344.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8340579.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcf6be9462e8b90ea32e38084a406befc%2F7548019.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7436499.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

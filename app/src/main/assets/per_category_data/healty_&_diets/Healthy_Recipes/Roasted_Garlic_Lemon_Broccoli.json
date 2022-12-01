@@ -1,0 +1,84 @@
+{
+    "title": "Roasted Garlic Lemon Broccoli",
+    "Category": "Healthy Recipes",
+    "Ingredients": [
+        {
+            "1": "2 heads broccoli, separated into florets"
+        },
+        {
+            "2": "2 teaspoons extra-virgin olive oil"
+        },
+        {
+            "3": "1 teaspoon sea salt"
+        },
+        {
+            "4": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "5": "1 clove garlic, minced"
+        },
+        {
+            "6": "0.5 teaspoon lemon juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Toss broccoli florets with extra virgin olive oil, sea salt, pepper, and garlic in a large bowl. Spread the broccoli out in an even layer on a baking sheet."
+        },
+        {
+            "3": "Bake in the preheated oven until florets are tender enough to pierce the stems with a fork, 15 to 20 minutes. Remove and transfer to a serving platter."
+        },
+        {
+            "4": "Squeeze lemon juice liberally over broccoli before serving for a refreshing, tangy finish."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "49"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6ef95dc3c6057ad1abd77f0148c2c621%2F1650142087IMG_20220416_152609284.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9103453.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9103438.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8469402.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ThVaJYnlJ7AcoQkvTRIH0nmHScA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5521411-roasted-garlic-lemon-broccoli-jewels-1x1-1-22ed72a9a1b543159fa4fda5aad56995.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

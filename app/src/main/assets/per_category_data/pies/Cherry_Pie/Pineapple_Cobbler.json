@@ -1,0 +1,87 @@
+{
+    "title": "Pineapple Cobbler",
+    "Category": "Cherry Pie",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter"
+        },
+        {
+            "2": "1 cup self-rising flour"
+        },
+        {
+            "3": "1 cup white sugar"
+        },
+        {
+            "4": "1 cup milk"
+        },
+        {
+            "5": "1 (15 ounce) can pineapple chunks, drained"
+        },
+        {
+            "6": "0.5 cup brown sugar"
+        },
+        {
+            "7": "1 (4 ounce) jar maraschino cherries, halved"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). In a 9x13 inch baking dish, melt the butter in the oven."
+        },
+        {
+            "2": "In a medium bowl, stir together flour, white sugar, and milk until smooth. Pour batter into the prepared dish."
+        },
+        {
+            "3": "In a separate bowl, toss pineapple with brown sugar until fruit is well coated. Drop pineapple mixture by spoonfuls into the batter. Sprinkle with cherries."
+        },
+        {
+            "4": "Bake 30 minutes in the preheated oven, until golden."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "295"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "51g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8692439.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8412759.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8020291.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7156452.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Curry Dip",
+    "Category": "Diwali Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups mayonnaise"
+        },
+        {
+            "2": "2 teaspoons tarragon vinegar"
+        },
+        {
+            "3": "2 teaspoons prepared horseradish"
+        },
+        {
+            "4": "2 teaspoons finely grated onion"
+        },
+        {
+            "5": "0.5 teaspoon curry powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir mayonnaise, vinegar, horseradish, onion, and curry powder together in a bowl; refrigerate at least 2 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 5 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "198"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8195705.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

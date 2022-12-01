@@ -1,0 +1,99 @@
+{
+    "title": "Mexican Shepherd's Pie",
+    "Category": "Shepherd's Pie",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds ground beef"
+        },
+        {
+            "2": "1  onion, finely chopped"
+        },
+        {
+            "3": "1 garlic powder to taste"
+        },
+        {
+            "4": "1 salt and pepper to taste"
+        },
+        {
+            "5": "1 (14.5 ounce) can diced tomatoes"
+        },
+        {
+            "6": "1 (1.25 ounce) package taco seasoning mix"
+        },
+        {
+            "7": "0.75 cup hot water"
+        },
+        {
+            "8": "1 (11 ounce) can whole kernel corn, drained"
+        },
+        {
+            "9": "1 (8.5 ounce) package corn muffin mix"
+        },
+        {
+            "10": "1 cup shredded Cheddar cheese (Optional)"
+        },
+        {
+            "11": "1 (2.25 ounce) can sliced black olives (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Spray a 9x13 inch baking dish with cooking spray."
+        },
+        {
+            "2": "Place the beef and onion in a skillet over medium heat. Cook until beef is evenly brown and onion is tender. Drain grease. Season with garlic powder, salt, and pepper. Mix in the tomatoes, and cook 5 minutes. Stir in the taco seasoning and water. Bring to a boil, reduce heat to low, and continue cooking 5 minutes, until thickened. Transfer to the prepared baking dish, and top evenly with corn."
+        },
+        {
+            "3": "Prepare the corn muffin mix according to package directions. Spread evenly over the corn layer in the baking dish."
+        },
+        {
+            "4": "Bake 20 minutes in the preheated oven, or until puffed and golden. Garnish with olives and cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "407"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8121052.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7594947.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7564317.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6443135.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

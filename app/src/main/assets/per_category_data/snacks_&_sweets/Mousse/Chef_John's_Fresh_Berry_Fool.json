@@ -1,0 +1,90 @@
+{
+    "title": "Chef John's Fresh Berry Fool",
+    "Category": "Mousse",
+    "Ingredients": [
+        {
+            "1": "1 cup fresh raspberries"
+        },
+        {
+            "2": "1 cup fresh blackberries, broken in half"
+        },
+        {
+            "3": "1 cup fresh strawberries, hulled and quartered"
+        },
+        {
+            "4": "1 teaspoon lemon zest"
+        },
+        {
+            "5": "1 teaspoon freshly squeezed lemon juice"
+        },
+        {
+            "6": "0.25 cup white sugar"
+        },
+        {
+            "7": "1 cup chilled heavy cream"
+        },
+        {
+            "8": "0.25 cup creme fraiche"
+        },
+        {
+            "9": "1 tablespoon white sugar"
+        },
+        {
+            "10": "0.25 teaspoon pure vanilla extract"
+        },
+        {
+            "11": "1 cup crushed shortbread cookies"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place raspberries, blackberries, and strawberries in a bowl. Add lemon zest, lemon juice, and 1/4 cup sugar. Stir until sugar is mixed with fruit and juices begin to form. Cover and refrigerate until chilled, about 1 hour."
+        },
+        {
+            "2": "Place heavy cream and creme fraiche in a cold bowl. Add 1 tablespoon sugar and vanilla extract. Whisk until mixture has soft peaks and sharp lines, 5 to 8 minutes."
+        },
+        {
+            "3": "Place some cookie crumbs in the bottom of each serving dish. Spoon in some of the fruit and a layer of whipped cream. Repeat layers, ending with a sprinkle of cookie crumbs."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 8 mins"
+        },
+        {
+            "Total Time": " 1 hrs 18 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 large servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "646"
+        },
+        {
+            "Fat": "42g"
+        },
+        {
+            "Carbs": "65g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3931900.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://www.allrecipes.com/thmb/Ug5hu5pLj434ldGi8zxvLfXXcZg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3931900-8c0becc3d8f0476ca9ed5df7d3b9473a.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

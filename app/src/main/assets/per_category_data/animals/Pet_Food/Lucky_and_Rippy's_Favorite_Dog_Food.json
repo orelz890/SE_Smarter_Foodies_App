@@ -1,0 +1,62 @@
+{
+    "title": "Lucky and Rippy's Favorite Dog Food",
+    "Category": "Pet Food",
+    "Ingredients": [
+        {
+            "1": "3 pounds minced chicken meat"
+        },
+        {
+            "2": "4 cups rice"
+        },
+        {
+            "3": "1.0 cups frozen vegetable blend (no garlic or onions), minced"
+        },
+        {
+            "4": "3.0 cups water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place chicken, rice, and vegetables into a large saucepan or Dutch oven; stir in water until smooth. Place over medium-high heat and bring to a boil; stir constantly."
+        },
+        {
+            "2": "Reduce heat to medium-low, cover, and simmer until rice is tender and liquid is absorbed, about 25 minutes. Cool completely before serving; store covered in the refrigerator."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 50 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 cups"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8984896.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8713951.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8701901.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7026612.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "animals"
+}

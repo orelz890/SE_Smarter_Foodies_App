@@ -1,0 +1,78 @@
+{
+    "title": "Air Fryer Chicken Katsu",
+    "Category": "Fried Chicken",
+    "Ingredients": [
+        {
+            "1": "1 large egg"
+        },
+        {
+            "2": "1 salt to taste"
+        },
+        {
+            "3": "1 cup panko bread crumbs"
+        },
+        {
+            "4": "0.75 pound chicken breast cutlets"
+        },
+        {
+            "5": "1 avocado oil cooking spray"
+        },
+        {
+            "6": "1 tablespoon barbecue sauce (Optional)"
+        },
+        {
+            "7": "1 tablespoon chopped green onions (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an air fryer to 400 degrees F (200 degrees C) according to the manufacturer's recommendations."
+        },
+        {
+            "2": "Beat egg and salt lightly in a shallow bowl or a small casserole dish. Place panko bread crumbs on a plate."
+        },
+        {
+            "3": "Dip each cutlet into egg mixture, allowing excess to drip back into the bowl. Turn cutlets in panko bread crumbs so both sides are coated well, pressing the cutlets gently into the crumbs. Set on a piece of parchment paper. Spray each side with cooking spray and place in the basket of the air fryer."
+        },
+        {
+            "4": "Air-fry for 5 minutes, turn, and air-fry for an additional 4 minutes. Serve with barbecue sauce and garnish with green onions."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "411"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "43g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8337630.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7714823.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

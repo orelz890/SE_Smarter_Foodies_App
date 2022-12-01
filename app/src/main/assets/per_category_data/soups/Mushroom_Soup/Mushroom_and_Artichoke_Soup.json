@@ -1,0 +1,117 @@
+{
+    "title": "Mushroom and Artichoke Soup",
+    "Category": "Mushroom Soup",
+    "Ingredients": [
+        {
+            "1": "4 (14 ounce) cans canned quartered artichoke hearts"
+        },
+        {
+            "2": "1 cup olive oil"
+        },
+        {
+            "3": "3 pounds thinly sliced shallots"
+        },
+        {
+            "4": "3 small red onions, chopped"
+        },
+        {
+            "5": "3 cloves garlic, minced"
+        },
+        {
+            "6": "0.75 cup all-purpose flour"
+        },
+        {
+            "7": "0.5 cup rice vinegar"
+        },
+        {
+            "8": "1 gallon water"
+        },
+        {
+            "9": "6 tablespoons vegetable base"
+        },
+        {
+            "10": "0.5 teaspoons salt"
+        },
+        {
+            "11": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "12": "0.5 teaspoon ground cayenne pepper"
+        },
+        {
+            "13": "0.5 teaspoon ground nutmeg"
+        },
+        {
+            "14": "2 tablespoons dried thyme"
+        },
+        {
+            "15": "6  dried portabella mushrooms, softened in water"
+        },
+        {
+            "16": "3 pounds fresh mushrooms, sliced"
+        },
+        {
+            "17": "3 pounds carrots, sliced"
+        },
+        {
+            "18": "0.75 cup capers"
+        },
+        {
+            "19": "0.75 cup chopped fresh parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place artichokes in a food processor, slice thinly and set aside. It works well when using a 3 millimeter slicing disk."
+        },
+        {
+            "2": "Using a extra-large stock pot saute onions, garlic and shallots in olive oil and set on low. Cook for 15 minutes."
+        },
+        {
+            "3": "Sprinkle flour over onions and cook for 1 minute. Stir in vinegar and cook for approximately 3 minutes, in order for vinegar to evaporate."
+        },
+        {
+            "4": "Stir in water, vegetable base, salt, pepper, cayenne, nutmeg, thyme and sliced artichokes and cook for 25 minutes."
+        },
+        {
+            "5": "Add dried mushrooms along with the water they soaked in, fresh mushrooms and carrots. Let cook for 15 minutes."
+        },
+        {
+            "6": "Stir in capers and parsley, season with salt and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "50 "
+        },
+        {
+            "Yield": "50 plus servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "102"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4399719.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F197055.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdf389fe0474bed02f2bb22f31727eac6%2F10880.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

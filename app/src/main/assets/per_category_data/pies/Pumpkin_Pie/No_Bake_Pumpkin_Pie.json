@@ -1,0 +1,99 @@
+{
+    "title": "No-Bake Pumpkin Pie",
+    "Category": "Pumpkin Pie",
+    "Ingredients": [
+        {
+            "1": "1 (.25 ounce) package unflavored gelatin"
+        },
+        {
+            "2": "1 teaspoon ground cinnamon"
+        },
+        {
+            "3": "0.5 teaspoon ground ginger"
+        },
+        {
+            "4": "0.5 teaspoon ground nutmeg"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "1 (14 ounce) can sweetened condensed milk"
+        },
+        {
+            "7": "2  eggs, beaten"
+        },
+        {
+            "8": "1 (15 ounce) can pumpkin puree"
+        },
+        {
+            "9": "1 (9 inch) prepared graham cracker crust"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine gelatin, cinnamon, ginger, nutmeg, and salt in a heavy saucepan; stir in condensed milk and beaten eggs, mixing well. Let stand one minute, then place on burner over low heat, stirring constantly until gelatin dissolves and mixture thickens, about 10 minutes. Remove from heat."
+        },
+        {
+            "2": "Stir in pumpkin until thoroughly combined; pour mixture into graham cracker crust. Chill for at least 3 hours before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "346"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "51g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7379223.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F20defd3c581869e3b131c1f0e86bd9c5%2F6029897.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4583078.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1852483.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Uj5ykp6rEnte684KYnMhTCF4EBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Screen-Shot-2022-10-20-at-3.55.20-PM-fff65525929441a9bdc709f9a26438b0.png"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/z-zLos-BpqriITh6hGwZ_AZ1Hz8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15564_No-Bake-Pumpkin-Pie-I_Debbie-Furey_25595_original-1x1-1-5c01276ac68e41399f724c6a5986d6d8.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/68WYV8oBd_jnUjNsZKwqBc1Y8dk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25595-no-bake-pumpkin-pie-i-Debbie-Furey-4x3-1-d4a91d972468441eb2fb6f567d1f071c.jpg"
+        }
+    ],
+    "main category": "pies"
+}

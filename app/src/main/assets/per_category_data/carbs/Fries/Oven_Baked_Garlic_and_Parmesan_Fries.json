@@ -1,0 +1,84 @@
+{
+    "title": "Oven-Baked Garlic and Parmesan Fries",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "4 large unpeeled russet potatoes, cut into 1/4-inch strips"
+        },
+        {
+            "2": "0.25 cup olive oil"
+        },
+        {
+            "3": "3 cloves garlic, minced"
+        },
+        {
+            "4": "0.5 teaspoon ground dried thyme"
+        },
+        {
+            "5": "0.5 teaspoon seasoned salt, divided (Optional)"
+        },
+        {
+            "6": "0.75 cup grated Parmesan cheese, divided"
+        },
+        {
+            "7": "0.25 cup chopped fresh parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "2": "Place potatoes in a large bowl and drizzle with olive oil. Season with garlic, thyme, and 1/4 teaspoon seasoned salt; toss until are evenly coated. Lift fries out of the bowl and spread evenly onto a nonstick baking sheet. Save remaining oil in the bowl."
+        },
+        {
+            "3": "Bake in the preheated oven for 30 minutes, flipping fries halfway. Return fries to the bowl with olive oil. Sprinkle with 1/2 cup Parmesan cheese and parsley; toss to coat. Spread again onto the baking sheet."
+        },
+        {
+            "4": "Continue baking until cheese melts, about 10 minutes. Sprinkle with remaining 1/4 cup Parmesan cheese and 1/4 teaspoon seasoned salt to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "481"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "69g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8237360.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7150049.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7218b9a1786f6a062dd95d533d4b5caa%2F5772506.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2e479f1dbf5a682e64b1be296e0e9310%2F4992300.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

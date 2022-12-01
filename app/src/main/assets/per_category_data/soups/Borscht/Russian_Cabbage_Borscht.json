@@ -1,0 +1,114 @@
+{
+    "title": "Russian Cabbage Borscht",
+    "Category": "Borscht",
+    "Ingredients": [
+        {
+            "1": "0.5 cups thinly sliced potatoes"
+        },
+        {
+            "2": "1 cup thinly sliced beets"
+        },
+        {
+            "3": "4 cups vegetable stock or water"
+        },
+        {
+            "4": "2 tablespoons butter"
+        },
+        {
+            "5": "0.5 cups chopped onions"
+        },
+        {
+            "6": "1 teaspoon caraway seed (Optional)"
+        },
+        {
+            "7": "2 teaspoons salt"
+        },
+        {
+            "8": "1  celery stalk, chopped"
+        },
+        {
+            "9": "1 large carrot, sliced"
+        },
+        {
+            "10": "3 cups coarsely chopped red cabbage"
+        },
+        {
+            "11": "1 black pepper to taste"
+        },
+        {
+            "12": "0.25 teaspoon fresh dill weed"
+        },
+        {
+            "13": "1 tablespoon cider vinegar"
+        },
+        {
+            "14": "1 tablespoon honey"
+        },
+        {
+            "15": "1 cup tomato puree"
+        },
+        {
+            "16": "1 sour cream, for topping"
+        },
+        {
+            "17": "1 chopped tomatoes, for garnish"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place sliced potatoes and beets in a medium saucepan over high heat; cover with stock, and boil until vegetables are tender. Remove potatoes and beets with a slotted spoon, and reserve stock."
+        },
+        {
+            "2": "Melt butter in a large skillet over medium heat. Stir in onions, caraway seeds, and salt; cook until onions become soft and translucent. Then stir in celery, carrots, and cabbage. Mix in reserved stock; cook, covered, until all vegetables are tender, about 10 minutes."
+        },
+        {
+            "3": "Add potatoes and beets to the skillet. Season with black pepper and dill weed. Stir in cider vinegar, honey, and tomato puree. Cover, reduce heat to medium low, and simmer at least 30 minutes. Serve topped with sour cream, extra dill weed, and chopped fresh tomatoes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "128"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9008356.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8918925.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8791428.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8779197.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

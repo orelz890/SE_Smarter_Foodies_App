@@ -1,0 +1,87 @@
+{
+    "title": "Gnocchi with Chicken, Pesto and Fresh Mozzarella",
+    "Category": "Gnocchi",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "1  skinless, boneless chicken breast half - cut into 1 1/2-inch cubes"
+        },
+        {
+            "3": "1 salt and ground black pepper to taste"
+        },
+        {
+            "4": "2 tablespoons chicken broth"
+        },
+        {
+            "5": "1 (8 ounce) jar prepared pesto"
+        },
+        {
+            "6": "1 (12 ounce) package potato gnocchi"
+        },
+        {
+            "7": "4 ounces small fresh mozzarella balls"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a saucepan. Season chicken pieces with salt and pepper; cook and stir in the hot oil until no longer pink in the middle, 7 to 10 minutes. Remove chicken to a bowl using a slotted spoon, retaining drippings in the pan."
+        },
+        {
+            "2": "Pour chicken broth into the saucepan. Bring broth to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon; continue cooking until the broth reduces in volume by about half, 7 to 10 minutes. Return cooked chicken to the saucepan. Stir pesto through the chicken mixture; remove from heat."
+        },
+        {
+            "3": "Bring a large pot of lightly salted water to a rolling boil. Cook gnocchi at a boil until they float to the top, about 3 minutes. Remove gnocchi from the water to a large bowl using a slotted spoon, retaining water in the pot."
+        },
+        {
+            "4": "Place the saucepan with the chicken and pesto over the boiling water; cook and stir over the boiling water until warmed completely, about 5 minutes. Pour chicken and pesto mixture over the gnocchi; add mozzarella and stir until evenly mixed."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "570"
+        },
+        {
+            "Fat": "44g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc3bff939063d901c263c8885a7f1833c%2F16460114647DAAD69F-03CD-4EB4-A149-C7F6A41C8754.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9252491.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8995269.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8819611.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

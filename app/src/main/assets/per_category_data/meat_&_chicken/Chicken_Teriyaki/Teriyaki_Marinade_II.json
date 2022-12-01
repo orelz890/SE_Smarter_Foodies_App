@@ -1,0 +1,71 @@
+{
+    "title": "Teriyaki Marinade II",
+    "Category": "Chicken Teriyaki",
+    "Ingredients": [
+        {
+            "1": "0.5 cup soy sauce"
+        },
+        {
+            "2": "2 cloves garlic, crushed"
+        },
+        {
+            "3": "2 large fresh green onions, chopped"
+        },
+        {
+            "4": "1 tablespoon ground ginger"
+        },
+        {
+            "5": "2 tablespoons white sugar"
+        },
+        {
+            "6": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "7": "3 tablespoons distilled white vinegar"
+        },
+        {
+            "8": "1 tablespoon vegetable oil"
+        },
+        {
+            "9": "2 tablespoons Worcestershire sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, combine soy sauce, garlic, green onions, ginger, sugar and pepper. Add the vinegar, oil and Worcestershire sauce. Mix well."
+        },
+        {
+            "2": "Marinate meat in this mixture for several hours before grilling outdoors."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 cup"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6980987.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F434019bb3dc228dd4a11e62e6682f1af%2F3754566.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd9ddd56a2b54b38d69ede9efd02afa14%2F1023304.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F404265.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

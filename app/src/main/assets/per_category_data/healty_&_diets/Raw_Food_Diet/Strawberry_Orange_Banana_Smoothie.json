@@ -1,0 +1,63 @@
+{
+    "title": "Strawberry Orange Banana Smoothie",
+    "Category": "Raw Food Diet",
+    "Ingredients": [
+        {
+            "1": "1 cup fresh strawberries"
+        },
+        {
+            "2": "0.75 cup orange juice"
+        },
+        {
+            "3": "1  ripe banana"
+        },
+        {
+            "4": "1 cup ice cubes, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Blend strawberries, orange juice, banana, and ice in a blender until smooth and frothy."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "238"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "58g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc30247e0564d17d7b331e69e5e39f171%2F1645805324image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9002909.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8143194.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8115512.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

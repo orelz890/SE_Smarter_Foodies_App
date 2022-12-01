@@ -1,0 +1,69 @@
+{
+    "title": "Creamy Pesto Sauce",
+    "Category": "Pesto Sauce",
+    "Ingredients": [
+        {
+            "1": "1 bunch fresh basil leaves"
+        },
+        {
+            "2": "1 cup Parmesan cheese"
+        },
+        {
+            "3": "2 ounces cream cheese"
+        },
+        {
+            "4": "0.25 cup olive oil"
+        },
+        {
+            "5": "1 tablespoon butter"
+        },
+        {
+            "6": "1 large clove garlic, minced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of water to a boil. Add the basil leaves and cook until tender and bright green, 2 to 5 minutes. Drain basil, reserving 2 tablespoons of the basil water."
+        },
+        {
+            "2": "Blend basil, 2 tablespoons basil water, Parmesan cheese, cream cheese, olive oil, butter, and garlic in a blender until smooth and creamy."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "115"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1100320.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

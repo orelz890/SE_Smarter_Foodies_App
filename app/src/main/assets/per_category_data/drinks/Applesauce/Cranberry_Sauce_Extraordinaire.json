@@ -1,0 +1,90 @@
+{
+    "title": "Cranberry Sauce Extraordinaire",
+    "Category": "Applesauce",
+    "Ingredients": [
+        {
+            "1": "1 cup water"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "1 (12 ounce) package fresh cranberries"
+        },
+        {
+            "4": "1  orange, peeled and pureed"
+        },
+        {
+            "5": "1  apple - peeled, cored and diced"
+        },
+        {
+            "6": "1  pear - peeled, cored and diced"
+        },
+        {
+            "7": "1 cup chopped dried mixed fruit"
+        },
+        {
+            "8": "1 cup chopped pecans"
+        },
+        {
+            "9": "0.5 teaspoon salt"
+        },
+        {
+            "10": "1 teaspoon ground cinnamon"
+        },
+        {
+            "11": "0.5 teaspoon ground nutmeg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium saucepan, boil water and sugar until the sugar dissolves. Reduce the heat to simmer, and stir in cranberries, pureed orange, apple, pear, dried fruit, pecans, salt, cinnamon, and nutmeg. Cover, and simmer for 30 minutes, stirring occasionally, until the cranberries burst. Remove from heat, and let cool to room temperature."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "195"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8875310.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7528884.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb21d6807a8d71d852b0bc3423137aefd%2F7391744.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3805e69cc467682d57544dad84ece82c%2F7383620.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

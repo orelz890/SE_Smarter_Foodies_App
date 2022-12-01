@@ -1,0 +1,87 @@
+{
+    "title": "Banana Waffles",
+    "Category": "Waffles",
+    "Ingredients": [
+        {
+            "1": "0.25 cups all-purpose flour"
+        },
+        {
+            "2": "3 teaspoons baking powder"
+        },
+        {
+            "3": "0.5 teaspoon salt"
+        },
+        {
+            "4": "1 pinch ground nutmeg"
+        },
+        {
+            "5": "1 cup 1% milk"
+        },
+        {
+            "6": "1  egg"
+        },
+        {
+            "7": "2  ripe bananas, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat waffle iron. In a large mixing bowl, sift together flour, baking powder, salt and nutmeg. Stir in milk and eggs until mixture is smooth."
+        },
+        {
+            "2": "Spray preheated waffle iron with non-stick cooking spray. Pour two tablespoons of the waffle batter onto the hot waffle iron. Place two slices of banana on top of the batter and then spoon another two tablespoons of batter on top of the banana. Cook until golden brown. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "241"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9356386.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8933449.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8380754.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8032754.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/DQIy0AFegH9tXMdxL5EXlmqtvME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6771293-e07b12b6fa574c03a12542d504009d49.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

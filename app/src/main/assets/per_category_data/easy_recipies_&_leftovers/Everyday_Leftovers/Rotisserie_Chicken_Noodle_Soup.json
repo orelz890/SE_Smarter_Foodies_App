@@ -1,0 +1,96 @@
+{
+    "title": "Rotisserie Chicken Noodle Soup",
+    "Category": "Everyday Leftovers",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "1 pound carrots, sliced diagonally"
+        },
+        {
+            "3": "1 cup chopped celery"
+        },
+        {
+            "4": "0.5 medium yellow onion, chopped"
+        },
+        {
+            "5": "1 teaspoon dried oregano"
+        },
+        {
+            "6": "1 teaspoon Italian seasoning"
+        },
+        {
+            "7": "0.5 teaspoon seasoned salt"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        },
+        {
+            "9": "2 cloves garlic, minced"
+        },
+        {
+            "10": "4 cups chicken broth, or to taste"
+        },
+        {
+            "11": "1 (8 ounce) package extra-wide egg noodles"
+        },
+        {
+            "12": "1  cooked rotisserie chicken - skinned, boned, and meat shredded"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil into a Dutch oven over medium-high heat. Add carrots, celery, onion, oregano, Italian seasoning, both salts, and pepper; cook and stir until vegetables have softened, 6 to 8 minutes. Stir in garlic and cook until fragrant, about 1 minute."
+        },
+        {
+            "2": "Add chicken broth and bring to a boil. Add egg noodles; cook for 5 minutes."
+        },
+        {
+            "3": "Gently stir in shredded chicken and simmer until egg noodles are tender and chicken is heated through, 2 to 3 more minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "360"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdc146106695044ee81728c278f07fae0%2F165348562806DDD693-3C3A-46CB-96E8-2BA859811DD6.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9160149.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8124373.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7150778.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "easy_recipies_&_leftovers"
+}

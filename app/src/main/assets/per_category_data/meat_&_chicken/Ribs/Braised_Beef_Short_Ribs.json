@@ -1,0 +1,105 @@
+{
+    "title": "Braised Beef Short Ribs",
+    "Category": "Ribs",
+    "Ingredients": [
+        {
+            "1": "0.5 cup all-purpose flour for coating"
+        },
+        {
+            "2": "2 teaspoons salt"
+        },
+        {
+            "3": "1 pinch ground black pepper"
+        },
+        {
+            "4": "4 pounds beef short ribs"
+        },
+        {
+            "5": "2 tablespoons vegetable oil"
+        },
+        {
+            "6": "1 cup water"
+        },
+        {
+            "7": "1 cup stewed tomatoes"
+        },
+        {
+            "8": "1 clove garlic, minced"
+        },
+        {
+            "9": "6  potatoes, peeled and cubed"
+        },
+        {
+            "10": "3  onions, chopped"
+        },
+        {
+            "11": "6  carrots, chopped"
+        },
+        {
+            "12": "0.5 tablespoons all-purpose flour"
+        },
+        {
+            "13": "4 tablespoons water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a bowl, combine the 1/2 cup flour, salt and ground black pepper. Roll the ribs in the seasoned flour."
+        },
+        {
+            "2": "In a large pot or Dutch oven, heat the oil and brown the ribs well on all sides. Pour in 1 cup boiling water, tomatoes, and garlic. Reduce heat to low, cover, and simmer for 1 1/2 hours, adding more water if necessary."
+        },
+        {
+            "3": "Place the potatoes, onions, and carrots in the pot. Continue to simmer for another 30 minutes to 1 hour, or until all vegetables are tender. Remove the meat and vegetables to a serving platter."
+        },
+        {
+            "4": "In a separate small bowl, dissolve 1 1/2 tablespoons flour and 2 tablespoons water for every one cup liquid remaining in the pot. Add this to the pot and stir well until thickened. Pour over meat and vegetables."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 2 hrs 40 mins"
+        },
+        {
+            "Total Time": " 2 hrs 55 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "889"
+        },
+        {
+            "Fat": "69g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9046466.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9046464.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8009885.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4547351.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

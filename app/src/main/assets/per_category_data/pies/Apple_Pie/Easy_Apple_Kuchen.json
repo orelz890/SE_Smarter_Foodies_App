@@ -1,0 +1,111 @@
+{
+    "title": "Easy Apple Kuchen",
+    "Category": "Apple Pie",
+    "Ingredients": [
+        {
+            "1": "0.5 cup milk"
+        },
+        {
+            "2": "0.25 cup shortening"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "0.5 cups all-purpose flour"
+        },
+        {
+            "6": "0.5 cup white sugar"
+        },
+        {
+            "7": "1 tablespoon baking powder"
+        },
+        {
+            "8": "0.5 teaspoon salt"
+        },
+        {
+            "9": "5  apples - peeled, cored, and sliced, or more to taste"
+        },
+        {
+            "10": "1 Topping-"
+        },
+        {
+            "11": "1 cup white sugar"
+        },
+        {
+            "12": "0.25 cup butter, melted"
+        },
+        {
+            "13": "0.25 cup all-purpose flour"
+        },
+        {
+            "14": "4 teaspoons ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Beat milk, shortening, egg, and vanilla extract together in a bowl until smooth. Stir 1 1/2 cups flour, 1/2 cup sugar, baking powder, and salt into milk mixture until dough comes together. Spread dough out into the bottom of a rimmed baking sheet."
+        },
+        {
+            "3": "Spread apples over the dough on the baking sheet."
+        },
+        {
+            "4": "Stir 1 cup sugar, melted butter, 1/4 cup flour, and cinnamon together in a bowl until topping is combined. Sprinkle topping over apples."
+        },
+        {
+            "5": "Bake in the preheated oven until apples are tender and topping is golden, about 40 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "15 "
+        },
+        {
+            "Yield": "15 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "223"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4034137.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3264888.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2146024.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1643366.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

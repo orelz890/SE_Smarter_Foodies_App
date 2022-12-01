@@ -1,0 +1,78 @@
+{
+    "title": "Easy Cauliflower Ceviche",
+    "Category": "Tostadas",
+    "Ingredients": [
+        {
+            "1": "1 large head cauliflower"
+        },
+        {
+            "2": "4 small carrots, peeled and finely chopped"
+        },
+        {
+            "3": "3 large plum tomatoes, seeded and chopped"
+        },
+        {
+            "4": "1 small white onion, finely chopped"
+        },
+        {
+            "5": "8 sprigs cilantro, chopped"
+        },
+        {
+            "6": "0.5  limes, juiced"
+        },
+        {
+            "7": "1 salt to taste"
+        },
+        {
+            "8": "1  avocado - peeled, pitted, and sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add cauliflower, cover, and steam for 7 minutes. Let cool and finely chop."
+        },
+        {
+            "2": "Place chopped cauliflower, carrots, tomatoes, onion, and cilantro in a bowl. Pour lime juice on top and season with salt. Cover and chill for at least 30 minutes. Serve garnished with avocado slices."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "89"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5315420.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

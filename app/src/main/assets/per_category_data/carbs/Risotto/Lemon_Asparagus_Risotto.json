@@ -1,0 +1,105 @@
+{
+    "title": "Lemon Asparagus Risotto",
+    "Category": "Risotto",
+    "Ingredients": [
+        {
+            "1": "20  fresh asparagus spears, trimmed"
+        },
+        {
+            "2": "4 cups low-sodium chicken broth"
+        },
+        {
+            "3": "2 tablespoons olive oil"
+        },
+        {
+            "4": "1 small onion, diced"
+        },
+        {
+            "5": "1 stalk celery, diced"
+        },
+        {
+            "6": "0.25 teaspoon salt"
+        },
+        {
+            "7": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "8": "1 cup Arborio rice"
+        },
+        {
+            "9": "1 clove garlic, minced"
+        },
+        {
+            "10": "0.5 cup dry white wine"
+        },
+        {
+            "11": "0.25 cup freshly grated Parmesan cheese"
+        },
+        {
+            "12": "2 tablespoons lemon juice"
+        },
+        {
+            "13": "0.5 teaspoon lemon zest"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add asparagus, cover, and steam until tender, about 5 minutes. Cut asparagus into 1-inch pieces; set aside."
+        },
+        {
+            "2": "Meanwhile, heat chicken broth in a saucepan over medium heat; keep at a simmer while preparing risotto."
+        },
+        {
+            "3": "Heat olive oil in a large skillet over medium heat. Add onion and celery; cook and stir until vegetables are tender, about 5 minutes. Season with salt and black pepper. Stir in Arborio rice and garlic; cook and stir until rice is lightly toasted, about 5 more minutes."
+        },
+        {
+            "4": "Stir in white wine and simmer until it has mostly evaporated, then stir in 1/3 of the hot chicken broth; continue stirring until rice has absorbed liquid and turned creamy. Repeat this process twice more, stirring constantly. Stirring in the broth should take 15 to 20 minutes in all. When finished, rice should be tender yet firm to the bite. Stir in asparagus."
+        },
+        {
+            "5": "Remove from heat and mix in Parmesan cheese, lemon juice, and lemon zest. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "357"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9331891.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9145259.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8956266.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8956248.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

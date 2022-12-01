@@ -1,0 +1,96 @@
+{
+    "title": "Bruschetta al Pomodoro",
+    "Category": "Bruschetta",
+    "Ingredients": [
+        {
+            "1": "8  seeded, chopped roma (plum) tomatoes"
+        },
+        {
+            "2": "5 leaves chopped fresh basil"
+        },
+        {
+            "3": "2 cloves minced garlic"
+        },
+        {
+            "4": "1 pinch dried oregano"
+        },
+        {
+            "5": "1 dash crushed red pepper"
+        },
+        {
+            "6": "1 pinch salt"
+        },
+        {
+            "7": "1 pinch ground black pepper"
+        },
+        {
+            "8": "1 tablespoon olive oil"
+        },
+        {
+            "9": "1 (1 pound) loaf French or Italian-style bread"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven broiler."
+        },
+        {
+            "2": "Combine tomatoes, basil, garlic, oregano, red pepper, salt, pepper, and olive oil in a mixing bowl. Use more olive oil, if necessary, to coat entire mixture. Allow mixture to sit for 10 minutes."
+        },
+        {
+            "3": "Slice bread to 1/2-inch thickness; arrange on a baking sheet in a single layer."
+        },
+        {
+            "4": "Place the baking sheet under the preheated broiler until bread slices are lightly browned, about 1 minute per side."
+        },
+        {
+            "5": "Remove the baking sheet from the oven. Spread tomato mixture on each piece of toasted bread. Return to the oven and broil until tomato mixture is hot but not cooked, 2 to 3 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "127"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3565338.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F358363.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F186293.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F118099.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

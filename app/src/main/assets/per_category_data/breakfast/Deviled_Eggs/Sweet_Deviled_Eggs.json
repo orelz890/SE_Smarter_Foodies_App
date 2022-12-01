@@ -1,0 +1,87 @@
+{
+    "title": "Sweet Deviled Eggs",
+    "Category": "Deviled Eggs",
+    "Ingredients": [
+        {
+            "1": "6  large eggs"
+        },
+        {
+            "2": "1 ice cubes"
+        },
+        {
+            "3": "3 tablespoons mayonnaise"
+        },
+        {
+            "4": "1 tablespoon white sugar"
+        },
+        {
+            "5": "1 teaspoon honey mustard"
+        },
+        {
+            "6": "1 teaspoon vinegar"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "9": "1 pinch paprika, for garnish"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place eggs in a saucepan and cover with water. Bring to a boil, remove from heat, and let eggs stand in hot water for 15 minutes. Remove eggs from hot water and place in a bowl of ice water. Peel."
+        },
+        {
+            "2": "Slice eggs in half lengthwise. Remove yolks and transfer to a bowl; mash with a fork or pastry blender until yolks resemble powder. Stir mayonnaise, sugar, honey mustard, vinegar, salt, and pepper into yolks until smooth. Spoon yolk mixture into the egg whites and lightly sprinkle with paprika. Chill before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "132"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9380332.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8819682.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8776670.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8138247.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

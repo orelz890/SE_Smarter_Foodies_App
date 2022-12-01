@@ -1,0 +1,81 @@
+{
+    "title": "Candied Apples",
+    "Category": "Halloween Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "15  craft sticks"
+        },
+        {
+            "3": "15 medium apples"
+        },
+        {
+            "4": "2 cups white sugar"
+        },
+        {
+            "5": "0.5 cups water"
+        },
+        {
+            "6": "1 cup light corn syrup"
+        },
+        {
+            "7": "8 drops red food coloring"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Lightly grease cookie sheets. Insert craft sticks into whole, stemmed apples."
+        },
+        {
+            "2": "Combine sugar, water, and corn syrup in a medium saucepan over medium-high heat. Heat to 300 to 310 degrees F (149 to 154 degrees C), or until a small amount of syrup dropped into cold water forms hard, brittle threads. Remove from heat and stir in food coloring."
+        },
+        {
+            "3": "Holding each apple by its stick, dip in syrup, remove and turn to coat evenly. Place on prepared sheets to harden."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "15 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "237"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "63g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8645140.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8624375.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8589746.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8445326.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

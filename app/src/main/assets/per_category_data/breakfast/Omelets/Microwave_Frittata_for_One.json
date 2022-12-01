@@ -1,0 +1,75 @@
+{
+    "title": "Microwave Frittata for One",
+    "Category": "Omelets",
+    "Ingredients": [
+        {
+            "1": "1  serving cooking spray"
+        },
+        {
+            "2": "2 large eggs"
+        },
+        {
+            "3": "1 tablespoon pesto"
+        },
+        {
+            "4": "2 tablespoons ricotta cheese"
+        },
+        {
+            "5": "2 tablespoons freshly grated Parmesan cheese"
+        },
+        {
+            "6": "1 freshly ground black pepper to taste"
+        },
+        {
+            "7": "1 tablespoon chopped green onion, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Spray a large coffee mug with cooking spray."
+        },
+        {
+            "2": "Whisk eggs, pesto, ricotta cheese, Parmesan cheese, and pepper together in a small bowl. Pour frittata mixture into coffee mug."
+        },
+        {
+            "3": "Cook the frittata in a microwave oven for 1 minute and 30 seconds, stirring at thirty-second intervals (you will stir twice). Invert cooked frittata onto a plate or eat it right out of the coffee mug. Garnish with green onions."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 serving"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "313"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6442885.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

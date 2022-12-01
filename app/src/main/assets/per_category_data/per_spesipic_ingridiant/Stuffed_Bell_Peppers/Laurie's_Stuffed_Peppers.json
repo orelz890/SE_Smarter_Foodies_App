@@ -1,0 +1,93 @@
+{
+    "title": "Laurie's Stuffed Peppers",
+    "Category": "Stuffed Bell Peppers",
+    "Ingredients": [
+        {
+            "1": "1 pound pork sausage"
+        },
+        {
+            "2": "2 pounds ground beef"
+        },
+        {
+            "3": "1 small onion, chopped"
+        },
+        {
+            "4": "1 dash garlic salt"
+        },
+        {
+            "5": "4 (14.5 ounce) cans diced tomatoes, drained"
+        },
+        {
+            "6": "1 (10 ounce) can diced tomatoes with green chile peppers, drained"
+        },
+        {
+            "7": "1 (14 ounce) package uncooked instant rice"
+        },
+        {
+            "8": "6 large green bell peppers"
+        },
+        {
+            "9": "1 cup grated Asiago cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a skillet over medium heat, cook the sausage, beef, and onion until sausage and beef are evenly brown and onion is tender. Season with garlic salt. Drain grease. Mix in 2 cans diced tomatoes and 1 can diced tomatoes with green chiles. Reduce heat to low, and simmer 15 minutes."
+        },
+        {
+            "2": "Prepare the rice according to package directions. Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "3": "Cut the peppers in half lengthwise, retaining stems, and remove seeds. Arrange pepper halves in a baking dish, and fill each with about 1/3 cup rice. Top with equal amounts of the meat mixture. Pour remaining meat mixture and remaining 2 cans diced tomatoes around the peppers in the dish."
+        },
+        {
+            "4": "Bake 45 minutes in the preheated oven, or until bubbly. Top evenly with cheese, and continue baking 10 minutes, or until cheese is melted."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "735"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "105g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3890769.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3173047.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3162784.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1964878.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}

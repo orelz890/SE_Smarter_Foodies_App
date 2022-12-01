@@ -1,0 +1,78 @@
+{
+    "title": "Kulfi",
+    "Category": "Diwali Recipes",
+    "Ingredients": [
+        {
+            "1": "0.25 cups evaporated milk"
+        },
+        {
+            "2": "0.25 cups sweetened condensed milk"
+        },
+        {
+            "3": "1 (16 ounce) container frozen whipped topping, thawed"
+        },
+        {
+            "4": "4 slices white bread, torn into pieces"
+        },
+        {
+            "5": "0.5 teaspoon ground cardamom"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine evaporated milk, condensed milk and whipped topping in a blender and blend in pieces of bread until smooth."
+        },
+        {
+            "2": "Pour mixture into a 9x13 inch baking dish or two plastic ice cube trays, sprinkle with cardamom and freeze for 8 hours or overnight."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Additional Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 20 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "1 9x13 inch baking dish"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "139"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2121942.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F736349.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F595932.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F88746.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/yBrkTPFh3zb9_gnctkqBGPaLj1M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/736349-cc05f755c0944d27b84932325823364c.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "White Bread for the Bread Machine",
+    "Category": "Bread Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup warm water (110 degrees F/45 degrees C)"
+        },
+        {
+            "2": "3 tablespoons white sugar"
+        },
+        {
+            "3": "3 tablespoons vegetable oil"
+        },
+        {
+            "4": "0.5 teaspoons salt"
+        },
+        {
+            "5": "3 cups bread flour"
+        },
+        {
+            "6": "0.5 teaspoons active dry yeast"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place water, sugar, oil, salt, bread flour, and yeast into the pan of the bread machine (or in the order recommended by your bread machine manufacturer)."
+        },
+        {
+            "2": "Bake on White Bread setting."
+        },
+        {
+            "3": "Use oven mitts to carefully remove the bread pan from the machine. Remove bread from the pan and let cool completely on a wire rack before slicing."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 5 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "168"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F09b4f81557072e37b1debc45e6939a32%2F1645206837IMG_2790.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F09b4f81557072e37b1debc45e6939a32%2F16435775177760CB69-B591-4835-A598-2CD983285086.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9421149.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9102876.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

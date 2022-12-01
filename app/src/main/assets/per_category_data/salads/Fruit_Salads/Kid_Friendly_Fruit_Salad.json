@@ -1,0 +1,66 @@
+{
+    "title": "Kid-Friendly Fruit Salad",
+    "Category": "Fruit Salads",
+    "Ingredients": [
+        {
+            "1": "0.25  fresh pineapple, cut into bite-size chunks"
+        },
+        {
+            "2": "1  orange, peeled and cut into bite-size pieces"
+        },
+        {
+            "3": "0.5  red apple, cut into bite-size pieces"
+        },
+        {
+            "4": "5  seedless red grapes, halved"
+        },
+        {
+            "5": "5  seedless green grapes, halved"
+        },
+        {
+            "6": "2 cups strawberry yogurt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir pineapple, orange, apple, red grapes, and green grapes together in a bowl. Pour yogurt over the top and stir to coat completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "300"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "62g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3546180.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2228562.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

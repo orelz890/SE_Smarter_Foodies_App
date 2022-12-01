@@ -1,0 +1,90 @@
+{
+    "title": "Carrot, Tomato, and Spinach Quinoa Pilaf",
+    "Category": "Quinoa",
+    "Ingredients": [
+        {
+            "1": "2 teaspoons olive oil"
+        },
+        {
+            "2": "0.5  onion, chopped"
+        },
+        {
+            "3": "1 cup quinoa"
+        },
+        {
+            "4": "2 cups water"
+        },
+        {
+            "5": "2 tablespoons vegetarian chicken-flavored bouillon granules"
+        },
+        {
+            "6": "1 teaspoon ground black pepper"
+        },
+        {
+            "7": "1 teaspoon thyme"
+        },
+        {
+            "8": "1  carrot, chopped"
+        },
+        {
+            "9": "1  tomato, chopped"
+        },
+        {
+            "10": "1 cup baby spinach"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a saucepan over medium heat. Cook and stir onion in hot oil until translucent, about 5 minutes. Lower heat, stir in quinoa, and toast, stirring constantly, for 2 minutes. Stir in water, bouillon granules, pepper, and thyme; increase heat to high and bring to a boil. Cover, reduce heat to low, and simmer for 5 minutes."
+        },
+        {
+            "2": "Stir in carrots. Cover and simmer until all water is absorbed, about 10 minutes. Turn off heat, add tomatoes and spinach, and stir until spinach is wilted and tomatoes have released all their moisture, about 2 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "2 1/2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "165"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8147166.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7127918.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4435059.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F112cbce94718ba3fd1d01c06eb10ad69%2F4089068.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

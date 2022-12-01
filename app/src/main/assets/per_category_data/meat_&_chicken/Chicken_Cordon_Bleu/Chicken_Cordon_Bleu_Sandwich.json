@@ -1,0 +1,135 @@
+{
+    "title": "Chicken Cordon Bleu Sandwich",
+    "Category": "Chicken Cordon Bleu",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons dry bread crumbs"
+        },
+        {
+            "2": "1 teaspoon butter, melted"
+        },
+        {
+            "3": "2 tablespoons butter"
+        },
+        {
+            "4": "0.5 cup diced smoked ham"
+        },
+        {
+            "5": "0.5 cup diced onion"
+        },
+        {
+            "6": "0.25 teaspoon dried thyme"
+        },
+        {
+            "7": "2 tablespoons all-purpose flour"
+        },
+        {
+            "8": "0.5 cup milk"
+        },
+        {
+            "9": "1 tablespoon milk"
+        },
+        {
+            "10": "0.5 cup shredded Gruyere cheese"
+        },
+        {
+            "11": "0.5 teaspoons Dijon mustard"
+        },
+        {
+            "12": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "13": "1 pinch cayenne pepper, or more to taste"
+        },
+        {
+            "14": "1 pinch ground nutmeg"
+        },
+        {
+            "15": "1 cup diced cooked chicken breast"
+        },
+        {
+            "16": "0.25 cup diced dill pickles"
+        },
+        {
+            "17": "4 (1/2 inch thick) slices toasted French bread"
+        },
+        {
+            "18": "0.25 cup shredded Gruyere cheese"
+        },
+        {
+            "19": "1 tablespoon melted butter, divided"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 425 degrees F (220 degrees C). Line a baking sheet with heavy-duty aluminum foil."
+        },
+        {
+            "2": "Combine bread crumbs and 1 teaspoon melted butter in a small bowl."
+        },
+        {
+            "3": "Melt 2 tablespoons butter in a saucepan over medium heat. Cook and stir ham and onion in melted butter until onion turns translucent, about 5 minutes. Stir in thyme and cook for 1 minute. Add flour and cook, stirring constantly, until flour has lost its raw smell, about 3 minutes. Remove from heat and pour in 1/2 cup plus 1 tablespoon milk. Place saucepan back over medium heat and cook, stirring constantly, until sauce is thick, 1 to 2 minutes."
+        },
+        {
+            "4": "Remove saucepan from heat and add 1/2 cup shredded Gruyere cheese, Dijon mustard, salt, black pepper, cayenne pepper, and nutmeg. Stir to combine."
+        },
+        {
+            "5": "Stir chicken and diced pickle into cheese sauce."
+        },
+        {
+            "6": "Place toasted bread slices on the prepared baking sheet. Brush one side of each bread slice with 3/4 teaspoon melted butter. Turn slices over and top each with 1/4 of the cheese sauce. Sprinkle 1 tablespoon shredded Gruyere cheese over the top of each sandwich. Top with bread crumb mixture."
+        },
+        {
+            "7": "Bake sandwiches in the preheated oven until cheese is bubbling and chicken mixture is hot, 15 to 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 sandwiches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "384"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9325822.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9327844.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9152750.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5e7b77c8047f068d7aef6eb84ee59f67%2F1806446.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/aiG5KHQVIm-nxs_mvzLkY4YGHqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/958827-6cd79534aa2640339cb000b8651435f0.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

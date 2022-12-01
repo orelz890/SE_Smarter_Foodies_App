@@ -1,0 +1,90 @@
+{
+    "title": "Huevos Endiablados",
+    "Category": "Deviled Eggs",
+    "Ingredients": [
+        {
+            "1": "6  eggs"
+        },
+        {
+            "2": "1 (4 ounce) can tuna packed in oil, drained"
+        },
+        {
+            "3": "2 tablespoons diced red onion"
+        },
+        {
+            "4": "0.5 tablespoons mayonnaise"
+        },
+        {
+            "5": "1 tablespoon Dijon mustard"
+        },
+        {
+            "6": "1 teaspoon minced garlic"
+        },
+        {
+            "7": "0.5 teaspoon smoked paprika, plus more for garnish"
+        },
+        {
+            "8": "0.25 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place eggs in a saucepan and cover with water. Bring to a boil, remove from heat, and let eggs stand in hot water for 15 minutes. Remove eggs from hot water, cool under cold running water, and peel. Allow to cool completely, about 20 minutes."
+        },
+        {
+            "2": "Slice each egg in half lengthwise, remove yolks and place them in a bowl. Set the whites aside on a serving platter. Mash yolks together with tuna, red onion, mayonnaise, Dijon mustard, garlic, smoked paprika, and salt until smooth and combined. Fill each egg white half with about a tablespoon of filling. Garnish with smoked paprika."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "139"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8293739.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6800277.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5399541.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F971228.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/BB7Wblj1v8U7EgONHHc0XXKF5cw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8293739-4be69915a38e4aa6ae2791450bab665a.jpg"
+        }
+    ],
+    "main category": "breakfast"
+}

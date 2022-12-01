@@ -1,0 +1,78 @@
+{
+    "title": "Eggnog Waffles",
+    "Category": "Waffles",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "1 teaspoon baking powder"
+        },
+        {
+            "3": "1 teaspoon baking soda"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "2 cups eggnog"
+        },
+        {
+            "6": "2  eggs, beaten"
+        },
+        {
+            "7": "4 tablespoons butter, melted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix flour, baking powder, baking soda, and salt together in a bowl. Add eggnog, eggs, and butter; mix well."
+        },
+        {
+            "2": "Preheat a waffle iron according to manufacturer's instructions. Pour 1/4 of the batter into the preheated iron and cook until waffle is crisp and golden, about 5 minutes. Repeat with remaining batter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 waffles"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "537"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "65g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F009b92f721b32289ebc1a80a1126a304%2F1669211030656Eggnog-Waffles.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7146185.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6124982.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Maple Syrup Cranberry Sauce",
+    "Category": "Cranberry Sauce",
+    "Ingredients": [
+        {
+            "1": "1 cup water"
+        },
+        {
+            "2": "1 cup maple syrup"
+        },
+        {
+            "3": "1 (12 ounce) bag fresh cranberries"
+        },
+        {
+            "4": "1 tablespoon brown sugar"
+        },
+        {
+            "5": "1 dash lemon juice"
+        },
+        {
+            "6": "1 tablespoon brandy"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine water and maple syrup in a saucepan; bring to a boil. Add cranberries to syrup mixture and cook at a boil until berries pop, 10 to 15 minutes. Stir brown sugar and lemon juice into cranberries until brown sugar is completely dissolved. Mix in brandy."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "179"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8782977.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8782511.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8781834.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7145061.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/sl1GjKhnKrWcgZs5EGzDWksC4nk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4222579-fd1ec861e39b49fe9b23a141976f29af.jpg"
+        }
+    ],
+    "main category": "dips"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Refreshing Summer Cucumber Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "2 cups hot water"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "0.5 cup lemon juice from concentrate"
+        },
+        {
+            "4": "1  lemon, juiced"
+        },
+        {
+            "5": "0.5 large cucumber, sliced"
+        },
+        {
+            "6": "3 (12 fluid ounce) cans or bottles lemon-lime flavored soda"
+        },
+        {
+            "7": "2 cups ice cubes, or as needed"
+        },
+        {
+            "8": "1  lemon, thinly sliced"
+        },
+        {
+            "9": "0.5 large cucumber, sliced and then halved"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir hot water and sugar together in a large pitcher until sugar is dissolved. Stir in lemon juice concentrate, lemon juice, and sliced cucumbers. Refrigerate for 30 minutes or until ready to serve."
+        },
+        {
+            "2": "Pour lemon-lime soda into pitcher. Serve lemonade over ice and garnished with lemon slices and halved cucumber slices."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "151"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa849bce844ffc01d410e679a7eda9eee%2F5525928.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1485680.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F856268.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

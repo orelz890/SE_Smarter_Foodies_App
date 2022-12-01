@@ -1,0 +1,117 @@
+{
+    "title": "Classic Pad Thai",
+    "Category": "Pad Thai",
+    "Ingredients": [
+        {
+            "1": "8 ounces medium width rice vermicelli noodles"
+        },
+        {
+            "2": "3 tablespoons vegetable oil"
+        },
+        {
+            "3": "0.25 pound ground chicken"
+        },
+        {
+            "4": "1 teaspoon hot pepper sauce"
+        },
+        {
+            "5": "1  red pepper, thinly sliced"
+        },
+        {
+            "6": "0.5 pound peeled, deveined raw shrimp"
+        },
+        {
+            "7": "3 cloves garlic, minced"
+        },
+        {
+            "8": "2 teaspoons freshly grated gingerroot"
+        },
+        {
+            "9": "0.5 cup vegetable or chicken broth"
+        },
+        {
+            "10": "0.5 cup Heinz Tomato Ketchup"
+        },
+        {
+            "11": "0.25 cup lime juice"
+        },
+        {
+            "12": "3 tablespoons granulated sugar"
+        },
+        {
+            "13": "3 tablespoons fish sauce"
+        },
+        {
+            "14": "0.5 cups bean sprouts"
+        },
+        {
+            "15": "3  green onions, thinly sliced"
+        },
+        {
+            "16": "0.25 cup fresh coriander or parsley leaves"
+        },
+        {
+            "17": "1 chopped peanuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cover noodles with boiling water and let stand for 5 minutes; drain well and reserve."
+        },
+        {
+            "2": "Heat half the oil in a wok or deep skillet set over high heat. Crumble in chicken and add hot sauce; stir-fry for 3 to 5 minutes or until browned. Reserve on a platter."
+        },
+        {
+            "3": "Add remaining oil and peppers to pan; stir-fry for 3 minutes. Add shrimp and stir-fry for 2 minutes. Stir in garlic, ginger, broth, ketchup, lime juice, sugar and fish sauce. Bring to a boil. Add noodles and reserved meat; toss mixture to combine. Heat through."
+        },
+        {
+            "4": "Add sprouts and toss gently. Sprinkle with onions, coriander and peanuts."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "553"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "70g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8348350.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7943544.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7943545.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F56420fd48ba153b40f3af2045da6fef6%2F5406022.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

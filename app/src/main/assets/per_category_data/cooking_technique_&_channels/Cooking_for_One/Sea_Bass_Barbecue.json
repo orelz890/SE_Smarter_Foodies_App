@@ -1,0 +1,69 @@
+{
+    "title": "Sea Bass Barbecue",
+    "Category": "Cooking for One",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon lemon juice"
+        },
+        {
+            "2": "1 teaspoon olive oil"
+        },
+        {
+            "3": "1 salt and pepper to taste"
+        },
+        {
+            "4": "1  bay leaf"
+        },
+        {
+            "5": "1 pound fresh sea bass"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for medium heat and lightly oil grate."
+        },
+        {
+            "2": "In a small bowl, stir together lemon juice, olive oil, salt, pepper and bay leaf. Rub fish with mixture inside and out."
+        },
+        {
+            "3": "Grill the fish over medium heat for 8 to 10 minutes, flipping halfway through. Fish is done when it flakes easily with a fork."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "243"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "42g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F702961.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Tofu Burgers",
+    "Category": "Tofu Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (12 ounce) package firm tofu"
+        },
+        {
+            "2": "2 teaspoons vegetable oil"
+        },
+        {
+            "3": "1 small onion, chopped"
+        },
+        {
+            "4": "1  celery, chopped"
+        },
+        {
+            "5": "1  egg, beaten"
+        },
+        {
+            "6": "0.25 cup shredded Cheddar cheese"
+        },
+        {
+            "7": "1 salt and pepper to taste"
+        },
+        {
+            "8": "0.5 cup vegetable oil for frying"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place tofu in freezer 72 hours ahead of time. To thaw, fill a large saucepan with water and bring to a simmer. Leave tofu in package and place in water for about 20 minutes."
+        },
+        {
+            "2": "While tofu is thawing, heat 2 teaspoons vegetable oil in a small skillet. Saute onion and celery until soft and lightly browned. Place in a medium bowl and set aside."
+        },
+        {
+            "3": "When tofu is thawed, squeeze out excess water. Chop tofu finely and place in bowl with onion and celery. Mix in egg, cheese, salt and pepper until thoroughly combined."
+        },
+        {
+            "4": "Heat a large skillet over medium-high heat and pour in 1/2 cup vegetable oil (oil should be 1/4 inch deep). Drop tofu mixture into pan in 6 equal portions. Flatten with a spatula to form patties. Fry for 5 to 7 minutes on each side, until golden."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "40 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "2 days 23 hrs 5 mins"
+        },
+        {
+            "Total Time": "3 days"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 burgers"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "151"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8355342.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff13d922ee73e0efc3d61b623901ba363%2F5125056.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5426725.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4477249.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

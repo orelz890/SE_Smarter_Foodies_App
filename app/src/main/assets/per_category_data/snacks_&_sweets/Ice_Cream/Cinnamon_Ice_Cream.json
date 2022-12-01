@@ -1,0 +1,81 @@
+{
+    "title": "Cinnamon Ice Cream",
+    "Category": "Ice Cream",
+    "Ingredients": [
+        {
+            "1": "1 cup white sugar"
+        },
+        {
+            "2": "0.5 cups half-and-half cream"
+        },
+        {
+            "3": "2  eggs, beaten"
+        },
+        {
+            "4": "1 cup heavy cream"
+        },
+        {
+            "5": "1 teaspoon vanilla extract"
+        },
+        {
+            "6": "2 teaspoons ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a saucepan over medium-low heat, stir together the sugar and half-and-half. When the mixture begins to simmer, remove from heat, and whisk half of the mixture into the eggs. Whisk quickly so that the eggs do not scramble. Pour the egg mixture back into the saucepan, and stir in the heavy cream. Continue cooking over medium-low heat, stirring constantly, until the mixture is thick enough to coat the back of a metal spoon. Remove from heat, and whisk in vanilla and cinnamon. Set aside to cool."
+        },
+        {
+            "2": "Pour cooled mixture into an ice cream maker, and freeze according to the manufacturer's instructions."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 50 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "4 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "279"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8716096.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F97dfcc2a1f06594288f483d2ce08be6e%2F6225425.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6020867.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4050888.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

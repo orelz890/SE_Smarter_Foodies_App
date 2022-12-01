@@ -1,0 +1,81 @@
+{
+    "title": "Pork Pie",
+    "Category": "Ground Pork",
+    "Ingredients": [
+        {
+            "1": "2 (9 inch)  unbaked pie shells"
+        },
+        {
+            "2": "2 pounds lean ground pork"
+        },
+        {
+            "3": "1 pound lean ground beef"
+        },
+        {
+            "4": "0.5 cups mashed potatoes"
+        },
+        {
+            "5": "1 salt to taste"
+        },
+        {
+            "6": "1 ground black pepper to taste"
+        },
+        {
+            "7": "1 teaspoon ground nutmeg"
+        },
+        {
+            "8": "1  egg white"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Brown ground beef and ground pork over medium heat until thoroughly cooked. Drain off grease."
+        },
+        {
+            "2": "Mix together cooked meat, potatoes, salt, pepper, and nutmeg."
+        },
+        {
+            "3": "Line a 9 inch pie dish with pastry. Spoon pork mixture into pie crust, and top with second pie crust. Brush top crust with egg white. Shield crust edges with aluminum foil to prevent burning."
+        },
+        {
+            "4": "Bake at 375 degrees F (190 degrees C) for 45 minutes. Remove foil for final 15 minutes of baking to brown edges."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 to 9 - inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "712"
+        },
+        {
+            "Fat": "51g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "33g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffd0d5b884d5fb839807ef54aebe1e9b1%2F7512165.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5176229.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2022751.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1155194.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

@@ -1,0 +1,114 @@
+{
+    "title": "Mexican Pizza I",
+    "Category": "Pizza",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) can refried beans"
+        },
+        {
+            "2": "1 pound ground beef"
+        },
+        {
+            "3": "1 (1.25 ounce) package taco seasoning mix"
+        },
+        {
+            "4": "1 tablespoon vegetable oil"
+        },
+        {
+            "5": "4 (6 inch) corn tortillas"
+        },
+        {
+            "6": "8 ounces shredded Cheddar cheese"
+        },
+        {
+            "7": "8 tablespoons sour cream"
+        },
+        {
+            "8": "2  roma (plum) tomatoes, chopped"
+        },
+        {
+            "9": "2  green onion, chopped"
+        },
+        {
+            "10": "1 (4 ounce) can diced green chiles, drained"
+        },
+        {
+            "11": "0.5  avocado, diced"
+        },
+        {
+            "12": "1 tablespoon black olives, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat the refried beans."
+        },
+        {
+            "2": "In a large skillet, brown the ground beef. Stir in the seasoning packet."
+        },
+        {
+            "3": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "4": "Place a small amount of vegetable oil in a large skillet. Let the oil heat, then place one corn tortilla in the skillet. After 15 seconds, flip the tortilla over and let it fry another 15 seconds. Repeat this process with the remaining tortillas, letting them drain on paper towels once they have been heated. When the tortillas have drained, arrange them on a cookie sheet."
+        },
+        {
+            "5": "Spread a thin layer of beans on the tortillas, followed by a layer of beef, and cheese."
+        },
+        {
+            "6": "Bake the tortillas in the preheated oven for 20 to 30 minutes. Slice the tortillas into wedges and arrange them on plates or a serving platter and garnish them with the sour cream, tomatoes, green onions, chiles, avocado, and olives."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "17 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "3 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 pizzas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "770"
+        },
+        {
+            "Fat": "48g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "42g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9230448.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8535056.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8526345.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8035939.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/R4yPfeiSCjcjQ0dvg6c2LW5afpU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-432-46cd995a1c7f4955b2ca27d54d9ae63d.jpg"
+        }
+    ],
+    "main category": "pizza"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Gluten Free Banana Bread",
+    "Category": "Banana Bread",
+    "Ingredients": [
+        {
+            "1": "2 cups gluten-free all purpose baking flour"
+        },
+        {
+            "2": "1 teaspoon baking powder"
+        },
+        {
+            "3": "0.5 teaspoon salt"
+        },
+        {
+            "4": "0.5 cup butter"
+        },
+        {
+            "5": "0.5 cup turbinado sugar"
+        },
+        {
+            "6": "2  eggs, lightly beaten"
+        },
+        {
+            "7": "3 tablespoons maple syrup"
+        },
+        {
+            "8": "6  ripe bananas, mashed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 350 degrees F (175 degrees C). Lightly grease a 9x5 inch loaf pan."
+        },
+        {
+            "2": "In a large bowl, combine flour, baking powder and salt. In a separate bowl, cream together butter and sugar. Stir in eggs, maple syrup and mashed bananas until well blended. Add the banana mixture to the flour mixture; mix until batter is just moist. Pour batter into prepared loaf pan."
+        },
+        {
+            "3": "Bake in preheated oven for 20 to 30 minutes, until a toothpick inserted into center of the loaf comes out clean. If using muffin or cupcake tins, bake for 15 minutes or until a toothpick inserted into the center of a muffin comes out clean."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "132"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8646904.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8271358.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8240207.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8134620.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/uhkQ0WvUD2KihbBeG4ueUZqy6ms=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1045797-66c81969148a47cd81c2b442427ad9fc.jpg"
+        }
+    ],
+    "main category": "flour"
+}

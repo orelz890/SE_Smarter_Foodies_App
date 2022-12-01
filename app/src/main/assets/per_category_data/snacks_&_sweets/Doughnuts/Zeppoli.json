@@ -1,0 +1,84 @@
+{
+    "title": "Zeppoli",
+    "Category": "Doughnuts",
+    "Ingredients": [
+        {
+            "1": "1 (.25 ounce) package active dry yeast"
+        },
+        {
+            "2": "1 cup warm water (110 degrees F/45 degrees C)"
+        },
+        {
+            "3": "0.5 cups all-purpose flour"
+        },
+        {
+            "4": "1 quart vegetable oil for frying"
+        },
+        {
+            "5": "2 tablespoons confectioners' sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat about 3 inches of oil in a saucepan to 375 degrees F (119 degrees C). In a large bowl, dissolve yeast in 1/2 cup warm water. Set aside for 10 minutes."
+        },
+        {
+            "2": "Sir the remaining 1/2 cup water into the bowl. Add flour, beating vigorously until a soft dough forms."
+        },
+        {
+            "3": "Turn the dough out onto a smooth surface, and knead with greased hands until smooth. Place dough in a greased bowl, and turn to coat the surface. Cover with a damp cloth. Let rise in a warm place until double in bulk, about 1 to 1/1/2 hours."
+        },
+        {
+            "4": "Fry golf ball sizes of dough in batches until golden brown. Drain on paper towels. Sprinkle with confectioners' sugar, and eat while still hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 40 mins"
+        },
+        {
+            "Total Time": " 2 hrs 10 mins"
+        },
+        {
+            "Servings": "15 "
+        },
+        {
+            "Yield": "15 fried breads"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "103"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8005539.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4459334.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1871692.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1080767.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

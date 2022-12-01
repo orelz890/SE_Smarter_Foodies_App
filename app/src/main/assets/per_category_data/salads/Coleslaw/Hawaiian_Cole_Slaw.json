@@ -1,0 +1,84 @@
+{
+    "title": "Hawaiian Cole Slaw",
+    "Category": "Coleslaw",
+    "Ingredients": [
+        {
+            "1": "1 (8.5 ounce) package coleslaw mix"
+        },
+        {
+            "2": "1 (15 ounce) can crushed pineapple, drained"
+        },
+        {
+            "3": "0.5 cup finely chopped onion"
+        },
+        {
+            "4": "0.5 cup mayonnaise"
+        },
+        {
+            "5": "0.25 cup apple cider vinegar"
+        },
+        {
+            "6": "2 tablespoons brown sugar"
+        },
+        {
+            "7": "1 teaspoon dried cilantro"
+        },
+        {
+            "8": "0.5 teaspoon salt"
+        },
+        {
+            "9": "0.25 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix coleslaw mix, pineapple, and onion together in a bowl."
+        },
+        {
+            "2": "Whisk mayonnaise, vinegar, brown sugar, cilantro, salt, and pepper together in a bowl until dressing is smooth. Pour dressing over coleslaw mixture and toss to coat. Refrigerate."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "86"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9014149.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8912473.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8320635.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7943861.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

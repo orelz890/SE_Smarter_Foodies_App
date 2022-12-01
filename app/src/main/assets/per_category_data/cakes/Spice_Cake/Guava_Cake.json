@@ -1,0 +1,96 @@
+{
+    "title": "Guava Cake",
+    "Category": "Spice Cake",
+    "Ingredients": [
+        {
+            "1": "2 cups white sugar"
+        },
+        {
+            "2": "1 cup butter"
+        },
+        {
+            "3": "4  eggs"
+        },
+        {
+            "4": "1 cup guava pulp"
+        },
+        {
+            "5": "0.5 cup guava nectar"
+        },
+        {
+            "6": "3 cups cake flour"
+        },
+        {
+            "7": "1 teaspoon ground nutmeg"
+        },
+        {
+            "8": "0.25 teaspoons baking soda"
+        },
+        {
+            "9": "0.25 teaspoon ground cloves"
+        },
+        {
+            "10": "0.25 teaspoon ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch pan."
+        },
+        {
+            "2": "Sift together flour, nutmeg, baking soda, cinnamon, and cloves in a bowl."
+        },
+        {
+            "3": "Combine guava pulp and nectar in a separate bowl."
+        },
+        {
+            "4": "Cream together butter and sugar in a mixing bowl. Add eggs, one at a time, beating well after each addition. Add flour mixture and guava mixture alternately to creamed mixture. Pour batter into the prepared pan."
+        },
+        {
+            "5": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 30 to 35 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "14 "
+        },
+        {
+            "Yield": "1 9x13-inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "373"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "56g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7190247.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0385a1d9f6ef1504600a7e3a415bdfdc%2F931275.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F170175.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

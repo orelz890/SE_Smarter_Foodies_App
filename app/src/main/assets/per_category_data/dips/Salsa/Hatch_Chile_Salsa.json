@@ -1,0 +1,78 @@
+{
+    "title": "Hatch Chile Salsa",
+    "Category": "Salsa",
+    "Ingredients": [
+        {
+            "1": "5  Hatch chile peppers, stems removed"
+        },
+        {
+            "2": "1 (28 ounce) can diced tomatoes"
+        },
+        {
+            "3": "1 (14.5 ounce) can diced tomatoes with roasted garlic"
+        },
+        {
+            "4": "0.5  onion, roughly chopped"
+        },
+        {
+            "5": "0.25 cup chopped fresh cilantro"
+        },
+        {
+            "6": "1 pinch garlic powder, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Set oven rack about 6 inches from the heat source and preheat the oven's broiler. Line a baking sheet with aluminum foil; add Hatch chile peppers."
+        },
+        {
+            "2": "Cook under the preheated broiler until the skin of the peppers has blackened and blistered, 5 to 8 minutes. Place blackened peppers into a bowl and tightly seal with plastic wrap. Allow peppers to steam as they cool, about 20 minutes. Remove and discard skins."
+        },
+        {
+            "3": "Blend roasted Hatch chile peppers, diced tomatoes, diced tomatoes with roasted garlic, onion, cilantro, and garlic powder in a food processor or blender until desired consistency is reached."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "63"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9342307.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4557896.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3767820.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Chipotle Guacamole",
+    "Category": "Guacamole",
+    "Ingredients": [
+        {
+            "1": "2  avocados, peeled, seeded and cubed"
+        },
+        {
+            "2": "1 tablespoon fresh lime juice"
+        },
+        {
+            "3": "2 tablespoons sour cream"
+        },
+        {
+            "4": "0.25 cup salsa, or to taste"
+        },
+        {
+            "5": "0.25 teaspoon adobo sauce from canned chilies, or to taste"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mash together cubed avocado, lime juice, sour cream, salsa, and adobo sauce in a bowl until blended. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "91"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd9c2d05fc428d6866c08156201c545b6%2F4478112.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4468706.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4462014.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F881734.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

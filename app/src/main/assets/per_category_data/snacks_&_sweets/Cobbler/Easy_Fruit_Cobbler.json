@@ -1,0 +1,81 @@
+{
+    "title": "Easy Fruit Cobbler",
+    "Category": "Cobbler",
+    "Ingredients": [
+        {
+            "1": "1 cup all-purpose flour"
+        },
+        {
+            "2": "2 teaspoons baking powder"
+        },
+        {
+            "3": "0.75 cup white sugar"
+        },
+        {
+            "4": "0.75 cup milk"
+        },
+        {
+            "5": "0.25 cup butter"
+        },
+        {
+            "6": "2 cups sliced fresh peaches"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 325 degrees F (165 degrees C). Melt butter in a 9 x 9 inch baking dish."
+        },
+        {
+            "2": "Blend together flour, baking powder, sugar, and milk."
+        },
+        {
+            "3": "Pour batter in baking dish over the butter. Sprinkle fruit on top of the batter, do not stir. Bake for 1 hour or until golden brown."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 to 9 - inch cobbler"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "200"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F40da402561359254bd4f2b850bc96890%2F1656859169PXL_20220703_021703443.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8427324.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8260988.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8239718.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

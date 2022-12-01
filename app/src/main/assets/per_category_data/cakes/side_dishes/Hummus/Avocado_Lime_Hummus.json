@@ -1,0 +1,69 @@
+{
+    "title": "Avocado Lime Hummus",
+    "Category": "Hummus",
+    "Ingredients": [
+        {
+            "1": "2 cups cooked garbanzo beans"
+        },
+        {
+            "2": "1  avocado, peeled and pitted"
+        },
+        {
+            "3": "0.25 cup water"
+        },
+        {
+            "4": "0.25 cup sesame seeds"
+        },
+        {
+            "5": "1  lime, zested and juiced"
+        },
+        {
+            "6": "2 tablespoons olive oil"
+        },
+        {
+            "7": "2 tablespoons chopped fresh rosemary"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Blend garbanzo beans, avocado, water, sesame seeds, lime zest, lime juice, olive oil, and rosemary in a blender until smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "170"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7576fa0c993e2723f0986dd3a71dc244%2F2306714.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1011516.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

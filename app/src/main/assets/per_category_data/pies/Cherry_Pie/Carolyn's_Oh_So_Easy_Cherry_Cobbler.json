@@ -1,0 +1,81 @@
+{
+    "title": "Carolyn's Oh-So-Easy Cherry Cobbler",
+    "Category": "Cherry Pie",
+    "Ingredients": [
+        {
+            "1": "1 (15 ounce) can pitted tart red cherries, drained with liquid reserved"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "1 cup buttermilk baking mix"
+        },
+        {
+            "4": "0.5 cup white sugar"
+        },
+        {
+            "5": "0.5 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Prepare a 9x9-inch baking dish with cooking spray."
+        },
+        {
+            "2": "Stir the liquid from the cherries and 1/2 cup sugar together in a small glass bowl; heat in the microwave until the sugar is dissolved, 1 to 2 minutes. Set aside."
+        },
+        {
+            "3": "Stir the baking mix, 1/2 cup sugar, and milk together in a separate small bowl; mix until you get a moist batter. Spread the mixture in an even layer in the bottom of the prepared baking dish. Spread the cherries evenly over the batter. Slowly pour the cherry juice over the cherries."
+        },
+        {
+            "4": "Bake in the preheated oven until lightly browned, 25 to 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "231"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "55g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6484376.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc0e2e986286f80223e62be340cb24ff9%2F6480783.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3790035.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F241246.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Puerto Rican Canned Corned Beef Stew",
+    "Category": "Beef Stew",
+    "Ingredients": [
+        {
+            "1": "1 small potato, peeled and cubed"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "0.5 cup sweet corn kernels"
+        },
+        {
+            "4": "2 tablespoons sofrito"
+        },
+        {
+            "5": "2 cloves garlic"
+        },
+        {
+            "6": "1 (8 ounce) can tomato sauce"
+        },
+        {
+            "7": "1 teaspoon dried oregano"
+        },
+        {
+            "8": "1 large bay leaf"
+        },
+        {
+            "9": "0.5 cup water"
+        },
+        {
+            "10": "1 (12 ounce) can corned beef"
+        },
+        {
+            "11": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a small pot of water to a boil. Add potato and cook, uncovered, until slightly tender, about 5 minutes. Drain."
+        },
+        {
+            "2": "Heat oil in a large skillet or Dutch oven over medium-high heat. Add drained potatoes, corn, sofrito, and garlic; cook and stir until fragrant, 2 to 3 minutes. Add tomato sauce, oregano, and bay leaf; cook and stir until flavors combine, 2 to 3 minutes."
+        },
+        {
+            "3": "Add water and bring to a boil. Reduce the heat to medium-low and stir in corned beef; cook until heated through, 6 to 8 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "354"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4da52d1d6d77d2a510db42028c0b8c5c%2F1651623865image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8798388.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9290586.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7661308.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

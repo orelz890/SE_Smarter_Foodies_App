@@ -1,0 +1,102 @@
+{
+    "title": "Canned Apple Pie Filling",
+    "Category": "Pie Recipes",
+    "Ingredients": [
+        {
+            "1": "2.0 cups white sugar"
+        },
+        {
+            "2": "1 cup cornstarch"
+        },
+        {
+            "3": "2 teaspoons ground cinnamon"
+        },
+        {
+            "4": "0.25 teaspoon ground nutmeg"
+        },
+        {
+            "5": "10 cups water"
+        },
+        {
+            "6": "2 teaspoons salt"
+        },
+        {
+            "7": "3 tablespoons lemon juice"
+        },
+        {
+            "8": "2 drops yellow food coloring"
+        },
+        {
+            "9": "6 pounds apples"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix sugar, cornstarch, cinnamon, and nutmeg in a large pan. Add water and salt and mix well. Bring to a boil and cook until thick and bubbly. Remove from heat and add lemon juice and food coloring."
+        },
+        {
+            "2": "Sterilize canning jars, lids, and rings by boiling them in a large pot of water."
+        },
+        {
+            "3": "Peel, core, and slice apples. Pack the sliced apples into hot canning jars, leaving a 1/2 inch of headspace."
+        },
+        {
+            "4": "Fill jars with hot syrup, and gently remove air bubbles with a knife."
+        },
+        {
+            "5": "Put lids on and process in a water bath canner for 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "56 "
+        },
+        {
+            "Yield": "7 quarts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "97"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F72e3f41131d0d5150caff5cd4fb97210%2F166817404895120221109_125654.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F72e3f41131d0d5150caff5cd4fb97210%2F1664798700454Image20221002095538.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5c993fe1c48ef87e8b7f4db996c40db3%2F1664400882image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5c993fe1c48ef87e8b7f4db996c40db3%2F1664248935747BBDA9-178D-4F43-AA8F-3EDDDBB573B7.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/qcarmR-fmWcDZGS8BGjP51tm9Eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1426682-1c6ec83bc56b426b9d812e0a26b1a739.jpg"
+        }
+    ],
+    "main category": "pies"
+}

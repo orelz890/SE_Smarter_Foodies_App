@@ -1,0 +1,108 @@
+{
+    "title": "Chicken Meatballs",
+    "Category": "Meatballs",
+    "Ingredients": [
+        {
+            "1": "1 pound ground chicken"
+        },
+        {
+            "2": "1  egg, beaten"
+        },
+        {
+            "3": "0.25 cup low-fat cream cheese"
+        },
+        {
+            "4": "0.25 cup grated Parmesan cheese"
+        },
+        {
+            "5": "4 cloves garlic, grated"
+        },
+        {
+            "6": "0.5 tablespoons olive oil"
+        },
+        {
+            "7": "1 tablespoon dry bread crumbs"
+        },
+        {
+            "8": "2 teaspoons chopped fresh basil"
+        },
+        {
+            "9": "1 teaspoon crushed red pepper"
+        },
+        {
+            "10": "1 teaspoon garlic powder"
+        },
+        {
+            "11": "0.5 teaspoon sea salt"
+        },
+        {
+            "12": "0.5 teaspoon black pepper"
+        },
+        {
+            "13": "0.5 teaspoon dried parsley"
+        },
+        {
+            "14": "0.5 teaspoon dried oregano"
+        },
+        {
+            "15": "1 cup chopped fresh mozzarella, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "2": "Combine ground chicken, egg, cream cheese, Parmesan cheese, garlic, olive oil, bread crumbs, basil, red pepper, garlic powder, salt, pepper, parsley, and oregano in a freezer-safe bowl and mix well. Place in the freezer for 15 minutes to make the mixture firmer and easier to handle."
+        },
+        {
+            "3": "Form into 14 equally-sized meatballs using an ice cream scoop. Add a piece of mozzarella cheese to the center of each meatball, making sure cheese is covered by meat. Place meatballs on a nonstick baking sheet."
+        },
+        {
+            "4": "Bake in the preheated oven until no longer pink in the centers and juices run clear, 20 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "14 meatballs"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "175"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8fa1e100a81f202cdf6a584395c6929e%2F1659400692chicken%2520meatballs.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1117643.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Sliced Tomatoes with Fresh Herb Dressing",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "4 large ripe tomatoes, sliced"
+        },
+        {
+            "2": "0.25 cup olive oil"
+        },
+        {
+            "3": "2 tablespoons chopped fresh thyme leaves"
+        },
+        {
+            "4": "2 tablespoons chopped fresh oregano"
+        },
+        {
+            "5": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "6": "2 tablespoons chopped fresh chives"
+        },
+        {
+            "7": "2 tablespoons minced garlic"
+        },
+        {
+            "8": "0.25 cup freshly grated Parmesan cheese"
+        },
+        {
+            "9": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Arrange the tomato slices in a shallow casserole dish. Whisk together the olive oil, thyme, oregano, parsley, chives, and garlic in a small bowl. Add salt and pepper to taste. Pour herb mixture over the tomatoes, covering evenly. Top with Parmesan cheese. Cover, and refrigerate at least 1 hour before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "95"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5314428.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc37382f5497d4ff4dcb28fbcbc7b860d%2F654023.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F641326.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F482781.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

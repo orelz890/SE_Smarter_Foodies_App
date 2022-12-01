@@ -1,0 +1,84 @@
+{
+    "title": "Coffee and Donuts Tiramisu",
+    "Category": "Tiramisu",
+    "Ingredients": [
+        {
+            "1": "0.75 cups milk"
+        },
+        {
+            "2": "1 (3.4 ounce) package instant vanilla pudding mix"
+        },
+        {
+            "3": "1 (8 ounce) container frozen whipped topping, thawed"
+        },
+        {
+            "4": "2 cups strongly brewed coffee"
+        },
+        {
+            "5": "1 (12 ounce) package small powdered sugar donuts"
+        },
+        {
+            "6": "1 tablespoon unsweetened cocoa powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk milk and pudding mix together in a large bowl until smooth. Fold in whipped topping and set aside."
+        },
+        {
+            "2": "Pour coffee into a shallow bowl. Dip one donut into the coffee and hold for 5 to 10 seconds on each side. Place in the bottom of an 8-inch square baking dish. Repeat with 11 more donuts to fill the bottom of the dish."
+        },
+        {
+            "3": "Spread 1/2 of the pudding mixture over the donuts. Repeat the process with remaining 12 donuts and pudding mixture. Lightly sprinkle cocoa powder over top."
+        },
+        {
+            "4": "Cover and refrigerate, 8 hours to overnight. Serve chilled."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 15 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 8-inch tiramisu"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "249"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8eddace1324ad3ba0f6c285eb8384009%2F16439579211643957905512216473240662054762.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9336096.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9274701.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9274700.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

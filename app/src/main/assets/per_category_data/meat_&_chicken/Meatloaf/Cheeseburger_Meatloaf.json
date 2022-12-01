@@ -1,0 +1,84 @@
+{
+    "title": "Cheeseburger Meatloaf",
+    "Category": "Meatloaf",
+    "Ingredients": [
+        {
+            "1": "2 pounds ground beef"
+        },
+        {
+            "2": "0.75 cup fresh bread crumbs"
+        },
+        {
+            "3": "0.5 cup minced onion"
+        },
+        {
+            "4": "2 large eggs, beaten"
+        },
+        {
+            "5": "0.5 teaspoons salt"
+        },
+        {
+            "6": "0.5 teaspoons ground black pepper"
+        },
+        {
+            "7": "3 cups shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Combine beef, bread crumbs, onion, eggs, salt, and pepper in a large bowl; mix well. Pat out meat mixture into a 14x18-inch rectangle on a piece of wax paper."
+        },
+        {
+            "3": "Spread cheese over meat, leaving a 3/4 inch border along the edges. Roll up jelly-roll fashion to enclose the filling and form a pinwheel loaf. Press meat in on both ends to enclose cheese. Place meatloaf in a 10x15-inch baking dish."
+        },
+        {
+            "4": "Bake in the preheated oven until cooked through, about 1 hour. An instant-read thermometer inserted into the center of meatloaf should read at least 160 degrees F (70 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "410"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9265668.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8962640.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8962637.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8929842.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,105 @@
+{
+    "title": "Curry Red Lentil Soup",
+    "Category": "Lentil Soup",
+    "Ingredients": [
+        {
+            "1": "2 teaspoons olive oil"
+        },
+        {
+            "2": "1 head cauliflower, chopped into small florets"
+        },
+        {
+            "3": "2  carrots, chopped"
+        },
+        {
+            "4": "2 cups boiling water"
+        },
+        {
+            "5": "1 cube vegetable bouillon"
+        },
+        {
+            "6": "1 (14 ounce) can reduced-fat coconut milk"
+        },
+        {
+            "7": "1 cup red lentils"
+        },
+        {
+            "8": "1 teaspoon garlic powder"
+        },
+        {
+            "9": "1 teaspoon dried onion flakes"
+        },
+        {
+            "10": "1 teaspoon curry powder"
+        },
+        {
+            "11": "1 teaspoon paprika"
+        },
+        {
+            "12": "1 teaspoon ground turmeric"
+        },
+        {
+            "13": "0.5 teaspoon ground cumin"
+        },
+        {
+            "14": "1 bunch kale leaves, stems and inner ribs discarded, leaves coarsely chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a large pot over medium-high heat. Add cauliflower and carrots; saute until softened, 7 to 8 minutes."
+        },
+        {
+            "2": "Pour boiling water and vegetable bouillon into a bowl and stir until dissolved. Add broth and coconut milk to cauliflower mixture. Bring to a boil."
+        },
+        {
+            "3": "Stir lentils, garlic powder, onion flakes, curry, paprika, turmeric, and cumin into the pot. Cover and let simmer until lentils are fully cooked and tender, about 20 minutes. Stir in kale and let sit over low heat for 5 minutes. Remove from heat and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "400"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "55g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8394625.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8507627.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7620803.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6364596.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

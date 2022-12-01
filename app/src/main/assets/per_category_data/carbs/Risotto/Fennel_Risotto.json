@@ -1,0 +1,90 @@
+{
+    "title": "Fennel Risotto",
+    "Category": "Risotto",
+    "Ingredients": [
+        {
+            "1": "4 bulbs fennel"
+        },
+        {
+            "2": "1 tablespoon butter"
+        },
+        {
+            "3": "1 medium onion, chopped"
+        },
+        {
+            "4": "2 cups uncooked Arborio rice"
+        },
+        {
+            "5": "7 cups vegetable broth"
+        },
+        {
+            "6": "1 cup heavy cream"
+        },
+        {
+            "7": "6 tablespoons freshly grated Parmesan cheese"
+        },
+        {
+            "8": "1 tablespoon dried parsley"
+        },
+        {
+            "9": "1 freshly ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cut the base off of the fennel bulbs, and cut a cone shape into the base to remove the core. Slice the fennel vertically (lengthwise) into 1/4 inch thick slices."
+        },
+        {
+            "2": "Melt butter in a heavy-bottomed stock pot over medium heat. Cook onions and fennel in butter for 2 minutes. Stir in the rice; cook for another 2 minutes, stirring constantly, until lightly toasted. Stir in 1 cup vegetable broth; continue stirring until liquid is almost completely absorbed. Repeat this process with remaining broth, stirring constantly. Incorporating the broth should take 15 to 20 minutes in all."
+        },
+        {
+            "3": "Stir in cream, 3 tablespoons Parmesan and parsley, and cook until rice is done and risotto is thick and creamy. Season to taste with black pepper. Divide risotto among 6 bowls, and sprinkle with remaining cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "537"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "81g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe202176b99c53d9178948ec0522ea321%2F4472777.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4249258.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2814501.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F594440.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

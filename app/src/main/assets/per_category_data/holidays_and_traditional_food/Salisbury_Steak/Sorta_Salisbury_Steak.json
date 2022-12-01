@@ -1,0 +1,81 @@
+{
+    "title": "Sorta Salisbury Steak",
+    "Category": "Salisbury Steak",
+    "Ingredients": [
+        {
+            "1": "3 tablespoons vegetable oil"
+        },
+        {
+            "2": "1 cup all-purpose flour, divided"
+        },
+        {
+            "3": "6 (4 ounce) cube steaks (pounded round meat)"
+        },
+        {
+            "4": "1 large onion, sliced into strips"
+        },
+        {
+            "5": "2 cups beef stock"
+        },
+        {
+            "6": "2 tablespoons Worcestershire sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Heat the oil in a Dutch oven, or deep iron skillet. Dredge steaks in some of the flour, reserving the rest of the flour. Brown steaks in the oil a few at a time, and remove to a plate. When all of the steaks are browned, place a layer of sliced onions into the Dutch oven, and alternate layers of steak and onion. Pour in beef stock and Worcestershire sauce."
+        },
+        {
+            "3": "Cover, and bake for 2 hours in the preheated oven. Remove steaks and onions from the pan, and whisk in 2 tablespoons of the remaining flour. Bring to a boil over medium heat, and cook, stirring until thickened. Serve steaks and onions with gravy with mashed potatoes or noodles."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "369"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6276969.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F75904ebdbaebe31c2824a76796ce7429%2F4465638.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F530010.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F449525.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

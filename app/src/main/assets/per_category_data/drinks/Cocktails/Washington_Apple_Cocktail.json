@@ -1,0 +1,59 @@
+{
+    "title": "Washington Apple Cocktail",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "2 fluid ounces whiskey"
+        },
+        {
+            "2": "0.5 fluid ounces cranberry juice"
+        },
+        {
+            "3": "1 fluid ounce sour apple schnapps (such as DeKuyper\u00ae Sour Apple Pucker)"
+        },
+        {
+            "4": "1 teaspoon agave nectar"
+        },
+        {
+            "5": "1 ice cubes as needed"
+        },
+        {
+            "6": "2 apple slices for garnish"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine whiskey, cranberry juice, apple schnapps, and agave in a cocktail shaker. Fill cocktail shaker with ice and shake well."
+        },
+        {
+            "2": "Strain into frosted martini glasses and garnish with an apple slice."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 cocktails"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "145"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "13g"
+        }
+    ],
+    "Images": [],
+    "main category": "drinks"
+}

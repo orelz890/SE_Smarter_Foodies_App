@@ -1,0 +1,102 @@
+{
+    "title": "Caldo de Pollo",
+    "Category": "Lunch Recipes",
+    "Ingredients": [
+        {
+            "1": "5 pounds chicken leg quarters"
+        },
+        {
+            "2": "2 gallons water"
+        },
+        {
+            "3": "2 tablespoons minced garlic"
+        },
+        {
+            "4": "2 tablespoons salt"
+        },
+        {
+            "5": "1 tablespoon garlic powder"
+        },
+        {
+            "6": "1 cube chicken bouillon"
+        },
+        {
+            "7": "4 large carrots, peeled and cut into large chunks"
+        },
+        {
+            "8": "4 large potatoes, peeled and cut into large chunks"
+        },
+        {
+            "9": "4  zucchini, cut into large chunks"
+        },
+        {
+            "10": "1  chayote, cut into large chunks"
+        },
+        {
+            "11": "1 large white onion, cut into large chunks"
+        },
+        {
+            "12": "0.5 bunch fresh cilantro, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place chicken legs into a large stockpot; pour water over chicken. Add minced garlic, salt, and garlic powder."
+        },
+        {
+            "2": "Cover and bring to a boil over high heat. Reduce to a simmer and cook until chicken meat falls off the bones, 1 to 2 hours."
+        },
+        {
+            "3": "Stir in chicken bouillon cube until dissolved; add carrots, potatoes, zucchini, chayote, and white onion. Reduce heat to medium-low and simmer until carrots and potatoes are tender, 45 minutes to 1 hour."
+        },
+        {
+            "4": "Stir chopped cilantro into soup. Simmer for 5 minutes and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 50 mins"
+        },
+        {
+            "Total Time": " 2 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "606"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "52g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F57f210eb73579bdefaa3226855858242%2F1666986650162image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9427871.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9049505.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9039867.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/UITxvhpRtTxvUzUPDKDi9wCb4bQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4873232-76e76e7956724164b937fb4151a9c1f3.jpg"
+        }
+    ],
+    "main category": "lunch"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Pan-Fried Wild Salmon",
+    "Category": "Salmon Recipes",
+    "Ingredients": [
+        {
+            "1": "2 (3 ounce) fillets salmon, with skin"
+        },
+        {
+            "2": "1 sea salt to taste"
+        },
+        {
+            "3": "2 tablespoons olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Rinse the salmon fillets and pat dry thoroughly with paper towels; season with sea salt."
+        },
+        {
+            "2": "Heat the oil in a skillet over medium-high heat."
+        },
+        {
+            "3": "Gently lay the salmon into the hot oil with the skin side facing up and cook until the the flesh side is golden brown, 5 to 7 minutes; turn and continue cooking until the skin side is slightly browned, about 5 minutes more. Remove the salmon from the skillet, allowing any oil to drain from the fish back into the pan."
+        },
+        {
+            "4": "Remove the skin from the salmon fillets; fry the skin in the oil remaining in the skillet until crispy, 2 to 3 minutes. Serve the crispy skin with the salmon."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "241"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fffc0b88c1253ce2ede151e1699a73dfb%2F1644371710IMG_1441%255B1%255D.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9311775.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9114215.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7658360.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

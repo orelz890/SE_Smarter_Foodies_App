@@ -1,0 +1,99 @@
+{
+    "title": "Chocolate Zucchini Bread I",
+    "Category": "Zucchini Bread",
+    "Ingredients": [
+        {
+            "1": "2 (1 ounce) squares unsweetened chocolate"
+        },
+        {
+            "2": "3  eggs"
+        },
+        {
+            "3": "2 cups white sugar"
+        },
+        {
+            "4": "1 cup vegetable oil"
+        },
+        {
+            "5": "2 cups grated zucchini"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "2 cups all-purpose flour"
+        },
+        {
+            "8": "1 teaspoon baking soda"
+        },
+        {
+            "9": "1 teaspoon salt"
+        },
+        {
+            "10": "1 teaspoon ground cinnamon"
+        },
+        {
+            "11": "0.75 cup semisweet chocolate chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease two 9x5 inch loaf pans. In a microwave-safe bowl, microwave chocolate until melted. Stir occasionally until chocolate is smooth."
+        },
+        {
+            "2": "In a large bowl, combine eggs, sugar, oil, grated zucchini, vanilla and chocolate; beat well. Stir in the flour baking soda, salt and cinnamon. Fold in the chocolate chips. Pour batter into prepared loaf pans."
+        },
+        {
+            "3": "Bake in preheated oven for 60 to 70 minutes, or until a toothpick inserted into the center of a loaf comes out clean."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "2 9x5 inch loaf pans"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "278"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb9be19625f76f8aecf4a92efdaa807bc%2F1660169439BD9DD386-A981-43DD-BB65-CC3954912315.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9397505.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9329527.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9210859.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/8_PaTuTrRhcbpoxpnp4UPaN0RiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/385384-74b4cd2f7db34083b7a9d7b883fcb8a9.jpg"
+        }
+    ],
+    "main category": "flour"
+}

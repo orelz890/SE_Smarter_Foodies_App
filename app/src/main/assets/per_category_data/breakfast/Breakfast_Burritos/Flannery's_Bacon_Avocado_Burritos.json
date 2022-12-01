@@ -1,0 +1,93 @@
+{
+    "title": "Flannery's Bacon Avocado Burritos",
+    "Category": "Breakfast Burritos",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon butter, divided"
+        },
+        {
+            "2": "1 cup diced red potatoes"
+        },
+        {
+            "3": "0.5 cups chopped onion"
+        },
+        {
+            "4": "6  eggs, beaten"
+        },
+        {
+            "5": "1 salt and ground black pepper to taste"
+        },
+        {
+            "6": "8 (7 inch) whole wheat tortillas"
+        },
+        {
+            "7": "1 pound cooked and crumbled turkey bacon"
+        },
+        {
+            "8": "0.5 cups shredded low-fat Cheddar cheese"
+        },
+        {
+            "9": "1 large avocado, thinly sliced"
+        },
+        {
+            "10": "0.5 cup salsa, or as needed"
+        },
+        {
+            "11": "0.5 cup reduced-fat sour cream, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt 1 1/2 teaspoons butter in a skillet over medium heat. Cook and stir potatoes in hot butter until tender, 10 to 15 minutes. Transfer potatoes to a bowl."
+        },
+        {
+            "2": "Melt remaining butter in the same skillet over medium-high heat. Saute onion in hot butter until onion is soft and translucent, 5 to 10 minutes. Transfer onion to a bowl."
+        },
+        {
+            "3": "Beat eggs, salt, and pepper together in a bowl. Reduce heat under skillet to medium. Cook and stir eggs in hot skillet until set, 3 to 5 minutes; transfer to a plate."
+        },
+        {
+            "4": "Spread tortillas out onto a work surface. Spoon potatoes, onion, eggs, bacon, Cheddar cheese, avocado, salsa, and sour cream in a line across the middle of a tortilla. Fold opposing edges of each tortilla to overlap the filling. Roll 1 of the opposing edges around the filling into a burrito."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "439"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc6931bd7314573952909a2cb1501dee0%2F6890172.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1155243.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

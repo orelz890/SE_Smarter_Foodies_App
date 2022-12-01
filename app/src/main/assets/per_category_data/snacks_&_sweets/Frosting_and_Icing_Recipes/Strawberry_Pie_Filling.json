@@ -1,0 +1,84 @@
+{
+    "title": "Strawberry Pie Filling",
+    "Category": "Frosting and Icing Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup mashed strawberries"
+        },
+        {
+            "2": "0.75 cup water, or more if needed"
+        },
+        {
+            "3": "0.75 cup white sugar"
+        },
+        {
+            "4": "3 tablespoons cornstarch"
+        },
+        {
+            "5": "1 tablespoon lemon juice"
+        },
+        {
+            "6": "0.25 teaspoon salt"
+        },
+        {
+            "7": "4 cups sliced strawberries"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine mashed strawberries and water in a saucepan; bring to a boil and simmer for about 3 minutes."
+        },
+        {
+            "2": "Strain juice from cooked strawberries and add enough water to make 1 cup of juice. Discard pulp."
+        },
+        {
+            "3": "Combine sugar, cornstarch, lemon juice, and salt in a saucepan; stir strawberry juice into the sugar mixture. Bring to a boil, stirring constantly, until clear and thick, 3 to 5 minutes. Remove from heat and cool slightly."
+        },
+        {
+            "4": "Stir sliced strawberries into the strawberry sauce."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "119"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd2ec3d498dfe2efa39932a3b15f20537%2F166927160093816692715910277097127857807553702.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9273926.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8861798.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8240860.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Blushing Applesauce",
+    "Category": "Applesauce",
+    "Ingredients": [
+        {
+            "1": "5 pounds Macintosh apples, quartered and cored"
+        },
+        {
+            "2": "0.75 cup sugar"
+        },
+        {
+            "3": "0.75 cup water"
+        },
+        {
+            "4": "0.25 cup lemon juice"
+        },
+        {
+            "5": "1 teaspoon cinnamon"
+        },
+        {
+            "6": "0.5 teaspoon nutmeg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place apples in a large pot with the sugar, water, and lemon juice. Bring to a boil, then reduce heat to medium-low and simmer uncovered, stirring occasionally, until the apples are very soft and lose their shape, about 25 minutes."
+        },
+        {
+            "2": "Remove the apples from the heat and allow to cool slightly. Puree apples in a food processor or food mill. If using the food processor, strain the apples through a sieve to remove the pieces of apple skin."
+        },
+        {
+            "3": "Stir in the cinnamon and nutmeg. Serve at room temperature or refrigerate and serve cold."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "179"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8593757.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7885246.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7225045.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Faee4186abb4045f9eb8201ebac7a4128%2F5830130.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

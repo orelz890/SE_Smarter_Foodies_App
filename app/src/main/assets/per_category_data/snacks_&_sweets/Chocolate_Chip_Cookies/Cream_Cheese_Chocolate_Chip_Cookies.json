@@ -1,0 +1,93 @@
+{
+    "title": "Cream Cheese Chocolate Chip Cookies",
+    "Category": "Chocolate Chip Cookies",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package cream cheese"
+        },
+        {
+            "2": "1 cup margarine"
+        },
+        {
+            "3": "0.75 cup white sugar"
+        },
+        {
+            "4": "0.75 cup packed brown sugar"
+        },
+        {
+            "5": "1  egg"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "1.0 cups all-purpose flour"
+        },
+        {
+            "8": "1 teaspoon baking powder"
+        },
+        {
+            "9": "0.5 teaspoon salt"
+        },
+        {
+            "10": "2 cups milk chocolate chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C). Grease cookie sheets and set aside."
+        },
+        {
+            "2": "Combine cream cheese, margarine, white sugar, and brown sugar. Blend in egg and vanilla. Add dry ingredients and mix well. Fold in chocolate chips. Drop by rounded teaspoonfuls onto ungreased cookie sheets."
+        },
+        {
+            "3": "Bake in the preheated oven for 15 to 18 minutes, or until edges are slightly browned."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "2 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "551"
+        },
+        {
+            "Fat": "30g"
+        },
+        {
+            "Carbs": "63g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F64944c670a19ae71fbff12bdb32bbb78%2F1646662801Cream%2520Cheese%2520Chocolate%2520chip%2520cookies.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8994448.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8022702.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7102740.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

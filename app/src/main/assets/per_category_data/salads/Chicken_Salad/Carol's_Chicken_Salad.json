@@ -1,0 +1,96 @@
+{
+    "title": "Carol's Chicken Salad",
+    "Category": "Chicken Salad",
+    "Ingredients": [
+        {
+            "1": "0.5 cup mayonnaise"
+        },
+        {
+            "2": "0.5 teaspoon salt"
+        },
+        {
+            "3": "0.75 teaspoon poultry seasoning"
+        },
+        {
+            "4": "0.25 teaspoon onion powder"
+        },
+        {
+            "5": "0.25 teaspoon garlic powder"
+        },
+        {
+            "6": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "7": "1 tablespoon lemon juice"
+        },
+        {
+            "8": "3 cups diced, cooked chicken breast meat"
+        },
+        {
+            "9": "0.5 cup finely chopped celery"
+        },
+        {
+            "10": "0.5 cup chopped green onions"
+        },
+        {
+            "11": "1 (8 ounce) can water chestnuts, drained and chopped"
+        },
+        {
+            "12": "0.5 cups diced Swiss cheese"
+        },
+        {
+            "13": "0.5 cups halved green grapes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium bowl, whisk together the mayonnaise, salt, poultry seasoning, onion powder, garlic powder, pepper, and lemon juice."
+        },
+        {
+            "2": "In a large bowl, toss together the chicken, celery, green onions, water chestnuts, Swiss cheese, and grapes. Add the mayonnaise mixture, and stir to coat. Chill until serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "9 "
+        },
+        {
+            "Yield": "9 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "293"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb2797612127ddb483930ab8cf3479a32%2F165108396534A54B76-08A0-4AB7-A2FA-0C5FAB191E07.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8484907.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F306a7ace07ab6abd03433a56559000bf%2F6545036.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5759409.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

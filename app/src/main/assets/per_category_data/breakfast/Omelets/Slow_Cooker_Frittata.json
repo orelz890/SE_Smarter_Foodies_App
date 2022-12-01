@@ -1,0 +1,93 @@
+{
+    "title": "Slow Cooker Frittata",
+    "Category": "Omelets",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "1 teaspoon ghee (clarified butter)"
+        },
+        {
+            "3": "0.5 (8 ounce) package mushrooms, sliced"
+        },
+        {
+            "4": "0.25 cup chopped fresh spinach"
+        },
+        {
+            "5": "0.25 cup sliced cherry tomatoes"
+        },
+        {
+            "6": "2 medium green onions, sliced"
+        },
+        {
+            "7": "1 salt and ground black pepper to taste"
+        },
+        {
+            "8": "6 large eggs"
+        },
+        {
+            "9": "0.5 cup shredded Cheddar cheese"
+        },
+        {
+            "10": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "11": "1 tablespoon freshly grated Parmesan cheese"
+        },
+        {
+            "12": "2 teaspoons Italian seasoning"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Spray a slow cooker generously with cooking spray."
+        },
+        {
+            "2": "Melt ghee in a skillet over medium heat. Add mushrooms, spinach, cherry tomatoes, and green onion and saute until soft, about 5 minutes. Season with salt and pepper and transfer vegetables to the slow cooker."
+        },
+        {
+            "3": "Whisk together eggs, Cheddar cheese, parsley, Parmesan cheese, and Italian seasoning. Pour egg mixture over vegetables in the slow cooker."
+        },
+        {
+            "4": "Cook until set, 1 to 2 hours on High or 3 to 4 hours on Low."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "129"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9343141.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

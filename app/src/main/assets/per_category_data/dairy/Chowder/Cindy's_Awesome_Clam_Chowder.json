@@ -1,0 +1,90 @@
+{
+    "title": "Cindy's Awesome Clam Chowder",
+    "Category": "Chowder",
+    "Ingredients": [
+        {
+            "1": "0.5 pound bacon, cut into 1/2 inch pieces"
+        },
+        {
+            "2": "5 medium unpeeled potatoes, diced"
+        },
+        {
+            "3": "2 medium carrots, diced"
+        },
+        {
+            "4": "1 salt and pepper to taste"
+        },
+        {
+            "5": "2 (6.5 ounce) cans chopped clams, drained with juice reserved"
+        },
+        {
+            "6": "2 cups water, or as needed"
+        },
+        {
+            "7": "2 (1.8 ounce) packages dry leek soup mix"
+        },
+        {
+            "8": "1 quart half-and-half"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook bacon in a large pot over medium-high heat, stirring occasionally, until crisped and browned, about 10 minutes. Transfer bacon with a slotted spoon to a paper towel-lined plate. Leave drippings in the pot."
+        },
+        {
+            "2": "Place potatoes and carrots into the pot and season with salt and pepper; cook in bacon drippings, stirring frequently, for 5 minutes."
+        },
+        {
+            "3": "Pour clam juice into the pot, add enough water to just cover potatoes, and bring to a boil. Reduce the heat to medium-low, cover, and simmer until potatoes are just tender, 10 to 15 minutes."
+        },
+        {
+            "4": "Add leek soup mix and gently stir until no lumps remain. Stir in clams, half-and-half, and reserved bacon. Cook and stir until chowder returns to a simmer and thickens, about 10 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "681"
+        },
+        {
+            "Fat": "39g"
+        },
+        {
+            "Carbs": "54g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9103069.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8991897.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8908653.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7756637.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/idtF6ORhS4whnwEvclGgouEgRzQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/962492-eba1e12b40d648638f70e1b40fd798b6.jpg"
+        }
+    ],
+    "main category": "dairy"
+}

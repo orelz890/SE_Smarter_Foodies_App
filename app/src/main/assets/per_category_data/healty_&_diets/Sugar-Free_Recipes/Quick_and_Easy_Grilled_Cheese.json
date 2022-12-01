@@ -1,0 +1,81 @@
+{
+    "title": "Quick and Easy Grilled Cheese",
+    "Category": "Sugar-Free Recipes",
+    "Ingredients": [
+        {
+            "1": "2 slices sharp Cheddar cheese"
+        },
+        {
+            "2": "2 slices bread"
+        },
+        {
+            "3": "1 tablespoon chopped fresh parsley"
+        },
+        {
+            "4": "1 teaspoon chopped fresh basil"
+        },
+        {
+            "5": "1 teaspoon chopped fresh oregano"
+        },
+        {
+            "6": "1 teaspoon chopped fresh rosemary"
+        },
+        {
+            "7": "1 teaspoon chopped fresh dill"
+        },
+        {
+            "8": "1 tablespoon butter, softened, divided"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Layer Cheddar slices onto 1 piece bread. Sprinkle parsley, basil, oregano, rosemary, and dill over the cheese; top with remaining bread. Spread the top of sandwich with 1 tablespoon butter."
+        },
+        {
+            "2": "Heat a skillet over medium heat. Gently flip sandwich, buttered-side down, into the hot skillet; spread remaining 1 tablespoon butter on the top. Cook until cheese has melted, about 3 minutes per side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "471"
+        },
+        {
+            "Fat": "32g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9416780.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F199699.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F90706.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F70199.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

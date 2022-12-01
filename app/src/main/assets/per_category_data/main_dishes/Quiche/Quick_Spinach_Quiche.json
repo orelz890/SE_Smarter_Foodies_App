@@ -1,0 +1,90 @@
+{
+    "title": "Quick Spinach Quiche",
+    "Category": "Quiche",
+    "Ingredients": [
+        {
+            "1": "1 (15 ounce) package refrigerated pie crusts"
+        },
+        {
+            "2": "4 cups shredded Cheddar cheese"
+        },
+        {
+            "3": "1 (12 ounce) package frozen chopped spinach, thawed and drained"
+        },
+        {
+            "4": "1 cup finely chopped onion"
+        },
+        {
+            "5": "12  eggs"
+        },
+        {
+            "6": "2 cups milk"
+        },
+        {
+            "7": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Line two 9-inch pie plates with crusts. Cover crusts with a double layer of aluminum foil and a layer of pie weights or dried beans."
+        },
+        {
+            "3": "Bake in the preheated oven until edge of crust is golden, about 10 minutes. Carefully remove the foil and weights; continue baking until the crust sets, about 5 minutes more. Let crusts cool briefly. Reduce oven temperature to 350 degrees F (175 degrees C)."
+        },
+        {
+            "4": "Sprinkle cheese, spinach, and onion evenly onto the crusts. Whisk eggs, milk, salt, and pepper together and divide evenly between the crusts."
+        },
+        {
+            "5": "Bake in the center of the preheated oven until golden brown and firm in the centers, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 9-inch pies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "310"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8910836.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8554996.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7985824.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc3da65fe16358de815e56886391b7ba5%2F7540335.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

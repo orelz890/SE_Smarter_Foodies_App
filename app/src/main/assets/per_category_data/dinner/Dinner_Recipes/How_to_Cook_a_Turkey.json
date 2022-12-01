@@ -1,0 +1,120 @@
+{
+    "title": "How to Cook a Turkey",
+    "Category": "Dinner Recipes",
+    "Ingredients": [
+        {
+            "1": "1 medium onion, coarsely chopped"
+        },
+        {
+            "2": "1 stalk celery, coarsely chopped"
+        },
+        {
+            "3": "1 medium carrot, coarsely chopped"
+        },
+        {
+            "4": "1 (12 pound) whole turkey, neck and giblets reserved"
+        },
+        {
+            "5": "2 tablespoons kosher salt"
+        },
+        {
+            "6": "1 tablespoon ground black pepper"
+        },
+        {
+            "7": "1 teaspoon cayenne pepper"
+        },
+        {
+            "8": "3 tablespoons butter"
+        },
+        {
+            "9": "4 sprigs fresh rosemary"
+        },
+        {
+            "10": "0.5 bunch fresh sage, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 325 degrees F (165 degrees C)."
+        },
+        {
+            "2": "Place onion, celery, and carrot in a large, shallow roasting pan."
+        },
+        {
+            "3": "Place turkey, breast-side up, on top of vegetables in the roasting pan. Pat outside and inside of turkey dry with paper towels."
+        },
+        {
+            "4": "Combine salt, black pepper, and cayenne pepper in a small bowl. Season inside of turkey with about 1/3 of the salt mixture. Fold wing tips under bird."
+        },
+        {
+            "5": "Melt butter in a small saucepan over medium heat until edges turn golden, about 2 minutes. Add rosemary and sage; cook and stir until fragrant, about 1 minute."
+        },
+        {
+            "6": "Place rosemary and sage inside cavity of turkey; reserve melted butter. Tie turkey legs together with twine."
+        },
+        {
+            "7": "Brush melted butter over turkey. Season with the remaining salt mixture."
+        },
+        {
+            "8": "Bake turkey, uncovered, in the preheated oven until no longer pink at the bone and juices run clear, about 3 hours. An instant-read thermometer inserted into the thickest part of the thigh, near the bone should read 180 degrees F (82 degrees C)."
+        },
+        {
+            "9": "Remove turkey from the oven and allow to rest in a warm area for 10 to 15 minutes before slicing."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 3 hrs 5 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 3 hrs 35 mins"
+        },
+        {
+            "Servings": "24 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "355"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "46g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8876255.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8781087.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8760348.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6171349.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/lLn0Q5EqoOVV4ogoc4C2PXY84EU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222332-how-to-cook-a-turkey-mfs472-26af8190fdd445029cba782009ceace6.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/gFrVHGsBd5T-LJjQz3sW47sy8C8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Testing-Turkey-Temperature-2000-8f680a124b204cc18763cea064a3f805.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/WJgwothDXFrpTlw10oi3TiV6tEs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222332-how-to-cook-a-turkey-ddmfs-1x1-1-7560311b7ccc4efc8ef0b065f346d966.jpg"
+        }
+    ],
+    "main category": "dinner"
+}

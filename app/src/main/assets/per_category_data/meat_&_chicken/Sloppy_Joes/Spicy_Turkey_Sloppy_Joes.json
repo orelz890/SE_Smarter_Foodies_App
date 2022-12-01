@@ -1,0 +1,114 @@
+{
+    "title": "Spicy Turkey Sloppy Joes",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "2 pounds ground turkey"
+        },
+        {
+            "2": "2  onions, chopped"
+        },
+        {
+            "3": "0.5 cup chopped green bell pepper"
+        },
+        {
+            "4": "0.5 cup chopped red bell pepper"
+        },
+        {
+            "5": "1  serrano chile pepper, minced"
+        },
+        {
+            "6": "1  fresh chile pepper, minced"
+        },
+        {
+            "7": "2 cloves garlic, minced"
+        },
+        {
+            "8": "2 cups ketchup"
+        },
+        {
+            "9": "1 cup barbeque sauce"
+        },
+        {
+            "10": "0.25 cup cider vinegar"
+        },
+        {
+            "11": "0.25 cup packed brown sugar"
+        },
+        {
+            "12": "2 tablespoons prepared mustard"
+        },
+        {
+            "13": "1 tablespoon Worcestershire sauce"
+        },
+        {
+            "14": "1 teaspoon Italian seasoning"
+        },
+        {
+            "15": "1 teaspoon onion powder"
+        },
+        {
+            "16": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "17": "1 hamburger buns, split"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook and stir ground turkey, onions, green bell pepper, red bell pepper, serrano chile pepper, fresh chile pepper, and garlic in a large skillet over medium heat until the turkey is no longer pink, about 10 minutes. Drain fat from the turkey mixture."
+        },
+        {
+            "2": "Stir ketchup, barbeque sauce, cider vinegar, brown sugar, mustard, Worcestershire sauce, Italian seasoning, onion powder, and black pepper into the turkey mixture. Bring the mixture to a boil, reduce heat to medium-low, and cook at a simmer until the vegetables are completely softened, about 20 minutes."
+        },
+        {
+            "3": "Serve on split hamburger buns."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 sandwiches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "347"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5261736.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5261731.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5261882.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3057703.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

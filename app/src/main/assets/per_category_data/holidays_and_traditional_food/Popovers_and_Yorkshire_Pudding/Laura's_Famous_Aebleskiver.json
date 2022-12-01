@@ -1,0 +1,78 @@
+{
+    "title": "Laura's Famous Aebleskiver",
+    "Category": "Popovers and Yorkshire Pudding",
+    "Ingredients": [
+        {
+            "1": "2 cups white flour"
+        },
+        {
+            "2": "1 teaspoon salt"
+        },
+        {
+            "3": "1 teaspoon baking soda"
+        },
+        {
+            "4": "2 cups buttermilk"
+        },
+        {
+            "5": "3  eggs, separated"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Sift the flour, salt, and baking soda together in a bowl. Add the buttermilk and egg yolks; stir until you have a batter."
+        },
+        {
+            "2": "In a separate large glass or metal mixing bowl, beat the egg whites until foamy until soft peaks form. Lift your beater or whisk straight up: the egg whites will form soft mounds rather than a sharp peak. Fold the egg whites into the prepared batter."
+        },
+        {
+            "3": "Place an aebleskiver pan over medium heat; prepare each cup with cooking spray. Pour the batter into each cup to about 2/3 full. Cook until golden brown on each side, using a toothpick to flip, 1 to 2 minutes per side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "330"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "54g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6140413.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F431335.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6990914d9a72b1ab2447a4485b84b7bf%2F5267264.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3966818.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

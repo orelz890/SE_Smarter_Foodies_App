@@ -1,0 +1,87 @@
+{
+    "title": "Greek Chicken",
+    "Category": "4th of July Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 cup olive oil"
+        },
+        {
+            "2": "2  lemons, juiced"
+        },
+        {
+            "3": "3 cloves garlic, chopped"
+        },
+        {
+            "4": "1 tablespoon chopped fresh rosemary"
+        },
+        {
+            "5": "1 tablespoon chopped fresh thyme"
+        },
+        {
+            "6": "1 tablespoon chopped fresh oregano"
+        },
+        {
+            "7": "1 (4 pound) chicken, cut into pieces"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix olive oil, lemon juice, garlic, rosemary, thyme, and oregano in a glass dish. Place chicken pieces in the mixture; cover and marinate in the refrigerator, 8 hours to overnight."
+        },
+        {
+            "2": "Preheat an outdoor grill for high heat and lightly oil the grate."
+        },
+        {
+            "3": "Place chicken on the grill, and discard the marinade. Cook until chicken is no longer pink at the bone and the juices run clear, about 15 minutes per side (smaller pieces will not take as long). An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 40 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "412"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9295930.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9103218.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6963534.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5529787.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/h9Yivf6nUXClDG5N9NW-VOoE9XA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/707883-06a394b90b35442ab46284c9e60f2cdc.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

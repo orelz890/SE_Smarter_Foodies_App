@@ -1,0 +1,117 @@
+{
+    "title": "Cheesy Ham and Corn Chowder",
+    "Category": "Chowder",
+    "Ingredients": [
+        {
+            "1": "2 (15 ounce) cans chicken broth"
+        },
+        {
+            "2": "0.5 cup sliced carrots"
+        },
+        {
+            "3": "2 tablespoons chicken bouillon granules"
+        },
+        {
+            "4": "3  bay leaves"
+        },
+        {
+            "5": "0.5 teaspoon sea salt"
+        },
+        {
+            "6": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "7": "0.5 teaspoon ground thyme"
+        },
+        {
+            "8": "0.5 teaspoon dried marjoram"
+        },
+        {
+            "9": "0.25 teaspoon garlic powder"
+        },
+        {
+            "10": "1 cup peeled and diced potatoes"
+        },
+        {
+            "11": "0.5 cup chopped onion"
+        },
+        {
+            "12": "0.5 cup sliced celery"
+        },
+        {
+            "13": "3 tablespoons butter"
+        },
+        {
+            "14": "3 tablespoons all-purpose flour"
+        },
+        {
+            "15": "0.5 cups milk"
+        },
+        {
+            "16": "1 (15 ounce) can cream-style corn"
+        },
+        {
+            "17": "1 (8 ounce) package shredded sharp Cheddar cheese"
+        },
+        {
+            "18": "1 cup diced cooked ham"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir chicken broth, carrots, chicken bouillon, bay leaves, sea salt, pepper, thyme, marjoram, and garlic powder together in a Dutch oven; bring to a boil, reduce heat to medium, and cook for 10 minutes. Add potatoes and onion; cook for 10 minutes more. Add celery; cook until all vegetables are fork tender, about 10 minutes more."
+        },
+        {
+            "2": "Melt butter in a saucepan over low heat. Remove from heat and whisk flour into butter until smooth. Return saucepan to medium heat; gradually add milk to butter mixture, whisking constantly, and cook until mixture thickens, 6 to 7 minutes."
+        },
+        {
+            "3": "Stir milk mixture into vegetable mixture; add corn, Cheddar cheese, and ham, reduce heat to low, and simmer until ham is heated through and cheese melts, 10 to 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "408"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9292158.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8862606.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7980729.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7649421.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dairy"
+}

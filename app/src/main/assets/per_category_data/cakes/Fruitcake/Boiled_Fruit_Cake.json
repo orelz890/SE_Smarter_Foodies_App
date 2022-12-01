@@ -1,0 +1,87 @@
+{
+    "title": "Boiled Fruit Cake",
+    "Category": "Fruitcake",
+    "Ingredients": [
+        {
+            "1": "1 cup water"
+        },
+        {
+            "2": "4 cups candied mixed fruit"
+        },
+        {
+            "3": "1 cup white sugar"
+        },
+        {
+            "4": "0.75 cup butter"
+        },
+        {
+            "5": "2 cups all-purpose flour"
+        },
+        {
+            "6": "1 teaspoon baking soda"
+        },
+        {
+            "7": "1 teaspoon mixed spice"
+        },
+        {
+            "8": "2  eggs, beaten"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 300 degrees F (150 degrees C). Grease a 9x5 inch loaf pan, and line with parchment paper or aluminum foil."
+        },
+        {
+            "2": "Combine the water, mixed fruit, sugar and butter in a saucepan over medium heat. Bring to a boil, stirring occasionally, and boil gently for about 10 minutes. Sift the flour, baking soda and mixed spice into a large bowl. Pour in the boiled mixture, and stir until well blended. Mix in the eggs. Pour into the greased loaf pan."
+        },
+        {
+            "3": "Bake for 90 minutes in the preheated oven, until a skewer or knife inserted into the top comes out clean. Cool cake in the pan for at least 10 minutes before removing."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 45 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 - 9x5 inch loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "506"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "97g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6285795.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2951105.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F734096.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F734095.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

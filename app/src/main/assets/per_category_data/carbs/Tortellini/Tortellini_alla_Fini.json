@@ -1,0 +1,87 @@
+{
+    "title": "Tortellini alla Fini",
+    "Category": "Tortellini",
+    "Ingredients": [
+        {
+            "1": "2 (8 ounce) packages fresh cheese tortellini"
+        },
+        {
+            "2": "6 tablespoons butter"
+        },
+        {
+            "3": "1 pint heavy cream"
+        },
+        {
+            "4": "1 teaspoon ground nutmeg"
+        },
+        {
+            "5": "1 teaspoon ground black pepper"
+        },
+        {
+            "6": "3 cups freshly shredded Parmesan cheese"
+        },
+        {
+            "7": "2 cups diced cooked ham"
+        },
+        {
+            "8": "2 cups cooked peas"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a large pot with lightly salted water and bring to a rolling boil; stir in tortellini and return to a boil. Cook uncovered, stirring occasionally, until the tortellini float to the top and the filling is hot, about 3 minutes."
+        },
+        {
+            "2": "Meanwhile, melt butter in a saucepan over medium heat. Add cream and stir frequently until heated through. Season with nutmeg and pepper. Slowly mix in Parmesan cheese, stirring constantly, and allow to thicken. Mix in ham and peas."
+        },
+        {
+            "3": "Drain cooked tortellini and return to the pot. Pour sauce over tortellini and toss to combine."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "699"
+        },
+        {
+            "Fat": "51g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9426708.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9426435.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9401170.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6629217.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

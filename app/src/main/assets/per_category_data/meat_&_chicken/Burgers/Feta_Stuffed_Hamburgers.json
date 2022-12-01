@@ -1,0 +1,78 @@
+{
+    "title": "Feta-Stuffed Hamburgers",
+    "Category": "Burgers",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "0.5 teaspoon Worcestershire sauce"
+        },
+        {
+            "3": "1 teaspoon dried parsley"
+        },
+        {
+            "4": "1 salt and pepper to taste"
+        },
+        {
+            "5": "1 cup crumbled feta cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for medium heat, and lightly oil the grate."
+        },
+        {
+            "2": "Knead together the ground beef, Worcestershire sauce, parsley, salt, and pepper in a bowl. Form the mixture into 8 equal-sized balls; flatten to make thin patties. Place about 1/4 cup of feta cheese onto each of four of the patties. Top each of the patties with cheese with one of the patties without; press the edges together to seal the cheese into the center."
+        },
+        {
+            "3": "Cook on the preheated grill until the burgers are cooked to your desired degree of doneness, 7 to 8 minutes per side for well done. An instant-read thermometer inserted into the center should read 160 degrees F (70 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 burgers"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "386"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7873068.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F69f1e2c17dee1ecd57d15589692fcf89%2F4487893.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F030ddda7a6095b84ff09e48d7a0361e4%2F4127116.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4127116.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Easy Slow Cooker Stroganoff",
+    "Category": "Beef Stroganoff",
+    "Ingredients": [
+        {
+            "1": "2 (10.75 ounce) cans  cream of mushroom soup"
+        },
+        {
+            "2": "1 (8 ounce) package sliced fresh mushrooms (Optional)"
+        },
+        {
+            "3": "0.5 cup butter"
+        },
+        {
+            "4": "1 small onion, chopped"
+        },
+        {
+            "5": "3 pounds beef tips, cut into bite-size pieces"
+        },
+        {
+            "6": "1 (8 ounce) package wide egg noodles"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix cream of mushroom soup, mushrooms, butter, and onion in a slow cooker; add beef tips."
+        },
+        {
+            "2": "Cook for 8 hours on Low."
+        },
+        {
+            "3": "Bring a large pot of lightly salted water to a boil. Cook egg noodles in the boiling water, stirring occasionally until cooked through but firm to the bite, about 5 minutes. Drain."
+        },
+        {
+            "4": "Serve beef tips and sauce over cooked egg noodles."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "663"
+        },
+        {
+            "Fat": "36g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "48g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9149181.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7403131.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6759829.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3965213.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

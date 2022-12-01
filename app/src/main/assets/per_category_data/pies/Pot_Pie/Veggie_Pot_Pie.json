@@ -1,0 +1,117 @@
+{
+    "title": "Veggie Pot Pie",
+    "Category": "Pot Pie",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil"
+        },
+        {
+            "2": "8 ounces mushrooms, sliced"
+        },
+        {
+            "3": "1  onion, chopped"
+        },
+        {
+            "4": "1 clove garlic, minced"
+        },
+        {
+            "5": "2 large carrots, diced"
+        },
+        {
+            "6": "2  potatoes, peeled and diced"
+        },
+        {
+            "7": "2 stalks celery, sliced 1/4 inch wide"
+        },
+        {
+            "8": "2 cups cauliflower florets"
+        },
+        {
+            "9": "1 cup fresh green beans, trimmed and snapped into 1/2 inch pieces"
+        },
+        {
+            "10": "3 cups vegetable broth"
+        },
+        {
+            "11": "1 teaspoon kosher salt"
+        },
+        {
+            "12": "1 teaspoon ground black pepper"
+        },
+        {
+            "13": "0.25 cup water"
+        },
+        {
+            "14": "2 tablespoons cornstarch"
+        },
+        {
+            "15": "2 tablespoons soy sauce"
+        },
+        {
+            "16": "1 (14.1 ounce) package double-crust pie pastry, thawed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "2": "Heat oil in a large skillet or saucepan. Add mushrooms, onions, and garlic; cook for 3 to 5 minutes, stirring frequently. Stir in carrots, potatoes, and celery. Stir in cauliflower and green beans; add vegetable broth and bring to a boil. Reduce heat and simmer until vegetables are just tender, about 5 minutes. Season with salt and pepper."
+        },
+        {
+            "3": "Mix water, cornstarch, and soy sauce in a small bowl until cornstarch is completely dissolved; stir into vegetables and cook until sauce thickens, about 3 minutes."
+        },
+        {
+            "4": "Roll out 1/2 of the dough to line an 11x7-inch baking dish. Pour vegetable filling into the pastry-lined dish. Roll out remaining dough; arrange over filling, then seal and flute the edges."
+        },
+        {
+            "5": "Bake in preheated oven until pie is golden brown on top, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "469"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "54g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa613d2a2df7dae7aa8c5b9cb5ad4eee1%2F166128386020220823_153633.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9443868.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9152180.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9019643.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/VHjMAHHLqsMwBNy5LweReFEw4pU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7765387-veggie-pot-pie-Trusted-Brands-1x1-1-a821587a20644271b797b5a767608ffa.jpg"
+        }
+    ],
+    "main category": "pies"
+}

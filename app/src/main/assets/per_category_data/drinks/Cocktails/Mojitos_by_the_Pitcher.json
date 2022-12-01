@@ -1,0 +1,69 @@
+{
+    "title": "Mojitos by the Pitcher",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "0.5 cup white sugar"
+        },
+        {
+            "2": "36 leaves fresh mint, or to taste"
+        },
+        {
+            "3": "3 medium limes, quartered"
+        },
+        {
+            "4": "1 cup rum (such as Bacardi\u00ae)"
+        },
+        {
+            "5": "1 liter club soda"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Muddle sugar and mint leaves together in a pitcher until leaves are well broken down. Add limes and muddle until limes are juiced. Pour rum into sugar mixture; add club soda and stir until sugar is dissolved."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "160"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc562bdb2b2afe9533c33e3d6a4a0d57e%2F1657393722image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc562bdb2b2afe9533c33e3d6a4a0d57e%2F1656280712image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8493472.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8319408.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/5t54GtJm3OlrA8ou91hu-IHgxBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3643737-mojitos-by-the-pitcher-themoodyfoodie-1x1-1-7e329aab34f6487e9216d3163f900c2e.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

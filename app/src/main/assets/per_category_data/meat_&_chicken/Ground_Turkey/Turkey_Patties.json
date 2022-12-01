@@ -1,0 +1,84 @@
+{
+    "title": "Turkey Patties",
+    "Category": "Ground Turkey",
+    "Ingredients": [
+        {
+            "1": "1 pound ground turkey"
+        },
+        {
+            "2": "0.25 cup fine dry bread crumbs"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "2 tablespoons minced green onions"
+        },
+        {
+            "5": "2 tablespoons soy sauce"
+        },
+        {
+            "6": "1 teaspoon minced fresh ginger root"
+        },
+        {
+            "7": "1 clove garlic, minced"
+        },
+        {
+            "8": "1 tablespoon vegetable oil"
+        },
+        {
+            "9": "2 tablespoons chopped fresh parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix turkey, bread crumbs, egg, green onion, soy sauce, ginger, and garlic in a large bowl until combined. Shape into 4 patties."
+        },
+        {
+            "2": "Heat oil in a wide skillet over medium heat. Add patties and cook until no longer pink in the center and the juices run clear, about 5 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        },
+        {
+            "3": "Garnish with chopped parsley."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "251"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5248000.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4460124.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F213045.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

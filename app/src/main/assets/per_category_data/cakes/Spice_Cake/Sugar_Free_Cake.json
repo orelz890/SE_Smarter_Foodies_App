@@ -1,0 +1,96 @@
+{
+    "title": "Sugar Free Cake",
+    "Category": "Spice Cake",
+    "Ingredients": [
+        {
+            "1": "2 cups raisins"
+        },
+        {
+            "2": "3 cups water"
+        },
+        {
+            "3": "2  eggs"
+        },
+        {
+            "4": "3 tablespoons liquid sweetener"
+        },
+        {
+            "5": "0.75 cup vegetable oil"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "1 teaspoon baking soda"
+        },
+        {
+            "8": "0.5 teaspoon salt"
+        },
+        {
+            "9": "0.5 teaspoons ground cinnamon"
+        },
+        {
+            "10": "0.5 teaspoon ground nutmeg"
+        },
+        {
+            "11": "2 cups all-purpose flour"
+        },
+        {
+            "12": "1 cup chopped walnuts"
+        },
+        {
+            "13": "1 cup unsweetened applesauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour one 10 inch bundt or tube pan."
+        },
+        {
+            "2": "In a saucepan combine raisins with water and cook until the water is absorbed, cool."
+        },
+        {
+            "3": "Combine eggs, applesauce, vegetable oil, vanilla, and liquid sweetener. Mix well. Sift flour, baking soda, salt, ground cinnamon, and ground nutmeg into egg mixture. Stir until just combined. Mix in raisins and chopped nuts. Pour batter into prepared pan."
+        },
+        {
+            "4": "Bake at 350 degrees F (175 degrees C) for one hour."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 -10 inch bundt or tube pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "373"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "43g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8825117.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F92c33bbfa044942874091673c86fe437%2F6391297.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F376140.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F47179.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Garbanzo Bean Soup",
+    "Category": "Mediterranean Diet",
+    "Ingredients": [
+        {
+            "1": "1 (14.5 ounce) can peeled and diced tomatoes"
+        },
+        {
+            "2": "1 teaspoon olive oil"
+        },
+        {
+            "3": "2 (15.5 ounce) cans garbanzo beans"
+        },
+        {
+            "4": "1 salt and pepper to taste"
+        },
+        {
+            "5": "2 sprigs fresh rosemary"
+        },
+        {
+            "6": "1 cup acini di pepe pasta"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine the tomatoes, olive oil and 1 1/2 cans of the beans in a large saucepan. Bring to a boil. Puree the remaining 1/2 can of garbanzo beans using a blender or food processor, and stir into the saucepan. Place the sprigs of rosemary into the pan without breaking off the leaves. The sprigs will be removed before serving."
+        },
+        {
+            "2": "Add acini de pepe pasta and simmer until pasta is soft, stirring gently to prevent sticking. Remove rosemary, and season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "502"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "95g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F66862e8ec514f8e051558d0e5a472d51%2F2885623.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

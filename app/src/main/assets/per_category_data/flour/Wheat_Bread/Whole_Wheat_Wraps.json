@@ -1,0 +1,75 @@
+{
+    "title": "Whole Wheat Wraps",
+    "Category": "Wheat Bread",
+    "Ingredients": [
+        {
+            "1": "4 cups whole wheat flour"
+        },
+        {
+            "2": "1 teaspoon salt"
+        },
+        {
+            "3": "0.25 teaspoon baking powder"
+        },
+        {
+            "4": "1 cup warm water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, stir together flour, salt and baking powder. Pour in water; stir to combine. Mix in additional water in 1 tablespoon increments, until a soft pliable dough is formed."
+        },
+        {
+            "2": "Knead briefly on a lightly floured surface. Divide dough into 16 equal pieces. Cover and let rest for 20 minutes."
+        },
+        {
+            "3": "Flour each ball well, place between two pieces of wax paper and roll out to desired size and thickness."
+        },
+        {
+            "4": "Heat an ungreased skillet or frying pan over medium-high heat. Peel away wax paper and grill rounds until brown flecks appear underneath. Turn and cook other side. Serve warm or cool and store in an airtight container in the refrigerator or freezer."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 wraps"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "102"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F47513.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9145.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

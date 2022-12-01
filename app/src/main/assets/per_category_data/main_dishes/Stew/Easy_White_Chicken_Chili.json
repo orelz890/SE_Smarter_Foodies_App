@@ -1,0 +1,102 @@
+{
+    "title": "Easy White Chicken Chili",
+    "Category": "Stew",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "3  skinless, boneless chicken breast halves"
+        },
+        {
+            "3": "1 large onion, chopped"
+        },
+        {
+            "4": "2 cloves garlic, minced"
+        },
+        {
+            "5": "1.25 cups chicken broth"
+        },
+        {
+            "6": "3 (15 ounce) cans cannellini (white kidney) beans, rinsed and drained"
+        },
+        {
+            "7": "2 (4 ounce) cans chopped green chiles"
+        },
+        {
+            "8": "1 tablespoon dried oregano"
+        },
+        {
+            "9": "1 teaspoon ground cumin"
+        },
+        {
+            "10": "2 pinches cayenne pepper, or to taste"
+        },
+        {
+            "11": "0.25 cup chopped fresh cilantro, or to taste"
+        },
+        {
+            "12": "0.5 cup shredded Monterey Jack cheese, or to taste"
+        },
+        {
+            "13": "1 salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a Dutch oven over medium heat. Cook chicken, onion, and garlic in hot oil until chicken is browned on both sides, about 5 minutes."
+        },
+        {
+            "2": "Transfer chicken to a cutting board; cut into 1-inch pieces and return to the Dutch oven. Add chicken broth, cannellini beans, green chiles, oregano, cumin, and cayenne pepper. Bring the mixture to a simmer and cook until the chicken is cooked through, 30 to 40 minutes."
+        },
+        {
+            "3": "Divide cilantro among 4 bowls. Ladle chili over cilantro and top with cheese. Season with salt to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "466"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6c0efb421dba8aa504ec724d35f93603%2F1663872573image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9426479.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9029580.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8563166.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/o8hYPYPoZn9rvCJmU9IuuDSAdiA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228650-EasyWhiteChickenChili-ddmfs-1X1-0310-da6567344bb0464093d8c2aef178ad53.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

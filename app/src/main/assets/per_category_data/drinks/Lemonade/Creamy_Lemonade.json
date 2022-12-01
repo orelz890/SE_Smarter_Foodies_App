@@ -1,0 +1,53 @@
+{
+    "title": "Creamy Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "1 cup freshly squeezed lemon juice"
+        },
+        {
+            "2": "0.5 (14 ounce) can sweetened condensed milk"
+        },
+        {
+            "3": "3 cups water, divided"
+        },
+        {
+            "4": "1 ice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine lemon juice, sweetened condensed milk, and 1 cup water in a blender. Blend until well combined."
+        },
+        {
+            "2": "Pour into a pitcher and add remaining 2 cups water. Stir."
+        },
+        {
+            "3": "Serve chilled and over ice."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "10"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [],
+    "main category": "drinks"
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Linnie's Spanish Rice",
+    "Category": "Spanish Rice",
+    "Ingredients": [
+        {
+            "1": "1 cup uncooked white rice"
+        },
+        {
+            "2": "1 teaspoon minced garlic"
+        },
+        {
+            "3": "2 cups water"
+        },
+        {
+            "4": "1 (16 ounce) jar salsa"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine the rice with the garlic in a large saucepan. Pour water and salsa into the rice mixture. Bring the water to a full boil and then reduce the temperature to simmer. Simmer for 20 minutes or until the rice is tender. Fluff the rice when finished."
+        }
+    ],
+    "Details": [
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 side servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "200"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F97453af8bb721d48476e55dd2d400179%2F3109564.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1010238.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F24bc49f0fc47315ab3a9c851d6f36063%2F70258.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

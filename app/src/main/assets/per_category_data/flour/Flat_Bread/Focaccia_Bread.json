@@ -1,0 +1,114 @@
+{
+    "title": "Focaccia Bread",
+    "Category": "Flat Bread",
+    "Ingredients": [
+        {
+            "1": "1.5 cups all-purpose flour"
+        },
+        {
+            "2": "1 tablespoon active dry yeast"
+        },
+        {
+            "3": "1 teaspoon salt"
+        },
+        {
+            "4": "1 teaspoon white sugar"
+        },
+        {
+            "5": "1 teaspoon garlic powder"
+        },
+        {
+            "6": "1 teaspoon dried oregano"
+        },
+        {
+            "7": "1 teaspoon dried thyme"
+        },
+        {
+            "8": "0.5 teaspoon dried basil"
+        },
+        {
+            "9": "1 pinch ground black pepper"
+        },
+        {
+            "10": "1 cup water"
+        },
+        {
+            "11": "1 tablespoon vegetable oil"
+        },
+        {
+            "12": "2 tablespoons olive oil"
+        },
+        {
+            "13": "1 cup mozzarella"
+        },
+        {
+            "14": "1 tablespoon grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine flour, yeast, salt, sugar, garlic powder, oregano, thyme, basil, and black pepper in a large bowl. Add water and vegetable oil, then mix until dough comes together."
+        },
+        {
+            "2": "Turn dough out onto a lightly floured surface and knead until smooth and elastic. Lightly oil a large bowl; place the dough in the bowl and turn to coat with oil. Cover with a damp cloth and let rise in a warm place for 20 minutes."
+        },
+        {
+            "3": "Preheat the oven to 450 degrees F (230 degrees C). Lightly grease a baking sheet."
+        },
+        {
+            "4": "Punch dough down and place on prepared baking sheet. Pat into a 1/2 inch thick rectangle. Brush top with olive oil and sprinkle with mozzarella and Parmesan cheese."
+        },
+        {
+            "5": "Bake in the preheated until golden brown, about 15 minutes. Cut into 12 pieces and serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "25 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "171"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F81a489d8b0522b877825851036c442cb%2F16641145667655679B-23EC-4E5A-96C2-D0CB2DFE35DF.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9363056.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9204189.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9183272.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/X5J1netUWd0zFbuGcA9hN-1jIZY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17918-focaccia-bread-ddmfs-1x1-94-baf3dc3a2c23482f916ce46696fed16f.jpg"
+        }
+    ],
+    "main category": "flour"
+}

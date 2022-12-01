@@ -1,0 +1,66 @@
+{
+    "title": "Lite Brocamole",
+    "Category": "Tex-Mex Recipes",
+    "Ingredients": [
+        {
+            "1": "1  avocado, peeled and pitted"
+        },
+        {
+            "2": "1 large head fresh broccoli"
+        },
+        {
+            "3": "2 tablespoons red onion, minced"
+        },
+        {
+            "4": "4 cloves garlic, minced"
+        },
+        {
+            "5": "2 tablespoons lime juice"
+        },
+        {
+            "6": "1 tablespoon hot pepper sauce"
+        },
+        {
+            "7": "2 tablespoons chopped fresh cilantro"
+        },
+        {
+            "8": "1 salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Boil or steam broccoli until very soft."
+        },
+        {
+            "2": "In a large bowl, mash broccoli with avocado. Mix in onions, garlic, lime juice, hot pepper sauce, and cilantro until mixture resembles the consistency of mashed potatoes. Season to taste with salt."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 to 3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "30"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F24371.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

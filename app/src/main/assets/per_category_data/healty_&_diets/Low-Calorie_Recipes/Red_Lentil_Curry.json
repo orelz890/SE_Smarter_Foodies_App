@@ -1,0 +1,111 @@
+{
+    "title": "Red Lentil Curry",
+    "Category": "Low-Calorie Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups red lentils"
+        },
+        {
+            "2": "3 cups water, or more as needed"
+        },
+        {
+            "3": "1 tablespoon vegetable oil"
+        },
+        {
+            "4": "1 large onion, diced"
+        },
+        {
+            "5": "2 tablespoons curry paste"
+        },
+        {
+            "6": "1 tablespoon curry powder"
+        },
+        {
+            "7": "1 teaspoon ground turmeric"
+        },
+        {
+            "8": "1 teaspoon ground cumin"
+        },
+        {
+            "9": "1 teaspoon chili powder"
+        },
+        {
+            "10": "1 teaspoon salt"
+        },
+        {
+            "11": "1 teaspoon white sugar"
+        },
+        {
+            "12": "1 teaspoon minced garlic"
+        },
+        {
+            "13": "1 teaspoon minced fresh ginger"
+        },
+        {
+            "14": "1 (14.25 ounce) can tomato puree"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Wash lentils in cold water until water runs clear."
+        },
+        {
+            "2": "Put lentils in a pot with enough water to cover; bring to a boil and reduce heat to medium-low. Cover and simmer, adding water as needed to keep lentils covered, until tender, 15 to 20 minutes. Drain."
+        },
+        {
+            "3": "Heat vegetable oil in a large skillet over medium heat; cook and stir onions in hot oil until caramelized, about 20 minutes."
+        },
+        {
+            "4": "Mix together curry paste, curry powder, turmeric, cumin, chili powder, salt, sugar, garlic, and ginger in a large bowl; stir into onions. Increase heat to high and cook, stirring constantly, until fragrant, 1 to 2 minutes."
+        },
+        {
+            "5": "Stir in tomato puree and lentils; cook until warmed through."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "192"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8879806.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8770235.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8739803.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8737431.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/IK6d5OtbES7GmWdh7c77Wk3Q0Zk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8133071-2b2cadf36bae4a1688aa51ce9ce4d7a7.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

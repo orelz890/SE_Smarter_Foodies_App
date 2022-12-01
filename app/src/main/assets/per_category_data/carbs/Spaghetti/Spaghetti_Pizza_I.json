@@ -1,0 +1,102 @@
+{
+    "title": "Spaghetti Pizza I",
+    "Category": "Spaghetti",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package spaghetti, broken into 2-inch pieces"
+        },
+        {
+            "2": "1  egg, beaten"
+        },
+        {
+            "3": "0.25 cup milk"
+        },
+        {
+            "4": "2 cups shredded mozzarella cheese, divided"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "0.25 teaspoon garlic salt"
+        },
+        {
+            "7": "1 (16 ounce) jar spaghetti sauce"
+        },
+        {
+            "8": "1 teaspoon dried oregano"
+        },
+        {
+            "9": "0.25 teaspoon dried basil"
+        },
+        {
+            "10": "4 ounces pepperoni sausage, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 425 degrees F (220 degrees C). Grease a 9x13-inch baking dish."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Add spaghetti and cook for 8 to 10 minutes or until al dente; drain and rinse with cold water."
+        },
+        {
+            "3": "Combine egg, milk, 1/2 cup of the mozzarella cheese, salt, and garlic salt in a large bowl. Stir in cooked spaghetti; mix well."
+        },
+        {
+            "4": "Spread mixture into prepared baking dish. Bake in preheated oven for 15 minutes. Remove from oven and reduce temperature to 350 degrees F (175 degrees C)."
+        },
+        {
+            "5": "Spread sauce over spaghetti. Sprinkle with oregano, basil, and the remaining 1 1/2 cups mozzarella. Top with pepperoni, return to oven, and bake until cheese is bubbly and beginning to brown, about 30 minutes more. Let stand 5 minutes before cutting."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "7 "
+        },
+        {
+            "Yield": "7 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "351"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe534c20d210e4a0ec155f7960325b55a%2F1649729239IMG-3797.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9188920.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9060361.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8974132.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

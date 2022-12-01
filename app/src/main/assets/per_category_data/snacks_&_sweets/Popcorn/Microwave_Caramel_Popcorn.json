@@ -1,0 +1,87 @@
+{
+    "title": "Microwave Caramel Popcorn",
+    "Category": "Popcorn",
+    "Ingredients": [
+        {
+            "1": "4 quarts popped popcorn"
+        },
+        {
+            "2": "1 cup brown sugar"
+        },
+        {
+            "3": "0.5 cup margarine"
+        },
+        {
+            "4": "0.25 cup light corn syrup"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "0.5 teaspoon baking soda"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the popped popcorn into a large brown paper bag. Set aside."
+        },
+        {
+            "2": "In a 2 quart casserole dish, or other heat-proof glass dish, combine the brown sugar, margarine, corn syrup, salt and vanilla. Heat for 3 minutes in the microwave, then take out and stir until well blended. Return to the microwave, and cook for 1 1/2 minutes. Remove from microwave, and stir in the baking soda."
+        },
+        {
+            "3": "Pour syrup over the popcorn in the bag. Roll down the top once or twice to close the bag, and shake to coat the corn. Place bag into the microwave, and cook for 1 minute and 10 seconds. Remove, shake, flip the bag over, and return it to the microwave. Cook for another 1 minute and 10 seconds. Dump the popcorn out onto waxed paper, and let cool until coating is set. Store in an airtight container."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "4 quarts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "173"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9f0d2568b263625a1772c14684438627%2F1656549692caramel%2520popcorn%2520june%252029%25202022.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8797638.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8122904.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8021042.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/1VyTNCusSyzDU1tmnbWENT3Gqjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7302025-8a08fde5cfb446989017a987cc4291cc.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

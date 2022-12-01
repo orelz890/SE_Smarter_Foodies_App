@@ -1,0 +1,93 @@
+{
+    "title": "Cabbage Roll Casserole",
+    "Category": "Ground Beef",
+    "Ingredients": [
+        {
+            "1": "2 pounds ground beef"
+        },
+        {
+            "2": "1.5 pounds chopped cabbage"
+        },
+        {
+            "3": "1 (29 ounce) can tomato sauce"
+        },
+        {
+            "4": "1 cup chopped onion"
+        },
+        {
+            "5": "1 cup uncooked white rice"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "2 (14 ounce) cans beef broth"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease."
+        },
+        {
+            "3": "Combine cabbage, tomato sauce, onion, rice, and salt in a large mixing bowl. Stir in cooked ground beef. Pour mixture into a 9x13-inch baking dish, then pour beef broth over top."
+        },
+        {
+            "4": "Cover and bake in the preheated oven for 1 hour. Stir, re-cover, and bake until cabbage is tender and rice is done, 20 to 30 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x13-inch caserole"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "352"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe0c07db8753a0c6e517db44367865bfb%2F1668187940727cabbage-roll-casserole.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F49665233ab88c7726534cb255b8ded1a%2F166363860820220919_195710.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F49665233ab88c7726534cb255b8ded1a%2F1643686741image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9412843.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/a70vrDTuvXUwSQA6geu9GYnp-EM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14690-CabbageRollCasserole-mfs-Step-2X3-1269-538b5bd14e3c4d9ca63127bb84f8c2b1.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/5wIaGP_hhPeYiKj9BDWEo0nDAak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14690-CabbageRollCasserole-mfs-Step-1X1-1270-80c141d7ab3a477b9aaa726bf7f66ffe.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

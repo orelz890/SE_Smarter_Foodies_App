@@ -1,0 +1,87 @@
+{
+    "title": "White Chocolate, Chocolate Cookies",
+    "Category": "Chocolate Chip Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup unsalted butter"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "0.75 cup packed brown sugar"
+        },
+        {
+            "4": "2  eggs"
+        },
+        {
+            "5": "0.25 cups unsweetened cocoa powder"
+        },
+        {
+            "6": "0.75 cups all-purpose flour"
+        },
+        {
+            "7": "2 teaspoons baking soda"
+        },
+        {
+            "8": "2 cups white chocolate chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease cookie sheets."
+        },
+        {
+            "2": "In a large bowl, cream together the butter, brown sugar and white sugar until light and fluffy. Add the eggs one at a time, beating well with each addition. Combine the cocoa, flour, and baking soda, gradually stir into the creamed mixture. Finally, fold in white chocolate chips. Drop by rounded spoonfuls onto the prepared cookie sheets."
+        },
+        {
+            "3": "Bake for 8 to 10 minutes in the preheated oven, until puffy but still soft. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "36 "
+        },
+        {
+            "Yield": "3 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "173"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fae4de878a5f30e1a10a704dab90336d0%2F1644193787IMG_20220206_185142874_HDR.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9117975.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9064016.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8837176.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Florida Key Lime Pie",
+    "Category": "Key Lime Pie",
+    "Ingredients": [
+        {
+            "1": "1 (9 inch) prepared graham cracker crust"
+        },
+        {
+            "2": "2 (8 ounce) packages cream cheese, softened"
+        },
+        {
+            "3": "2 (14 ounce) cans low-fat sweetened condensed milk"
+        },
+        {
+            "4": "0.75 cup key lime juice"
+        },
+        {
+            "5": "1 teaspoon grated lime zest"
+        },
+        {
+            "6": "0.25 teaspoon salt"
+        },
+        {
+            "7": "1 cup heavy cream, chilled"
+        },
+        {
+            "8": "1 teaspoon vanilla extract"
+        },
+        {
+            "9": "3 tablespoons confectioners' sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "To Make Lime Filling: In a large mixing bowl, whip cream cheese until fluffy. Add condensed milk, lime juice, lime rind, and salt. Whip until mixture is smooth. Pour into graham cracker crust. Cover with plastic wrap and chill thoroughly."
+        },
+        {
+            "2": "To Make Topping: In a medium bowl, whip cream until soft peaks form. Add vanilla or lemon extract and confectioners' sugar. Continue to whip until cream forms stiff peaks. Place topping in a fine-mesh sieve and place sieve over a bowl to catch liquid that drains off. Cover topping tightly with plastic wrap and allow to drain for 2 hours."
+        },
+        {
+            "3": "Before serving, discard liquid that has drained from topping. Spread topping over pie."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "921"
+        },
+        {
+            "Fat": "43g"
+        },
+        {
+            "Carbs": "108g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7387eba9ebbb7958c6b753f96c717b30%2F1644879575IMG_0900.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6660536.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6727598.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6502268.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Tom Collins Cocktail",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "1.0 cups ice, divided"
+        },
+        {
+            "2": "2 fluid ounces gin"
+        },
+        {
+            "3": "0.75 fluid ounce lemon juice"
+        },
+        {
+            "4": "0.5 fluid ounce simple syrup"
+        },
+        {
+            "5": "2 fluid ounces club soda"
+        },
+        {
+            "6": "1  lemon wedge"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a Collins glass with 1 1/2 cups ice; set aside in the freezer."
+        },
+        {
+            "2": "Combine gin, lemon juice, and simple syrup in a cocktail shaker. Add 1 cup ice, cover, and shake until chilled."
+        },
+        {
+            "3": "Strain into the chilled Collins glass. Top with club soda and garnish with lemon wedge."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "191"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8804113.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4499408.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcb09dc285ad3f66bb501c01e800be1f9%2F1060494.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://www.allrecipes.com/thmb/r_vCyAzs5xQCVM-wMgV4RsdYqs4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1060494-tom-collins-cocktail-lutzflcat-1x1-1-481882f52cce47088d1a39ea5fa6ec01.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

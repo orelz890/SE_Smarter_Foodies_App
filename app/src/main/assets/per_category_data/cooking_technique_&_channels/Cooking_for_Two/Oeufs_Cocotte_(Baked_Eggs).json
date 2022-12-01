@@ -1,0 +1,87 @@
+{
+    "title": "Oeufs Cocotte (Baked Eggs)",
+    "Category": "Cooking for Two",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil, or to taste"
+        },
+        {
+            "2": "0.5 cup finely chopped ham"
+        },
+        {
+            "3": "2 tablespoons grated Gruyere cheese, divided"
+        },
+        {
+            "4": "0.5 cup heavy whipping cream"
+        },
+        {
+            "5": "1 salt and ground black pepper to taste"
+        },
+        {
+            "6": "2  eggs"
+        },
+        {
+            "7": "0.25 teaspoon chopped fresh chives"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C). Boil water in a kettle."
+        },
+        {
+            "2": "Grease a small lidded casserole dish with olive oil. Distribute diced ham over the bottom and sprinkle with 1 tablespoon Gruyere cheese. Pour cream on top and season with a little pepper."
+        },
+        {
+            "3": "Crack eggs into the casserole dish one at a time, making sure egg yolks remain intact. Sprinkle with remaining 1 tablespoon Gruyere cheese and fresh chives. Season with salt and pepper. Cover casserole dish and place into a roasting pan. Pour in enough boiling water so it reaches about halfway up the casserole dish."
+        },
+        {
+            "4": "Bake in the preheated oven for 9 minutes with the lid on. Uncover and continue baking until the egg whites are just set but the yolks are still runny, 3 to 6 additional minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "447"
+        },
+        {
+            "Fat": "42g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9428876.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8172382.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0557b189a5199c3ca6b06e265d3a007e%2F7543781.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7035355.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

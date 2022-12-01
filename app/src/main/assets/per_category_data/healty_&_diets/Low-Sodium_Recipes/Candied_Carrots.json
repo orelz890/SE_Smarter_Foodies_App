@@ -1,0 +1,75 @@
+{
+    "title": "Candied Carrots",
+    "Category": "Low-Sodium Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound carrots, cut into 2 inch pieces"
+        },
+        {
+            "2": "0.25 cup packed brown sugar"
+        },
+        {
+            "3": "2 tablespoons butter, diced"
+        },
+        {
+            "4": "1 pinch salt"
+        },
+        {
+            "5": "1 pinch ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place carrots in a pot of salted water; bring to a boil. Reduce heat to a low boil and cook until tender but not mushy, 20 to 30 minutes. Drain and return carrots to the pot."
+        },
+        {
+            "2": "Place the pot with carrots over the lowest possible heat setting. Stir in brown sugar, butter, salt, and pepper. Cook until sugar is bubbly, 3 to 5 minutes. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "150"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9164114.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9125995.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9071618.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8052917.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/akXgLumhDA8jHTlzg8lTWHdvZUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/193148-d5fc982ff5af4ede846399048391bfad.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

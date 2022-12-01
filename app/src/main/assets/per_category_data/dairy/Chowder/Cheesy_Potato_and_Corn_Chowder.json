@@ -1,0 +1,93 @@
+{
+    "title": "Cheesy Potato and Corn Chowder",
+    "Category": "Chowder",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons margarine"
+        },
+        {
+            "2": "1 cup chopped celery"
+        },
+        {
+            "3": "1 cup chopped onion"
+        },
+        {
+            "4": "2 (14.5 ounce) cans chicken broth"
+        },
+        {
+            "5": "3 cups peeled and cubed potatoes"
+        },
+        {
+            "6": "1 (15 ounce) can whole kernel corn"
+        },
+        {
+            "7": "1 (4 ounce) can diced green chiles"
+        },
+        {
+            "8": "1 (2.5 ounce) package country style gravy mix"
+        },
+        {
+            "9": "2 cups milk"
+        },
+        {
+            "10": "1 cup shredded Mexican-style processed cheese food"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In large saucepan, melt margarine over medium high heat. Add celery and onion; cook and stir until tender, about 5 minutes."
+        },
+        {
+            "2": "Add chicken broth; bring to a boil. Add potatoes; cook over low heat for 20 to 25 minutes or until potatoes are soft, stirring occasionally."
+        },
+        {
+            "3": "Stir in corn and chiles; return to boiling. Dissolve gravy mix in milk; stir into boiling mixture. Add cheese; cook and stir over low heat until cheese is melted."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "7 "
+        },
+        {
+            "Yield": "6 to 8 - servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "289"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9054985.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9034878.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8919401.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8589929.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dairy"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Meatloaf",
+    "Category": "Meatloaf",
+    "Ingredients": [
+        {
+            "1": "2 pounds lean ground beef"
+        },
+        {
+            "2": "1 (10.75 ounce) can  condensed tomato soup"
+        },
+        {
+            "3": "1  onion, finely diced"
+        },
+        {
+            "4": "1 cup rolled oats"
+        },
+        {
+            "5": "2  eggs, beaten"
+        },
+        {
+            "6": "1 tablespoon steak sauce"
+        },
+        {
+            "7": "0.5 cup ketchup"
+        },
+        {
+            "8": "3 tablespoons prepared mustard"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Combine ground beef, soup, chopped onion, rolled oats, eggs, steak sauce, ketchup, and mustard in a large bowl. Mix well."
+        },
+        {
+            "3": "Shape into a loaf, and pat into a loaf pan."
+        },
+        {
+            "4": "Bake in the preheated oven until no longer pink in the center, about 1 hour."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "9 "
+        },
+        {
+            "Yield": "9 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "362"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9067861.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8962173.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8899455.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8482430.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

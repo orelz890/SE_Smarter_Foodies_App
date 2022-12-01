@@ -1,0 +1,102 @@
+{
+    "title": "Mini Quiche Lorraine",
+    "Category": "Quiche",
+    "Ingredients": [
+        {
+            "1": "24 (3 inch) frozen tart shells, thawed"
+        },
+        {
+            "2": "6 slices bacon, or more to taste"
+        },
+        {
+            "3": "0.25 cups shredded Swiss cheese, divided (Optional)"
+        },
+        {
+            "4": "2  green onions, diced"
+        },
+        {
+            "5": "0.25 cups milk"
+        },
+        {
+            "6": "4 large eggs"
+        },
+        {
+            "7": "1 teaspoon Dijon mustard"
+        },
+        {
+            "8": "0.25 teaspoon salt"
+        },
+        {
+            "9": "0.25 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C). Arrange tart shells in two 12-cup muffin tins; line each shell with a layer of pie weights or dried beans."
+        },
+        {
+            "2": "Bake in the preheated oven until crust edges are lightly browned and shells are about 3/4 fully cooked, 5 to 10 minutes. Remove from the oven and let sit until needed."
+        },
+        {
+            "3": "While the shells are baking, cook bacon in a large skillet over medium-high heat, turning occasionally, until browned and crispy, 7 to 10 minutes. Drain on paper towels and crumble when cooled."
+        },
+        {
+            "4": "Mix 1 cup Swiss, green onions, and crumbled bacon together in a bowl; divide mixture evenly among tart shells."
+        },
+        {
+            "5": "Whisk milk, eggs, mustard, salt, and pepper together in a bowl. Ladle egg mixture into each tart shell until about 2/3 full. Sprinkle remaining 1/4 cup Swiss over tarts."
+        },
+        {
+            "6": "Bake in the preheated oven until set in the middle and shells are golden brown, 25 to 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 tarts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "380"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8915600.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8690488.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9d5d99c01b38edf7c6148e33c172b3c4%2F7424275.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6437722.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/YgPDupRAtYzJO3hX4mTYsfWOheg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-319-45403fadd2654fd7bac1406011545bac.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

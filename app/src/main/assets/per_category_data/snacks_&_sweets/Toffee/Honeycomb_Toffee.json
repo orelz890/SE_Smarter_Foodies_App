@@ -1,0 +1,78 @@
+{
+    "title": "Honeycomb Toffee",
+    "Category": "Toffee",
+    "Ingredients": [
+        {
+            "1": "1 teaspoon baking soda"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "2 tablespoons corn syrup"
+        },
+        {
+            "4": "2 tablespoons water"
+        },
+        {
+            "5": "1 tablespoon honey"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Line a baking dish with parchment paper, measure out baking soda in a small bowl, and have a heat-proof spatula ready before starting."
+        },
+        {
+            "2": "Whisk sugar, corn syrup, water, and honey together in a saucepan with a candy thermometer attached. Heat over medium heat until the mixture is thinner but still cloudy. Let bubble until the mixture is clear and the thermometer registers 300 degrees F (149 degrees C)."
+        },
+        {
+            "3": "Remove from heat. Whisk in baking soda until just incorporated. Switch to a spatula and very carefully pour into the lined dish. Do not spread it out with your spatula or compress the mixture at all, or the bubbles will deflate. Let cool completely, at least 30 minutes."
+        },
+        {
+            "4": "Remove candy from the pan by lifting out the parchment paper. Rap against the counter and use your fingers to break it into individual pieces."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "71"
+        },
+        {
+            "Carbs": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd1518b229ca2366375db88fca5d92090%2F165220336643981A0B-2062-434F-98C0-FE8B1FD66654.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429708.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9375836.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9386501.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/zTczp97dSEUSYJf4tQEWV-u1O4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5851911-honeycomb-toffee-Chef-John-1x1-1-236ed81715b6494391157774eb67c5b4.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

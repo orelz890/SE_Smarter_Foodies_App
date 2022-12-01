@@ -1,0 +1,69 @@
+{
+    "title": "Watermelon and Strawberry Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "8 cups cubed seeded watermelon"
+        },
+        {
+            "2": "1 cup fresh strawberries, halved"
+        },
+        {
+            "3": "0.5 cup fresh lemon juice"
+        },
+        {
+            "4": "1 cup white sugar"
+        },
+        {
+            "5": "2 cups water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine watermelon, strawberries, lemon juice, sugar, and water in a blender. Blend until smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "2 quarts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "152"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9224526.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8479909.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F084f72c224f17c757fc970221bae6553%2F5500166.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fca2168bbb23712f386b99d1358c88705%2F5500158.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

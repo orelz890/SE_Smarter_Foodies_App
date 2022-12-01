@@ -1,0 +1,81 @@
+{
+    "title": "Creamy Chanterelle Mushroom Soup",
+    "Category": "Mushroom Soup",
+    "Ingredients": [
+        {
+            "1": "8 ounces chanterelle mushrooms"
+        },
+        {
+            "2": "4 tablespoons butter"
+        },
+        {
+            "3": "2 cups diced shallot"
+        },
+        {
+            "4": "1 salt and ground black pepper to taste"
+        },
+        {
+            "5": "1 drizzle olive oil"
+        },
+        {
+            "6": "4 cups chicken stock"
+        },
+        {
+            "7": "0.5 cup half-and-half"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Rinse mushrooms and pat dry. Slice in half. Rinse off any bugs or dirt and chop."
+        },
+        {
+            "2": "Melt butter in a deep, heavy-bottomed pot over medium heat. Add shallots and cook until translucent, 3 to 5 minutes. Stir mushroom pieces into the shallots and toss in a generous pinch of salt to help draw out their juices. Add pepper. Drizzle with olive oil. Continue to cook until mushroom pieces shrink in size and brown slightly, about 5 minutes."
+        },
+        {
+            "3": "Pour chicken stock into the pot. Bring to a boil; reduce heat and simmer for 15 minutes. Remove from heat and let cool slightly, 10 to 20 minutes."
+        },
+        {
+            "4": "Ladle soup into a high-powered blender. Cover and hold lid down with a potholder; blend on high until pureed, 1 to 2 minutes. Add half-and-half and blend for 1 minute more. Return blended soup to the pot. Heat until warmed through, 5 to 10 minutes. Taste and adjust seasoning."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "242"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6938662.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

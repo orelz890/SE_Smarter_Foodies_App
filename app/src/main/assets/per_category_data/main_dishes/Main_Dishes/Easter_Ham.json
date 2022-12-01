@@ -1,0 +1,90 @@
+{
+    "title": "Easter Ham",
+    "Category": "Main Dishes",
+    "Ingredients": [
+        {
+            "1": "1 (7 pound) boneless ham"
+        },
+        {
+            "2": "2 cups brown sugar"
+        },
+        {
+            "3": "3 tablespoons prepared yellow mustard, or as needed"
+        },
+        {
+            "4": "1 (8 ounce) can pineapple rings in juice, drained and juice reserved"
+        },
+        {
+            "5": "1 cup honey"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Score ham by making 1/2-inch deep diagonal cuts, creating a diamond pattern; transfer ham to a roasting pan."
+        },
+        {
+            "3": "Mix brown sugar with enough yellow mustard to make a smooth, pourable sauce."
+        },
+        {
+            "4": "Pour reserved pineapple juice over ham, followed by the honey."
+        },
+        {
+            "5": "Pour brown sugar mixture over honey and arrange pineapple rings decoratively atop ham. Secure pineapple rings with toothpicks."
+        },
+        {
+            "6": "Bake in the preheated oven until diamond pattern on ham splits open, 1 to 1 1/2 hours. Baste ham every 15 minutes with pan drippings."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "20 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "507"
+        },
+        {
+            "Fat": "30g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9141689.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8781037.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7964951.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7963811.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Chqb3E0c6pXVcWwgH9-53d2HMi4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4503775-7e02a00dca59442fbfe2918b0c9b5317.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Shrimp Fried Rice I",
+    "Category": "Fried Rice",
+    "Ingredients": [
+        {
+            "1": "6 cups water"
+        },
+        {
+            "2": "3 cups uncooked white rice"
+        },
+        {
+            "3": "2  eggs, beaten"
+        },
+        {
+            "4": "3 tablespoons sesame oil"
+        },
+        {
+            "5": "1  onion, diced"
+        },
+        {
+            "6": "2  celery, diced"
+        },
+        {
+            "7": "1 pound cooked salad shrimp"
+        },
+        {
+            "8": "3  carrots, diced"
+        },
+        {
+            "9": "1  red bell pepper, diced"
+        },
+        {
+            "10": "0.75 cup snow peas, trimmed and halved"
+        },
+        {
+            "11": "1  green bell pepper, chopped"
+        },
+        {
+            "12": "1 teaspoon soy sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium saucepan bring water to a boil. Add the white rice. Return to a boil, reduce heat to low, cover, and simmer for about 20 minutes, or until rice is tender."
+        },
+        {
+            "2": "In a small skillet scramble the eggs in a small amount of sesame oil. Remove from heat once scrambled."
+        },
+        {
+            "3": "In a large skillet, brown onion and celery in remaining sesame oil. Add shrimp and carrots, onion, celery, red pepper, pea pods, and green pepper. Add white rice and stir well. Add soy sauce (if desired) and eggs, stir thoroughly until heated through."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "276"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "43g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9335658.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9263660.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8931051.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8703711.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Parmesan Chicken II",
+    "Category": "Chicken Parmesan",
+    "Ingredients": [
+        {
+            "1": "12  chicken drumsticks"
+        },
+        {
+            "2": "2 cups grated Parmesan cheese"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "1 teaspoon ground black pepper"
+        },
+        {
+            "5": "1 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a shallow bowl, mix together salt, pepper, and cheese. In a separate bowl, beat egg until lemon colored. Dip chicken in egg, coating well. Roll in cheese."
+        },
+        {
+            "2": "Bake at 400 degrees F (205 degrees C) for 45 minutes, or until brown."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "466"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "52g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9257268.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9257269.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7888763.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7705842.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

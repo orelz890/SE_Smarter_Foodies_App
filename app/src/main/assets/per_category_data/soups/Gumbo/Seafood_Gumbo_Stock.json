@@ -1,0 +1,105 @@
+{
+    "title": "Seafood Gumbo Stock",
+    "Category": "Gumbo",
+    "Ingredients": [
+        {
+            "1": "1 shells from 1 pound shrimp"
+        },
+        {
+            "2": "5 quarts water"
+        },
+        {
+            "3": "4  carrots, sliced"
+        },
+        {
+            "4": "4  onions, quartered"
+        },
+        {
+            "5": "0.5 bunch celery, sliced"
+        },
+        {
+            "6": "2  bay leaves"
+        },
+        {
+            "7": "3 cloves garlic, sliced"
+        },
+        {
+            "8": "2 sprigs fresh parsley"
+        },
+        {
+            "9": "5  whole cloves"
+        },
+        {
+            "10": "1 teaspoon ground black pepper"
+        },
+        {
+            "11": "1 tablespoon dried basil"
+        },
+        {
+            "12": "2 teaspoons dried thyme"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bake shrimp shells at 375 degrees F (190 degrees C) until dried and starting to brown on edges."
+        },
+        {
+            "2": "In an 8-quart pot, combine water, carrots, onions, celery, bay leaves, garlic, parsley, cloves, pepper, basil, thyme, and shrimp shells. Bring slowly to a boil."
+        },
+        {
+            "3": "Reduce heat, and cook 5 to 7 hours. Replace water as needed, 2 or 3 times, by pouring more water down the inside of the pot."
+        },
+        {
+            "4": "Remove stock from heat and strain. Press all liquid from shells and vegetables, then discard them."
+        },
+        {
+            "5": "Return liquid to heat, and reduce to 2 to 3 quarts, or to taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 7 hrs 35 mins"
+        },
+        {
+            "Total Time": " 7 hrs 50 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "2 quarts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "112"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8659689.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4587585.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4478501.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F446221.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

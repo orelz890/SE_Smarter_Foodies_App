@@ -1,0 +1,102 @@
+{
+    "title": "Beef Fajitas",
+    "Category": "Fajitas",
+    "Ingredients": [
+        {
+            "1": "0.25 cup olive oil"
+        },
+        {
+            "2": "1  lime, juiced"
+        },
+        {
+            "3": "3 tablespoons chopped fresh cilantro"
+        },
+        {
+            "4": "2 tablespoons finely chopped onion"
+        },
+        {
+            "5": "3 cloves garlic, finely chopped"
+        },
+        {
+            "6": "0.5 teaspoons ground cumin"
+        },
+        {
+            "7": "1 teaspoon salt"
+        },
+        {
+            "8": "1 teaspoon ground black pepper"
+        },
+        {
+            "9": "2 (8 ounce) boneless New York strip steaks, cut into thin strips"
+        },
+        {
+            "10": "8 (6 inch) white corn tortillas, or more as needed"
+        },
+        {
+            "11": "1 (8 ounce) jar salsa"
+        },
+        {
+            "12": "1 (8 ounce) package shredded Mexican cheese blend"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk olive oil, lime juice, cilantro, onion, garlic, cumin, salt, and black pepper in a bowl, and pour into a resealable plastic bag. Add steak strips, coat with the marinade, squeeze out excess air, and seal bag. Marinate in the refrigerator for 4 hours to overnight."
+        },
+        {
+            "2": "Heat a large skillet over medium heat; cook and stir beef in hot skillet until all liquid is absorbed, 15 to 20 minutes."
+        },
+        {
+            "3": "Serve cooked beef with tortillas, salsa and Mexican cheese blend."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "699"
+        },
+        {
+            "Fat": "42g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "50g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9332783.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fefb8f17e4a60c934d87f5b1481e67371%2F7633763.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F4c09bdfb59ee22643a3feecbd8fdbc22%2F7633760.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7646999.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

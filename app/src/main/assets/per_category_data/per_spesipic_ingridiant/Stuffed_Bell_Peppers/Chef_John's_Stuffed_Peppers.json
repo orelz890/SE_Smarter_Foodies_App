@@ -1,0 +1,138 @@
+{
+    "title": "Chef John's Stuffed Peppers",
+    "Category": "Stuffed Bell Peppers",
+    "Ingredients": [
+        {
+            "1": "1 cup uncooked long grain white rice"
+        },
+        {
+            "2": "2 cups water"
+        },
+        {
+            "3": "1 Sauce-"
+        },
+        {
+            "4": "1  onion, diced"
+        },
+        {
+            "5": "1 tablespoon olive oil"
+        },
+        {
+            "6": "2 cups marinara sauce"
+        },
+        {
+            "7": "1 cup beef broth"
+        },
+        {
+            "8": "1 tablespoon balsamic vinegar"
+        },
+        {
+            "9": "0.25 teaspoon crushed red pepper flakes"
+        },
+        {
+            "10": "1 Peppers-"
+        },
+        {
+            "11": "1 pound lean ground beef"
+        },
+        {
+            "12": "0.25 pound hot Italian pork sausage, casing removed"
+        },
+        {
+            "13": "1 (10 ounce) can diced tomatoes"
+        },
+        {
+            "14": "0.25 cup chopped fresh Italian parsley"
+        },
+        {
+            "15": "4 cloves garlic, minced"
+        },
+        {
+            "16": "2 teaspoons salt"
+        },
+        {
+            "17": "1 teaspoon freshly ground black pepper"
+        },
+        {
+            "18": "1 pinch ground cayenne pepper"
+        },
+        {
+            "19": "1 cup finely grated Parmigiano-Reggiano cheese, plus more for topping"
+        },
+        {
+            "20": "4 large green bell peppers, halved lengthwise and seeded"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring rice and water to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until the rice is tender, and the liquid has been absorbed, 20 to 25 minutes. Set the cooked rice aside."
+        },
+        {
+            "2": "Meanwhile, preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "3": "Make sauce: Cook onion and olive oil over medium heat until onion begins to soften, about 5 minutes. Transfer 1/2 of the cooked onion to a large bowl and set aside."
+        },
+        {
+            "4": "Stir marinara sauce, beef broth, balsamic vinegar, and red pepper flakes into the skillet with cooked onion; cook and stir for 1 minute."
+        },
+        {
+            "5": "Pour sauce mixture into a 9x13-inch baking dish and set aside."
+        },
+        {
+            "6": "Combine ground beef, Italian sausage, diced tomatoes, Italian parsley, garlic, salt, black pepper, and cayenne pepper into the bowl with reserved onions; mix well. Stir in cooked rice and Parmigiano Reggiano. Stuff green bell peppers with beef and sausage mixture."
+        },
+        {
+            "7": "Place stuffed green bell pepper halves in the baking dish over tomato sauce; sprinkle with remaining Parmigiano-Reggiano, cover baking dish with aluminum foil, and bake in the preheated oven for 45 minutes."
+        },
+        {
+            "8": "Remove aluminum foil and bake until the meat is no longer pink, the green peppers are tender and the cheese is browned on top, an additional 20 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 50 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "377"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3e2169b3af0ba8903f06998c10e4da34%2F166766255326120220420_192622.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F50a94d2d70c3ba3e7d9a03978cfa75bf%2F16605144475FDAB6A0-96A6-417A-9DB0-0799304757A9.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F50a94d2d70c3ba3e7d9a03978cfa75bf%2F16514457220565BBD1-8EAD-46C0-B891-2845E7FD279F.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2899094.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/WinRHE-3XJzCtA-eyn55_9Rlw5M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8151429-5a428b1befc94f078ffdc1bcbf625acb.jpg"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Spinach and Mushroom Egg Casserole",
+    "Category": "Breakfast Casseroles",
+    "Ingredients": [
+        {
+            "1": "1 teaspoon butter"
+        },
+        {
+            "2": "10  eggs"
+        },
+        {
+            "3": "1 (16 ounce) package cottage cheese"
+        },
+        {
+            "4": "1 (16 ounce) package shredded Monterey Jack cheese"
+        },
+        {
+            "5": "0.5 cup butter, melted"
+        },
+        {
+            "6": "0.5 cup all-purpose flour"
+        },
+        {
+            "7": "1 (10 ounce) package frozen chopped spinach - thawed, drained and squeezed dry"
+        },
+        {
+            "8": "2 (4.5 ounce) cans sliced mushrooms, drained"
+        },
+        {
+            "9": "1 teaspoon baking powder"
+        },
+        {
+            "10": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish with 1 teaspoon butter."
+        },
+        {
+            "2": "Whisk eggs in a large bowl. Add cottage cheese, Monterey Jack cheese, 1/2 cup melted butter, flour, spinach, mushrooms, baking powder, and salt; mix. Pour egg mixture into prepared baking dish."
+        },
+        {
+            "3": "Bake in the preheated oven until eggs are set and a knife inserted into the center comes out clean, about 35 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "509"
+        },
+        {
+            "Fat": "38g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9105978.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8886910.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8834869.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8696331.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

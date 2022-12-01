@@ -1,0 +1,102 @@
+{
+    "title": "Keto Broccoli Salad",
+    "Category": "Broccoli Salad",
+    "Ingredients": [
+        {
+            "1": "1 pound bacon"
+        },
+        {
+            "2": "2 cups broccoli florets, chopped"
+        },
+        {
+            "3": "2 cups cauliflower florets, chopped"
+        },
+        {
+            "4": "1  carrot, chopped"
+        },
+        {
+            "5": "0.25 cup chopped green onions"
+        },
+        {
+            "6": "0.5 cup mayonnaise"
+        },
+        {
+            "7": "0.25 cup distilled white vinegar"
+        },
+        {
+            "8": "1 tablespoon sour cream"
+        },
+        {
+            "9": "1 pinch garlic powder"
+        },
+        {
+            "10": "1 pinch dried basil"
+        },
+        {
+            "11": "0.25 cup shredded Cheddar cheese"
+        },
+        {
+            "12": "1 tablespoon chopped fresh cilantro, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels. Chop and set aside."
+        },
+        {
+            "2": "Combine broccoli, cauliflower, carrot, and green onions in a large bowl."
+        },
+        {
+            "3": "Combine mayonnaise, vinegar, and sour cream in a separate bowl. Beat until smooth. Season with garlic powder and basil."
+        },
+        {
+            "4": "Pour dressing over vegetables and toss to coat evenly. Chill until flavors meld, about 1 hour."
+        },
+        {
+            "5": "Serve salad garnished with Cheddar cheese and cilantro."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "474"
+        },
+        {
+            "Fat": "41g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdbcb89714ddbbd3299b722b1906d380f%2F6416066.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6416606.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

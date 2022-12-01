@@ -1,0 +1,56 @@
+{
+    "title": "Tequila Sunrise",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "0.75 cup freshly squeezed orange juice"
+        },
+        {
+            "2": "1 (1.5 fluid ounce) jigger tequila"
+        },
+        {
+            "3": "1 ice cubes"
+        },
+        {
+            "4": "0.5 (1.5 fluid ounce) jigger grenadine syrup"
+        },
+        {
+            "5": "1 slice orange, for garnish"
+        },
+        {
+            "6": "1  maraschino cherry for garnish"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir orange juice and tequila together. Fill a chilled 12-ounce glass with ice cubes; pour in orange juice mixture. Slowly pour in the grenadine, and allow it to settle to the bottom of the glass (be patient). Garnish with a slice of orange and a maraschino cherry."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8974742.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7530781.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7e73bc43f30ca5806e300cefbaeea7e4%2F5834569.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4873817.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Potato Salad for 40",
+    "Category": "Potato Salad",
+    "Ingredients": [
+        {
+            "1": "10 pounds potatoes"
+        },
+        {
+            "2": "24  eggs"
+        },
+        {
+            "3": "4 cups mayonnaise"
+        },
+        {
+            "4": "1 tablespoon prepared yellow mustard"
+        },
+        {
+            "5": "4 teaspoons salt, or to taste"
+        },
+        {
+            "6": "2 teaspoons ground black pepper"
+        },
+        {
+            "7": "2 cups finely chopped green onions"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes. Drain and cool potatoes, then peel and dice. Cover and refrigerate overnight."
+        },
+        {
+            "2": "Place eggs in a saucepan and cover with water. Bring to a boil, remove from heat, and let eggs stand in hot water for 15 minutes. Remove eggs from hot water, cool under cold running water. Peel and chop eggs. Cover and refrigerate overnight."
+        },
+        {
+            "3": "Combine potatoes, eggs, and green onions in a large bowl or roasting pan. Stir mayonnaise, mustard, salt, and black pepper in a bowl; pour mixture over potatoes and gently toss to combine. Refrigerate until ready to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 50 mins"
+        },
+        {
+            "Servings": "40 "
+        },
+        {
+            "Yield": "40 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "285"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2818516.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2349546.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1017709.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

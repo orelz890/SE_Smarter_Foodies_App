@@ -1,0 +1,90 @@
+{
+    "title": "Easy Vegetable Pot Pie",
+    "Category": "Pot Pie",
+    "Ingredients": [
+        {
+            "1": "1 (10.75 ounce) can  condensed cream of potato soup"
+        },
+        {
+            "2": "1 (15 ounce) can mixed vegetables, drained"
+        },
+        {
+            "3": "0.5 cup milk"
+        },
+        {
+            "4": "0.5 teaspoon dried thyme"
+        },
+        {
+            "5": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "6": "2 (9 inch)  frozen prepared pie crusts, thawed"
+        },
+        {
+            "7": "1  egg, lightly beaten"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "In a medium bowl, combine potato soup, mixed vegetables, milk, thyme, and black pepper."
+        },
+        {
+            "3": "Spoon filling into bottom pie crust. Cover with top crust, and crimp edges to seal. Slit top crust, and brush with beaten egg if desired."
+        },
+        {
+            "4": "Bake for 40 minutes. Remove from oven, and cool for 10 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "380"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429629.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9083687.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8187435.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8112832.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/U72Sj_-8ZZAvE5HWlGhyU3i9EVI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1804351-2f9e645ee1f9439d8e3d0847c1b7e98e.jpg"
+        }
+    ],
+    "main category": "pies"
+}

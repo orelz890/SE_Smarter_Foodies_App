@@ -1,0 +1,84 @@
+{
+    "title": "Resurrection Rolls",
+    "Category": "Pastries",
+    "Ingredients": [
+        {
+            "1": "1 (10 ounce) can refrigerated crescent dinner rolls"
+        },
+        {
+            "2": "8  large marshmallows"
+        },
+        {
+            "3": "0.25 cup melted butter"
+        },
+        {
+            "4": "2 tablespoons ground cinnamon"
+        },
+        {
+            "5": "2 tablespoons white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Lightly grease a baking sheet."
+        },
+        {
+            "2": "Separate crescent rolls into individual triangles."
+        },
+        {
+            "3": "In a small bowl, mix together cinnamon and sugar."
+        },
+        {
+            "4": "Dip a marshmallow into melted butter, then roll in sugar mixture. Place marshmallow into the center of a dough triangle. Carefully wrap the dough around the marshmallow. Pinch the seams together tightly to seal in marshmallow as it melts. Place on a baking sheet. Repeat."
+        },
+        {
+            "5": "Bake in a preheated oven until golden brown, about 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 rolls"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "228"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9126110.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9126105.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8593198.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7959760.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

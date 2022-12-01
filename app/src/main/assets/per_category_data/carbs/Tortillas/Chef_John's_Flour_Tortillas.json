@@ -1,0 +1,99 @@
+{
+    "title": "Chef John's Flour Tortillas",
+    "Category": "Tortillas",
+    "Ingredients": [
+        {
+            "1": "0.75 cups all-purpose flour"
+        },
+        {
+            "2": "0.75 teaspoon salt"
+        },
+        {
+            "3": "0.25 teaspoon baking powder"
+        },
+        {
+            "4": "0.25 cup vegetable shortening"
+        },
+        {
+            "5": "0.5 cup hot water"
+        },
+        {
+            "6": "0.25 cup all-purpose flour for dusting"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk flour, salt, and baking powder together in a large bowl. Add vegetable shortening and work into flour mixture using a pastry cutter until it resembles coarse crumbs."
+        },
+        {
+            "2": "Form a well in the middle of flour mixture and mix in hot water. Work flour and water mixture together with a fork and transfer to a cutting board."
+        },
+        {
+            "3": "Knead until a smooth, soft dough is formed, about 3 minutes. Add more flour if dough is too sticky."
+        },
+        {
+            "4": "Place more flour on cutting board, cover dough with bowl, and let rest for 15 minutes."
+        },
+        {
+            "5": "Cut ball of dough into eight equal parts and cover until needed."
+        },
+        {
+            "6": "Roll out balls of dough either by hand or with a tortilla press."
+        },
+        {
+            "7": "Heat a large skillet over medium-high heat. Place flattened tortilla in skillet and cook until it begins to bubble, about 1 minute. Flip tortilla over and cook for an additional minute. Flip again and cook for 1 more minute. Repeat with remaining dough."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 tortillas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "171"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F720560488bf59721874520ee8d67d400%2F166299341320220907_113509.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9337145.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9337143.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9079523.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/zigwyJKfhOaKirC6RDfNL4o0MD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/840603-0f6bd08f82504b7da9963cb7faee37ca.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

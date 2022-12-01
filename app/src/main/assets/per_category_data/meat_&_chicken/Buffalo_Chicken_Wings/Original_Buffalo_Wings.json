@@ -1,0 +1,78 @@
+{
+    "title": "Original Buffalo Wings",
+    "Category": "Buffalo Chicken Wings",
+    "Ingredients": [
+        {
+            "1": "4 pounds chicken wings"
+        },
+        {
+            "2": "1 salt and pepper to taste"
+        },
+        {
+            "3": "4 cups vegetable oil"
+        },
+        {
+            "4": "0.25 cup butter"
+        },
+        {
+            "5": "2 teaspoons hot pepper sauce"
+        },
+        {
+            "6": "1 teaspoon distilled white vinegar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a deep-fat fryer or large heavy pot to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Cut off tips, and separate each wing at the joint. Sprinkle with salt and pepper."
+        },
+        {
+            "3": "Place half of the wings in the deep fryer. When the wings are golden brown and crisp, remove them and drain well. Salt wings to taste. Add remaining wings and repeat frying process. Once wings have drained a bit, place them in a large mixing bowl."
+        },
+        {
+            "4": "Melt butter or margarine in a small saucepan. Mix in hot sauce and vinegar. Pour melted sauce over the cooked wings, and mix to coat the wings with sauce."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 wings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "509"
+        },
+        {
+            "Fat": "51g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F07fba374396e7b4f6eb64a704542c0aa%2F1107544.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8135.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

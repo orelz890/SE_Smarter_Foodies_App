@@ -1,0 +1,63 @@
+{
+    "title": "Caprese Skewers",
+    "Category": "Antipasto",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) container small fresh mozzarella balls"
+        },
+        {
+            "2": "1 (4 ounce) package fresh basil leaves"
+        },
+        {
+            "3": "1 (10.5 ounce) container cherry tomatoes, halved"
+        },
+        {
+            "4": "24  small skewers, or as needed"
+        },
+        {
+            "5": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Wrap each mozzarella ball with a basil leaf."
+        },
+        {
+            "2": "Thread a tomato half, a basil-wrapped mozzarella ball, and another tomato half onto a skewer. Repeat until all tomatoes are on skewers. Sprinkle with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 skewers"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "31"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9b04a3aa4156df357fb32d8998e4789a%2F6688282.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

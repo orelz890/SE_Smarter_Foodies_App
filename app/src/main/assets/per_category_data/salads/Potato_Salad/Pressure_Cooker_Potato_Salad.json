@@ -1,0 +1,96 @@
+{
+    "title": "Pressure Cooker Potato Salad",
+    "Category": "Potato Salad",
+    "Ingredients": [
+        {
+            "1": "6  medium red potatoes, scrubbed"
+        },
+        {
+            "2": "1 cup water"
+        },
+        {
+            "3": "0.25 cup chopped onion"
+        },
+        {
+            "4": "1 stalk celery, chopped"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        },
+        {
+            "6": "3  hard-cooked eggs, chopped"
+        },
+        {
+            "7": "1 tablespoon chopped fresh dill"
+        },
+        {
+            "8": "0.5 cup mayonnaise"
+        },
+        {
+            "9": "1 teaspoon yellow mustard"
+        },
+        {
+            "10": "1 teaspoon cider vinegar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place potatoes in pressure cooker with water. Cook on high pressure 3 minutes. If potatoes are larger, cook for 4 minutes. Let steam release for 3 minutes. Then quickly release pressure and open cooker. Peel and dice potatoes when they are cool enough to handle."
+        },
+        {
+            "2": "Alternate layers of potatoes, onion, and celery in a large bowl. Season each layer with salt and pepper. Top with the chopped egg and sprinkle with dill."
+        },
+        {
+            "3": "Mix together the mayonnaise, mustard, and cider vinegar in a small bowl. Gently fold the mayonnaise mixture into the potatoes. Chill at least one hour before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "341"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3638769.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3638673.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F927332da68bf6a2cb015d3e3dd6e7145%2F831440.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F077b2453233f6eeae1f8eadbdd9d1033%2F831436.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

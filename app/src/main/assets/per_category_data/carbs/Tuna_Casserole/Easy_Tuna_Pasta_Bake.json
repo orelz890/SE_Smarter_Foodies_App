@@ -1,0 +1,93 @@
+{
+    "title": "Easy Tuna Pasta Bake",
+    "Category": "Tuna Casserole",
+    "Ingredients": [
+        {
+            "1": "1 (14.6 ounce) package penne pasta"
+        },
+        {
+            "2": "1 tablespoon olive oil"
+        },
+        {
+            "3": "1 tablespoon butter"
+        },
+        {
+            "4": "1  onion, chopped"
+        },
+        {
+            "5": "3 (5 ounce) cans tuna, drained and flaked"
+        },
+        {
+            "6": "1 cup heavy whipping cream"
+        },
+        {
+            "7": "1 salt and ground black pepper to taste"
+        },
+        {
+            "8": "0.5 teaspoon ground nutmeg"
+        },
+        {
+            "9": "0.25 cups grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add penne and cook, stirring occasionally, until tender yet firm to the bite, about 11 minutes. Drain and toss pasta with 1 tablespoon olive oil."
+        },
+        {
+            "2": "Preheat the oven to 350 degrees F (175 degrees C). Grease an ovenproof baking dish."
+        },
+        {
+            "3": "While penne is cooking, melt butter in a large saucepan over medium heat. Add onion and cook, stirring often, until soft and translucent, about 5 minutes. Add tuna and cook for 2 minutes. Pour heavy cream over tuna and season with salt, pepper, and nutmeg. Add penne and toss well. Transfer to the prepared baking dish and cover with Parmesan cheese."
+        },
+        {
+            "4": "Bake in the preheated oven until the top is golden brown, 15 to 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "857"
+        },
+        {
+            "Fat": "39g"
+        },
+        {
+            "Carbs": "80g"
+        },
+        {
+            "Protein": "49g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8139471.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8138674.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa9b9f0dbc8023b8aacdf4c388c12ccc2%2F7439161.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7163260.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

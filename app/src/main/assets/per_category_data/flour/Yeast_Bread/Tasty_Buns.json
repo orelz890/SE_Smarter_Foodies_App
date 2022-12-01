@@ -1,0 +1,93 @@
+{
+    "title": "Tasty Buns",
+    "Category": "Yeast Bread",
+    "Ingredients": [
+        {
+            "1": "4 cups all-purpose flour, divided, or more as needed"
+        },
+        {
+            "2": "2 (.25 ounce) packages dry yeast"
+        },
+        {
+            "3": "1 cup milk"
+        },
+        {
+            "4": "0.75 cup water"
+        },
+        {
+            "5": "0.5 cup vegetable oil"
+        },
+        {
+            "6": "0.25 cup white sugar"
+        },
+        {
+            "7": "1 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir 2 cups flour and yeast together in a large bowl. Heat milk, water, oil, sugar, and salt together in a microwave-safe bowl in the microwave until lukewarm; add to flour mixture and beat until smooth, about 3 minutes."
+        },
+        {
+            "2": "Mix in 2 cups remaining flour, then add up to 1 cup more flour as necessary to make a soft dough. Dust a flat surface with flour; turn dough out onto floured surface and let rest under a bowl for about 10 minutes. Meanwhile, lightly grease a baking sheet."
+        },
+        {
+            "3": "Shape dough into 12 slightly flat balls and place on the prepared baking sheet to rise until doubled in size."
+        },
+        {
+            "4": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "5": "Bake in the preheated oven for 12 to 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 buns"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "300"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "45g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe0d8e290f62a2f7ed98170fca0c8221e%2F1664203735WhatsApp%2520Image%25202022-06-06%2520at%25202.02.38%2520PM.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe0d8e290f62a2f7ed98170fca0c8221e%2F16568748613EE4A995-2692-47AF-8E57-BD72844C15E1.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9441355.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9304655.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

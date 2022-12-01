@@ -1,0 +1,81 @@
+{
+    "title": "Kettle Corn",
+    "Category": "Popcorn",
+    "Ingredients": [
+        {
+            "1": "0.25 cup vegetable oil"
+        },
+        {
+            "2": "0.5 cup unpopped popcorn kernels"
+        },
+        {
+            "3": "0.25 cup white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat vegetable oil in a large pot over medium heat. Stir in popcorn kernels and sugar."
+        },
+        {
+            "2": "Cover and shake the pot constantly to prevent sugar from burning. When popping has slowed to once every 2 to 3 seconds, remove the pot from the heat and shake for a few minutes until popping stops."
+        },
+        {
+            "3": "Pour popcorn into a large bowl and allow to cool, stirring occasionally to break up large clumps."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "10 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "209"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F48326f51f0c2329374a2d1432494609c%2F1668535819352image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd0482f1f1e7c9e32eaf6eba0dbe6d606%2F16632742809E7989E6-85E3-491F-B005-AB43DB782244.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9240081.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9095434.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/2cJPQnjtTuazcNGMS4I8BKNSJIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Kettle-Corn-6bdbc1c52e5842039b9006f1cb168a67.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/8T6tq8jzmVwSsMkFyj8t96msXgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20808-kettle-corn-kristen-womack-d5949990b1314e79a6ed443695ea3692.jpeg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/2cJPQnjtTuazcNGMS4I8BKNSJIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Kettle-Corn-6bdbc1c52e5842039b9006f1cb168a67.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

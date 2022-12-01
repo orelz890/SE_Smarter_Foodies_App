@@ -1,0 +1,78 @@
+{
+    "title": "Cream of Mushroom Soup III",
+    "Category": "Mushroom Soup",
+    "Ingredients": [
+        {
+            "1": "0.25 cup butter"
+        },
+        {
+            "2": "1 pound fresh mushrooms, sliced"
+        },
+        {
+            "3": "0.25 cup all-purpose flour"
+        },
+        {
+            "4": "3 (14 ounce) cans chicken broth"
+        },
+        {
+            "5": "1 cube beef bouillon"
+        },
+        {
+            "6": "0.5 cup sherry"
+        },
+        {
+            "7": "1 cup heavy cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large saucepan, melt butter over medium heat. Cook mushrooms in butter 5 minutes. Sprinkle flour over mushrooms. Pour in broth, a little at a time, stirring constantly. Stir in bouillon cube and sherry. Bring to a boil, then remove from heat and stir in cream. Heat through, without boiling. Serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "208"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8988656.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7442295.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7442294.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb8dff83b7bb1c5640d1e2d6ef610d62b%2F6248027.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

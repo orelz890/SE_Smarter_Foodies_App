@@ -1,0 +1,72 @@
+{
+    "title": "Smooth Sweet Tea",
+    "Category": "Labor Day Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pinch baking soda"
+        },
+        {
+            "2": "2 cups boiling water"
+        },
+        {
+            "3": "6  tea bags"
+        },
+        {
+            "4": "0.75 cup white sugar"
+        },
+        {
+            "5": "6 cups cool water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Sprinkle a pinch of baking soda into a 64-ounce, heat-proof glass pitcher. Pour in boiling water and add tea bags. Cover and allow to steep for 15 minutes."
+        },
+        {
+            "2": "Remove tea bags and discard; stir in sugar until dissolved. Pour in cool water; refrigerate until cold, about 3 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Additional Time": " 3 hrs 15 mins"
+        },
+        {
+            "Total Time": " 3 hrs 20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "73"
+        },
+        {
+            "Carbs": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5ca705e9ed9ae19a00db68747d4ad8f7%2F166062098955CBB4C8-8FBE-4228-88CA-6B2A287C541B.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5ca705e9ed9ae19a00db68747d4ad8f7%2F1657744397image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8142545.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7857138.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/sJqixvCXkk8ETplBIEXyams0ek0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-109190-SmothSweetTea-0162-1x1-1-6737e3fd63f24ae2af55ffac895534cc.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

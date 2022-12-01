@@ -1,0 +1,87 @@
+{
+    "title": "Cherry Chutney",
+    "Category": "Relishes",
+    "Ingredients": [
+        {
+            "1": "1 pound cherries, pitted"
+        },
+        {
+            "2": "1 cup cider vinegar"
+        },
+        {
+            "3": "0.5 cup rice vinegar"
+        },
+        {
+            "4": "1 large onion, chopped"
+        },
+        {
+            "5": "1  Granny Smith apple - peeled, cored and chopped"
+        },
+        {
+            "6": "0.25 cup white sugar"
+        },
+        {
+            "7": "0.25 cup brown sugar"
+        },
+        {
+            "8": "2 tablespoons minced fresh ginger"
+        },
+        {
+            "9": "2 tablespoons Chinese five-spice powder"
+        },
+        {
+            "10": "1 teaspoon salt"
+        },
+        {
+            "11": "0.25 teaspoon ground nutmeg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the cherries, cider vinegar, rice vinegar, onion, apple, white sugar, brown sugar, ginger, five-spice powder, salt, and nutmeg into a large pot. Bring to a simmer over medium-high heat, then reduce heat to medium-low, cover, and simmer for 1 hour, stirring occasionally. Remove the lid, and continue simmering until the desired consistency has been reached. Chill before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 10 mins"
+        },
+        {
+            "Additional Time": " 4 hrs 20 mins"
+        },
+        {
+            "Total Time": " 6 hrs"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "80"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6906776.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1035037.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

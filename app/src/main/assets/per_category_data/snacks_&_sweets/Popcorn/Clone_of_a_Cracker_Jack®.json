@@ -1,0 +1,93 @@
+{
+    "title": "Clone of a Cracker Jack\u00ae",
+    "Category": "Popcorn",
+    "Ingredients": [
+        {
+            "1": "11 cups popped popcorn"
+        },
+        {
+            "2": "1 cup Spanish peanuts"
+        },
+        {
+            "3": "0.25 cups dark brown sugar"
+        },
+        {
+            "4": "10 tablespoons unsalted butter, cut into pieces"
+        },
+        {
+            "5": "0.25 cup dark corn syrup"
+        },
+        {
+            "6": "1 teaspoon kosher salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 250 degrees F (120 degrees C)."
+        },
+        {
+            "2": "Spread popcorn in the bottom of a large, deep roasting pan. Sprinkle peanuts over the popcorn."
+        },
+        {
+            "3": "Combine brown sugar, butter, corn syrup, and salt together in a saucepan over medium-high heat. Cook, whisking constantly, until sugar and butter are melted and sauce is thick and caramelized, 2 to 3 minutes."
+        },
+        {
+            "4": "Pour caramel sauce over the popcorn and peanuts and stir to coat popcorn and peanuts completely, scooping any peanuts and caramel that fall to the bottom of the roasting pan."
+        },
+        {
+            "5": "Bake in the preheated oven, stirring occasionally, until caramel and popcorn are crisped, about 45 minutes. Turn popcorn out in a single layer on a sheet of parchment paper to cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "11 "
+        },
+        {
+            "Yield": "11 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "349"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8750827.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8254204.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7732090.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6184538.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ilPOZPHYg1zx7bhPn9frYrFvr7s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1130891-6d8bd007cf4745d1b2a1b1c482aeebb3.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

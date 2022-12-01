@@ -1,0 +1,78 @@
+{
+    "title": "Amazing Oven Roasted Potatoes",
+    "Category": "Hanukkah Recipes",
+    "Ingredients": [
+        {
+            "1": "6  potatoes, cut into chunks"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "1 teaspoon seasoned salt"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "1 teaspoon cracked black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Rinse and dry potatoes with a paper towel and transfer to a large bowl. Add olive oil, seasoned salt, salt, and black pepper; mix well. Spread potatoes on a baking sheet."
+        },
+        {
+            "3": "Bake in preheated oven for 30 minutes, turning potatoes occasionally. Continue baking until potatoes are tender and golden brown, about 30 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "206"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9420369.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1cbe2987bebe71a09812ab48de08e401%2F5092064.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5025734.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1111022.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

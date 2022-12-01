@@ -1,0 +1,78 @@
+{
+    "title": "Honey Oatmeal Cookies",
+    "Category": "Oatmeal Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup honey"
+        },
+        {
+            "2": "1  egg"
+        },
+        {
+            "3": "0.75 cup shortening"
+        },
+        {
+            "4": "0.25 cup water"
+        },
+        {
+            "5": "1 teaspoon vanilla extract"
+        },
+        {
+            "6": "3 cups rolled oats"
+        },
+        {
+            "7": "0.5 cups all-purpose flour"
+        },
+        {
+            "8": "0.5 teaspoon baking soda"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Beat together shortening, honey, egg, water, and vanilla until creamy. Add combined remaining ingredients; mix well."
+        },
+        {
+            "3": "Drop by rounded teaspoonfuls onto greased cookie sheet. Bake at 350 degrees F (175 degrees C) for 12 to 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "30 "
+        },
+        {
+            "Yield": "5 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "136"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8037bca470ea3013ac98c6cd2a8732a9%2F1644695530cookies.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8379116.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6db4a283bc8a26eaf213fe68f28e30b5%2F7253344.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1c40f5dc9fc537abc248b3376ac33919%2F7253352.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

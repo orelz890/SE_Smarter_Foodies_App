@@ -1,0 +1,63 @@
+{
+    "title": "Mexico Chiquito Punch",
+    "Category": "Punch",
+    "Ingredients": [
+        {
+            "1": "1 (46 fluid ounce) can pineapple juice"
+        },
+        {
+            "2": "1 (1 liter) bottle grenadine syrup"
+        },
+        {
+            "3": "1 cup white sugar"
+        },
+        {
+            "4": "0.25 cup lemon juice"
+        },
+        {
+            "5": "1 (1 ounce) packet instant tea powder"
+        },
+        {
+            "6": "5 quarts water, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix pineapple juice, grenadine, sugar, lemon juice, and instant tea powder together in a 2-gallon container; stir to dissolve sugar and tea powder. Add enough water to fill container; stir."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "2 gallons"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "247"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "62g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1579581.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

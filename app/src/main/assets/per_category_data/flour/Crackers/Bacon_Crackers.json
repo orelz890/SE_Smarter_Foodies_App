@@ -1,0 +1,72 @@
+{
+    "title": "Bacon Crackers",
+    "Category": "Crackers",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package buttery round crackers"
+        },
+        {
+            "2": "1 pound sliced bacon, cut into thirds"
+        },
+        {
+            "3": "1 pound brown sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 250 degrees F (120 degrees C)."
+        },
+        {
+            "2": "Arrange the crackers in a single layer on a large baking sheet. Top each cracker with 1/3 slice bacon, and sprinkle desired amount of brown sugar over all."
+        },
+        {
+            "3": "Bake 1 hour in the preheated oven, or until browned and crisp. Serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "30 "
+        },
+        {
+            "Yield": "30 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "204"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6112208.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2398690.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fddd6e180e62f1063ea186bc28f95cb5a%2F861682.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F17f68bee93884bb9782115e14b93553a%2F793979.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

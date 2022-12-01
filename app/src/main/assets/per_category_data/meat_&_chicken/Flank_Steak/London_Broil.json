@@ -1,0 +1,93 @@
+{
+    "title": "London Broil",
+    "Category": "Flank Steak",
+    "Ingredients": [
+        {
+            "1": "3 tablespoons soy sauce"
+        },
+        {
+            "2": "1 tablespoon ketchup"
+        },
+        {
+            "3": "1 tablespoon vegetable oil"
+        },
+        {
+            "4": "1 clove garlic, minced"
+        },
+        {
+            "5": "1 teaspoon salt"
+        },
+        {
+            "6": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "7": "0.5 teaspoon dried oregano"
+        },
+        {
+            "8": "4 pounds flank steak"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix soy sauce, ketchup, vegetable oil, garlic, salt, pepper, and oregano together in a small bowl."
+        },
+        {
+            "2": "Score both sides of steak in a diamond cut, about 1/8 inch deep. Rub marinade into both sides of the meat. Store in a covered dish or resealable plastic bag in the refrigerator to marinate for 5 to 6 hours, or overnight. Flip meat every few hours."
+        },
+        {
+            "3": "Preheat an outdoor grill for high heat, and lightly oil the grate."
+        },
+        {
+            "4": "Place steak on the preheated grill. Cook for 3 to 7 minutes per side, or to the desired doneness."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 5 hrs"
+        },
+        {
+            "Total Time": " 5 hrs 25 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "396"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "49g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2950758.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8594156.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8594155.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8449162.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/G8iLlhvBC4VRYsXuVkVTQ5c1cSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/591984-london-broil-ii-C.P.-1x1-1-3d56a16aa37f46b1bae28cb838bb74c1.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

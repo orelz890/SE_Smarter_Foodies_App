@@ -1,0 +1,105 @@
+{
+    "title": "Hawaiian Waffles with Pineapple and Coconut",
+    "Category": "Waffles",
+    "Ingredients": [
+        {
+            "1": "0.25 cups sifted all-purpose flour"
+        },
+        {
+            "2": "0.5 tablespoon white sugar"
+        },
+        {
+            "3": "1 teaspoon baking powder"
+        },
+        {
+            "4": "0.25 teaspoon baking soda"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "1  egg yolk"
+        },
+        {
+            "7": "1 cup sour cream"
+        },
+        {
+            "8": "0.25 cup coconut milk"
+        },
+        {
+            "9": "0.75 cup chopped fresh pineapple"
+        },
+        {
+            "10": "5 tablespoons unsalted butter, melted"
+        },
+        {
+            "11": "2  large egg whites, beaten"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat a lightly greased waffle iron."
+        },
+        {
+            "2": "In a medium bowl, sift together flour, sugar, baking powder, baking soda and salt."
+        },
+        {
+            "3": "In a separate medium bowl, mix egg yolk, sour cream, coconut milk, pineapple and butter. Thoroughly mix in the flour mixture. Gently fold in egg whites."
+        },
+        {
+            "4": "Pour the mixture into the prepared waffle iron, and cook until golden brown."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "464"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9206847.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7683505.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F440777.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F189900.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Wdjy8sMHSQJiynSkZHZxE5USM3k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-199-9af316b00a51479abd046bae91502f3e.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

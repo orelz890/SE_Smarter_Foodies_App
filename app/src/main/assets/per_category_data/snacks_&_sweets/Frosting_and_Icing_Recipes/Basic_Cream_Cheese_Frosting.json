@@ -1,0 +1,78 @@
+{
+    "title": "Basic Cream Cheese Frosting",
+    "Category": "Frosting and Icing Recipes",
+    "Ingredients": [
+        {
+            "1": "8 ounces cream cheese"
+        },
+        {
+            "2": "0.5 cup butter, softened"
+        },
+        {
+            "3": "2 teaspoons vanilla extract"
+        },
+        {
+            "4": "4 cups confectioners' sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Beat cream cheese, softened butter, and vanilla together in a large bowl with an electric mixer until light and creamy."
+        },
+        {
+            "2": "Gradually beat in confectioners' sugar until smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "292"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff9dcac6f420d21bc99424c9f891322e8%2F165015101616501509435967655858182722246357.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff9dcac6f420d21bc99424c9f891322e8%2F164848234924DDC84A-EE3A-40F4-912B-119CC6872EC7.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9414850.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9296340.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/QAAJS7khO3XyhtgztjWuNJIJbdU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Basic-Cream-Cheese-Frosting-19b8a0437ced4e69925667be2f239f88.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/Ned9DNQ0zSIuztDAUb6s1UekA68=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/812471-Best-Carrot-Cake-Ever-17393-LatinaCook-2000-8a78e530c3ca42049bb7f0a8641c624f.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/QAAJS7khO3XyhtgztjWuNJIJbdU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Basic-Cream-Cheese-Frosting-19b8a0437ced4e69925667be2f239f88.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

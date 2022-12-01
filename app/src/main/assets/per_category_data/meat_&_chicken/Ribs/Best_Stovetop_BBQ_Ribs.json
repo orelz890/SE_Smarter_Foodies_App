@@ -1,0 +1,81 @@
+{
+    "title": "Best Stovetop BBQ Ribs",
+    "Category": "Ribs",
+    "Ingredients": [
+        {
+            "1": "0.25 cup steak sauce (such as A1\u00ae)"
+        },
+        {
+            "2": "0.25 cup ketchup"
+        },
+        {
+            "3": "0.25 cup water"
+        },
+        {
+            "4": "1 tablespoon Worcestershire sauce"
+        },
+        {
+            "5": "1 tablespoon soy sauce"
+        },
+        {
+            "6": "1 tablespoon minced garlic"
+        },
+        {
+            "7": "4 (6 ounce) country style pork ribs"
+        },
+        {
+            "8": "1  onion, cut into rings (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk together steak sauce, ketchup, water, Worcestershire sauce, soy sauce, and garlic in a bowl until smooth."
+        },
+        {
+            "2": "Place pork ribs in a saucepan with a lid, and pour the sauce over the ribs. Spread raw onion rings over the ribs, and cover the pan. Bring to a boil over medium heat, and simmer the ribs in the sauce until tender, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "246"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8184109.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe9d5dca80198f9ff5c44185d9c27b519%2F7390757.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7058146.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6244116.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

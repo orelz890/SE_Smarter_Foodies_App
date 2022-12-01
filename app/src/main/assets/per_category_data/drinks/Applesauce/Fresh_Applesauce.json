@@ -1,0 +1,72 @@
+{
+    "title": "Fresh Applesauce",
+    "Category": "Applesauce",
+    "Ingredients": [
+        {
+            "1": "3 pounds apples - peeled, cored and chopped"
+        },
+        {
+            "2": "3 cups water"
+        },
+        {
+            "3": "1 cup white sugar"
+        },
+        {
+            "4": "1 tablespoon lemon juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place apples in a large saucepan and just barely cover with water. Simmer over medium-low heat until apples are tender, 15 to 20 minutes."
+        },
+        {
+            "2": "Run cooked apples through a food mill or blender. Stir in the sugar and lemon juice. Cook over medium heat for about 3 to 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "4 cups plus"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "186"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8669059.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8658399.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8658440.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8344213.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

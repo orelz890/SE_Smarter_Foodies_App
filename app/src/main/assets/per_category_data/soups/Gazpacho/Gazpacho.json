@@ -1,0 +1,99 @@
+{
+    "title": "Gazpacho",
+    "Category": "Gazpacho",
+    "Ingredients": [
+        {
+            "1": "4 cups tomato juice"
+        },
+        {
+            "2": "1  onion, minced"
+        },
+        {
+            "3": "1  green bell pepper, minced"
+        },
+        {
+            "4": "1  cucumber, chopped"
+        },
+        {
+            "5": "2 cups chopped tomatoes"
+        },
+        {
+            "6": "2  green onions, chopped"
+        },
+        {
+            "7": "1 clove garlic, minced"
+        },
+        {
+            "8": "3 tablespoons fresh lemon juice"
+        },
+        {
+            "9": "2 tablespoons red wine vinegar"
+        },
+        {
+            "10": "1 teaspoon dried tarragon"
+        },
+        {
+            "11": "1 teaspoon dried basil"
+        },
+        {
+            "12": "0.25 cup chopped fresh parsley"
+        },
+        {
+            "13": "1 teaspoon white sugar"
+        },
+        {
+            "14": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a blender or food processor, combine tomato juice, onion, bell pepper, cucumber, tomatoes, green onions, garlic, lemon juice, red wine vinegar, tarragon, basil, parsley, sugar, salt, and pepper. Blend until well-combined but still slightly chunky. Chill at least 2 hours before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 20 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "39"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9341475.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9324423.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8486938.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8346582.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

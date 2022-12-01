@@ -1,0 +1,81 @@
+{
+    "title": "Corn and Roasted Red Pepper Salad",
+    "Category": "Tex-Mex Recipes",
+    "Ingredients": [
+        {
+            "1": "4 cups frozen corn"
+        },
+        {
+            "2": "0.5 cups pomegranate-infused red wine vinegar"
+        },
+        {
+            "3": "1 cup roasted red peppers, drained and chopped"
+        },
+        {
+            "4": "2 tablespoons dried cilantro"
+        },
+        {
+            "5": "0.5 tablespoons white sugar"
+        },
+        {
+            "6": "1 tablespoon olive oil"
+        },
+        {
+            "7": "1 tablespoon ground cumin"
+        },
+        {
+            "8": "1 teaspoon red pepper flakes"
+        },
+        {
+            "9": "1 teaspoon chili powder"
+        },
+        {
+            "10": "0.25 teaspoon ground ginger"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine corn, red wine vinegar, red peppers, cilantro, sugar, olive oil, cumin, red pepper flakes, chili powder, and ginger together in a saucepan; bring to a boil, stirring frequently to dissolve the sugar. Reduce heat to medium-low and cook until the liquid evaporates, about 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "234"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "55g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4508407.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1574718.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

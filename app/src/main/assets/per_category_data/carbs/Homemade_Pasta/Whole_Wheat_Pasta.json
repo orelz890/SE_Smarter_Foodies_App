@@ -1,0 +1,72 @@
+{
+    "title": "Whole Wheat Pasta",
+    "Category": "Homemade Pasta",
+    "Ingredients": [
+        {
+            "1": "0.5 cups all-purpose flour"
+        },
+        {
+            "2": "0.5 cups whole wheat flour"
+        },
+        {
+            "3": "0.5 teaspoon sea salt"
+        },
+        {
+            "4": "4  eggs"
+        },
+        {
+            "5": "2 teaspoons olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir together the all-purpose flour, whole wheat flour and salt in a medium bowl, or on a clean board. Make a hollow in the center, and pour in the olive oil. Break eggs into it one at a time, while mixing quickly with a fork until the dough is wet enough to come together. Knead on a lightly floured surface until the dough is stiff and elastic. Cover, and let stand for 30 minutes to relax."
+        },
+        {
+            "2": "Roll out dough by hand with a rolling pin, or use a pasta machine to achieve the desired thickness of noodles. Cut into desired width and shapes. Allow the pasta to air dry for at least 15 minutes to avoid having it clump together."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "40 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "416"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "69g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8548093.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4536539.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4536541.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3609460.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

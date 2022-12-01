@@ -1,0 +1,102 @@
+{
+    "title": "Homemade Spaghetti Sauce with Ground Beef",
+    "Category": "Side Dishes",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1 medium onion, chopped"
+        },
+        {
+            "3": "4 cloves garlic, minced"
+        },
+        {
+            "4": "1 small green bell pepper, diced"
+        },
+        {
+            "5": "1 (28 ounce) can diced tomatoes"
+        },
+        {
+            "6": "1 (16 ounce) can tomato sauce"
+        },
+        {
+            "7": "1 (6 ounce) can tomato paste"
+        },
+        {
+            "8": "2 teaspoons dried oregano"
+        },
+        {
+            "9": "2 teaspoons dried basil"
+        },
+        {
+            "10": "1 teaspoon salt"
+        },
+        {
+            "11": "0.5 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine ground beef, onion, garlic, and green pepper in a large saucepan over medium-high heat. Cook and stir until meat is browned and crumbly and vegetables are tender, 5 to 7 minutes. Drain grease."
+        },
+        {
+            "2": "Stir diced tomatoes, tomato sauce, and tomato paste into the pan. Season with oregano, basil, salt, and pepper. Simmer spaghetti sauce for 1 hour, stirring occasionally."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "185"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Facf6fb7bb3f2df4cf590db6bbd33c1ea%2F1663539829image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Facf6fb7bb3f2df4cf590db6bbd33c1ea%2F1656712852image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Facf6fb7bb3f2df4cf590db6bbd33c1ea%2F1656464535image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Facf6fb7bb3f2df4cf590db6bbd33c1ea%2F1643834584Spaghetti%2520sauce%252001.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/q2exnhyivkjuGhy8wHlbLHojz-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/158140-Spaghetti-sauce-with-ground-beef-mfs-199-5996234f97614eb090b1e88fe91f5360.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/EU1qSbQYbcCrtojph_yFn-wMAV4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/667748_Spaghetti-Sauce-with-Ground-Beef_158140_-Photo-by-Sherri-b9bcc8ba2df44574ba8b4337586dd4aa.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/2brBsEtyfvyq14LLDChK-s1CDnI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/158140-Spaghetti-sauce-with-ground-beef-mfs-200-c9c10a2331d84567a28fd210009b5623.jpg"
+        }
+    ],
+    "main category": "side_dishes"
+}

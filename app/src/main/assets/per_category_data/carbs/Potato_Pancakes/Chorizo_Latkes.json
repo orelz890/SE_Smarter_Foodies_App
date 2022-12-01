@@ -1,0 +1,81 @@
+{
+    "title": "Chorizo Latkes",
+    "Category": "Potato Pancakes",
+    "Ingredients": [
+        {
+            "1": "3  russet potatoes, peeled"
+        },
+        {
+            "2": "2  eggs, lightly beaten"
+        },
+        {
+            "3": "1 salt and ground black pepper to taste"
+        },
+        {
+            "4": "1 teaspoon vegetable oil"
+        },
+        {
+            "5": "1 (1 pound) package beef chorizo"
+        },
+        {
+            "6": "1  yellow onion, diced"
+        },
+        {
+            "7": "1 tablespoon vegetable oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Shred potatoes; wring out excess water in a dish towel. Transfer to a large bowl and mix in eggs. Season with salt and pepper."
+        },
+        {
+            "2": "Heat 1 teaspoon oil in a large skillet over medium heat. Add chorizo; cook and stir until browned, 4 to 5 minutes. Drain, reserving 1 teaspoon grease in the skillet. Add onion; cook and stir until translucent, about 4 minutes. Fold into potatoes until well-combined."
+        },
+        {
+            "3": "Heat 1 tablespoon oil in another large skillet until almost smoking. Add heaping tablespoonfuls of the potato mixture; press down to flatten slightly. Cook until golden brown, about 2 minutes per side. Continue with remaining potato mixture. Drain on paper towels."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "12 mins"
+        },
+        {
+            "Total Time": "42 mins"
+        },
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "18 to 24 latkes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "164"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5025015.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3687333.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3535979.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

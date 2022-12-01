@@ -1,0 +1,69 @@
+{
+    "title": "Chili Powder",
+    "Category": "Paleo Diet",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons paprika"
+        },
+        {
+            "2": "2 teaspoons oregano"
+        },
+        {
+            "3": "0.5 teaspoons cumin"
+        },
+        {
+            "4": "0.5 teaspoons garlic powder"
+        },
+        {
+            "5": "0.75 teaspoon onion powder"
+        },
+        {
+            "6": "0.5 teaspoon cayenne pepper, or to taste (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk paprika, oregano, cumin, garlic powder, onion powder, and cayenne pepper together in a bowl."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "14"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8891535.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7941532.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7817706.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7216564.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

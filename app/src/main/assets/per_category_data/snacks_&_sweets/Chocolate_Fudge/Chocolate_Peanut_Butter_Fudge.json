@@ -1,0 +1,72 @@
+{
+    "title": "Chocolate Peanut Butter Fudge",
+    "Category": "Chocolate Fudge",
+    "Ingredients": [
+        {
+            "1": "3 cups white sugar"
+        },
+        {
+            "2": "1 cup evaporated milk"
+        },
+        {
+            "3": "0.25 cup cocoa"
+        },
+        {
+            "4": "0.5 cup peanut butter"
+        },
+        {
+            "5": "1 tablespoon margarine"
+        },
+        {
+            "6": "1 tablespoon butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Butter one 9x9 inch pan."
+        },
+        {
+            "2": "Combine the sugar, evaporated milk and cocoa in saucepan. Stir over high heat until mixture comes to a rolling boil. Lower heat to medium and continue cooking to a soft ball stage."
+        },
+        {
+            "3": "Remove from heat, add peanut butter and margarine. Beat by hand until creamy; pour into prepared pan. Allow to cool and cut into squares."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "32 "
+        },
+        {
+            "Yield": "2 pounds"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "115"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffc91d2149f0e97e47d765ab6148384f7%2F792531.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1c71d3a2d15315feef1cfdf4e0ec7f12%2F720088.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F637584.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F36226.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Kheer (Rice Pudding)",
+    "Category": "Rice Pudding",
+    "Ingredients": [
+        {
+            "1": "2 cups coconut milk"
+        },
+        {
+            "2": "2 cups milk"
+        },
+        {
+            "3": "3 tablespoons white sugar"
+        },
+        {
+            "4": "0.5 cup Basmati rice"
+        },
+        {
+            "5": "0.25 cup raisins"
+        },
+        {
+            "6": "0.5 teaspoon ground cardamom"
+        },
+        {
+            "7": "0.5 teaspoon rose water (Optional)"
+        },
+        {
+            "8": "0.25 cup sliced almonds, toasted"
+        },
+        {
+            "9": "0.25 cup chopped pistachio nuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring the coconut milk, milk and sugar to a boil in a large saucepan. Add Basmati rice, and simmer over low heat until the mixture thickens and the rice is tender, about 20 minutes."
+        },
+        {
+            "2": "Stir in the raisins, cardamom and rose water, and cook for a few more minutes. Ladle into serving bowls, and garnish with almonds and pistachios."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "513"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6928745.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2237989.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8c066d51ac990965763d519b6d8661c4%2F1110695.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F839194.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Super Easy Chicken and Dumplings",
+    "Category": "Dumplings",
+    "Ingredients": [
+        {
+            "1": "2 (10.5 ounce) cans condensed cream of chicken soup"
+        },
+        {
+            "2": "3 (14 ounce) cans chicken broth"
+        },
+        {
+            "3": "3 cups shredded cooked chicken meat"
+        },
+        {
+            "4": "2 (10 ounce) cans refrigerated biscuit dough"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir condensed soup, chicken broth, and shredded chicken together in a large saucepan over medium-high heat until it begins to simmer."
+        },
+        {
+            "2": "Cut each biscuit into quarters, and gently stir into the simmering soup."
+        },
+        {
+            "3": "Reduce heat to medium-low, cover, and simmer until biscuits are no longer doughy in the center, 10 to 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "400"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F46f566496d230138f0b70b4435f65683%2F1662335085image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9075041.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8939015.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8895660.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

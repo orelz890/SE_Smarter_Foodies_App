@@ -1,0 +1,105 @@
+{
+    "title": "The Humble Shepherd",
+    "Category": "Shepherd's Pie",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "0.5 pounds russet potatoes, peeled and cut into 1 1/2-inch thick slices"
+        },
+        {
+            "3": "6 tablespoons butter, cut into pieces"
+        },
+        {
+            "4": "1 cup milk"
+        },
+        {
+            "5": "1 salt and pepper, to taste"
+        },
+        {
+            "6": "1 tablespoon vegetable oil"
+        },
+        {
+            "7": "1 pound ground turkey"
+        },
+        {
+            "8": "1 medium onion, chopped"
+        },
+        {
+            "9": "2 (1 ounce) packages instant chicken gravy mix"
+        },
+        {
+            "10": "1 cup water"
+        },
+        {
+            "11": "1 (16 ounce) package frozen peas and carrots, thawed"
+        },
+        {
+            "12": "2 cups shredded cheese of choice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 350 degrees F (175 degrees C). Lightly grease a medium baking dish."
+        },
+        {
+            "2": "Cover potatoes with water in a saucepan and boil for 20 to 30 minutes, or until fork-tender. Drain and beat until smooth with an electric mixer. Add butter, milk, and salt and pepper to taste; beat to desired consistency."
+        },
+        {
+            "3": "Heat 1 tablespoon of oil in a large skillet over medium high heat. Cook and stir turkey and onion until turkey is fully cooked. Add gravy mix and water; stir often, until gravy is thick and bubbly. Season with salt and pepper."
+        },
+        {
+            "4": "Add turkey mixture to the baking dish. Next, layer the peas and carrots, and top with the mashed potatoes. Top with a layer of shredded cheese."
+        },
+        {
+            "5": "Bake in the preheated oven for 20 to 25 minutes, or until cheese is melted and the potatoes are golden on the top."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "567"
+        },
+        {
+            "Fat": "34g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8860318.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8406779.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7779536.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6491358.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Fudge",
+    "Category": "Chocolate Fudge",
+    "Ingredients": [
+        {
+            "1": "3 cups semisweet chocolate chips"
+        },
+        {
+            "2": "1 (14 ounce) can sweetened condensed milk"
+        },
+        {
+            "3": "0.25 cup unsalted butter, cut into pieces"
+        },
+        {
+            "4": "1 cup chopped walnuts (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine chocolate chips, condensed milk, and butter in large microwave-safe bowl. Microwave on medium heat until chips are melted, 3 to 5 minutes, stirring once or twice during the cooking."
+        },
+        {
+            "2": "Meanwhile, generously grease an 8-inch square glass baking dish."
+        },
+        {
+            "3": "Remove chocolate mixture from the microwave and stir in nuts. Pour into the prepared dish."
+        },
+        {
+            "4": "Refrigerate until fudge is set, about 2 hours."
+        },
+        {
+            "5": "Cut into 16 squares."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 10 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 pieces"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "359"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "45g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F301bcb01bbcfd41f7f1bb6eaba938e86%2F16688705503212459D17D-046C-4289-A51C-82FB39379EC7.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9407954.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9392077.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9017378.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/WdnlEmVLBBQ7EqPT-GZPtBNnJ8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9368-fudge-mfs225-1-5147d4aff1d84116abe23fdd1978b937.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/S0q2OXKZacec4KEybUjY9pqr-mw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/527795-fudge-photo-by-mom2cuties-3046f2ad1cb4439a828fe7a3fb6614bb.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/VcIgROho4o6xrnv1gRNmCGvohJM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/102159908-Fudge-Photo-by-Meredith-650x465-3729fd2a7f364b849653d287a0a919e7.jpg"
+        },
+        {
+            "img8": "https://www.allrecipes.com/thmb/IOfP1zvelvCBTiYoi5dZmizAuhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150611-68caa18023f649a9a94e5ae746164048.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

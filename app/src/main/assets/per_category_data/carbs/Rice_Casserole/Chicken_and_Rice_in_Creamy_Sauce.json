@@ -1,0 +1,111 @@
+{
+    "title": "Chicken and Rice in Creamy Sauce",
+    "Category": "Rice Casserole",
+    "Ingredients": [
+        {
+            "1": "4 cups water"
+        },
+        {
+            "2": "2 cups uncooked jasmine rice"
+        },
+        {
+            "3": "20 ounces thick-cut bacon, chopped"
+        },
+        {
+            "4": "8  skinless, boneless chicken breast halves"
+        },
+        {
+            "5": "0.5 teaspoon garlic powder, or to taste"
+        },
+        {
+            "6": "0.5 teaspoon onion powder, or to taste"
+        },
+        {
+            "7": "0.5 teaspoon ground nutmeg, or to taste"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        },
+        {
+            "9": "0.5 cup butter"
+        },
+        {
+            "10": "3 cups heavy whipping cream"
+        },
+        {
+            "11": "0.5 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "12": "0.5 (10.75 ounce) can  condensed cream of chicken soup"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Bring water and rice to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until the rice is tender and liquid has been absorbed, 20 to 25 minutes."
+        },
+        {
+            "3": "Place the bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned and crispy, about 10 minutes. Drain bacon on paper towels; reserve bacon drippings."
+        },
+        {
+            "4": "Season chicken breasts with garlic powder, onion powder, nutmeg, salt, and black pepper."
+        },
+        {
+            "5": "Melt butter in a large skillet over medium-high heat. Working in batches, cook chicken breasts in hot butter, turning once, until no longer pink in the center and the juices run clear, 10 to 12 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Transfer chicken to a cutting board and cut chicken breasts into small pieces. Reserve pan drippings."
+        },
+        {
+            "6": "Bring heavy cream, cream of mushroom soup, and cream of chicken soup to a simmer in a large saucepan. Stir bacon, reserved bacon drippings, and reserved chicken drippings into cream mixture."
+        },
+        {
+            "7": "Spread rice in a thick layer in the bottom of a 9x13-inch casserole dish. Spread chicken over rice and pour soup mixture over chicken. Cover dish with aluminum foil."
+        },
+        {
+            "8": "Bake casserole in the preheated oven until heated through and bubbling, 10 to 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "578"
+        },
+        {
+            "Fat": "40g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8638703.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8313373.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb95390d6c5b488fc692e4e07f348f8ab%2F4979998.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

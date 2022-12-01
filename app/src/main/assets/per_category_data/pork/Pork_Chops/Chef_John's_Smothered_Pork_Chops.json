@@ -1,0 +1,99 @@
+{
+    "title": "Chef John's Smothered Pork Chops",
+    "Category": "Pork Chops",
+    "Ingredients": [
+        {
+            "1": "4  large bone-in pork chops, about 1 inch thick"
+        },
+        {
+            "2": "1 teaspoon poultry seasoning"
+        },
+        {
+            "3": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "4": "2 tablespoons vegetable oil"
+        },
+        {
+            "5": "1 tablespoon butter"
+        },
+        {
+            "6": "1 large yellow onion, sliced"
+        },
+        {
+            "7": "4 cloves garlic, minced"
+        },
+        {
+            "8": "0.5 tablespoons all-purpose flour"
+        },
+        {
+            "9": "0.5 cups chicken broth"
+        },
+        {
+            "10": "0.25 cup buttermilk"
+        },
+        {
+            "11": "0.25 cup water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Sprinkle pork chops with poultry seasoning, salt, and black pepper on both sides. Heat vegetable oil in a large skillet over medium-high heat; brown pork chops well on both sides, about 5 minutes per side. Transfer to a plate."
+        },
+        {
+            "2": "Discard excess grease from the pan and melt butter in the same skillet. Reduce heat to medium and stir onion in the hot skillet with a pinch of salt until onion is very browned and caramelized, about 15 minutes. Stir in garlic and cook for 1 minute. Stir in flour and cook for 2 minutes."
+        },
+        {
+            "3": "Pour chicken broth into the skillet and stir, dissolving browned bits of food in the bottom of the skillet. Pour juices that have accumulated on the plate containing pork chops into the sauce. Mix in buttermilk until smooth. Add water. Bring sauce to a simmer, reduce heat to low, and cook until onions begin to break down and sauce is thickened, 15 to 20 minutes."
+        },
+        {
+            "4": "Place pork chops into sauce, spooning sauce over meat to coat. Turn heat to low and simmer until chops are tender and cooked through, about 10 minutes. Adjust levels of salt and pepper and serve chops with gravy on top."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "370"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F79a3b3e45334dedd4697ae2ab84b11e4%2F165999261416599925858441412774378.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F79a3b3e45334dedd4697ae2ab84b11e4%2F164885813716488581068668876845551801444615.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9343585.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9298053.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/tI_S29_lTd7OJd-NxMDtFb5-lUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6405325-38591ef8b39a4234a23040974a152015.jpg"
+        }
+    ],
+    "main category": "pork"
+}

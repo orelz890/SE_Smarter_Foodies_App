@@ -1,0 +1,102 @@
+{
+    "title": "Homemade Beef Stew",
+    "Category": "Beef Stew",
+    "Ingredients": [
+        {
+            "1": "3 tablespoons vegetable oil"
+        },
+        {
+            "2": "2 pounds cubed beef stew meat"
+        },
+        {
+            "3": "4 cubes beef bouillon, crumbled"
+        },
+        {
+            "4": "4 cups water"
+        },
+        {
+            "5": "1 teaspoon dried rosemary"
+        },
+        {
+            "6": "1 teaspoon dried parsley"
+        },
+        {
+            "7": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "8": "3 large potatoes, peeled and cubed"
+        },
+        {
+            "9": "4  carrots, cut into 1 inch pieces"
+        },
+        {
+            "10": "4 stalks celery, cut into 1 inch pieces"
+        },
+        {
+            "11": "1 large onion, chopped"
+        },
+        {
+            "12": "2 teaspoons cornstarch"
+        },
+        {
+            "13": "2 teaspoons cold water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large pot or Dutch oven over medium-high heat; add beef and cook until well browned."
+        },
+        {
+            "2": "Dissolve bouillon in 4 cups water and pour into the pot; stir in rosemary, parsley, and pepper. Bring to a boil; reduce heat to low, cover, and simmer for 1 hour. Stir in potatoes, carrots, celery, and onion."
+        },
+        {
+            "3": "Dissolve cornstarch in 2 teaspoons of cold water; stir into stew. Cover and simmer until beef is tender, about 1 hour."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 2 hrs 15 mins"
+        },
+        {
+            "Total Time": " 2 hrs 35 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "401"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F39f0b4445bd1d358456698722dfcac29%2F166838411956082848B43-C2E1-4AA2-9501-D5AD3C30C4EC.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Faa68af1f41ca4e0b0b7382fe1468dbd7%2F164843694025678-beef-stew-vi-humblepieliving-003.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9444930.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7398898.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Z5KFySXArPOw687cQRNep55pJXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/729310-e01f61d135564bb9ae1a79663969a3cf.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

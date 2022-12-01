@@ -1,0 +1,87 @@
+{
+    "title": "The Best Blondies",
+    "Category": "Blondies",
+    "Ingredients": [
+        {
+            "1": "3 cups cake flour"
+        },
+        {
+            "2": "1 tablespoon baking powder"
+        },
+        {
+            "3": "0.75 teaspoon salt"
+        },
+        {
+            "4": "0.75 pound unsalted butter"
+        },
+        {
+            "5": "3 cups packed light brown sugar"
+        },
+        {
+            "6": "3  large eggs"
+        },
+        {
+            "7": "1 tablespoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Adjust oven rack to lowest position; heat to 325 degrees. Spray a 9-by-13-inch baking pan with vegetable cooking spray. Fit a12-by-18-inch piece of heavy-duty foil into the pan so you can use the foil overhang as a handle to pull baked blondies from the pan; coat foil with cooking spray."
+        },
+        {
+            "2": "Whisk flour, baking powder and salt in a small bowl. Then, heat butter and brown sugar in a large pan until bubbling hot. Whisk eggs and vanilla in a large bowl. Slowly whisk hot sugar mixture, then dry ingredients, into eggs. Stir in optional add-ins (if using chocolate, let batter cool slightly first)."
+        },
+        {
+            "3": "Scrape batter into prepared pan, then bake until blondies are just set, about 45 minutes. Remove from oven and let cool for five minutes. Pull blondies from the pan using foil handles and set on a wire rack. Cool completely before cutting into 24 pieces."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "2 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "279"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbb478c1e830337c4488d0b5a5019eb03%2F4468374.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F671382.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8372feeff3cf6b02ce8a2c4691c4bc8a%2F453888.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9337f36ba18fed043c46a5513d905ae9%2F389570.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Quick and Easy Refried Beans",
+    "Category": "Vegetarian Recipes",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons canola oil"
+        },
+        {
+            "2": "2  garlic cloves, peeled"
+        },
+        {
+            "3": "2 (15 ounce) cans pinto beans"
+        },
+        {
+            "4": "1 teaspoon cumin"
+        },
+        {
+            "5": "1 teaspoon chili powder"
+        },
+        {
+            "6": "1 salt to taste"
+        },
+        {
+            "7": "0.5  lime, juiced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat canola oil in a heavy skillet over medium heat."
+        },
+        {
+            "2": "Cook garlic cloves in hot oil, turning once, until brown on both sides, 4 to 5 minutes. Smash garlic cloves in the skillet with a fork."
+        },
+        {
+            "3": "Stir pinto beans, cumin, chili powder, and salt into mashed garlic and cook until beans are thoroughly heated, about 5 minutes. Stir occasionally."
+        },
+        {
+            "4": "Smash bean mixture with a potato masher to desired texture. Squeeze lime juice over smashed beans and stir until combined."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "132"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9423361.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7563460.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7479431.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7421902.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Q6yXuSHLc31vFhSguqD1pPxJIE8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1010236-12ea61759d8b449e868e5bf187c9a1ca.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

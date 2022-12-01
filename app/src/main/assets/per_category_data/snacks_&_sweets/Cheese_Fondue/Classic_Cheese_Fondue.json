@@ -1,0 +1,84 @@
+{
+    "title": "Classic Cheese Fondue",
+    "Category": "Cheese Fondue",
+    "Ingredients": [
+        {
+            "1": "0.25 cups dry white wine (such as Sauvignon Blanc)"
+        },
+        {
+            "2": "1 tablespoon cherry brandy"
+        },
+        {
+            "3": "1 clove garlic, slightly crushed"
+        },
+        {
+            "4": "1 pinch cayenne pepper"
+        },
+        {
+            "5": "1 pinch freshly grated nutmeg"
+        },
+        {
+            "6": "4 teaspoons cornstarch"
+        },
+        {
+            "7": "8 ounces shredded Gruyere cheese"
+        },
+        {
+            "8": "8 ounces shredded Emmentaler cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Add white wine, cherry brandy, garlic clove, cayenne, nutmeg, and cornstarch to a saucepan. Whisk to combine and place on the stove over medium heat. Cook, whisking occasionally, until mixture thickens slightly and you can see wisps of steam in the pan, 3 to 5 minutes."
+        },
+        {
+            "2": "Add Gruyere and Emmentaler cheeses, one handful at a time, slowly whisking after each addition until melted. Continue whisking until all cheese is melted and sauce is very smooth. Remove from the heat and transfer into a fondue pot to serve."
+        },
+        {
+            "3": "Keep sauce warm while serving so it doesn't solidify."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "215"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9070989.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9070987.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://www.allrecipes.com/thmb/lWlA9eUC2swzJuuR8IYKyFiWgB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-205-b3c5055be4b04bde96991487b10e8c73.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Chicken Broccoli Salad",
+    "Category": "Broccoli Salad",
+    "Ingredients": [
+        {
+            "1": "8 cups broccoli florets"
+        },
+        {
+            "2": "3  cooked skinless, boneless chicken breast halves, cubed"
+        },
+        {
+            "3": "1 cup chopped walnuts"
+        },
+        {
+            "4": "6  green onions, chopped"
+        },
+        {
+            "5": "1 cup mayonnaise"
+        },
+        {
+            "6": "0.25 cup apple cider vinegar"
+        },
+        {
+            "7": "0.25 cup white sugar"
+        },
+        {
+            "8": "0.25 cup crumbled cooked bacon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine broccoli, chicken, walnuts, and green onions in a large bowl."
+        },
+        {
+            "2": "Whisk mayonnaise, vinegar, and sugar together in a bowl until well blended."
+        },
+        {
+            "3": "Pour mayonnaise dressing over broccoli mixture; toss to coat."
+        },
+        {
+            "4": "Cover and refrigerate until chilled, if desired. Sprinkle with crumbled bacon to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "341"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9026424.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6fc258b35171f659eb9ca5437926e723%2F4523954.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4524624.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3609313.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

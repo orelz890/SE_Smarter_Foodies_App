@@ -1,0 +1,60 @@
+{
+    "title": "Easy Banana Ice Cream",
+    "Category": "Diabetic Recipes",
+    "Ingredients": [
+        {
+            "1": "2  peeled and chopped bananas, frozen"
+        },
+        {
+            "2": "0.5 cup skim milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine frozen bananas and 1/4 cup skim milk in a blender; blend for 30 seconds. Add remaining 1/4 cup milk and blend on high speed until smooth, about 30 seconds more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "126"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdd966a2eab470abea2ed87ba123e08d6%2F1646625122Easy%2520Banana%2520Ice%2520Cream.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2e46f22225a14285784f013194b7dacd%2F3162357.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2452554.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2451091.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

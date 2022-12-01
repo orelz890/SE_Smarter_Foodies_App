@@ -1,0 +1,81 @@
+{
+    "title": "Sausage Gravy I",
+    "Category": "Gravy",
+    "Ingredients": [
+        {
+            "1": "1 pound ground pork sausage"
+        },
+        {
+            "2": "3 tablespoons bacon grease"
+        },
+        {
+            "3": "0.25 cup all-purpose flour"
+        },
+        {
+            "4": "3 cups milk"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "0.25 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Brown sausage in a large skillet over medium-high heat. Set aside, leaving the drippings in the skillet."
+        },
+        {
+            "2": "Mix bacon grease into the sausage drippings. Reduce heat to medium, combine with flour, and stir constantly until mixture just turns golden brown."
+        },
+        {
+            "3": "Gradually whisk milk into skillet. When the mixture is smooth, thickened, and begins to bubble, return the sausage to skillet. Season with salt and pepper. Reduce heat, and simmer for about 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "297"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8351092.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8032638.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1707cf4a5ff45d988d09c9ffd6e4c881%2F7522227.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F82e4a58f3d2c119562e1fff1b815f5ba%2F7392847.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Chicken Cacciatore Pasta",
+    "Category": "Chicken Cacciatore",
+    "Ingredients": [
+        {
+            "1": "4 (11 ounce) chicken leg quarters"
+        },
+        {
+            "2": "0.75 teaspoons salt, or more to taste, divided"
+        },
+        {
+            "3": "3 tablespoons vegetable oil"
+        },
+        {
+            "4": "1  red bell pepper, cut into strips"
+        },
+        {
+            "5": "1 cup sliced onion"
+        },
+        {
+            "6": "6 cloves garlic, thinly sliced"
+        },
+        {
+            "7": "2 tablespoons chopped fresh oregano"
+        },
+        {
+            "8": "0.5 teaspoons dried thyme"
+        },
+        {
+            "9": "1 (28 ounce) can tomato puree"
+        },
+        {
+            "10": "0.5 cup water"
+        },
+        {
+            "11": "1 (15.5 ounce) can cannellini beans, drained and rinsed"
+        },
+        {
+            "12": "2 tablespoons red wine vinegar"
+        },
+        {
+            "13": "8 ounces dried fusilli or penne pasta"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 325 degrees F (165 degrees C)."
+        },
+        {
+            "2": "Sprinkle chicken with 1 teaspoon salt. Heat oil in a wide, heavy, oven-safe pot over medium-high heat until hot but not smoking, about 1 minute. Add chicken, skin sides down, and cook, turning once, until browned, about 10 minutes. Transfer to a plate."
+        },
+        {
+            "3": "Pour off all but 2 tablespoons fat. Reduce heat to medium and cook pepper, onion, and garlic, stirring, until softened, about 5 minutes. Stir in oregano, thyme, tomato puree, water, and remaining 3/4 teaspoon salt; bring to a simmer. Return chicken to pot, return to a simmer, cover, and transfer to oven. Bake until chicken is tender, 45 to 50 minutes."
+        },
+        {
+            "4": "Transfer chicken to a bowl and chill, uncovered, until cool enough to handle (20 minutes). Discard skin and bones. Pull meat into coarse shreds."
+        },
+        {
+            "5": "Add chicken, beans, and vinegar to tomato mixture in pot and simmer until heated through, about 5 minutes."
+        },
+        {
+            "6": "Meanwhile, cook pasta in salted water according to package directions. Drain, reserving 1 cup pasta water. Stir pasta into chicken mixture, thinning with pasta water as needed. Season with additional salt, if desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "631"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "55g"
+        },
+        {
+            "Protein": "44g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4165383.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4170405.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3797863.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

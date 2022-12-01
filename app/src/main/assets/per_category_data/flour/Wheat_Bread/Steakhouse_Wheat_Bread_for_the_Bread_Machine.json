@@ -1,0 +1,87 @@
+{
+    "title": "Steakhouse Wheat Bread for the Bread Machine",
+    "Category": "Wheat Bread",
+    "Ingredients": [
+        {
+            "1": "0.75 cup warm water"
+        },
+        {
+            "2": "1 tablespoon butter, softened"
+        },
+        {
+            "3": "0.25 cup honey"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "1 teaspoon instant coffee granules"
+        },
+        {
+            "6": "1 tablespoon unsweetened cocoa powder"
+        },
+        {
+            "7": "1 tablespoon white sugar"
+        },
+        {
+            "8": "1 cup bread flour"
+        },
+        {
+            "9": "1 cup whole wheat flour"
+        },
+        {
+            "10": "0.25 teaspoons bread machine yeast"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place warm water, butter, honey, salt, coffee, cocoa, sugar, bread flour, whole wheat flour, and bread machine yeast in the pan of a bread machine in the order listed. Put on regular or basic cycle with light crust."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "167"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9246017.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9037739.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8386849.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8204447.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

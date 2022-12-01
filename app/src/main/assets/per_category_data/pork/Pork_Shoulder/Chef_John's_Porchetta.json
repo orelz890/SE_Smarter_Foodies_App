@@ -1,0 +1,123 @@
+{
+    "title": "Chef John's Porchetta",
+    "Category": "Pork Shoulder",
+    "Ingredients": [
+        {
+            "1": "1 (2 1/2 pound) boneless pork shoulder blade roast"
+        },
+        {
+            "2": "1 olive oil"
+        },
+        {
+            "3": "1 tablespoon kosher salt, divided"
+        },
+        {
+            "4": "1 tablespoon freshly ground black pepper"
+        },
+        {
+            "5": "2 tablespoons chopped fresh sage leaves"
+        },
+        {
+            "6": "2 tablespoons chopped fresh rosemary"
+        },
+        {
+            "7": "1  orange, zested"
+        },
+        {
+            "8": "6 cloves garlic, minced"
+        },
+        {
+            "9": "2 teaspoons fennel seeds, lightly crushed"
+        },
+        {
+            "10": "1 olive oil"
+        },
+        {
+            "11": "1 Vinegar sauce-"
+        },
+        {
+            "12": "0.5  anchovy fillet"
+        },
+        {
+            "13": "1 teaspoon red pepper flakes, or to taste"
+        },
+        {
+            "14": "0.25 cup white wine vinegar"
+        },
+        {
+            "15": "0.25 cup chopped Italian parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place pork roast on a work surface. Use a sharp knife to make a lengthwise cut about 1 inch from the edge of the meat, slicing down but not cutting through. Open the meat flat along the cut. Keeping the knife parallel to the cutting board, continue to slice the roast open so you can unroll it into a large, flat piece. (You can also ask your butcher to butterfly the roast for you.) When the meat is unrolled, make small slashes through any connective tissue or extra-thick parts so the roast is as even in thickness as possible."
+        },
+        {
+            "2": "Drizzle cut surface with 2 teaspoons olive oil. Rub oil into meat and generously season with 2 teaspoons kosher salt, black pepper, sage, rosemary, orange zest, garlic, and crushed fennel seeds. Press seasonings in firmly with your hand, roll up the pork roast, and tie the roast in several places with kitchen twine."
+        },
+        {
+            "3": "Place the pork roast on a rack, set the rack on a plate, and sprinkle meat with remaining 1 teaspoon salt. Refrigerate the roast uncovered overnight to dry-age."
+        },
+        {
+            "4": "Preheat oven to 450 degrees F (230 degrees C). Lightly oil a baking dish and place roast into dish. Rub meat with 2 teaspoons olive oil."
+        },
+        {
+            "5": "Bake in the preheated oven until outside is seared, 15 minutes. Reduce oven heat to 250 degrees F (120 degrees C) and continue to roast until an instant-read meat thermometer inserted into the center of the roast reads 145 degrees F (65 degrees C), about 1 hour more. Loosely cover roast with foil and let rest for 10 minutes. Slice thinly to serve."
+        },
+        {
+            "6": "Mash anchovy fillet in a small bowl and add red pepper flakes, white wine vinegar, and Italian parsley. Stir to combine. Serve drizzled on pork."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 15 mins"
+        },
+        {
+            "Additional Time": " 8 hrs 10 mins"
+        },
+        {
+            "Total Time": " 9 hrs 45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "266"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8948147.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8090434.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7764215.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6176831.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/yDXyo1MTR-z5T6j6bZpdMxxpOOw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1060122-chef-johns-porchetta-Chef-John-1x1-1-86c74a9fce384cbcb8ed02e60f6d69bf.jpg"
+        }
+    ],
+    "main category": "pork"
+}

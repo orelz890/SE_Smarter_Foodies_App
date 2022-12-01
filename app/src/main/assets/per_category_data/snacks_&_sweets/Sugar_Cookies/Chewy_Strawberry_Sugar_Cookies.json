@@ -1,0 +1,108 @@
+{
+    "title": "Chewy Strawberry Sugar Cookies",
+    "Category": "Sugar Cookies",
+    "Ingredients": [
+        {
+            "1": "0.5 cups white sugar"
+        },
+        {
+            "2": "1 cup butter, softened"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "3 tablespoons strawberry puree"
+        },
+        {
+            "5": "1.5 cups all-purpose flour"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "0.5 teaspoon baking powder"
+        },
+        {
+            "8": "0.5 teaspoon salt"
+        },
+        {
+            "9": "0.5 cup white sugar"
+        },
+        {
+            "10": "1 teaspoon red colored sugar (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper."
+        },
+        {
+            "2": "Beat 1 1/2 cups white sugar and butter together in a bowl with an electric mixer until creamy, about 3 minutes. Beat egg into butter mixture. Add strawberry puree."
+        },
+        {
+            "3": "Stir flour, vanilla extract, baking powder, and salt into strawberry mixture with a spoon until flour is completely incorporated into dough."
+        },
+        {
+            "4": "Stir 1/2 cup white sugar and red sugar together in a shallow bowl."
+        },
+        {
+            "5": "Roll dough into walnut-sized balls, roll each ball in red sugar mixture, and place each ball 1 1/2 inches apart onto prepared baking sheets. Lightly press each dough ball down to flatten."
+        },
+        {
+            "6": "Bake cookies in the preheated oven until lightly browned, 10 to 15 minutes. Cool."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "2 dozen cookies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "189"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd33daf5688582becfec713b1731f2a15%2F164609916120220228_201652.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9182596.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8173295.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8066948.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Q9OIG5EDRWLXWIsi2JCRoiGB_IU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6399719-chewy-strawberry-sugar-cookies-Yoly-1x1-1-e4896439e33f44e6a7b694b912472dac.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

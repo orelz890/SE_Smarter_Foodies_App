@@ -1,0 +1,69 @@
+{
+    "title": "Marshmallow Crispie Bars",
+    "Category": "Bar Cookies",
+    "Ingredients": [
+        {
+            "1": "3 tablespoons butter"
+        },
+        {
+            "2": "1 teaspoon vanilla extract"
+        },
+        {
+            "3": "4 cups miniature marshmallows"
+        },
+        {
+            "4": "4 cups crisp rice cereal"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Coat a 9 x 13 inch pan with spray oil or margarine."
+        },
+        {
+            "2": "In a large saucepan, melt the butter or margarine over low heat. Add the vanilla. Melt the marshmallows into the margarine, stirring. Add the cereal when the marshmallows have melted; stir until cereal is coated. Quickly pour into the prepared pan. Use a sheet of waxed paper to press the mixture down flat and evenly into the pan."
+        },
+        {
+            "3": "Let set for 2 to 3 hours. Cut into squares."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "2 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "114"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9172877.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9155727.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9039349.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8940869.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/IsemoBbyE8Hp3SKVCLIhiAliY0A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/693501-d87d9fa8e928428989bf318214886dfe.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

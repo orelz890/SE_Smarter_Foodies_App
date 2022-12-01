@@ -1,0 +1,96 @@
+{
+    "title": "Bek's Minestrone Soup",
+    "Category": "Minestrone Soup",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons butter"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "3 cloves garlic, minced"
+        },
+        {
+            "4": "3 cups chicken stock"
+        },
+        {
+            "5": "1 (14 ounce) can beef broth"
+        },
+        {
+            "6": "0.5 cups water"
+        },
+        {
+            "7": "2 (6 ounce) cans tomato paste with basil (such as Hunt's\u00ae)"
+        },
+        {
+            "8": "1 (14.5 ounce) can diced tomatoes with jalapenos"
+        },
+        {
+            "9": "2  potatoes, diced"
+        },
+        {
+            "10": "3 stalks celery, chopped"
+        },
+        {
+            "11": "1  zucchini, chopped"
+        },
+        {
+            "12": "3  carrots, chopped"
+        },
+        {
+            "13": "1 (15 ounce) can garbanzo beans, drained"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat butter in a large pot over medium heat; cook and stir onion and garlic until onion is transparent, 5 to 10 minutes. Add chicken stock, beef broth, and water; bring to a simmer. Stir tomato paste, tomatoes with jalapenos, and potatoes into broth mixture; simmer until potatoes are slightly tender, 10 to 15 minutes."
+        },
+        {
+            "2": "Stir celery, zucchini, carrots, and garbanzo beans into soup mixture; simmer until potatoes are tender and flavors have blended, 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "245"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2838162.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1754836.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F920353.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

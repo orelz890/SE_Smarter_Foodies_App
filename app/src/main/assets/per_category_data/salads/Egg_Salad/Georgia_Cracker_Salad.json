@@ -1,0 +1,75 @@
+{
+    "title": "Georgia Cracker Salad",
+    "Category": "Egg Salad",
+    "Ingredients": [
+        {
+            "1": "1 (4 ounce) packet saltine crackers"
+        },
+        {
+            "2": "1 large tomato, chopped"
+        },
+        {
+            "3": "3  green onions, finely chopped"
+        },
+        {
+            "4": "0.5 cups mayonnaise"
+        },
+        {
+            "5": "1  hard-cooked egg, chopped"
+        },
+        {
+            "6": "1 salt and freshly ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Coarsely crumble the saltines into a medium bowl. Mix in the tomato, onions and mayonnaise. Stir in the hard-cooked egg, and season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "12 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "22 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "769"
+        },
+        {
+            "Fat": "71g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8150535.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9a411b1e41bdfb7851a9422e2d580fc2%2F1635715.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F41399.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F35845.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

@@ -1,0 +1,105 @@
+{
+    "title": "Fruitcake",
+    "Category": "Fruitcake",
+    "Ingredients": [
+        {
+            "1": "2 cups packed brown sugar"
+        },
+        {
+            "2": "3 cups all-purpose flour"
+        },
+        {
+            "3": "1 tablespoon baking soda"
+        },
+        {
+            "4": "2 tablespoons ground cinnamon"
+        },
+        {
+            "5": "2 tablespoons ground cloves"
+        },
+        {
+            "6": "2 tablespoons ground allspice"
+        },
+        {
+            "7": "2 tablespoons ground nutmeg"
+        },
+        {
+            "8": "4  eggs"
+        },
+        {
+            "9": "2 tablespoons lemon zest"
+        },
+        {
+            "10": "2 tablespoons vanilla extract"
+        },
+        {
+            "11": "0.5 cup brandy"
+        },
+        {
+            "12": "0.5 cups raisins"
+        },
+        {
+            "13": "0.5 cups chopped nuts"
+        },
+        {
+            "14": "0.5 cups dried mixed fruit"
+        },
+        {
+            "15": "0.5 cups butter, melted"
+        },
+        {
+            "16": "0.75 cups brandy"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 225 degrees F (110 degrees C). Grease and flour a tube pan."
+        },
+        {
+            "2": "In a large bowl, combine sugar, flour, soda, spices, eggs, lemon rind, vanilla, 1/2 cup brandy, fruit, nuts, and melted butter or margarine. Mix thoroughly. Pour into prepared pan."
+        },
+        {
+            "3": "Bake for 1 hour, or until a tester inserted in the center comes out clean. Cool on a wire rack."
+        },
+        {
+            "4": "Wrap cooled cake in foil. Sprinkle 2 tablespoons brandy over the cake everyday for 2 weeks."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "1 to 9 - inch tube cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "639"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "72g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7573618.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7b18b9db854eebb38196987cc6389e54%2F7489422.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4196671.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F548447.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Tortellini Soup II",
+    "Category": "Tortellini",
+    "Ingredients": [
+        {
+            "1": "6 (3.5 ounce) links sweet Italian sausage, casings removed"
+        },
+        {
+            "2": "5 cups water"
+        },
+        {
+            "3": "1 (14.5 ounce) can stewed tomatoes, with juice"
+        },
+        {
+            "4": "2 teaspoons dried basil"
+        },
+        {
+            "5": "1 (1 ounce) package dry onion soup mix"
+        },
+        {
+            "6": "4  tomatoes, diced"
+        },
+        {
+            "7": "2 cups cheese tortellini"
+        },
+        {
+            "8": "3 cups shredded cabbage"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large pot over medium high heat, saute the sausage for 5 minutes, or until browned and crumbly. Pour in the water, stewed tomatoes, basil, onion soup mix and fresh tomatoes."
+        },
+        {
+            "2": "Bring just to a boil, reduce heat to low and simmer for 15 minutes. Stir in the tortellini and cabbage. Simmer for 10 more minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "4 to 6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "556"
+        },
+        {
+            "Fat": "38g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9ff6fe29e65a3b8e19d9c70ed2af7587%2F4629949.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fec9edee8211d73425141c00627b46138%2F2215172.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F100964.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F58639.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

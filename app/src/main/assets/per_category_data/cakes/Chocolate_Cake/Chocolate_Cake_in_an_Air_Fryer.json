@@ -1,0 +1,84 @@
+{
+    "title": "Chocolate Cake in an Air Fryer",
+    "Category": "Chocolate Cake",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "0.25 cup white sugar"
+        },
+        {
+            "3": "1.5 tablespoons butter, softened"
+        },
+        {
+            "4": "1  egg"
+        },
+        {
+            "5": "1 tablespoon apricot jam"
+        },
+        {
+            "6": "6 tablespoons all-purpose flour"
+        },
+        {
+            "7": "1 tablespoon unsweetened cocoa powder"
+        },
+        {
+            "8": "1 salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an air fryer to 320 degrees F (160 degrees C). Spray a small fluted tube pan with cooking spray."
+        },
+        {
+            "2": "Beat sugar and butter together in a bowl using an electric mixer until light and creamy. Add egg and jam; mix until combined. Sift in flour, cocoa powder, and salt; mix thoroughly. Pour batter into the prepared pan. Level the surface of the batter with the back of a spoon."
+        },
+        {
+            "3": "Place pan in the air fryer basket. Cook until a toothpick inserted into the center of the cake comes out cleanly, about 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "1 small cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "214"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F98ed0d10cd727c648783603e92970d0d%2F1660917469image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4567333.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://www.allrecipes.com/thmb/tdvTzWeJBC7nFIE-m6uacpe6Iq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4567333-chocolate-cake-in-an-air-fryer-Launa-2000-b0b524d33991403d9b6e9ef2bfe36e67.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

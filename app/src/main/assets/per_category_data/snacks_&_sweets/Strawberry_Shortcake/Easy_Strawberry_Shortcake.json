@@ -1,0 +1,69 @@
+{
+    "title": "Easy Strawberry Shortcake",
+    "Category": "Strawberry Shortcake",
+    "Ingredients": [
+        {
+            "1": "1 quart fresh strawberries, sliced"
+        },
+        {
+            "2": "0.25 cup white sugar"
+        },
+        {
+            "3": "1 (12 ounce) package prepared sponge cake dessert cups"
+        },
+        {
+            "4": "1 (7 ounce) can whipped cream, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place strawberries in a bowl; add sugar and stir to coat. Cover and refrigerate until sugar has dissolved, about 15 minutes."
+        },
+        {
+            "2": "Place 1 dessert cup in each serving bowl and smother with strawberries. Top each with whipped cream."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "311"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "55g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F48cfdc55b10805bdbb67040c54eac62a%2F165203225401DF6DED-5DAE-4BAA-B3A6-325EB1F5AFF2.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2512568.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2300917.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3c8c8abcde316cfc6ef31d668d45d9fd%2F2211487.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Barbequed Cabbage",
+    "Category": "Camping Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 head cabbage, cut into thick shreds"
+        },
+        {
+            "2": "0.5 cup soy sauce"
+        },
+        {
+            "3": "0.25 cup butter"
+        },
+        {
+            "4": "1 freshly ground pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for medium heat."
+        },
+        {
+            "2": "Evenly divide the cabbage among 4 squares of aluminum foil. Sprinkle 2 tablespoons of soy sauce over each pile of cabbage, and place a tablespoon of butter on top. Season with pepper to taste, and fold the sides of the foil over the cabbage, sealing to form a packet."
+        },
+        {
+            "3": "Place packets onto preheated grill, and cook until the cabbage is tender, 15 to 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "156"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8237489.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4486188.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4482987.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3606846.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

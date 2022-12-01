@@ -1,0 +1,90 @@
+{
+    "title": "Penne Pasta Salad",
+    "Category": "Pasta Salad",
+    "Ingredients": [
+        {
+            "1": "16 ounces penne pasta"
+        },
+        {
+            "2": "1 cup creamy salad dressing, e.g. Miracle Whip \u2122"
+        },
+        {
+            "3": "0.5 cup Dijon-style prepared mustard"
+        },
+        {
+            "4": "0.5 cups grated Parmesan cheese"
+        },
+        {
+            "5": "1 tablespoon dried dill weed"
+        },
+        {
+            "6": "1  red onion, julienned"
+        },
+        {
+            "7": "1  yellow bell pepper, thinly sliced"
+        },
+        {
+            "8": "1  orange bell pepper, julienned"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large pot of salted boiling water, cook pasta until al dente, rinse under cold water and drain."
+        },
+        {
+            "2": "In a large bowl, mix together the salad dressing, mustard, cheese and dill."
+        },
+        {
+            "3": "Add pasta, red onion and bell peppers. Toss well; season with salt and pepper. Chill before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "269"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9162015.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5226237.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8c240a123daa48bf865614723711b730%2F3899144.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F804873.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

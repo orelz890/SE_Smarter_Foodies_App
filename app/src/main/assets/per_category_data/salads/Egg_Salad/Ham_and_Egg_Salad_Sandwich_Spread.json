@@ -1,0 +1,78 @@
+{
+    "title": "Ham and Egg Salad Sandwich Spread",
+    "Category": "Egg Salad",
+    "Ingredients": [
+        {
+            "1": "4 (1/4 inch thick) slices ham"
+        },
+        {
+            "2": "4 large hard-boiled eggs, peeled and chopped"
+        },
+        {
+            "3": "3 stalks celery, minced"
+        },
+        {
+            "4": "0.5 cups light mayonnaise"
+        },
+        {
+            "5": "0.5 cup dill pickle relish"
+        },
+        {
+            "6": "0.25 cup minced onion"
+        },
+        {
+            "7": "2 tablespoons Dijon mustard (Optional)"
+        },
+        {
+            "8": "1 ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Shred ham using the shredding blade on a food processor. Transfer to a large bowl."
+        },
+        {
+            "2": "Add eggs and celery to the bowl, then stir in mayonnaise, relish, onion, mustard, and pepper."
+        },
+        {
+            "3": "Refrigerate for 2 hours before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "265"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4547610.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F970489.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

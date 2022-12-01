@@ -1,0 +1,72 @@
+{
+    "title": "Bacon Deviled Eggs",
+    "Category": "Deviled Eggs",
+    "Ingredients": [
+        {
+            "1": "12  eggs"
+        },
+        {
+            "2": "6 slices bacon"
+        },
+        {
+            "3": "0.25 cup ranch dressing"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch. Cover the saucepan and bring the water to a boil over high heat. Remove from the heat and let the eggs stand in the hot water for 15 minutes. Drain. Cool the eggs under cold running water. Peel once cold. Halve the eggs lengthwise and scoop the yolks into a bowl. Mash the yolks with a fork."
+        },
+        {
+            "2": "Cook the bacon in a large, deep skillet over medium-high heat until evenly browned, about 10 minutes. Drain on a paper towel-lined plate; chop once cool. Add to the egg yolks with the ranch dressing. Spoon the mixture into the egg white halves. Arrange on a tray and refrigerate at least 30 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 deviled eggs"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "60"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "0g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1643428.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8caaacd6d950c9351dc1fe5f8c004559%2F843713.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F760070.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F697996.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

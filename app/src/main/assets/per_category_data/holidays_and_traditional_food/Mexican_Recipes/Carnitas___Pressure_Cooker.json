@@ -1,0 +1,102 @@
+{
+    "title": "Carnitas - Pressure Cooker",
+    "Category": "Mexican Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (6 pound) pork butt roast"
+        },
+        {
+            "2": "0.5 tablespoons salt"
+        },
+        {
+            "3": "1 tablespoon dried oregano"
+        },
+        {
+            "4": "2 teaspoons ground cumin"
+        },
+        {
+            "5": "1 teaspoon ground black pepper"
+        },
+        {
+            "6": "0.5 teaspoon chile powder"
+        },
+        {
+            "7": "0.5 teaspoon paprika"
+        },
+        {
+            "8": "2 tablespoons olive oil, or more to taste"
+        },
+        {
+            "9": "1 cup orange juice"
+        },
+        {
+            "10": "1  onion, coarsely chopped"
+        },
+        {
+            "11": "4 cloves garlic, diced, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Trim excess fat from pork butt; cut pork into 2-inch cubes and transfer to a large bowl."
+        },
+        {
+            "2": "Combine salt, oregano, cumin, black pepper, chile powder, and paprika in a small bowl. Rub pork cubes with spice mixture. Coat seasoned pork cubes lightly in olive oil; transfer to a pressure cooker. Cover pork cubes with orange juice, onion, and garlic."
+        },
+        {
+            "3": "Place lid on the pressure cooker and lock; bring to full pressure over medium heat until pork is no longer pink in the center, about 60 minutes. Let pressure come down naturally, about 15 minutes."
+        },
+        {
+            "4": "Remove pork from the pressure cooker and shred meat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "24 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "154"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fbafdef7fc828c956b27c097b6ed8a6a3%2F164946951620220408_090608.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9218283.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9218285.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9068134.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/lhcwIpMHcTHTzr5818id_RsGlEc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/246332-carnitas-pressure-cooker-ddmfs-1x1-0111-025318094fb44b59be0db1eaf2ac6d2e.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

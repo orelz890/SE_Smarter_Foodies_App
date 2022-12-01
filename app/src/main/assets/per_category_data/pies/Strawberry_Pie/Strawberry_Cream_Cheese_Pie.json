@@ -1,0 +1,87 @@
+{
+    "title": "Strawberry-Cream Cheese Pie",
+    "Category": "Strawberry Pie",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "2": "0.5 cup powdered sugar"
+        },
+        {
+            "3": "0.75 teaspoon vanilla extract"
+        },
+        {
+            "4": "1 (9 inch) baked pie crust"
+        },
+        {
+            "5": "1 quart fresh strawberries, hulled and halved"
+        },
+        {
+            "6": "0.75 cup white sugar"
+        },
+        {
+            "7": "3 tablespoons cornstarch"
+        },
+        {
+            "8": "0.5 cup water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Beat cream cheese with an electric mixer until creamy. Add a little powdered sugar at a time, and beat slowly until incorporated. Mix in vanilla."
+        },
+        {
+            "2": "Spread cream cheese mixture into the pie crust. Refrigerate until firm, 15 to 30 minutes."
+        },
+        {
+            "3": "Meanwhile, combine 3/4 cup of the strawberries, sugar, water, and cornstarch in a blender. Blend lightly. Reserve remaining strawberries."
+        },
+        {
+            "4": "Pour blended strawberry mixture into a saucepan over medium heat; stir constantly until boiling. Stir for an additional 2 minutes once it boils; it should thicken very quickly. Remove from the heat and stir a few times while cooling, about 3 minutes."
+        },
+        {
+            "5": "Remove chilled pie from the refrigerator and arrange reserved strawberries on top of the cream cheese layer. Pour thickened sauce over top. Return to the refrigerator for at least 2 hours before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Additional Time": " 2 hrs 15 mins"
+        },
+        {
+            "Total Time": " 2 hrs 35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "357"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7d8d5314138e6546aaf24b323de8360e%2F1652468811Strawberry-cream%2520pie.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2251341.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

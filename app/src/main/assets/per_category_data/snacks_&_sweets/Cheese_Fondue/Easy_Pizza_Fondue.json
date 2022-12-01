@@ -1,0 +1,84 @@
+{
+    "title": "Easy Pizza Fondue",
+    "Category": "Cheese Fondue",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil, or as needed"
+        },
+        {
+            "2": "1  onion, finely minced"
+        },
+        {
+            "3": "1 pound ground beef"
+        },
+        {
+            "4": "2 (15 ounce) cans pizza sauce"
+        },
+        {
+            "5": "10 ounces shredded mozzarella cheese, or more to taste"
+        },
+        {
+            "6": "4 ounces shredded Cheddar cheese, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a skillet over medium-high heat. Saute onion in hot oil until soft and translucent, 4 to 6 minutes."
+        },
+        {
+            "2": "Heat a large pot over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease."
+        },
+        {
+            "3": "Stir beef, onion, and pizza sauce together in the same pot over medium-high heat. Add mozzarella cheese and Cheddar cheese one handful at a time, stirring until cheeses melt into the fondue before adding the next handfuls. Ladle fondue into bowls."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "428"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9015252.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8975161.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8962555.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8939844.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/LNQ29c_Qah8FMaxgGwgaqKrCHu8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8962555_original-2000-5ff9e39efb8349f69ad6a59fc1dcc80b.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "A Very Moist Carrot Cake",
+    "Category": "Carrot Cake",
+    "Ingredients": [
+        {
+            "1": "0.5 cups vegetable oil"
+        },
+        {
+            "2": "2 cups white sugar"
+        },
+        {
+            "3": "4  eggs"
+        },
+        {
+            "4": "0.5 cups all-purpose flour"
+        },
+        {
+            "5": "1 teaspoon baking powder"
+        },
+        {
+            "6": "1 teaspoon baking soda"
+        },
+        {
+            "7": "1 teaspoon ground cinnamon"
+        },
+        {
+            "8": "0.25 teaspoon salt"
+        },
+        {
+            "9": "2 cups grated carrots"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch cake pan."
+        },
+        {
+            "2": "Beat the oil and sugar with an electric mixer in a large bowl. Add eggs, one at a time, allowing each egg to blend into the oil mixture before adding the next."
+        },
+        {
+            "3": "Stir flour, baking powder, baking soda, cinnamon, and salt together in a bowl; beat into the wet mixture. Fold grated carrots through the batter, mixing just enough to evenly combine. Pour batter into the prepared pan."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 50 to 60 minutes. Cool in the pan for 10 minutes before removing to cool completely on a wire rack."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9x13-inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "727"
+        },
+        {
+            "Fat": "44g"
+        },
+        {
+            "Carbs": "80g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc97bc3932207a67d856209775d9cfc77%2F5247452.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F972408.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Easy Slow Cooker BBQ",
+    "Category": "Pulled Pork",
+    "Ingredients": [
+        {
+            "1": "1 (3 pound) boneless pork shoulder (Boston Butt) roast"
+        },
+        {
+            "2": "0.75 cup cider vinegar"
+        },
+        {
+            "3": "1 salt and ground black pepper to taste"
+        },
+        {
+            "4": "1 cup barbeque sauce, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place pork shoulder in the slow cooker. Pour vinegar over pork, coating all sides; season with salt and pepper."
+        },
+        {
+            "2": "Cook on Low for 10 to 12 hours."
+        },
+        {
+            "3": "Transfer pork to a platter. Drain and discard juices from the slow cooker. Chop pork and return to the slow cooker."
+        },
+        {
+            "4": "Add barbeque sauce and continue cooking for 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 10 hrs 30 mins"
+        },
+        {
+            "Total Time": " 10 hrs 40 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "269"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8519214.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8519222.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7900594.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7241118.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

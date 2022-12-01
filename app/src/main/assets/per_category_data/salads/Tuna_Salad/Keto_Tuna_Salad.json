@@ -1,0 +1,78 @@
+{
+    "title": "Keto Tuna Salad",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "2 (6 ounce) cans water-packed tuna, drained"
+        },
+        {
+            "2": "2 (6 ounce) cans olive oil-packed tuna, drained"
+        },
+        {
+            "3": "0.75 cup reduced-fat olive oil mayonnaise"
+        },
+        {
+            "4": "2 stalks celery, chopped"
+        },
+        {
+            "5": "0.5  lime, juiced"
+        },
+        {
+            "6": "0.25  red onion, chopped"
+        },
+        {
+            "7": "2 tablespoons mustard"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine water-packed tuna, oil-packed tuna, mayonnaise, celery, lime juice, red onion, mustard, salt, and pepper in a bowl. Mix well."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "423"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "47g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8173715.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7611543.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F4bed77e9d19b4aaf377e4cdc2f5af2c8%2F7304436.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff18967cd1b79b7b8a4460784ad0db14d%2F7193223.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

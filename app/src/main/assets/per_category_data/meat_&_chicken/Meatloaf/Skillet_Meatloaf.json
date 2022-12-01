@@ -1,0 +1,93 @@
+{
+    "title": "Skillet Meatloaf",
+    "Category": "Meatloaf",
+    "Ingredients": [
+        {
+            "1": "1 (10.75 ounce) can  condensed tomato soup, divided"
+        },
+        {
+            "2": "0.5 pounds ground beef"
+        },
+        {
+            "3": "0.5 cup dry bread crumbs"
+        },
+        {
+            "4": "1  egg, lightly beaten"
+        },
+        {
+            "5": "0.25 cup chopped onion"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "1 teaspoon pepper"
+        },
+        {
+            "8": "0.25 cup water"
+        },
+        {
+            "9": "0.5 teaspoon prepared yellow mustard"
+        },
+        {
+            "10": "0.5 cup shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, mix together 1/4 cup of the tomato soup, ground beef, bread crumbs, egg, onion, salt and pepper using your hands. Shape firmly into two loaves."
+        },
+        {
+            "2": "Heat a large deep skillet over medium-high heat. Brown the meatloaves in the hot skillet, then reduce heat to medium and cover with a lid. Simmer for about 25 minutes, or until meat is cooked through."
+        },
+        {
+            "3": "Spoon the fat from the skillet, and stir in the remaining soup, water, and mustard. Top with mozzarella cheese, and let simmer uncovered for 10 minutes, stirring sauce occasionally."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "311"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7ecea1aca734ae6ad5410361f9d41f69%2F1658190260SKILLET%2520MEATLOAF.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7ecea1aca734ae6ad5410361f9d41f69%2F1654203343image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9311499.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5197028.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

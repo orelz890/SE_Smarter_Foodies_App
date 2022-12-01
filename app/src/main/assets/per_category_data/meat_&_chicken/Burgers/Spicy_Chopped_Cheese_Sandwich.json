@@ -1,0 +1,93 @@
+{
+    "title": "Spicy Chopped Cheese Sandwich",
+    "Category": "Burgers",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon butter"
+        },
+        {
+            "2": "0.25 cup chopped onions"
+        },
+        {
+            "3": "12 ounces lean ground beef"
+        },
+        {
+            "4": "1 tablespoon Sriracha sauce"
+        },
+        {
+            "5": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "6": "3 slices American cheese"
+        },
+        {
+            "7": "2  hoagie buns, split and toasted"
+        },
+        {
+            "8": "1 cup shredded lettuce"
+        },
+        {
+            "9": "1  roma tomato, thinly sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a small skillet over medium-high heat. Add onions and cook until onions are tender and starting to caramelize, about 5 minutes. Remove from heat and set aside."
+        },
+        {
+            "2": "Combine ground beef and Sriracha sauce in a large bowl; mix well until Sriracha is evenly distributed. Form mixture into two thin patties and season with salt and pepper."
+        },
+        {
+            "3": "Heat a large cast iron skillet over medium-high heat. Add hamburger patties and cook for 5 minutes or until a crust forms on the bottom. Flip patties over and cook for 3 minutes."
+        },
+        {
+            "4": "Break patties up into large pieces using a wide spatula. Sprinkle cooked onion in between hamburger pieces. Layer cheese on top and cook for 2 minutes or until cheese is melted."
+        },
+        {
+            "5": "Divide hamburger and cheese mixture evenly between toasted hoagie rolls. Top each with shredded lettuce and sliced tomato."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 sandwiches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "763"
+        },
+        {
+            "Fat": "45g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "50g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6593516.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://www.allrecipes.com/thmb/5HFntdtcZJ64Y_1hyyAJSc2YfZM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mHLqDw8zO9iicybmAYim-vZvh3CahnSg8z8jmelH2mU-a818d371838f411ba458b76e965765d0.jpeg"
+        },
+        {
+            "img3": "https://www.allrecipes.com/thmb/Xto7xblFmYMPsh1saDdsCf-qTTc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6593516-36584e562a594d569328ac921ba713b9.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

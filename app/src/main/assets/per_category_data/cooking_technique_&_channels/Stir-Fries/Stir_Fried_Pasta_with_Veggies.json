@@ -1,0 +1,96 @@
+{
+    "title": "Stir Fried Pasta with Veggies",
+    "Category": "Stir-Fries",
+    "Ingredients": [
+        {
+            "1": "8 ounces spaghetti"
+        },
+        {
+            "2": "2 cloves crushed garlic"
+        },
+        {
+            "3": "2 tablespoons olive oil"
+        },
+        {
+            "4": "1  onion, sliced into thin rings"
+        },
+        {
+            "5": "2  skinless, boneless chicken breast halves - cut into bite-size pieces"
+        },
+        {
+            "6": "2 cups broccoli florets"
+        },
+        {
+            "7": "2 cups cauliflower florets"
+        },
+        {
+            "8": "2 cups julienned carrots"
+        },
+        {
+            "9": "1 salt to taste"
+        },
+        {
+            "10": "1 ground black pepper to taste"
+        },
+        {
+            "11": "2 tablespoons soy sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of water to a boil. Cook spaghetti pasta in boiling water until al dente. Drain."
+        },
+        {
+            "2": "Meanwhile, heat oil in a large skillet or wok over medium-high heat. Cook garlic in oil for 1 minute. Stir in onion, and cook until soft. Stir in chicken, and cook until juices run clear. Mix in the broccoli, cauliflower, and carrots, and cook for 2 to 5 minutes, stirring frequently. Season with soy sauce, salt, and pepper."
+        },
+        {
+            "3": "Toss pasta with vegetables, and serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "403"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe8c8cd85bb10850ee553755c8f55c708%2F4479745.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4435491.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3472206.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2635747.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

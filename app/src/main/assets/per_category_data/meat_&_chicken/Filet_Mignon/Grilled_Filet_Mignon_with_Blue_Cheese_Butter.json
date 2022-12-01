@@ -1,0 +1,81 @@
+{
+    "title": "Grilled Filet Mignon with Blue Cheese Butter",
+    "Category": "Filet Mignon",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter, softened"
+        },
+        {
+            "2": "0.25 cup crumbled blue cheese"
+        },
+        {
+            "3": "2 teaspoons fresh thyme leaves"
+        },
+        {
+            "4": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "5": "4 (4 ounce) filet mignon steaks"
+        },
+        {
+            "6": "2 teaspoons canola oil, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mash butter, blue cheese, and thyme together in a small bowl until well combined. Season with salt and pepper. Cover and refrigerate for 30 minutes."
+        },
+        {
+            "2": "Preheat an outdoor grill for high heat and lightly oil the grate."
+        },
+        {
+            "3": "Brush steaks with oil and season with salt and pepper."
+        },
+        {
+            "4": "Cook steaks on the preheated grill until firm and reddish-pink and juicy in the center, about 5 minutes per side. An instant-read thermometer inserted into the center should read 130 degrees F (54 degrees C)."
+        },
+        {
+            "5": "Transfer steaks to a platter and top with some of the butter mixture. Let them rest for 5 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "35 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "474"
+        },
+        {
+            "Fat": "37g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb855611e1fc50bf396aa720643d6c86b%2F1643656075Filet%2520Mignon%2520Bleu%2520Cheese%25201-2022.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

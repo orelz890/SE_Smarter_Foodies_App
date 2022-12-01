@@ -1,0 +1,72 @@
+{
+    "title": "Tomato Concasse",
+    "Category": "Salsa",
+    "Ingredients": [
+        {
+            "1": "3  tomatoes, cored"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a large bowl with ice cubes and water and set aside."
+        },
+        {
+            "2": "Bring a large pot of water to a boil."
+        },
+        {
+            "3": "Cut an X in the bottom of each tomato with a knife."
+        },
+        {
+            "4": "Place prepared tomatoes in the pot of boiling water and cook until the skins begin to peel off, 10 to 40 seconds."
+        },
+        {
+            "5": "Transfer tomatoes to the bowl of ice water and allow to cool for 2 to 3 minutes. When cool enough to handle, peel the skin off each tomato."
+        },
+        {
+            "6": "Cut each tomato in half crosswise and remove and discard the seeds; finely dice the flesh."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "1 mins"
+        },
+        {
+            "Total Time": "11 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "33"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4575853.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdb55f90424511d068aaf66f7b6661ff1%2F934148.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://www.allrecipes.com/thmb/LuAXtgNNxmx7s7vtxtdqFosP7L8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4575853-576fe5332ba949c181b1dbae85f0e533.jpg"
+        }
+    ],
+    "main category": "dips"
+}

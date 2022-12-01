@@ -1,0 +1,78 @@
+{
+    "title": "Sweet Coconut Oatmeal",
+    "Category": "Oatmeal",
+    "Ingredients": [
+        {
+            "1": "1 (14 ounce) can coconut milk"
+        },
+        {
+            "2": "1 cup rolled oats"
+        },
+        {
+            "3": "2 tablespoons honey"
+        },
+        {
+            "4": "0.25 cup coconut flakes (Optional)"
+        },
+        {
+            "5": "2 tablespoons brown sugar, or more to taste"
+        },
+        {
+            "6": "1 teaspoon ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring coconut milk to a gentle boil in a small saucepan over medium-low heat. Stir in oats and honey; lower heat and simmer until milk has mostly been absorbed, about 15 minutes."
+        },
+        {
+            "2": "Sprinkle coconut flakes, brown sugar, and cinnamon into oatmeal. Cook until oats are creamy and flavors are combined, about 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "3 "
+        },
+        {
+            "Yield": "3 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "490"
+        },
+        {
+            "Fat": "35g"
+        },
+        {
+            "Carbs": "45g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9431777.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6325329.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4573720.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5d0f25b5633cd55ddc0490472e417b58%2F4462622.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

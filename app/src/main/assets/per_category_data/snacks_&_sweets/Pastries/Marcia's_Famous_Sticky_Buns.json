@@ -1,0 +1,81 @@
+{
+    "title": "Marcia's Famous Sticky Buns",
+    "Category": "Pastries",
+    "Ingredients": [
+        {
+            "1": "1 cup chopped walnuts"
+        },
+        {
+            "2": "1 (12 ounce) package frozen dinner roll dough"
+        },
+        {
+            "3": "1 (5 ounce) package instant vanilla pudding mix"
+        },
+        {
+            "4": "1 cup brown sugar"
+        },
+        {
+            "5": "2 teaspoons ground cinnamon"
+        },
+        {
+            "6": "0.5 cup margarine, melted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Sprinkle nuts in the bottom of a greased Bundt pan. Lay frozen roll dough on top of the nuts. Sprinkle dry pudding mix over the dough, then the brown sugar, then the cinnamon. Pour the melted margarine over all. Lay a damp paper towel over the pan and place it in a cold oven over night."
+        },
+        {
+            "2": "In the morning, remove paper towel and place pan in cold oven. Heat oven to 350 degrees F (175 degrees C). Bake at 350 degrees F (175 degrees C) for 25 minutes. Remove from oven and let sit for 5 minutes, then flip out onto plate."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Additional Time": " 13 hrs 20 mins"
+        },
+        {
+            "Total Time": " 13 hrs 55 mins"
+        },
+        {
+            "Servings": "9 "
+        },
+        {
+            "Yield": "8 to 10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "371"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa8ea6bdbf2e3fc3daa7eabd6722c6c5e%2F5034343.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4537108.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2770011.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1752211.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Baked Ham",
+    "Category": "Easter Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (12 pound)  bone-in ham, rump portion"
+        },
+        {
+            "2": "0.5 cup whole cloves"
+        },
+        {
+            "3": "1 cup packed brown sugar"
+        },
+        {
+            "4": "4 cups water, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Place ham in a large roasting pan; press cloves into the top at 1- to 2-inch intervals. Pack the top with a layer of brown sugar. Pour enough water into the bottom of the roasting pan to come to a 1-inch depth; cover the pan tightly with aluminum foil."
+        },
+        {
+            "3": "Bake in the preheated oven for 4 1/2 to 5 hours. An instant-read thermometer inserted into the center, making sure it is not touching the bone, should read at least 160 degrees F (72 degrees C)."
+        },
+        {
+            "4": "Let ham rest for about 20 minutes before carving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 4 hrs 30 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": " 5 hrs"
+        },
+        {
+            "Servings": "18 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "635"
+        },
+        {
+            "Fat": "40g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "52g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8883159.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7921985.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7064929.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4509382.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/GxbcRmKQIsFSn5BxP_GFsHUg-vU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/34524-baked-ham-ddmfs-cheesecake-1x1-0200-92828afcebbc4f148ea48342f2ba8fef.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/XRzBrIfTx0zc_j82HVyJi0DhPx4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/102672829_Baked-Ham-studded-with-cloves_Photo-by-Meredith-ec58b660a777489c80a8023bf660f0cd.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/GxbcRmKQIsFSn5BxP_GFsHUg-vU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/34524-baked-ham-ddmfs-cheesecake-1x1-0200-92828afcebbc4f148ea48342f2ba8fef.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

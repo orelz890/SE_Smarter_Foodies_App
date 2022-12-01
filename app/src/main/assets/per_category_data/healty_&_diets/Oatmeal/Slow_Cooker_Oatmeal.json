@@ -1,0 +1,72 @@
+{
+    "title": "Slow Cooker Oatmeal",
+    "Category": "Oatmeal",
+    "Ingredients": [
+        {
+            "1": "1 cup oats"
+        },
+        {
+            "2": "3 cups water"
+        },
+        {
+            "3": "1 pinch salt"
+        },
+        {
+            "4": "1 cup half-and-half cream"
+        },
+        {
+            "5": "0.25 cup brown sugar, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Just before going to bed, combine the oats and water in a slow cooker. Set on Low, cover, and let cook overnight. In the morning, stir in the salt and half-and-half. Scoop into bowls, and sprinkle brown sugar over the top."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "2 mins"
+        },
+        {
+            "Cook Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 2 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "208"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2ee064a095c301f31989a827d9b519e4%2F1652658958IMG_1419%2520%282%29.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0cf6b46745ee530b24fc6ec1edb17e72%2F514205.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F468833.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F81c7941ff6b29294a181ccb37e2b82fd%2F279960.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

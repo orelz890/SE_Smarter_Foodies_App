@@ -1,0 +1,78 @@
+{
+    "title": "Popovers",
+    "Category": "Popovers and Yorkshire Pudding",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "2 large eggs"
+        },
+        {
+            "3": "1 cup all-purpose flour"
+        },
+        {
+            "4": "1 cup milk"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 450 degrees F (230 degrees C). Grease and flour six 6-ounce custard cups."
+        },
+        {
+            "2": "Beat eggs slightly in a medium bowl. Beat in flour, milk, and salt until just smooth; being careful not to overbeat. Fill custard cups 1/2 full."
+        },
+        {
+            "3": "Bake in the preheated oven for 20 minutes. Decrease the oven temperature to 350 degrees F (175 degrees C) and bake for 20 minutes more. Immediately remove from cups and serve piping hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 popovers"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "120"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9143448.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9098220.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8988336.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8895345.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

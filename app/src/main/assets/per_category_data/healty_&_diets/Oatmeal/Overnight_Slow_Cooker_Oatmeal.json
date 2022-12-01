@@ -1,0 +1,81 @@
+{
+    "title": "Overnight Slow Cooker Oatmeal",
+    "Category": "Oatmeal",
+    "Ingredients": [
+        {
+            "1": "1.0 cups water"
+        },
+        {
+            "2": "2 cups almond milk"
+        },
+        {
+            "3": "1 cup applesauce (Optional)"
+        },
+        {
+            "4": "1 cup steel-cut oats"
+        },
+        {
+            "5": "1 cup dried cherries, or more to taste"
+        },
+        {
+            "6": "3 tablespoons brown sugar (Optional)"
+        },
+        {
+            "7": "1 teaspoon vanilla"
+        },
+        {
+            "8": "1 teaspoon ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir water, almond milk, applesauce, steel-cut oats, dried cherries, brown sugar, vanilla, and cinnamon together in a slow cooker."
+        },
+        {
+            "2": "Cook on Low for 8 hours overnight."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 5 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "371"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "75g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6789841.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6780341.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5349981.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2132713.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

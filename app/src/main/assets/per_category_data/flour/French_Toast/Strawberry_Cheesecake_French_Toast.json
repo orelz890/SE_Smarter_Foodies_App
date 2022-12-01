@@ -1,0 +1,135 @@
+{
+    "title": "Strawberry Cheesecake French Toast",
+    "Category": "French Toast",
+    "Ingredients": [
+        {
+            "1": "1 cup mashed fresh strawberries"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "2 tablespoons cornstarch"
+        },
+        {
+            "4": "1 cup water"
+        },
+        {
+            "5": "1 cup milk"
+        },
+        {
+            "6": "6  eggs"
+        },
+        {
+            "7": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "8": "1 teaspoon vanilla extract"
+        },
+        {
+            "9": "0.75 cup white sugar"
+        },
+        {
+            "10": "8 slices bread, cut in half diagonally"
+        },
+        {
+            "11": "1 teaspoon butter"
+        },
+        {
+            "12": "8  sliced fresh strawberries"
+        },
+        {
+            "13": "1 tablespoon confectioners' sugar for dusting"
+        },
+        {
+            "14": "1 cup whipped cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 100 degrees F ( 40 degrees C)."
+        },
+        {
+            "2": "Heat mashed strawberries and 1/2 cup white sugar in a saucepan over medium heat."
+        },
+        {
+            "3": "Mix cornstarch and water together in a bowl, then stir into the strawberries."
+        },
+        {
+            "4": "Cook and stir until thickened, about 5 minutes. Reduce heat to low and simmer while preparing remaining ingredients, stirring occasionally."
+        },
+        {
+            "5": "Whisk together the milk and eggs in a bowl; set aside."
+        },
+        {
+            "6": "Mash cream cheese, vanilla extract, and 3/4 cup white sugar in a bowl until smooth."
+        },
+        {
+            "7": "Spread the cream cheese mixture over a triangle-shaped piece of bread, and top with another piece. Repeat with remaining bread and cream cheese mixture to make 8 triangle-shaped sandwiches."
+        },
+        {
+            "8": "Heat butter in a large skillet over medium heat."
+        },
+        {
+            "9": "Dip the sandwiches into the egg mixture, 2 or 3 at a time, and place in the skillet."
+        },
+        {
+            "10": "Cook until golden brown on both sides, about 3 minutes per side."
+        },
+        {
+            "11": "Transfer pan-fried sandwiches to a baking sheet and place in the preheated oven to keep warm while cooking remaining sandwiches."
+        },
+        {
+            "12": "To serve, top French toast with warm strawberry glaze and sliced fresh strawberries and sprinkle with confectioners' sugar. Serve with a dollop of whipped cream."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "436"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6363a25a3012005303c7f9480d890820%2F1663181862879C310C-13B2-4E54-972A-71700852332F.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9329580.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8106077.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9260121.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/1QZUbsnYV9nFenKhKTZ9aAVE6s8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1033153-13e1d44872eb43a6bac44fc0d98940bc.jpg"
+        }
+    ],
+    "main category": "flour"
+}

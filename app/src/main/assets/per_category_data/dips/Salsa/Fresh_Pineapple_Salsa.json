@@ -1,0 +1,84 @@
+{
+    "title": "Fresh Pineapple Salsa",
+    "Category": "Salsa",
+    "Ingredients": [
+        {
+            "1": "1 cup finely chopped fresh pineapple"
+        },
+        {
+            "2": "0.25 cup finely chopped red onion"
+        },
+        {
+            "3": "0.25 cup red bell pepper, chopped"
+        },
+        {
+            "4": "1  jalapeno pepper, seeded and minced"
+        },
+        {
+            "5": "1 tablespoon finely chopped fresh cilantro"
+        },
+        {
+            "6": "1 tablespoon lime juice"
+        },
+        {
+            "7": "1 clove garlic, minced (Optional)"
+        },
+        {
+            "8": "0.5 teaspoon white sugar"
+        },
+        {
+            "9": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine pineapple, red onion, bell pepper, jalapeno pepper, cilantro, lime juice, garlic, sugar, and salt. Stir to combine. Cover with plastic wrap and refrigerate for 1 hour so flavors can meld."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "22"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8200522.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7288297.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7167699.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5431286.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

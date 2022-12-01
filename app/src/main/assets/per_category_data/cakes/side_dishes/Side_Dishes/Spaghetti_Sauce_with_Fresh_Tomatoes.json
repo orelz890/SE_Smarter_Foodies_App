@@ -1,0 +1,87 @@
+{
+    "title": "Spaghetti Sauce with Fresh Tomatoes",
+    "Category": "Side Dishes",
+    "Ingredients": [
+        {
+            "1": "0.25 cup olive oil"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "0.5 teaspoon garlic powder"
+        },
+        {
+            "4": "4 pounds fresh tomatoes, peeled and chopped"
+        },
+        {
+            "5": "1 tablespoon white sugar"
+        },
+        {
+            "6": "1 tablespoon dried basil"
+        },
+        {
+            "7": "1 tablespoon dried parsley"
+        },
+        {
+            "8": "1 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a large skillet over medium heat. Add onion and garlic powder; cook and stir until onion is translucent, about 5 minutes."
+        },
+        {
+            "2": "Add tomatoes, sugar, basil, parsley, and salt; bring to a boil. Reduce heat and simmer, stirring occasionally, until sauce thickens, 1 to 2 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 quart"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "120"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc6d2369a72a1621157afce34c9b2c2be%2F166378601231361A8F-A73D-4A0F-BF62-7738614A548B.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc6d2369a72a1621157afce34c9b2c2be%2F16611123091661112281306732381659282766864.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc6d2369a72a1621157afce34c9b2c2be%2F1660786732image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9396344.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/4MJ-pPvOZBrwNvIRt0U-IdiZVqQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/254517-spaghetti-sauce-with-fresh-tomatoes-1x1-80-d14fe1e1a3ce4b01bb6afd5d4711855a.jpg"
+        }
+    ],
+    "main category": "side_dishes"
+}

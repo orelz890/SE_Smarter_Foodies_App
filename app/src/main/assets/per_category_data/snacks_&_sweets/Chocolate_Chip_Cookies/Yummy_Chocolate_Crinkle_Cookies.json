@@ -1,0 +1,90 @@
+{
+    "title": "Yummy Chocolate Crinkle Cookies",
+    "Category": "Chocolate Chip Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup all-purpose flour"
+        },
+        {
+            "2": "1 teaspoon baking powder"
+        },
+        {
+            "3": "0.5 cup butter, melted"
+        },
+        {
+            "4": "2 (1 ounce) squares semisweet chocolate, chopped"
+        },
+        {
+            "5": "1 cup white sugar"
+        },
+        {
+            "6": "2  eggs"
+        },
+        {
+            "7": "1 teaspoon vanilla extract"
+        },
+        {
+            "8": "1 cup semisweet chocolate chips"
+        },
+        {
+            "9": "0.25 cup confectioners' sugar for rolling"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Sift together the flour and baking powder; set aside. In a medium bowl, stir chocolate into melted butter until melted and smooth. Mix in the sugar, eggs and vanilla. Gradually blend in the sifted ingredients. Stir in the chocolate chips. Cover dough and chill for at least 2 hours or overnight."
+        },
+        {
+            "2": "Preheat oven to 350 degrees F (175 degrees C). Grease cookie sheets or line them with parchment paper. Roll the chilled dough into 1 inch balls and roll each ball in confectioners' sugar. Place cookies 2 inches apart onto the prepared cookie sheets."
+        },
+        {
+            "3": "Bake for 9 to 12 minutes in the preheated oven, until the tops are cracked. Remove from cookie sheets to cool on wire racks."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "9 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 48 mins"
+        },
+        {
+            "Total Time": " 2 hrs 12 mins"
+        },
+        {
+            "Servings": "36 "
+        },
+        {
+            "Yield": "3 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "95"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F219908.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F144929.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F135366.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

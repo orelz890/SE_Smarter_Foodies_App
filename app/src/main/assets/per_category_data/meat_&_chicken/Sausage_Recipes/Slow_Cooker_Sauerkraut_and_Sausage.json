@@ -1,0 +1,75 @@
+{
+    "title": "Slow Cooker Sauerkraut and Sausage",
+    "Category": "Sausage Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (20 ounce) can sauerkraut"
+        },
+        {
+            "2": "0.25 cup brown sugar"
+        },
+        {
+            "3": "0.5 pounds bratwurst sausages"
+        },
+        {
+            "4": "1 medium onion, sliced"
+        },
+        {
+            "5": "0.5 cup water, or as needed (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix sauerkraut and brown sugar together in a medium bowl."
+        },
+        {
+            "2": "Pour sauerkraut mixture into a slow cooker; arrange sausages and onion over top. Cook on High for 2 hours. Check for dryness, adding water as necessary."
+        },
+        {
+            "3": "Reduce the heat to Low and cook for 2 more hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "526"
+        },
+        {
+            "Fat": "46g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8074228.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F655a827e9b6e5e4014b65e5566584e51%2F7552788.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7aa07849c91fee6a3acdfbe80d788c98%2F7552769.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6410025.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

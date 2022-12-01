@@ -1,0 +1,81 @@
+{
+    "title": "Blackberry Crisp",
+    "Category": "Crisps and Crumbles",
+    "Ingredients": [
+        {
+            "1": "1 cup rolled oats"
+        },
+        {
+            "2": "1 cup brown sugar"
+        },
+        {
+            "3": "0.75 cup all-purpose flour, divided"
+        },
+        {
+            "4": "0.5 cup butter, softened"
+        },
+        {
+            "5": "4 cups fresh blackberries"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Combine oats, brown sugar, and 1/2 cup flour in a bowl. Cut butter into oat mixture using a pastry blender until mixture is moistened and crumbly."
+        },
+        {
+            "3": "Spread blackberries into an 8-inch square baking dish and mix in the remaining 1/4 cup flour until berries are coated. Sprinkle crumb topping over berries."
+        },
+        {
+            "4": "Bake in the preheated oven until golden brown, 35 to 40 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 8-inch square pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "318"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9387351.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9333483.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8525770.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8228278.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Strawberry Preserves I",
+    "Category": "Jams and Jellies",
+    "Ingredients": [
+        {
+            "1": "2 pounds fresh strawberries, hulled"
+        },
+        {
+            "2": "5 cups white sugar"
+        },
+        {
+            "3": "2 tablespoons vinegar"
+        },
+        {
+            "4": "1 pinch salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a stockpot, combine the strawberries, sugar, vinegar and salt. Bring to a rolling boil, and cook stirring frequently for 15 to 20 minutes, or until the temperature of the mixture has reached 220 degrees F (105 degrees C)."
+        },
+        {
+            "2": "Transfer the mixture to hot sterile jars, leaving 1/2 inch headspace, and seal. Process jars for 10 minutes in a water bath. Refrigerate jam once the seal is broken."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "40 "
+        },
+        {
+            "Yield": "5 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "104"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6024048.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2325025.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F419992.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

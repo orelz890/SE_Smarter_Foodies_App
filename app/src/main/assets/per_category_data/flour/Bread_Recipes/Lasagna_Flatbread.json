@@ -1,0 +1,93 @@
+{
+    "title": "Lasagna Flatbread",
+    "Category": "Bread Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (15 ounce) container ricotta cheese"
+        },
+        {
+            "2": "1 (8 ounce) package shredded mozzarella cheese, divided"
+        },
+        {
+            "3": "1 (3 ounce) package Parmesan cheese"
+        },
+        {
+            "4": "1  egg"
+        },
+        {
+            "5": "2 teaspoons Italian seasoning"
+        },
+        {
+            "6": "1 pound sausage"
+        },
+        {
+            "7": "0.5 (26 ounce) jar marinara sauce"
+        },
+        {
+            "8": "6  flatbreads"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Combine ricotta cheese, 1/2 of the mozzarella cheese, Parmesan cheese, egg, and Italian seasoning in a bowl."
+        },
+        {
+            "3": "Cook sausage in a skillet over medium heat until no longer pink, 5 to 10 minutes; drain. Stir in marinara sauce."
+        },
+        {
+            "4": "Spread 1/6 of the cheese mixture evenly on each flatbread; cover with sausage mixture. Top with remaining mozzarella cheese."
+        },
+        {
+            "5": "Bake in the preheated oven until cheese is melted and bubbly, 10 to 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "602"
+        },
+        {
+            "Fat": "37g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "44g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9426301.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7829719.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7742809.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6033954.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

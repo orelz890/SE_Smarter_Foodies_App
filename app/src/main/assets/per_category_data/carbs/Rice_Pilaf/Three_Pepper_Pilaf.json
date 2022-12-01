@@ -1,0 +1,78 @@
+{
+    "title": "Three Pepper Pilaf",
+    "Category": "Rice Pilaf",
+    "Ingredients": [
+        {
+            "1": "4  skinless chicken thighs"
+        },
+        {
+            "2": "3 cups chicken stock"
+        },
+        {
+            "3": "1  onion, chopped"
+        },
+        {
+            "4": "3 cloves garlic, chopped"
+        },
+        {
+            "5": "1 teaspoon ground turmeric"
+        },
+        {
+            "6": "4 ounces fresh mushrooms, sliced"
+        },
+        {
+            "7": "12 ounces uncooked white rice"
+        },
+        {
+            "8": "3  tomatoes, sliced"
+        },
+        {
+            "9": "1  red bell pepper, sliced"
+        },
+        {
+            "10": "1  green bell pepper, sliced"
+        },
+        {
+            "11": "1  yellow bell pepper, thinly sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large pot, boil chicken pieces in chicken stock, adding onion and garlic to stock before boiling. When chicken is cooked through, remove from stock and set aside. Add turmeric and stir in, then set stock aside."
+        },
+        {
+            "2": "In a large skillet, heat oil. Add mushrooms and saute for 1 minute. Add rice, stir for 2 minutes, then add stock. Let all simmer gently for 20 minutes. In the meantime, skin and slice tomatoes and add to pilaf mixture. Cut cooked chicken into bite size pieces and add to the skillet, along with the red, green and yellow bell peppers. Stir all together and simmer over low heat, stirring, until all liquid is absorbed and rice is separate and fluffy."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "467"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "83g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F615608.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F49552.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

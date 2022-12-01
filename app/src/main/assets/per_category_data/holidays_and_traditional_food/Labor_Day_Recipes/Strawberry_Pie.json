@@ -1,0 +1,93 @@
+{
+    "title": "Strawberry Pie",
+    "Category": "Labor Day Recipes",
+    "Ingredients": [
+        {
+            "1": "1 quart fresh strawberries, hulled"
+        },
+        {
+            "2": "1 (9 inch) pie crust, baked"
+        },
+        {
+            "3": "1 cup white sugar"
+        },
+        {
+            "4": "3 tablespoons cornstarch"
+        },
+        {
+            "5": "0.75 cup water"
+        },
+        {
+            "6": "0.5 cup heavy whipping cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Arrange 1/2 of strawberries in baked pastry shell. Place remaining strawberries in a medium saucepan."
+        },
+        {
+            "2": "Add sugar to the strawberries in the saucepan; place over medium heat and bring to a boil, stirring frequently."
+        },
+        {
+            "3": "Whisk cornstarch and water together in a small bowl. Gradually stir cornstarch mixture into boiling strawberry mixture. Reduce heat and simmer mixture until thickened, about 10 minutes, stirring constantly."
+        },
+        {
+            "4": "Pour cooked strawberry mixture over berries in pastry shell. Refrigerate until chilled and set, at least 3 hours."
+        },
+        {
+            "5": "Before serving, whip cream in a medium bowl until soft peaks form. Serve each slice of pie with a dollop of whipped cream."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "265"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1216324.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9274267.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9270092.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9207809.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/rwRQcLneVFamoZJvSm1izNYttq0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/401339-b2981622a9184595be8773ff9faac72b.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

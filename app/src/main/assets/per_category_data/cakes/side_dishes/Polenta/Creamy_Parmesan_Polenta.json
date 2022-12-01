@@ -1,0 +1,72 @@
+{
+    "title": "Creamy Parmesan Polenta",
+    "Category": "Polenta",
+    "Ingredients": [
+        {
+            "1": "1 (18 ounce) package polenta, cut into 1/2-inch cubes"
+        },
+        {
+            "2": "1 cup chicken broth"
+        },
+        {
+            "3": "0.5 cup grated Parmesan cheese"
+        },
+        {
+            "4": "1 teaspoon ground black pepper"
+        },
+        {
+            "5": "1 dash paprika"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir polenta and chicken broth together in a saucepan over medium heat; cook and stir until the polenta is heated through completely, about 5 minutes."
+        },
+        {
+            "2": "Remove pan from heat. Stir Parmesan cheese, black pepper, and paprika with the polenta mixture."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "533"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "87g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6d4b5545c463a2940544fca7e45f17aa%2F165456108602EF3E1E-B215-4D6E-8215-EDF367D7EE40.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8445304.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2210387.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

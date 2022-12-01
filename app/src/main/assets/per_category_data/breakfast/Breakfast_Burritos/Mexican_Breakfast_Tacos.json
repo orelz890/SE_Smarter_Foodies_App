@@ -1,0 +1,96 @@
+{
+    "title": "Mexican Breakfast Tacos",
+    "Category": "Breakfast Burritos",
+    "Ingredients": [
+        {
+            "1": "6 ounces chorizo sausage"
+        },
+        {
+            "2": "1 cooking spray"
+        },
+        {
+            "3": "6 large eggs"
+        },
+        {
+            "4": "0.25 cup milk"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "0.5 teaspoon pepper"
+        },
+        {
+            "7": "8 (6 inch) corn tortillas"
+        },
+        {
+            "8": "1 cup shredded Monterey Jack cheese"
+        },
+        {
+            "9": "0.5 cup salsa"
+        },
+        {
+            "10": "1 dash hot pepper sauce (e.g. Tabasco\u2122), or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large skillet over medium-high heat. Cook and stir sausage in the hot skillet until browned and crumbly, 5 to 7 minutes. Remove sausage to a plate. Drain and discard grease; wipe the skillet clean with a paper towel."
+        },
+        {
+            "2": "Place the same skillet over medium heat and grease with cooking spray. Whisk together eggs, milk, salt, and pepper in a medium bowl; pour into the prepared skillet. Cook and gently stir until scrambled and almost dry. Add sausage; continue to cook and stir until firm."
+        },
+        {
+            "3": "Meanwhile, warm a second skillet over high heat. Cook tortillas until hot and crispy on the edges, but still pliable, about 45 seconds per side."
+        },
+        {
+            "4": "Sprinkle Monterey Jack cheese evenly onto hot tortillas. Top each with scrambled eggs, salsa, and hot pepper sauce."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "537"
+        },
+        {
+            "Fat": "34g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe3a48b2701cf19253c275dcd3bad2f63%2F6248419.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fed8187a6fc449404ae8a9acda0b47f47%2F5480965.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4516130.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4130259.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/o1LqodP5C0D_mBd9FNCXVsfF408=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19492-authentic-mexican-breakfast-tacos-Caroline-C-1x1-1-0c1bfce805084fda90e7862d1853d81e.jpg"
+        }
+    ],
+    "main category": "breakfast"
+}

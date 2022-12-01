@@ -1,0 +1,90 @@
+{
+    "title": "Overnight French Toast II",
+    "Category": "French Toast",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons corn syrup"
+        },
+        {
+            "2": "0.5 cup butter"
+        },
+        {
+            "3": "1 cup packed brown sugar"
+        },
+        {
+            "4": "1 (1 pound) loaf French bread, sliced"
+        },
+        {
+            "5": "5  eggs"
+        },
+        {
+            "6": "0.5 cups milk"
+        },
+        {
+            "7": "1 teaspoon vanilla extract"
+        },
+        {
+            "8": "0.25 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine the corn syrup , butter, and brown sugar in a small saucepan and simmer until the sugar has melted. Pour this mixture over the bottom of a greased 9x13 inch casserole dish."
+        },
+        {
+            "2": "Place the bread slices over the sugar-butter mixture in the dish. In a bowl, beat together the eggs, milk, vanilla, and salt; pour this mixture over the bread. Cover the dish and let it stand in the refrigerator overnight."
+        },
+        {
+            "3": "The next morning, preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "4": "Uncover the pan and bake for 45 minutes. Serve while hot or warm or the French toast will harden in the pan. It can be reheated."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "4 to 6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "723"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "104g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9160475.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8952689.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8525861.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8105123.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

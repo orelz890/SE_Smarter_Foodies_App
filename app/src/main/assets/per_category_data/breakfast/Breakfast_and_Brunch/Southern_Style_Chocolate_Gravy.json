@@ -1,0 +1,84 @@
+{
+    "title": "Southern-Style Chocolate Gravy",
+    "Category": "Breakfast and Brunch",
+    "Ingredients": [
+        {
+            "1": "0.75 cup white sugar"
+        },
+        {
+            "2": "0.25 cup cocoa"
+        },
+        {
+            "3": "3 tablespoons all-purpose flour"
+        },
+        {
+            "4": "2 cups milk"
+        },
+        {
+            "5": "1 tablespoon butter, softened"
+        },
+        {
+            "6": "2 teaspoons vanilla"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk sugar, cocoa, and flour in a medium bowl until no lumps remain. Pour in milk and whisk until well-combined."
+        },
+        {
+            "2": "Transfer mixture to a saucepan; cook and stir over medium heat until it thickens to a gravy consistency, 7 to 10 minutes."
+        },
+        {
+            "3": "Remove from heat; stir in butter and vanilla. Serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "91"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffc49430615ea72e355c3485976bfecdc%2F1665554544620A4958C16-E0B1-446F-926C-EC2308EC0D74.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7bbc022ce10085fd4a5bd4deab1ede43%2F1663471238image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7bbc022ce10085fd4a5bd4deab1ede43%2F165616205316561620322222550305342674713168.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7bbc022ce10085fd4a5bd4deab1ede43%2F1643987780IMG_20220204_090910647_HDR.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/WIl3cTh8VLV20mCIjMUoJ7vbz9g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1128866-3d0f42d579464c1c8222cc3a591068c3.jpg"
+        }
+    ],
+    "main category": "breakfast"
+}

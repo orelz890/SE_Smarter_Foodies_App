@@ -1,0 +1,75 @@
+{
+    "title": "Chocolate-y Iced Mocha",
+    "Category": "Sugar-Free Recipes",
+    "Ingredients": [
+        {
+            "1": "0.25 cups cold coffee, divided"
+        },
+        {
+            "2": "1 envelope low-calorie hot cocoa mix"
+        },
+        {
+            "3": "1 ice cubes, or as needed"
+        },
+        {
+            "4": "0.5 cup unsweetened almond milk"
+        },
+        {
+            "5": "2 tablespoons sugar-free chocolate syrup, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat 1/4 cup coffee in microwave in a mug until warmed, about 30 seconds. Stir cocoa mix into the coffee until dissolved."
+        },
+        {
+            "2": "Fill a large glass with ice cubes. Pour 1 cup cold coffee and almond milk over the ice cubes; stir the cocoa mixture and chocolate syrup into the coffee and almond milk."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "1 mins"
+        },
+        {
+            "Total Time": "6 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 serving"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "105"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8381352.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3571807.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1033896.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc3ded8f540881e585fc1a46c7377214e%2F1019211.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Red Wine Vinaigrette",
+    "Category": "Salad Dressings",
+    "Ingredients": [
+        {
+            "1": "0.5 cup extra-virgin olive oil"
+        },
+        {
+            "2": "3 tablespoons red wine vinegar"
+        },
+        {
+            "3": "1 tablespoon maple syrup"
+        },
+        {
+            "4": "1 tablespoon Dijon mustard"
+        },
+        {
+            "5": "1 tablespoon minced shallot (Optional)"
+        },
+        {
+            "6": "0.5 teaspoon Italian seasoning"
+        },
+        {
+            "7": "1 salt and freshly ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine olive oil, red wine vinegar, maple syrup, Dijon mustard, shallot, Italian seasoning, salt, and pepper in a jar with a lid. Shake to combine until mixture is emulsified, about 20 seconds. Adjust salt and pepper, if needed."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "136"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "3g"
+        }
+    ],
+    "Images": [],
+    "main category": "salads"
+}

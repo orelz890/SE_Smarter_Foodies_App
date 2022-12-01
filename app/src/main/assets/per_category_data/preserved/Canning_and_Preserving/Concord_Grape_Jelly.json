@@ -1,0 +1,84 @@
+{
+    "title": "Concord Grape Jelly",
+    "Category": "Canning and Preserving",
+    "Ingredients": [
+        {
+            "1": "1.5 pounds Concord grapes"
+        },
+        {
+            "2": "0.5 cup water"
+        },
+        {
+            "3": "7 cups white sugar"
+        },
+        {
+            "4": "1 (3 ounce) pouch liquid pectin"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Sort and wash grapes; discard stems. Place grapes into a large kettle and crush them. Add water, cover, and bring to a boil over high heat. Reduce heat to low and simmer for 10 minutes. Remove from heat; pour juice into a strainer over a large bowl to extract juice. Allow juice to stand in a cool place 8 hours to overnight to prevent the formation of crystals in the jelly."
+        },
+        {
+            "2": "Strain juice through a double layer of damp cheesecloth."
+        },
+        {
+            "3": "Measure 4 cups juice into a large pot; stir in sugar and bring to a rolling boil. Stir in pectin and allow to boil for 1 minute. Remove from heat and skim off any foam on the surface."
+        },
+        {
+            "4": "Transfer jelly into hot sterile jars and top with sterile lids; process for 5 minutes in a boiling water bath."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 9 hrs"
+        },
+        {
+            "Servings": "64 "
+        },
+        {
+            "Yield": "8 pints"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "101"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3f1b9bdac84ea1288360d1591bcf8a35%2F1660891785IMG_20220819_013818652.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9412304.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9392461.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9345327.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/zmzHLxd2n4pINUZnFKfeLxJJYwM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1443847-b029d0d5bf8c4cc78ad625f1cccbebda.jpg"
+        }
+    ],
+    "main category": "preserved"
+}

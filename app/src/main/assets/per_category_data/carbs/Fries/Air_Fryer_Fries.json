@@ -1,0 +1,78 @@
+{
+    "title": "Air-Fryer Fries",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "1 pound potatoes, cut into 1/2-inch sticks (straight or ruffle cut)"
+        },
+        {
+            "2": "1 teaspoon vegetable oil"
+        },
+        {
+            "3": "0.25 teaspoon salt"
+        },
+        {
+            "4": "1/4 teaspoon seasoning (ideas below), or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cover potatoes with water and let soak for 30 minutes. Drain and pat dry with paper towels. Drizzle with oil; toss to coat."
+        },
+        {
+            "2": "Preheat the air fryer to 400 degrees F (200 degrees C)."
+        },
+        {
+            "3": "Arrange potatoes in a double layer in the fryer basket. Cook, tossing every 5 minutes, until golden brown, 15 to 20 minutes. Sprinkle with salt and desired seasoning."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "97"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9127152.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8948181.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7988520.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7532635.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

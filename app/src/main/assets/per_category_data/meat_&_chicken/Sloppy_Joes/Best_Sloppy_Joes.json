@@ -1,0 +1,84 @@
+{
+    "title": "Best Sloppy Joes",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1 cup ketchup (such as Heinz\u00ae)"
+        },
+        {
+            "3": "0.5 (12 ounce) bottle chili sauce (such as Heinz\u00ae)"
+        },
+        {
+            "4": "0.25 cup chopped onion"
+        },
+        {
+            "5": "0.25 cup chopped green bell pepper"
+        },
+        {
+            "6": "0.25 cup brown sugar"
+        },
+        {
+            "7": "0.5 teaspoon mustard powder"
+        },
+        {
+            "8": "1 hamburger buns"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease."
+        },
+        {
+            "2": "Mix ketchup, chili sauce, onion, green bell pepper, brown sugar, and mustard powder into ground beef; bring to a boil. Reduce heat and simmer until flavors have blended, about 15 minutes; serve on hamburger buns."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "349"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9343376.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6773283.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6239338.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3149888.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

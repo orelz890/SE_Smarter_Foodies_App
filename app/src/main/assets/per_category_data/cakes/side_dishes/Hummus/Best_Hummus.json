@@ -1,0 +1,81 @@
+{
+    "title": "Best Hummus",
+    "Category": "Hummus",
+    "Ingredients": [
+        {
+            "1": "1 (15 ounce) can garbanzo beans (chickpeas), drained"
+        },
+        {
+            "2": "3 tablespoons tahini"
+        },
+        {
+            "3": "2 tablespoons olive oil"
+        },
+        {
+            "4": "1 tablespoon fresh lemon juice"
+        },
+        {
+            "5": "0.25 cup water"
+        },
+        {
+            "6": "3 cloves garlic, crushed"
+        },
+        {
+            "7": "0.5 teaspoon ground cumin (Optional)"
+        },
+        {
+            "8": "1 pinch paprika"
+        },
+        {
+            "9": "1 sprig fresh parsley, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place garbanzo beans, tahini, olive oil, lemon juice, water, garlic, and cumin into a food processor and process until smooth, about 1 minute. Transfer to a bowl and sprinkle top of hummus with paprika and fresh parsley."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "32 "
+        },
+        {
+            "Yield": "2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "27"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8171057.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8090750.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7212291.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6784315.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Italian Pizza Dough",
+    "Category": "Pizza Dough and Crusts",
+    "Ingredients": [
+        {
+            "1": "0.5 teaspoons active dry yeast"
+        },
+        {
+            "2": "0.5 teaspoon white sugar"
+        },
+        {
+            "3": "0.5 cup lukewarm water"
+        },
+        {
+            "4": "2 cups sifted all-purpose flour"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "2 tablespoons olive oil"
+        },
+        {
+            "7": "1  egg, beaten"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir yeast and sugar into lukewarm water, using a fork. Let stand in a warm place until a creamy layer forms on top of the water, about 10 minutes."
+        },
+        {
+            "2": "Mix flour and salt in a large bowl. Mix olive oil into flour and stir for 2 minutes. Pour yeast mixture and beaten egg into flour mixture and stir to make a stiff dough. Turn dough out onto a floured work surface and knead until springy and smooth, about 8 minutes. Place dough into a floured bowl and cover with a piece of plastic wrap wiped with a thin film of olive oil."
+        },
+        {
+            "3": "Let dough rise until doubled, about 1 hour. Punch down and roll out to desired shape."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 pizza crust"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "208"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9065508.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8924461.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8782741.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8684119.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pizza"
+}

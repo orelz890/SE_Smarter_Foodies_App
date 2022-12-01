@@ -1,0 +1,75 @@
+{
+    "title": "Pan Fried Brussels Sprouts",
+    "Category": "Paleo Diet",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "2 teaspoons crushed garlic"
+        },
+        {
+            "3": "0.25  white onion, chopped"
+        },
+        {
+            "4": "1 pound trimmed Brussels sprouts"
+        },
+        {
+            "5": "1 salt and ground black pepper to taste"
+        },
+        {
+            "6": "1 pinch garlic powder, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a cast-iron skillet over medium-low heat. Add garlic and stir until golden brown and fragrant, about 2 to 3 minutes. Add onion and cook until soft, stirring often, about 5 minutes."
+        },
+        {
+            "2": "Add Brussels sprouts and cook until one side of the sprouts turns golden brown, 5 to 7 minutes. Stir to turn sprouts over and cook until evenly golden brown, another 5 to 7 minutes. Season with salt, black pepper, and garlic powder."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "87"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8810753.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7936838.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7638970.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7399324.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

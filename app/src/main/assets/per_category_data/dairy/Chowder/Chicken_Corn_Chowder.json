@@ -1,0 +1,80 @@
+{
+    "title": "Chicken Corn Chowder",
+    "Category": "Chowder",
+    "Ingredients": [
+        {
+            "1": "1  chicken carcass"
+        },
+        {
+            "2": "1  bay leaf"
+        },
+        {
+            "3": "2 tablespoons butter"
+        },
+        {
+            "4": "1  onion, diced"
+        },
+        {
+            "5": "3  shallots, diced"
+        },
+        {
+            "6": "2 cubes  chicken bouillon, crumbled"
+        },
+        {
+            "7": "2 tablespoons dried parsley"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        },
+        {
+            "9": "2  potatoes, peeled and diced"
+        },
+        {
+            "10": "0.5 cups frozen corn kernels"
+        },
+        {
+            "11": "2 tablespoons heavy cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place chicken carcass (and any leftover skin and meat and other bones) in a large pot and cover with cold water. Add bay leaf, and bring to a boil. Reduce heat, and simmer 60 to 90 minutes. Remove from heat, cool slightly, and strain. Remove chicken meat from carcass, and chop into bite-size pieces."
+        },
+        {
+            "2": "In a large saucepan over medium heat, melt butter. Cook onion and shallots in butter until translucent. Pour in strained broth and chicken meat and stir in bouillon, parsley, salt, pepper, potatoes and corn. Simmer 15 minutes, until potatoes are cooked and corn is tender. Remove from heat and stir in cream."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9291355e7afa6763c37f445d2af59519%2F165809749620220717_152818.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4933695.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0985f39404cb0c5a3e22c7c12dc18d4c%2F506918.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F17fc520d36561a612b86960cfca4cb1b%2F495419.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dairy"
+}

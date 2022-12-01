@@ -1,0 +1,75 @@
+{
+    "title": "Old Fashioned Fudge",
+    "Category": "Fudge",
+    "Ingredients": [
+        {
+            "1": "0.5 cup unsweetened cocoa powder"
+        },
+        {
+            "2": "2 cups white sugar"
+        },
+        {
+            "3": "0.25 teaspoon salt"
+        },
+        {
+            "4": "1 tablespoon light corn syrup"
+        },
+        {
+            "5": "1 cup milk"
+        },
+        {
+            "6": "1 tablespoon vanilla extract"
+        },
+        {
+            "7": "2 tablespoons butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium saucepan, stir together the cocoa powder, sugar and salt. Mix in corn syrup, and milk until well blended. Add butter, and heat to between 234 and 240 degrees F (112 to 116 degrees C), or until a small amount of syrup dropped into cold water forms a soft ball that flattens when removed from the water and placed on a flat surface. Stir occasionally."
+        },
+        {
+            "2": "Remove from heat, and beat with a wooden spoon until the mixture is thick and loses its gloss. Stir in vanilla, and pour into a buttered 9x9 inch baking dish. Let cool until set. Cut into small squares to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "50 "
+        },
+        {
+            "Yield": "50 squares"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "41"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc08c62a2417d626f4a6f10ec1f70bbf3%2F7544141.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7542138.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

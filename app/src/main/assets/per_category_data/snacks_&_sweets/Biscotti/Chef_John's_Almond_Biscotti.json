@@ -1,0 +1,120 @@
+{
+    "title": "Chef John's Almond Biscotti",
+    "Category": "Biscotti",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "1 teaspoon baking powder"
+        },
+        {
+            "3": "0.25 teaspoon fine salt"
+        },
+        {
+            "4": "3 tablespoons unsalted butter, room temperature"
+        },
+        {
+            "5": "1 cup white sugar"
+        },
+        {
+            "6": "1 tablespoon white sugar"
+        },
+        {
+            "7": "1 tablespoon olive oil"
+        },
+        {
+            "8": "2  large eggs"
+        },
+        {
+            "9": "0.25 teaspoon vanilla extract"
+        },
+        {
+            "10": "0.75 teaspoon almond extract"
+        },
+        {
+            "11": "0.5 cup whole roasted almonds"
+        },
+        {
+            "12": "0.5 cup chopped roasted almonds"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk flour, baking powder, and salt together in a mixing bowl."
+        },
+        {
+            "2": "Place butter, 1 cup plus 1 tablespoon sugar, olive oil in a separate mixing bowl. Mix together thoroughly until mixture has a creamy texture. Add 1 egg; mix into butter/sugar mixture. Whisk in 2nd egg, vanilla extract, and almond extract; whisk until smooth. Add flour mixture. Mix until flour is incorporated. Add whole almonds and chopped almonds; mix in evenly. Cover bowl with plastic wrap; refrigerate 30 minutes."
+        },
+        {
+            "3": "Preheat oven to 350 degrees F (175 degrees C). Line a rimmed baking sheet with a silicone mat."
+        },
+        {
+            "4": "Divide dough in half. Place each half on a length of plastic wrap and shape into a log. Wrap with the plastic wrap and press into a shape about 3 or 4 inches wide and about 1/2 inch high. Transfer both pieces to prepared baking sheet leaving about 3 or 4 inches of space between them to allow for spreading."
+        },
+        {
+            "5": "Bake in center of preheated oven until turning golden and a toothpick inserted into the center comes out clean, about 30 minutes. Let cool 15 minutes before slicing."
+        },
+        {
+            "6": "Reduce oven temperature to 325 degrees F (165 degrees C)."
+        },
+        {
+            "7": "Cut each piece at a slight angle into 1/2- to 1 -inch thick slices with a serrated knife. Transfer pieces back to baking sheet in a single layer. Bake 12 minutes; remove from oven and flip pieces over. Return pan to oven and bake until biscotti are golden brown and crunchy, about 20 minutes."
+        },
+        {
+            "8": "Transfer biscotti to a cooling rack; let cool to room temperature."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "45 mins"
+        },
+        {
+            "Total Time": " 2 hrs"
+        },
+        {
+            "Servings": "15 "
+        },
+        {
+            "Yield": "30 biscotti"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "200"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9181015.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8940137.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8879706.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9254073.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Poge0IUvDj9NL1E5S3wlZwctLNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5679265-870e665405d445cd963fa6e9c2c492d9.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Apple Cake IV",
+    "Category": "Spice Cake",
+    "Ingredients": [
+        {
+            "1": "5  apple - peeled, cored and sliced"
+        },
+        {
+            "2": "2 cups all-purpose flour"
+        },
+        {
+            "3": "0.5 teaspoon salt"
+        },
+        {
+            "4": "4 teaspoons ground cinnamon"
+        },
+        {
+            "5": "4 teaspoons baking powder"
+        },
+        {
+            "6": "4  eggs"
+        },
+        {
+            "7": "2 cups white sugar"
+        },
+        {
+            "8": "1 cup vegetable oil"
+        },
+        {
+            "9": "2 teaspoons vanilla extract"
+        },
+        {
+            "10": "1 cup chopped walnuts"
+        },
+        {
+            "11": "4 teaspoons white sugar"
+        },
+        {
+            "12": "1 teaspoon ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C) lightly grease and flour a 9x13 inch pan."
+        },
+        {
+            "2": "Sift together flour, salt, cinnamon and baking powder. Set aside."
+        },
+        {
+            "3": "In a large bowl, beat eggs and sugar for 15 minutes on high speed with an electric mixer. Add oil and blend in."
+        },
+        {
+            "4": "Add four mixture and mix well. Add vanilla. Fold in apples and nuts. Pour batter into 9x13 inch pan."
+        },
+        {
+            "5": "In a small bowl, mix 4 teaspoons sugar with 1 teaspoon cinnamon. Sprinkle over cake."
+        },
+        {
+            "6": "Bake at 350 degrees F (175 degrees C) for 50 to 60 minutes or until a toothpick inserted into center of cake comes out clean."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "1 - 9x13 inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "248"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd43d150573947f6a8080a0b3e174075d%2F1664696525070D2009E62-271F-4467-97C8-04BF5BB84468.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9324042.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9395189.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9184373.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

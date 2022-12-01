@@ -1,0 +1,69 @@
+{
+    "title": "Creamy Cordon Bleu Bake",
+    "Category": "Chicken Cordon Bleu",
+    "Ingredients": [
+        {
+            "1": "6  skinless, boneless chicken breasts"
+        },
+        {
+            "2": "1 (10.75 ounce) can  condensed cream of chicken soup"
+        },
+        {
+            "3": "1 (10.75 ounce) can  condensed cream of celery soup"
+        },
+        {
+            "4": "0.5 pound cubed ham steak"
+        },
+        {
+            "5": "1 cup crushed saltine crackers"
+        },
+        {
+            "6": "6 slices Swiss cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Place chicken breasts in a lightly greased 9x13 inch baking dish. Pour soups over the chicken. Then spread the ham around and over the soups. Top all with the cheese and cracker crumbs."
+        },
+        {
+            "3": "Bake at 375 degrees F (190 degrees C) for 50 minutes, making sure chicken is fully cooked."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "438"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "44g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8539982.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5cce0e91a7f52d75ece535a09b13a0c3%2F2187364.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F917141.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

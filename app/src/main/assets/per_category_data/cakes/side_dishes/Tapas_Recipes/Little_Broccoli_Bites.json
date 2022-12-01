@@ -1,0 +1,96 @@
+{
+    "title": "Little Broccoli Bites",
+    "Category": "Tapas Recipes",
+    "Ingredients": [
+        {
+            "1": "2 (10 ounce) packages frozen chopped broccoli"
+        },
+        {
+            "2": "6  eggs"
+        },
+        {
+            "3": "2 tablespoons dried minced onion"
+        },
+        {
+            "4": "1 teaspoon dried parsley"
+        },
+        {
+            "5": "0.5 teaspoon poultry seasoning"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "8": "1 cup grated Parmesan cheese"
+        },
+        {
+            "9": "2 cups dry bread crumbs"
+        },
+        {
+            "10": "0.5 cup margarine, softened"
+        },
+        {
+            "11": "0.25 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Cook broccoli according to package directions. Drain, and cool."
+        },
+        {
+            "2": "In a large bowl, whisk together the eggs, onion, parsley, poultry seasoning, salt and pepper. Stir in the bread crumbs, Parmesan cheese, margarine and milk. Mix in the broccoli last. Let the mixture stand for about 10 minutes. It should thicken, but if not, add a little more bread crumbs. Roll the mixture into small balls, and arrange on a greased baking sheet."
+        },
+        {
+            "3": "Bake for 15 to 20 minutes in the preheated oven, until firm and lightly toasted."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "60 bites"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "136"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7846784.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4855998.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4536642.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe5bbc1d1953884115cfbcb6704103d5d%2F1065773.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

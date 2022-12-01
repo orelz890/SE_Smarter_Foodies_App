@@ -1,0 +1,81 @@
+{
+    "title": "Better Baked Beans",
+    "Category": "Baked Beans",
+    "Ingredients": [
+        {
+            "1": "2 (28 ounce) cans baked beans"
+        },
+        {
+            "2": "1 small onion, chopped"
+        },
+        {
+            "3": "3 tablespoons pancake syrup"
+        },
+        {
+            "4": "2 tablespoons brown sugar"
+        },
+        {
+            "5": "2 tablespoons ketchup"
+        },
+        {
+            "6": "2 teaspoons prepared yellow mustard"
+        },
+        {
+            "7": "4 slices bacon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Stir together baked beans, onion, syrup, brown sugar, ketchup, and mustard in a large bowl. Pour into a 9x13-inch baking dish. Lay bacon slices across the top."
+        },
+        {
+            "3": "Bake in the preheated oven until the bacon is browned and the beans have thickened, 35 to 40 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "192"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9046489.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8103394.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7603871.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6997112.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

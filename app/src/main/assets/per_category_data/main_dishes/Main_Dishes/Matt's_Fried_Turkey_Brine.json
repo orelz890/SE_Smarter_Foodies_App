@@ -1,0 +1,102 @@
+{
+    "title": "Matt's Fried Turkey Brine",
+    "Category": "Main Dishes",
+    "Ingredients": [
+        {
+            "1": "1 gallon vegetable broth"
+        },
+        {
+            "2": "1 cup kosher salt"
+        },
+        {
+            "3": "0.5 cup light brown sugar"
+        },
+        {
+            "4": "1 tablespoon black peppercorns"
+        },
+        {
+            "5": "0.5 teaspoons whole allspice berries"
+        },
+        {
+            "6": "0.5 teaspoons chopped candied ginger"
+        },
+        {
+            "7": "1 gallon water with ice chunks"
+        },
+        {
+            "8": "1 medium red apple, cored and sliced"
+        },
+        {
+            "9": "0.5 medium onion, sliced"
+        },
+        {
+            "10": "1 (3 inch) cinnamon stick"
+        },
+        {
+            "11": "4 sprigs fresh rosemary"
+        },
+        {
+            "12": "6 leaves fresh sage"
+        },
+        {
+            "13": "1 cup water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine vegetable broth, kosher salt, brown sugar, peppercorns, allspice berries, and candied ginger in a large stockpot over medium-high heat. Stir to dissolve sugar and salt; bring mixture to a boil."
+        },
+        {
+            "2": "Remove from the heat and cool to room temperature. Cover and refrigerator until well chilled, at least 4 hours."
+        },
+        {
+            "3": "Remove from the refrigerator and add water with ice chunks, apple and onion slices, cinnamon stick, rosemary sprigs, and sage leaves. Stir in remaining 1 cup water and brine is ready to use."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 15 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 gallons"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "66"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc63b529a6663b0623024a4771d257407%2F7385759.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F488aad33727d77223f2229b29adc775e%2F7385773.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F605f622623baa3ac467d9df8d84b69e3%2F7382218.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

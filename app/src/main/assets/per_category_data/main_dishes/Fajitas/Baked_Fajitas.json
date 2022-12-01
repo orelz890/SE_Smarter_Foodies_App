@@ -1,0 +1,93 @@
+{
+    "title": "Baked Fajitas",
+    "Category": "Fajitas",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon cornstarch"
+        },
+        {
+            "2": "2 teaspoons chili powder"
+        },
+        {
+            "3": "1 teaspoon paprika"
+        },
+        {
+            "4": "1 teaspoon white sugar"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "0.5 teaspoon onion powder"
+        },
+        {
+            "7": "0.5 teaspoon garlic powder"
+        },
+        {
+            "8": "0.5 teaspoon ground cumin"
+        },
+        {
+            "9": "1 pound skinless, boneless chicken breasts, thinly sliced"
+        },
+        {
+            "10": "2  red bell peppers, thinly sliced"
+        },
+        {
+            "11": "1 large onion, thinly sliced"
+        },
+        {
+            "12": "12  corn tortillas"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "2": "Mix cornstarch, chili powder, paprika, sugar, salt, onion powder, garlic powder, and cumin together in a bowl."
+        },
+        {
+            "3": "Combine chicken, red bell peppers, and onion in a bowl; add cornstarch mixture and stir until evenly coated. Transfer to a baking dish."
+        },
+        {
+            "4": "Bake in the preheated oven until chicken is cooked through, about 30 minutes. Serve chicken mixture in corn tortillas."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "349"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5152369.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

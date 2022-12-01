@@ -1,0 +1,84 @@
+{
+    "title": "Pork Chops for the Slow Cooker",
+    "Category": "Pork Chops",
+    "Ingredients": [
+        {
+            "1": "6  boneless pork chops"
+        },
+        {
+            "2": "0.5 cup soy sauce"
+        },
+        {
+            "3": "0.25 cup ketchup"
+        },
+        {
+            "4": "0.25 cup brown sugar"
+        },
+        {
+            "5": "2 cloves garlic, crushed"
+        },
+        {
+            "6": "1 teaspoon ground ginger"
+        },
+        {
+            "7": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place pork chops in a slow cooker."
+        },
+        {
+            "2": "Combine soy sauce, ketchup, brown sugar, garlic, and ginger, and pour over pork chops."
+        },
+        {
+            "3": "Cover and cook on Low for 6 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 6 hrs"
+        },
+        {
+            "Total Time": " 6 hrs 5 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "146"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9367257.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8959738.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8387908.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8242599.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/iEZhUaR4Ji7FAkGKeQcE70vyovQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/239145-c30babc2ffb14d60918bfd88d68bee5b.jpg"
+        }
+    ],
+    "main category": "pork"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Maryland Crab Soup",
+    "Category": "High-Fiber Recipes",
+    "Ingredients": [
+        {
+            "1": "2 (14.5 ounce) cans stewed tomatoes"
+        },
+        {
+            "2": "3 cups water"
+        },
+        {
+            "3": "2 cups beef broth"
+        },
+        {
+            "4": "1 cup fresh lima beans"
+        },
+        {
+            "5": "1 cup frozen corn kernels"
+        },
+        {
+            "6": "1 cup sliced carrots"
+        },
+        {
+            "7": "2 tablespoons chopped onion"
+        },
+        {
+            "8": "2 tablespoons Old Bay Seasoning TM"
+        },
+        {
+            "9": "1 gallon water"
+        },
+        {
+            "10": "10  blue crab claws, steamed (Optional)"
+        },
+        {
+            "11": "1 pound blue crab crabmeat"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place stewed tomatoes, 3 cups water, beef broth, lima beans, corn, sliced carrots, chopped onion, and Old Bay seasoning in a 4-quart pot. Bring to a simmer over medium heat; cover and cook for 5 minutes."
+        },
+        {
+            "2": "Bring 1 gallon water to a boil in a large pot. Add crab claws and boil for 6 minutes; drain."
+        },
+        {
+            "3": "Stir crabmeat and boiled crab claws into tomato and vegetable mixture. Cover and simmer for 10 to 15 minutes. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "165"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8951714.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8749279.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8395202.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8370196.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

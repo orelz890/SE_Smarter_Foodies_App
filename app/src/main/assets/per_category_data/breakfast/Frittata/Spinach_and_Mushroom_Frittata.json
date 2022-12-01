@@ -1,0 +1,84 @@
+{
+    "title": "Spinach and Mushroom Frittata",
+    "Category": "Frittata",
+    "Ingredients": [
+        {
+            "1": "1 (10 ounce) package frozen chopped spinach, thawed and squeezed thoroughly to remove liquid"
+        },
+        {
+            "2": "4  eggs or equivalent egg substitute"
+        },
+        {
+            "3": "1 cup part-skim ricotta cheese"
+        },
+        {
+            "4": "0.75 cup freshly grated Parmesan cheese"
+        },
+        {
+            "5": "0.75 cup chopped portobello mushrooms"
+        },
+        {
+            "6": "0.5 cup finely chopped scallions with some green tops"
+        },
+        {
+            "7": "0.25 teaspoon dried Italian seasonings"
+        },
+        {
+            "8": "1 pinch Salt and pepper, to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "In a large bowl, whisk together all ingredients until well mixed. Spray a 9-inch pie plate with cooking spray and fill it with spinach mixture."
+        },
+        {
+            "3": "Bake for 30 minutes, or until browned and set. Let cool for 20 minutes, cut in wedges, and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "163"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9090692.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9062402.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9060646.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8992099.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

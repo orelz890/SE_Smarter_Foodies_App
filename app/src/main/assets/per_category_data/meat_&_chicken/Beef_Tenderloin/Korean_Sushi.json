@@ -1,0 +1,114 @@
+{
+    "title": "Korean Sushi",
+    "Category": "Beef Tenderloin",
+    "Ingredients": [
+        {
+            "1": "2 cups uncooked short-grain white rice"
+        },
+        {
+            "2": "2 cups water"
+        },
+        {
+            "3": "2 tablespoons cider vinegar"
+        },
+        {
+            "4": "2 leaves chard"
+        },
+        {
+            "5": "2  eggs, well beaten"
+        },
+        {
+            "6": "2 tablespoons soy sauce, divided"
+        },
+        {
+            "7": "3 tablespoons water"
+        },
+        {
+            "8": "1  onion, diced"
+        },
+        {
+            "9": "1 tablespoon vegetable oil"
+        },
+        {
+            "10": "0.75 pound beef tenderloin, minced"
+        },
+        {
+            "11": "1 (5 ounce) can tuna, drained"
+        },
+        {
+            "12": "1  carrot, julienned"
+        },
+        {
+            "13": "1  cucumber, julienned"
+        },
+        {
+            "14": "6 sheets nori (dry seaweed)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium saucepan bring 2 cups water and cider vinegar to a boil. Add rice and stir. Reduce heat, cover and simmer for 20 minutes, until rice grains are sticky and soft."
+        },
+        {
+            "2": "In a medium saucepan, place chard in enough water to cover. Bring to a boil, and cook until tender. Cut into thin strips."
+        },
+        {
+            "3": "Whisk the eggs with soy sauce and 3 tablespoons water. Pour into a medium skillet over medium heat. Cook until thickened. Remove from heat and cut into strips."
+        },
+        {
+            "4": "Heat the vegetable oil in a medium saucepan over medium high heat. Slowly cook and stir the onion until tender. Mix in the beef and 1 tablespoon soy sauce, and cook until evenly brown. Drain and set aside."
+        },
+        {
+            "5": "Preheat oven to 350 degrees F (175 degrees C). Place the nori sheets on a medium baking sheet, and heat in the preheated oven 1 to 2 minutes, until slightly crisp."
+        },
+        {
+            "6": "Place the nori sheets, one at a time , on a bamboo rolling mat. Line the nori sheets evenly with approximately 3/4 inch (2 cm) depth of rice, taking care not to let the rice cover the edges of the nori. Beginning at one end of the nori sheet, top the rice with a stick of carrot, a line of tuna, chard, egg, a cucumber slice, and a line of beef. Repeat until the food reaches approximately the middle of the nori sheet. Roll the sheets carefully and tightly. Seal with a grain or two of the sticky rice. Slice each roll into approximately 4 pieces and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "24 sushi pieces"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "492"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "58g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9001205.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7217666.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F493109.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F492649.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

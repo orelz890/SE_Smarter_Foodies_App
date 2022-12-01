@@ -1,0 +1,93 @@
+{
+    "title": "Spicy Slow-Cooked Beanless Chili",
+    "Category": "Chili",
+    "Ingredients": [
+        {
+            "1": "2 pounds ground beef"
+        },
+        {
+            "2": "2 (8 ounce) cans tomato sauce"
+        },
+        {
+            "3": "1 (14.5 ounce) can diced tomatoes"
+        },
+        {
+            "4": "1  onion, chopped"
+        },
+        {
+            "5": "2  jalapeno peppers, chopped"
+        },
+        {
+            "6": "3 tablespoons chili powder"
+        },
+        {
+            "7": "1 tablespoon cayenne pepper"
+        },
+        {
+            "8": "2 teaspoons salt"
+        },
+        {
+            "9": "2 teaspoons minced garlic"
+        },
+        {
+            "10": "1 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease."
+        },
+        {
+            "2": "Stir tomato sauce, diced tomatoes, onion, jalapeno peppers, chili powder, cayenne, salt, garlic, and black pepper together in the crock of a slow cooker; add ground beef and stir."
+        },
+        {
+            "3": "Cook on High for 6 1/2 hours (or on Low for 10 hours)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 6 hrs 35 mins"
+        },
+        {
+            "Total Time": " 6 hrs 45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "340"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8027632.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F07bd59b0fcef2bf346f97c4d5a48f210%2F7389764.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6966289.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6281846.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Blueberry Pound Cake",
+    "Category": "Pound Cake",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons unsalted butter, softened"
+        },
+        {
+            "2": "0.5 cups white sugar, divided"
+        },
+        {
+            "3": "3 cups all-purpose flour"
+        },
+        {
+            "4": "1 teaspoon baking powder"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "2 cups fresh blueberries"
+        },
+        {
+            "7": "1 cup unsalted butter, softened"
+        },
+        {
+            "8": "4 large eggs"
+        },
+        {
+            "9": "1 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 325 degrees F (165 degrees C). Grease a 10-inch fluted tube pan (such as Bundt) with 2 tablespoons softened butter. Sprinkle 1/4 cup sugar into the pan and tilt gently to coat."
+        },
+        {
+            "2": "Mix 2 3/4 cups flour, baking powder, and salt together in a bowl. Toss blueberries and remaining 1/4 cup flour together in another bowl until coated."
+        },
+        {
+            "3": "Cream remaining 2 cups sugar and 1 cup butter in a large bowl with an electric mixer until light and fluffy. Beat in eggs, one at a time, mixing well after each addition. Stir in vanilla. Gradually beat in flour mixture, then fold in floured blueberries. Pour batter into the prepared pan."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, 70 to 80 minutes. Let cool in pan for 10 minutes, then turn out onto a wire rack and cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 10 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "14 "
+        },
+        {
+            "Yield": "1 10-inch bundt cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "386"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "56g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F59c4713fc6ff76e39a0c0ffa9b39d498%2F16580259930716221625_HDR.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F59c4713fc6ff76e39a0c0ffa9b39d498%2F1646091936BACF860F-1EDA-4891-BCD8-A803850C6CE7.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9346683.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9339185.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "One-Pan Oven Mac and Cheese",
+    "Category": "Macaroni and Cheese",
+    "Ingredients": [
+        {
+            "1": "0.5 (8 ounce) package Fontina cheese"
+        },
+        {
+            "2": "0.5 (8 ounce) package sharp Cheddar cheese"
+        },
+        {
+            "3": "2 cups uncooked macaroni"
+        },
+        {
+            "4": "0.5 cups half-and-half"
+        },
+        {
+            "5": "1 salt and ground black pepper to taste"
+        },
+        {
+            "6": "0.25 cup shredded white Cheddar cheese"
+        },
+        {
+            "7": "0.25 cup shredded mozzarella cheese"
+        },
+        {
+            "8": "0.5 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Place blocks of Fontina and sharp Cheddar cheeses in the center of an ungreased, 9-inch square baking dish. Pour pasta into the dish, spreading evenly around the cheese. Pour half-and-half directly on top of the pasta and stir until evenly coated. Sprinkle with salt and pepper, then top with shredded white Cheddar and mozzarella cheeses, spreading evenly."
+        },
+        {
+            "3": "Bake in the preheated oven for 25 minutes. Pull the dish out of the oven, stir in milk, and mix until noodles, cheese, and sauce are evenly combined. Return to the oven and cook until golden and bubbly, about 25 minutes more."
+        },
+        {
+            "4": "Stir and serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "398"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9141332.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://www.allrecipes.com/thmb/4cSnasZ5hRFqsokbYB0C1245IIo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9141332_original-2000-cbd2039fbe58471792da638b448fc5d1.jpg"
+        }
+    ],
+    "main category": "dairy"
+}

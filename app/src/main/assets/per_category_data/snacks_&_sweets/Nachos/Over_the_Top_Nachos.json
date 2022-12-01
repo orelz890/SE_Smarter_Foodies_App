@@ -1,0 +1,84 @@
+{
+    "title": "Over the Top Nachos",
+    "Category": "Nachos",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1  onion, finely diced"
+        },
+        {
+            "3": "1 salt and pepper to taste"
+        },
+        {
+            "4": "2 cups shredded Cheddar cheese"
+        },
+        {
+            "5": "1 (16 ounce) can refried beans"
+        },
+        {
+            "6": "1 (14.5 ounce) package tortilla chips"
+        },
+        {
+            "7": "1  fresh jalapeno pepper, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large frying pan, brown ground beef with onion, salt and pepper over medium heat. Break the meat into very small pieces while it is cooking. After the meat is thoroughly cooked, drain off the grease."
+        },
+        {
+            "2": "Arrange chips on a microwavable platter. Spread beans over the chips. Layer with 1/2 of the cheese, the ground beef mixture, and remaining cheese. Arrange jalapeno peppers on top."
+        },
+        {
+            "3": "Microwave on medium-high until cheese has melted. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "829"
+        },
+        {
+            "Fat": "52g"
+        },
+        {
+            "Carbs": "58g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc11af4516ee49a37b07c2e11acdded35%2F7635763.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7300560.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F654faa2ab0801186364fae7afcd38f70%2F5200454.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9ce697e3c6a084c5e239fd5b1b25f4a8%2F3994675.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

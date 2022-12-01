@@ -1,0 +1,93 @@
+{
+    "title": "Smoked Salmon Frittata",
+    "Category": "Frittata",
+    "Ingredients": [
+        {
+            "1": "4 tablespoons olive oil"
+        },
+        {
+            "2": "0.25 medium onion, chopped"
+        },
+        {
+            "3": "1 salt and pepper to taste"
+        },
+        {
+            "4": "4 ounces pepper smoked salmon"
+        },
+        {
+            "5": "8  black olives, chopped"
+        },
+        {
+            "6": "6  eggs"
+        },
+        {
+            "7": "2 tablespoons milk"
+        },
+        {
+            "8": "2 tablespoons heavy cream"
+        },
+        {
+            "9": "0.5 (8 ounce) package cream cheese, cubed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Heat olive oil in an 8 inch oven-safe skillet over medium heat. Add onion, and season with a little salt and pepper. Cook, stirring until translucent. Add the salmon and olives; cook and stir briefly to release the flavors."
+        },
+        {
+            "3": "In a medium bowl, whisk together the eggs, milk and cream. Pour over the salmon and onion, and stir gently. Scatter cubes of cream cheese over the top. Cook over medium heat without stirring, until the edges appear firm."
+        },
+        {
+            "4": "Place the skillet in the preheated oven, and bake for 20 minutes, or until nicely browned and puffed. Flip onto a serving plate, and cut into wedges to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "401"
+        },
+        {
+            "Fat": "36g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8932139.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8298022.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8105159.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7768261.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

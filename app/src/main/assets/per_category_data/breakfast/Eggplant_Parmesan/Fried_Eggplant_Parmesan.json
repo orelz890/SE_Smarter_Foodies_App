@@ -1,0 +1,87 @@
+{
+    "title": "Fried Eggplant Parmesan",
+    "Category": "Eggplant Parmesan",
+    "Ingredients": [
+        {
+            "1": "1 canola oil for frying"
+        },
+        {
+            "2": "2 cups Italian seasoned bread crumbs"
+        },
+        {
+            "3": "2 cups all-purpose flour"
+        },
+        {
+            "4": "0.75 cup grated Parmesan cheese, divided"
+        },
+        {
+            "5": "3 large eggs, beaten"
+        },
+        {
+            "6": "1  eggplant, peeled and sliced"
+        },
+        {
+            "7": "1 (13.5 ounce) jar roasted garlic flavored spaghetti sauce (such as Ragu\u00ae Roasted Garlic Pasta Sauce)"
+        },
+        {
+            "8": "0.5 teaspoon garlic powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat canola oil to 350 degrees F (175 degrees C) in a large saucepan over medium-high heat."
+        },
+        {
+            "2": "Mix bread crumbs, flour, and 1/2 cup Parmesan cheese together in a bowl. Place eggs in a small bowl."
+        },
+        {
+            "3": "Dip eggplant slices in the eggs, then the bread crumb mixture. Drop into oil a few slices at a time until breading turns golden brown, about 2 1/2 minutes. Drain on paper towels."
+        },
+        {
+            "4": "Heat spaghetti sauce in a saucepan over medium heat until heated through, about 10 minutes. Stir in remaining 1/4 cup Parmesan cheese and garlic powder."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "13 mins"
+        },
+        {
+            "Total Time": "23 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "488"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "73g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9f3966ec3e6da27fb4a9836ba0f2effd%2F1669186449668fried-eggplant-parmesan.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8429967.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1123709.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

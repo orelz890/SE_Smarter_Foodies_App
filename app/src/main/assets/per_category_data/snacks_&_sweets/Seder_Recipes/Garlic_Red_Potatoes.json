@@ -1,0 +1,84 @@
+{
+    "title": "Garlic Red Potatoes",
+    "Category": "Seder Recipes",
+    "Ingredients": [
+        {
+            "1": "2 pounds red potatoes, quartered"
+        },
+        {
+            "2": "0.25 cup butter, melted"
+        },
+        {
+            "3": "2 teaspoons minced garlic"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "1  lemon, juiced"
+        },
+        {
+            "6": "1 tablespoon grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Place potatoes in an 8x8-inch baking dish."
+        },
+        {
+            "3": "Combine melted butter, garlic, salt, and lemon juice in a small bowl; pour over potatoes and stir to coat. Sprinkle Parmesan cheese over potatoes."
+        },
+        {
+            "4": "Bake, covered, in the preheated oven for 30 minutes. Uncover and bake until golden brown and tender when pierced with a fork, about 10 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "279"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F41ba42fb79da6d7b412b5e101c4f89a9%2F1656367263EA5A4EE0-2064-40D7-8047-FA48DAFB05BD.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7867277.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7867270.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7108416.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/sMgwobCxpFizQzZnElvTmI0KsFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/44536-4dcb4cd30297404e9db13619a60b5550.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Eggless Date Cake",
+    "Category": "Ramadan Recipes",
+    "Ingredients": [
+        {
+            "1": "0.75 cup milk"
+        },
+        {
+            "2": "18  dates, pitted and left whole"
+        },
+        {
+            "3": "0.5 cup brown sugar"
+        },
+        {
+            "4": "0.5 cup vegetable oil"
+        },
+        {
+            "5": "1 teaspoon vanilla extract (Optional)"
+        },
+        {
+            "6": "1 cup all-purpose flour"
+        },
+        {
+            "7": "1 teaspoon baking soda"
+        },
+        {
+            "8": "1 teaspoon ground cinnamon (Optional)"
+        },
+        {
+            "9": "0.25 cup chopped walnuts (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat milk in a saucepan until almost boiling and stir in dates; let soak for several hours, refrigerated. For best flavor, refrigerate dates and milk overnight."
+        },
+        {
+            "2": "Preheat oven to 350 degrees F (175 degrees C). Grease a medium loaf pan."
+        },
+        {
+            "3": "Transfer milk and dates to food processor, add brown sugar, and process into a smooth paste. Mix in vegetable oil and vanilla extract with a few pulses."
+        },
+        {
+            "4": "Whisk flour, baking soda, and cinnamon in a bowl until thoroughly combined. Pulse flour mixture, about 1/4 cup at a time, into the date paste until batter is smooth; do not overmix. Stir walnuts into batter with a fork and transfer to the prepared loaf pan."
+        },
+        {
+            "5": "Bake in the preheated oven until a toothpick inserted into the middle of the cake comes out clean, about 40 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "320"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8160779.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9ef1752cc458595128ea362473c742d2%2F7268705.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Marinated Baked Pork Chops",
+    "Category": "Pork Chops",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons vegetable oil"
+        },
+        {
+            "2": "2 tablespoons ketchup"
+        },
+        {
+            "3": "2 tablespoons brown sugar"
+        },
+        {
+            "4": "1 tablespoon Worcestershire sauce"
+        },
+        {
+            "5": "1 tablespoon soy sauce"
+        },
+        {
+            "6": "1 teaspoon lemon juice"
+        },
+        {
+            "7": "6  pork chops, trimmed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Thoroughly blend oil, ketchup, brown sugar, Worcestershire sauce, soy sauce, and lemon juice in a small bowl."
+        },
+        {
+            "3": "Place pork chops in a medium baking dish. Pour 1/2 of the sauce over chops."
+        },
+        {
+            "4": "Bake pork chops in the preheated oven for 30 minutes. Flip chop and cover with remaining sauce. Continue baking until the internal temperature of the chops reaches 145 degrees F (63 degrees C), about 30 minutes longer."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "166"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9345901.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9307838.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8632403.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8246051.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/SueGuDEStQ2Qa-_WFiPq8dp6EMY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/820973-c0d9a0a8fa584d44b7f321386bd5d5e0.jpg"
+        }
+    ],
+    "main category": "pork"
+}

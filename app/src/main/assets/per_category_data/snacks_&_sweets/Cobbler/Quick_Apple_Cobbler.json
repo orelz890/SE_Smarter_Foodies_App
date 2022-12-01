@@ -1,0 +1,90 @@
+{
+    "title": "Quick Apple Cobbler",
+    "Category": "Cobbler",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter, melted"
+        },
+        {
+            "2": "0.25 cups white sugar, divided"
+        },
+        {
+            "3": "1 cup all-purpose flour"
+        },
+        {
+            "4": "2 teaspoons baking powder"
+        },
+        {
+            "5": "0.75 cup milk"
+        },
+        {
+            "6": "1 (20 ounce) can sliced apples"
+        },
+        {
+            "7": "1 teaspoon ground cinnamon"
+        },
+        {
+            "8": "0.5 cup water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Pour butter into 9-inch round baking pan."
+        },
+        {
+            "2": "Mix 1 cup sugar, flour, and baking powder together in a bowl. Stir in milk. Pour batter into the baking pan."
+        },
+        {
+            "3": "Arrange apples over the batter; sprinkle remaining 1/4 cup sugar and cinnamon on top. Pour in water."
+        },
+        {
+            "4": "Bake in the preheated oven until golden brown, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "340"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F183642163a580643d32f703179cda688%2F1664735696304IMG_20220523_221700272_HDR.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9259440.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8672325.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8625530.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

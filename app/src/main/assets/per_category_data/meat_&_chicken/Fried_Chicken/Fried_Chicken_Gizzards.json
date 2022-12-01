@@ -1,0 +1,84 @@
+{
+    "title": "Fried Chicken Gizzards",
+    "Category": "Fried Chicken",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds chicken gizzards"
+        },
+        {
+            "2": "0.5 cup all-purpose flour"
+        },
+        {
+            "3": "0.5 tablespoons seasoned salt"
+        },
+        {
+            "4": "0.5 teaspoons ground black pepper"
+        },
+        {
+            "5": "0.5 teaspoons garlic powder (Optional)"
+        },
+        {
+            "6": "2 cups vegetable oil for frying"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Trim excess fat and gristle from chicken gizzards. Rinse under cold running water."
+        },
+        {
+            "2": "Place gizzards in a pot of cold water. Bring water and gizzards to a rolling boil; continue to boil for about 15 minutes. Strain gizzards using a colander. Allow to cool."
+        },
+        {
+            "3": "Meanwhile, combine the flour, seasoned salt, pepper, and garlic powder in a plastic bag. Shake well to combine."
+        },
+        {
+            "4": "Preheat vegetable oil in a skillet with a lid over medium-high heat to 375 degrees F (190 degrees C)."
+        },
+        {
+            "5": "Thoroughly coat gizzards with flour mixture and shake off excess. Gently lay the coated gizzards in the hot oil. Cook until brown. Reduce heat to medium; cover skillet with lid and cook another 10 minutes. Remove to paper towels to drain."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "287"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb9d39a9c719fda5666a31b6f357451e1%2F5592629.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2639510.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F327039.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

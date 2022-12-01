@@ -1,0 +1,65 @@
+{
+    "title": "Austin Margarita (aka Mexican Martini)",
+    "Category": "Margaritas",
+    "Ingredients": [
+        {
+            "1": "0.5 cup ice cubes"
+        },
+        {
+            "2": "1 (1.5 fluid ounce) jigger silver tequila"
+        },
+        {
+            "3": "1 (1.5 fluid ounce) jigger Cointreau"
+        },
+        {
+            "4": "2 teaspoons Grand Marnier liqueur"
+        },
+        {
+            "5": "2 (1.5 fluid ounce) jiggers freshly squeezed lime juice"
+        },
+        {
+            "6": "1 (1.5 fluid ounce) jigger freshly squeezed orange juice"
+        },
+        {
+            "7": "1 (1.5 fluid ounce) jigger freshly squeezed lemon juice"
+        },
+        {
+            "8": "3  pimento-stuffed green olives"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the ice cubes into a margarita glass. Pour in the tequila, Cointreau, and Grand Marnier. Pour in the lime juice, orange juice, and lemon juice to taste. Garnish with a pimento stuffed olive if desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 cocktail"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F4b730a74a97e76d6c185a8703c6587e5%2F832701.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F831516.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F704740.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F97927.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

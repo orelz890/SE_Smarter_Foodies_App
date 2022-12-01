@@ -1,0 +1,84 @@
+{
+    "title": "Feta Chicken Salad",
+    "Category": "Chicken Salad",
+    "Ingredients": [
+        {
+            "1": "3 cups diced cooked chicken"
+        },
+        {
+            "2": "2 large stalks  celery, diced"
+        },
+        {
+            "3": "1 medium red bell pepper, seeded and diced"
+        },
+        {
+            "4": "0.5 medium red onion, diced"
+        },
+        {
+            "5": "6 tablespoons mayonnaise"
+        },
+        {
+            "6": "6 tablespoons sour cream"
+        },
+        {
+            "7": "1 (4 ounce) package feta cheese, crumbled"
+        },
+        {
+            "8": "2 teaspoons dried dill weed"
+        },
+        {
+            "9": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix chicken, celery, and red onion together in a serving bowl."
+        },
+        {
+            "2": "Stir mayonnaise, sour cream, feta cheese, and dill together in a separate bowl. Pour over the chicken mixture, and stir to blend. Taste, and season with salt and pepper as needed."
+        },
+        {
+            "3": "Serve immediately, or refrigerate until serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "599"
+        },
+        {
+            "Fat": "45g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "41g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9242145.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9062673.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7990990.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7952002.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

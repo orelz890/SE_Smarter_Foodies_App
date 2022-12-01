@@ -1,0 +1,93 @@
+{
+    "title": "Simple Beef Pot Roast",
+    "Category": "Pot Roast",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon vegetable oil"
+        },
+        {
+            "2": "1.5 pounds beef chuck pot roast"
+        },
+        {
+            "3": "2 teaspoons salt"
+        },
+        {
+            "4": "1 teaspoon ground black pepper"
+        },
+        {
+            "5": "1 cup diced carrots"
+        },
+        {
+            "6": "1 cup diced celery"
+        },
+        {
+            "7": "1 cup diced onion"
+        },
+        {
+            "8": "0.25 cup butter"
+        },
+        {
+            "9": "1 teaspoon dried rosemary"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 275 degrees F (135 degrees C)."
+        },
+        {
+            "2": "Heat vegetable oil into a large oven-safe pot over medium-high heat. Season chuck roast with salt and black pepper, then cook in hot oil until brown on both sides; transfer to a plate."
+        },
+        {
+            "3": "Add carrots, celery, and onion into the pot. Cook and stir until vegetables start to release their juices, scraping any brown flavor bits off the bottom of the pot, about 3 minutes. Add butter, and cook until onions are translucent, about 5 minutes. Sprinkle in rosemary; return roast to the pot and cover."
+        },
+        {
+            "4": "Roast in the preheated oven until the chuck roast is tender, about 2 1/2 to 3 hours. Season vegetables with additional salt and black pepper, if desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 3 hrs 15 mins"
+        },
+        {
+            "Total Time": " 3 hrs 30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "507"
+        },
+        {
+            "Fat": "39g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9418893.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9222874.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9020450.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9046176.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/mdhwDGtWVBqG_8t-FM5grkKHCNw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2615013-04b2137b1b8e4a8dbd246a34a3499672.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

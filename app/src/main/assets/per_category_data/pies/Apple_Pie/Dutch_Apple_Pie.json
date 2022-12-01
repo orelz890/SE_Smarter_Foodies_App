@@ -1,0 +1,90 @@
+{
+    "title": "Dutch Apple Pie",
+    "Category": "Apple Pie",
+    "Ingredients": [
+        {
+            "1": "5 large Granny Smith apples - peeled, cored and sliced"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "2 tablespoons all-purpose flour"
+        },
+        {
+            "4": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "5": "2 tablespoons lemon juice"
+        },
+        {
+            "6": "0.5 cup white sugar"
+        },
+        {
+            "7": "0.5 cup all-purpose flour"
+        },
+        {
+            "8": "0.5 cup butter"
+        },
+        {
+            "9": "1 recipe pastry for a 9 inch single crust pie"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "2": "Combine 1/2 cup sugar, 2 tablespoons flour, and cinnamon. Pour over apples in crust. Sprinkle lemon juice on top."
+        },
+        {
+            "3": "Cut 1/2 cup sugar, 1/2 cup flour, and 1/2 cup butter or margarine together, and top pie with the mixture."
+        },
+        {
+            "4": "Take two 15 inch pieces of parchment paper and enclose pie; fold edges up 3 times. Place on a baking sheet."
+        },
+        {
+            "5": "Bake in preheated oven for 1 hour. Remove from oven, split parchment open and cool pie on wire rack. DO NOT open parchment covering while baking! Serve warm, or at room temperature."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 to 9 - inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "407"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "60g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9409183.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9399672.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9133755.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9116618.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/xcGlNPIzqp790coE4Dn8R3mtixY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/47722-dutch-apple-pie-KNITTINQUEEN-1x1-1-5e6e1d8604994a66b1d8c5fc68859866.jpg"
+        }
+    ],
+    "main category": "pies"
+}

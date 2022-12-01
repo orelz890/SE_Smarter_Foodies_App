@@ -1,0 +1,90 @@
+{
+    "title": "Bruschetta with Roasted Sweet Red Peppers",
+    "Category": "Bruschetta",
+    "Ingredients": [
+        {
+            "1": "16 ounces Italian bread"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "1 (16 ounce) jar marinated roasted sweet red peppers"
+        },
+        {
+            "4": "3 cloves garlic, chopped"
+        },
+        {
+            "5": "1  tomato, seeded and chopped"
+        },
+        {
+            "6": "1 cup chopped fresh basil"
+        },
+        {
+            "7": "1  onion, chopped (Optional)"
+        },
+        {
+            "8": "3 teaspoons balsamic vinegar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat your oven's broiler."
+        },
+        {
+            "2": "Slice bread loaf into 1-inch thick portions. Brush each slice on one side with olive oil. Broil, oil-side up, until barely golden. Remove from broiler pan and cool."
+        },
+        {
+            "3": "In a medium bowl, mix together roasted pepper, garlic, tomato, basil, and onion. Sprinkle mixture evenly on each toast portion. Drizzle with balsamic vinegar. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "143"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F368157.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F219643.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F210926.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F32613.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

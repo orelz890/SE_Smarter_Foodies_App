@@ -1,0 +1,96 @@
+{
+    "title": "Texas Jambalaya",
+    "Category": "Jambalaya",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil"
+        },
+        {
+            "2": "1 cup diced onion"
+        },
+        {
+            "3": "0.5 cup diced green bell pepper"
+        },
+        {
+            "4": "0.5 cup diced celery"
+        },
+        {
+            "5": "0.5 teaspoons chopped garlic"
+        },
+        {
+            "6": "1 cup converted long-grain white rice"
+        },
+        {
+            "7": "4 ounces smoked sausage, cut into slices"
+        },
+        {
+            "8": "4 ounces cooked ham, cut into bite-size pieces"
+        },
+        {
+            "9": "2 (10 ounce) cans diced tomatoes with green chile peppers"
+        },
+        {
+            "10": "1 cup chicken broth"
+        },
+        {
+            "11": "0.25 teaspoon dried thyme"
+        },
+        {
+            "12": "1  bay leaf"
+        },
+        {
+            "13": "2 (15 ounce) cans ranch-style beans, undrained"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large saucepan over medium heat. Saute onion, green pepper and celery, until onions are soft and translucent. Stir in garlic, and cook another minute. Add rice, sausage and ham. Cook 2 to 3 minutes, to coat the rice with oil, stirring frequently. Pour in tomatoes with green chiles and chicken broth. Season with thyme and bay leaf. Bring to a boil, then reduce heat. Cover, and simmer 20 to 25 minutes, or until liquid is absorbed. Stir in the beans, mix well and heat through."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "400"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9269523.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9189531.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8294154.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8080288.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "sea_fruit"
+}

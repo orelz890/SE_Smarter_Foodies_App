@@ -1,0 +1,87 @@
+{
+    "title": "Simple Baked Beans",
+    "Category": "Low-Cholesterol Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "2 (16 ounce) cans baked beans with pork"
+        },
+        {
+            "3": "0.25 cup molasses"
+        },
+        {
+            "4": "0.25 cup chopped onions"
+        },
+        {
+            "5": "4 tablespoons brown sugar"
+        },
+        {
+            "6": "2 tablespoons ketchup"
+        },
+        {
+            "7": "1 tablespoon prepared mustard"
+        },
+        {
+            "8": "2 slices bacon, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a casserole dish with cooking spray."
+        },
+        {
+            "2": "Mix together baked beans with pork, molasses, onions, brown sugar, ketchup, and mustard together in a large bowl. Transfer mixture to the prepared dish and top with chopped bacon."
+        },
+        {
+            "3": "Cover and bake in the preheated oven until thickened, about 3 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 15 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "176"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7761108.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3707925d2e1544a99299ed4553a760c9%2F3623798.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Faa7a4b71a63f4a8a2036d3ed4863c9b8%2F193099.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F185550.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/CC0w6Ztu2RvV4OE4SAbxveqG6dc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21655_Simple_Baked_Beans_1x1_CD_55670-1-f09a8d1aa71d4f738ddf147ca07c8024.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

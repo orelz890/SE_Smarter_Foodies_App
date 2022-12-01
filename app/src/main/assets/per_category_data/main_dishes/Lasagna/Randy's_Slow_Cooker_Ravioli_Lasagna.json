@@ -1,0 +1,99 @@
+{
+    "title": "Randy's Slow Cooker Ravioli Lasagna",
+    "Category": "Lasagna",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1 tablespoon chopped garlic"
+        },
+        {
+            "3": "1 teaspoon garlic powder"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "6": "2 (24 ounce) jars prepared pasta sauce"
+        },
+        {
+            "7": "1 teaspoon Italian seasoning"
+        },
+        {
+            "8": "1 teaspoon dried basil"
+        },
+        {
+            "9": "1 teaspoon dried oregano"
+        },
+        {
+            "10": "1 (25 ounce) package frozen cheese ravioli"
+        },
+        {
+            "11": "2 cups shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large skillet over medium-high heat. Cook and stir beef, garlic, garlic powder, salt, and pepper in the hot skillet until meat is browned and crumbly, 5 to 7 minutes. Drain and discard grease. Stir pasta sauce, Italian seasoning, basil, and oregano into ground beef mixture."
+        },
+        {
+            "2": "Ladle a generous layer of meat sauce into the bottom of a slow cooker; add a layer of ravioli. Ladle another layer of meat sauce over ravioli layer; alternate with remaining ravioli and meat sauce until all ingredients are used."
+        },
+        {
+            "3": "Cook on Low for 3 to 5 hours. Sprinkle ravioli mixture with mozzarella cheese and continue cooking until cheese is melted, 45 minutes to 1 hour more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 4 hrs 5 mins"
+        },
+        {
+            "Total Time": " 4 hrs 20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "544"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9385630.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9350111.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9174816.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9138769.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/oiIqpjR5T79MNzlhMEHl_82Yvaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2316691-ddb94cf9fbfe4264a52cf698fa822fa4.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

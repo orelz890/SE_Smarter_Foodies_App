@@ -1,0 +1,96 @@
+{
+    "title": "Turkey Spaghetti Zoodles",
+    "Category": "Ground Turkey",
+    "Ingredients": [
+        {
+            "1": "1 teaspoon extra-virgin olive oil"
+        },
+        {
+            "2": "0.25 pounds ground turkey breast"
+        },
+        {
+            "3": "1 cup diced green bell pepper"
+        },
+        {
+            "4": "1 tablespoon minced garlic"
+        },
+        {
+            "5": "2 teaspoons Italian seasoning"
+        },
+        {
+            "6": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "7": "0.25 teaspoon salt"
+        },
+        {
+            "8": "0.25 teaspoon red pepper flakes"
+        },
+        {
+            "9": "3 cups marinara sauce"
+        },
+        {
+            "10": "2 cups baby spinach leaves"
+        },
+        {
+            "11": "4  zucchini, cut into noodle-shape strands"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a large skillet over medium heat. Add turkey breast, green pepper, garlic, Italian seasoning, ground black pepper, salt, and red pepper flakes; cook and stir until turkey is lightly browned, 4 to 5 minutes."
+        },
+        {
+            "2": "Stir marinara sauce and baby spinach into the turkey mixture; cook and stir until marinara sauce is warm through, about 3 minutes."
+        },
+        {
+            "3": "Stir zucchini noodles into the sauce with tongs; cook and stir until the zucchini is slightly tender, 2 to 3 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "9 mins"
+        },
+        {
+            "Total Time": "24 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "5 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "301"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9319201.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9242727.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8679313.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8566825.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

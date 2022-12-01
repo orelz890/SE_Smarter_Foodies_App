@@ -1,0 +1,81 @@
+{
+    "title": "Chickpea Salad with Red Onion and Tomato",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "19 ounces garbanzo beans, drained"
+        },
+        {
+            "2": "2 tablespoons red onion, chopped"
+        },
+        {
+            "3": "2 cloves garlic, minced"
+        },
+        {
+            "4": "1  tomato, chopped"
+        },
+        {
+            "5": "0.5 cup chopped parsley"
+        },
+        {
+            "6": "3 tablespoons olive oil"
+        },
+        {
+            "7": "1 tablespoon lemon juice"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, combine the chickpeas, red onion, garlic, tomato, parsley, olive oil, lemon juice and salt and pepper to taste. Chill for 2 hours before serving. Taste and adjust seasoning. Serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "262"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9180670.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7890594.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6937790.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5767542.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

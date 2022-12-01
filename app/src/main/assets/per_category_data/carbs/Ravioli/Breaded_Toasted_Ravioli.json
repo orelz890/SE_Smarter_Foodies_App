@@ -1,0 +1,93 @@
+{
+    "title": "Breaded Toasted Ravioli",
+    "Category": "Ravioli",
+    "Ingredients": [
+        {
+            "1": "1  egg white"
+        },
+        {
+            "2": "1 teaspoon water"
+        },
+        {
+            "3": "1 cup bread crumbs"
+        },
+        {
+            "4": "1 teaspoon dried oregano"
+        },
+        {
+            "5": "1 teaspoon dried basil"
+        },
+        {
+            "6": "2 tablespoons freshly grated Parmesan cheese"
+        },
+        {
+            "7": "1 (25 ounce) package cheese ravioli, thawed if frozen"
+        },
+        {
+            "8": "1 cooking spray"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 400 degrees F (200 degrees C). Place a wire rack on a baking sheet."
+        },
+        {
+            "2": "Beat together the egg white and water in a small bowl. Mix bread crumbs, oregano, basil, and Parmesan cheese in a large bowl."
+        },
+        {
+            "3": "Dip each ravioli in the beaten egg, and then roll in the bread crumb mixture. Spray both sides of breaded ravioli with cooking spray; place on the wire rack."
+        },
+        {
+            "4": "Bake breaded ravioli in preheated oven until golden brown and crispy, 15 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "5 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "432"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "61g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9236511.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9065886.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8622766.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8462892.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/jwc_7d9-ePjm1hPTQg4AcH6bm8k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/775403-breaded-toasted-ravioli-footballgrl16-1x1-1-233fde6f5c364a71bbff23050727e0be.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

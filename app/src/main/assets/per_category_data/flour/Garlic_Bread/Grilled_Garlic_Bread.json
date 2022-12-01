@@ -1,0 +1,71 @@
+{
+    "title": "Grilled Garlic Bread",
+    "Category": "Garlic Bread",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons butter, softened"
+        },
+        {
+            "2": "1 clove garlic, crushed"
+        },
+        {
+            "3": "2 tablespoons grated Parmesan cheese"
+        },
+        {
+            "4": "1 ground black pepper to taste"
+        },
+        {
+            "5": "0.25 large baguette, sliced"
+        },
+        {
+            "6": "1 teaspoon chopped fresh parsley, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat a grill to high heat."
+        },
+        {
+            "2": "Mix together butter, garlic, Parmesan cheese, and pepper in a bowl."
+        },
+        {
+            "3": "Spread the butter mixture generously on the baguette slices."
+        },
+        {
+            "4": "Place slices on the preheated grill and cook until butter is melted and bread is lightly brown, about 30 seconds."
+        },
+        {
+            "5": "Sprinkle with parsley and serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "145"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [],
+    "main category": "flour"
+}

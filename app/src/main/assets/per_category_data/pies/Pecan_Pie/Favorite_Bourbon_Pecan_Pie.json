@@ -1,0 +1,93 @@
+{
+    "title": "Favorite Bourbon Pecan Pie",
+    "Category": "Pecan Pie",
+    "Ingredients": [
+        {
+            "1": "0.5 cup white sugar"
+        },
+        {
+            "2": "0.5 cup brown sugar"
+        },
+        {
+            "3": "3 tablespoons unsalted butter, melted"
+        },
+        {
+            "4": "0.5 cup light corn syrup"
+        },
+        {
+            "5": "3 large eggs, beaten"
+        },
+        {
+            "6": "2 tablespoons bourbon"
+        },
+        {
+            "7": "2 cups pecan halves"
+        },
+        {
+            "8": "1 (9 inch) unbaked deep-dish pie crust"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Mix white sugar, brown sugar, and butter together in a bowl. Stir in corn syrup, eggs, and bourbon, then fold in pecans. Pour mixture into the pie crust."
+        },
+        {
+            "3": "Bake in the preheated oven for 10 minutes. Reduce heat to 350 degrees F (175 degrees C) and continue to bake until the pie is set, 25 to 30 minutes more."
+        },
+        {
+            "4": "Remove from the oven and place on a wire rack. Allow to cool completely before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "533"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "56g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7d6acea9b726d9631d27f2cbef77d1e4%2F166933721795020221124_194329.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9426359.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9423679.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9423964.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/WHEFFQ8FMYVTpjiToYlE4PiA1EI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Favorite-Pecan-Pie-by-Supercook-2000-06f16367288e47978f19f2ba261b480b.jpg"
+        }
+    ],
+    "main category": "pies"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Jamaican Fried Dumplings",
+    "Category": "Biscuit",
+    "Ingredients": [
+        {
+            "1": "4 cups all-purpose flour"
+        },
+        {
+            "2": "2 teaspoons baking powder"
+        },
+        {
+            "3": "0.5 teaspoons salt"
+        },
+        {
+            "4": "0.5 cup butter, cut into cubes and softened"
+        },
+        {
+            "5": "0.5 cup cold water"
+        },
+        {
+            "6": "1 cup vegetable oil for frying"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix flour, baking powder, and salt together in a large bowl. Rub in butter until the mixture is crumbly. Mix in water, 1 tablespoon at a time, to form a firm dough; knead briefly."
+        },
+        {
+            "2": "Heat oil in a large heavy skillet over medium heat."
+        },
+        {
+            "3": "Break off pieces of dough and shape them into biscuit-like patties. Place just enough of the dumplings into the hot oil so they are not crowded; fry until golden brown, about 3 minutes per side. Remove from the pan and drain on paper towels before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "472"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "64g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F30af32e61e50a13f968ca009ac4dad27%2F1648400557image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8496850.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8254598.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8254600.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

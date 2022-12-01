@@ -1,0 +1,75 @@
+{
+    "title": "Sausage Gravy III",
+    "Category": "Gravy",
+    "Ingredients": [
+        {
+            "1": "1 pound ground pork sausage"
+        },
+        {
+            "2": "2 tablespoons margarine"
+        },
+        {
+            "3": "0.25 cup all-purpose flour"
+        },
+        {
+            "4": "4 cups milk"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large skillet over medium high heat, saute the sausage for 10 minutes, or until browned. Stir in the margarine until well blended, then stir in the flour until mixture is thick and pasty."
+        },
+        {
+            "2": "Reduce heat to medium low and slowly add the milk, stirring constantly, until mixture is thick and bubbly and to desired consistency. Season with salt and pepper to taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "671"
+        },
+        {
+            "Fat": "56g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429491.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8914146.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8874339.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8874342.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

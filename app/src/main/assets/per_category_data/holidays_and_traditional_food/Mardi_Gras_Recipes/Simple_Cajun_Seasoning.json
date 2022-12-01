@@ -1,0 +1,69 @@
+{
+    "title": "Simple Cajun Seasoning",
+    "Category": "Mardi Gras Recipes",
+    "Ingredients": [
+        {
+            "1": "1.0 tablespoons salt"
+        },
+        {
+            "2": "1 tablespoon dried oregano"
+        },
+        {
+            "3": "1 tablespoon paprika"
+        },
+        {
+            "4": "1 tablespoon cayenne pepper"
+        },
+        {
+            "5": "1 tablespoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine salt, oregano, paprika, cayenne pepper, and black pepper in a resealable plastic bag; shake well to mix."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "6 1/2 tablespoons"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "3"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7964674.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7736317.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5302632.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd9ca3ff5c833128d334876346246597e%2F4511354.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Authentic Huevos Rancheros",
+    "Category": "Breakfast Burritos",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons vegetable oil"
+        },
+        {
+            "2": "4 (6 inch) corn tortillas"
+        },
+        {
+            "3": "1 cup refried beans with green chilies"
+        },
+        {
+            "4": "1 teaspoon butter"
+        },
+        {
+            "5": "4  eggs"
+        },
+        {
+            "6": "1 cup shredded Cheddar cheese"
+        },
+        {
+            "7": "8 slices bacon, cooked and crumbled"
+        },
+        {
+            "8": "0.5 cup salsa (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a small skillet over medium-high heat. Fry tortillas one at a time until firm, but not crisp. Remove to paper towels to drain grease."
+        },
+        {
+            "2": "Meanwhile, combine the refried beans and butter in a microwave-safe dish. Cover, and cook in the microwave until heated through. When tortillas are done, fry eggs over easy in the skillet. Add more oil if the tortillas have absorbed it all."
+        },
+        {
+            "3": "Place tortillas onto plates, and spread a layer of beans on them. Top with cheese, a fried egg, crumbled bacon and if desired, salsa."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "494"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8361080.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4484086.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3772852.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3421739.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Wsay_g8ectkEy_5LUWS8sOffc1s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/578209-2795f18cbbbc4609bb2aa38166299b81.jpg"
+        }
+    ],
+    "main category": "breakfast"
+}

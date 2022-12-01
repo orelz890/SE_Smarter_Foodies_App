@@ -1,0 +1,90 @@
+{
+    "title": "Strawberry Vanilla Pancakes",
+    "Category": "Pancakes",
+    "Ingredients": [
+        {
+            "1": "1 cup all-purpose flour"
+        },
+        {
+            "2": "2 tablespoons brown sugar"
+        },
+        {
+            "3": "2 teaspoons baking powder"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "1 cup milk"
+        },
+        {
+            "6": "1 large egg"
+        },
+        {
+            "7": "2 tablespoons vegetable oil"
+        },
+        {
+            "8": "2 tablespoons vanilla extract"
+        },
+        {
+            "9": "1 cup chopped fresh strawberries"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir together flour, brown sugar, baking powder, and salt in a medium bowl. Pour in milk, egg, oil, and vanilla, and mix until well blended. Stir in strawberries."
+        },
+        {
+            "2": "Grease and heat a large skillet or griddle over medium heat. Pour batter into the pan in batches, using approximately 1/4 to 1/2 cup for each pancake, or desired size."
+        },
+        {
+            "3": "Flip with a spatula when bubbles appear in the center. Cook until golden brown on the other side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "8 pancakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "280"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9196336.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6822330.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8105282.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7735636.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

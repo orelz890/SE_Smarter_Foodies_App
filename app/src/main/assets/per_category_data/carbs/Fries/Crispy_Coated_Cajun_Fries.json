@@ -1,0 +1,81 @@
+{
+    "title": "Crispy Coated Cajun Fries",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "2 pounds russet potatoes, cut into fries"
+        },
+        {
+            "2": "1 cup corn flour"
+        },
+        {
+            "3": "2 tablespoons cornmeal"
+        },
+        {
+            "4": "2 tablespoons Cajun seasoning"
+        },
+        {
+            "5": "1 quart oil for deep frying"
+        },
+        {
+            "6": "1 salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place cut potatoes into a large bowl of cold water. Soak for 10 minutes. In a large resealable plastic bag, combine the corn flour, corn meal, and Cajun seasoning. Shake the bag to blend. Drain the potatoes, but leave them wet. Place the fries in the plastic bag with the seasoning, and shake to coat."
+        },
+        {
+            "2": "Heat the oil in a deep-fryer to 375 degrees F (190 degrees C)."
+        },
+        {
+            "3": "Cook fries in hot oil for 7 to 10 minutes, or until golden brown. Remove from the fryer to paper towels to drain. Season with a small amount of salt."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "342"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8152422.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8147031.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8131868.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8088946.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

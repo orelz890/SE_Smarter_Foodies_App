@@ -1,0 +1,96 @@
+{
+    "title": "Oatmeal Chocolate Chip Muffins",
+    "Category": "Muffins",
+    "Ingredients": [
+        {
+            "1": "0.25 cups quick cooking oats"
+        },
+        {
+            "2": "0.25 cups milk"
+        },
+        {
+            "3": "1 cup chopped pecans, divided"
+        },
+        {
+            "4": "0.75 cup packed brown sugar, divided"
+        },
+        {
+            "5": "0.75 cup semisweet chocolate chips"
+        },
+        {
+            "6": "0.5 cup vegetable oil"
+        },
+        {
+            "7": "1  egg"
+        },
+        {
+            "8": "0.25 cups all-purpose flour"
+        },
+        {
+            "9": "4 teaspoons baking powder"
+        },
+        {
+            "10": "1 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine oats and milk in a medium bowl; allow to stand for 15 minutes. Preheat the oven to 400 degrees F (205 degrees C). Grease a 12-cup muffin tin or line cups with paper liners."
+        },
+        {
+            "2": "Stir 1/2 of the chopped pecans, 1/2 cup of the brown sugar, chocolate chips, vegetable oil, and egg into oat and milk mixture."
+        },
+        {
+            "3": "Combine flour, baking powder, and salt in a separate bowl. Stir in oat mixture until just moist. Spoon batter into the prepared muffin cups, filling each 2/3 full. Sprinkle tops with remaining brown sugar and pecans."
+        },
+        {
+            "4": "Bake in the preheated oven until tops spring back when lightly pressed, about 20 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "345"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe3d78ff56e2d24b3cdb8aa6526d6a0b3%2F164718928616471892588177857329969567848295.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429319.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8968060.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8626842.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

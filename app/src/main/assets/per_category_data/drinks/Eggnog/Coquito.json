@@ -1,0 +1,99 @@
+{
+    "title": "Coquito",
+    "Category": "Eggnog",
+    "Ingredients": [
+        {
+            "1": "1 (12 fluid ounce) can evaporated milk"
+        },
+        {
+            "2": "2 large egg yolks, beaten"
+        },
+        {
+            "3": "1 (14 ounce) can cream of coconut"
+        },
+        {
+            "4": "1 (14 ounce) can sweetened condensed milk"
+        },
+        {
+            "5": "0.5 cup white rum"
+        },
+        {
+            "6": "0.5 cup water"
+        },
+        {
+            "7": "1 teaspoon vanilla extract"
+        },
+        {
+            "8": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "9": "0.25 teaspoon ground cloves"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine evaporated milk and egg yolks in the top of a double boiler over simmering water. Cook over the simmering water, stirring constantly, until mixture is thick enough to coat the back of a spoon, and reaches a temperature of 160 degrees F (71 degrees C)."
+        },
+        {
+            "2": "Transfer mixture to a blender. Add cream of coconut, sweetened condensed milk, rum, water, vanilla, cinnamon, and cloves; blend until combined, about 30 seconds."
+        },
+        {
+            "3": "Pour into glass bottles and chill 8 hours to overnight before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 15 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "354"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8876537.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8811438.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8811443.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7524550.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/J5Xqu5mA4P2Q68aThs74VJlQ30A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/44187-coquito-vat-4X3-1-8bf148c0ff1a4a5b88660a66c28aa05d.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/xO3mhFgvCKtRlOliTJuNg-hBzbo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Screen-Shot-2022-08-23-at-12.05.09-PM-a79488c57077402ca6d0d7d6d64addc5.png"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/JPKxmcW6G85pibT4UGKUPqKcRCA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/44187-coquito-vat-1X1-1-58f1ed6826bb44ddac7e99c45a7a2397.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

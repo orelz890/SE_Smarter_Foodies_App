@@ -1,0 +1,90 @@
+{
+    "title": "Special Deviled Eggs",
+    "Category": "Deviled Eggs",
+    "Ingredients": [
+        {
+            "1": "6  eggs"
+        },
+        {
+            "2": "0.25 cup mayonnaise"
+        },
+        {
+            "3": "2 tablespoons finely chopped onion"
+        },
+        {
+            "4": "3 tablespoons sweet pickle relish"
+        },
+        {
+            "5": "1 tablespoon prepared horseradish"
+        },
+        {
+            "6": "1 tablespoon prepared mustard"
+        },
+        {
+            "7": "1 paprika, for garnish"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place eggs in a medium saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel and cut lengthwise."
+        },
+        {
+            "2": "Remove yolks from eggs. In a medium bowl, mash the yolks and mix together with mayonnaise, onion, sweet pickle relish, horseradish and mustard."
+        },
+        {
+            "3": "With a fork or pastry bag, fill the egg halves with the yolk mixture. Garnish with paprika, salt and pepper. Chill until serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "12 mins"
+        },
+        {
+            "Total Time": "22 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "151"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9133315.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb395b7dc92ac2293af0d7703a7e576a8%2F7544240.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7272404.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6507292.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/hVmdvPO3NXWx0PWo1P9Fh2RlOfQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4526971-special-deviled-eggs-Christina-1x1-1-53e5ee3f1690476aad46db3ae7afc50b.jpg"
+        }
+    ],
+    "main category": "breakfast"
+}

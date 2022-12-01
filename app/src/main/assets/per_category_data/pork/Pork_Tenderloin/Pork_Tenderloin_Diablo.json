@@ -1,0 +1,102 @@
+{
+    "title": "Pork Tenderloin Diablo",
+    "Category": "Pork Tenderloin",
+    "Ingredients": [
+        {
+            "1": "1 (1 pound) whole pork tenderloin"
+        },
+        {
+            "2": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "3": "2 teaspoons vegetable oil"
+        },
+        {
+            "4": "0.5 cup chicken broth"
+        },
+        {
+            "5": "2 tablespoons heavy cream"
+        },
+        {
+            "6": "1 tablespoon extra-hot prepared horseradish"
+        },
+        {
+            "7": "1 tablespoon Dijon mustard"
+        },
+        {
+            "8": "0.25 teaspoon cayenne pepper"
+        },
+        {
+            "9": "1 tablespoon cold butter"
+        },
+        {
+            "10": "1 teaspoon chopped fresh chives"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C). Season pork with salt and pepper."
+        },
+        {
+            "2": "Heat oil in an ovenproof skillet over high heat. Cook pork until browned on one side, 3 to 4 minutes. Turn over pork and transfer the skillet to the preheated oven. Cook until pork is browned and still slightly pink in the center, 20 to 25 minutes. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C). Transfer pork to a plate."
+        },
+        {
+            "3": "Remove any excess oil from the skillet and place it over medium-high heat. Pour in chicken broth and bring to a boil, scraping any browned bits off of the bottom of the pan. Whisk in cream, horseradish, Dijon mustard, and cayenne pepper. Continue cooking until the mixture is reduced to a thick sauce, 3 to 4 minutes. Remove from heat and whisk in cold butter. Stir in chives."
+        },
+        {
+            "4": "Slice pork into 1/2-inch slices and serve topped with sauce."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "3 "
+        },
+        {
+            "Yield": "3 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "235"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F94d3bd7560d232e214da1a986eaed568%2F1645811003Pork%2520Tenderloin.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9401471.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9340279.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9150467.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/gKBRhG5aUW45BALMBZqtHjWBSE8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1323683-d697ebcc9f5242e984a51bca29b49085.jpg"
+        }
+    ],
+    "main category": "pork"
+}

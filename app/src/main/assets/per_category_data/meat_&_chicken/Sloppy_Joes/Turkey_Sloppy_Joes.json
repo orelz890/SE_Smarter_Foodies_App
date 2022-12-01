@@ -1,0 +1,99 @@
+{
+    "title": "Turkey Sloppy Joes",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "1.0 pounds ground turkey"
+        },
+        {
+            "2": "0.5 cup chopped onion"
+        },
+        {
+            "3": "0.5 cup chopped green bell pepper"
+        },
+        {
+            "4": "0.5 cup chopped tomato"
+        },
+        {
+            "5": "1 cup no-salt-added ketchup"
+        },
+        {
+            "6": "7 tablespoons barbeque sauce"
+        },
+        {
+            "7": "2 tablespoons prepared yellow mustard"
+        },
+        {
+            "8": "1 tablespoon vinegar"
+        },
+        {
+            "9": "0.5 teaspoon celery seed"
+        },
+        {
+            "10": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "11": "0.5 teaspoon red pepper flakes, or to taste"
+        },
+        {
+            "12": "8  hamburger bun, split and toasted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a nonstick skillet over medium heat. Cook and stir turkey, onion, bell pepper, and tomato in the hot skillet until turkey is crumbly and no longer pink, about 5 minutes."
+        },
+        {
+            "2": "Stir ketchup, barbeque sauce, mustard, vinegar, celery seed, black pepper, and red pepper flakes into turkey in the skillet. Reduce heat to low and simmer, stirring occasionally, for 10 minutes."
+        },
+        {
+            "3": "Serve turkey mixture on toasted hamburger buns."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 sandwiches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "393"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "33g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9042096.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8523150.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8397963.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8304525.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

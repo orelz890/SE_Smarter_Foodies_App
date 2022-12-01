@@ -1,0 +1,84 @@
+{
+    "title": "Gnocchi with Sage-Butter Sauce",
+    "Category": "Dumplings",
+    "Ingredients": [
+        {
+            "1": "2 (12 ounce) packages potato gnocchi"
+        },
+        {
+            "2": "0.25 cup butter"
+        },
+        {
+            "3": "1 clove garlic, minced"
+        },
+        {
+            "4": "1 teaspoon dried sage"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "0.25 cup grated Parmesan cheese"
+        },
+        {
+            "7": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "8": "2 tablespoons grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil over high heat. Add gnocchi pasta and cook until they float to the surface, 2 to 3 minutes; drain."
+        },
+        {
+            "2": "Melt butter in a skillet over medium heat. Stir in garlic and cook until softened and golden brown, about 4 minutes. Stir in sage and salt. Add cooked gnocchi, 1/4 cup Parmesan cheese, and pepper; toss gently to combine."
+        },
+        {
+            "3": "Sprinkle with 2 tablespoons Parmesan cheese to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "768"
+        },
+        {
+            "Fat": "52g"
+        },
+        {
+            "Carbs": "62g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3a5d994edee71472d9f6dc7a4e4b1cd4%2F165421909987CA9210-ADDE-4CCB-A47F-4A9CAF84974F.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9204471.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8199729.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7156160.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

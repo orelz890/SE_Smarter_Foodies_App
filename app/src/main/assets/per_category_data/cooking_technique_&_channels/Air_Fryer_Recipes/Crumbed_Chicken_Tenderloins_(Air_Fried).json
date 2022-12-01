@@ -1,0 +1,81 @@
+{
+    "title": "Crumbed Chicken Tenderloins (Air Fried)",
+    "Category": "Air Fryer Recipes",
+    "Ingredients": [
+        {
+            "1": "1 large egg"
+        },
+        {
+            "2": "0.5 cup dry bread crumbs"
+        },
+        {
+            "3": "2 tablespoons vegetable oil"
+        },
+        {
+            "4": "8  chicken tenderloins"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an air fryer to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Whisk egg in a small bowl. Mix bread crumbs and oil together in a second bowl until mixture becomes loose and crumbly."
+        },
+        {
+            "3": "Dip each chicken tenderloin into the bowl of egg; shake off any residual egg. Dip chicken into crumb mixture, making sure it is evenly and fully covered. Lay chicken tenderloins into the basket of the air fryer."
+        },
+        {
+            "4": "Air-fry until no longer pink in the center, about 12 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "12 mins"
+        },
+        {
+            "Total Time": "27 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "8 tenderloins"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "253"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9438183.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9407292.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8202616.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7889274.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/774d_IdST52R0OVaAGHUf4jaJHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/260625-crumbed-chicken-tenderloins-air-fried-Allrecipes-Magazine-1x1-1-f6ea17076e53480da8efc734915afc41.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

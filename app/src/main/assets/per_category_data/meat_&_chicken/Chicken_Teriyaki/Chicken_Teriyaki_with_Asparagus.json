@@ -1,0 +1,87 @@
+{
+    "title": "Chicken Teriyaki with Asparagus",
+    "Category": "Chicken Teriyaki",
+    "Ingredients": [
+        {
+            "1": "0.75 cup honey teriyaki sauce"
+        },
+        {
+            "2": "0.25 cup white wine"
+        },
+        {
+            "3": "4  skinless, boneless chicken breast halves"
+        },
+        {
+            "4": "16 spears fresh asparagus"
+        },
+        {
+            "5": "4 slices Swiss cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, mix the honey teriyaki sauce and wine. Place chicken in the bowl, and coat with the marinade. Cover, and marinate in the refrigerator at least 1 hour (it is best if you can marinate overnight)."
+        },
+        {
+            "2": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "3": "Discard marinade, and arrange chicken breasts in a baking dish. Bake 15 minutes in the preheated oven, until almost done."
+        },
+        {
+            "4": "Place the asparagus in a pot fitted with a steamer basket over 1 inch of boiling water, and steam 5 minutes, until tender."
+        },
+        {
+            "5": "Place 4 asparagus spears on each chicken breast, and top each breast with a slice of Swiss cheese. Return to oven, and continue baking 10 minutes, or until cheese is melted and chicken juices run clear."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "312"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "37g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9174613.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9170638.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9160170.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7b6b8ddda5273c866fd0cb908cc44193%2F393167.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

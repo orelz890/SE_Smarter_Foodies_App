@@ -1,0 +1,78 @@
+{
+    "title": "Badische Schupfnudeln (Potato Noodles)",
+    "Category": "Homemade Pasta",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds russet potatoes"
+        },
+        {
+            "2": "0.5 cup all-purpose flour"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "1 tablespoon chopped fresh parsley"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "0.25 teaspoon freshly ground nutmeg"
+        },
+        {
+            "7": "0.25 cup lard or other cooking fat"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place whole potatoes in their skins into a large pot of boiling water; boil for 25 to 30 minutes. Remove potatoes, and discard water. When cool enough to handle, peel potatoes, and place on a lightly floured surface. Mash potatoes with a rolling pin."
+        },
+        {
+            "2": "Place mashed potatoes into a large bowl. Stir in flour, egg, parsley, salt, and nutmeg. Knead well to form a smooth dough. Then roll out the dough to a thickness of about 1/2 inch. Cut flattened dough into thin strips, about 1 1/2 inches long. Gently roll out the strips, or stretch them until the ends taper. Set aside for 15 minutes."
+        },
+        {
+            "3": "In a large skillet, heat lard over medium heat. Place the potato strips into the skillet, and fry until golden brown on both sides."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "215"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7605098.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F316078.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

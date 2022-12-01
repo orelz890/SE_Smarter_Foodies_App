@@ -1,0 +1,72 @@
+{
+    "title": "Apple Pie IV",
+    "Category": "Apple Pie",
+    "Ingredients": [
+        {
+            "1": "2 (9 inch)  pie shell"
+        },
+        {
+            "2": "10  apple - peeled, cored and sliced"
+        },
+        {
+            "3": "0.25 cup white sugar"
+        },
+        {
+            "4": "1 tablespoon ground cinnamon"
+        },
+        {
+            "5": "0.5 teaspoon ground nutmeg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Place sliced apples in a large pot. Sprinkle with sugar, cinnamon, and nutmeg. Mix well and cook over low heat, stirring frequently, until apples are tender but not mushy."
+        },
+        {
+            "3": "Pour apple mixture into pastry-lined pie pan. Cover with second pastry shell. Seal edges and cut steam vents in top."
+        },
+        {
+            "4": "Bake in preheated oven for 30 to 40 minutes, until crust is golden brown."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "279"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3615180.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F864977.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F149868.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F54227.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

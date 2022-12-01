@@ -1,0 +1,99 @@
+{
+    "title": "Colleen's Slow Cooker Jambalaya",
+    "Category": "Jambalaya",
+    "Ingredients": [
+        {
+            "1": "1 (28 ounce) can diced tomatoes with juice"
+        },
+        {
+            "2": "1 pound skinless, boneless chicken breast halves - cut into 1 inch cubes"
+        },
+        {
+            "3": "1 pound andouille sausage, sliced"
+        },
+        {
+            "4": "1 large onion, chopped"
+        },
+        {
+            "5": "1 large green bell pepper, chopped"
+        },
+        {
+            "6": "1 cup chopped celery"
+        },
+        {
+            "7": "1 cup chicken broth"
+        },
+        {
+            "8": "2 teaspoons dried oregano"
+        },
+        {
+            "9": "2 teaspoons dried parsley"
+        },
+        {
+            "10": "2 teaspoons Cajun seasoning"
+        },
+        {
+            "11": "1 teaspoon cayenne pepper"
+        },
+        {
+            "12": "0.5 teaspoon dried thyme"
+        },
+        {
+            "13": "1 pound frozen cooked shrimp without tails"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix tomatoes with juice, chicken, sausage, onion, green bell pepper, celery, and broth in a slow cooker. Season with oregano, parsley, Cajun seasoning, cayenne pepper, and thyme."
+        },
+        {
+            "2": "Cover and cook on Low for 7 to 8 hours, or on High for 3 to 4 hours. Stir in the shrimp during the last 30 minutes of cook time."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 20 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "235"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9398623.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9295929.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9203079.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9176308.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/oKXRqiDoqAakBGIX2gE1cYWy2nw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73634-collens-slow-cooker-jambalaya-ddmfs-1x1-1006-ea60cc76057f448888cdbf077ed8956e.jpg"
+        }
+    ],
+    "main category": "sea_fruit"
+}

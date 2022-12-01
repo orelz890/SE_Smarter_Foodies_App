@@ -1,0 +1,81 @@
+{
+    "title": "Watermelon Gazpacho",
+    "Category": "Gazpacho",
+    "Ingredients": [
+        {
+            "1": "2 cups 1/4-inch-diced watermelon"
+        },
+        {
+            "2": "2 cups orange juice"
+        },
+        {
+            "3": "2 tablespoons extra-virgin olive oil"
+        },
+        {
+            "4": "1  seedless cucumber, cut into 1/4-inch dice"
+        },
+        {
+            "5": "1 small yellow bell pepper, seeded and cut into 1/4-inch dice"
+        },
+        {
+            "6": "1 small onion, cut into 1/4-inch dice"
+        },
+        {
+            "7": "2 medium garlic cloves, minced"
+        },
+        {
+            "8": "1 small jalapeno pepper, seeded and minced (Optional)"
+        },
+        {
+            "9": "3 tablespoons fresh lime juice"
+        },
+        {
+            "10": "2 tablespoons chopped fresh parsley, basil or cilantro"
+        },
+        {
+            "11": "1 Salt and freshly ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Process 1/2 cup of watermelon, along with the orange juice and oil, in a blender or food processor until pureed. Transfer to a medium bowl, along with remaining ingredients. Season with salt and pepper to taste. Refrigerate until ready to serve. (Can be made several hours before serving.)"
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "110"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8169729.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcfb467a47abf2d3b0124bf474dd571ab%2F6839023.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F31e7c6b93a0e650348de6aadc913505c%2F4531618.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fba5bcfbc5bedbf632e3bead65e960387%2F3785544.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

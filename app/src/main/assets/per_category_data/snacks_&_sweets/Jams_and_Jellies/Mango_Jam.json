@@ -1,0 +1,75 @@
+{
+    "title": "Mango Jam",
+    "Category": "Jams and Jellies",
+    "Ingredients": [
+        {
+            "1": "2 pounds ripe mangoes"
+        },
+        {
+            "2": "0.5 cups white sugar"
+        },
+        {
+            "3": "0.75 cup water"
+        },
+        {
+            "4": "3  saffron threads (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Make 4 to 5 slits in mangoes and microwave on High until soft, 1 to 2 minutes. Cool, then remove the peel and inner seed; place mango pulp in a large bowl. Use a fork or potato masher to mash the pulp well."
+        },
+        {
+            "2": "Stir together sugar and water in a large saucepan over low heat, and bring to a boil. When the mixture begins boiling, increase heat to medium-high. Continue boiling until fine, soft threads form, 270 degrees F (135 degrees C). Stir in mango pulp, add saffron threads, and boil until the mixture thickens, about 5 minutes."
+        },
+        {
+            "3": "Pour cooked jam into sterilized jars and seal according to canning directions."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "73"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9291568.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9054322.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8786586.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8304841.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

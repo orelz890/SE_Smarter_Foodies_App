@@ -1,0 +1,69 @@
+{
+    "title": "Peanut Butter Crispies II",
+    "Category": "Bar Cookies",
+    "Ingredients": [
+        {
+            "1": "6 cups crisp rice cereal"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "1 cup peanut butter"
+        },
+        {
+            "4": "1 cup corn syrup"
+        },
+        {
+            "5": "1 tablespoon butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium sauce pan, mix together sugar, peanut butter, and corn syrup. Be careful not to let it burn, or it will ruin the recipe. Stir mixture until well melted. Remove pan from heat."
+        },
+        {
+            "2": "Combine warm peanut butter mixture with crisp rice cereal."
+        },
+        {
+            "3": "Grease well a 9 x 13 inch pan with butter or margarine. Spread mixture in pan. Allow to cool. When mixture is no longer sticky to the touch, cut into bars."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "2 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "323"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8238171.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7675121.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1091992.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F733787.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

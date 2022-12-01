@@ -1,0 +1,84 @@
+{
+    "title": "Yummy Cheese Fries",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "3 slices bacon"
+        },
+        {
+            "2": "1 (28 ounce) package frozen French fries"
+        },
+        {
+            "3": "1 cup shredded Cheddar cheese"
+        },
+        {
+            "4": "1 Ranch dressing"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels; crumble."
+        },
+        {
+            "2": "Preheat oven to 400 degrees F (205 degrees C). Place a piece of aluminum foil over a baking sheet; spread fries in a single layer on baking sheet."
+        },
+        {
+            "3": "Bake in preheated oven until golden brown and crisp, 15 to 20 minutes."
+        },
+        {
+            "4": "Preheat broiler."
+        },
+        {
+            "5": "Sprinkle fries with cheese and crumbled bacon."
+        },
+        {
+            "6": "Broil until cheese is melted, 1 to 2 minutes. Serve with Ranch dressing."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "3 "
+        },
+        {
+            "Yield": "3 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "536"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F275e4c300484936a33001db9d3a1b4ac%2F1643597246received_305117201653993.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F4b759a148805b547949294bf30260f80%2F2080244.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1107063.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd5cafeb27fbd248f5445d5f85bf1de26%2F1058455.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

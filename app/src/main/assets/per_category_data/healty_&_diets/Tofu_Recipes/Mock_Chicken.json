@@ -1,0 +1,54 @@
+{
+    "title": "Mock Chicken",
+    "Category": "Tofu Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (12 ounce) package firm tofu"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Leave tofu in original package and place in freezer for 72 hours."
+        },
+        {
+            "2": "Bring a pot of water to a simmer. Place package of tofu in water and allow to thaw, approximately 10 minutes. When thawed, remove from package, place in a piece of cheesecloth, and squeeze out liquid. Shred, dice, or slice tofu and include in your favorite recipe."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": "3 days"
+        },
+        {
+            "Total Time": "3 days 15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "124"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F475124.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

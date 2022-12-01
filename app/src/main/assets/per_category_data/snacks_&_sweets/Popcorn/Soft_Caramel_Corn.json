@@ -1,0 +1,87 @@
+{
+    "title": "Soft Caramel Corn",
+    "Category": "Popcorn",
+    "Ingredients": [
+        {
+            "1": "3 (3.5 ounce) packages microwave popcorn, popped"
+        },
+        {
+            "2": "0.5 cups packed brown sugar"
+        },
+        {
+            "3": "1 cup corn syrup"
+        },
+        {
+            "4": "1 cup butter"
+        },
+        {
+            "5": "1 (5 ounce) can sweetened condensed milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place popcorn into a large bowl. Shake the bowl and toss gently until unpopped kernels sink to the bottom. Discard unpopped kernels."
+        },
+        {
+            "2": "Combine brown sugar, corn syrup, and butter in a saucepan over medium-high heat. Cook, stirring constantly, until mixture reaches the soft-crack stage. To test, the temperature should be between 270 to 290 degrees F (132 to 143 degrees C) and a small amount of syrup dropped into cold water should form hard but pliable threads."
+        },
+        {
+            "3": "Remove from the heat. Carefully pour condensed milk into the saucepan and stir until smooth."
+        },
+        {
+            "4": "Pour 1/4 of the caramel at a time over popcorn, stirring well after each addition."
+        },
+        {
+            "5": "Let cool for at least 10 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "40 "
+        },
+        {
+            "Yield": "10 quarts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "159"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2b8937994487a076349ce992ccf78d5f%2F166321213816632121127675577142911429515044.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3204591.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1f551829c397b485f2f9fa37c5de21e4%2F2995353.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1408354.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

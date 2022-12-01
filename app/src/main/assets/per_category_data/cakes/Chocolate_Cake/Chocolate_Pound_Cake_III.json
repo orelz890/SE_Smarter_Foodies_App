@@ -1,0 +1,93 @@
+{
+    "title": "Chocolate Pound Cake III",
+    "Category": "Chocolate Cake",
+    "Ingredients": [
+        {
+            "1": "0.5 cups butter, softened"
+        },
+        {
+            "2": "3 cups white sugar"
+        },
+        {
+            "3": "5  eggs"
+        },
+        {
+            "4": "2 teaspoons vanilla extract"
+        },
+        {
+            "5": "2 teaspoons instant coffee granules dissolved in 1/4 cup hot water"
+        },
+        {
+            "6": "1 cup buttermilk"
+        },
+        {
+            "7": "2 cups all-purpose flour"
+        },
+        {
+            "8": "0.75 cup unsweetened cocoa powder"
+        },
+        {
+            "9": "0.5 teaspoon baking powder"
+        },
+        {
+            "10": "1 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 325 degrees F (165 degrees C). Grease and flour a 10 inch Bundt pan. Mix together the flour, cocoa, baking powder, and salt. Set aside."
+        },
+        {
+            "2": "In a large bowl, cream together the butter and sugar until light and fluffy. Beat in the eggs one at a time, then stir in the vanilla. Beat in the flour mixture alternately with the dissolved coffee and buttermilk. Pour batter into prepared pan."
+        },
+        {
+            "3": "Bake in the preheated oven for 60 to 70 minutes, or until a toothpick inserted into the center of the cake comes out clean. Let cool in pan for 20 minutes, then turn out onto a wire rack and cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "1 to 10 - inch bundt pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "394"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7778320.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7778322.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7745860.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6799611.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

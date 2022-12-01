@@ -1,0 +1,87 @@
+{
+    "title": "Ceviche Self-Portrait",
+    "Category": "Ceviche",
+    "Ingredients": [
+        {
+            "1": "1 pound shrimp, peeled and deveined"
+        },
+        {
+            "2": "4  limes, juiced"
+        },
+        {
+            "3": "4  roma tomatoes, seeded and diced"
+        },
+        {
+            "4": "0.5  yellow onion, finely diced"
+        },
+        {
+            "5": "1  cucumber, peeled, seeded, and diced"
+        },
+        {
+            "6": "4  serrano peppers, seeded and minced"
+        },
+        {
+            "7": "1 salt and pepper to taste"
+        },
+        {
+            "8": "12  tostada shells"
+        },
+        {
+            "9": "1 tablespoon hot pepper sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Dice shrimp and place in a mixing bowl. Squeeze lime juice over shrimp until they are completely covered, about 4 limes. Stir in the tomatoes, onion, cucumber, serrano peppers, and salt and pepper. Cover, and refrigerate 1 hour."
+        },
+        {
+            "2": "When ready to serve, adjust seasoning with salt and pepper as needed. Serve on top of tostada shells with a splash of hot sauce, if desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "190"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9160746.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9016486.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6992280.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb6ab58fd1d0b524f0bd1b81c5f7bd955%2F4953539.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

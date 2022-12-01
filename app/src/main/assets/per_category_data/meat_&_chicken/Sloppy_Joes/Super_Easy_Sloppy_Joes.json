@@ -1,0 +1,84 @@
+{
+    "title": "Super Easy Sloppy Joes",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "3 pounds ground beef"
+        },
+        {
+            "2": "1 cup chopped yellow onion"
+        },
+        {
+            "3": "1 cup finely chopped celery"
+        },
+        {
+            "4": "1 (12 ounce) bottle tomato-based chili sauce"
+        },
+        {
+            "5": "0.25 cup apple cider vinegar"
+        },
+        {
+            "6": "0.25 cup packed brown sugar"
+        },
+        {
+            "7": "1 teaspoon prepared yellow mustard (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Crumble the ground beef into a large pot or Dutch oven over medium-high heat. Cook, stirring frequently until evenly browned. Drain off grease. Add the onion and celery, and cook until the onion is tender, about 3 minutes."
+        },
+        {
+            "2": "Reduce heat to medium and pour in the chili sauce. Stir in the vinegar and sugar. Add mustard if using. Simmer until the mixture is your desired thickness. Serve on buns."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "536"
+        },
+        {
+            "Fat": "35g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "38g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4538881.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4107814.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3204267.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff5eabeb93b0d923163a76813851c215a%2F1883804.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/zF2vV9eHZkHNTQu8iWCFnI4ZaDk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/48894-80e14855e8994ed298c36ffc771adb7d.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

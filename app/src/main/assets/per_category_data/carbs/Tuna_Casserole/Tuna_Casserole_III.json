@@ -1,0 +1,66 @@
+{
+    "title": "Tuna Casserole III",
+    "Category": "Tuna Casserole",
+    "Ingredients": [
+        {
+            "1": "2 (10 ounce) cans condensed cream of mushroom soup"
+        },
+        {
+            "2": "2 (5 ounce) cans tuna, drained and flaked"
+        },
+        {
+            "3": "7 ounces crushed potato chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9-inch glass pie dish."
+        },
+        {
+            "2": "In a mixing bowl, combine soup, tuna, and 1/4 of the potato chips. Mix thoroughly. Pour into the prepared pie dish. Cover the top with remaining potato chips."
+        },
+        {
+            "3": "Bake in the preheated oven until potato chips on top start to brown, 10 to 15 minutes. Cool before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 to 5 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "465"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8821963.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

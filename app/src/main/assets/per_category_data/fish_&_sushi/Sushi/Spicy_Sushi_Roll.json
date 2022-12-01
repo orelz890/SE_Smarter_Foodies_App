@@ -1,0 +1,84 @@
+{
+    "title": "Spicy Sushi Roll",
+    "Category": "Sushi",
+    "Ingredients": [
+        {
+            "1": "0.25 cup mayonnaise"
+        },
+        {
+            "2": "1 tablespoon chile sauce"
+        },
+        {
+            "3": "0.5 teaspoons togarashi (Japanese seven spice)"
+        },
+        {
+            "4": "1 teaspoon prepared wasabi"
+        },
+        {
+            "5": "1 teaspoon chili powder"
+        },
+        {
+            "6": "1 teaspoon paprika"
+        },
+        {
+            "7": "3 (3 ounce) fillets imitation crabmeat, cut into 1 1/2-inch pieces"
+        },
+        {
+            "8": "2 cups cooked sushi rice"
+        },
+        {
+            "9": "3 sheets nori (dry seaweed)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix mayonnaise, chile sauce, togarashi, wasabi, chili powder, and paprika together in a bowl; fold in imitation crabmeat until evenly coated."
+        },
+        {
+            "2": "Spread rice in an even layer across each nori sheet. Spoon a layer of crabmeat mixture in a row along the top edge of each nori sheet. Roll nori sheet around the crabmeat mixture filling, starting on the filling side until completely wrapped. Cut each roll into 8 equal pieces."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "3 "
+        },
+        {
+            "Yield": "3 rolls"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "341"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8250146.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4459394.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4459390.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3792006.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

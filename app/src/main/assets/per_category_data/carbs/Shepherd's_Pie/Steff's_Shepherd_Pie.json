@@ -1,0 +1,84 @@
+{
+    "title": "Steff's Shepherd Pie",
+    "Category": "Shepherd's Pie",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1 (14.5 ounce) can green beans, drained"
+        },
+        {
+            "3": "1 (10.5 ounce) can cream of mushroom soup"
+        },
+        {
+            "4": "0.5  onion, diced"
+        },
+        {
+            "5": "1 cup shredded Cheddar cheese"
+        },
+        {
+            "6": "2 cups mashed potatoes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Cook and stir ground beef in a skillet over medium-high heat until beef is browned, about 10 minutes. Drain fat. Mix in green beans, cream of mushroom soup, and onion."
+        },
+        {
+            "3": "Pour beef mixture into a 2 quart casserole dish and top with Cheddar cheese. Spread mashed potato on top."
+        },
+        {
+            "4": "Bake in the preheated oven until the pie is hot, and the mashed potatoes are golden brown, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "346"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9114099.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9067251.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8729297.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8649237.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

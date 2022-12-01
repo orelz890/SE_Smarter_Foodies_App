@@ -1,0 +1,53 @@
+{
+    "title": "Pan-Fried Pork Chops",
+    "Category": "Pork Chops",
+    "Ingredients": [
+        {
+            "1": "4  boneless pork chops, 3/4-inch thick"
+        },
+        {
+            "2": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "3": "2 tablespoons all-purpose flour"
+        },
+        {
+            "4": "0.5 cup cooking oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Do not pat chops dry, so seasonings and flour will stick."
+        },
+        {
+            "2": "Season both sides of pork chops with salt and pepper, then sprinkle with flour on both sides. Use the back of a spoon to distribute the flour over the entire surface."
+        },
+        {
+            "3": "Heat oil in a 12-inch non-stick skillet over medium heat until it shimmers. Carefully add pork chops and pan fry until brown, about 4 minutes. Do not disturb the chops until ready to turn."
+        },
+        {
+            "4": "When you see the edges of the chops turn brown, turn, and pan fry the other side until no longer pink on the inside and brown on the outside, an additional 4 minutes. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C). Reduce heat, if they are browning too quickly. Serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F52de904104e254f4bf8138b2524c26fa%2F166784636755820220311_221920.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Cheese 'N Rice Quesadillas",
+    "Category": "Quesadillas",
+    "Ingredients": [
+        {
+            "1": "2 cups water"
+        },
+        {
+            "2": "1 tablespoon I Can't Believe It's Not Butter!\u00ae Spread"
+        },
+        {
+            "3": "1 (5.4 ounce) package Knorr\u00ae Fiesta Sides\u2122 - Mexican Rice"
+        },
+        {
+            "4": "1 (4 ounce) can chopped green chiles, drained (Optional)"
+        },
+        {
+            "5": "10 (6 inch) flour tortillas"
+        },
+        {
+            "6": "0.25 cups shredded Monterey Jack cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring water, spread, Knorr\u00ae Fiesta Sides\u2122 - Mexican Rice and chilies to a boil in medium saucepan."
+        },
+        {
+            "2": "Reduce heat to low and simmer uncovered, stirring occasionally, until rice is tender, about 10 minutes. Let stand 10 minutes."
+        },
+        {
+            "3": "Place 5 tortillas on baking sheet. Top tortillas with rice mixture, then cheese and another tortilla."
+        },
+        {
+            "4": "Broil until tortillas are lightly toasted and cheese is melted, turning once."
+        },
+        {
+            "5": "Cut each quesadilla into 4 wedges and serve, if desired, with guacamole, sour cream and/or chopped fresh cilantro."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "20 appetizers"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "109"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5172920.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F283fb5aa4bfb975797202dce555d968e%2F3303317.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3286212.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7b424179dc3cf2d4c86e582731e081a4%2F3248688.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

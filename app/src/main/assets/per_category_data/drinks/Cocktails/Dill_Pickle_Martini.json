@@ -1,0 +1,57 @@
+{
+    "title": "Dill Pickle Martini",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "2 cups ice"
+        },
+        {
+            "2": "2.0 fluid ounces vodka"
+        },
+        {
+            "3": "0.5 fluid ounces dill pickle juice"
+        },
+        {
+            "4": "2  dill pickle spears"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour ice into a cocktail shaker; pour in vodka and dill pickle juice. Cover the shaker and shake vigorously for about 20 seconds; strain into martini glasses. Garnish each cocktail with a dill pickle spear."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "146"
+        },
+        {
+            "Carbs": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7905086.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7905035.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7118671.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa6765581b57e6125a1002e0b059380d9%2F6210026.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "The Best Lemon Bars",
+    "Category": "Bar Cookies",
+    "Ingredients": [
+        {
+            "1": "1 Crust-"
+        },
+        {
+            "2": "2 cups all-purpose flour"
+        },
+        {
+            "3": "1 cup butter, softened"
+        },
+        {
+            "4": "0.5 cup white sugar"
+        },
+        {
+            "5": "1 Filling-"
+        },
+        {
+            "6": "0.5 cups white sugar"
+        },
+        {
+            "7": "0.25 cup all-purpose flour"
+        },
+        {
+            "8": "4  eggs"
+        },
+        {
+            "9": "2  lemons, juiced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "To make the crust: Blend 2 cups flour, softened butter, and 1/2 cup sugar in a medium bowl until well combined; press into the bottom of an ungreased 9x13-inch pan."
+        },
+        {
+            "3": "Bake in the preheated oven until firm and golden, about 15 minutes. Meanwhile, make the filling: Whisk remaining 1 1/2 cups sugar and 1/4 cup flour in a medium bowl. Whisk in eggs, then lemon juice until smooth; pour filling over the baked crust."
+        },
+        {
+            "4": "Bake in the preheated oven for 20 minutes. Set the pan aside to cool completely; the bars will firm up as they cool. When cooled, cut into uniform squares."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "1 9x13-inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "175"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb9e8c125b239197fba3c00c505d00010%2F166275420920220909_141243.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb9e8c125b239197fba3c00c505d00010%2F1662590131Lemon%2520Bars.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb9e8c125b239197fba3c00c505d00010%2F166239865720211221_184607.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb9e8c125b239197fba3c00c505d00010%2F1660569323IMG_20220814_162856.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/e4arQWXOzofY32puBRXm_ywxSEk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/10294-the-best-lemon-bars-medha-1x1-1-e5e3222905d84ff1a9456e4140e0b5df.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

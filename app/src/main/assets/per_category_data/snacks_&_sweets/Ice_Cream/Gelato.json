@@ -1,0 +1,72 @@
+{
+    "title": "Gelato",
+    "Category": "Ice Cream",
+    "Ingredients": [
+        {
+            "1": "2 cups milk"
+        },
+        {
+            "2": "1 cup heavy cream"
+        },
+        {
+            "3": "4  egg yolks"
+        },
+        {
+            "4": "0.5 cup sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix milk and cream in a medium saucepan. Warm until foam forms around the edges. Remove from heat."
+        },
+        {
+            "2": "Beat egg yolks and sugar until frothy in a large bowl. Gradually pour the warm milk into egg yolks and sugar, whisking constantly. Return mixture to saucepan; cook over medium heat, stirring with a wooden spoon until the mixture gels slightly and coats the back of the spoon. If small egg lumps begin to show, remove from heat immediately."
+        },
+        {
+            "3": "Pour the mixture through a sieve or fine strainer into a bowl. Cover, and chill for several hours or overnight."
+        },
+        {
+            "4": "Pour the mixture into an ice cream maker, and freeze according to the manufacturer's instructions. Transfer to a sealed container, and freeze until firm. If the gelato is too firm, place it in the refrigerator until it reaches the desired consistency."
+        }
+    ],
+    "Details": [
+        {
+            "Cook Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "416"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8665346.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6938523.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2cbd71ed7c8ba3c55ad0a961a8267916%2F6781752.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8806af777ea33e0a4e117bf365dfbf48%2F4517634.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

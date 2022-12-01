@@ -1,0 +1,66 @@
+{
+    "title": "Easy Lima Beans",
+    "Category": "Diabetic Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "0.5 medium onion, finely chopped"
+        },
+        {
+            "3": "0.5 cups chicken broth"
+        },
+        {
+            "4": "1 (16 ounce) package frozen baby lima beans"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large saucepan over medium heat, and spray with cooking spray. Saute onions until soft and translucent. Pour in chicken broth, and bring to a boil. Add lima beans, and enough water just to cover. Bring to a boil, then reduce heat to low, cover, and simmer for 30 minutes, until beans are tender."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "84"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa57b3e9620d92d3377f23db5adb4dd20%2F1652104496Easy%2520Lime%2520Beans.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6903149.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0c81ae71694850a7b69809a4ee02281f%2F6243178.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1112426.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Donut Muffins",
+    "Category": "Muffins",
+    "Ingredients": [
+        {
+            "1": "1 Muffins-"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "0.25 cup margarine, melted"
+        },
+        {
+            "4": "0.75 teaspoon ground nutmeg"
+        },
+        {
+            "5": "0.5 cup milk"
+        },
+        {
+            "6": "1 teaspoon baking powder"
+        },
+        {
+            "7": "1 cup all-purpose flour"
+        },
+        {
+            "8": "1 For Finishing-"
+        },
+        {
+            "9": "0.25 cup margarine, melted"
+        },
+        {
+            "10": "0.5 cup white sugar"
+        },
+        {
+            "11": "1 teaspoon ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C). Grease 24 mini-muffin cups."
+        },
+        {
+            "2": "Mix sugar, melted margarine, and nutmeg for muffins in a large bowl. Stir in milk, then mix in baking powder and flour until just combined. Fill the prepared mini muffin cups about half full."
+        },
+        {
+            "3": "Bake in the preheated oven until the tops are lightly golden, 15 to 20 minutes."
+        },
+        {
+            "4": "While muffins are baking, prepare finishing ingredients. Place melted margarine in a bowl. In a separate bowl, mix together sugar and cinnamon."
+        },
+        {
+            "5": "Remove muffins from the oven and remove from their cups. Dip the top of each muffin in margarine and roll in sugar-cinnamon mixture to coat."
+        },
+        {
+            "6": "Let cool for 10 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 mini muffins"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "88"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3b9c3e234807c22c81fda7d79f61f205%2F165644201720220628_144619.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3b9c3e234807c22c81fda7d79f61f205%2F1647208210BC12682B-4C55-4B84-A775-CC7CC78E3388.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3b9c3e234807c22c81fda7d79f61f205%2F164536690720220220_092058.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9415345.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/FGnSA32AOhQK-VQ_yf9l8C4NzvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/654776-bd0b95118fa84be79e29422ed31cb352.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

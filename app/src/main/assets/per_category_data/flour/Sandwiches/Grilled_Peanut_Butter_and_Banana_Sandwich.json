@@ -1,0 +1,72 @@
+{
+    "title": "Grilled Peanut Butter and Banana Sandwich",
+    "Category": "Sandwiches",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "2 tablespoons peanut butter"
+        },
+        {
+            "3": "2 slices whole wheat bread"
+        },
+        {
+            "4": "1  banana, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a skillet or griddle over medium heat, and coat with cooking spray. Spread 1 tablespoon of peanut butter onto one side of each slice of bread. Place banana slices onto the peanut buttered side of one slice, top with the other slice and press together firmly. Fry the sandwich until golden brown on each side, about 2 minutes per side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "2 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "12 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 serving"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "437"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8024622.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6871690.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6796410.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb1dfb2a1beed8a050f4c895742675e46%2F6484347.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/NWKiC8VD6nk5nPevBoMll8-7kcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/338144-grilled-peanut-butter-and-banana-sandwich-Cristi-1x1-1-f65e18895b2c45448f52a4bac6408b1c.jpg"
+        }
+    ],
+    "main category": "flour"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Banana Chip Muffins I",
+    "Category": "Muffins",
+    "Ingredients": [
+        {
+            "1": "0.75 cups all-purpose flour"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "1 tablespoon baking powder"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.5 cup semisweet chocolate chips"
+        },
+        {
+            "6": "1  egg"
+        },
+        {
+            "7": "0.25 cup vegetable oil"
+        },
+        {
+            "8": "0.25 cup milk"
+        },
+        {
+            "9": "1 cup mashed bananas"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Measure flour, sugar, baking powder, salt, and chocolate chips into a large bowl. Mix thoroughly, and make a well in the center."
+        },
+        {
+            "2": "Beat the egg in a small bowl until frothy. Mix in cooking oil, milk, and bananas. Pour mixture into the well. Stir only to moisten. Batter will be lumpy. Fill greased muffin cups 3/4 full."
+        },
+        {
+            "3": "Bake at 400 degrees F (205 degrees C) for 20 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 dozen muffins"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "198"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9348642.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9179053.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8997533.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8913811.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

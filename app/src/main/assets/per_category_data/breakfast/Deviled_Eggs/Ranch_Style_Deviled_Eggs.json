@@ -1,0 +1,81 @@
+{
+    "title": "Ranch-Style Deviled Eggs",
+    "Category": "Deviled Eggs",
+    "Ingredients": [
+        {
+            "1": "6  eggs"
+        },
+        {
+            "2": "0.25 cup mayonnaise"
+        },
+        {
+            "3": "1 teaspoon ground black pepper"
+        },
+        {
+            "4": "1 teaspoon ranch dressing mix"
+        },
+        {
+            "5": "1 teaspoon prepared yellow mustard"
+        },
+        {
+            "6": "1 pinch paprika, for garnish (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool and peel."
+        },
+        {
+            "2": "Cut the eggs in half lengthwise and carefully remove the yolks to a bowl. Mash the yolks with the mayonnaise and mustard and season with pepper and ranch dressing mix, blending until smooth. Spoon the mixture into the egg white halves and garnish with a sprinkle of paprika."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 deviled eggs"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "70"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7250601.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb30711cd6ee1418388ff5cbbdb1f0cbe%2F4205133.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3419178.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2634156.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Amazingly Tasty and Crispy Chicken Schnitzel",
+    "Category": "Fried Chicken",
+    "Ingredients": [
+        {
+            "1": "2  large eggs"
+        },
+        {
+            "2": "3 tablespoons honey"
+        },
+        {
+            "3": "3 tablespoons Dijon mustard"
+        },
+        {
+            "4": "1.0 tablespoons soy sauce"
+        },
+        {
+            "5": "1 tablespoon crushed garlic"
+        },
+        {
+            "6": "3 cups bread crumbs, or as needed"
+        },
+        {
+            "7": "1 teaspoon salt"
+        },
+        {
+            "8": "1 teaspoon ground black pepper"
+        },
+        {
+            "9": "1 vegetable oil for frying"
+        },
+        {
+            "10": "12  boneless chicken breast halves, pounded very thin"
+        },
+        {
+            "11": "1  lemon, cut into wedges"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk eggs, honey, Dijon mustard, soy sauce, and garlic together in a bowl. Mix bread crumbs, salt, and pepper together in a shallow bowl."
+        },
+        {
+            "2": "Heat 1/2 to 1 inch of vegetable oil in a heavy skillet to 350 degrees F (175 degrees C). You can also use a deep fryer."
+        },
+        {
+            "3": "Put chicken slices in the egg mixture and knead until fully coated. Press chicken in the bread crumbs until evenly coated."
+        },
+        {
+            "4": "Working in batches, carefully place chicken in the hot oil using tongs and cook until no longer pink in the center and browned on the outside, 3 to 4 minutes per side. Drain on paper towels and serve with lemon wedges."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "6 mins"
+        },
+        {
+            "Total Time": "26 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "268"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9401984.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8648431.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8616829.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7777894.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/4TXYIPumzyKk-_lPOqQZzgsjCGs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5311874-amazingly-tasty-and-crispy-chicken-schnitzel-Chef-V-1x1-1-b9d1403dd9084772b4261baf129628a5.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

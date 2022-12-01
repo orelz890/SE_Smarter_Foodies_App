@@ -1,0 +1,60 @@
+{
+    "title": "Easy Chocolate Mousse",
+    "Category": "Mousse",
+    "Ingredients": [
+        {
+            "1": "1 (3.9 ounce) package instant chocolate pudding mix"
+        },
+        {
+            "2": "0.5 cups milk"
+        },
+        {
+            "3": "1 (16 ounce) container frozen whipped topping, thawed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Prepare the pudding in a large bowl using 1 1/2 cups milk instead of the suggested 2 cups."
+        },
+        {
+            "2": "Fold in the whipped topping until blended. Refrigerate until chilled and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "505"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "54g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7975156.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7450578.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8b6dbd8bb7fe32ad4413de64bdc8a79c%2F5423397.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2952320.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

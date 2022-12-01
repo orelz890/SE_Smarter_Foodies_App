@@ -1,0 +1,93 @@
+{
+    "title": "Authentic Patatas Bravas",
+    "Category": "Tapas Recipes",
+    "Ingredients": [
+        {
+            "1": "2  russet potatoes, peeled and cut into 1-inch cubes"
+        },
+        {
+            "2": "2 cups olive oil"
+        },
+        {
+            "3": "1 tablespoon salt"
+        },
+        {
+            "4": "3 tablespoons olive oil"
+        },
+        {
+            "5": "1  onion, diced"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "1 clove garlic, finely chopped"
+        },
+        {
+            "8": "1  red chile, minced"
+        },
+        {
+            "9": "0.5 teaspoon smoked paprika"
+        },
+        {
+            "10": "1 (14 ounce) can whole peeled tomatoes, drained"
+        },
+        {
+            "11": "0.25 cup mayonnaise"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine potatoes, 2 cups olive oil, and 3 teaspoons salt in a large cold skillet. Heat on low and cook until potatoes are softened, 12 to 15 minutes. Increase heat to high and fry until golden, 5 to 6 minutes. Drain on paper towels."
+        },
+        {
+            "2": "Heat 3 tablespoons olive oil in a large saucepan over medium heat. Cook and stir onion with 1 teaspoon salt in the hot oil until onion has softened, 3 to 4 minutes. Add garlic, chile, and smoked paprika; simmer for 1 to 2 minutes. Stir in tomatoes and return to a simmer. Transfer tomato mixture to a blender, cover, and puree until tomato sauce is smooth."
+        },
+        {
+            "3": "Serve patatas bravas with tomato puree and and mayonnaise for dipping."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "1564"
+        },
+        {
+            "Fat": "151g"
+        },
+        {
+            "Carbs": "54g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1012013.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F547e4c365b976140f1067a15ca6c15ea%2F934208.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://www.allrecipes.com/thmb/73EkKAAI63fPTtPfCxy6NKj0hqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1012013-authentic-patatas-bravas-lorna-1x1-1-514409f24c6e46fbaecb74aacf0179fa.jpg"
+        }
+    ],
+    "main category": "side_dishes"
+}

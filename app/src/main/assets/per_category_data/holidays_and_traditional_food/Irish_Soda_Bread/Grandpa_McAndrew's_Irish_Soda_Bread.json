@@ -1,0 +1,84 @@
+{
+    "title": "Grandpa McAndrew's Irish Soda Bread",
+    "Category": "Irish Soda Bread",
+    "Ingredients": [
+        {
+            "1": "3 cups all-purpose flour"
+        },
+        {
+            "2": "0.5 teaspoon baking soda"
+        },
+        {
+            "3": "2 tablespoons white sugar"
+        },
+        {
+            "4": "0.5 cup raisins"
+        },
+        {
+            "5": "1  egg, beaten"
+        },
+        {
+            "6": "1 cup buttermilk"
+        },
+        {
+            "7": "2 tablespoons margarine, melted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a cast iron skillet."
+        },
+        {
+            "2": "In a medium bowl, mix together the flour, baking soda and sugar. Toss the raisins with the flour mixture until coated. Make a well in the center and add the egg, buttermilk, and melted margarine. Stir until all of the dry ingredients are absorbed. Turn the dough out onto a floured surface and knead for a few quick turns just to even out the dough. Handle the dough as little as possible. Pat into a flat circle, and place into the prepared pan."
+        },
+        {
+            "3": "Bake the bread for 40 to 45 minutes in the preheated oven, or until the edges are golden."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "255"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7770356.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc69dc3be16f1abc9b5c1858016028a20%2F6458073.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6451243.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F51f96e3835422927e38e76705831f4d9%2F6451060.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

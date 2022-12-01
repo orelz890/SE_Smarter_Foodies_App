@@ -1,0 +1,90 @@
+{
+    "title": "Beef Enchiladas with Flour Tortillas",
+    "Category": "Enchiladas",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "1 small onion, chopped"
+        },
+        {
+            "3": "1 (1.5 ounce) package dry enchilada sauce mix"
+        },
+        {
+            "4": "10 (10 inch) flour tortillas"
+        },
+        {
+            "5": "2 cups shredded Cheddar cheese, divided"
+        },
+        {
+            "6": "1 (2.25 ounce) can sliced black olives, drained"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Cook ground beef and onion in a medium skillet over medium-high heat until beef is evenly browned and onion is tender."
+        },
+        {
+            "3": "Prepare enchilada sauce according to package directions. Pour 1/4 cup of the sauce into the bottom of a 9x13-inch baking dish."
+        },
+        {
+            "4": "Place an equal portion of the ground beef mixture and about 1 ounce of Cheddar cheese on each flour tortilla, reserving at least 1/2 cup of cheese. Then tightly roll the tortillas and place seam side down in the baking dish."
+        },
+        {
+            "5": "Pour remaining sauce over the top of the enchiladas and sprinkle with remaining cheese and olives."
+        },
+        {
+            "6": "Bake in the preheated oven until the sauce is bubbly and cheese is thoroughly melted, about 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "448"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F775945300c60e67ca262291da8f03810%2F1658790538image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9278735.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9110925.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8825149.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/VTa17sfewt5effckESa1VV5eca0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1568646-72b7d82e0f344fe1ba095f137fdf918e.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

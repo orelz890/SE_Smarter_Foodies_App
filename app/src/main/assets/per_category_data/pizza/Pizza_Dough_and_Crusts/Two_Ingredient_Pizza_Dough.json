@@ -1,0 +1,87 @@
+{
+    "title": "Two-Ingredient Pizza Dough",
+    "Category": "Pizza Dough and Crusts",
+    "Ingredients": [
+        {
+            "1": "0.5 cups self-rising flour, plus more for kneading"
+        },
+        {
+            "2": "1 cup plain Greek yogurt"
+        },
+        {
+            "3": "1 cooking spray"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 500 degrees F (260 degrees C)."
+        },
+        {
+            "2": "Mix flour and Greek yogurt together in a bowl to form a dough; transfer to a work surface floured with self-rising flour. Knead dough, adding more flour as needed to keep dough from being too sticky, about 8 to 10 minutes."
+        },
+        {
+            "3": "Spray a 12-inch pizza pan with cooking spray and spread dough to the edges of the pan."
+        },
+        {
+            "4": "Bake pizza crust in preheated oven for 5 to 7 minutes; add your favorite toppings and return to the preheated oven. Bake until crust is lightly browned, 5 to 7 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 12-inch crust"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "116"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F59b61249d9a670ed11cfbf0084972563%2F16688712230568F751A18-3A26-4008-9FE4-52F52D339F47.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4193fdeacd989d53fbf8458e073f12e8%2F165848104520220713_162210.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4193fdeacd989d53fbf8458e073f12e8%2F165621007725ACD7AC-B320-49FF-8D5F-2DE2B049D203.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4193fdeacd989d53fbf8458e073f12e8%2F1655942670E14FDE5B-F976-4BC7-9D39-94AF278E5852.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/6YBWxpC-CTC81BpuhCJ7XMVfCOA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8052907-two-ingredient-pizza-dough-jeannette-66d951a38ad246c0a923f27a8ca587d5.jpeg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/of4jy-hE3IWtxXKCJUQO_hoB6cg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6645260_two-ingredient-pizza-dough_molly-d29850ffeb6240f1b076706be263f92b.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/6rtBmjOCYzsnZ86yEBmtlVZakS8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Two-Ingredient-Dough-Garlic-Knots-TheDailyGourmet-1-by-1-cc7ff74bbc6944dc995dd242919aa6f9.jpg"
+        },
+        {
+            "img8": "https://www.allrecipes.com/thmb/YIBPVrEr9sQvh3kkB9LkhZD-ihg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2580346-7575247506dd45aeaf30deccd4a2afdc.jpg"
+        }
+    ],
+    "main category": "pizza"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Roasted Red Pepper Soup",
+    "Category": "Tortellini",
+    "Ingredients": [
+        {
+            "1": "2 (16 ounce) jars roasted red peppers"
+        },
+        {
+            "2": "2 (14.5 ounce) cans chicken broth"
+        },
+        {
+            "3": "1 (8 ounce) package sliced fresh mushrooms"
+        },
+        {
+            "4": "1 teaspoon dried basil"
+        },
+        {
+            "5": "1 teaspoon dried oregano"
+        },
+        {
+            "6": "1 teaspoon garlic powder"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "9": "2 (9 ounce) packages fresh cheese tortellini, uncooked"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place roasted red peppers in a blender or food processor, and blend until smooth."
+        },
+        {
+            "2": "In a large saucepan, mix roasted red peppers, chicken broth, and mushrooms. Season with basil, oregano, garlic powder, salt, and pepper. Bring the mixture to a boil. Stir in tortellini, and continue cooking 8 to 10 minutes, or until pasta is al dente."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "245"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9062627.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6322675.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3113925.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F798243.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

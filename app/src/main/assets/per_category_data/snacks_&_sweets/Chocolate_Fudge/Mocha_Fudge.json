@@ -1,0 +1,84 @@
+{
+    "title": "Mocha Fudge",
+    "Category": "Chocolate Fudge",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon instant coffee granules"
+        },
+        {
+            "2": "3 cups white sugar"
+        },
+        {
+            "3": "1 pinch salt"
+        },
+        {
+            "4": "1 cup milk"
+        },
+        {
+            "5": "2 tablespoons light corn syrup"
+        },
+        {
+            "6": "3 tablespoons butter"
+        },
+        {
+            "7": "1 teaspoon vanilla extract"
+        },
+        {
+            "8": "0.5 cup chopped pecans"
+        },
+        {
+            "9": "1 cup semisweet chocolate chips"
+        },
+        {
+            "10": "0.5 cup pecan halves, for decoration (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium saucepan, stir together the instant coffee, white sugar and salt. Stir in the milk and corn syrup, and add the butter. Heat to between 234 and 240 degrees F (112 to 116 degrees C), or until a small amount of syrup dropped into cold water forms a soft ball that flattens when removed from the water and placed on a flat surface. Remove from heat, and stir in vanilla. Let cool to room temperature, or about 110 degrees F (45 degrees C)."
+        },
+        {
+            "2": "When the mixture is cool, beat with a wooden spoon until it loses its gloss. Add nuts and chocolate chips and stir slightly to create a marbled effect. Pour into a buttered 8 inch square baking dish. Arrange pecan halves on the top if desired. Cool completely before cutting into pieces."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "64 "
+        },
+        {
+            "Yield": "64 pieces"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "70"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2882792.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1012551.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Blueberry Cream Muffins",
+    "Category": "Muffins",
+    "Ingredients": [
+        {
+            "1": "4  eggs"
+        },
+        {
+            "2": "2 cups white sugar"
+        },
+        {
+            "3": "1 cup vegetable oil"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "4 cups all-purpose flour"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "1 teaspoon baking soda"
+        },
+        {
+            "8": "2 cups sour cream"
+        },
+        {
+            "9": "2 cups blueberries"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Grease 24 muffin cups or line with paper muffin liners."
+        },
+        {
+            "2": "In large bowl beat eggs, gradually add sugar while beating. Continue beating while slowly pouring in oil. Stir in vanilla. In a separate bowl, stir together flour, salt and baking soda."
+        },
+        {
+            "3": "Stir dry ingredients into egg mixture alternately with sour cream. Gently fold in blueberries. Scoop batter into prepared muffin cups."
+        },
+        {
+            "4": "Bake in preheated oven for 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "2 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "281"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F344a1f820133f1f055cee7c4c26c7017%2F1653223529950EC62F-C1DB-4293-914C-A4C9B63CABD6.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2708202.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F344a1f820133f1f055cee7c4c26c7017%2F1645934065C2628E4C-A6DB-4D1E-8FC5-B0488215B1B8.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9396452.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

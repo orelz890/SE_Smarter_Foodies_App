@@ -1,0 +1,90 @@
+{
+    "title": "Creamy, Spicy Guacamole",
+    "Category": "Guacamole",
+    "Ingredients": [
+        {
+            "1": "3 large avocados - peeled, pitted, and diced"
+        },
+        {
+            "2": "1  tomato, seeded and chopped"
+        },
+        {
+            "3": "2  green onions, finely chopped"
+        },
+        {
+            "4": "0.5  lime, juiced"
+        },
+        {
+            "5": "1 tablespoon salsa, or more to taste"
+        },
+        {
+            "6": "1 clove garlic, minced"
+        },
+        {
+            "7": "1 teaspoon sour cream"
+        },
+        {
+            "8": "1 teaspoon white vinegar"
+        },
+        {
+            "9": "0.5 teaspoon cayenne pepper"
+        },
+        {
+            "10": "0.25 teaspoon  cumin"
+        },
+        {
+            "11": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mash avocado in a large bowl. Stir tomato, green onions, lime juice, salsa, garlic, sour cream, vinegar, cayenne pepper, and cumin with the mashed avocado until evenly mixed; season with salt and black pepper."
+        },
+        {
+            "2": "Cover bowl with plastic wrap and refrigerate until the flavors blend, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "90"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7394280.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3875365.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F969787.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

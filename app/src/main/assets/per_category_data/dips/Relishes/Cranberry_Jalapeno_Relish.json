@@ -1,0 +1,69 @@
+{
+    "title": "Cranberry-Jalapeno Relish",
+    "Category": "Relishes",
+    "Ingredients": [
+        {
+            "1": "1 cup dried cranberries"
+        },
+        {
+            "2": "0.5 cup orange juice"
+        },
+        {
+            "3": "0.5 cup diced red onion"
+        },
+        {
+            "4": "0.5 cup chopped fresh cilantro"
+        },
+        {
+            "5": "1 teaspoon minced garlic"
+        },
+        {
+            "6": "1  jalapeno pepper, seeded and minced"
+        },
+        {
+            "7": "0.25 cup fresh lime juice"
+        },
+        {
+            "8": "0.5 teaspoon ground cumin"
+        },
+        {
+            "9": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a mixing bowl, combine the cranberries, orange juice, onion, cilantro, garlic, jalapeno, lime juice, cumin and salt."
+        },
+        {
+            "2": "Stir together and chill 2 hours before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "20"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7348376.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F748562.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

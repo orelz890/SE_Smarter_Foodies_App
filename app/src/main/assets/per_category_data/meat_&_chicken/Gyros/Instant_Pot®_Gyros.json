@@ -1,0 +1,81 @@
+{
+    "title": "Instant Pot\u00ae Gyros",
+    "Category": "Gyros",
+    "Ingredients": [
+        {
+            "1": "4 pounds pork butt, cut into 2-inch cubes"
+        },
+        {
+            "2": "3 tablespoons Greek seasoning (such as Cavender's\u00ae)"
+        },
+        {
+            "3": "1 teaspoon paprika"
+        },
+        {
+            "4": "2 cloves garlic, minced"
+        },
+        {
+            "5": "1 cup chicken broth"
+        },
+        {
+            "6": "2 teaspoons olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Turn on a multi-functional pressure cooker (such as Instant Pot\u00ae) and select the Saute function. Place cubed pork in the pot and cook until starting to brown, about 5 minutes. Turn pot off."
+        },
+        {
+            "2": "Add Greek seasoning, paprika, garlic, and chicken broth to the pot with the pork. Close and lock the lid. Select Manual and set timer for 35 minutes. Allow 10 minutes for pressure to build."
+        },
+        {
+            "3": "Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid."
+        },
+        {
+            "4": "Heat oil in a large skillet over medium-high heat. Transfer pork to the skillet using a slotted spoon and cook for 5 minutes or until most of the liquid has evaporated and pork has a nice crisp on it."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "250"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7724799.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6203905.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

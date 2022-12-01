@@ -1,0 +1,99 @@
+{
+    "title": "Zucchini Bread IV",
+    "Category": "Zucchini Bread",
+    "Ingredients": [
+        {
+            "1": "3  eggs"
+        },
+        {
+            "2": "1 cup vegetable oil"
+        },
+        {
+            "3": "2 cups white sugar"
+        },
+        {
+            "4": "2 cups grated zucchini"
+        },
+        {
+            "5": "2 teaspoons vanilla extract"
+        },
+        {
+            "6": "3 cups all-purpose flour"
+        },
+        {
+            "7": "3 teaspoons ground cinnamon"
+        },
+        {
+            "8": "1 teaspoon baking soda"
+        },
+        {
+            "9": "0.25 teaspoon baking powder"
+        },
+        {
+            "10": "1 teaspoon salt"
+        },
+        {
+            "11": "0.5 cup chopped walnuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 325 degrees F ( 165 degrees C). Grease and flour two 8x4 inch loaf pans."
+        },
+        {
+            "2": "In a large bowl, beat eggs until light and frothy. Mix in oil and sugar. Stir in zucchini and vanilla. Combine flour, cinnamon, soda, baking powder, salt and nuts; stir into the egg mixture. Divide batter into prepared pans."
+        },
+        {
+            "3": "Bake for 60 to 70 minutes, or until done."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "2 - 8x4 inch loaves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "231"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6f08dc321afbe0b3540175eaa1b91a0f%2F165592005820220622_084822.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6f08dc321afbe0b3540175eaa1b91a0f%2F1651951082F6F2A1E8-9569-48FE-9B35-41EF99DADA3B.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9395610.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9384940.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/UbECU9muYwW4wVGb-I1BNrx4oDs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3892083-7974f2e4b361488a98fb72a339e9609c.jpg"
+        }
+    ],
+    "main category": "flour"
+}

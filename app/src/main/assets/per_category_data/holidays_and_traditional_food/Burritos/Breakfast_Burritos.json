@@ -1,0 +1,78 @@
+{
+    "title": "Breakfast Burritos",
+    "Category": "Burritos",
+    "Ingredients": [
+        {
+            "1": "1 pound bacon"
+        },
+        {
+            "2": "10  eggs"
+        },
+        {
+            "3": "1 (16 ounce) can refried beans"
+        },
+        {
+            "4": "8 ounces shredded Cheddar cheese"
+        },
+        {
+            "5": "10 (10 inch) flour tortillas"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, and set aside. Wrap the tortillas in foil and warm in the oven."
+        },
+        {
+            "2": "Fry the eggs in a greased skillet until firm. In a small sauce pan heat the refried beans."
+        },
+        {
+            "3": "Top each tortilla with refried beans, 2 strips of bacon, 1 egg and a little cheese. Roll tortillas into burritos and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "638"
+        },
+        {
+            "Fat": "39g"
+        },
+        {
+            "Carbs": "45g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8730939.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffe2301bc2efc0162c98343064ac9b763%2F6443658.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fae26dcff1b75a8d20ebf7f75ab56121d%2F5649789.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2102044.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

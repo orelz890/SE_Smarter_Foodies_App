@@ -1,0 +1,93 @@
+{
+    "title": "Italian Sausage Ravioli Bake",
+    "Category": "Ravioli",
+    "Ingredients": [
+        {
+            "1": "1 pound bulk Italian sausage"
+        },
+        {
+            "2": "1 (24 ounce) jar spaghetti sauce"
+        },
+        {
+            "3": "1 (14.5 ounce) can diced tomatoes"
+        },
+        {
+            "4": "0.25 cups beef broth"
+        },
+        {
+            "5": "0.25 cup zesty Italian-style salad dressing"
+        },
+        {
+            "6": "1 tablespoon white sugar"
+        },
+        {
+            "7": "2 (9 ounce) packages cheese ravioli"
+        },
+        {
+            "8": "1 cup shredded mozzarella cheese"
+        },
+        {
+            "9": "2 tablespoons chopped fresh basil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch dish and set aside."
+        },
+        {
+            "2": "Cook Italian sausage in a skillet over medium-high heat until browned and crumbly, 5 to 10 minutes. Drain off grease. Add spaghetti sauce, diced tomatoes, beef broth, Italian dressing, and sugar. Mix until well combined. Remove from heat and add uncooked ravioli; stir to combine. Pour into the prepared dish."
+        },
+        {
+            "3": "Bake in the preheated oven until ravioli are tender, 45 to 55 minutes."
+        },
+        {
+            "4": "Top with mozzarella cheese and let sit until cheese is melted. Sprinkle with basil before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "581"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "51g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8632369.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8133130.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7997580.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7985738.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

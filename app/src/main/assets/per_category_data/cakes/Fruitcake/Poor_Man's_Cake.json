@@ -1,0 +1,90 @@
+{
+    "title": "Poor Man's Cake",
+    "Category": "Fruitcake",
+    "Ingredients": [
+        {
+            "1": "2 cups raisins"
+        },
+        {
+            "2": "2 cups water"
+        },
+        {
+            "3": "1 cup packed brown sugar"
+        },
+        {
+            "4": "0.75 cup shortening"
+        },
+        {
+            "5": "3 cups all-purpose flour"
+        },
+        {
+            "6": "4 teaspoons ground cinnamon"
+        },
+        {
+            "7": "2 teaspoons baking soda"
+        },
+        {
+            "8": "1 teaspoon ground nutmeg"
+        },
+        {
+            "9": "1 teaspoon ground cloves"
+        },
+        {
+            "10": "1 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch pan."
+        },
+        {
+            "2": "Mix raisins, water, brown sugar, and shortening in a saucepan. Bring to a boil and boil for 3 minutes. Remove from heat and let cool."
+        },
+        {
+            "3": "Combine flour, cinnamon, baking soda, nutmeg, cloves, and salt in a large bowl. When raisin mixture is cool, add to dry ingredients and mix well to combine."
+        },
+        {
+            "4": "Bake in the preheated oven for 30 or 40 minutes. Do not overbake or it will be too dry. Test after 30 minutes. A toothpick inserted into the center of the cake should come out clean."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "1 9x13-inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "186"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5756550.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F53281.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

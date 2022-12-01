@@ -1,0 +1,90 @@
+{
+    "title": "Pound Cake Cupcakes",
+    "Category": "Pound Cake",
+    "Ingredients": [
+        {
+            "1": "0.5 cup unsalted butter, softened"
+        },
+        {
+            "2": "0.5 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "3": "2 cups white sugar"
+        },
+        {
+            "4": "4 large eggs"
+        },
+        {
+            "5": "1 teaspoon vanilla extract"
+        },
+        {
+            "6": "3 cups all-purpose flour"
+        },
+        {
+            "7": "1 teaspoon baking powder"
+        },
+        {
+            "8": "0.5 teaspoon baking soda"
+        },
+        {
+            "9": "1 (8 ounce) carton sour cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Beat butter and cream cheese together until creamy; add sugar and beat until fluffy. Add eggs one at a time, beating until each one is blended. Stir in vanilla extract."
+        },
+        {
+            "3": "Combine flour, baking powder, and baking soda in a separate bowl. Gradually add to the butter mixture, alternating with sour cream, beating until blended."
+        },
+        {
+            "4": "Spoon batter into the prepared muffin cups, filling each 2/3 full."
+        },
+        {
+            "5": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 20 to 24 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 cupcakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "204"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9250265.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F583434.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

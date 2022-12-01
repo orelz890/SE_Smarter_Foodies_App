@@ -1,0 +1,81 @@
+{
+    "title": "Sesame Broccoli Salad",
+    "Category": "Broccoli Salad",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons sesame seeds"
+        },
+        {
+            "2": "0.5 pounds fresh broccoli, cut into bite size pieces"
+        },
+        {
+            "3": "2 tablespoons rice vinegar"
+        },
+        {
+            "4": "2 tablespoons soy sauce"
+        },
+        {
+            "5": "2 tablespoons sesame oil"
+        },
+        {
+            "6": "2 teaspoons white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C). Toast sesame seeds for 3 to 5 minutes, or until the seeds begin to turn golden brown. Set aside."
+        },
+        {
+            "2": "Bring a large pot of water to a boil. Cook broccoli in boiling water for 3 to 5 minutes, or until desired tenderness. Drain, and transfer to a large bowl."
+        },
+        {
+            "3": "In a small bowl, whisk together the vinegar, soy sauce, sesame oil, sugar, and sesame seeds. Pour over broccoli, and toss to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "78"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Feb4d91863e99636f9c81e05a2a9aa27a%2F3737890.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F718412.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F443498.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F235197.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Simple Deviled Eggs",
+    "Category": "Easter Recipes",
+    "Ingredients": [
+        {
+            "1": "6  hard-cooked eggs"
+        },
+        {
+            "2": "2 tablespoons mayonnaise"
+        },
+        {
+            "3": "1 teaspoon white sugar"
+        },
+        {
+            "4": "1 teaspoon white vinegar"
+        },
+        {
+            "5": "1 teaspoon prepared mustard"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "1 tablespoon finely chopped onion"
+        },
+        {
+            "8": "1 tablespoon finely chopped celery"
+        },
+        {
+            "9": "1 pinch paprika, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Slice eggs in half lengthwise and remove yolks; set whites aside."
+        },
+        {
+            "2": "Mash yolks with a fork in a small bowl. Stir in mayonnaise, sugar, vinegar, mustard, salt, onion, and celery; mix well."
+        },
+        {
+            "3": "Stuff or pipe egg yolk mixture into egg whites. Sprinkle with paprika. Refrigerate until serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "12 deviled egg halves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "328"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F672b2a38ab1f288f0e248c623e1363f5%2F1664905056927image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd8ddeef3f30c29382e0fd92c1633e000%2F1645498061simple%2520delived%2520eggs.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9397284.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9145449.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/88UJ_zWGJzLGKuQ1osvH9JLXHD8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222589-simple-deviled-eggs-ddmfs-1X1-1380-05e410e16b99434185f1501a0a7a26db.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Caramel Bars",
+    "Category": "Bar Cookies",
+    "Ingredients": [
+        {
+            "1": "32  individually wrapped caramels, unwrapped"
+        },
+        {
+            "2": "5 tablespoons heavy cream"
+        },
+        {
+            "3": "1 cup all-purpose flour"
+        },
+        {
+            "4": "1 cup rolled oats"
+        },
+        {
+            "5": "0.75 cup brown sugar"
+        },
+        {
+            "6": "0.5 teaspoon baking soda"
+        },
+        {
+            "7": "0.25 teaspoon salt"
+        },
+        {
+            "8": "0.75 cup butter, melted"
+        },
+        {
+            "9": "0.5 cup semisweet chocolate chips"
+        },
+        {
+            "10": "0.5 cup chopped walnuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). In a medium saucepan over low heat, melt together the caramels and heavy cream, stirring occasionally until smooth."
+        },
+        {
+            "2": "In a medium bowl, stir together the flour, oats, brown sugar, baking soda and salt. Stir in the melted butter until well blended. Press Half of the mixture into the bottom of a 9x13 inch baking pan. Reserve the rest."
+        },
+        {
+            "3": "Bake the crust for 8 minutes in the preheated oven. Remove and sprinkle with chocolate chips and walnuts. Pour the caramel mixture over the top and then crumble the remaining crust mixture over everything."
+        },
+        {
+            "4": "Return to the oven and bake for an additional 12 minutes, or until the top is lightly toasted. Cut into squares while it is still warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "12 mins"
+        },
+        {
+            "Additional Time": "3 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "1 - 9x13 inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "195"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7723611.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5967133.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4127313.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3423249.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

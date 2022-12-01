@@ -1,0 +1,81 @@
+{
+    "title": "French Toast II",
+    "Category": "French Toast",
+    "Ingredients": [
+        {
+            "1": "4  eggs"
+        },
+        {
+            "2": "0.75 cup milk"
+        },
+        {
+            "3": "3 tablespoons brown sugar"
+        },
+        {
+            "4": "1 teaspoon ground nutmeg"
+        },
+        {
+            "5": "12 slices white bread"
+        },
+        {
+            "6": "1 tablespoon ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large mixing bowl, beat the eggs. Add the milk, brown sugar and nutmeg; stir well to combine."
+        },
+        {
+            "2": "Soak bread slices in the egg mixture until saturated."
+        },
+        {
+            "3": "Heat a lightly oiled griddle or frying pan over medium high heat. Brown slices on both sides, sprinkle with cinnamon and serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "12 slices"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "341"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "52g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8258023.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8033846.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7950796.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7631127.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

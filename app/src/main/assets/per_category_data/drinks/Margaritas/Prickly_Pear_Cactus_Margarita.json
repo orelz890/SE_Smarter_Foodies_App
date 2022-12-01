@@ -1,0 +1,69 @@
+{
+    "title": "Prickly Pear Cactus Margarita",
+    "Category": "Margaritas",
+    "Ingredients": [
+        {
+            "1": "1 coarse salt as needed"
+        },
+        {
+            "2": "2 fluid ounces tequila"
+        },
+        {
+            "3": "2 fluid ounces sweet and sour mix"
+        },
+        {
+            "4": "1 fluid ounce triple sec"
+        },
+        {
+            "5": "1 fluid ounce lime juice"
+        },
+        {
+            "6": "1 fluid ounce prickly pear syrup"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour salt onto a small plate. Wet the rim of a margarita glass and dip rim into salt."
+        },
+        {
+            "2": "Fill a cocktail shaker with ice; pour tequila, sweet and sour mix, triple sec, lime juice, and pear syrup over ice. Cover shaker and shake drink; strain into prepared margarita glass."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "423"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "56g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4577493.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2323745.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1060061.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

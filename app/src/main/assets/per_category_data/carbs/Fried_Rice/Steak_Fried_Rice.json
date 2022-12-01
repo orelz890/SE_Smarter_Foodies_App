@@ -1,0 +1,108 @@
+{
+    "title": "Steak Fried Rice",
+    "Category": "Fried Rice",
+    "Ingredients": [
+        {
+            "1": "1 (1 pound) flank steak"
+        },
+        {
+            "2": "5 teaspoons white sugar, divided"
+        },
+        {
+            "3": "1 kosher salt to taste"
+        },
+        {
+            "4": "1 freshly ground black pepper to taste"
+        },
+        {
+            "5": "1 tablespoon cornstarch"
+        },
+        {
+            "6": "3 tablespoons vegetable oil, divided"
+        },
+        {
+            "7": "2 large eggs, beaten"
+        },
+        {
+            "8": "1  onion, diced"
+        },
+        {
+            "9": "2 cloves garlic, minced"
+        },
+        {
+            "10": "1 teaspoon grated ginger"
+        },
+        {
+            "11": "1 cup frozen peas, thawed"
+        },
+        {
+            "12": "2 tablespoons water"
+        },
+        {
+            "13": "3 cups cooked white rice"
+        },
+        {
+            "14": "3 tablespoons soy sauce"
+        },
+        {
+            "15": "1 teaspoon white vinegar"
+        },
+        {
+            "16": "1 teaspoon sesame oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pat flank steak dry with a paper towel. Cut into bite-sized pieces and transfer to a medium bowl. Season with 1 teaspoon sugar, salt, and pepper. Add cornstarch and toss until well coated."
+        },
+        {
+            "2": "Heat 1 teaspoon oil in a wok or large skillet over medium-high heat. Add eggs and scramble using a rubber spatula, 3 to 5 minutes. Remove eggs to a dish."
+        },
+        {
+            "3": "Add 1 teaspoon oil and 1/2 of the meat to the wok. Increase heat to high and cook until browned on all sides and cooked through, 3 to 5 minutes. Remove to a plate. Add 1 teaspoon oil and repeat with remaining meat."
+        },
+        {
+            "4": "Add remaining 2 tablespoons oil to the wok and reduce heat to medium-low. Add onion, garlic, and ginger; cook until onions begin to soften, 2 to 3 minutes. Add peas and water; cook until peas are tender, 2 to 3 minutes. Add cooked rice, breaking it up with a spatula, and cook until heated through, 2 to 3 minutes. Stir in soy sauce, remaining 4 teaspoons sugar, vinegar, and sesame oil. Add meat and scrambled eggs, toss together, and cook until heated through, about 3 minutes. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "510"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb237ae823f3f911f46bc894443584399%2F1647126451image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9366360.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7437838.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

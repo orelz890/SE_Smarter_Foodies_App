@@ -1,0 +1,81 @@
+{
+    "title": "Pesto Pasta",
+    "Category": "Dinner Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package pasta"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "0.5 cup chopped onion"
+        },
+        {
+            "4": "1.0 tablespoons pesto"
+        },
+        {
+            "5": "1 salt to taste"
+        },
+        {
+            "6": "1 ground black pepper to taste"
+        },
+        {
+            "7": "2 tablespoons grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in pasta and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 8 to 10 minutes. Drain and transfer into a large bowl."
+        },
+        {
+            "2": "Meanwhile, heat oil in a frying pan over medium-low heat. Add onion; cook and stir until softened, about 3 minutes. Stir in pesto, salt, and pepper until warmed through."
+        },
+        {
+            "3": "Add pesto mixture to hot pasta; stir in grated cheese and toss well to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "225"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4a6356cf23f3b949473f257c6e6bdb69%2F1662009390IMG_20220831_213133905.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4a6356cf23f3b949473f257c6e6bdb69%2F1659938450IMG_20220807_212140240_HDR.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4a6356cf23f3b949473f257c6e6bdb69%2F1656432161410815DC-62FE-403F-A9FF-3C36EED43878.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4a6356cf23f3b949473f257c6e6bdb69%2F1654658996A3D023AD-56BA-4DC2-929C-B29EE2AE55DB.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dinner"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Easy Salsa Meatloaf",
+    "Category": "Meatloaf",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef sirloin"
+        },
+        {
+            "2": "0.5 cup salsa"
+        },
+        {
+            "3": "0.5 cup Italian seasoned bread crumbs"
+        },
+        {
+            "4": "0.5 cup shredded Cheddar cheese"
+        },
+        {
+            "5": "1  egg, lightly beaten"
+        },
+        {
+            "6": "3 cloves garlic, minced"
+        },
+        {
+            "7": "1 dried parsley to taste"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "In a large bowl, mix the ground sirloin, salsa, bread crumbs, cheese, egg, and garlic. Season with parsley, salt, and pepper. Transfer to a 5x9 inch loaf pan."
+        },
+        {
+            "3": "Bake 45 minutes in the preheated oven, or to a minimum internal temperature of 160 degrees F (72 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "221"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fbcd919f70b9bdfb762a6b2952a022431%2F1652317797image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9411421.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8445332.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6537751.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

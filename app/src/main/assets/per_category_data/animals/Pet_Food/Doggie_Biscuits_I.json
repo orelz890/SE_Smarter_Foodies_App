@@ -1,0 +1,86 @@
+{
+    "title": "Doggie Biscuits I",
+    "Category": "Pet Food",
+    "Ingredients": [
+        {
+            "1": "0.5 cups whole wheat flour"
+        },
+        {
+            "2": "0.5 cup all-purpose flour"
+        },
+        {
+            "3": "0.5 cup cornmeal"
+        },
+        {
+            "4": "0.5 cup rolled oats"
+        },
+        {
+            "5": "0.5 cups water, or as needed"
+        },
+        {
+            "6": "0.5 cup canola oil"
+        },
+        {
+            "7": "2  eggs"
+        },
+        {
+            "8": "3 tablespoons peanut butter"
+        },
+        {
+            "9": "2 tablespoons vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Grease cookie sheets."
+        },
+        {
+            "2": "Mix together whole-wheat flour, all-purpose flour, cornmeal and oats. Make a well in the center of the dry ingredients and gradually pour in water, oil, eggs, peanut butter and vanilla. Mix well."
+        },
+        {
+            "3": "On a flat surface use a rolling pin to roll out the dough. Cut the dough into dog biscuit shapes using a cookie cutter. Place the biscuits onto the prepared cookie sheet."
+        },
+        {
+            "4": "Bake the cookies for 20 minutes. After the biscuits have cooked 20 minutes turn off the oven off but let the biscuits remain inside the oven for another 20 minutes to harden."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "36 "
+        },
+        {
+            "Yield": "3 dozen treats, depending on size"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8239401.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0d6f5d9e45c3642aff25eb1a4d0cfd93%2F6319357.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fffac5b8d676d423cfa08d750c31e1467%2F6319348.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb5a66befd7cc95e24becff2548ce44bd%2F6127871.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/hH7ObMWrIAsTLNzEqH4fqC9_T80=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/976232-472acd03ff864f45bb63809478ea38cc.jpg"
+        }
+    ],
+    "main category": "animals"
+}

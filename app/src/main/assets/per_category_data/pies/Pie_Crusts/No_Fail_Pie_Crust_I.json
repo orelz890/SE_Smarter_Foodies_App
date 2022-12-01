@@ -1,0 +1,78 @@
+{
+    "title": "No Fail Pie Crust I",
+    "Category": "Pie Crusts",
+    "Ingredients": [
+        {
+            "1": "1.0 cups all-purpose flour"
+        },
+        {
+            "2": "1 cup shortening"
+        },
+        {
+            "3": "0.25 teaspoon salt"
+        },
+        {
+            "4": "1  egg"
+        },
+        {
+            "5": "0.25 cup cold water"
+        },
+        {
+            "6": "1 tablespoon distilled white vinegar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine flour and salt in a large bowl. Cut in shortening until it resembles coarse crumbs."
+        },
+        {
+            "2": "Mix egg, water, and vinegar together in a separate bowl. Pour into flour all at once and blend with a fork until dough forms into a ball. Divide into 3 equal-sized rounds."
+        },
+        {
+            "3": "Wrap with plastic and chill in a refrigerator until ready to prepare."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "3 single crusts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "126"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fac8624bf1af862bb4204a4fbeaf99e47%2F164650738620220305_112945.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9365439.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9334094.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9382990.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

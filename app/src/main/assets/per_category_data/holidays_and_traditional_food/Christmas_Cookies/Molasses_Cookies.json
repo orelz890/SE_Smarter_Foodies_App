@@ -1,0 +1,105 @@
+{
+    "title": "Molasses Cookies",
+    "Category": "Christmas Cookies",
+    "Ingredients": [
+        {
+            "1": "0.5 cups white sugar, divided"
+        },
+        {
+            "2": "0.75 cup margarine, melted"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "0.25 cup molasses"
+        },
+        {
+            "5": "2 cups all-purpose flour"
+        },
+        {
+            "6": "2 teaspoons baking soda"
+        },
+        {
+            "7": "1 teaspoon ground cinnamon"
+        },
+        {
+            "8": "0.5 teaspoon salt"
+        },
+        {
+            "9": "0.5 teaspoon ground cloves"
+        },
+        {
+            "10": "0.5 teaspoon ground ginger"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix 1 cup sugar, margarine, and egg together in a medium bowl until smooth; stir in molasses."
+        },
+        {
+            "2": "Combine flour, baking soda, cinnamon, salt, cloves, and ginger in a separate medium bowl; add to the molasses mixture and stir until well combined. Cover and chill dough for 1 hour."
+        },
+        {
+            "3": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "4": "While the oven is preheating, roll dough into 1-inch diameter balls; roll each ball in remaining 1/2 cup white sugar before placing 2 inches apart on ungreased cookie sheets."
+        },
+        {
+            "5": "Bake in batches in the preheated oven until tops are cracked, about 8 to 10 minutes. Cool on wire racks."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 50 mins"
+        },
+        {
+            "Servings": "30 "
+        },
+        {
+            "Yield": "5 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "120"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429944.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429253.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9329784.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9026665.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/6XKpLBrsnc1B0qvYOy1ObCjlOK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/892569-6f693e343a744c6fb944397f1ac76502.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Quick Salmon Piccata",
+    "Category": "Salmon Recipes",
+    "Ingredients": [
+        {
+            "1": "4 (3 ounce) salmon fillets, skin removed"
+        },
+        {
+            "2": "1 salt and ground black pepper to taste"
+        },
+        {
+            "3": "0.25 cup all-purpose flour"
+        },
+        {
+            "4": "2 tablespoons vegetable oil"
+        },
+        {
+            "5": "0.25 cup dry white wine"
+        },
+        {
+            "6": "1 teaspoon finely minced garlic"
+        },
+        {
+            "7": "0.5 cup chicken broth"
+        },
+        {
+            "8": "2 tablespoons lemon juice"
+        },
+        {
+            "9": "1 tablespoon capers, drained"
+        },
+        {
+            "10": "2 tablespoons butter"
+        },
+        {
+            "11": "0.5  lemon, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Season salmon fillets with salt and pepper. Pour flour in a bowl and dredge salmon, shaking off the excess."
+        },
+        {
+            "2": "Heat oil in a skillet over medium heat and cook salmon fillets until browned on both sides, about 3 minutes per side. Transfer to a plate and keep warm."
+        },
+        {
+            "3": "Pour wine into the skillet and scrape browned bits from the bottom. Add garlic and cook until garlic is fragrant and slightly brown and liquid is reduced by half, about 1 minute. Add chicken broth, lemon juice, and capers. Bring to a boil while stirring. Stir in butter until melted. Return salmon fillets to skillet and spoon sauce over them."
+        },
+        {
+            "4": "Cook, turning fillets once, until salmon is cooked through and flakes easily with a fork, about 4 minutes. Serve salmon with sauce poured over it and garnish with lemon slices."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "283"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa9ba483e778b5e25949e984f0caea64e%2F1649286265607DE031-02F9-4B0F-BB1F-C6488397E5AA.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7997967.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7979032.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7964350.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

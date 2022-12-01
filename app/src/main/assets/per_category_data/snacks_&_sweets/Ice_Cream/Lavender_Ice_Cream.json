@@ -1,0 +1,75 @@
+{
+    "title": "Lavender Ice Cream",
+    "Category": "Ice Cream",
+    "Ingredients": [
+        {
+            "1": "3 cups milk"
+        },
+        {
+            "2": "2  stems of fresh lavender flowers"
+        },
+        {
+            "3": "8  egg yolks"
+        },
+        {
+            "4": "0.5 cups white sugar"
+        },
+        {
+            "5": "3 cups heavy cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat milk and lavender in a 3-quart saucepan over low heat until warmed through. Remove from heat, and allow lavender to infuse for about 20 minutes. Remove flowers."
+        },
+        {
+            "2": "Beat egg yolks and sugar together in a large bowl. Whisk lavender-infused milk into egg mixture, then pour it back into the saucepan. Heat mixture over low heat, constantly whisking until mixture thickens and can coat the back of a spoon, 7 to 10 minutes. Remove from heat, and cool slightly, about 5 minutes. Stir in heavy cream. Transfer mixture to a bowl, and chill in the refrigerator at least 4 hours."
+        },
+        {
+            "3": "Pour chilled mixture into an ice cream maker and freeze according to the manufacturer's directions until it reaches a soft-serve consistency. Transfer ice cream to a lidded container; cover the surface with plastic wrap and seal. For best results, ice cream should be placed in the freezer at least 2 hours or overnight."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": " 6 hrs 20 mins"
+        },
+        {
+            "Total Time": " 6 hrs 50 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "368"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc86114a5d1893773b1b0bcbb38b28e31%2F7244153.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F893779.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F866270.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

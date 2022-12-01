@@ -1,0 +1,102 @@
+{
+    "title": "Quinoa Black Bean Burgers",
+    "Category": "Burgers",
+    "Ingredients": [
+        {
+            "1": "0.25 cup quinoa"
+        },
+        {
+            "2": "0.5 cup water"
+        },
+        {
+            "3": "1 (15 ounce) can black beans, rinsed and drained"
+        },
+        {
+            "4": "0.5 cup bread crumbs"
+        },
+        {
+            "5": "0.25 cup minced yellow bell pepper"
+        },
+        {
+            "6": "1 large egg"
+        },
+        {
+            "7": "2 tablespoons minced onion"
+        },
+        {
+            "8": "1 large clove garlic, minced"
+        },
+        {
+            "9": "0.5 teaspoons ground cumin"
+        },
+        {
+            "10": "0.5 teaspoon salt"
+        },
+        {
+            "11": "1 teaspoon hot pepper sauce (such as Frank's RedHot\u00ae)"
+        },
+        {
+            "12": "3 tablespoons olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring quinoa and water to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until quinoa is tender and water has been absorbed, about 15 to 20 minutes."
+        },
+        {
+            "2": "Roughly mash black beans with a fork, leaving some whole black beans, to form a paste-like mixture. Mix quinoa, bread crumbs, bell pepper, egg, onion, garlic, cumin, salt, and hot pepper sauce into black beans using your hands. Form black bean mixture into 5 patties."
+        },
+        {
+            "3": "Heat olive oil in a large skillet."
+        },
+        {
+            "4": "Cook patties in hot oil until heated through, 2 to 3 minutes per side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "5 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "245"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb0fe46e7fd4087dc2a68371f5aa53a87%2F165222476320220510_191415.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9065836.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8634414.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8634417.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/r5CEBYsSPSOqTxi-gpf40ZWt42o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5858755-quinoa-black-bean-burgers-Autumneyes-1x1-1-8dbacd9c8d51462ea1a9d0aa6a4b08ff.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

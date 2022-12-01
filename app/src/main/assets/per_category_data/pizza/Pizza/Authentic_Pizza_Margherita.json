@@ -1,0 +1,114 @@
+{
+    "title": "Authentic Pizza Margherita",
+    "Category": "Pizza",
+    "Ingredients": [
+        {
+            "1": "1.5 cups all-purpose flour"
+        },
+        {
+            "2": "1 teaspoon salt"
+        },
+        {
+            "3": "1 cup water"
+        },
+        {
+            "4": "1 (.25 ounce) package active dry yeast"
+        },
+        {
+            "5": "1 pinch white sugar"
+        },
+        {
+            "6": "0.25 cup flour for dusting"
+        },
+        {
+            "7": "2 cups pizza sauce"
+        },
+        {
+            "8": "20 slices fresh mozzarella cheese"
+        },
+        {
+            "9": "20 leaves fresh basil"
+        },
+        {
+            "10": "1 olive oil"
+        },
+        {
+            "11": "1 sea salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir flour and 1 teaspoon salt in a bowl. Set aside."
+        },
+        {
+            "2": "Mix water, yeast, and sugar in a large bowl. Let stand until yeast begins to form a creamy foam, about 5 minutes."
+        },
+        {
+            "3": "Stir half the flour mixture into yeast mixture until no dry spots remain. Stir in remaining flour, 1/2 cup at a time, mixing well after each addition. When dough pulls together, turn it out onto a lightly floured surface and knead until smooth and elastic, about 8 minutes."
+        },
+        {
+            "4": "Lightly oil a large bowl, then place dough in the bowl and turn to coat with oil. Cover with a light cloth and let rise in a warm place (80 to 95 degrees F (27 to 35 degrees C)) until doubled in volume, about 1 hour. Punch dough down, divide into 4 equal pieces, and form each into a ball."
+        },
+        {
+            "5": "Preheat oven with a pizza stone to 500 degrees F (260 degrees C)."
+        },
+        {
+            "6": "Stretch out and pat 1 dough ball to form a circle 10 to 12 inches in diameter. Place dough on a lightly floured pizza peel. Top with 1/2 cup of tomato sauce and spread to cover within an inch of the edge of the dough. Arrange 5 slices of mozzarella cheese on top of the tomato sauce, then place 5 basil leaves on top. Drizzle pizza with 1 tablespoon olive oil and sprinkle with sea salt to taste. Repeat for 3 remaining dough balls."
+        },
+        {
+            "7": "Slide each pizza onto the pizza stone in the preheated oven. Bake until cheese is bubbly and the underside of the crust is golden brown, 5 to 7 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 pizzas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "966"
+        },
+        {
+            "Fat": "37g"
+        },
+        {
+            "Carbs": "106g"
+        },
+        {
+            "Protein": "49g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9338b09b674db5835e6e45023b2bef85%2F1648075385IMG_20220323_165516767.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5779178.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5463044.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F58889f153e2f587e29123fc65a37d410%2F5111935.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/2rQA_OlnLbhidei70glz6HCCYAs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1453815-authentic-pizza-margherita-Cynthia-Ross-4x3-1-7410c69552274163a9049342b60c22ff.jpg"
+        }
+    ],
+    "main category": "pizza"
+}

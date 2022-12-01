@@ -1,0 +1,132 @@
+{
+    "title": "Seafood Gumbo",
+    "Category": "Gumbo",
+    "Ingredients": [
+        {
+            "1": "0.5 teaspoon ground cayenne pepper"
+        },
+        {
+            "2": "0.5 teaspoon ground white pepper"
+        },
+        {
+            "3": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "4": "0.5 teaspoons paprika"
+        },
+        {
+            "5": "0.5 teaspoon dried thyme"
+        },
+        {
+            "6": "0.5 teaspoon dried oregano"
+        },
+        {
+            "7": "1  bay leaf, crushed"
+        },
+        {
+            "8": "1 teaspoon salt"
+        },
+        {
+            "9": "0.75 cup vegetable oil"
+        },
+        {
+            "10": "2 cups chopped celery"
+        },
+        {
+            "11": "2 cups chopped onion"
+        },
+        {
+            "12": "2 cups chopped green bell pepper"
+        },
+        {
+            "13": "1 teaspoon minced garlic"
+        },
+        {
+            "14": "3 tablespoons file powder"
+        },
+        {
+            "15": "2 teaspoons hot pepper sauce"
+        },
+        {
+            "16": "0.5 cups tomato sauce"
+        },
+        {
+            "17": "7 cups fish stock"
+        },
+        {
+            "18": "2 cups shucked oysters"
+        },
+        {
+            "19": "1 cup crabmeat"
+        },
+        {
+            "20": "1 pound small shrimp - peeled and deveined, shells reserved for stock"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine the red, white, and black peppers, paprika, thyme, oregano, bay leaf, and salt; set aside."
+        },
+        {
+            "2": "In a heavy pot, 5 quart or larger, heat oil over medium heat, warming the pot first. Add onions, celery, and green pepper. Turn heat to high. Stirring frequently, add garlic, file, hot sauce, and the pepper-herb mixture. Cook for 5 minutes, stirring constantly."
+        },
+        {
+            "3": "Add tomato sauce, and stir as it reduces over high heat. Add fish stock and bring to a boil. Reduce heat, and simmer for 1 hour, stirring occasionally."
+        },
+        {
+            "4": "When ready to serve, add shrimp, oysters, and crabmeat. Cover, and wait 5 minutes. Turn off heat, and let stand for 10 minutes. Serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 20 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "357"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9092089.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8424561.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8394041.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7774158.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/8ljbAK1k1fbPqbfvc3eHuNOFSYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3126190-7ac108cdb9f04dba86d168f56e72c063.jpg"
+        }
+    ],
+    "main category": "soups"
+}

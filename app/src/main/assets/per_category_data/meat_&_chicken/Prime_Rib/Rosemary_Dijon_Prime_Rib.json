@@ -1,0 +1,81 @@
+{
+    "title": "Rosemary Dijon Prime Rib",
+    "Category": "Prime Rib",
+    "Ingredients": [
+        {
+            "1": "1 (5 pound) prime rib roast"
+        },
+        {
+            "2": "3 cloves garlic, thinly sliced"
+        },
+        {
+            "3": "1 kosher salt to taste"
+        },
+        {
+            "4": "0.5 cup Dijon mustard, or to taste"
+        },
+        {
+            "5": "3 sprigs fresh rosemary, leaves stripped, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "2": "Slice small cuts along the outside edges of the roast; fill cuts with garlic slices. Generously salt the entire roast. Spread a thin layer of Dijon mustard over the entire roast; generously sprinkle mustard layer with rosemary leaves. Place roast, bone side-down, in a baking dish."
+        },
+        {
+            "3": "Bake in the preheated oven for 30 minutes. Reduce oven temperature to 350 degrees F (175 degrees C). Place a meat thermometer in the thickest part of the meat not touching the bone. Cook to your desired degree of doneness, or an internal temperature of at least 145 degrees F (65 degrees C) for medium, about 1 1/2 hours. Remove from the oven, cover with a doubled sheet of aluminum foil, and allow to rest in a warm area 10 to 15 minutes before slicing."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 2 hrs"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 2 hrs 25 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 prime rib roast"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "436"
+        },
+        {
+            "Fat": "37g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8886066.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5836616.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4503842.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2509980.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

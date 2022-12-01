@@ -1,0 +1,81 @@
+{
+    "title": "Grilled Hot Turkey Sandwiches",
+    "Category": "Sandwiches",
+    "Ingredients": [
+        {
+            "1": "4 tablespoons mayonnaise"
+        },
+        {
+            "2": "2 tablespoons salsa"
+        },
+        {
+            "3": "2  green onions, chopped"
+        },
+        {
+            "4": "8 slices  sourdough bread"
+        },
+        {
+            "5": "0.5 pound deli-sliced turkey"
+        },
+        {
+            "6": "4 slices pepperjack cheese"
+        },
+        {
+            "7": "4 tablespoons butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix the mayonnaise, salsa, and green onions in a small bowl. Spread the seasoned mayonnaise evenly on each slice of bread. Layer the turkey and cheese on 4 of the slices. Top with remaining bread to make 4 sandwiches."
+        },
+        {
+            "2": "Melt 2 tablespoons butter in a large skillet over medium heat. Fry sandwiches in butter until lightly toasted. Add remaining butter to skillet, turn sandwiches over. Cook until the cheese is melted, and the bread is browned."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 sandwiches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "515"
+        },
+        {
+            "Fat": "34g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8aee78ab295e0d4fc8494d12be8e6040%2F5619825.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5620016.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb1000f259a2648b0cb7bef3c3b82eaf3%2F5228255.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5178487.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "5 Minute Microwave Cornbread",
+    "Category": "Cornbread",
+    "Ingredients": [
+        {
+            "1": "0.5 cup all-purpose flour"
+        },
+        {
+            "2": "0.5 cup cornmeal"
+        },
+        {
+            "3": "2 tablespoons white sugar"
+        },
+        {
+            "4": "2 teaspoons baking powder"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "1  egg"
+        },
+        {
+            "7": "0.5 cup milk"
+        },
+        {
+            "8": "2 tablespoons vegetable oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix the flour, cornmeal, sugar, baking powder, salt, egg, milk, and vegetable oil in a microwave-safe glass or ceramic bowl."
+        },
+        {
+            "2": "Heat in the microwave on high, until a toothpick inserted into the center comes out clean, about 3 minutes, rotating the bowl halfway through cooking if the microwave does not have a rotating tray."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "7 mins"
+        },
+        {
+            "Cook Time": "3 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "154"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F09c93bb6a07886d5810aee5182e0d591%2F1655667363image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8657748.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8502006.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8337297.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

@@ -1,0 +1,108 @@
+{
+    "title": "Quick Chili",
+    "Category": "Stew",
+    "Ingredients": [
+        {
+            "1": "2 pounds ground beef"
+        },
+        {
+            "2": "1  onion, finely diced"
+        },
+        {
+            "3": "3 cloves garlic, minced"
+        },
+        {
+            "4": "2 (14.5 ounce) cans diced tomatoes with green chile peppers"
+        },
+        {
+            "5": "1 (15 ounce) can kidney beans"
+        },
+        {
+            "6": "1 (15 ounce) can pinto beans"
+        },
+        {
+            "7": "1 (14.5 ounce) can diced tomatoes"
+        },
+        {
+            "8": "1 (8 ounce) can tomato sauce"
+        },
+        {
+            "9": "1 cup water"
+        },
+        {
+            "10": "2 tablespoons chili powder"
+        },
+        {
+            "11": "2 tablespoons white sugar"
+        },
+        {
+            "12": "1 tablespoon hot pepper sauce"
+        },
+        {
+            "13": "1 tablespoon ground cumin"
+        },
+        {
+            "14": "1 tablespoon salt"
+        },
+        {
+            "15": "1 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large stockpot over medium-high heat. Cook and stir ground beef in the hot pot until browned and crumbly, 5 to 7 minutes. Drain and discard grease."
+        },
+        {
+            "2": "Add onion and garlic to beef and cook until onion is translucent, 3 to 4 minutes."
+        },
+        {
+            "3": "Stir in diced tomatoes with chile peppers, kidney beans, pinto beans, tomatoes, tomato sauce, water, chili powder, sugar, hot pepper sauce, cumin, salt, and pepper. Bring to a boil, reduce heat, and simmer for 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "489"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9444058.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8177312.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7866070.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7760520.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/lzBRb-461TXcmsPzm46052JPcJM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13329_QuickChili_1x1_CD_55750-1-d65958f1043c4875859a88ce7468592e.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

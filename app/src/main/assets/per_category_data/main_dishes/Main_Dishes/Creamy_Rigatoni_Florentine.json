@@ -1,0 +1,102 @@
+{
+    "title": "Creamy Rigatoni Florentine",
+    "Category": "Main Dishes",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package rigatoni pasta"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "2 pounds boneless chicken, cubed"
+        },
+        {
+            "4": "0.25 cup sliced fresh mushrooms, or more to taste"
+        },
+        {
+            "5": "3 cloves garlic, chopped"
+        },
+        {
+            "6": "1 (26 ounce) jar spaghetti sauce"
+        },
+        {
+            "7": "1 pint half-and-half"
+        },
+        {
+            "8": "1 teaspoon Italian seasoning, or to taste (Optional)"
+        },
+        {
+            "9": "1 (10 ounce) package fresh spinach, chopped"
+        },
+        {
+            "10": "1 cup shredded mozzarella cheese (Optional)"
+        },
+        {
+            "11": "1 tablespoon shredded Parmesan cheese, or more to taste"
+        },
+        {
+            "12": "8 leaves fresh basil, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook rigatoni in the boiling water, stirring occasionally until cooked through but firm to the bite, about 8 to 10 minutes. Drain."
+        },
+        {
+            "2": "Heat olive oil in a skillet over medium-high heat; saute chicken until no longer pink in the center, about 10 minutes. Transfer chicken to a plate. Add mushrooms to skillet; saute until mushrooms are tender, 5 to 10 minutes. Add garlic; saute until fragrant and golden, 1 to 2 minutes."
+        },
+        {
+            "3": "Stir spaghetti sauce, half-and-half, and Italian seasoning into mushroom mixture; cook and stir over medium heat until sauce thickens, 10 to 15 minutes. Mix cooked chicken and spinach into sauce and cook until spinach is wilted, about 5 minutes."
+        },
+        {
+            "4": "Stir pasta into sauce and add mozzarella cheese; stir until cheese melts. Garnish dish with Parmesan cheese and fresh basil."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "592"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "59g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9321595.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9202077.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8414171.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8335850.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

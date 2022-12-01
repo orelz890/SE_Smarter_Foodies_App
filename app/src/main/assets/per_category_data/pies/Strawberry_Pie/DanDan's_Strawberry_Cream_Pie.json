@@ -1,0 +1,87 @@
+{
+    "title": "DanDan's Strawberry Cream Pie",
+    "Category": "Strawberry Pie",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "2": "0.25 cup white sugar"
+        },
+        {
+            "3": "0.5 teaspoon vanilla extract"
+        },
+        {
+            "4": "0.75 cup sliced fresh strawberries, mashed"
+        },
+        {
+            "5": "1 cup heavy whipping cream"
+        },
+        {
+            "6": "0.25 cup confectioners' sugar"
+        },
+        {
+            "7": "0.25 cup sliced fresh strawberries"
+        },
+        {
+            "8": "1 (9 inch) prepared graham cracker crust"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix cream cheese, white sugar, and vanilla extract in a large bowl until smooth. Stir 3/4 cup mashed strawberries into cream cheese mixture."
+        },
+        {
+            "2": "Beat heavy cream and confectioners' sugar in a glass or metal bowl until stiff peaks form. Lift your beater or whisk straight up: the cream will form sharp peaks. Fold whipped cream into cream cheese mixture until evenly mixed; fold in remaining 1/4 cup sliced strawberries."
+        },
+        {
+            "3": "Spoon strawberry mixture into graham cracker crust. Chill at least 3 hours before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Additional Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "395"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F473c555904b7e4daadf11b0f098be2d7%2F1653854190A1472730-C42A-471D-A208-A8DE0A7817AF.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F473c555904b7e4daadf11b0f098be2d7%2F165377272120220403_182226%280%29.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9060811.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8370727.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

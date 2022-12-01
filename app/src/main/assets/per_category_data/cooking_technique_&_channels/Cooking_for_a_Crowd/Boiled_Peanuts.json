@@ -1,0 +1,75 @@
+{
+    "title": "Boiled Peanuts",
+    "Category": "Cooking for a Crowd",
+    "Ingredients": [
+        {
+            "1": "5 pounds raw peanuts, in shells"
+        },
+        {
+            "2": "1 cup salt, or to taste"
+        },
+        {
+            "3": "1 water to cover"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Wash peanuts and place them in a pot. Add salt, then water to cover. Bring water to a boil."
+        },
+        {
+            "2": "Let peanuts boil in water for 3 hours."
+        },
+        {
+            "3": "Test peanuts; add more salt to taste if needed and continue cooking until they reach the softness/consistency you desire."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 5 mins"
+        },
+        {
+            "Servings": "40 "
+        },
+        {
+            "Yield": "5 pounds"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "322"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F70ceffcb57c3325d7a6294d9ea9523fa%2F16591045610704191718.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9286296.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8468268.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6ecaf3b4de8a576c0f3b8225bca99cec%2F7594103.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/JU6r9vCTrDgDQnah5-VkKwvSY70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1605343-c6d4fd1bf2104fb89d581837a6b446ec.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

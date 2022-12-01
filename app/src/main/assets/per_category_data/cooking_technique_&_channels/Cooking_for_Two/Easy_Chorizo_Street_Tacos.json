@@ -1,0 +1,81 @@
+{
+    "title": "Easy Chorizo Street Tacos",
+    "Category": "Cooking for Two",
+    "Ingredients": [
+        {
+            "1": "1  chorizo sausage link, casing removed and meat crumbled"
+        },
+        {
+            "2": "2 tablespoons chipotle peppers in adobo sauce"
+        },
+        {
+            "3": "4  corn tortillas"
+        },
+        {
+            "4": "2 tablespoons chopped onion, or to taste"
+        },
+        {
+            "5": "2 tablespoons chopped fresh cilantro, or to taste (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix together crumbled chorizo and chipotle peppers in adobo sauce in a bowl."
+        },
+        {
+            "2": "Heat a skillet over medium-high heat; add chorizo mixture and cook until crisp, 5 to 7 minutes. Transfer to a plate, reserving grease in the skillet."
+        },
+        {
+            "3": "Heat tortillas in reserved grease in the skillet over medium heat until warmed, 1 to 2 minutes per side. Stack 2 tortillas for each taco, then fill with chorizo, onion, and cilantro."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 tacos"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "262"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9420272.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9350646.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9308548.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7581159.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/B8LABI3tZsd91f1lwxvlS6w6HMo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-321-1acc9ef3a3cf44dc93bea4921c0d517a.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Seven Layer Tex Mex Dip",
+    "Category": "Tex-Mex Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) can refried beans"
+        },
+        {
+            "2": "1 cup guacamole"
+        },
+        {
+            "3": "0.25 cup mayonnaise"
+        },
+        {
+            "4": "1 (8 ounce) container sour cream"
+        },
+        {
+            "5": "1 (1 ounce) package taco seasoning mix"
+        },
+        {
+            "6": "2 cups shredded Cheddar cheese"
+        },
+        {
+            "7": "1  tomato, chopped"
+        },
+        {
+            "8": "0.25 cup chopped green onions"
+        },
+        {
+            "9": "0.25 cup black olives, drained"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large serving dish, spread the refried beans. Layer the guacamole on top of the beans."
+        },
+        {
+            "2": "In a medium bowl, mix the mayonnaise, sour cream and taco seasoning mix. Spread over the layer of guacamole."
+        },
+        {
+            "3": "Sprinkle a layer of Cheddar cheese over the mayonnaise mixture layer. Sprinkle tomato, green onions and black olives over the cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "221"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9228190.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9046922.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8545762.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7695761.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Extra Easy Hummus",
+    "Category": "Hummus",
+    "Ingredients": [
+        {
+            "1": "1 (15 ounce) can garbanzo beans, drained, liquid reserved"
+        },
+        {
+            "2": "1 clove garlic, crushed"
+        },
+        {
+            "3": "2 teaspoons ground cumin"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "1 tablespoon olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a blender or food processor combine garbanzo beans, garlic, cumin, salt and olive oil. Blend on low speed, gradually adding reserved bean liquid, until desired consistency is achieved."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "118"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8289036.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6889451.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6603740.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcf3d8d143e21c9aff520c8a7c9c6a97e%2F5963737.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/hL9f5cCm7wDg90Q0WsBOGgXEoB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/588854-274b47807d6a4f09996f6c9a09c77293.jpg"
+        }
+    ],
+    "main category": "side_dishes"
+}

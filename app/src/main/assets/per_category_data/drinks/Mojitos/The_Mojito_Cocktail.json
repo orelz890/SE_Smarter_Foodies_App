@@ -1,0 +1,81 @@
+{
+    "title": "The Mojito Cocktail",
+    "Category": "Mojitos",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons white sugar"
+        },
+        {
+            "2": "4 sprigs fresh mint"
+        },
+        {
+            "3": "1 fluid ounce club soda"
+        },
+        {
+            "4": "1  lime, halved"
+        },
+        {
+            "5": "2 fluid ounces light rum"
+        },
+        {
+            "6": "0.5 cups ice"
+        },
+        {
+            "7": "2 fluid ounces club soda"
+        },
+        {
+            "8": "1 sprig fresh mint"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Muddle sugar and mint with soda water in pint glass. Squeeze both halves of lime into the glass leaving one hull in the mixture. Add rum, stir, and fill with ice. Top with club soda."
+        },
+        {
+            "2": "Garnish with a mint sprig."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 cocktail"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "250"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3829562.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F20918d124f6596071bae76ea70e0636e%2F1585474.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1215402.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc077cb1d1a5097469ea2a0a9a0968c57%2F993575.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

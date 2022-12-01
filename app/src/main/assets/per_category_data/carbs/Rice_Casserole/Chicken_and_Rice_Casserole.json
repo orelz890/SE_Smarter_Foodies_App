@@ -1,0 +1,66 @@
+{
+    "title": "Chicken and Rice Casserole",
+    "Category": "Rice Casserole",
+    "Ingredients": [
+        {
+            "1": "1 cup white rice"
+        },
+        {
+            "2": "4  skinless, boneless chicken breast halves"
+        },
+        {
+            "3": "1 (1 ounce) package French onion soup mix"
+        },
+        {
+            "4": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Spread rice into a casserole dish. Lay chicken breasts onto the bed of rice. Sprinkle French onion soup mix over the chicken. Pour cream of mushroom soup over the chicken. Cover casserole dish with aluminum foil."
+        },
+        {
+            "3": "Bake in preheated oven for 45 minutes. Remove aluminum foil and continue baking until the rice is tender and the chicken no longer pink in the center, about 15 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "382"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4487582.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

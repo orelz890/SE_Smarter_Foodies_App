@@ -1,0 +1,81 @@
+{
+    "title": "Mushroom Rice",
+    "Category": "Low-Cholesterol Recipes",
+    "Ingredients": [
+        {
+            "1": "2 teaspoons butter"
+        },
+        {
+            "2": "6  mushrooms, coarsely chopped"
+        },
+        {
+            "3": "1  green onion, finely chopped"
+        },
+        {
+            "4": "1 clove garlic, minced"
+        },
+        {
+            "5": "2 cups chicken broth"
+        },
+        {
+            "6": "1 cup uncooked white rice"
+        },
+        {
+            "7": "0.5 teaspoon chopped fresh parsley"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a saucepan over medium heat. Cook mushrooms, green onion, and garlic in butter until mushrooms are cooked and liquid has evaporated, about 5 minutes."
+        },
+        {
+            "2": "Stir in chicken broth and rice. Season with parsley, salt, and pepper. Bring to a boil, then reduce heat. Cover and simmer until liquid is absorbed, about 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "216"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7934468.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7809665.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7743811.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7137782.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

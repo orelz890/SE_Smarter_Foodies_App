@@ -1,0 +1,90 @@
+{
+    "title": "Simple Teriyaki Sauce",
+    "Category": "Side Dishes",
+    "Ingredients": [
+        {
+            "1": "1 cup water"
+        },
+        {
+            "2": "0.25 cup soy sauce"
+        },
+        {
+            "3": "5 teaspoons packed brown sugar"
+        },
+        {
+            "4": "1 tablespoon honey, or more to taste"
+        },
+        {
+            "5": "0.5 teaspoon ground ginger"
+        },
+        {
+            "6": "0.25 teaspoon garlic powder"
+        },
+        {
+            "7": "2 tablespoons cornstarch"
+        },
+        {
+            "8": "0.25 cup cold water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine 1 cup water, soy sauce, brown sugar, honey, ginger, and garlic powder in a saucepan over medium heat. Cook until nearly heated through, about 1 minute."
+        },
+        {
+            "2": "Mix cornstarch and 1/4 cold water together in a cup; stir until dissolved. Add to the saucepan. Cook and stir sauce until thickened, 5 to 7 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "6 mins"
+        },
+        {
+            "Total Time": "11 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "21"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9d49c84d96bec42f165f9ed1cd6e3bc6%2F166931661658316693165963165447100808550948228.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F54fc66c07adce58a22c13ec60939cab2%2F16612236001A90B8F6-EBD4-4513-9A07-0E07D8566665.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F54fc66c07adce58a22c13ec60939cab2%2F165942414916594241241921528057450270114547.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F54fc66c07adce58a22c13ec60939cab2%2F1656182458image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/NvKQgVi5pTEFWeIZItLf2Z-WkiQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/259887-Simple-Teriyaki-Sauce-mfs_002-634db9591b124b9b8fea4098479a8058.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/A8LwII5pgOf2mqow2T2uiJ5Kh8A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/simple-teriyaki-sauce-28b56c4ddf434ff796b0e650c41467c3.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/ifsQtapjzF_Z4Pw9HJIVROT_Nw8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/259887-Simple-Teriyaki-Sauce-mfs_002-2-56d97913980c40898e11d86ebc152a6b.jpg"
+        }
+    ],
+    "main category": "side_dishes"
+}

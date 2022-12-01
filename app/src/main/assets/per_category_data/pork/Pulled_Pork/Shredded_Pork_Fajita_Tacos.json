@@ -1,0 +1,93 @@
+{
+    "title": "Shredded Pork Fajita Tacos",
+    "Category": "Pulled Pork",
+    "Ingredients": [
+        {
+            "1": "0.25 cup butter"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "1  green bell pepper, chopped"
+        },
+        {
+            "4": "1 (16 ounce) package shredded pork"
+        },
+        {
+            "5": "0.25 cup water"
+        },
+        {
+            "6": "1 (1 ounce) package fajita seasoning"
+        },
+        {
+            "7": "6 (6 inch) corn tortillas"
+        },
+        {
+            "8": "1 Toppings-"
+        },
+        {
+            "9": "1 cup shredded lettuce"
+        },
+        {
+            "10": "1 cup tomatoes, chopped"
+        },
+        {
+            "11": "1 cup Shredded Cheddar cheese"
+        },
+        {
+            "12": "1 (8 ounce) jar salsa (Optional)"
+        },
+        {
+            "13": "1 (8 ounce) carton sour cream (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat butter in a large skillet over medium heat until melted, 3 to 5 minutes. Stir in onion and green pepper; cook and stir until softened, about 5 minutes. Add shredded pork, water, and fajita seasoning; cook and stir until heated through, about 5 minutes."
+        },
+        {
+            "2": "Place tortillas in a skillet over low heat until warmed, 1 to 2 minutes. Remove tortillas from the skillet. Spoon shredded pork mixture into tortillas; top with lettuce, tomato, Cheddar cheese, salsa, and sour cream."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "14 mins"
+        },
+        {
+            "Total Time": "24 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "455"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8556419.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5099465.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

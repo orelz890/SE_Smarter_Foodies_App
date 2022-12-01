@@ -1,0 +1,66 @@
+{
+    "title": "Tuna Lettuce Wraps",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "1 (6 ounce) can chunk light tuna, drained"
+        },
+        {
+            "2": "2 tablespoons chopped onion"
+        },
+        {
+            "3": "1 tablespoon light mayonnaise"
+        },
+        {
+            "4": "1 salt and ground black pepper to taste"
+        },
+        {
+            "5": "3 leaves green lettuce, rinsed and patted dry"
+        },
+        {
+            "6": "2 tablespoons finely shredded low-fat Cheddar cheese (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine tuna, mayonnaise, onion, salt, and pepper in a bowl."
+        },
+        {
+            "2": "Lay lettuce leaves out. Divide tuna mixture among the leaves, placing it in the middle of each leaf. Sprinkle Cheddar cheese over the tuna. Roll leaves up to create wraps."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "3 "
+        },
+        {
+            "Yield": "3 lettuce wraps"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "95"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7855198.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

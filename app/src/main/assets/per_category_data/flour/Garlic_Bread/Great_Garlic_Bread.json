@@ -1,0 +1,87 @@
+{
+    "title": "Great Garlic Bread",
+    "Category": "Garlic Bread",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter"
+        },
+        {
+            "2": "0.5 tablespoons garlic powder"
+        },
+        {
+            "3": "1 tablespoon dried parsley"
+        },
+        {
+            "4": "1 (1 pound) loaf Italian bread, cut into 1/2 inch slices"
+        },
+        {
+            "5": "1 (8 ounce) package shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Melt butter in a small saucepan over medium heat; stir in garlic powder and dried parsley."
+        },
+        {
+            "3": "Place bread slices on a medium baking sheet. Using a basting brush, brush bread generously with melted butter mixture."
+        },
+        {
+            "4": "Bake in the preheated oven until lightly toasted, about 10 minutes."
+        },
+        {
+            "5": "Sprinkle bread with mozzarella cheese and any remaining butter mixture. Continue baking until cheese is melted and bread is lightly browned, about 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 1-pound loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "332"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F57170809f7e448f8e08ab3bb28c12371%2F165983335013FB6C80-A234-4102-9B8A-814150D3BD08.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F57170809f7e448f8e08ab3bb28c12371%2F1655066851garlicBread.png&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9305567.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9305570.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/sbUe6CM823Loui-C8LXflE4CTgQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21080-great-garlic-bread-1x1-0159-fab72fd3f11d4b6fabf68068f4edbc30.jpg"
+        }
+    ],
+    "main category": "flour"
+}

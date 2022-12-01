@@ -1,0 +1,75 @@
+{
+    "title": "Nana's Acorn Squash",
+    "Category": "Hanukkah Recipes",
+    "Ingredients": [
+        {
+            "1": "1  acorn squash, halved and seeded"
+        },
+        {
+            "2": "1 salt and pepper to taste"
+        },
+        {
+            "3": "4 tablespoons butter, divided"
+        },
+        {
+            "4": "4 tablespoons brown sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a microwave safe casserole dish pour enough water to reach 1 1/2 inches in depth. Place the squash halves cut side down in the water, and pierce the skin with a fork a few times. Microwave on high for 15 to 20 minutes. Drain."
+        },
+        {
+            "2": "Sprinkle each half with salt and pepper to taste. Place 2 tablespoons butter and 2 tablespoons brown sugar in each half."
+        },
+        {
+            "3": "Broil 5 minutes, or until butter is melted. Mix the melted butter and sugar into the flesh, and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "400"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "51g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9003563.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8553410.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7144683.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6957930.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

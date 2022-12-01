@@ -1,0 +1,84 @@
+{
+    "title": "Arroz con Leche (Mexican Rice Pudding)",
+    "Category": "Rice Pudding",
+    "Ingredients": [
+        {
+            "1": "4 cups water"
+        },
+        {
+            "2": "0.5  cinnamon stick"
+        },
+        {
+            "3": "0.5 cups uncooked white rice"
+        },
+        {
+            "4": "4 cups whole milk"
+        },
+        {
+            "5": "4 cups evaporated milk"
+        },
+        {
+            "6": "0.25 cups white sugar"
+        },
+        {
+            "7": "2 pinches ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine water and cinnamon stick in a saucepan over high heat. Bring to a boil and cook until cinnamon releases its color and flavor, about 5 minutes. Add rice, reduce heat to low, cover, and cook until rice is tender and water is absorbed, about 20 minutes."
+        },
+        {
+            "2": "Gradually add whole milk to rice, then evaporated milk. Stir in sugar. Cook uncovered until sugar is dissolved and mixture has thickened, about 10 minutes."
+        },
+        {
+            "3": "Serve warm or cold. Sprinkle each portion with ground cinnamon."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "443"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "73g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8593048.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8592927.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8591754.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8589830.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

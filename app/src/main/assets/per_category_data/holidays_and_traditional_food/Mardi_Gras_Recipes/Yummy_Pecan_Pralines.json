@@ -1,0 +1,84 @@
+{
+    "title": "Yummy Pecan Pralines",
+    "Category": "Mardi Gras Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup brown sugar"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "0.5 cup evaporated milk"
+        },
+        {
+            "4": "2 tablespoons butter"
+        },
+        {
+            "5": "0.25 cups pecan halves"
+        },
+        {
+            "6": "0.25 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Generously grease a large slab or baking sheet."
+        },
+        {
+            "2": "In a saucepan over medium heat, combine brown sugar, white sugar and milk. Bring to a boil. Stir in butter, pecans and vanilla. Heat, without stirring, to between 234 and 240 degrees F (112 to 116 degrees C), or until a small amount of syrup dropped into cold water forms a soft ball that flattens when removed from the water and placed on a flat surface. Remove from heat and let cool 5 minutes."
+        },
+        {
+            "3": "Beat until thickened, then pour immediately onto prepared surface and let rest until firm and completely cool before cutting."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "20 pralines"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "146"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9001333.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6102951.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5918927.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5727096.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

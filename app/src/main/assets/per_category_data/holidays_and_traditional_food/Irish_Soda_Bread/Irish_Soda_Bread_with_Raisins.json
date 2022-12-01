@@ -1,0 +1,84 @@
+{
+    "title": "Irish Soda Bread with Raisins",
+    "Category": "Irish Soda Bread",
+    "Ingredients": [
+        {
+            "1": "8 cups all-purpose flour"
+        },
+        {
+            "2": "0.75 cup white sugar, or more to taste"
+        },
+        {
+            "3": "2 tablespoons baking powder"
+        },
+        {
+            "4": "1.0 teaspoons baking soda"
+        },
+        {
+            "5": "1 teaspoon salt"
+        },
+        {
+            "6": "0.5 cups buttermilk"
+        },
+        {
+            "7": "1 cup butter, softened"
+        },
+        {
+            "8": "2  eggs"
+        },
+        {
+            "9": "0.5 cups raisins"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper."
+        },
+        {
+            "2": "Mix flour, sugar, baking powder, baking soda, and salt together in a bowl. Add buttermilk, butter, and eggs. Knead together with your hands or use an electric mixer; add raisins. Split dough in half and form into 2 loaves. Place on the prepared baking sheet."
+        },
+        {
+            "3": "Bake in the preheated oven until a toothpick inserted into the center of each loaf comes out clean, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "2 loaves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "387"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "64g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9111592.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2156280.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Random Tuna Salad",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "1 (5 ounce) can solid white tuna packed in water, drained"
+        },
+        {
+            "2": "0.5 teaspoons mayonnaise"
+        },
+        {
+            "3": "2 teaspoons brown mustard"
+        },
+        {
+            "4": "2 tablespoons red wine vinegar, or to taste"
+        },
+        {
+            "5": "1  medium apple (Cameo, Braeburn, Gala or Fuji) -- peeled, cored and chopped"
+        },
+        {
+            "6": "1 tablespoon golden raisins"
+        },
+        {
+            "7": "0.25 teaspoon cracked rainbow peppercorns"
+        },
+        {
+            "8": "0.25 teaspoon Greek seasoning"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mash tuna together with mayonnaise, brown mustard, red wine vinegar, pepper and Greek seasoning. Fold in apple and raisins."
+        },
+        {
+            "2": "Fold in apple and raisins and serve on crackers, toasted whole grain bread, or wrapped in lettuce leaves."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "80"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F51318.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

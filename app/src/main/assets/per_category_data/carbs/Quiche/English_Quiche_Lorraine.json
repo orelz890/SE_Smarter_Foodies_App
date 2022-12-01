@@ -1,0 +1,84 @@
+{
+    "title": "English Quiche Lorraine",
+    "Category": "Quiche",
+    "Ingredients": [
+        {
+            "1": "1 sheet frozen puff pastry, thawed"
+        },
+        {
+            "2": "4 slices bacon - cooked and crumbled"
+        },
+        {
+            "3": "2  eggs"
+        },
+        {
+            "4": "1 cup milk"
+        },
+        {
+            "5": "2 cups shredded Swiss cheese"
+        },
+        {
+            "6": "1 salt and black pepper to taste"
+        },
+        {
+            "7": "1 small tomato, thinly sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 450 degrees F (220 degrees C). Press the puff pastry into the bottom and up the sides of a shallow casserole dish or 8 inch pie plate."
+        },
+        {
+            "2": "In a small bowl, beat eggs and milk with a fork until blended. Season with salt and pepper. Sprinkle a thin layer of Swiss cheese in the bottom of the pastry crust. Sprinkle crumbled bacon over the cheese. Pour the egg mixture into the pastry and sprinkle with the rest of the cheese. Arrange slices of tomato on top."
+        },
+        {
+            "3": "Bake in the preheated oven for 20 minutes. Reduce the oven temperature to 350 degrees F (175 degrees C). Continue to bake for an additional 30 minutes, or until crust is browned."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "761"
+        },
+        {
+            "Fat": "54g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9298777.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9163561.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3888651.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F626983.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

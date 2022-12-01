@@ -1,0 +1,87 @@
+{
+    "title": "Roasted Garlic Mashed Potatoes",
+    "Category": "Passover Recipes",
+    "Ingredients": [
+        {
+            "1": "1 medium head garlic"
+        },
+        {
+            "2": "1 tablespoon olive oil"
+        },
+        {
+            "3": "2 pounds russet potatoes, peeled and quartered"
+        },
+        {
+            "4": "4 tablespoons butter, softened"
+        },
+        {
+            "5": "0.5 cup milk"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Drizzle garlic with olive oil, then wrap in aluminum foil. Bake in preheated oven for 1 hour."
+        },
+        {
+            "3": "Bring a large pot of salted water to a boil. Add potatoes, and cook until tender, about 15 minutes. Drain, cool and chop. Stir in butter, milk, salt and pepper."
+        },
+        {
+            "4": "Remove the garlic from the oven, and cut in half. Squeeze the softened cloves into the potatoes. Blend potatoes with an electric mixer until desired consistency is achieved."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "172"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1653d7d97bd71f6b10e45f6db6a2f5bb%2F165634212820220621_160756.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9322594.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9174639.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8951557.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/z-6BtQRPLpUI6SswNGp8IVKWct0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/662862-a99298bc4d7f4a888d12c7aa76cf5b93.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Classic Old Fashioned",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "2 teaspoons simple syrup"
+        },
+        {
+            "2": "1 teaspoon water"
+        },
+        {
+            "3": "2 dashes bitters"
+        },
+        {
+            "4": "1 cup ice cubes"
+        },
+        {
+            "5": "1 (1.5 fluid ounce) jigger bourbon whiskey"
+        },
+        {
+            "6": "1 slice orange"
+        },
+        {
+            "7": "1  maraschino cherry"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour simple syrup, water, and bitters into a whiskey glass; stir to combine. Add ice cubes and pour in bourbon. Garnish with orange slice and maraschino cherry."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8644851.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8246774.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8180951.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7752735.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/soVce_H6l5tQiT7YsTIHdFl8cMU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/162397-classic-old-fashioned-mfs85-b0fa981d1e794b3da99e260d56c38f33.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/aVzJWeIkajOCawu4tWH-v-7HyYI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/classic-old-fashioned-45046e3f716349a088c87374ccbf7916.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/UJdAYIhtFXsS53p5CIpLN081erY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/162397-classic-old-fashioned-mfs85-1-3ef3650aa2c4496e815753ed2db16291.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

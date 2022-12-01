@@ -1,0 +1,69 @@
+{
+    "title": "Egg Halwa",
+    "Category": "Diwali Recipes",
+    "Ingredients": [
+        {
+            "1": "4 pods green cardamom"
+        },
+        {
+            "2": "1 cup milk"
+        },
+        {
+            "3": "4  eggs, beaten"
+        },
+        {
+            "4": "0.75 cup sugar"
+        },
+        {
+            "5": "0.5 cup shortening"
+        },
+        {
+            "6": "1 teaspoon semolina"
+        },
+        {
+            "7": "0.5 cup dry milk powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Crush the cardamom pods with the side of a knife. Combine the cardamom, milk, egg, sugar, shortening, semolina, and dry milk powder in a heavy bottom saucepan. Whisk well to combine, then cook on low heat, stirring occasionally until the eggs thicken. Continue cooking, stirring constantly, until the mixture browns, and the shortening begins to separate, about an hour. Remove cardamom pods and serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "556"
+        },
+        {
+            "Fat": "36g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fed596b068c104d4ffbae8aa83c17eadd%2F2107000.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

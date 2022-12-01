@@ -1,0 +1,99 @@
+{
+    "title": "Shrimp and Okra Gumbo",
+    "Category": "Gumbo",
+    "Ingredients": [
+        {
+            "1": "2 pounds medium shrimp - peeled and deveined"
+        },
+        {
+            "2": "1 salt and pepper to taste"
+        },
+        {
+            "3": "1 cayenne pepper to taste"
+        },
+        {
+            "4": "0.5 cup olive oil"
+        },
+        {
+            "5": "2 pounds chopped okra"
+        },
+        {
+            "6": "1 tablespoon tomato paste"
+        },
+        {
+            "7": "1  tomato, chopped"
+        },
+        {
+            "8": "1 cup chopped onion"
+        },
+        {
+            "9": "4 cloves garlic, minced"
+        },
+        {
+            "10": "0.5 cup chopped celery"
+        },
+        {
+            "11": "0.5 cup chopped green bell pepper"
+        },
+        {
+            "12": "12 cups water"
+        },
+        {
+            "13": "0.5 cup chopped green onions"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Season the shrimp with salt, pepper and cayenne to taste and set aside. Heat the oil in a large pot over medium heat. Add the okra and saute for 30 minutes, stirring occasionally. Add the tomato paste, tomato, onion, garlic, celery and green bell pepper and saute for 15 more minutes."
+        },
+        {
+            "2": "Add the water and season to taste. Bring to a boil, reduce heat to low and simmer for 45 minutes. Add the shrimp and simmer for 20 more minutes. Finally, add the green onion to the soup and stir thoroughly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "394"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9158718.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8910316.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8798731.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7802679.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

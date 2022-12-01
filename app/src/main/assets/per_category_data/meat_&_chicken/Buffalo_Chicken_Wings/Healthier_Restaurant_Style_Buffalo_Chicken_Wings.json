@@ -1,0 +1,96 @@
+{
+    "title": "Healthier Restaurant-Style Buffalo Chicken Wings",
+    "Category": "Buffalo Chicken Wings",
+    "Ingredients": [
+        {
+            "1": "0.5 cup all-purpose flour"
+        },
+        {
+            "2": "0.25 teaspoon paprika"
+        },
+        {
+            "3": "0.25 teaspoon cayenne pepper"
+        },
+        {
+            "4": "0.25 teaspoon salt"
+        },
+        {
+            "5": "10  chicken wings"
+        },
+        {
+            "6": "2 tablespoons butter"
+        },
+        {
+            "7": "0.25 cup hot sauce"
+        },
+        {
+            "8": "1 clove garlic, minced"
+        },
+        {
+            "9": "1 dash ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix together flour, paprika, cayenne pepper, and salt in a small bowl. Place chicken wings in a large dish and sprinkle flour mixture over them until well coated. Place on baking sheet and refrigerate for 1 hour, uncovered."
+        },
+        {
+            "2": "Preheat oven to 400 degrees F (204 degrees C)."
+        },
+        {
+            "3": "Bake wings in preheated oven until no longer pink at the bone and juices run clear, about 15 minutes per side."
+        },
+        {
+            "4": "Combine butter, hot sauce, pepper, and garlic in a small saucepan over low heat. Cook and stir until butter is melted and mixture is well blended, about 3 minutes. Place chicken wings in serving bowl and add hot sauce mixture, mixing well."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 45 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "10 chicken wings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "160"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa821be6a234fa53d7780667b6fdd2648%2F5475044.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5086269.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F79b2b5caa0837e94e4a7b65560178893%2F4468155.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4468143.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

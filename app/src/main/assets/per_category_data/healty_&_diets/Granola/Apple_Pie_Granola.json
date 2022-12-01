@@ -1,0 +1,81 @@
+{
+    "title": "Apple Pie Granola",
+    "Category": "Granola",
+    "Ingredients": [
+        {
+            "1": "5 cups rolled oats"
+        },
+        {
+            "2": "1 cup chopped apples"
+        },
+        {
+            "3": "1 cup coarsely chopped pecans"
+        },
+        {
+            "4": "0.75 cup butter, melted"
+        },
+        {
+            "5": "0.75 cup firmly packed brown sugar"
+        },
+        {
+            "6": "0.5 teaspoons ground cinnamon"
+        },
+        {
+            "7": "1 cup raisins"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Spread oats onto a 10x15-inch jelly roll pan."
+        },
+        {
+            "2": "Bake oats in the preheated oven until toasted, 10 to 12 minutes."
+        },
+        {
+            "3": "Combine toasted oats, apples, pecans, butter, brown sugar, and cinnamon in a large bowl until evenly combined; spread onto jelly roll pan."
+        },
+        {
+            "4": "Bake in the oven for 15 minutes. Stir raisins into granola and continue baking, stirring every 10 minutes, until oats granola is evenly browned, 20 to 25 minutes more. Cool granola to room temperature and stir until crumbly. Store granola in a tightly covered container in the refrigerator."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "8 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "294"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3405473.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6dc3ca27d06d4917bed3d824b3020676%2F2827021.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

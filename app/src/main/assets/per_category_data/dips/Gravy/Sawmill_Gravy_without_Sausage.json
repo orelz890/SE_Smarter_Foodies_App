@@ -1,0 +1,78 @@
+{
+    "title": "Sawmill Gravy without Sausage",
+    "Category": "Gravy",
+    "Ingredients": [
+        {
+            "1": "0.25 cup unsalted butter"
+        },
+        {
+            "2": "0.25 cup all-purpose flour"
+        },
+        {
+            "3": "2 cups whole milk"
+        },
+        {
+            "4": "1 teaspoon freshly cracked black pepper"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "0.25 teaspoon rubbed sage"
+        },
+        {
+            "7": "0.25 teaspoon garlic powder"
+        },
+        {
+            "8": "0.25 teaspoon onion powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a 4-quart pot or cast iron skillet over medium heat. Stir in flour until a paste forms. Cook, stirring constantly, until flour is a light golden color, 5 to 10 minutes. Add milk, whisking vigorously. Season with pepper, salt, sage, garlic powder, and onion powder. Cook until thickened but not boiling, about 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "103"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8087147.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7130984.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4579373.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

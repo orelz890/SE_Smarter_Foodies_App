@@ -1,0 +1,87 @@
+{
+    "title": "Pecan Chewies",
+    "Category": "Bar Cookies",
+    "Ingredients": [
+        {
+            "1": "0.75 cup butter"
+        },
+        {
+            "2": "3 cups packed light brown sugar"
+        },
+        {
+            "3": "3  eggs, beaten"
+        },
+        {
+            "4": "0.5 teaspoons vanilla extract"
+        },
+        {
+            "5": "3 cups chopped pecans"
+        },
+        {
+            "6": "3 cups self-rising flour"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13 inch pan, or for thinner bars, use a 10x15 inch jellyroll pan."
+        },
+        {
+            "2": "Melt butter in a saucepan over medium heat. Stir in brown sugar until smooth. Remove from heat and let cool slightly."
+        },
+        {
+            "3": "Stir the eggs and vanilla into the brown sugar and butter. Mix in the chopped pecans, and then the flour. Spread evenly in the prepared pan."
+        },
+        {
+            "4": "Bake for 25 minutes in the preheated oven, or until golden brown. Allow to cool before cutting into bars."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 bars"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "324"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7891434.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7213308.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7213310.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6446740.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/thJZFziA88McbldjtBtptejmo3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2410404-f28d3d428bad4b8d8b2052966d9a30fc.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

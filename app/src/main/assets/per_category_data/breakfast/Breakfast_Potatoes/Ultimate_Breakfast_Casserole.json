@@ -1,0 +1,90 @@
+{
+    "title": "Ultimate Breakfast Casserole",
+    "Category": "Breakfast Potatoes",
+    "Ingredients": [
+        {
+            "1": "3  eggs, beaten"
+        },
+        {
+            "2": "1 pinch ground black pepper"
+        },
+        {
+            "3": "1 (10.75 ounce) can  condensed cream of chicken soup"
+        },
+        {
+            "4": "16 ounces sour cream"
+        },
+        {
+            "5": "1 (2 pound) package frozen hash brown potatoes, thawed"
+        },
+        {
+            "6": "2 cups cooked ham, cubed"
+        },
+        {
+            "7": "1  onion, chopped"
+        },
+        {
+            "8": "0.75 cup shredded Cheddar cheese"
+        },
+        {
+            "9": "0.25 cup butter, melted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish."
+        },
+        {
+            "2": "Season beaten eggs with pepper; pour into baking dish. In a large bowl, combine soup, sour cream, hash browns, ham, onion and cheese. Mix thoroughly and pour over eggs."
+        },
+        {
+            "3": "Bake uncovered for 30 minutes. Remove and drizzle butter over top of casserole. Return to oven and bake for an additional 15 minutes, until golden."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "444"
+        },
+        {
+            "Fat": "37g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7095098.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6903373.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6730847.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1af548397c2e4615ee16008a2a3cab9d%2F6001691.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

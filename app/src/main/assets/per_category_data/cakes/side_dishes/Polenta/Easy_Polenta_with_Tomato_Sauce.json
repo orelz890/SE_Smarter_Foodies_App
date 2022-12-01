@@ -1,0 +1,78 @@
+{
+    "title": "Easy Polenta with Tomato Sauce",
+    "Category": "Polenta",
+    "Ingredients": [
+        {
+            "1": "2 cups milk"
+        },
+        {
+            "2": "2 cups chicken stock"
+        },
+        {
+            "3": "1 cup yellow cornmeal"
+        },
+        {
+            "4": "1 cup Parmesan cheese"
+        },
+        {
+            "5": "2 cups spaghetti sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9-inch square baking dish."
+        },
+        {
+            "2": "Bring milk and chicken stock to a rolling boil in a large pot over medium-high heat. Gradually whisk in cornmeal, making sure there are no lumps. Reduce the heat to low and simmer, stirring constantly, until thick, about 5 minutes. Remove from the heat and stir in Parmesan cheese."
+        },
+        {
+            "3": "Pour polenta into the prepared baking dish and spread spaghetti sauce over top."
+        },
+        {
+            "4": "Bake in the preheated oven until sauce is bubbling, about 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "270"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2061489.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2061497.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa7084b9f9273428f497755e167fa9b66%2F1100348.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0e9767d4700425c87f5f3ea683f23fbf%2F651753.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

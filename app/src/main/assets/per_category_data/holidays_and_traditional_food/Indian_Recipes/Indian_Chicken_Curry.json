@@ -1,0 +1,114 @@
+{
+    "title": "Indian Chicken Curry",
+    "Category": "Indian Recipes",
+    "Ingredients": [
+        {
+            "1": "3 tablespoons olive oil"
+        },
+        {
+            "2": "1 small onion, chopped"
+        },
+        {
+            "3": "2 cloves garlic, minced"
+        },
+        {
+            "4": "3 tablespoons curry powder"
+        },
+        {
+            "5": "1 teaspoon ground cinnamon"
+        },
+        {
+            "6": "1 teaspoon paprika"
+        },
+        {
+            "7": "1  bay leaf"
+        },
+        {
+            "8": "0.5 teaspoon grated fresh ginger root"
+        },
+        {
+            "9": "0.5 teaspoon white sugar"
+        },
+        {
+            "10": "1 salt to taste"
+        },
+        {
+            "11": "2  skinless, boneless chicken breast halves - cut into bite-size pieces"
+        },
+        {
+            "12": "1 tablespoon tomato paste"
+        },
+        {
+            "13": "1 cup plain yogurt"
+        },
+        {
+            "14": "0.75 cup coconut milk"
+        },
+        {
+            "15": "0.5  lemon, juiced"
+        },
+        {
+            "16": "0.5 teaspoon cayenne pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a skillet over medium heat. Saute onion until lightly browned. Stir in garlic, curry powder, cinnamon, paprika, bay leaf, ginger, sugar and salt. Continue stirring for 2 minutes. Add chicken pieces, tomato paste, yogurt, and coconut milk. Bring to a boil, reduce heat, and simmer for 20 to 25 minutes."
+        },
+        {
+            "2": "Remove bay leaf, and stir in lemon juice and cayenne pepper. Simmer 5 more minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "313"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4f1d3c6f339a9faab30adc8354adc869%2F1657984247IMG_20220716_105058.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4f1d3c6f339a9faab30adc8354adc869%2F164390112620220202_182726.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9338179.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9158155.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/e0Ve8zkR-v-vGr3ed2fHC2CtufA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/46822-Indian-Chicken-Curry-103300-4x3-1-971fa9fa8465495cb3e848ba87245bb3.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/TknagVFzwXxoYG3i-j76OMhZ_uo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1053643-295634ecf1344093987892a016024411.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/3BUQ8JgEBz38XjpG7phlZLB-CjM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/46822-Indian-Chicken-Curry-103303-1x1-1-4843e1524ac04c2aa8e464891857114b.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

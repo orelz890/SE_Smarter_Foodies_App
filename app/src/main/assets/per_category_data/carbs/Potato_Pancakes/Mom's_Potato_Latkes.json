@@ -1,0 +1,90 @@
+{
+    "title": "Mom's Potato Latkes",
+    "Category": "Potato Pancakes",
+    "Ingredients": [
+        {
+            "1": "3 cups shredded potato"
+        },
+        {
+            "2": "0.25 cup grated onion"
+        },
+        {
+            "3": "2 large eggs, beaten"
+        },
+        {
+            "4": "6  saltine crackers, or as needed, crushed"
+        },
+        {
+            "5": "0.5 teaspoon salt, or more to taste"
+        },
+        {
+            "6": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "7": "0.5 cup vegetable oil, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix potato, onion, eggs, crushed crackers, salt, and pepper together in a large bowl."
+        },
+        {
+            "2": "Heat 1/4 inch oil in a heavy skillet over medium-high heat."
+        },
+        {
+            "3": "Drop spoonfuls of the potato mixture, first pressing potato mixture against the side of the bowl to remove excess liquid, into the hot oil; slightly flatten the latkes into the oil with the back of your spoon so they are an even thickness."
+        },
+        {
+            "4": "Cook in batches in the hot oil until browned and crisp, 3 to 5 minutes per side. Drain latkes on a paper towel-line plate."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "371"
+        },
+        {
+            "Fat": "30g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8847628.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8838288.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8831676.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8828207.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ulvcY6bLXtwCgoiJlzd7LjHmzrc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1423828-e7c9604aac204fe8994937e8782d42c8.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/ZRho_0pBAyqz9w7QPjOlQ9Dr7SM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1423828-090a3d36c3fe4dda80c7adeaba5ea1a0.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

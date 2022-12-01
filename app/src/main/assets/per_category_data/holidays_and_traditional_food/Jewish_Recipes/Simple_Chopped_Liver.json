@@ -1,0 +1,84 @@
+{
+    "title": "Simple Chopped Liver",
+    "Category": "Jewish Recipes",
+    "Ingredients": [
+        {
+            "1": "2  eggs"
+        },
+        {
+            "2": "2 tablespoons canola oil"
+        },
+        {
+            "3": "1 salt to taste"
+        },
+        {
+            "4": "1 pound chicken livers, rinsed and trimmed"
+        },
+        {
+            "5": "2  onions, chopped"
+        },
+        {
+            "6": "1 pinch white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place eggs in a saucepan in a single layer and fill with water to cover eggs by 1 inch. Cover the saucepan and bring water to a boil over high heat. Once the water is boiling, remove from the heat and let eggs stand in the hot water for 15 minutes."
+        },
+        {
+            "2": "Pour out hot water, then cool eggs under cold running water in the sink. Peel and chop once cold."
+        },
+        {
+            "3": "Meanwhile, heat canola oil in a skillet over medium heat. Stir in onions; cook and stir until onions soften and turn translucent, about 5 minutes. Reduce heat to medium-low, and continue cooking and stirring until onions are very tender and golden brown, 5 to 10 minutes more. Place onions on a plate and set aside."
+        },
+        {
+            "4": "Stir chicken livers into the same skillet. Cook until no longer pink in the center and juices run clear. Place chicken livers on the same plate as onions and allow to cool completely."
+        },
+        {
+            "5": "Place chicken livers and onions in a food processor. Process until desired texture is achieved."
+        },
+        {
+            "6": "Place liver mixture in a bowl and season with salt and sugar. Stir in chopped eggs. Chill before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 40 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "121"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff9825bbdf9340349b48571a7bbe78fec%2F1643832110Simple%2520Chopped%2520Liver.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdbaecb1dc98c1f354e326be0b6fe7632%2F361078.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Crispy Potato Pancakes",
+    "Category": "Potato Pancakes",
+    "Ingredients": [
+        {
+            "1": "2 pounds potatoes, peeled and coarsely shredded"
+        },
+        {
+            "2": "2  onions, minced"
+        },
+        {
+            "3": "3  eggs, beaten"
+        },
+        {
+            "4": "0.25 cup all-purpose flour"
+        },
+        {
+            "5": "1 tablespoon baking powder"
+        },
+        {
+            "6": "1 teaspoon lemon juice"
+        },
+        {
+            "7": "1 pinch ground nutmeg, or to taste"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        },
+        {
+            "9": "0.25 cup vegetable oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix potatoes, onions, eggs, flour, baking powder, and lemon juice in a large bowl; season with nutmeg, salt, and black pepper. Shape potato mixture into 12 evenly sized patties."
+        },
+        {
+            "2": "Heat vegetable oil in a large skillet over medium heat. Pan-fry potato patties in batches until tender and browned on both sides, 7 to 10 minutes. Transfer browned patties to a paper towel-lined baking sheet. Repeat with remaining patties."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "12 pancakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "268"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9427326.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe0a60cfddf4b1d0985e1e8a060975969%2F6549207.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5621cf1ceb2d1df0bc26a979bf6914ed%2F1133273.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd2ed5b2ca11caffa176a3097aadf41ba%2F1054347.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

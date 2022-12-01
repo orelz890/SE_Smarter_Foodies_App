@@ -1,0 +1,66 @@
+{
+    "title": "Grateful Dead Cocktail",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "1 fluid ounce tequila"
+        },
+        {
+            "2": "1 fluid ounce vodka"
+        },
+        {
+            "3": "1 fluid ounce light rum"
+        },
+        {
+            "4": "1 fluid ounce gin"
+        },
+        {
+            "5": "1 fluid ounce raspberry-flavored liqueur (such as Chambord\u00ae)"
+        },
+        {
+            "6": "1 cup ice"
+        },
+        {
+            "7": "1 tablespoon sour mix"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine tequila, vodka, rum, gin, and raspberry liqueur in a highball glass. Fill with ice and top with sour mix."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "403"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6873281.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbe0a2387df27f9b5b1efa2aee722d9c0%2F968620.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://www.allrecipes.com/thmb/vZuZdVn8xKvyQK5UOfffS5Mgoxc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/968620-grateful-dead-cocktail-lovestohost-1x1-1-852e179bbfee400e872324219e241275.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

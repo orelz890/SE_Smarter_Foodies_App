@@ -1,0 +1,93 @@
+{
+    "title": "Crazy Cake",
+    "Category": "Chocolate Cake",
+    "Ingredients": [
+        {
+            "1": "3 cups all-purpose flour"
+        },
+        {
+            "2": "2 cups white sugar"
+        },
+        {
+            "3": "0.5 cup unsweetened cocoa powder"
+        },
+        {
+            "4": "2 teaspoons baking soda"
+        },
+        {
+            "5": "1 teaspoon salt"
+        },
+        {
+            "6": "0.75 cup vegetable oil"
+        },
+        {
+            "7": "2 tablespoons distilled white vinegar"
+        },
+        {
+            "8": "2 teaspoons vanilla extract"
+        },
+        {
+            "9": "2 cups cold water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Sift flour, sugar, cocoa, baking soda, and salt into a 9x13-inch ungreased baking dish; form 3 wells in flour mixture. Pour oil into the first well, vinegar into the second, and vanilla into the third. Pour cold water over all and stir well with a fork."
+        },
+        {
+            "3": "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, 30 to 40 minutes. Frost with your favorite icing."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "1 9x13-inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "250"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fbfb3f602cf80416f4c16638b5249880c%2F166449287390720220929_235521.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd306bd87ff2fb107375cce9b3690eeb3%2F16566679623F8A848B-841F-4F03-974B-53010CE2FF4A.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9124300.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9124301.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/I5d_hiEHzsafTPCk5BgTw4RZ3Cs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1334570-9f4c3cf67bfc4f059b99a87ddbc098dc.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

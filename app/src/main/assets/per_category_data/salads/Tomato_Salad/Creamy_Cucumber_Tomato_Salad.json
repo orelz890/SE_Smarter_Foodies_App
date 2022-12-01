@@ -1,0 +1,78 @@
+{
+    "title": "Creamy Cucumber Tomato Salad",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "2 large tomatoes, diced"
+        },
+        {
+            "2": "1 large cucumber, quartered"
+        },
+        {
+            "3": "0.25 cup sour cream, or to taste"
+        },
+        {
+            "4": "1.0 teaspoons balsamic vinaigrette dressing (such as Wish-Bone\u00ae)"
+        },
+        {
+            "5": "2 teaspoons lemon juice"
+        },
+        {
+            "6": "1 teaspoon finely chopped fresh dill"
+        },
+        {
+            "7": "4 pinches garlic salt with parsley (such as Lawry's\u00ae)"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine tomatoes and cucumbers in a bowl. Add sour cream, balsamic vinaigrette, lemon juice, dill, and garlic salt; stir. Season with salt and ground pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "68"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9393459.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9386866.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9365411.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9349944.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

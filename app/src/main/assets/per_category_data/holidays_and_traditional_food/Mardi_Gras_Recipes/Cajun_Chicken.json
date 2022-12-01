@@ -1,0 +1,84 @@
+{
+    "title": "Cajun Chicken",
+    "Category": "Mardi Gras Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups vegetable oil"
+        },
+        {
+            "2": "2 tablespoons Cajun seasoning"
+        },
+        {
+            "3": "2 tablespoons dried Italian seasoning"
+        },
+        {
+            "4": "2 tablespoons lemon-pepper seasoning"
+        },
+        {
+            "5": "0.25 teaspoon garlic powder, or to taste"
+        },
+        {
+            "6": "10  skinless, boneless chicken breast halves - pounded to 1/2 inch thickness"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk oil, Cajun seasoning, Italian seasoning, lemon-pepper seasoning, and garlic powder together in a large glass or ceramic bowl. Add chicken and toss to evenly coat. Cover the bowl with plastic wrap and marinate in the refrigerator for 30 minutes."
+        },
+        {
+            "2": "Preheat an outdoor grill for high heat and lightly oil the grate."
+        },
+        {
+            "3": "Remove chicken from marinade and shake off excess. Discard remaining marinade."
+        },
+        {
+            "4": "Grill chicken on the preheated grill until juices run clear, 6 to 8 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "536"
+        },
+        {
+            "Fat": "48g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F49dcd3c2115cd049516f07bbee3849ef%2F1647175489DE37DE07-31CB-4A88-BCE2-FA2C5C641DF2.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8550745.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7190341.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6563196.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

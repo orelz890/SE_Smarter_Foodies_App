@@ -1,0 +1,105 @@
+{
+    "title": "Autumn Sweet Potato Shepherd's Pie",
+    "Category": "Shepherd's Pie",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "2 pounds ground turkey"
+        },
+        {
+            "3": "1 cup chopped onion"
+        },
+        {
+            "4": "1 cup chopped green bell pepper"
+        },
+        {
+            "5": "4 cloves garlic, minced"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "1 teaspoon ground black pepper"
+        },
+        {
+            "8": "1 teaspoon dried oregano"
+        },
+        {
+            "9": "1 teaspoon cumin"
+        },
+        {
+            "10": "1 teaspoon ground ancho chile powder"
+        },
+        {
+            "11": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "12": "1 (15 ounce) can diced tomatoes"
+        },
+        {
+            "13": "1 cup canned pumpkin"
+        },
+        {
+            "14": "4 cups mashed, seasoned sweet potatoes"
+        },
+        {
+            "15": "1 teaspoon smoked paprika"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Heat olive oil in a large oven-safe skillet over medium-high heat. Cook ground turkey until browned, about 5 minutes. Reduce heat to medium. Stir in onion, bell pepper, garlic, salt, pepper, oregano, cumin, ancho chile powder, and cinnamon. Cook, stirring occasionally, until onion and peppers have softened, about 5 minutes. Stir in tomatoes and pumpkin. Top with mashed sweet potatoes and sprinkle with smoked paprika."
+        },
+        {
+            "3": "Bake in the preheated oven until flavors are well combined and sweet potatoes are browned, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "452"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7799657.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6127578.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://www.allrecipes.com/thmb/NWybsaNdZADG5QYgNEh38SNKa6w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6127578_original-a4e0d2fd646d4303a6d2f65fa6c084c3.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

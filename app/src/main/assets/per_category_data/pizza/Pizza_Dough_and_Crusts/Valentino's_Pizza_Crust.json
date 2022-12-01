@@ -1,0 +1,78 @@
+{
+    "title": "Valentino's Pizza Crust",
+    "Category": "Pizza Dough and Crusts",
+    "Ingredients": [
+        {
+            "1": "1 cup warm water (110 degrees F/45 degrees C)"
+        },
+        {
+            "2": "1 tablespoon white sugar"
+        },
+        {
+            "3": "0.5 teaspoons active dry yeast"
+        },
+        {
+            "4": "3 tablespoons olive oil"
+        },
+        {
+            "5": "1 teaspoon salt"
+        },
+        {
+            "6": "1.0 cups all-purpose flour"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir water, sugar and yeast together until dissolved. Add the olive oil and the salt. Stir in the flour until well blended. Let dough rest for 10 minutes."
+        },
+        {
+            "2": "Pat dough into pan or on to a pizza stone using fingers dipped in olive oil. If desired sprinkle basil, thyme or other seasonings on crust. Top with your favorite pizza toppings and bake for 15 to 20 minutes in a preheated 425 degree oven."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 to 16 - inch crust"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "131"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Faf7815916a5753323fb46187602da3e7%2F165301282820220519_171257.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9361035.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8075605.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9011417.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pizza"
+}

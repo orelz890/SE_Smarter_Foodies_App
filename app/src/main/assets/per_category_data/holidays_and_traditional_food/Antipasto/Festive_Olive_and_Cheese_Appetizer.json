@@ -1,0 +1,75 @@
+{
+    "title": "Festive Olive and Cheese Appetizer",
+    "Category": "Antipasto",
+    "Ingredients": [
+        {
+            "1": "24 sprigs fresh rosemary"
+        },
+        {
+            "2": "12 ounces marinated mozzarella balls, drained"
+        },
+        {
+            "3": "0.5 cup pitted Castelvetrano olives, rinsed and dried"
+        },
+        {
+            "4": "0.25 cup pitted Kalamata olives, rinsed and drained"
+        },
+        {
+            "5": "0.25 cup sugar plum tomatoes"
+        },
+        {
+            "6": "1 toothpicks"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cut rosemary sprigs and arrange into a 10-inch wreath. Start by placing 1 sprig at a 45-degree angle with the tip facing outwards. Continue adding sprigs in the same direction until you have formed a full circle."
+        },
+        {
+            "2": "Arrange clusters of mozzarella balls, olives, and tomatoes over the rosemary. Serve with toothpicks on the side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "196"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9435972.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9430398.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7479518.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6263222.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

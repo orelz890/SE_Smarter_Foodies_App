@@ -1,0 +1,90 @@
+{
+    "title": "Deluxe Corned Beef Hash",
+    "Category": "Corned Beef",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons butter"
+        },
+        {
+            "2": "2 tablespoons extra-virgin olive oil"
+        },
+        {
+            "3": "1 large onion, chopped"
+        },
+        {
+            "4": "5 large Yukon Gold potatoes, peeled and cut into 1/4-inch cubes"
+        },
+        {
+            "5": "1 large carrot, coarsely shredded"
+        },
+        {
+            "6": "2 pounds cooked corned beef, cubed"
+        },
+        {
+            "7": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "8": "0.5 teaspoon ground black pepper, or to taste"
+        },
+        {
+            "9": "0.25 teaspoon dried thyme leaves"
+        },
+        {
+            "10": "1 pinch salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter with olive oil in a large skillet over medium heat. Cook and stir onion until lightly browned, about 8 minutes. Stir in potatoes and carrot; cook, stirring occasionally, until tender, about 15 minutes."
+        },
+        {
+            "2": "Stir in corned beef, parsley, pepper, thyme, and salt. Cook, stirring often, until hash is crisp and browned, 10 to 15 more minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "320"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fddcd8b6a2b5f8acf7bae64625fc99790%2F1650604218D77C76FF-F48C-4D6F-AB60-22FE1ACE27F2.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9316568.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9201508.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9111865.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/k_jUuYiUFeENf0f3vMBzihWb-1Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/808820-e4ac0dcef1e2473db3df5b8730e14267.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

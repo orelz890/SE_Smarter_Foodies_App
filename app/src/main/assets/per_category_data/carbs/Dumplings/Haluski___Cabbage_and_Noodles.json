@@ -1,0 +1,87 @@
+{
+    "title": "Haluski - Cabbage and Noodles",
+    "Category": "Dumplings",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package medium-wide egg noodles"
+        },
+        {
+            "2": "1 cup butter, divided"
+        },
+        {
+            "3": "2 large onions, chopped"
+        },
+        {
+            "4": "2 small heads cabbage, cored and cut into 1-inch pieces"
+        },
+        {
+            "5": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 300 degrees F (150 degrees C)."
+        },
+        {
+            "2": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in egg noodles and return to a boil. Cook noodles uncovered, stirring occasionally, until tender but slightly firm, about 5 minutes. Drain well and set aside."
+        },
+        {
+            "3": "Melt 1/2 cup butter in a large skillet over medium-low heat. Add onions; cook and stir until translucent, 5 to 10 minutes."
+        },
+        {
+            "4": "Add cabbage and remaining 1/2 cup butter to onions; cook and stir until cabbage is softened but not browned, 5 to 8 minutes. Season with salt and black pepper."
+        },
+        {
+            "5": "Place cooked noodles and cabbage mixture in a large roasting pan; stir gently to combine. Sprinkle with more salt and black pepper, if desired."
+        },
+        {
+            "6": "Bake in the preheated oven until golden brown on top, 30 to 40 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "319"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd9809f391c2b19da8e9a00c183b6c287%2F1664382579663D9B1D-78A8-4A01-AC78-E5BE35995E53.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd9809f391c2b19da8e9a00c183b6c287%2F1656783529Snapchat-274711933.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9371896.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9371906.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/rFdOWuAWK6Jvsz5DwUKnaxYsfrg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1045147-e045da633fcf4ee4b2b7548f41e4de68.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Tasty Breakfast Burritos",
+    "Category": "Breakfast Burritos",
+    "Ingredients": [
+        {
+            "1": "2 pounds ground pork sausage"
+        },
+        {
+            "2": "12  eggs, beaten"
+        },
+        {
+            "3": "1 (4 ounce) can chopped green chile peppers, drained"
+        },
+        {
+            "4": "8 (10 inch) flour tortillas"
+        },
+        {
+            "5": "8 ounces Cheddar cheese, shredded"
+        },
+        {
+            "6": "1 teaspoon all-purpose flour"
+        },
+        {
+            "7": "1 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place sausage in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, reserving 2 tablespoons drippings; set sausage aside. Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Add the eggs and green chiles to the skillet; cook, stirring occasionally, until eggs are scrambled and set."
+        },
+        {
+            "3": "Lightly grease a 9x13 inch baking pan. Place the tortillas on a counter top or other clean surface. Cover each tortillas with portions on sausage, cheese and eggs. Roll up the tortillas and place them seam side down in the baking dish."
+        },
+        {
+            "4": "Heat reserved sausage drippings in the skillet. Sprinkle on the flour and stir. Add milk, stirring constantly, until the gravy begins to thicken. Pour the gravy on top of the tortilla rolls."
+        },
+        {
+            "5": "Bake in preheated oven for 10 to 15 minutes, until gravy is bubbly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "754"
+        },
+        {
+            "Fat": "47g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "39g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F816347.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F708327.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F609567.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F187255.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

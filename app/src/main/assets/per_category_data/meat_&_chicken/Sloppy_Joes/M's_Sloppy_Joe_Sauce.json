@@ -1,0 +1,96 @@
+{
+    "title": "M's Sloppy Joe Sauce",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon extra-virgin olive oil"
+        },
+        {
+            "2": "1 large onion, diced"
+        },
+        {
+            "3": "1  green bell pepper, diced"
+        },
+        {
+            "4": "1 tablespoon minced garlic"
+        },
+        {
+            "5": "1 pound ground turkey"
+        },
+        {
+            "6": "1 cup canned pureed tomatoes"
+        },
+        {
+            "7": "0.25 cup barbeque sauce (such as KC Masterpiece\u00ae)"
+        },
+        {
+            "8": "2 tablespoons ketchup"
+        },
+        {
+            "9": "2 tablespoons white vinegar"
+        },
+        {
+            "10": "2 tablespoons Worcestershire sauce"
+        },
+        {
+            "11": "1 tablespoon brown mustard"
+        },
+        {
+            "12": "1 tablespoon chile-garlic sauce (such as Sriracha\u00ae)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat the olive oil in a skillet over medium heat; cook the onion and bell pepper in the hot oil until they begin to soften, about 5 minutes. Add the garlic and ground turkey to the skillet; cook and stir until the turkey is completely crumbled and browned, another 5 to 7 minutes."
+        },
+        {
+            "2": "Stir the pureed tomatoes, barbeque sauce, ketchup, vinegar, Worcestershire sauce, mustard, and chile-garlic sauce into the turkey mixture. Simmer until completely heated, 7 to 10 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "287"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8200762.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7202711.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5424111.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1df8b1868dd61305e1b2836f1ccedee4%2F3227981.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

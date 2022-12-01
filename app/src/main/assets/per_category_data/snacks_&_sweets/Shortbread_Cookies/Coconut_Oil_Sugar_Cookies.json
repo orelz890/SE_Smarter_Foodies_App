@@ -1,0 +1,90 @@
+{
+    "title": "Coconut Oil Sugar Cookies",
+    "Category": "Shortbread Cookies",
+    "Ingredients": [
+        {
+            "1": "0.25 cups white sugar"
+        },
+        {
+            "2": "0.5 cup butter, softened"
+        },
+        {
+            "3": "0.5 cup coconut oil"
+        },
+        {
+            "4": "3  egg yolks"
+        },
+        {
+            "5": "0.5 teaspoons vanilla extract"
+        },
+        {
+            "6": "0.5 cups all-purpose flour"
+        },
+        {
+            "7": "0.5 teaspoons baking powder"
+        },
+        {
+            "8": "0.5 teaspoon baking soda"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a baking sheet lightly."
+        },
+        {
+            "2": "Beat sugar, butter, and coconut oil together in a large bowl with an electric mixer until light and fluffy. Beat in egg yolks and vanilla extract. Add flour, baking powder, and baking soda gradually; mix until dough just comes together."
+        },
+        {
+            "3": "Mix dough with hands to fully incorporate ingredients. Roll dough into walnut-size balls and place 2 inches apart onto the prepared baking sheet."
+        },
+        {
+            "4": "Bake in the preheated oven until tops are cracked, 10 to 12 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "32 cookies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "245"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F10496bb4ceba11fbe3acb95d066b7301%2F166862372186016686236923481291109531973199114.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4f681ddc0414072e478d095911c1ace4%2F166354135616635413471936463474188707952699.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9377380.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9054512.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

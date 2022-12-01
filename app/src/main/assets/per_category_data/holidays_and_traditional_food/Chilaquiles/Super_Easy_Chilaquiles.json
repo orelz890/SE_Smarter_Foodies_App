@@ -1,0 +1,69 @@
+{
+    "title": "Super Easy Chilaquiles",
+    "Category": "Chilaquiles",
+    "Ingredients": [
+        {
+            "1": "5 tablespoons corn oil"
+        },
+        {
+            "2": "8 (8 inch) corn tortillas, cut into triangles"
+        },
+        {
+            "3": "6  eggs"
+        },
+        {
+            "4": "1 cup chipotle salsa"
+        },
+        {
+            "5": "1 cup shredded pepper Jack cheese"
+        },
+        {
+            "6": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large skillet over medium-high heat and pan-fry tortilla triangles until they are just starting to turn golden brown and crisp, 3 to 5 minutes. Add salsa, reduce heat to medium-low, and carefully mix tortillas and salsa with a spatula. Cook for 5 minutes."
+        },
+        {
+            "2": "Beat eggs, salt, and pepper in a small bowl. Add eggs to tortillas and increase heat to medium-high. Scramble eggs gently until just set. Top with pepper Jack cheese, cover, and turn off the heat. Let sit for 3 minutes until cheese is melted."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "1074"
+        },
+        {
+            "Fat": "74g"
+        },
+        {
+            "Carbs": "65g"
+        },
+        {
+            "Protein": "42g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1018304.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

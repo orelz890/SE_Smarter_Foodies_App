@@ -1,0 +1,96 @@
+{
+    "title": "Dad's Cookies",
+    "Category": "Oatmeal Cookies",
+    "Ingredients": [
+        {
+            "1": "0.5 cups all-purpose flour"
+        },
+        {
+            "2": "1 teaspoon baking soda"
+        },
+        {
+            "3": "0.75 teaspoon salt"
+        },
+        {
+            "4": "1 cup white sugar"
+        },
+        {
+            "5": "1 cup brown sugar"
+        },
+        {
+            "6": "0.5 cups rolled oats"
+        },
+        {
+            "7": "0.5 cup flaked coconut"
+        },
+        {
+            "8": "0.75 cup vegetable oil"
+        },
+        {
+            "9": "2  eggs"
+        },
+        {
+            "10": "1 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease cookie sheets."
+        },
+        {
+            "2": "Stir together flour, baking soda, salt, white sugar, brown sugar, oats, and coconut in a large bowl. Make a well in the center and pour in oil, eggs, and vanilla. Mix well using your hands or a wooden spoon."
+        },
+        {
+            "3": "Roll dough into walnut-sized balls and place 2 inches apart onto the prepared cookie sheets. Flatten slightly with a fork."
+        },
+        {
+            "4": "Bake in the preheated oven until very light brown and chewy, 10 to 12 minutes. Let cool briefly on the baking sheets before removing to wire racks to cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "36 "
+        },
+        {
+            "Yield": "36 cookies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "118"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8948560.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8643659.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8643338.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8354292.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

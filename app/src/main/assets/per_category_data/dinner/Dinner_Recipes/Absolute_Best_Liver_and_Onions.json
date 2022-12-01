@@ -1,0 +1,84 @@
+{
+    "title": "Absolute Best Liver and Onions",
+    "Category": "Dinner Recipes",
+    "Ingredients": [
+        {
+            "1": "2 pounds sliced beef liver"
+        },
+        {
+            "2": "0.5 cups milk, or as needed"
+        },
+        {
+            "3": "0.25 cup butter, divided"
+        },
+        {
+            "4": "2 large Vidalia onions, sliced into rings"
+        },
+        {
+            "5": "2 cups all-purpose flour, or as needed"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Gently rinse liver slices under cold water and pat dry with paper towels. Place in a shallow dish; pour in enough milk to cover. Let stand while preparing onions, or set aside for longer if you have time. Soaking will remove any bitterness."
+        },
+        {
+            "2": "Melt 2 tablespoons of butter in a large skillet over medium heat. Add onion rings; cook and stir in butter until tender and soft, about 3 to 5 minutes. Transfer onions into a bowl and set the skillet aside."
+        },
+        {
+            "3": "Place flour on a plate; season with salt and pepper. Drain milk from liver and coat liver slices in flour mixture."
+        },
+        {
+            "4": "Melt remaining 2 tablespoons of butter in the same skillet; increase heat to medium-high and fry coated liver slices until lightly browned, about 3 to 4 minutes on each side. Return onions to the skillet and reduce heat to medium; continue to cook until onions are heated through and liver is slightly pink inside, or longer to suit your taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "687"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "74g"
+        },
+        {
+            "Protein": "49g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F97491ceddf1c977aa287605e0ed0dbc9%2F16660335245999AB871DD-6073-4E5A-9DAA-B5D74848F36E.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2dae31ba1f030ceba3cb69407f085b0c%2F1658272495F11E9C8B-CB7D-40DF-B4C3-AA8113C6180D.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2dae31ba1f030ceba3cb69407f085b0c%2F165766147868A1B385-0554-4B40-99FE-3D9777372592.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3661740.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/2NqKj2yims5Npx2bCRZPKq0Yt7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8857644-8a52a45e97e145519bdc4a626ad2f7da.jpg"
+        }
+    ],
+    "main category": "dinner"
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Instant Pot\u00ae Brown Rice",
+    "Category": "Instant Pot\u00ae Recipes",
+    "Ingredients": [
+        {
+            "1": "1.0 cups water"
+        },
+        {
+            "2": "2 cups brown basmati rice"
+        },
+        {
+            "3": "1 tablespoon grapeseed oil (Optional)"
+        },
+        {
+            "4": "1 teaspoon kosher salt (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine water, brown rice, oil, and salt in a multi-functional pressure cooker (such as Instant Pot\u00ae). Close and lock the lid. Select Manual; set timer for 25 minutes on high pressure according to manufacturer's instructions. Allow 10 to 15 minutes for pressure to build."
+        },
+        {
+            "2": "Release pressure using the natural-release method according to manufacturer's instructions, about 10 minutes. Carefully release any remaining pressure. Unlock and remove the lid. Fluff rice with a fork or a rice paddle."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "6 cups cooked"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "106"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7165111.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7026741.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

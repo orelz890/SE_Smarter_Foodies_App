@@ -1,0 +1,60 @@
+{
+    "title": "Lemonade Plus",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "2 (12 fluid ounce) cans frozen lemonade concentrate"
+        },
+        {
+            "2": "1  lemon, sliced"
+        },
+        {
+            "3": "1  lime, sliced"
+        },
+        {
+            "4": "1  grapefruit, sliced"
+        },
+        {
+            "5": "1  orange, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Into a gallon pitcher, empty both cans of lemonade concentrate. Place the sliced lemon, lime, grapefruit and orange in the pitcher. Stir in water until pitcher is full. Chill in refrigerator."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "15 "
+        },
+        {
+            "Yield": "15 (8 ounce) servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "122"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F242800.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

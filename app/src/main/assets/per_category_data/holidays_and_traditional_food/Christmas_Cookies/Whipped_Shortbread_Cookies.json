@@ -1,0 +1,81 @@
+{
+    "title": "Whipped Shortbread Cookies",
+    "Category": "Christmas Cookies",
+    "Ingredients": [
+        {
+            "1": "0.5 cups all-purpose flour"
+        },
+        {
+            "2": "1 cup unsalted butter, softened"
+        },
+        {
+            "3": "0.5 cup confectioners' sugar"
+        },
+        {
+            "4": "5  red maraschino cherries, quartered, or as needed"
+        },
+        {
+            "5": "5  green maraschino cherries, quartered, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Beat flour, butter, and confectioners' sugar with an electric mixer in a large bowl until light and fluffy, about 10 minutes. Drop spoonfuls of dough 2 inches apart onto ungreased baking sheets. Place a red or green maraschino cherry quarter onto the middle of each cookie."
+        },
+        {
+            "3": "Bake in the preheated oven until light brown on the bottom, 15 to 17 minutes. Cool on the baking sheets for 5 minutes, then transfer to a wire rack to cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "36 "
+        },
+        {
+            "Yield": "3 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "75"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8917953.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8859279.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8834224.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8804055.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

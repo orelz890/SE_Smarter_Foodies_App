@@ -1,0 +1,75 @@
+{
+    "title": "Coconut Macaroons German Style",
+    "Category": "Macaroons",
+    "Ingredients": [
+        {
+            "1": "1.5 cups flaked coconut, toasted"
+        },
+        {
+            "2": "4  egg whites"
+        },
+        {
+            "3": "1 cup white sugar"
+        },
+        {
+            "4": "1 teaspoon ground cinnamon"
+        },
+        {
+            "5": "0.5 teaspoon almond extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 250 degrees F (120 degrees C). Line cookie sheets with parchment paper."
+        },
+        {
+            "2": "In a large bowl, whip egg whites with an electric mixer until stiff enough to make a mark through with a knife. Gradually sprinkle in the sugar, cinnamon and almond extract while continuing to mix on low speed. Fold in toasted coconut by hand. Spoon or scoop onto the prepared cookie sheets."
+        },
+        {
+            "3": "Bake for 20 to 25 minutes in the preheated oven, until cookies are dry and peel of the paper easily. Cool on wire racks and store in an airtight container at room temperature."
+        }
+    ],
+    "Details": [
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "36 "
+        },
+        {
+            "Yield": "3 dozen cookies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "49"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8837815.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F673509.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdec6d94d338f38f46007e1a034a232da%2F327017.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F161192.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

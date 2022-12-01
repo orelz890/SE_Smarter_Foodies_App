@@ -1,0 +1,105 @@
+{
+    "title": "Gluten-Free Pumpkin Bread",
+    "Category": "Pumpkin Bread",
+    "Ingredients": [
+        {
+            "1": "1 cup pumpkin puree"
+        },
+        {
+            "2": "0.75 cup white sugar"
+        },
+        {
+            "3": "2  eggs, beaten"
+        },
+        {
+            "4": "0.25 cup canola oil"
+        },
+        {
+            "5": "0.25 cup applesauce"
+        },
+        {
+            "6": "0.75 cups gluten-free multi-purpose flour (such as Mixoflour)"
+        },
+        {
+            "7": "1 teaspoon baking soda"
+        },
+        {
+            "8": "0.75 teaspoon salt"
+        },
+        {
+            "9": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "10": "0.25 teaspoon ground nutmeg"
+        },
+        {
+            "11": "0.25 teaspoon ground cloves"
+        },
+        {
+            "12": "0.25 teaspoon ground ginger"
+        },
+        {
+            "13": "0.25 cup raisins"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x5-inch loaf pan."
+        },
+        {
+            "2": "Mix pumpkin puree, sugar, eggs, oil, and applesauce together in a large bowl. Whisk flour, baking soda, salt, cinnamon, nutmeg, cloves, and ginger together in a separate bowl; add to pumpkin mixture and stir until just blended into a batter. Gently fold raisins through the batter; pour into prepared loaf pan."
+        },
+        {
+            "3": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 60 to 70 minutes. Cool in the pans for 10 minutes before removing to cool completely on a wire rack."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "146"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9415347.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8984674.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6032759.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4589627.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

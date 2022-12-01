@@ -1,0 +1,102 @@
+{
+    "title": "Chocolate Chip Coffee Cake",
+    "Category": "Coffee Cake",
+    "Ingredients": [
+        {
+            "1": "1.0 cups all-purpose flour"
+        },
+        {
+            "2": "0.5 teaspoons baking powder"
+        },
+        {
+            "3": "1 teaspoon baking soda"
+        },
+        {
+            "4": "1 cup semisweet chocolate chips"
+        },
+        {
+            "5": "0.5 cups white sugar, divided"
+        },
+        {
+            "6": "1 teaspoon ground cinnamon"
+        },
+        {
+            "7": "0.5 cup butter, softened"
+        },
+        {
+            "8": "2 large eggs"
+        },
+        {
+            "9": "1 cup sour cream"
+        },
+        {
+            "10": "1 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch pan."
+        },
+        {
+            "2": "Stir flour, baking powder, and baking soda together in a medium bowl. Combine chocolate chips, 1/2 cup sugar, and cinnamon in a small bowl."
+        },
+        {
+            "3": "Cream remaining 1 cup sugar and butter in a large bowl with an electric mixer. Mix in eggs, sour cream, and vanilla until well combined. Mix in flour mixture until incorporated; batter will be thick."
+        },
+        {
+            "4": "Spread 1/2 of the batter into the prepared pan. Sprinkle 1/2 of the chocolate chip mixture over top. Repeat layers once more."
+        },
+        {
+            "5": "Bake in the preheated oven until a toothpick inserted near the center comes out clean, 25 to 30 minutes."
+        },
+        {
+            "6": "Remove from the oven and place onto a wire rack to cool."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x13-inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "381"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "55g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc89544ca21517da3cd420293b2edc7d4%2F5178076.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4569356.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4569357.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2309256896e294e6e9b02df235b7579c%2F3992244.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

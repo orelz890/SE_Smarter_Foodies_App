@@ -1,0 +1,84 @@
+{
+    "title": "Candy Cane Fudge",
+    "Category": "Fudge",
+    "Ingredients": [
+        {
+            "1": "1 nonstick cooking spray"
+        },
+        {
+            "2": "2 (10 ounce) packages vanilla baking chips"
+        },
+        {
+            "3": "1 (14 ounce) can sweetened condensed milk"
+        },
+        {
+            "4": "0.5 cups crushed candy canes"
+        },
+        {
+            "5": "0.5 teaspoon peppermint extract"
+        },
+        {
+            "6": "1 dash red or green food coloring"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Line an 8-inch square baking pan with aluminum foil; spray with nonstick spray and set aside."
+        },
+        {
+            "2": "Combine vanilla chips and sweetened condensed milk in a saucepan over medium heat. Stir frequently until chips are almost melted; remove from heat and continue to stir until smooth. Stir in candy canes, peppermint extract, and food coloring."
+        },
+        {
+            "3": "Spread evenly in the bottom of the prepared pan. Chill for 2 hours, then cut into squares."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 20 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "1 8x8-inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "354"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "56g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd9f1afb02d5c3710b7789c5c24a46fdd%2F6091109.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7bb3de48ac7a1d3dd9561fa2ed84fffc%2F6085909.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4737001.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F4f829a3174f3bedb8ac00c9289eb970f%2F4651201.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/-52dwA_RlSq4ZPCNSwfkiplV54I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4306012-candy-cane-fudge-Allrecipes-Magazine-1x1-1-a0d558bbe7e8409a9657c4e714a2b065.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

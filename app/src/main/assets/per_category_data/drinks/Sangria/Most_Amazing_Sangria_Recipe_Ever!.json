@@ -1,0 +1,78 @@
+{
+    "title": "Most Amazing Sangria Recipe Ever!",
+    "Category": "Sangria",
+    "Ingredients": [
+        {
+            "1": "2.0 cups red wine"
+        },
+        {
+            "2": "0.75 cup ginger ale"
+        },
+        {
+            "3": "0.5 cup orange juice"
+        },
+        {
+            "4": "2 fluid ounces brandy"
+        },
+        {
+            "5": "1 fluid ounce triple sec (orange-flavored liqueur)"
+        },
+        {
+            "6": "1 teaspoon white sugar"
+        },
+        {
+            "7": "1 pinch ground cinnamon"
+        },
+        {
+            "8": "2 cups crushed ice"
+        },
+        {
+            "9": "0.5  Granny Smith apple, diced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir red wine, ginger ale, orange juice, brandy, triple sec, sugar, cinnamon, and apple together in a large pitcher."
+        },
+        {
+            "2": "Divide crushed ice evenly into six large wine glasses."
+        },
+        {
+            "3": "Pour red wine mixture into each wine glass, making sure that each serving has a few pieces of apple."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "223"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1060871.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

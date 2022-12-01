@@ -1,0 +1,78 @@
+{
+    "title": "Ginger Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "3 cups white sugar"
+        },
+        {
+            "2": "4 quarts water"
+        },
+        {
+            "3": "14 slices fresh ginger root"
+        },
+        {
+            "4": "4 cups fresh lemon juice"
+        },
+        {
+            "5": "2  lemons, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In an 8-quart saucepan combine sugar, water and ginger root. Heat to boiling, stirring occasionally. Remove from heat."
+        },
+        {
+            "2": "Stir in lemon juice. Cool 15 minutes. Remove ginger. Refrigerate lemonade at least 1 hour, or until chilled."
+        },
+        {
+            "3": "Serve over ice, and garnish with lemon slices."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "20 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "132"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F4504893ca6f82b548c2595632ecde5b0%2F5457573.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa4a0bdfa1ad0f40e58ab97e1078e04d3%2F4528319.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2467321.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F81bd0e82c70a6730723ebcae01a73460%2F1267859.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

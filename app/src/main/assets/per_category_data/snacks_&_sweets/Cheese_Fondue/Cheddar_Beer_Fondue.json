@@ -1,0 +1,69 @@
+{
+    "title": "Cheddar-Beer Fondue",
+    "Category": "Cheese Fondue",
+    "Ingredients": [
+        {
+            "1": "1 pound shredded sharp Cheddar cheese"
+        },
+        {
+            "2": "1 tablespoon all-purpose flour"
+        },
+        {
+            "3": "0.75 cup lager beer"
+        },
+        {
+            "4": "1 tablespoon minced garlic"
+        },
+        {
+            "5": "2 teaspoons Worcestershire sauce"
+        },
+        {
+            "6": "0.5 teaspoons mustard powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix Cheddar cheese and flour together in a bowl."
+        },
+        {
+            "2": "Bring beer to a light boil in a fondue pot; add garlic, Worcestershire sauce, and mustard powder and stir. Gradually stir cheese mixture into beer mixture. Reduce heat to low; cook and stir mixture until cheese is melted, about 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "248"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3602864.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

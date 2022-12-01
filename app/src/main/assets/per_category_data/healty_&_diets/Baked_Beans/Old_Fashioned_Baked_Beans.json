@@ -1,0 +1,81 @@
+{
+    "title": "Old Fashioned Baked Beans",
+    "Category": "Baked Beans",
+    "Ingredients": [
+        {
+            "1": "10 cups water"
+        },
+        {
+            "2": "2 cups dried navy beans"
+        },
+        {
+            "3": "8 slices crisply cooked bacon, crumbled"
+        },
+        {
+            "4": "0.5 cup chopped onion"
+        },
+        {
+            "5": "0.5 cup packed brown sugar"
+        },
+        {
+            "6": "0.25 cup molasses"
+        },
+        {
+            "7": "1 teaspoon salt"
+        },
+        {
+            "8": "3 cups water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring 10 cups water and navy beans to a boil in a large pot; cook at a boil for 2 minutes. Stir bacon, onion, brown sugar, molasses, and salt into the water."
+        },
+        {
+            "2": "Carefully pour the mixture into a slow cooker."
+        },
+        {
+            "3": "Cook on High, stirring occasionally, for 4 hours."
+        },
+        {
+            "4": "Stir 3 cups water into the mixture. Continue cooking until beans are tender, about 2 hours 15 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 6 hrs 20 mins"
+        },
+        {
+            "Total Time": " 6 hrs 35 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "242"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "43g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2300621.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Plum Flummery",
+    "Category": "Mousse",
+    "Ingredients": [
+        {
+            "1": "2 cups plums, pitted and sliced"
+        },
+        {
+            "2": "1 tablespoon water (Optional)"
+        },
+        {
+            "3": "1 (.25 ounce) package unflavored gelatin"
+        },
+        {
+            "4": "0.5 cup hot water (Optional)"
+        },
+        {
+            "5": "0.5 cup white sugar"
+        },
+        {
+            "6": "2 tablespoons lemon juice"
+        },
+        {
+            "7": "0.5 cup evaporated milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the plums into a saucepan over medium-low heat, cover, and simmer, stirring occasionally, until the plums are soft, 5 to 10 minutes. If the mixture becomes too thick or starts to burn, add a tablespoon of water. Remove from heat, and allow to cool."
+        },
+        {
+            "2": "Dissolve the gelatin in 1/2 cup of hot water in a bowl, and stir in the cooled plums, sugar, and lemon juice. Mix until the gelatin and sugar have dissolved. Chill the plum mixture in refrigerator until it begins to thicken, about 30 minutes. Whip the evaporated milk in a mixing bowl with an electric mixer until thick, then gently spoon the whipped milk into the plum mixture. Beat again with electric mixer until the dessert is fluffy and well combined. Chill for at least 3 hours before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": " 3 hrs 30 mins"
+        },
+        {
+            "Total Time": " 3 hrs 50 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "5 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "148"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F894378.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F878738.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

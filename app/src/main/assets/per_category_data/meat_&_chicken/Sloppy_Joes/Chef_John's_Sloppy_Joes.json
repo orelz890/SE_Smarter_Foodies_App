@@ -1,0 +1,99 @@
+{
+    "title": "Chef John's Sloppy Joes",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds extra lean ground beef"
+        },
+        {
+            "2": "0.5  onion, diced"
+        },
+        {
+            "3": "2 cloves garlic, minced"
+        },
+        {
+            "4": "1  green bell pepper, diced"
+        },
+        {
+            "5": "1 cup water"
+        },
+        {
+            "6": "0.75 cup ketchup"
+        },
+        {
+            "7": "2 tablespoons brown sugar"
+        },
+        {
+            "8": "1 teaspoon Dijon mustard"
+        },
+        {
+            "9": "1 dash Worcestershire sauce"
+        },
+        {
+            "10": "0.5 teaspoons salt, or to taste"
+        },
+        {
+            "11": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "12": "1 cup water"
+        },
+        {
+            "13": "1 pinch cayenne pepper, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine the ground beef and onion in a cold skillet, place the skillet onto a stove burner, and turn the heat to medium; cook and stir until the beef is crumbly and browned. Stir the garlic and bell pepper into the beef mixture; continue cooking and stirring until the vegetables are tender, 2 to 3 more minutes. Add 1 cup of water. Mix in ketchup, brown sugar, Dijon mustard, Worcestershire, salt, and pepper. Pour in 1 more cup of water. Bring to a simmer. Reduce heat to low and cook until the mixture becomes very thick, 30 to 45 minutes. Adjust salt and pepper as needed. Season with cayenne."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "271"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9409646.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9301736.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9192089.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9117582.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/g3iaqdyy91lhMxVjAPwEj1iXLZU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1118918-chef-johns-sloppy-joes-Cynthia-LaFourcade-1x1-1-d5de7c2428734ffeb37f430e88ca1b8f.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

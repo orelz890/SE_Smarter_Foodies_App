@@ -1,0 +1,102 @@
+{
+    "title": "Black Magic Cake",
+    "Category": "Chocolate Cake",
+    "Ingredients": [
+        {
+            "1": "2 cups white sugar"
+        },
+        {
+            "2": "0.75 cups all-purpose flour"
+        },
+        {
+            "3": "0.75 cup unsweetened cocoa powder"
+        },
+        {
+            "4": "2 teaspoons baking soda"
+        },
+        {
+            "5": "1 teaspoon baking powder"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "1 cup strong brewed coffee"
+        },
+        {
+            "8": "1 cup buttermilk"
+        },
+        {
+            "9": "0.5 cup vegetable oil"
+        },
+        {
+            "10": "2 large eggs"
+        },
+        {
+            "11": "1 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour two 9-inch round cake pans or one 9x13-inch dish."
+        },
+        {
+            "2": "Combine sugar, flour, cocoa, baking soda, baking powder, and salt in a large bowl. Make a well in the center. Pour coffee, buttermilk, oil, eggs, and vanilla into the well. Beat for 2 minutes on medium speed. Batter will be thin. Pour into the prepared pans."
+        },
+        {
+            "3": "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, 30 to 40 minutes. Cool for 10 minutes, then remove from the pans and finish cooling on a wire rack. Fill and frost as desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "2 9-inch round pans or one 9x13-inch dish"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "155"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0886ee8314f54eb70fb00bb593aff799%2F165196964972F16823-06BD-4DC9-8F3E-2E88A78B7A43.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9435112.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9335745.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9259379.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/j9yeodKQo6sCItYTPAuUiTK_myw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8372-Black-Magic-Cake-ddmfs-1x1-1127-6ee959c047944c6bb49814a301e09282.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

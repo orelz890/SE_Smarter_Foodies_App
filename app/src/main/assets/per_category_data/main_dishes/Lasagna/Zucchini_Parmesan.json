@@ -1,0 +1,84 @@
+{
+    "title": "Zucchini Parmesan",
+    "Category": "Lasagna",
+    "Ingredients": [
+        {
+            "1": "2 large zucchini, thinly sliced"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "1 large onion, diced"
+        },
+        {
+            "4": "2 cloves garlic, minced"
+        },
+        {
+            "5": "1 (16 ounce) jar spaghetti sauce"
+        },
+        {
+            "6": "1 cup shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 325 degrees F (165 degrees C)."
+        },
+        {
+            "2": "In a large pot boil the zucchini until tender; drain. Meanwhile, in a medium frying pan heat the olive oil over medium heat and saute the onion and garlic until the onion is tender."
+        },
+        {
+            "3": "Combine the zucchini, onion and garlic in a 9x12 inch casserole dish, and mix well. Pour the spaghetti sauce over the mixture and stir well. Top with mozzarella cheese (use more or less depending on your preference)."
+        },
+        {
+            "4": "Bake in preheated oven for about 20 minutes, or until heated through and cheese is bubbly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "4 to 6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "217"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3d3a8fb0052903953936b73e13d96fee%2F1656750657IMG_20220702_032914030.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8434936.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6943508.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F61bb5afe77921ccb806f850e4783ba36%2F6647255.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

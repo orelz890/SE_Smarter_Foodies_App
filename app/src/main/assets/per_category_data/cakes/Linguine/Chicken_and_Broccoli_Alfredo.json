@@ -1,0 +1,74 @@
+{
+    "title": "Chicken and Broccoli Alfredo",
+    "Category": "Linguine",
+    "Ingredients": [
+        {
+            "1": "0.5 (16 ounce) package linguine"
+        },
+        {
+            "2": "1 cup fresh or frozen broccoli flowerets"
+        },
+        {
+            "3": "2 tablespoons butter"
+        },
+        {
+            "4": "1 pound skinless, boneless chicken breast, cut into cubes"
+        },
+        {
+            "5": "1 (10.75 ounce) can  Campbell's\u00ae Condensed Cream of Mushroom Soup (Regular, 98% Fat Free or 25% Less Sodium)"
+        },
+        {
+            "6": "0.5 cup milk"
+        },
+        {
+            "7": "0.5 cup grated Parmesan cheese"
+        },
+        {
+            "8": "0.25 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook linguine according to package directions. Add broccoli for last 4 minutes of cooking time. Drain."
+        },
+        {
+            "2": "Heat butter in skillet. Cook chicken until browned, stirring often."
+        },
+        {
+            "3": "Add soup, milk, cheese, black pepper and linguine mixture and heat through. Serve with additional Parmesan cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9087132.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8682253.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8639233.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8555796.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/BHu-WFcs03hh5-UchLfsiBbqfpA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-581-09ae4894a0e7440bac6743ec9947be95.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

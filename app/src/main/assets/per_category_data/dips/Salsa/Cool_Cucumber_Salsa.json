@@ -1,0 +1,93 @@
+{
+    "title": "Cool Cucumber Salsa",
+    "Category": "Salsa",
+    "Ingredients": [
+        {
+            "1": "2 medium cucumbers - peeled, seeded, and chopped"
+        },
+        {
+            "2": "2 medium tomatoes, chopped"
+        },
+        {
+            "3": "0.5 cup chopped green bell pepper"
+        },
+        {
+            "4": "1  jalapeno pepper, seeded and minced"
+        },
+        {
+            "5": "1 small onion, chopped"
+        },
+        {
+            "6": "1 clove garlic, minced"
+        },
+        {
+            "7": "2 tablespoons lime juice"
+        },
+        {
+            "8": "1 teaspoon minced fresh parsley"
+        },
+        {
+            "9": "2 teaspoons minced fresh cilantro"
+        },
+        {
+            "10": "0.5 teaspoon dried dill weed"
+        },
+        {
+            "11": "0.5 teaspoon salt"
+        },
+        {
+            "12": "1 (12 ounce) package tortilla chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium bowl, stir together the cucumbers, tomatoes, green pepper, jalapeno pepper, onion, garlic, lime juice, parsley, cilantro, dill, and salt. Cover and refrigerate for 1 hour. Serve with tortilla chips."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "4 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "151"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9372333.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8164625.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb0ef3335eee8928bd59615c055f073fc%2F6839508.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5bc99788da887e2fecbaeca3c0992919%2F5572371.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

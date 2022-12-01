@@ -1,0 +1,65 @@
+{
+    "title": "Ultimate Frozen Strawberry Margarita",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "2 cups ice cubes, or as needed"
+        },
+        {
+            "2": "6 fluid ounces tequila"
+        },
+        {
+            "3": "2 fluid ounces triple sec"
+        },
+        {
+            "4": "8 ounces frozen sliced strawberries in syrup"
+        },
+        {
+            "5": "4 fluid ounces frozen limeade concentrate"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a blender with ice cubes; pulse until ice is crushed."
+        },
+        {
+            "2": "Pour in tequila and triple sec, then add strawberries and limeade concentrate. Blend until smooth, about 30 seconds."
+        },
+        {
+            "3": "Pour into four margarita glasses and serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9338639.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9249396.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9215485.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9017053.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ESlmrppn94-a69XQW56q4cs3XfQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ultimate-frozen-strawberry-margarita-beauty_1923-1-21d9d43c85574351b054e0908410b86e.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/ZA69qmuS1OYHejbZYHHnE9jeHqQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ultimate-frozen-strawberry-margarita-beauty_1923-2-bbb2317c721b4a0ca92c6d5995ba691e.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

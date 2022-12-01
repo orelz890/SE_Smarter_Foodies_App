@@ -1,0 +1,81 @@
+{
+    "title": "Tuna-Stuffed Mushrooms",
+    "Category": "Stuffed Mushrooms",
+    "Ingredients": [
+        {
+            "1": "2 (3 ounce) cans white tuna in water, drained"
+        },
+        {
+            "2": "2 (1 ounce) slices Swiss cheese, diced"
+        },
+        {
+            "3": "2 tablespoons mayonnaise"
+        },
+        {
+            "4": "0.5 teaspoons sweet pickle relish"
+        },
+        {
+            "5": "0.25 teaspoon dried minced onion"
+        },
+        {
+            "6": "0.25 teaspoon onion powder"
+        },
+        {
+            "7": "1 salt and ground black pepper to taste"
+        },
+        {
+            "8": "1 (8 ounce) package fresh white mushrooms, cleaned and stems removed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Combine the tuna, Swiss cheese, mayonnaise, sweet relish, dried onion, onion powder, salt, and pepper in a large bowl. Fill mushroom caps with the tuna mixture; place on baking sheet."
+        },
+        {
+            "3": "Bake in preheated oven until the mushrooms are soft and begin to give up their juices, 20 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "69"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3498670.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe3afcad2e0bc7f5a54807b035f0a6c1c%2F969577.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}

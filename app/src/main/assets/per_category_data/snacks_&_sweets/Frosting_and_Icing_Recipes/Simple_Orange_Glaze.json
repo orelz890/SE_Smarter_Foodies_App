@@ -1,0 +1,51 @@
+{
+    "title": "Simple Orange Glaze",
+    "Category": "Frosting and Icing Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup confectioners' sugar"
+        },
+        {
+            "2": "1 medium orange, zested and juiced, divided"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place confectioners' sugar into a bowl. Add 1 tablespoon orange juice and 1/4 teaspoon orange zest. Whisk until smooth, adding more juice as necessary. Reserve remaining zest and juice for another use."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "62"
+        },
+        {
+            "Carbs": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9024269.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2fd30557947f7614fcc2ca64f9afa6ad%2F4527248.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8761699.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7799635.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

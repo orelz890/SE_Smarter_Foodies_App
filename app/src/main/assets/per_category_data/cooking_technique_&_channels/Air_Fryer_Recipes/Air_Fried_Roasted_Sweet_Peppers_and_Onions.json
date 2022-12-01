@@ -1,0 +1,78 @@
+{
+    "title": "Air-Fried Roasted Sweet Peppers and Onions",
+    "Category": "Air Fryer Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup sliced green bell pepper"
+        },
+        {
+            "2": "1 cup sliced red bell pepper"
+        },
+        {
+            "3": "1 cup sliced red onion"
+        },
+        {
+            "4": "1 tablespoon olive oil"
+        },
+        {
+            "5": "0.5 teaspoon kosher salt"
+        },
+        {
+            "6": "2 tablespoons chopped fresh cilantro"
+        },
+        {
+            "7": "1 tablespoon fresh lime juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an air fryer to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Combine peppers, onion, olive oil, and salt in a large bowl. Transfer mixture to the air fryer basket. Cook, stirring once, until peppers and onion are tender and beginning to brown, 7 to 9 minutes."
+        },
+        {
+            "3": "Transfer to a serving bowl. Add cilantro and lime juice; toss to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "55"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcb3c569cc0c8e0ce37014a004a955992%2F7602308.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7536767.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6998812.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

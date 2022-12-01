@@ -1,0 +1,96 @@
+{
+    "title": "Jessica's Steak Oscar",
+    "Category": "Filet Mignon",
+    "Ingredients": [
+        {
+            "1": "2 (7 ounce) beef tenderloin steaks"
+        },
+        {
+            "2": "1 salt and ground black pepper to taste"
+        },
+        {
+            "3": "0.25 cup butter"
+        },
+        {
+            "4": "1 (6 ounce) can crab, drained"
+        },
+        {
+            "5": "1 pound asparagus, tough ends snapped"
+        },
+        {
+            "6": "1 packet dry Bearnaise sauce mix (such as Knorr\u00ae)"
+        },
+        {
+            "7": "1 cup whole milk"
+        },
+        {
+            "8": "0.5 cup butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven's broiler and set the oven rack about 6 inches from the heat source. Sprinkle the filets with salt and pepper."
+        },
+        {
+            "2": "In a small saucepan over low heat, melt 1/4 cup of butter; gently stir in the crab meat, and simmer while you broil the filets."
+        },
+        {
+            "3": "Broil the filets until they reach the desired stage of doneness; for medium (slightly pink in the center), broil 10 to 12 minutes on the first side and 6 minutes on the second side. Set the filets aside to rest."
+        },
+        {
+            "4": "Place a steamer insert into a skillet, and fill with water to just below the bottom of the steamer. Cover, and bring the water to a boil over high heat. Add the asparagus, recover, and steam until just tender, 2 to 6 minutes depending on thickness."
+        },
+        {
+            "5": "Whisk Bearnaise sauce mix with milk in a saucepan. Add 1/2 cup of butter, and bring the sauce to a boil over medium heat, whisking constantly; reduce heat to a simmer, and whisk until sauce has thickened, about 1 minute."
+        },
+        {
+            "6": "To assemble, top each broiled filet with crab meat, then half the asparagus; spoon Bearnaise sauce to taste over the asparagus."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "1289"
+        },
+        {
+            "Fat": "97g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "83g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9443110.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8226909.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7293774.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7102680.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

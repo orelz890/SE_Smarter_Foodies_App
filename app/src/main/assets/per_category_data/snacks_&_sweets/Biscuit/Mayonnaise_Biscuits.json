@@ -1,0 +1,72 @@
+{
+    "title": "Mayonnaise Biscuits",
+    "Category": "Biscuit",
+    "Ingredients": [
+        {
+            "1": "2 cups self-rising flour"
+        },
+        {
+            "2": "1 cup milk"
+        },
+        {
+            "3": "6 tablespoons mayonnaise"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "In a large bowl, stir together flour, milk, and mayonnaise until just blended. Drop by spoonfuls onto lightly greased baking sheets."
+        },
+        {
+            "3": "Bake for 12 minutes in the preheated oven, or until golden brown."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "12 mins"
+        },
+        {
+            "Total Time": "22 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 dozen biscuits"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "134"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc0dbcb61dea0ad43e6cd973fb7b49253%2F1663000228PXL_20220912_160456489.PORTRAIT.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9375878.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9276125.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8989422.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

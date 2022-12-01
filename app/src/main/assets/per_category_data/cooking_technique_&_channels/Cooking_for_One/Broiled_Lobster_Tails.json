@@ -1,0 +1,78 @@
+{
+    "title": "Broiled Lobster Tails",
+    "Category": "Cooking for One",
+    "Ingredients": [
+        {
+            "1": "2 whole lobster tails"
+        },
+        {
+            "2": "0.5 cup butter, melted"
+        },
+        {
+            "3": "0.5 teaspoon ground paprika"
+        },
+        {
+            "4": "1 salt and ground white pepper to taste"
+        },
+        {
+            "5": "1  lemon, cut into wedges"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the broiler."
+        },
+        {
+            "2": "Place lobster tails on a baking sheet. With a sharp knife or kitchen shears, carefully cut the top side of lobster shells lengthwise. Pull apart shells slightly, and season meat with equal amounts of melted butter, paprika, salt, and white pepper."
+        },
+        {
+            "3": "Broil lobster tails until lightly browned and lobster meat is opaque, about 5 to 10 minutes. Garnish with lemon wedges to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "592"
+        },
+        {
+            "Fat": "48g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "37g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9442874.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9075382.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9032735.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9032472.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/uRuECaGUKsDYnV8sOFR-ShqK1U0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/34638-BrioledLobsterTails-ddmfs-1x1-0073-1-21256c2760ef4d96b72dd4f30af2a9c0.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

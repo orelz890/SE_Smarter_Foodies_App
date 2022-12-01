@@ -1,0 +1,99 @@
+{
+    "title": "Taco Salad III",
+    "Category": "Taco Salad",
+    "Ingredients": [
+        {
+            "1": "16 ounces lean ground beef"
+        },
+        {
+            "2": "1 (1.25 ounce) package taco seasoning mix"
+        },
+        {
+            "3": "1 head iceberg lettuce, shredded"
+        },
+        {
+            "4": "1  red onion, sliced"
+        },
+        {
+            "5": "1 bunch green onions, chopped"
+        },
+        {
+            "6": "1 (15 ounce) can pinto beans, drained"
+        },
+        {
+            "7": "1 (15 ounce) can kidney beans, drained"
+        },
+        {
+            "8": "2 large tomatoes, chopped"
+        },
+        {
+            "9": "1  avocados - peeled, pitted, and cubed"
+        },
+        {
+            "10": "8 ounces shredded Cheddar cheese"
+        },
+        {
+            "11": "1 (16 ounce) package corn chips"
+        },
+        {
+            "12": "1 (16 ounce) bottle Catalina salad dressing"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Prepare the ground beef as directed by taco seasoning package and set aside."
+        },
+        {
+            "2": "In a large bowl, combine the beef mixture, lettuce, red onion, green onion, pinto beans, kidney beans, tomatoes, avocado and cheese. Mix well."
+        },
+        {
+            "3": "Before serving, add the corn chips and enough dressing to coat. Mix well and serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "945"
+        },
+        {
+            "Fat": "61g"
+        },
+        {
+            "Carbs": "76g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9176666.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8469515.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6663561.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6380060.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

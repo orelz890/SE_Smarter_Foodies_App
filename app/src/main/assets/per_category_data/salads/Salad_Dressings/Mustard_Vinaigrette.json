@@ -1,0 +1,72 @@
+{
+    "title": "Mustard Vinaigrette",
+    "Category": "Salad Dressings",
+    "Ingredients": [
+        {
+            "1": "1 cup vegetable oil"
+        },
+        {
+            "2": "0.5 cup white vinegar"
+        },
+        {
+            "3": "1 tablespoon honey"
+        },
+        {
+            "4": "1 tablespoon prepared Dijon-style mustard"
+        },
+        {
+            "5": "2 teaspoons minced garlic"
+        },
+        {
+            "6": "2 teaspoons salt"
+        },
+        {
+            "7": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "8": "4 drops hot sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk oil, vinegar, honey, mustard, garlic, salt, black pepper, and hot sauce together in a small bowl until thoroughly combined. Chill until serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "168"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9231966.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8831689.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7135397.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F03b00055e5258d2be8a112c4cffd0ada%2F5870369.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

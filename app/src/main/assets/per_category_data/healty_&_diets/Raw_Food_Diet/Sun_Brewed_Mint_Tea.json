@@ -1,0 +1,72 @@
+{
+    "title": "Sun-Brewed Mint Tea",
+    "Category": "Raw Food Diet",
+    "Ingredients": [
+        {
+            "1": "2 quarts water"
+        },
+        {
+            "2": "0.25 cup wildflower honey"
+        },
+        {
+            "3": "1 large lemon"
+        },
+        {
+            "4": "2 bunches fresh mint leaves"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour the water into a large glass container with a lid. Stir in honey until dissolved."
+        },
+        {
+            "2": "Zest the lemon, being careful not to include any white pith, and juice the lemon. Combine the zest and juice with the honey water mixture."
+        },
+        {
+            "3": "Hold a bunch of mint in one hand; use your other hand to twist and squeeze the leaves, slightly bruising them to release their fragrance and oils. Immerse the bunches in the water mixture. Cover the container and place in direct sunlight for two hours. Remove the mint leaves, shake, and serve over ice in tall glasses, garnished with a mint sprig."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "2 quarts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "40"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F561983.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F561982.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F410364.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

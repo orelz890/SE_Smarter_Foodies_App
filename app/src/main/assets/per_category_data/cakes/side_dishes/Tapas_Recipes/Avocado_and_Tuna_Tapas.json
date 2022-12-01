@@ -1,0 +1,78 @@
+{
+    "title": "Avocado and Tuna Tapas",
+    "Category": "Tapas Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (12 ounce) can solid white tuna packed in water, drained"
+        },
+        {
+            "2": "1 tablespoon mayonnaise"
+        },
+        {
+            "3": "3  green onions, thinly sliced, plus additional for garnish"
+        },
+        {
+            "4": "0.5  red bell pepper, chopped"
+        },
+        {
+            "5": "1 dash balsamic vinegar"
+        },
+        {
+            "6": "1 black pepper to taste"
+        },
+        {
+            "7": "1 pinch garlic salt, or to taste"
+        },
+        {
+            "8": "2  ripe avocados, halved and pitted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir together tuna, mayonnaise, green onions, red pepper, and balsamic vinegar in a bowl. Season with pepper and garlic salt, then pack the avocado halves with the tuna mixture. Garnish with reserved green onions and a dash of black pepper before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "294"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7365fe4e0aab807df58268e51103aebc%2F16471286214B20622F-FA45-424C-85DE-432C1D83CBCE.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9271385.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9204008.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9021591.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/VELLfnw7NtkP7gVuJpARNVoVTnM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1010868-dbdc5e646fc04b53b0692f6b265ac368.jpg"
+        }
+    ],
+    "main category": "side_dishes"
+}

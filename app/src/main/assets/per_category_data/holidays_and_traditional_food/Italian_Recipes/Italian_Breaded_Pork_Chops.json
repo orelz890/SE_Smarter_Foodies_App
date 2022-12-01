@@ -1,0 +1,99 @@
+{
+    "title": "Italian Breaded Pork Chops",
+    "Category": "Italian Recipes",
+    "Ingredients": [
+        {
+            "1": "3  eggs, lightly beaten"
+        },
+        {
+            "2": "3 tablespoons milk"
+        },
+        {
+            "3": "0.5 cups Italian seasoned bread crumbs"
+        },
+        {
+            "4": "0.5 cup grated Parmesan cheese"
+        },
+        {
+            "5": "2 tablespoons dried parsley"
+        },
+        {
+            "6": "2 tablespoons olive oil"
+        },
+        {
+            "7": "4 cloves garlic, peeled and chopped"
+        },
+        {
+            "8": "4  pork chops"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 325 degrees F (160 degrees C)."
+        },
+        {
+            "2": "Beat eggs and milk together in a shallow dish."
+        },
+        {
+            "3": "Mix bread crumbs, Parmesan cheese, and parsley together in a second shallow dish."
+        },
+        {
+            "4": "Heat oil in a large, oven-proof skillet over medium heat. Stir in garlic and cook until just golden brown to flavor the oil. Remove garlic with a slotted spoon and reserve for another use."
+        },
+        {
+            "5": "Dip each pork chop into egg mixture, then bread crumb mixture until well coated."
+        },
+        {
+            "6": "Place pork chops in the skillet and cook until golden and crisp, about 5 minutes on each side."
+        },
+        {
+            "7": "Transfer the skillet into the preheated oven and bake chops for 25 minutes, or to an internal temperature of 145 degrees F (63 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "440"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F40deb888563846759609f061fc91485c%2F1644446879IMG_20220209_164719_488.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9387174.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9361855.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9243790.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/HyZgDcV6xdYUNwr6QUC2TGusbr4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3398603-italian-breaded-pork-chops-Allrecipes-Magazine-1x1-1-90e716e5a3af406e9b2e7b0e39a4b623.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

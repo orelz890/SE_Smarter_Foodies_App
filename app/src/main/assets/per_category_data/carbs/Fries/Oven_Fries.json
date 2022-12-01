@@ -1,0 +1,78 @@
+{
+    "title": "Oven Fries",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "1.0 pounds baking potatoes"
+        },
+        {
+            "2": "1 teaspoon vegetable oil"
+        },
+        {
+            "3": "1 tablespoon white sugar"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "1 pinch ground cayenne pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 450 degrees F (230 degrees C). Line a baking sheet with foil, and coat well with vegetable cooking spray. Scrub potatoes well and cut into 1/2 inch thick fries."
+        },
+        {
+            "2": "In a large mixing bowl, toss potatoes with oil, sugar, salt and red pepper. Spread on baking sheet in one layer."
+        },
+        {
+            "3": "Bake for 30 minutes in the preheated oven, until potatoes are tender and browned. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "156"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9049732.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6229870.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F44636700ea3a660eb139cf9e702046af%2F5809893.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5447490.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

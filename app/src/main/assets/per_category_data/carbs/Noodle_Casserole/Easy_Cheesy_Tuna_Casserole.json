@@ -1,0 +1,84 @@
+{
+    "title": "Easy Cheesy Tuna Casserole",
+    "Category": "Noodle Casserole",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package medium seashell pasta"
+        },
+        {
+            "2": "1 tablespoon vegetable oil"
+        },
+        {
+            "3": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "4": "1 (15 ounce) can mixed vegetables, drained"
+        },
+        {
+            "5": "1 (5 ounce) can tuna, drained"
+        },
+        {
+            "6": "2 cups shredded Cheddar cheese"
+        },
+        {
+            "7": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add 1 tablespoon oil to the water to prevent sticking. Add pasta and cook for 8 to 10 minutes or until al dente; drain. Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "In a 2 quart saucepan over medium heat, combine the cream of mushroom soup, mixed vegetables, canned tuna, and 1 cup of the cheddar cheese. Gently fold pasta into the soup mixture and mix thoroughly. Pour pasta and soup mixture into a 11x7 inch baking dish. Sprinkle remaining cup of cheese on top."
+        },
+        {
+            "3": "Bake in a preheated oven until cheese is melted and bubbly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "1697"
+        },
+        {
+            "Fat": "68g"
+        },
+        {
+            "Carbs": "190g"
+        },
+        {
+            "Protein": "86g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F009ee693bb125fccdb0486f1eeec9320%2F1667353659902IMG_20221101_202722_kindlephoto-25210958.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9411441.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6271024.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5323561.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

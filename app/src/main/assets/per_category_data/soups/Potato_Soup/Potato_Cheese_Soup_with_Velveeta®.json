@@ -1,0 +1,105 @@
+{
+    "title": "Potato Cheese Soup with Velveeta\u00ae",
+    "Category": "Potato Soup",
+    "Ingredients": [
+        {
+            "1": "6  potatoes - peeled and cubed"
+        },
+        {
+            "2": "1  carrot, chopped"
+        },
+        {
+            "3": "1 water to cover"
+        },
+        {
+            "4": "3 stalks celery, chopped"
+        },
+        {
+            "5": "1  onion, chopped"
+        },
+        {
+            "6": "0.5 cup margarine"
+        },
+        {
+            "7": "4 cups milk"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        },
+        {
+            "9": "2 tablespoons chicken soup base"
+        },
+        {
+            "10": "8 ounces processed cheese food, cubed"
+        },
+        {
+            "11": "1 tablespoon cornstarch"
+        },
+        {
+            "12": "0.5 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large pot over high heat, combine the potatoes and carrot with water to cover and boil for 10 to 15 minutes, or until tender."
+        },
+        {
+            "2": "In a separate large skillet over medium heat, saute the celery and onion in the margarine for about 10 minutes."
+        },
+        {
+            "3": "Drain all but about 2 cups of the water from the potatoes and carrots; add 4 cups milk. Reduce heat to low and season with salt and pepper to taste."
+        },
+        {
+            "4": "Transfer the onion and celery mixture to the pot and stir in the chicken soup base. Heat slowly, then add the cheese. Allow the cheese to melt, stirring all together well."
+        },
+        {
+            "5": "In a small bowl, dissolve the cornstarch in the 1/2 cup milk and pour into the soup. Mix well until thickened."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "421"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9364872.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F03bf95bcb9d747f1dd44bc88d69a1184%2F6272293.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6099381.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5590996.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

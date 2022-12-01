@@ -1,0 +1,72 @@
+{
+    "title": "Rachel's Creamy Rice Pudding",
+    "Category": "Rice Pudding",
+    "Ingredients": [
+        {
+            "1": "2 quarts whole milk, or more as needed"
+        },
+        {
+            "2": "1 cup Carolina gold rice"
+        },
+        {
+            "3": "1 cup white sugar"
+        },
+        {
+            "4": "2  eggs, at room temperature"
+        },
+        {
+            "5": "1 cup raisins, or to taste"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "1 ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place milk, rice, and sugar in a large pot. Bring to a boil. Reduce heat and simmer until rice is tender, 20 to 25 minutes."
+        },
+        {
+            "2": "Beat eggs in a bowl. Add a small amount of the rice mixture to the eggs to temper them. Pour mixture into the pot; add raisins and vanilla extract. Let cook until thickened, 15 to 20 minutes more. Add more milk if pudding gets too thick. Pour into a serving bowl and sprinkle cinnamon on top."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "271"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8073951.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

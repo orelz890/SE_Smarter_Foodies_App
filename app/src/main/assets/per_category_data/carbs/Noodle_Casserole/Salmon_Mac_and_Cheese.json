@@ -1,0 +1,123 @@
+{
+    "title": "Salmon Mac and Cheese",
+    "Category": "Noodle Casserole",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package elbow macaroni"
+        },
+        {
+            "2": "0.25 cup butter, softened"
+        },
+        {
+            "3": "1 tablespoon olive oil"
+        },
+        {
+            "4": "1 small onion, minced"
+        },
+        {
+            "5": "1 (6 ounce) can salmon, drained and flaked"
+        },
+        {
+            "6": "1 tablespoon seafood seasoning (such as Old Bay\u00ae)"
+        },
+        {
+            "7": "1 tablespoon red wine vinegar"
+        },
+        {
+            "8": "1.0 cups shredded Cheddar cheese"
+        },
+        {
+            "9": "2  eggs, beaten"
+        },
+        {
+            "10": "2 cups milk"
+        },
+        {
+            "11": "0.5 cup vegetable stock"
+        },
+        {
+            "12": "1 (14.5 ounce) can peas and carrots, drained"
+        },
+        {
+            "13": "1 (8 ounce) can whole kernel corn, drained"
+        },
+        {
+            "14": "1 salt and pepper to taste"
+        },
+        {
+            "15": "3 slices day-old bread"
+        },
+        {
+            "16": "3 tablespoons grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish."
+        },
+        {
+            "2": "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once the water is boiling, stir in the macaroni, and return to a boil. Cook the pasta uncovered, stirring occasionally, until the pasta has cooked through, but is still firm to the bite, about 8 minutes. Drain well in a colander set in the sink. Transfer to a large bowl. Stir the softened butter into the macaroni."
+        },
+        {
+            "3": "Heat the olive oil in a skillet over medium heat; cook the onion in the oil until brown, about 5 minutes. Stir in the salmon and seafood seasoning and cook until warmed through, about 5 minutes more. Remove from heat and pour the red wine vinegar into the skillet and set aside to cool."
+        },
+        {
+            "4": "Mix together the Cheddar cheese, eggs, milk, and vegetable stock in a large mixing bowl. Add the salmon mixture, peas and carrots, and corn; mix. Stir in the macaroni. Season with salt and pepper. Spread into the bottom of the prepared baking dish."
+        },
+        {
+            "5": "Toast the bread and break into small pieces. Combine the toasted bread and Parmesan cheese in a food processor; blend until chopped into crumbs. Sprinkle over top of the dish."
+        },
+        {
+            "6": "Bake in the preheated oven until heated through, about 45 minutes. Allow to cool 15 to 20 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 10 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "581"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "61g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8604322.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F31c132b9b2ce594f26a3e14ec2f5676f%2F6264671.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F712c943dd6f844bdb1661fba73303578%2F2228460.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F357629.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

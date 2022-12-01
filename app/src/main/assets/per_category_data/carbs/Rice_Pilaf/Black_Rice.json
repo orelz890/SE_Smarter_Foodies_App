@@ -1,0 +1,66 @@
+{
+    "title": "Black Rice",
+    "Category": "Rice Pilaf",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons butter"
+        },
+        {
+            "2": "1 cup black rice"
+        },
+        {
+            "3": "0.25 cup diced onion"
+        },
+        {
+            "4": "0.25 cup slivered almonds"
+        },
+        {
+            "5": "0.75 cups water"
+        },
+        {
+            "6": "1 cube chicken bouillon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a saucepan over medium heat. Add black rice, onion, and almonds; cook and stir until lightly toasted, 5 to 10 minutes. Add water and bouillon cube; bring to a boil. Reduce hear to low, cover, and simmer until rice is tender and liquid is absorbed, 25 to 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "266"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3237801.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

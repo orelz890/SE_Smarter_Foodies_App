@@ -1,0 +1,72 @@
+{
+    "title": "Spaghetti with Corned Beef",
+    "Category": "St. Patrick's Day Recipes",
+    "Ingredients": [
+        {
+            "1": "8 ounces spaghetti"
+        },
+        {
+            "2": "1 (12 ounce) can corned beef"
+        },
+        {
+            "3": "1 cup spaghetti sauce"
+        },
+        {
+            "4": "1 cube chicken bouillon"
+        },
+        {
+            "5": "1 teaspoon Italian seasoning"
+        },
+        {
+            "6": "0.5 teaspoon garlic powder (Optional)"
+        },
+        {
+            "7": "0.5 tablespoon dried minced onion (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Dissolve bouillon in boiling water. Cut spaghetti noodles in half and add to boiling water until done."
+        },
+        {
+            "2": "Over medium heat empty can of corned beef onto a skillet. Add spaghetti sauce to meat. Stir until heated; corned beef will come apart and a thick sauce will form. If desired, add Italian seasoning, garlic powder, dry onion, or any other spices."
+        },
+        {
+            "3": "Once noodles are done, drain and combine with corned beef sauce."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "4 to 6 - servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "383"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9110572.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbfa2e0bde5625ef0451567a9ea2821b6%2F1524494.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7705.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

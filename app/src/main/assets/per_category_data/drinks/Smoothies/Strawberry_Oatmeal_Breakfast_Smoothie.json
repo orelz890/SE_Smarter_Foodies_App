@@ -1,0 +1,75 @@
+{
+    "title": "Strawberry Oatmeal Breakfast Smoothie",
+    "Category": "Smoothies",
+    "Ingredients": [
+        {
+            "1": "1 cup soy milk"
+        },
+        {
+            "2": "0.5 cup rolled oats"
+        },
+        {
+            "3": "14  frozen strawberries"
+        },
+        {
+            "4": "1  banana, broken into chunks"
+        },
+        {
+            "5": "0.5 teaspoons white sugar (Optional)"
+        },
+        {
+            "6": "0.5 teaspoon vanilla extract (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Blend soy milk, oats, strawberries, and banana in a blender until smooth. Add sugar and vanilla and blend again until smooth."
+        },
+        {
+            "2": "Pour into glasses and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "142"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9210875.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8982800.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8620389.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8241895.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/DlPnojTRGNBSBrlP6xliPzdFspI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/409456-strawberry-oatmeal-breakfast-smoothie-Alberta-Rose-1x1-1-6b6d3d2dc43d49a9ac521cffc963fabb.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

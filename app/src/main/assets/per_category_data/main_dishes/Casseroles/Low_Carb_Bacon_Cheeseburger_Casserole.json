@@ -1,0 +1,99 @@
+{
+    "title": "Low-Carb Bacon Cheeseburger Casserole",
+    "Category": "Casseroles",
+    "Ingredients": [
+        {
+            "1": "2 pounds ground beef"
+        },
+        {
+            "2": "2 cloves garlic, minced"
+        },
+        {
+            "3": "0.5 teaspoon onion powder"
+        },
+        {
+            "4": "1 pound cooked bacon, cut into pieces"
+        },
+        {
+            "5": "8  eggs"
+        },
+        {
+            "6": "1 cup heavy whipping cream"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "9": "1 (12 ounce) package shredded Cheddar cheese, divided"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Heat a large skillet over medium-high heat. Cook and stir beef with garlic and onion powder until browned and crumbly, 5 to 7 minutes. Drain and discard grease."
+        },
+        {
+            "3": "Spread beef onto the bottom of a 9x13-inch casserole pan. Stir in bacon pieces."
+        },
+        {
+            "4": "Whisk eggs, heavy cream, salt, and pepper in a medium bowl until well combined. Stir in 8 ounces Cheddar cheese."
+        },
+        {
+            "5": "Pour egg mixture over the beef and bacon. Top with the remaining 4 ounces cheese."
+        },
+        {
+            "6": "Bake in the preheated oven until golden brown on top, 30 to 35 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x13-inch casserole"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "594"
+        },
+        {
+            "Fat": "48g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "38g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F26d5a541f2ed75db92f4469f582cd3ca%2F165868696820220724_141235.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9203398.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8665637.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8662513.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

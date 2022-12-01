@@ -1,0 +1,117 @@
+{
+    "title": "Veggie Pizzadillas",
+    "Category": "Quesadillas",
+    "Ingredients": [
+        {
+            "1": "4 (6 inch) flour tortillas"
+        },
+        {
+            "2": "2 tablespoons olive oil, divided, or as needed"
+        },
+        {
+            "3": "1  onion, thinly sliced"
+        },
+        {
+            "4": "1  poblano chile, diced"
+        },
+        {
+            "5": "1  red bell pepper, diced"
+        },
+        {
+            "6": "2 cloves garlic, minced"
+        },
+        {
+            "7": "1 (15 ounce) can black beans, rinsed and drained"
+        },
+        {
+            "8": "1 cup frozen corn, thawed"
+        },
+        {
+            "9": "0.25 teaspoon dried oregano"
+        },
+        {
+            "10": "1 salt to taste"
+        },
+        {
+            "11": "0.25 cup mild enchilada sauce"
+        },
+        {
+            "12": "1 cup shredded Mexican cheese blend"
+        },
+        {
+            "13": "0.25 cup sour cream"
+        },
+        {
+            "14": "0.5 cup crumbled queso fresco"
+        },
+        {
+            "15": "0.25 cup chopped fresh cilantro"
+        },
+        {
+            "16": "1 dash hot pepper sauce (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Place tortillas on baking sheet covered with foil; lightly brush each with olive oil, and prick all over with fork."
+        },
+        {
+            "2": "Bake tortillas in the preheated oven until they are puffed and golden, 5 to 6 minutes. Remove from oven and allow to cool on cooling rack."
+        },
+        {
+            "3": "Heat remaining olive oil in a large skillet over medium heat. Add onion, poblano chile, and red bell pepper; cook and stir until onions are translucent and lightly browned, 8 to 10 minutes. Stir in black beans, corn, garlic, oregano, and salt; cook and stir until mixture is heated through, about 5 minutes."
+        },
+        {
+            "4": "Return tortillas to the foil-lined baking sheet in a single layer; spoon 1 tablespoon enchilada sauce over each tortilla. Top with 1/4 of the black bean and corn mixture and 1/4 of the shredded Mexican cheese."
+        },
+        {
+            "5": "Bake pizzadillas in the preheated oven until cheese has melted, 5 to 6 minutes."
+        },
+        {
+            "6": "Remove pizzadillas from oven; top each with sour cream, queso fresco, and cilantro. Add a dash of hot pepper sauce to each slice."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 pizzadillas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "547"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "56g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8262750.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9371c7b9157843fb11f0247896ca3e27%2F6442706.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2995262.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

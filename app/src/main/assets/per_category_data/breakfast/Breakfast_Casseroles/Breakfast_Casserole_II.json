@@ -1,0 +1,87 @@
+{
+    "title": "Breakfast Casserole II",
+    "Category": "Breakfast Casseroles",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package ground pork breakfast sausage"
+        },
+        {
+            "2": "12  eggs"
+        },
+        {
+            "3": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "4": "0.25 cups milk"
+        },
+        {
+            "5": "1 (4.5 ounce) can sliced mushrooms, drained"
+        },
+        {
+            "6": "1 (32 ounce) package frozen potato rounds"
+        },
+        {
+            "7": "0.5 cup shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place sausage in a skillet over medium-high heat, and cook until evenly brown. Drain, and set aside."
+        },
+        {
+            "2": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish."
+        },
+        {
+            "3": "In a large bowl, beat together the eggs, condensed cream of mushroom soup, and milk. Stir in the sausage and mushrooms, and pour into the prepared baking dish. Mix in the frozen potato rounds."
+        },
+        {
+            "4": "Bake in preheated oven for 45 to 50 minutes. Sprinkle with cheese, and bake an additional 10 minutes, or until cheese is melted."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "352"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8df86257480465b568187288019d0a4c%2F4503525.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3551137.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2187115.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F77a469e79b7bdfa7c9f495e57a93dbdd%2F1868579.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

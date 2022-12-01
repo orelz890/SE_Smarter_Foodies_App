@@ -1,0 +1,105 @@
+{
+    "title": "Slow-Cooked Baked Beans",
+    "Category": "Baked Beans",
+    "Ingredients": [
+        {
+            "1": "3 cups dried navy beans"
+        },
+        {
+            "2": "1 water, to cover"
+        },
+        {
+            "3": "0.5 cups ketchup"
+        },
+        {
+            "4": "0.5 pound fully cooked ham"
+        },
+        {
+            "5": "0.5 cups water"
+        },
+        {
+            "6": "0.5 cup brown sugar"
+        },
+        {
+            "7": "0.25 cup molasses"
+        },
+        {
+            "8": "0.5 tablespoons onion powder"
+        },
+        {
+            "9": "1 tablespoon dry mustard"
+        },
+        {
+            "10": "1 tablespoon salt"
+        },
+        {
+            "11": "1 tablespoon Worcestershire sauce"
+        },
+        {
+            "12": "0.25 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place beans in a large pot and cover with plenty of water. Cover pot with a lid and soak beans for 8 hours or overnight. Drain and fill pot with fresh water."
+        },
+        {
+            "2": "Cook beans over medium heat until tender, about 1 hour. Drain beans, reserving the water for later use."
+        },
+        {
+            "3": "Place beans, ketchup, ham, 1 1/2 cup water, brown sugar, molasses, onion powder, mustard, salt, Worcestershire sauce, black pepper, and 1 cup reserved bean water in a slow cooker. Add more bean water as needed if beans get too dry."
+        },
+        {
+            "4": "Cook on Low for 7 to 9 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 8 hrs"
+        },
+        {
+            "Additional Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 16 hrs 10 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "302"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "51g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2e5777703373e1f16c74b2c41b346d28%2F5647788.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdba0c5afffe935cd9d0e378a311eb127%2F4536481.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1005406.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1995339.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

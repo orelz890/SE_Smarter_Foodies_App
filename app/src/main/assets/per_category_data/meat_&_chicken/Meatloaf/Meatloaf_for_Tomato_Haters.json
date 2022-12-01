@@ -1,0 +1,93 @@
+{
+    "title": "Meatloaf for Tomato Haters",
+    "Category": "Meatloaf",
+    "Ingredients": [
+        {
+            "1": "1 cup diced onion"
+        },
+        {
+            "2": "1 cup diced green bell pepper"
+        },
+        {
+            "3": "0.75 cup Italian-style bread crumbs"
+        },
+        {
+            "4": "0.25 cup hot pepper sauce"
+        },
+        {
+            "5": "1  egg"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "1 teaspoon ground black pepper"
+        },
+        {
+            "8": "2 pounds ground beef"
+        },
+        {
+            "9": "1 (.75 ounce) packet dry brown gravy mix"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Mix onion, bell pepper, bread crumbs, hot pepper sauce, egg, salt, and pepper together in a large bowl. Add ground beef; mix."
+        },
+        {
+            "3": "Press beef mixture into a loaf pan. Sprinkle brown gravy mix over meat."
+        },
+        {
+            "4": "Bake in preheated oven until cooked through and browned, 1 hour. Remove from oven and let rest for 10 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "396"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8003680.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7042792.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe0ca82ba420e1f45ba135ffb7c0db134%2F6663357.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F399938e6b9cf0f03e8c8553d2d17babc%2F3980424.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

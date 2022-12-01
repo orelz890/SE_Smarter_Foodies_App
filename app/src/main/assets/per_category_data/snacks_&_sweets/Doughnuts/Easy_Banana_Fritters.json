@@ -1,0 +1,96 @@
+{
+    "title": "Easy Banana Fritters",
+    "Category": "Doughnuts",
+    "Ingredients": [
+        {
+            "1": "2  ripe bananas"
+        },
+        {
+            "2": "2 tablespoons milk"
+        },
+        {
+            "3": "2  eggs"
+        },
+        {
+            "4": "1 tablespoon margarine, melted"
+        },
+        {
+            "5": "1 cup all-purpose flour"
+        },
+        {
+            "6": "3 tablespoons white sugar"
+        },
+        {
+            "7": "1 teaspoon baking powder"
+        },
+        {
+            "8": "0.5 teaspoon salt"
+        },
+        {
+            "9": "0.25 teaspoon ground cinnamon"
+        },
+        {
+            "10": "1 pinch ground nutmeg"
+        },
+        {
+            "11": "1 quart oil for frying"
+        },
+        {
+            "12": "1 cup confectioners' sugar for dusting"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, mash the bananas. Mix in milk, eggs and margarine until smooth. In a separate bowl, combine flour, sugar, baking powder, salt, cinnamon and nutmeg. Stir dry ingredients into banana mixture."
+        },
+        {
+            "2": "Heat oil in a deep fryer or heavy bottomed pan to 375 degrees F (190 degrees C). Drop batter by spoonfuls into hot oil, and cook, turning once, until browned, 2 to 8 minutes. Drain on paper towels and dust with confectioners' sugar."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "386"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "52g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9301024.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4513101.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9170792.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8511299.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Easy Swedish Apple Pie",
+    "Category": "Apple Pie",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds Granny Smith apples - peeled, cored and sliced"
+        },
+        {
+            "2": "1 tablespoon sugar"
+        },
+        {
+            "3": "1 cup sugar"
+        },
+        {
+            "4": "1 cup flour"
+        },
+        {
+            "5": "1 teaspoon cinnamon"
+        },
+        {
+            "6": "0.75 cup melted butter"
+        },
+        {
+            "7": "1  egg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Toss apples with 1 tablespoon of sugar, and pour them into a pie plate. Thoroughly mix together 1 cup of sugar with the flour, cinnamon, butter, and egg. Spread this evenly over the top of the pie."
+        },
+        {
+            "3": "Bake in preheated oven until the apples have cooked and the topping is golden brown, about 40 to 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 to 9 - inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "359"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F222819230bcd52bfb017d1388bf29082%2F1663502234DB49ADB1-3D2D-46A4-A53D-40AA53AF000A.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9434011.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9175749.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8685060.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

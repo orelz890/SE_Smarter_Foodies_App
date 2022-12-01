@@ -1,0 +1,96 @@
+{
+    "title": "Chicken Alfredo",
+    "Category": "Fettuccini",
+    "Ingredients": [
+        {
+            "1": "6 ounces dry fettuccine pasta"
+        },
+        {
+            "2": "1 (8 ounce) package cream cheese"
+        },
+        {
+            "3": "6 tablespoons butter"
+        },
+        {
+            "4": "0.5 cup milk"
+        },
+        {
+            "5": "0.5 teaspoon garlic powder"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        },
+        {
+            "7": "2  skinless, boneless chicken breast halves - cooked and cubed"
+        },
+        {
+            "8": "2 cups chopped fresh broccoli"
+        },
+        {
+            "9": "2 small zucchini, julienned"
+        },
+        {
+            "10": "0.5 cup chopped red bell pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add pasta, and cook for 8 to 10 minutes, or until al dente; drain."
+        },
+        {
+            "2": "While pasta is cooking, melt cream cheese and butter in a skillet over low heat. Stir until smooth. Stir in milk, and season with garlic powder, salt, and pepper. Simmer for 3 minutes, or until thickened, stirring constantly."
+        },
+        {
+            "3": "Mix in chicken, broccoli, zucchini, and red pepper. Cook 3 minutes over medium heat, then reduce heat, and simmer 5 minutes, or until vegetables are tender. Serve over fettuccine."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "645"
+        },
+        {
+            "Fat": "43g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9317447.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9126185.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8344457.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7813028.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/nT9G9uZxF4cE8Yzhnb8GYas_PKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1551629-0e6aacae7c934c46945a591e60cd535c.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

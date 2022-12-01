@@ -1,0 +1,90 @@
+{
+    "title": "Easy Meatballs",
+    "Category": "Meatballs",
+    "Ingredients": [
+        {
+            "1": "2  eggs"
+        },
+        {
+            "2": "2 tablespoons Italian seasoning"
+        },
+        {
+            "3": "2 teaspoons chopped fresh basil"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "1 teaspoon ground black pepper"
+        },
+        {
+            "6": "1 teaspoon garlic powder"
+        },
+        {
+            "7": "2 pounds ground beef"
+        },
+        {
+            "8": "0.5 cup panko bread crumbs"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Mix eggs, Italian seasoning, basil, salt, pepper, and garlic powder together in a large bowl. Add beef and panko bread crumbs and mix thoroughly."
+        },
+        {
+            "3": "Shape mixture into about forty 1 1/2-inch balls, a little smaller than golf balls, using a teaspoon. Place on ungreased, rimmed baking sheets."
+        },
+        {
+            "4": "Bake in the preheated oven until no longer pink in the centers, turning halfway through cooking time, 10 to 15 minutes total."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "40 meatballs"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "245"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8160bc37765fb9cf984a33d451679a27%2F1660590372IMG_1219.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9443709.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8009106.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F872763.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

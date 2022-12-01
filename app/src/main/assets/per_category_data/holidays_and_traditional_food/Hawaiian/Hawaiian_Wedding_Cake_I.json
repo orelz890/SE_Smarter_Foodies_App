@@ -1,0 +1,75 @@
+{
+    "title": "Hawaiian Wedding Cake I",
+    "Category": "Hawaiian",
+    "Ingredients": [
+        {
+            "1": "0.5 cups white sugar"
+        },
+        {
+            "2": "1 teaspoon baking soda"
+        },
+        {
+            "3": "2 cups all-purpose flour"
+        },
+        {
+            "4": "2  eggs"
+        },
+        {
+            "5": "1 (20 ounce) can crushed pineapple with juice"
+        },
+        {
+            "6": "1 cup chopped walnuts"
+        },
+        {
+            "7": "0.75 cup flaked coconut"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease one 9 x 13 inch pan."
+        },
+        {
+            "2": "In a large bowl, mix sugar, soda, and flour by hand. Mix in eggs, pineapple with juice. Stir in nuts, and coconut. Pour into prepared pan."
+        },
+        {
+            "3": "Bake for 35 to 40 minutes. Cool on wire racks."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x13-inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "297"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "52g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fab72aa16f58a5fb83a522ae3b37b81f4%2F165020460523BE7888-79B8-4A09-807D-C37B9CF96B1F.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8028983.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6873568.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6562820.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

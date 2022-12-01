@@ -1,0 +1,81 @@
+{
+    "title": "Candied Almonds",
+    "Category": "Vegan Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup white sugar"
+        },
+        {
+            "2": "0.5 cup water"
+        },
+        {
+            "3": "1 tablespoon ground cinnamon"
+        },
+        {
+            "4": "2 cups whole almonds"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Line a baking sheet with waxed paper."
+        },
+        {
+            "2": "Combine sugar, water, and cinnamon in a saucepan over medium heat; bring to a boil. Add almonds; cook and stir mixture until liquid evaporates and leaves a syrupy coating on almonds."
+        },
+        {
+            "3": "Pour almonds onto the prepared baking sheet; use two forks to separate clumps and spread into an even layer. Allow to cool for about 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "304"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9338036.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9295360.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9252015.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9166967.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/TbXlIqbUnkUonf94xqc0kNxHx2k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7004099-candied-almonds-Lady-J-1x1-1-ecc3dfb0f5e24ba6bb889d5aa6c9e5a4.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Pumpkin-Apple Dog Treats",
+    "Category": "Pet Food",
+    "Ingredients": [
+        {
+            "1": "4 cups rolled oats, or as needed"
+        },
+        {
+            "2": "1 medium apple, cored and grated"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "1 cup canned pumpkin"
+        },
+        {
+            "5": "0.25 cup rolled oats"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper."
+        },
+        {
+            "2": "Place 4 cups oatmeal in the bowl of a food processor; pulse until finely ground. Transfer to a mixing bowl."
+        },
+        {
+            "3": "Stir in grated apple. Mix in canned pumpkin and egg until well combined; mixture will be thick and slightly sticky."
+        },
+        {
+            "4": "Roll dough on a surface sprinkled with remaining 1/4 cup oats to a 1/2-inch thickness. Cut shapes with a cookie cutter and transfer to the prepared baking sheet."
+        },
+        {
+            "5": "Bake in the preheated oven until crisp and golden, 12 to 15 minutes. Remove to a wire rack to cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 biscuits"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "64"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F68ccaa8eeb2d71c594b562210a17ec7a%2F7633557.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7589925.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "animals"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Teriyaki Drumettes",
+    "Category": "Chicken Teriyaki",
+    "Ingredients": [
+        {
+            "1": "0.5 cups white sugar"
+        },
+        {
+            "2": "1 cup soy sauce"
+        },
+        {
+            "3": "1 cup water"
+        },
+        {
+            "4": "2 tablespoons ground ginger"
+        },
+        {
+            "5": "3 cloves garlic, diced"
+        },
+        {
+            "6": "0.75 teaspoon ground cinnamon"
+        },
+        {
+            "7": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "8": "0.5 pounds chicken drumettes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine sugar, soy sauce, and water in an 8-quart pot; stir until sugar is dissolved. Turn heat to medium-high; add ginger, garlic, cinnamon, and black pepper and stir."
+        },
+        {
+            "2": "Bring mixture to a boil and add chicken drumettes. Once mixture begins to boil again, reduce heat to medium-low, and partially cover pot with a lid tilted to allow steam to escape. Simmer until chicken is no longer pink in the center and teriyaki sauce is thickened, at least 1 hour."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "308"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "55g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9230389.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9233324.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8925024.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7756967.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

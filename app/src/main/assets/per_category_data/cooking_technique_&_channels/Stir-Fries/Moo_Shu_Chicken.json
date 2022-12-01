@@ -1,0 +1,108 @@
+{
+    "title": "Moo Shu Chicken",
+    "Category": "Stir-Fries",
+    "Ingredients": [
+        {
+            "1": "6 tablespoons cold water, divided"
+        },
+        {
+            "2": "3 teaspoons sesame oil, divided"
+        },
+        {
+            "3": "2 teaspoons cornstarch"
+        },
+        {
+            "4": "1 pound chicken breast tenderloins, cut into thin strips"
+        },
+        {
+            "5": "2 tablespoons hoisin sauce"
+        },
+        {
+            "6": "2 tablespoons oyster sauce"
+        },
+        {
+            "7": "2 teaspoons soy sauce"
+        },
+        {
+            "8": "2 teaspoons vegetable oil, divided"
+        },
+        {
+            "9": "2  eggs, beaten"
+        },
+        {
+            "10": "3 cups shredded cabbage or coleslaw mix"
+        },
+        {
+            "11": "1 (4 ounce) can sliced shiitake mushrooms, drained"
+        },
+        {
+            "12": "2 cloves garlic, minced"
+        },
+        {
+            "13": "1 tablespoon sherry"
+        },
+        {
+            "14": "3  green onions, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk 2 tablespoons water, 2 teaspoons sesame oil, and cornstarch together in a large bowl. Stir in chicken and set aside."
+        },
+        {
+            "2": "Whisk remaining 4 tablespoons water, 1 teaspoon sesame oil, hoisin sauce, oyster sauce, and soy sauce together in a separate bowl. Set aside."
+        },
+        {
+            "3": "Heat 1 teaspoon vegetable oil in a skillet over medium heat. Add eggs and cook 3 minutes; flip and cook until firm and set, about 3 minutes more. Transfer to a cutting board and slice into thin strips."
+        },
+        {
+            "4": "Add chicken mixture to the same skillet over medium-high heat. Cook chicken for 6 minutes; flip and cook until chicken is golden brown and juices run clear, about 6 minutes more. Remove from heat and set aside."
+        },
+        {
+            "5": "Heat remaining teaspoon vegetable oil in a large skillet over medium-high heat. Add cabbage, shiitake mushrooms, garlic, and sherry. Cook until cabbage starts to wilt, about 2 minutes."
+        },
+        {
+            "6": "Add chicken, eggs, and sauce mixture to cabbage mixture. Cook and stir until sauce has thickened, about 5 minutes. Toss in green onions and serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "319"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd86e5212bbb570434ba87fcb55ae13f4%2F1660425816image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6634984.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Colorful Vegetable Fajitas",
+    "Category": "Fajitas",
+    "Ingredients": [
+        {
+            "1": "8 (8 inch) flour tortillas"
+        },
+        {
+            "2": "2 tablespoons vegetable oil"
+        },
+        {
+            "3": "1  red onion, thinly sliced"
+        },
+        {
+            "4": "1  green bell pepper, seeded and sliced into strips"
+        },
+        {
+            "5": "1  red bell pepper, seeded and sliced into strips"
+        },
+        {
+            "6": "1 teaspoon minced garlic"
+        },
+        {
+            "7": "1  yellow squash, halved and sliced into strips"
+        },
+        {
+            "8": "0.5 cup salsa"
+        },
+        {
+            "9": "1 teaspoon ground cumin"
+        },
+        {
+            "10": "0.5 teaspoon salt"
+        },
+        {
+            "11": "1 cup shredded Monterey Jack cheese"
+        },
+        {
+            "12": "0.25 cup chopped fresh cilantro"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Wrap tortillas in aluminum foil, and place in oven. Turn heat to 350 degrees F (175 degrees C). Bake for 15 minutes, or until thoroughly heated."
+        },
+        {
+            "2": "In a 10 inch skillet, heat oil over medium high heat. Add onions, red and green peppers, and garlic; stir to coat with oil. Cover, reduce heat to medium, and cook for 5 minutes. Stir squash into vegetables. Stir in salsa, cumin, and salt. Cover, and cook for 5 minutes."
+        },
+        {
+            "3": "Spoon vegetable mixture evenly down the centers of warm tortillas, and sprinkle with cheese and cilantro. Roll up tortillas, and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "531"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "65g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb744f619f22fd3766c27c4baf65f5350%2F4919100.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd70691ba6a56f87fed644b277e56f43e%2F1054763.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F636055.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F475b7cb033173e019eb3fd3d0b61c669%2F508366.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

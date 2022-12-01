@@ -1,0 +1,50 @@
+{
+    "title": "Microwave Quesadilla",
+    "Category": "Quesadillas",
+    "Ingredients": [
+        {
+            "1": "2  flour tortillas"
+        },
+        {
+            "2": "0.5 cup shredded sharp Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place one tortilla on a microwave-safe plate. Sprinkle Cheddar cheese all over the tortilla. Top with second tortilla. Microwave until cheese is melted, 30 to 45 seconds."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "2 mins"
+        },
+        {
+            "Cook Time": "1 mins"
+        },
+        {
+            "Total Time": "3 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 quesadillas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "339"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [],
+    "main category": "carbs"
+}

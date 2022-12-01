@@ -1,0 +1,84 @@
+{
+    "title": "Vegan Pancakes",
+    "Category": "Vegan Recipes",
+    "Ingredients": [
+        {
+            "1": "0.25 cups all-purpose flour"
+        },
+        {
+            "2": "2 tablespoons white sugar"
+        },
+        {
+            "3": "2 teaspoons baking powder"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.25 cups water"
+        },
+        {
+            "6": "1 tablespoon oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Sift flour, sugar, baking powder, and salt into a large bowl; make a well in the center. Whisk together water and oil in a small bowl; pour into flour mixture. Stir just until blended; mixture will be lumpy."
+        },
+        {
+            "2": "Heat a lightly oiled griddle over medium-high heat."
+        },
+        {
+            "3": "Drop batter by large spoonfuls onto the griddle. Cook until bubbles form and edges are dry. Flip, then cook until bottoms are browned, 1 to 2 minutes. Repeat with remaining batter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "3 "
+        },
+        {
+            "Yield": "9 pancakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "264"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc2766ad24b97da1673efa87971b9423c%2F165133447020220430_115957.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9385996.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9258206.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8846148.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/h_2pfdodl7rYfRi6EfJLCf6fmxU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/191885-vegan-pancakes-ddmfs-1x1-80-c2e95ec093724f6fbd23d93a35f25f05.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Cajun Shrimp",
+    "Category": "Mardi Gras Recipes",
+    "Ingredients": [
+        {
+            "1": "1 teaspoon paprika"
+        },
+        {
+            "2": "0.75 teaspoon dried thyme"
+        },
+        {
+            "3": "0.75 teaspoon dried oregano"
+        },
+        {
+            "4": "0.25 teaspoon garlic powder"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "7": "0.25 teaspoon cayenne pepper, or more to taste"
+        },
+        {
+            "8": "0.5 pounds large shrimp, peeled and deveined"
+        },
+        {
+            "9": "1 tablespoon vegetable oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine paprika, thyme, oregano, garlic powder, salt, pepper, and cayenne pepper in a sealable plastic bag; shake to mix. Add shrimp and shake to coat."
+        },
+        {
+            "2": "Heat oil in a large non-stick skillet over medium high heat. Cook and stir shrimp in hot oil until they are bright pink on the outside and the meat is no longer transparent in the center, about 4 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "166"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdd137224edd98e3522713196d6ede301%2F1660100176IMG_20220809_202207996.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdd137224edd98e3522713196d6ede301%2F165637728416563771123998431932443408811321.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdd137224edd98e3522713196d6ede301%2F1648201714IMG_20220321_191823_01.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9445061.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

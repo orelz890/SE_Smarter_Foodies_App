@@ -1,0 +1,69 @@
+{
+    "title": "Fast Apple Rhubarb Pie",
+    "Category": "Rhubarb Pie",
+    "Ingredients": [
+        {
+            "1": "1 (9 inch) pie shell"
+        },
+        {
+            "2": "6  apple - peeled, cored, and chopped"
+        },
+        {
+            "3": "3  rhubarb, diced"
+        },
+        {
+            "4": "1 cup white sugar"
+        },
+        {
+            "5": "2 teaspoons ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 440 degrees F (220 degrees C)."
+        },
+        {
+            "2": "Combine apples and rhubarb in a large bowl. Mix together sugar and cinnamon in a small bowl, then sprinkle over fruit. Toss until fruit is thoroughly coated. Spoon mixture into pastry shell."
+        },
+        {
+            "3": "Bake in preheated oven for 40 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 to 9 - inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "237"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6f29135ac77d8e5c82b6defbaa2f05b7%2F1652296479B2C1FF5C-6BF8-46F9-ABA0-FBAE51785C0B.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6f29135ac77d8e5c82b6defbaa2f05b7%2F165088798920220424_115428.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8322119.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8096319.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

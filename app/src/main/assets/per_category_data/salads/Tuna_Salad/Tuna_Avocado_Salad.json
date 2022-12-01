@@ -1,0 +1,78 @@
+{
+    "title": "Tuna Avocado Salad",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "2 medium avocados"
+        },
+        {
+            "2": "1 (5 ounce) can light tuna (such as Century\u00ae)"
+        },
+        {
+            "3": "2 small tomatoes, chopped"
+        },
+        {
+            "4": "1 tablespoon chopped fresh cilantro, or to taste"
+        },
+        {
+            "5": "0.5 tablespoon ground black pepper"
+        },
+        {
+            "6": "1 pinch chili powder, or more to taste"
+        },
+        {
+            "7": "1 salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Scoop out avocado contents and place in a bowl. Set aside shells."
+        },
+        {
+            "2": "Mix in tuna, tomatoes, cilantro, pepper, chili powder, and salt. Divide mixture between shells to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "417"
+        },
+        {
+            "Fat": "30g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9228819.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9228822.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9224490.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9067887.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

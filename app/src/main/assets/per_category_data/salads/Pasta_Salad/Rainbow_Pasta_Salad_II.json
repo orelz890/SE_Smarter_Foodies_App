@@ -1,0 +1,78 @@
+{
+    "title": "Rainbow Pasta Salad II",
+    "Category": "Pasta Salad",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package tri-colored pasta assortment"
+        },
+        {
+            "2": "2 large tomatoes, diced"
+        },
+        {
+            "3": "1 large cucumber, peeled and diced"
+        },
+        {
+            "4": "1  red onion, finely chopped"
+        },
+        {
+            "5": "1 (16 ounce) bottle Italian-style salad dressing"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain and rinse in cold water."
+        },
+        {
+            "2": "In a large bowl combine tomatoes, cucumbers, onion, cooled pasta and Italian dressing. Refrigerate overnight, or for at least 1 hour."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "387"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "52g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9180360.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8751396.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7561577.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6680387.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

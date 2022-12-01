@@ -1,0 +1,123 @@
+{
+    "title": "Apple Butter Spice Cake",
+    "Category": "Spice Cake",
+    "Ingredients": [
+        {
+            "1": "1 Topping-"
+        },
+        {
+            "2": "1 cup packed brown sugar"
+        },
+        {
+            "3": "1 teaspoon ground cinnamon"
+        },
+        {
+            "4": "0.5 teaspoon ground nutmeg"
+        },
+        {
+            "5": "0.5 cup chopped pecans"
+        },
+        {
+            "6": "1 Cake-"
+        },
+        {
+            "7": "2 cups all-purpose flour"
+        },
+        {
+            "8": "1 teaspoon baking powder"
+        },
+        {
+            "9": "1 teaspoon baking soda"
+        },
+        {
+            "10": "0.5 teaspoon salt"
+        },
+        {
+            "11": "0.5 cup butter, room temperature"
+        },
+        {
+            "12": "1 cup white sugar"
+        },
+        {
+            "13": "0.75 cup apple butter"
+        },
+        {
+            "14": "1 teaspoon vanilla extract"
+        },
+        {
+            "15": "0.5 cup whole bran cereal or wheat germ"
+        },
+        {
+            "16": "1 cup sour cream"
+        },
+        {
+            "17": "2  eggs, room temperature"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch pan."
+        },
+        {
+            "2": "Prepare the topping by mixing together the brown sugar, cinnamon, nutmeg, and chopped pecans."
+        },
+        {
+            "3": "Sift together the flour, baking powder, baking soda, and salt."
+        },
+        {
+            "4": "Beat butter and sugar together in a large bowl with an electric mixer until light and fluffy; add eggs one at a time, thoroughly beating each egg into the butter mixture before adding the next. Add apple butter, vanilla, and wheat germ or bran cereal. Add sifted dry ingredients alternately with sour cream; mix well after each addition."
+        },
+        {
+            "5": "Pour half the batter into the prepared pan; sprinkle with half of the topping. Pour remaining batter into pan and top with the rest of the topping."
+        },
+        {
+            "6": "Bake in the preheated oven until a tester inserted in the center comes out clean, about 40 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x13-inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "399"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "61g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3582815cf902a7618b8e93b294459a0b%2F16623853980C461115-218E-407A-B975-B593335BA0B5.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8541557.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8465402.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe68502616dcf7608c03a37fa259a4e2e%2F7239351.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Quick Tartar Sauce",
+    "Category": "Side Dishes",
+    "Ingredients": [
+        {
+            "1": "1 cup mayonnaise"
+        },
+        {
+            "2": "2 teaspoons sweet pickle relish"
+        },
+        {
+            "3": "1 teaspoon prepared yellow mustard"
+        },
+        {
+            "4": "1 teaspoon lemon juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir mayonnaise, relish, mustard, and lemon juice together in a bowl."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 cup"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "200"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4835ba9961790cbb51742dd403f96ac8%2F1668318732077image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fea80218bea4050731b8d15b800478bfb%2F16569104616CA84728-BC1D-4498-9661-212596901A4B.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fea80218bea4050731b8d15b800478bfb%2F165151033120220502_125008.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fea80218bea4050731b8d15b800478bfb%2F165127859816512785621172792233670714676784.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/WSOpn4jFFtFszD329HprynopE6A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/183835-QuickTartarSauce-mfs_0055_1x1-7ec51bcd97814e98a69a5a5f448d8f47.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/WSOpn4jFFtFszD329HprynopE6A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/183835-QuickTartarSauce-mfs_0055_1x1-7ec51bcd97814e98a69a5a5f448d8f47.jpg"
+        }
+    ],
+    "main category": "side_dishes"
+}

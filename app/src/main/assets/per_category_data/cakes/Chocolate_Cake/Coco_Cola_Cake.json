@@ -1,0 +1,120 @@
+{
+    "title": "Coco-Cola Cake",
+    "Category": "Chocolate Cake",
+    "Ingredients": [
+        {
+            "1": "1 Cola Cake-"
+        },
+        {
+            "2": "2 cups all-purpose flour"
+        },
+        {
+            "3": "2 cups white sugar"
+        },
+        {
+            "4": "1 cup butter"
+        },
+        {
+            "5": "1 cup cola-flavored carbonated beverage"
+        },
+        {
+            "6": "3 tablespoons unsweetened cocoa powder"
+        },
+        {
+            "7": "0.5 cups miniature marshmallows"
+        },
+        {
+            "8": "0.5 cup buttermilk"
+        },
+        {
+            "9": "2 large eggs"
+        },
+        {
+            "10": "1 teaspoon baking soda"
+        },
+        {
+            "11": "1 teaspoon vanilla extract"
+        },
+        {
+            "12": "1 Cola Frosting-"
+        },
+        {
+            "13": "0.5 cup butter"
+        },
+        {
+            "14": "6 tablespoons cola-flavored carbonated beverage"
+        },
+        {
+            "15": "2 tablespoons unsweetened cocoa powder"
+        },
+        {
+            "16": "4 cups confectioners' sugar"
+        },
+        {
+            "17": "1 cup chopped pecans"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish."
+        },
+        {
+            "2": "Make cola cake: Combine flour and sugar in a mixing bowl. Place butter, cola soft drink, and cocoa in a saucepan over medium heat; bring to a boil. Pour over flour mixture; mix well."
+        },
+        {
+            "3": "Stir in marshmallows, buttermilk, eggs, baking soda, and vanilla until well combined. Pour batter into the prepared dish."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted in the center comes out clean, about 40 minutes. Spread cola frosting over hot cake."
+        },
+        {
+            "5": "Make cola frosting: Combine butter, cola soft drink, and cocoa in a saucepan; bring to a boil. Pour over confectioners' sugar in a large bowl; mix well. Stir in chopped nuts."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "1 9x13-inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "454"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "67g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Faf8429187bea6677b06c9bb8cb89a2f1%2F164868530616486852897315927219660969049025.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8754956.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8167492.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8167490.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

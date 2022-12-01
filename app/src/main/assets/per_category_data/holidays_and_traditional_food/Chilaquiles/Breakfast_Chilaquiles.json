@@ -1,0 +1,78 @@
+{
+    "title": "Breakfast Chilaquiles",
+    "Category": "Chilaquiles",
+    "Ingredients": [
+        {
+            "1": "0.5 teaspoons olive oil"
+        },
+        {
+            "2": "2  corn tortillas, cut into small squares"
+        },
+        {
+            "3": "5  eggs"
+        },
+        {
+            "4": "1 salt and ground black pepper to taste"
+        },
+        {
+            "5": "0.25 cup shredded Cheddar cheese"
+        },
+        {
+            "6": "0.5 (14 ounce) can enchilada sauce (such as Old El Paso\u00ae)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a large skillet over medium heat. Add tortilla squares; cook and stir until crispy, about 5 minutes."
+        },
+        {
+            "2": "Whisk eggs, salt, and pepper together in a bowl. Stir in Cheddar cheese."
+        },
+        {
+            "3": "Pour egg and cheese mixture into the skillet; cook and until eggs are firm, about 5 minutes. Pour enchilada sauce on top."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "373"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8072603.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6206828.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F327e580279fd8905c8d7ab7dd87eacbe%2F4510087.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Sausage Mushroom Quiche",
+    "Category": "Quiche",
+    "Ingredients": [
+        {
+            "1": "1 pound small fresh button mushrooms"
+        },
+        {
+            "2": "1 pound ground pork breakfast sausage"
+        },
+        {
+            "3": "0.5 cup chopped fresh parsley"
+        },
+        {
+            "4": "3  eggs"
+        },
+        {
+            "5": "1 cup half-and-half cream"
+        },
+        {
+            "6": "0.5 cup grated Parmesan cheese"
+        },
+        {
+            "7": "0.25 teaspoon salt"
+        },
+        {
+            "8": "1 (9 inch) unbaked 9 inch pie crust"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Prepare the mushrooms by snipping off the stems. Cut in half if large."
+        },
+        {
+            "2": "Crumble the sausage in a large skillet, add the mushrooms, cook on medium-high heat until the meat and mushrooms are lightly browned and all the liquid from the mushrooms has evaporated. Drain off the grease. Add the parsley."
+        },
+        {
+            "3": "In a large bowl, beat the eggs, adding the cream, cheese and salt. Pour into the mushroom/sausage mixture; blending well. Pour mixture into the pie shell."
+        },
+        {
+            "4": "Bake in preheated oven for 25 to 30 minutes, until crust is well browned and the filling is set. Let stand 10 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "612"
+        },
+        {
+            "Fat": "50g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8971052.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8282493.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8279012.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8000584.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

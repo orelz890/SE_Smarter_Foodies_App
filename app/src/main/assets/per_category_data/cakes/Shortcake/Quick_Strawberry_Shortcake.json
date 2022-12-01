@@ -1,0 +1,75 @@
+{
+    "title": "Quick Strawberry Shortcake",
+    "Category": "Shortcake",
+    "Ingredients": [
+        {
+            "1": "2 pints ripe strawberries, hulled and chopped"
+        },
+        {
+            "2": "2 tablespoons white sugar"
+        },
+        {
+            "3": "1 cup sweetened condensed milk"
+        },
+        {
+            "4": "5  prepared strawberry shortcake cups"
+        },
+        {
+            "5": "1 cup whipping cream, whipped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the strawberries into a glass bowl and sprinkle with sugar. Stir condensed milk into strawberries and mash together with a fork until somewhat juicy. Cover and refrigerate 30 minutes to 1 hour."
+        },
+        {
+            "2": "Place each shortcake cup onto a dessert plate. Evenly divide the strawberries and their juice among the shortcake cups. Top with whipped cream to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "5 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "518"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "70g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8229097.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbfde5463aba2c56871eecf65b40b8b82%2F2353990.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2037754.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F156bfc7b9fe5ada844333ffad3a04610%2F667878.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

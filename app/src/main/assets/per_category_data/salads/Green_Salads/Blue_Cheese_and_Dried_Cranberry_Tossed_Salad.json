@@ -1,0 +1,75 @@
+{
+    "title": "Blue Cheese and Dried Cranberry Tossed Salad",
+    "Category": "Green Salads",
+    "Ingredients": [
+        {
+            "1": "4  hearts of romaine lettuce, chopped"
+        },
+        {
+            "2": "0.5  English cucumber, sliced"
+        },
+        {
+            "3": "0.75 cup grape tomatoes, halved"
+        },
+        {
+            "4": "0.5 cup chopped toasted pecans"
+        },
+        {
+            "5": "0.5 cup dried cranberries"
+        },
+        {
+            "6": "0.5 cup crumbled blue cheese"
+        },
+        {
+            "7": "0.75 cup balsamic vinaigrette"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Layer the romaine lettuce with the cucumber, grape tomatoes, pecans, cranberries, and blue cheese in a large salad bowl. Dress the salad with the balsamic vinaigrette before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "258"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9253898.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0cb3304aa1c51e80423f2bdf45f55e2b%2F4531571.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3880529.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F254585.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

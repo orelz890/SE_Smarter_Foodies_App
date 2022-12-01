@@ -1,0 +1,84 @@
+{
+    "title": "Pork Chop and Rice Casserole",
+    "Category": "Rice Casserole",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons vegetable oil"
+        },
+        {
+            "2": "4  pork chops"
+        },
+        {
+            "3": "1 (10.75 ounce) can  condensed cream of chicken soup"
+        },
+        {
+            "4": "1 (10.75 ounce) can  condensed cream of celery soup"
+        },
+        {
+            "5": "1 cup milk"
+        },
+        {
+            "6": "1 cup uncooked instant rice"
+        },
+        {
+            "7": "0.5 cup butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 275 degrees F (135 degrees C)."
+        },
+        {
+            "2": "Heat vegetable oil in a large skillet over medium heat, and brown the pork chops on both sides, 5 to 8 minutes per side. Place the chops into a 9x13-inch baking dish. In a large saucepan, whisk together the cream of chicken soup, cream of celery soup,and milk until smooth. Stir in the rice, and add the butter; bring the mixture to a boil over medium heat, and stir until the butter has melted. Pour the rice mixture over the chops; cover the dish with foil."
+        },
+        {
+            "3": "Bake in the preheated oven until tender, about 2 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 2 hrs 10 mins"
+        },
+        {
+            "Total Time": " 2 hrs 20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "716"
+        },
+        {
+            "Fat": "51g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9409088.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7156459.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4224791.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1114512.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

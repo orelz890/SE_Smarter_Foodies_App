@@ -1,0 +1,159 @@
+{
+    "title": "Pastitsio II",
+    "Category": "Ziti",
+    "Ingredients": [
+        {
+            "1": "1 Pasta-"
+        },
+        {
+            "2": "1 pound dry ziti pasta"
+        },
+        {
+            "3": "4 tablespoons butter"
+        },
+        {
+            "4": "0.25 cup grated Parmesan cheese"
+        },
+        {
+            "5": "1 dash ground nutmeg"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        },
+        {
+            "7": "3  eggs, lightly beaten"
+        },
+        {
+            "8": "1 Meat Sauce-"
+        },
+        {
+            "9": "2 tablespoons butter"
+        },
+        {
+            "10": "1 large onion, chopped"
+        },
+        {
+            "11": "1 clove garlic, crushed"
+        },
+        {
+            "12": "0.5 pounds lean ground beef"
+        },
+        {
+            "13": "0.25 cup tomato paste"
+        },
+        {
+            "14": "0.5 cup dry red wine"
+        },
+        {
+            "15": "0.5 cup vegetable broth"
+        },
+        {
+            "16": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "17": "1 salt and pepper to taste"
+        },
+        {
+            "18": "1 Cream Sauce-"
+        },
+        {
+            "19": "0.5 cup butter"
+        },
+        {
+            "20": "0.5 cup all-purpose flour"
+        },
+        {
+            "21": "3 cups milk"
+        },
+        {
+            "22": "0.25 teaspoon ground nutmeg"
+        },
+        {
+            "23": "1  egg, lightly beaten"
+        },
+        {
+            "24": "1 salt and pepper to taste"
+        },
+        {
+            "25": "1 cooking spray"
+        },
+        {
+            "26": "0.25 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Add ziti and cook until tender yet firm to the bite, 8 to 10 minutes."
+        },
+        {
+            "3": "Melt butter until golden brown and pour over ziti, add Parmesan cheese, nutmeg, salt, and pepper. Toss well. Cool briefly. Add eggs and toss again; set aside."
+        },
+        {
+            "4": "To make meat sauce: Gently fry onion and garlic in butter in a skillet until onion is soft, 3 to 5 minutes. Increase heat and add ground beef; stir well. Cook until meat begins to brown, about 5 minutes. Add tomato paste, wine, broth, parsley, salt, and pepper. Cover and simmer over low heat for 20 minutes."
+        },
+        {
+            "5": "To make cream sauce: Melt butter in saucepan, stir in flour and cook gently for 2 minutes. Pour in milk all at once and bring to a boil, stirring constantly. Boil gently for 1 minute. Add nutmeg, salt, and pepper. Cool slightly before stirring in beaten egg. Transfer 1/2 cup of this sauce to the meat sauce."
+        },
+        {
+            "6": "To assemble pastitsio: Grease a 9x13-inch baking dish. Spoon half of the prepared ziti evenly in the bottom and top with meat sauce. Top with remaining ziti. Pour on cream sauce and spread to completely cover ziti. Sprinkle Parmesan cheese on top."
+        },
+        {
+            "7": "Bake in a preheated oven for 50 minutes or until golden brown. Let stand 10 minutes before cutting into squares."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "45 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 30 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 2 hrs 25 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 9x13-inch casserole"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "576"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4b1b6f2bfc000d98b75deca96ecf59d7%2F1660190455IMG_20220810_225708.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9000238.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9000237.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6485959.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/tbnS4pf2CAPN6yl8iNdQN9__dKE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2094086-2471e717d8604daf807abd168c8c1e6c.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

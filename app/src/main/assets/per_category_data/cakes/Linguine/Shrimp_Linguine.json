@@ -1,0 +1,87 @@
+{
+    "title": "Shrimp Linguine",
+    "Category": "Linguine",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds cooked fresh shrimp"
+        },
+        {
+            "2": "6 tablespoons butter"
+        },
+        {
+            "3": "1 tablespoon minced garlic"
+        },
+        {
+            "4": "1 cup heavy whipping cream"
+        },
+        {
+            "5": "0.5 cup chopped parsley"
+        },
+        {
+            "6": "3 tablespoons chopped fresh basil"
+        },
+        {
+            "7": "0.5 teaspoon dried thyme"
+        },
+        {
+            "8": "0.75 cup grated Parmesan cheese"
+        },
+        {
+            "9": "1 salt to taste"
+        },
+        {
+            "10": "1 ground black pepper to taste"
+        },
+        {
+            "11": "1 (16 ounce) package linguini pasta"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook pasta until al dente according to package directions."
+        },
+        {
+            "2": "While linguine is cooking, melt butter or margarine in a large skillet. Add garlic, and saute briefly to release flavor. Add cream; heat just to boiling, stirring frequently. Lower heat, and stir in shrimp, parsley, basil, and thyme. Continue cooking until shrimp are just heated through. Do not overcook shrimp! Remove sauce from heat."
+        },
+        {
+            "3": "Drain the pasta, and toss lightly with the sauce. Toss again with cheese, and salt and pepper to taste. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "517"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "43g"
+        },
+        {
+            "Protein": "33g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9361641.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9302875.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9282218.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9278653.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

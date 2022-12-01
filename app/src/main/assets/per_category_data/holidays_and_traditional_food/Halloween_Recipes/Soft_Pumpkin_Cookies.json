@@ -1,0 +1,84 @@
+{
+    "title": "Soft Pumpkin Cookies",
+    "Category": "Halloween Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup white sugar"
+        },
+        {
+            "2": "1 tablespoon butter"
+        },
+        {
+            "3": "1  egg, beaten"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "1 cup pumpkin puree"
+        },
+        {
+            "6": "0.5 cup chopped walnuts"
+        },
+        {
+            "7": "2 cups all-purpose flour"
+        },
+        {
+            "8": "1 teaspoon baking powder"
+        },
+        {
+            "9": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Cream together sugar and butter. Add egg, vanilla, pumpkin and walnuts."
+        },
+        {
+            "3": "Stir in flour, baking powder and salt; mix well."
+        },
+        {
+            "4": "Drop by the tablespoon on cookie sheet and bake for 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "192"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8687611.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8614030.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7466396.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7115013.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

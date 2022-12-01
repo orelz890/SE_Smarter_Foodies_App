@@ -1,0 +1,81 @@
+{
+    "title": "Easy Baking Powder Drop Biscuits",
+    "Category": "Biscuit",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "1 tablespoon white sugar"
+        },
+        {
+            "3": "1.0 teaspoons baking powder"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.5 cup chilled butter, diced"
+        },
+        {
+            "6": "0.25 cups whole milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 450 degrees F (230 degrees C). Lightly grease a baking sheet."
+        },
+        {
+            "2": "Mix flour, sugar, baking powder, and salt together in a large bowl. Cut in cold butter with a knife or pastry blender until the mixture resembles coarse crumbs. Stir in milk, a little at a time, until dough is moistened. Drop dough by heaping spoonfuls onto the prepared baking sheet."
+        },
+        {
+            "3": "Bake in the preheated oven until golden, 12 to 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 biscuits"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "163"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffaa1d2addd404bd9a682d12d4d56bbd3%2F1653404104171A5B5C-8C11-40A3-9351-C3645E2386B3.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9220843.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9009441.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8838264.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

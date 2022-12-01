@@ -1,0 +1,87 @@
+{
+    "title": "Goulash Supreme",
+    "Category": "Goulash",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "1 quart stewed tomatoes"
+        },
+        {
+            "3": "0.5 cups uncooked macaroni"
+        },
+        {
+            "4": "0.5 cup chopped onion"
+        },
+        {
+            "5": "1 clove garlic, minced"
+        },
+        {
+            "6": "1 tablespoon chili powder"
+        },
+        {
+            "7": "2 teaspoons paprika"
+        },
+        {
+            "8": "6 ounces tomato paste (Optional)"
+        },
+        {
+            "9": "1 water, as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large saucepan over medium-high heat. Add ground beef; cook and stir until browned and crumbly, 5 to 7 minutes."
+        },
+        {
+            "2": "Reduce heat to low. Add stewed tomatoes, macaroni, onion, garlic, chili powder, and paprika; mix well. Stir in tomato paste. Simmer, adding a little water as needed if the mixture gets too dry, until macaroni is tender, about 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "565"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9401612.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9226537.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8896076.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8432889.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/OqXDtQAM2SWXl1vgqkOrNZUGhA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11847_Goulash-Supreme_Jessica_6232888_original-4x3-1-9411872ae32c4e88b4c1d4f44600ecb9.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

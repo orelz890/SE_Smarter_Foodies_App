@@ -1,0 +1,78 @@
+{
+    "title": "Baking Powder Biscuits",
+    "Category": "Biscuit",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "1 tablespoon baking powder"
+        },
+        {
+            "3": "0.5 teaspoon salt"
+        },
+        {
+            "4": "0.25 cup shortening (such as Crisco\u00ae)"
+        },
+        {
+            "5": "1 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 450 degrees F (230 degrees C). Lightly grease a baking sheet."
+        },
+        {
+            "2": "Mix together flour, baking powder, and salt in a bowl. Cut in shortening until mixture has only pea-sized lumps. Add milk; mix until dry mixture is absorbed. Drop dough by heaping spoonfuls onto the prepared baking sheet."
+        },
+        {
+            "3": "Bake in the preheated oven until golden brown, 12 to 15 minutes"
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 biscuits"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "124"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9237673.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9260649.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8899002.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8898996.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

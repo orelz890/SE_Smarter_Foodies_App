@@ -1,0 +1,81 @@
+{
+    "title": "Mac 'n Cheese Bites",
+    "Category": "Crackers",
+    "Ingredients": [
+        {
+            "1": "2 teaspoons butter"
+        },
+        {
+            "2": "1 cup cooked macaroni"
+        },
+        {
+            "3": "2 slices American cheese, diced"
+        },
+        {
+            "4": "2 tablespoons milk"
+        },
+        {
+            "5": "16  thin pretzel crackers (such as Snack Factory\u00ae Pretzel Crisps\u00ae)"
+        },
+        {
+            "6": "1 (4 ounce) precooked smoked sausage, cut into sixteen 1/4-inch slices"
+        },
+        {
+            "7": "1 ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a saucepan over medium-low heat. Add macaroni and American cheese; stir until cheese is mostly melted, about 2 minutes. Reduce heat to low; mix in milk."
+        },
+        {
+            "2": "Set oven rack about 6 inches from the heat source and preheat the oven on the low broil setting. Line a baking sheet with parchment paper."
+        },
+        {
+            "3": "Spread pretzels crackers on the prepared baking sheet; top each with a slice of sausage. Spoon 1 tablespoon macaroni and cheese mixture over sausage. Sprinkle black pepper on top."
+        },
+        {
+            "4": "Bake under the preheated broiler until American cheese and pretzels start to brown, 1 to 2 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "4 mins"
+        },
+        {
+            "Total Time": "19 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 bites"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "190"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6139380.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3900515.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

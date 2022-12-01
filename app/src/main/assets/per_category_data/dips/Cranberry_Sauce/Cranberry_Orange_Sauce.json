@@ -1,0 +1,72 @@
+{
+    "title": "Cranberry Orange Sauce",
+    "Category": "Cranberry Sauce",
+    "Ingredients": [
+        {
+            "1": "2 (12 ounce) packages cranberries"
+        },
+        {
+            "2": "0.75 cup brown sugar"
+        },
+        {
+            "3": "1  orange, zested and juiced"
+        },
+        {
+            "4": "1  cinnamon stick, broken in half"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix cranberries, brown sugar, orange zest, orange juice, and cinnamon sticks together in a saucepan; bring to a boil. Reduce heat and simmer until cranberries pop and sauce is thickened, about 15 minutes."
+        },
+        {
+            "2": "Transfer sauce to a bowl and refrigerate until chilled, at least 1 hour. Remove cinnamon stick from sauce and serve at room temperature."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "61"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8784646.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4586487.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe8d5a249e8b67c6acfcaa324f75905e5%2F4182778.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1533180.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Quick Brazilian Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "6 cups cold water"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "4  limes"
+        },
+        {
+            "4": "6 tablespoons cream of coconut"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir water and sugar together in a bowl until sugar dissolves; chill in refrigerator."
+        },
+        {
+            "2": "Cut ends off of each lime and cut each lime into 8 segments."
+        },
+        {
+            "3": "Working in batches, pulse sugar-water and lime wedges together in a blender several times. Pour mixture through a strainer into a pitcher."
+        },
+        {
+            "4": "Stir cream of coconut into lime mixture."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "214"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1079125.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

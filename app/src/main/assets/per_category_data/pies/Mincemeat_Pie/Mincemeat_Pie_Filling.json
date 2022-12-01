@@ -1,0 +1,90 @@
+{
+    "title": "Mincemeat Pie Filling",
+    "Category": "Mincemeat Pie",
+    "Ingredients": [
+        {
+            "1": "4 cups chopped apples"
+        },
+        {
+            "2": "0.5 cups diced cooked beef"
+        },
+        {
+            "3": "0.5 cups raisins"
+        },
+        {
+            "4": "0.5 cups white sugar"
+        },
+        {
+            "5": "1 cup beef broth"
+        },
+        {
+            "6": "1 large orange - peeled, sectioned, and cut into bite-sized pieces"
+        },
+        {
+            "7": "0.5 cup sorghum"
+        },
+        {
+            "8": "0.25 cup sweet pickle juice"
+        },
+        {
+            "9": "0.25 cup pineapple juice"
+        },
+        {
+            "10": "1 teaspoon ground cinnamon"
+        },
+        {
+            "11": "1 teaspoon ground nutmeg"
+        },
+        {
+            "12": "0.5 teaspoon ground cloves"
+        },
+        {
+            "13": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix apples, diced beef, raisins, sugar, beef broth, orange sections, sorghum, pickle juice, pineapple juice, cinnamon, nutmeg, cloves, and salt together in a large bowl until well combined."
+        },
+        {
+            "2": "Store filling in the refrigerator or freeze until ready to use."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "16 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "224"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6003068.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0c8ee9b632dee3c644a46f50799f235b%2F1921862.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F714696.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

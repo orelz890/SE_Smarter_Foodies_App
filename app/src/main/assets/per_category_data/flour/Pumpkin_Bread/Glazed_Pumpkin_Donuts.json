@@ -1,0 +1,114 @@
+{
+    "title": "Glazed Pumpkin Donuts",
+    "Category": "Pumpkin Bread",
+    "Ingredients": [
+        {
+            "1": "1 Donuts-"
+        },
+        {
+            "2": "2 cups all-purpose flour"
+        },
+        {
+            "3": "0.5 cup packed brown sugar"
+        },
+        {
+            "4": "0.5 teaspoons baking powder"
+        },
+        {
+            "5": "0.5 teaspoons pumpkin pie spice"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "0.25 teaspoon baking soda"
+        },
+        {
+            "8": "1 cup pumpkin puree"
+        },
+        {
+            "9": "2  eggs"
+        },
+        {
+            "10": "0.25 cup milk"
+        },
+        {
+            "11": "0.25 cup butter, softened"
+        },
+        {
+            "12": "1 Glaze-"
+        },
+        {
+            "13": "0.5 cups confectioners' sugar"
+        },
+        {
+            "14": "0.25 cup butter, melted"
+        },
+        {
+            "15": "2 tablespoons water"
+        },
+        {
+            "16": "1 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 325 degrees F (165 degrees C). Line a baking sheet with parchment paper."
+        },
+        {
+            "2": "Stir all-purpose flour, brown sugar, baking powder, pumpkin pie spice, salt, and baking soda together in a bowl; add pumpkin puree, eggs, milk, and softened butter. Beat mixture with an electric hand mixer on low speed until combined into a batter; spoon into a donut pan."
+        },
+        {
+            "3": "Bake in preheated oven until donuts spring back when touched, 8 to 10 minutes."
+        },
+        {
+            "4": "Beat confectioners' sugar, melted butter, water, and vanilla extract together in a bowl until smooth. Dip warm donuts into the glaze and let any excess glaze drip back into bowl before placing glazed donut on prepared baking sheet to cool."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 dozen donuts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "262"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "43g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8602296.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8241891.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7083037.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7013521.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

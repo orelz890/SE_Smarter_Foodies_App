@@ -1,0 +1,105 @@
+{
+    "title": "Giblet Gravy",
+    "Category": "Gravy",
+    "Ingredients": [
+        {
+            "1": "1 quart water"
+        },
+        {
+            "2": "1 giblets from a turkey"
+        },
+        {
+            "3": "0.25 medium yellow onion"
+        },
+        {
+            "4": "1 stalk celery, cut in half"
+        },
+        {
+            "5": "1 cube chicken bouillon"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "8": "2 (14.5 ounce) cans chicken broth"
+        },
+        {
+            "9": "4 large hard-cooked eggs, chopped"
+        },
+        {
+            "10": "0.5 cup milk"
+        },
+        {
+            "11": "2 tablespoons cornstarch"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Simmer water, giblets, onion, celery, bouillon, salt, and pepper in a 2-quart saucepan for 40 to 50 minutes."
+        },
+        {
+            "2": "Transfer liver and neck to a cutting board; chop meat and set aside. Discard celery, onion, neck muscle, and any other giblets."
+        },
+        {
+            "3": "Return chopped liver and neck meat to the saucepan; add chicken broth and chopped eggs and set over medium heat."
+        },
+        {
+            "4": "Mix milk and cornstarch together in a small bowl; slowly add to the saucepan. Reduce heat to low; cook and stir until gravy has thickened, 3 to 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "69"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F05d2077c94faccb62a8534b5372b20fb%2F166900035957313867-giblet-gravy-I-humblepieliving-004.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8753494.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7377431.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9cbd725ed19b8a1c74d10b32c44c5001%2F7377351.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/p4aWnrenwBSaAaemkcdRSibeISw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13867-giblet-gravy-I-kyle-kilough-2000-0cb8e29336e6482e8bc725f4d2b59480.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/6dcU0RVSuDTZxfs7gorkyNf1gyI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13867-giblet-gravy-i-vat-1x1-1-91935831d19445dd8436f8c9a975f41e.jpg"
+        }
+    ],
+    "main category": "dips"
+}

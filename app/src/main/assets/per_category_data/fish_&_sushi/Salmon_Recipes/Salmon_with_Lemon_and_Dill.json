@@ -1,0 +1,84 @@
+{
+    "title": "Salmon with Lemon and Dill",
+    "Category": "Salmon Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound salmon fillets"
+        },
+        {
+            "2": "0.25 cup butter, melted"
+        },
+        {
+            "3": "5 tablespoons lemon juice"
+        },
+        {
+            "4": "1 tablespoon dried dill weed"
+        },
+        {
+            "5": "0.25 teaspoon garlic powder"
+        },
+        {
+            "6": "1 sea salt to taste"
+        },
+        {
+            "7": "1 freshly ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a medium baking dish."
+        },
+        {
+            "2": "Place salmon in the baking dish. Mix butter and lemon juice in a small bowl, and drizzle over salmon. Season with dill, garlic powder, sea salt, and pepper."
+        },
+        {
+            "3": "Bake in the preheated oven until salmon is easily flaked with a fork, about 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "320"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F884480f9bc6c0f3e9b51bd78de69015e%2F16500736496C301BFB-E511-471B-A46D-0D5EA0657DD2.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9232011.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8344205.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7614235.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/u3sYieJNBw09v1mcrI5CUb6xtu0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/87279-salmon-with-lemon-and-dill-ddmfs-1465-1x1-1-26bc392c74d747f18b2b3e945d607663.jpg"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

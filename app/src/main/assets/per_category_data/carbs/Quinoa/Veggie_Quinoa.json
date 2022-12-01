@@ -1,0 +1,90 @@
+{
+    "title": "Veggie Quinoa",
+    "Category": "Quinoa",
+    "Ingredients": [
+        {
+            "1": "1 cup vegetable broth"
+        },
+        {
+            "2": "0.5 cup uncooked quinoa"
+        },
+        {
+            "3": "2 teaspoons olive oil"
+        },
+        {
+            "4": "2 teaspoons minced garlic"
+        },
+        {
+            "5": "0.5 cup broccoli florets"
+        },
+        {
+            "6": "0.5 cup diced firm tofu"
+        },
+        {
+            "7": "0.25 cup vegetable broth"
+        },
+        {
+            "8": "0.25 cup sliced mushrooms"
+        },
+        {
+            "9": "1 cup chopped fresh spinach"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium saucepan, bring 1 cup vegetable stock to a boil. Stir in the quinoa and reduce heat to low. Cover and simmer for 20 minutes."
+        },
+        {
+            "2": "While quinoa is cooking, heat olive oil in a skillet over medium heat. Add the garlic, broccoli florets, and tofu. Stir for a minute, then cover and steam over low heat for 2 minutes. Stir in 1/4 cup vegetable broth, mushrooms, and spinach. Cover and cook over medium heat until the mushrooms are soft and spinach is wilted, about 3 minutes."
+        },
+        {
+            "3": "Stir the vegetable-tofu mixture into the cooked quinoa. Cover, and allow to sit for 10 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "282"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9297351.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8361767.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8306856.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7788899.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

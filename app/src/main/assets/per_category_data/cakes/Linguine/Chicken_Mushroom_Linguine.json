@@ -1,0 +1,99 @@
+{
+    "title": "Chicken Mushroom Linguine",
+    "Category": "Linguine",
+    "Ingredients": [
+        {
+            "1": "6 ounces sliced fresh mushrooms"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "0.25 cup butter"
+        },
+        {
+            "4": "2 pounds boneless skinless chicken breasts, cut into 1 inch pieces"
+        },
+        {
+            "5": "0.25 cup all-purpose flour"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "2 cups chicken broth"
+        },
+        {
+            "8": "1 cup sour cream"
+        },
+        {
+            "9": "1 (12 ounce) package dried linguine pasta"
+        },
+        {
+            "10": "0.5 teaspoon minced garlic"
+        },
+        {
+            "11": "1 ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add linguine pasta, and cook until tender, about 8 minutes. Drain."
+        },
+        {
+            "2": "Meanwhile, melt butter in a large skillet over medium heat. Add onion and mushrooms, and cook until tender. Remove the onions and mushrooms from the skillet with a slotted spoon; set aside."
+        },
+        {
+            "3": "Add chicken pieces to the pan, and sprinkle with garlic. Cook and stir until evenly browned, and cooked through."
+        },
+        {
+            "4": "Whisk the flour and salt into the pan drippings until smooth. Gradually whisk in the chicken broth, and simmer over low heat until slightly thickened. Return the mushrooms and garlic to the pan, and stir in sour cream. Cook until heated through, but do not boil. Serve over linguine pasta."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "550"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "45g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6711807.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4457935.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5978f98c9e9760ce6ba2a70c6dfabdee%2F3124483.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbb08e7b01daa81bbad188d5b1c97ef09%2F2802127.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

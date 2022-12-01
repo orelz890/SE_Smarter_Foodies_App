@@ -1,0 +1,84 @@
+{
+    "title": "Fried Potato Wedges",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "4 cups vegetable oil for frying"
+        },
+        {
+            "2": "5 small russet potatoes"
+        },
+        {
+            "3": "1 cup all-purpose flour"
+        },
+        {
+            "4": "2 teaspoons chili powder"
+        },
+        {
+            "5": "2 teaspoons chicken bouillon granules"
+        },
+        {
+            "6": "2 teaspoons paprika"
+        },
+        {
+            "7": "1 teaspoon ground black pepper"
+        },
+        {
+            "8": "1 teaspoon ground cayenne pepper"
+        },
+        {
+            "9": "1 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Slice potatoes into 16 wedges."
+        },
+        {
+            "3": "Combine flour, chili powder, chicken bouillon, paprika, black pepper, and cayenne in a 1-gallon resealable plastic bag."
+        },
+        {
+            "4": "Dip potato wedges in milk, then shake them in the flour mixture. Fry in the hot oil until golden brown, 5 to 6 minutes per batch. Let drain on paper towels."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "5 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "412"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F348633.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

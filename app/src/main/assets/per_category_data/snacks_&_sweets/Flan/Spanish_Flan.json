@@ -1,0 +1,84 @@
+{
+    "title": "Spanish Flan",
+    "Category": "Flan",
+    "Ingredients": [
+        {
+            "1": "1 cup white sugar"
+        },
+        {
+            "2": "3 large eggs"
+        },
+        {
+            "3": "1 (14 ounce) can sweetened condensed milk"
+        },
+        {
+            "4": "1 (12 fluid ounce) can evaporated milk"
+        },
+        {
+            "5": "1 tablespoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Melt sugar in a medium saucepan over medium-low heat until liquefied and golden in color. Carefully pour hot syrup into a 9-inch round glass baking dish, turning the dish to evenly coat the bottom and sides; set aside."
+        },
+        {
+            "3": "Beat eggs in a large bowl. Add condensed milk, evaporated milk, and vanilla; beat until smooth. Pour egg mixture into the baking dish; cover with aluminum foil."
+        },
+        {
+            "4": "Bake in preheated oven for 1 hour. Let cool completely."
+        },
+        {
+            "5": "To serve, carefully invert onto a rimmed serving plate; let caramel sauce flow over flan."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "349"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe6504fd024831ab0552a5a28b5e4aa5f%2F166717289698194EF182C-182C-4B9A-AD5D-662AD56CB8D9.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe6504fd024831ab0552a5a28b5e4aa5f%2F1666541327280BDA98260-59FA-4484-8669-187CD12CAD05.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe6504fd024831ab0552a5a28b5e4aa5f%2F1665858807704AA279F1D-AC5F-4BF9-BAA3-155FCCFD6D71.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe6504fd024831ab0552a5a28b5e4aa5f%2F1664548037795DAB7C11B-EDEF-47C9-BA63-EF93839FA377.png&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/IRe_odRpELH0WqH-t7w2MZ9YAzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/691985-f05d7a4bda2d498f8142af132a44d2ed.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

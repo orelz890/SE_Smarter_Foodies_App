@@ -1,0 +1,65 @@
+{
+    "title": "Beer Margaritas",
+    "Category": "Margaritas",
+    "Ingredients": [
+        {
+            "1": "1 (12 fluid ounce) can frozen limeade concentrate"
+        },
+        {
+            "2": "12 fluid ounces tequila"
+        },
+        {
+            "3": "12 fluid ounces water, or more as needed"
+        },
+        {
+            "4": "12 fluid ounces beer"
+        },
+        {
+            "5": "1 ice"
+        },
+        {
+            "6": "1  lime, cut into wedges"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour limeade concentrate, tequila, water, and beer into a large pitcher. Stir until limeade has melted."
+        },
+        {
+            "2": "Add plenty of ice to the pitcher and garnish with lime wedges. Adjust with additional water if needed."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 1-cup servings"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F544392fa22902bfb02056637e9f8c683%2F16658823257754E8D9640-8F9C-45BC-9A67-827994727EC1.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8344561.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7744725.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F66a32b1812df47d3839f96648bf12e0e%2F7224238.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/xchdk7htUBvowdt324e-csUbug8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5205895-beer-margaritas-lutzflcat-1x1-1-e4ac8c5020ef444c834ec79bd97d0252.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

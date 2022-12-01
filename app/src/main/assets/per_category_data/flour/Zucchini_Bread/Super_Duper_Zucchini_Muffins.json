@@ -1,0 +1,105 @@
+{
+    "title": "Super Duper Zucchini Muffins",
+    "Category": "Zucchini Bread",
+    "Ingredients": [
+        {
+            "1": "0.5 cups all-purpose flour"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "1.0 teaspoons baking powder"
+        },
+        {
+            "4": "0.5 teaspoon baking soda"
+        },
+        {
+            "5": "1 teaspoon ground cinnamon"
+        },
+        {
+            "6": "1 teaspoon ground nutmeg"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "0.5 cup shortening"
+        },
+        {
+            "9": "0.25 cup sour milk"
+        },
+        {
+            "10": "2  eggs, lightly beaten"
+        },
+        {
+            "11": "0.5 cups shredded zucchini"
+        },
+        {
+            "12": "1 teaspoon vanilla extract"
+        },
+        {
+            "13": "0.5 cup chopped walnuts"
+        },
+        {
+            "14": "0.25 cup brown sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a muffin pan, or use paper liners."
+        },
+        {
+            "2": "In a large bowl, combine flour and sugar. Stir in baking powder, baking soda, cinnamon, nutmeg and salt. Cut in shortening until mixture resembles coarse crumbs. Make a well in the center, and pour in milk, eggs, zucchini and vanilla. Fold in walnuts. Fill muffin cups 2/3 to 3/4 full. Sprinkle tops with brown sugar."
+        },
+        {
+            "3": "Bake in the preheated oven for 15 to 20 minutes, or until a toothpick inserted into the center comes out clean. Allow to cool."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 muffins"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "295"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8702647.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6440714.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F60e18c6c9d3e6308650093c8faa00455%2F5723084.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5010665.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

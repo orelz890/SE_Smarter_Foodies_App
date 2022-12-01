@@ -1,0 +1,81 @@
+{
+    "title": "Grandma's Butter Noodles",
+    "Category": "Homemade Pasta",
+    "Ingredients": [
+        {
+            "1": "2 large eggs"
+        },
+        {
+            "2": "3 tablespoons butter, melted and cooled"
+        },
+        {
+            "3": "0.25 cups all-purpose flour"
+        },
+        {
+            "4": "0.25 teaspoon baking powder"
+        },
+        {
+            "5": "1 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, whisk the eggs and melted butter together with a fork. Stir in the flour, baking powder and salt until dough becomes stiff. Knead on a lightly floured surface or in the bowl for a few minutes to blend completely. Divide the dough into thirds. On a lightly floured surface, roll each piece into a sheet about 1/16 of an inch thick. Place each sheet onto a dry cloth and set aside for 30 to 45 minutes to partially dry."
+        },
+        {
+            "2": "When the noodle sheets are somewhat dry, roll up one at a time into a loose spiral and cut into strips as wide as you want using a sharp knife. Spread out the noodles to dry for about 1 hour before cooking or storing in freezer containers. To use frozen noodles, thaw in the container before using."
+        },
+        {
+            "3": "To cook the noodles, drop into rapidly boiling water or broth, and cook until tender, 7 to 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 30 mins"
+        },
+        {
+            "Total Time": " 2 hrs 10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "254"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9041047.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8822666.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1981596.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1817030.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Spicy Slow-Cooked Chili",
+    "Category": "Chili",
+    "Ingredients": [
+        {
+            "1": "2 pounds ground beef"
+        },
+        {
+            "2": "2 (16 ounce) cans kidney beans, rinsed and drained"
+        },
+        {
+            "3": "2 (14.5 ounce) cans diced tomatoes, drained"
+        },
+        {
+            "4": "1 (8 ounce) can tomato sauce"
+        },
+        {
+            "5": "2  onions, chopped"
+        },
+        {
+            "6": "1  green bell pepper, chopped"
+        },
+        {
+            "7": "2 cloves garlic, minced"
+        },
+        {
+            "8": "3 tablespoons chili powder"
+        },
+        {
+            "9": "1 tablespoon cayenne pepper"
+        },
+        {
+            "10": "2 teaspoons salt"
+        },
+        {
+            "11": "1 teaspoon ground black pepper"
+        },
+        {
+            "12": "0.5 cup shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease."
+        },
+        {
+            "2": "Combine ground beef, kidney beans, diced tomatoes, tomato sauce, onions, bell pepper, garlic, chili powder, cayenne pepper, salt, and black pepper in a slow cooker. Cover and cook on Low for 10 hours or High for 4 hours."
+        },
+        {
+            "3": "Garnish each serving with Cheddar cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 4 hrs 10 mins"
+        },
+        {
+            "Total Time": " 4 hrs 30 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "308"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9263617.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8900682.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8519042.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7785882.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/xK1fvfSA2fyxMKa_ZkNXgvt1tQA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7744117-spicy-slow-cooked-chili-Mellen12364-1x1-1-1db65dba3d754c63aecefdb1f5b16efe.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

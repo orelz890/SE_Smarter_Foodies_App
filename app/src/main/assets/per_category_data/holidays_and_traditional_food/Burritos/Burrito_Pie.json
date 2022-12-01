@@ -1,0 +1,99 @@
+{
+    "title": "Burrito Pie",
+    "Category": "Burritos",
+    "Ingredients": [
+        {
+            "1": "2 pounds ground beef"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "2 teaspoons minced garlic"
+        },
+        {
+            "4": "1 (2 ounce) can black olives, sliced"
+        },
+        {
+            "5": "1 (4 ounce) can diced green chili peppers"
+        },
+        {
+            "6": "1 (10 ounce) can diced tomatoes with green chile peppers"
+        },
+        {
+            "7": "1 (16 ounce) jar taco sauce"
+        },
+        {
+            "8": "2 (16 ounce) cans refried beans"
+        },
+        {
+            "9": "12 (8 inch) flour tortillas"
+        },
+        {
+            "10": "9 ounces shredded Colby cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "In a large skillet over medium heat, saute the ground beef for 5 minutes. Add the onion and garlic, and saute for 5 more minutes. Drain any excess fat, if desired. Mix in the olives, green chile peppers, tomatoes with green chile peppers, taco sauce and refried beans. Stir mixture thoroughly, reduce heat to low, and let simmer for 15 to 20 minutes."
+        },
+        {
+            "3": "Spread a thin layer of the meat mixture in the bottom of a 4 quart casserole dish. Cover with a layer of tortillas followed by more meat mixture, then a layer of cheese. Repeat tortilla, meat, cheese pattern until all the tortillas are used, topping off with a layer of meat mixture and cheese."
+        },
+        {
+            "4": "Bake for 20 to 30 minutes in the preheated oven, or until cheese is slightly brown and bubbly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "432"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9356353.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9356352.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9314866.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9304264.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Z_4ZV4KHZ_V1MWeq5zdSxv_niVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/392583-f403c1fb7a1247aea01efc7ffd86df73.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

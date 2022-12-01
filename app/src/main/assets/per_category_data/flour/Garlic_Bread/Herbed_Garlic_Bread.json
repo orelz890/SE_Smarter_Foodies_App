@@ -1,0 +1,69 @@
+{
+    "title": "Herbed Garlic Bread",
+    "Category": "Garlic Bread",
+    "Ingredients": [
+        {
+            "1": "1/4 cup Country Crock\u00ae Spread"
+        },
+        {
+            "2": "1 teaspoon mixed herbs, dry"
+        },
+        {
+            "3": "0.5 teaspoon garlic powder"
+        },
+        {
+            "4": "1 (12 ounce) loaf French or Italian bread"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler."
+        },
+        {
+            "2": "Combine all ingredients except bread in small bowl. Arrange bread on baking sheet; spread with herb mixture."
+        },
+        {
+            "3": "Broil until golden, about 2 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "2 mins"
+        },
+        {
+            "Total Time": "12 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "165"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8815972.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8717688.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

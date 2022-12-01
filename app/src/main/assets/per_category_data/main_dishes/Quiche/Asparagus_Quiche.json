@@ -1,0 +1,102 @@
+{
+    "title": "Asparagus Quiche",
+    "Category": "Quiche",
+    "Ingredients": [
+        {
+            "1": "1 pound fresh asparagus, trimmed and cut into 1/2 inch pieces"
+        },
+        {
+            "2": "10 slices bacon"
+        },
+        {
+            "3": "2 (8 inch) unbaked pie shells"
+        },
+        {
+            "4": "1  egg white, lightly beaten"
+        },
+        {
+            "5": "2 cups shredded Swiss cheese"
+        },
+        {
+            "6": "4 large eggs"
+        },
+        {
+            "7": "0.5 cups half-and-half cream"
+        },
+        {
+            "8": "0.25 teaspoon ground nutmeg"
+        },
+        {
+            "9": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Place asparagus in a steamer over 1 inch boiling water. Cover and cook until tender but still firm, 2 to 6 minutes. Drain and cool."
+        },
+        {
+            "3": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels. Crumble and set aside."
+        },
+        {
+            "4": "Brush pie shells with beaten egg white. Sprinkle crumbled bacon and steamed asparagus into pie shells. Sprinkle Swiss cheese over bacon and asparagus."
+        },
+        {
+            "5": "Beat eggs, half-and-half, nutmeg, salt, and pepper in a bowl until well combined. Pour egg mixture on top of cheese."
+        },
+        {
+            "6": "Bake uncovered in the preheated oven until filling is set, 35 to 40 minutes. Let cool to room temperature before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "2 8-inch quiches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "334"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0b9c4b8e4954a4effdfc7ea1cdfb6ee0%2F164565641520220223_172551.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9197176.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9140165.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9094514.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/uSEd2S8IVPUhzyqWX82lPlBeRb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-146-779cfd5c279b4a059e7b8d9dec0b880b.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

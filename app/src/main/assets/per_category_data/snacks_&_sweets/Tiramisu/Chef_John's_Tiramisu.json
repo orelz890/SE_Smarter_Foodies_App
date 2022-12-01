@@ -1,0 +1,111 @@
+{
+    "title": "Chef John's Tiramisu",
+    "Category": "Tiramisu",
+    "Ingredients": [
+        {
+            "1": "0.5 cup brewed espresso"
+        },
+        {
+            "2": "3 tablespoons Marsala wine, divided"
+        },
+        {
+            "3": "2 large eggs, separated"
+        },
+        {
+            "4": "2 tablespoons white sugar"
+        },
+        {
+            "5": "1 teaspoon white sugar"
+        },
+        {
+            "6": "0.75 cup mascarpone cheese"
+        },
+        {
+            "7": "0.5 teaspoon vanilla extract"
+        },
+        {
+            "8": "1 pinch salt"
+        },
+        {
+            "9": "10  ladyfinger cookies, broken in half, or more as needed"
+        },
+        {
+            "10": "1 tablespoon cocoa powder"
+        },
+        {
+            "11": "0.5 ounce dark chocolate, grated"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir together espresso and 2 tablespoons wine in a shallow bowl. Set aside."
+        },
+        {
+            "2": "Whisk together egg yolks, 2 tablespoons plus 1 teaspoon sugar, and remaining 1 tablespoon wine in a large bowl over a pot of simmering water until thick, pale yellow, and creamy, 5 to 6 minutes."
+        },
+        {
+            "3": "Remove the bowl from heat and whisk in mascarpone, vanilla, and salt until completely smooth."
+        },
+        {
+            "4": "Beat egg whites in a glass or metal bowl until stiff peaks form. Lift your beater or whisk straight up to ensure egg whites form sharp peaks. Gently stir and fold 1/2 of the egg whites into mascarpone mixture; fold in remaining egg whites."
+        },
+        {
+            "5": "Place 1 heaping spoonful mascarpone mixture into a single-serving glass or cup. Dip 2 cookie halves briefly in espresso mixture; turn 3 to 4 times to coat. Place cookie halves in the bottom of the glass on top of mascarpone."
+        },
+        {
+            "6": "Fill the glass halfway with mascarpone mixture. Dip 5 ladyfinger halves in espresso mixture and place vertically along the inside of the glass, dipping and placing more ladyfinger halves as needed to fit the glass. Place 2 dipped ladyfinger halves horizontally on top of mascarpone. Fill the glass to the top with mascarpone mixture. Repeat with second glass."
+        },
+        {
+            "7": "Wrap both glasses in plastic wrap and refrigerate for at least 8 hours to overnight. Remove plastic wrap and dust tops with cocoa and grated chocolate before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 35 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "774"
+        },
+        {
+            "Fat": "52g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8638017.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6682069.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6225769.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5281904.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/9bOUeFnGaohOZeISm5Un5iGt6Vc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chef-Johns-Tiramisu-by-Irina-Ivanova-2000-3fc0399a403c4ad8abba9998366e2b67.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Sadie's Buttermilk Biscuits",
+    "Category": "Biscuit",
+    "Ingredients": [
+        {
+            "1": "4 cups all-purpose flour"
+        },
+        {
+            "2": "1 teaspoon salt"
+        },
+        {
+            "3": "1 teaspoon baking soda"
+        },
+        {
+            "4": "1 teaspoon cream of tartar"
+        },
+        {
+            "5": "4 teaspoons baking powder"
+        },
+        {
+            "6": "1 cup lard"
+        },
+        {
+            "7": "2 cups buttermilk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "2": "Whisk together flour, salt, baking soda, cream of tartar, and baking powder. Cut lard into flour mixture using a pastry blender until crumbly; stir in buttermilk. Turn mixture onto a floured surface and knead just a few times to form a moist dough."
+        },
+        {
+            "3": "Roll dough out 1-inch thick; cut biscuits with a cookie cutter or round glass. Place biscuits on an ungreased baking sheet."
+        },
+        {
+            "4": "Bake in the preheated oven until tops are golden, about 12 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "12 mins"
+        },
+        {
+            "Total Time": "32 mins"
+        },
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "18 biscuits"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "216"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9337879.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9160557.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9088790.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9086343.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

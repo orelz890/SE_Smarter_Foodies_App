@@ -1,0 +1,84 @@
+{
+    "title": "Tempeh Mock Tuna Salad",
+    "Category": "Tempeh Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups vegetable broth"
+        },
+        {
+            "2": "1 (8 ounce) package tempeh"
+        },
+        {
+            "3": "2 tablespoons soy sauce"
+        },
+        {
+            "4": "2 tablespoons lemon juice"
+        },
+        {
+            "5": "1 clove garlic, minced"
+        },
+        {
+            "6": "1 tablespoon seaweed flakes or granules"
+        },
+        {
+            "7": "0.5 cup minced red onion"
+        },
+        {
+            "8": "1 cup chopped celery"
+        },
+        {
+            "9": "1 cup chopped dill pickles"
+        },
+        {
+            "10": "0.25 cup soy mayonnaise"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat the broth to a light boil over medium-high heat. Add the tempeh to the broth, and simmer for 25 minutes. Drain and let cool to room temperature for 15 minutes. Once cooled, grate tempeh into a large bowl."
+        },
+        {
+            "2": "In a small bowl, whisk together the soy sauce, lemon juice, garlic, and seaweed flakes. Pour the seaweed mixture in with the grated tempeh and stir until well mixed. Mix in the red onion, celery, and dill pickles. Toss with the mayonnaise. This salad can be served immediately, but is best when chilled for several hours to allow the flavors to blend."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "4 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "128"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F889788.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F678797.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

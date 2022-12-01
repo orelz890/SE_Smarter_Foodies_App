@@ -1,0 +1,90 @@
+{
+    "title": "Soy Milk Pancakes",
+    "Category": "Pancakes",
+    "Ingredients": [
+        {
+            "1": "1 cup all-purpose flour"
+        },
+        {
+            "2": "0.5 tablespoons white sugar"
+        },
+        {
+            "3": "2 teaspoons baking powder"
+        },
+        {
+            "4": "0.5 teaspoon baking soda"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "1 cup vanilla soy milk"
+        },
+        {
+            "7": "1  egg, lightly beaten"
+        },
+        {
+            "8": "2 teaspoons vegetable oil"
+        },
+        {
+            "9": "0.5 teaspoon vanilla extract"
+        },
+        {
+            "10": "0.5 teaspoon almond extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium bowl, whisk together the flour, sugar, baking powder, baking soda, and salt. In a small bowl, mix the vanilla soy milk, egg, oil, vanilla extract, and almond extract. Pour the soy milk mixture into the bowl with the flour mixture, and whisk together until smooth."
+        },
+        {
+            "2": "Grease a skillet, and heat over medium low heat. Pour about 1/4 cup batter onto the heated skillet, and cook until bubbly. Flip with a spatula, and continue cooking about 1 minute, until golden brown. Repeat with the remaining batter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "404"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "64g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4876626.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4571403.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4600044.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4645657.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

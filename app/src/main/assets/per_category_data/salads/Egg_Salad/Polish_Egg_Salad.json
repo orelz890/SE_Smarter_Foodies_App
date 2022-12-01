@@ -1,0 +1,66 @@
+{
+    "title": "Polish Egg Salad",
+    "Category": "Egg Salad",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "2": "1 tablespoon butter, softened, or more to taste"
+        },
+        {
+            "3": "4  hard-boiled eggs, chopped"
+        },
+        {
+            "4": "1 small onion, chopped"
+        },
+        {
+            "5": "1 salt and ground black pepper to taste"
+        },
+        {
+            "6": "1 tablespoon chopped fresh parsley, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine cream cheese and butter in a bowl and mash with a fork. If mixture is too thick, add more softened butter. Mix in eggs and onion. Season with salt and pepper; serve with parsley."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "204"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7969880.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F557f2291fd43491488cc78156159d356%2F4557057.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

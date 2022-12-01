@@ -1,0 +1,102 @@
+{
+    "title": "Basic Ham and Bean Soup",
+    "Category": "Soup",
+    "Ingredients": [
+        {
+            "1": "8 cups water"
+        },
+        {
+            "2": "1 pound dry great northern beans, sorted and rinsed"
+        },
+        {
+            "3": "0.5 teaspoon salt"
+        },
+        {
+            "4": "1 cup chopped carrots"
+        },
+        {
+            "5": "1 cup chopped onion"
+        },
+        {
+            "6": "0.5 stalk celery, chopped"
+        },
+        {
+            "7": "1 teaspoon minced garlic"
+        },
+        {
+            "8": "1 teaspoon mustard powder"
+        },
+        {
+            "9": "2  bay leaves"
+        },
+        {
+            "10": "1  ham hock"
+        },
+        {
+            "11": "2 cups chopped ham"
+        },
+        {
+            "12": "0.5 teaspoon ground white pepper, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place water and beans in a large pot; bring to a boil over high heat. Stir in salt and remove the pot from heat; cover, and let stand for 1 hour."
+        },
+        {
+            "2": "Add carrots, onion, celery, garlic, mustard, and bay leaves to the pot with beans; stir well. Add ham hock and bring to a boil; reduce heat to low and simmer for 1 hour."
+        },
+        {
+            "3": "Remove ham hock and discard. Stir in chopped ham and simmer for 30 minutes. Season with ground white pepper to taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 30 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 45 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "262"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9439013.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9421077.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9142815.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9138772.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/XSFPd8efEltuyOYkNheXiZ4ws68=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1050605-f4fe2508807a469eb124d77e2eef9995.jpg"
+        }
+    ],
+    "main category": "soups"
+}

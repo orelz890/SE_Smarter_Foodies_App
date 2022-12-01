@@ -1,0 +1,75 @@
+{
+    "title": "The Perfect Cinnamon Roll Icing",
+    "Category": "Easter Recipes",
+    "Ingredients": [
+        {
+            "1": "7 tablespoons butter, softened"
+        },
+        {
+            "2": "2 ounces cream cheese, softened"
+        },
+        {
+            "3": "2 tablespoons milk"
+        },
+        {
+            "4": "0.5 teaspoon vanilla extract"
+        },
+        {
+            "5": "0.5 cups confectioners' sugar, sifted"
+        },
+        {
+            "6": "0.25 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Beat together butter and cream cheese with an electric mixer in a large bowl until creamy. Blend in milk and vanilla, then gradually mix in confectioners' sugar and salt until smooth and fluffy."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "1 cup"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "69"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9266589.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9206689.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9049753.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8990405.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ULQZAHhrcvQiBf4Km-Il_6z8p-M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1576692_original-8c7cdb7705eb4b20a835e133f0e9c523.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

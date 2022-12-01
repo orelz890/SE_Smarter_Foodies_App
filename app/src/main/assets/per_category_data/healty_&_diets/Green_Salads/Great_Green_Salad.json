@@ -1,0 +1,96 @@
+{
+    "title": "Great Green Salad",
+    "Category": "Green Salads",
+    "Ingredients": [
+        {
+            "1": "4 tablespoons olive oil"
+        },
+        {
+            "2": "2 tablespoons white wine vinegar"
+        },
+        {
+            "3": "1 tablespoon Dijon mustard"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "6": "1 pinch white sugar"
+        },
+        {
+            "7": "1 teaspoon chopped fresh parsley"
+        },
+        {
+            "8": "1 teaspoon fresh lemon juice"
+        },
+        {
+            "9": "2 cloves garlic, chopped"
+        },
+        {
+            "10": "1  avocados - peeled, pitted, and cubed"
+        },
+        {
+            "11": "4 cups mixed salad greens"
+        },
+        {
+            "12": "0.5 cup sliced almonds"
+        },
+        {
+            "13": "2 ounces feta cheese, crumbled"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, whisk together the olive oil, white wine vinegar, mustard, salt, pepper, sugar, parsley, lemon juice and garlic. Add the avocado, and stir to coat with the dressing."
+        },
+        {
+            "2": "Just before serving, add the salad greens, and toss to coat with dressing. Sprinkle sliced almonds and feta cheese over the top."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "326"
+        },
+        {
+            "Fat": "30g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6429541.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F885ee3be5c9b9a8beccae5e733b3db37%2F5379676.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3299094.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3149654.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Healthier Marie's Easy Slow Cooker Pot Roast",
+    "Category": "Pot Roast",
+    "Ingredients": [
+        {
+            "1": "3 pounds chuck roast"
+        },
+        {
+            "2": "1 salt and ground black pepper to taste"
+        },
+        {
+            "3": "1 cup reduced-sodium beef stock"
+        },
+        {
+            "4": "2  onions, chopped"
+        },
+        {
+            "5": "2 pounds potatoes, peeled and cubed"
+        },
+        {
+            "6": "3  carrots, chopped"
+        },
+        {
+            "7": "1 stalk celery, chopped"
+        },
+        {
+            "8": "0.25 cup chopped fresh parsley (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Season chuck roast with salt and pepper."
+        },
+        {
+            "2": "Heat a large skillet over medium-high heat; brown roast on all sides, about 4 minutes per side. Transfer roast to a slow cooker. Pour beef stock into the skillet, and bring to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon. Add broth and onions into slow cooker; cover and cook on Low for 5 hours."
+        },
+        {
+            "3": "Add potatoes, carrots, celery, and parsley. Cover and cook on Low until roast is tender and cooked through, 3 additional hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 20 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "350"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9440828.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe7318df93db04d000ec7585074020700%2F6190847.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa023f5d6ae01f3c9f093d064ee35b0c2%2F5695099.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F929284.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,108 @@
+{
+    "title": "Quinoa, Beet, and Arugula Salad",
+    "Category": "Quinoa",
+    "Ingredients": [
+        {
+            "1": "0.5 pound beets, peeled and sliced"
+        },
+        {
+            "2": "1 cup red quinoa"
+        },
+        {
+            "3": "2 cups water"
+        },
+        {
+            "4": "0.5 cup olive oil"
+        },
+        {
+            "5": "0.5 cup red wine vinegar"
+        },
+        {
+            "6": "0.5 teaspoons white sugar"
+        },
+        {
+            "7": "1 clove garlic, crushed"
+        },
+        {
+            "8": "1 teaspoon salt"
+        },
+        {
+            "9": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "10": "2  green onions, sliced"
+        },
+        {
+            "11": "3 ounces arugula, chopped"
+        },
+        {
+            "12": "5 ounces goat cheese, crumbled"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place a steamer insert into a saucepan, and fill with water to just below the bottom of the steamer. Cover pan and bring the water to a boil. Add beets, cover pan, and steam until just tender, 7 to 10 minutes. Set aside."
+        },
+        {
+            "2": "Bring quinoa and 2 cups water a saucepan over high heat. Reduce the heat to medium-low, cover, and simmer until the quinoa is tender and the liquid has been absorbed, about 15 minutes."
+        },
+        {
+            "3": "While the quinoa is cooking, whisk olive oil, red wine vinegar, sugar, garlic, salt, and black pepper together in a large bowl."
+        },
+        {
+            "4": "Remove quinoa from heat, then immediately add half of the vinegar dressing while fluffing the quinoa with a fork; reserve remaining dressing. Cover and refrigerate quinoa until cool, at least 1 hour."
+        },
+        {
+            "5": "Stir green onions, arugula, goat cheese, beets, and remaining dressing into cooled quinoa mixture. Toss lightly before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "379"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9207692.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8817046.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7761771.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4483206.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

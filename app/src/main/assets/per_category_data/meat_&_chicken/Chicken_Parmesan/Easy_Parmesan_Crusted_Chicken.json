@@ -1,0 +1,75 @@
+{
+    "title": "Easy Parmesan-Crusted Chicken",
+    "Category": "Chicken Parmesan",
+    "Ingredients": [
+        {
+            "1": "0.5 cup Hellmann's\u00ae Real Mayonnaise"
+        },
+        {
+            "2": "0.25 cup grated Parmesan cheese"
+        },
+        {
+            "3": "4 (5 ounce) boneless, skinless chicken breast halves"
+        },
+        {
+            "4": "4 teaspoons Italian-seasoned dry bread crumbs"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 425 degrees F (220 degrees C). Line a rimmed baking sheet with parchment paper."
+        },
+        {
+            "2": "Mix mayonnaise and Parmesan together in a medium bowl until well combined."
+        },
+        {
+            "3": "Arrange chicken on the prepared baking sheet. Spread mayonnaise mixture over top, then top with bread crumbs."
+        },
+        {
+            "4": "Cook in the preheated oven until chicken is no longer pink in the center and the juices run clear, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "367"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9250106.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8800915.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9089651.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9028697.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

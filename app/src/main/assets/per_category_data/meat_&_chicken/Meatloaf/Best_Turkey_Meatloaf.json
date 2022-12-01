@@ -1,0 +1,111 @@
+{
+    "title": "Best Turkey Meatloaf",
+    "Category": "Meatloaf",
+    "Ingredients": [
+        {
+            "1": "1 Meatloaf-"
+        },
+        {
+            "2": "0.5 pounds ground turkey"
+        },
+        {
+            "3": "0.75 cup crushed buttery round crackers"
+        },
+        {
+            "4": "0.5 cup milk"
+        },
+        {
+            "5": "1 small onion, chopped"
+        },
+        {
+            "6": "1  egg"
+        },
+        {
+            "7": "2 cloves garlic, minced"
+        },
+        {
+            "8": "0.5 teaspoons salt"
+        },
+        {
+            "9": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "10": "1 Topping-"
+        },
+        {
+            "11": "0.5 cup ketchup"
+        },
+        {
+            "12": "0.25 cup brown sugar"
+        },
+        {
+            "13": "1 tablespoon Worcestershire sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a jelly-roll pan."
+        },
+        {
+            "2": "Mix ground turkey, crushed crackers, milk, onion, egg, garlic, salt, and black pepper in a bowl. Shape mixture into a loaf and place on the prepared pan."
+        },
+        {
+            "3": "Mix ketchup, brown sugar, and Worcestershire sauce in a separate bowl; set aside."
+        },
+        {
+            "4": "Bake meatloaf in preheated oven for 30 minutes; remove from the oven and drain off liquids. Top meatloaf with ketchup topping."
+        },
+        {
+            "5": "Return loaf to the oven and continue baking until no longer pink in the center, about 30 minutes more; an instant-read thermometer inserted into the center should read at least 160 degrees F (71 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 meatloaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "296"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff69d35e8875ff6ef6e57b4e4e197900c%2F1665668851235D0DAD858-F9A8-4BE9-B364-7EA1BBC905E3.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff69d35e8875ff6ef6e57b4e4e197900c%2F1665524086386image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6079a9e6b5debc63889e96e20852a057%2F165653662720220628_194340.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6079a9e6b5debc63889e96e20852a057%2F1654522466IMG_2094.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/2zQdHVCKUvg9wSSAWaNOc445jRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Best-Turkey-Meatloaf-2000-b5a5c5614791455280ee2097fea5af3a.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

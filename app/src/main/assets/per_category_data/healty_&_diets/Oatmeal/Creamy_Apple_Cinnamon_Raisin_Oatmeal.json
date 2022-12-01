@@ -1,0 +1,81 @@
+{
+    "title": "Creamy Apple Cinnamon Raisin Oatmeal",
+    "Category": "Oatmeal",
+    "Ingredients": [
+        {
+            "1": "2 cups water"
+        },
+        {
+            "2": "2 teaspoons brown sugar"
+        },
+        {
+            "3": "1 teaspoon ground cinnamon"
+        },
+        {
+            "4": "2 tablespoons maple syrup"
+        },
+        {
+            "5": "1 cup uncooked rolled oats"
+        },
+        {
+            "6": "2 tablespoons raisins"
+        },
+        {
+            "7": "1  apple - peeled, cored and cubed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium saucepan, combine water, brown sugar, cinnamon, and syrup. Heat mixture to a boil."
+        },
+        {
+            "2": "When water is at a boil, reduce heat and add in oats. Cook for about 5 minutes, or until all water is soaked by the oats. Remove from heat, stir in apples and raisins and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "293"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "64g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F62bf553888469cc883aa9966610b9afb%2F6361743.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6088028.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7120163.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2e04d691ae9b429d15d4ce6e14b59787%2F4423538.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

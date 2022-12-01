@@ -1,0 +1,105 @@
+{
+    "title": "Banana Zucchini Bread Muffins",
+    "Category": "Zucchini Bread",
+    "Ingredients": [
+        {
+            "1": "2  over-ripe bananas, mashed"
+        },
+        {
+            "2": "0.5 cups white sugar"
+        },
+        {
+            "3": "1 cup shredded zucchini"
+        },
+        {
+            "4": "1 cup applesauce"
+        },
+        {
+            "5": "3 large eggs"
+        },
+        {
+            "6": "0.5 cup packed brown sugar"
+        },
+        {
+            "7": "1 teaspoon vanilla extract"
+        },
+        {
+            "8": "2 cups all-purpose flour"
+        },
+        {
+            "9": "1 cup whole wheat flour"
+        },
+        {
+            "10": "1 tablespoon ground cinnamon"
+        },
+        {
+            "11": "1 teaspoon salt"
+        },
+        {
+            "12": "1 teaspoon baking soda"
+        },
+        {
+            "13": "0.5 teaspoon baking powder"
+        },
+        {
+            "14": "0.5 cup oats"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Line 36 muffin cups with paper liners."
+        },
+        {
+            "2": "Mix together bananas, white sugar, zucchini, applesauce, eggs, brown sugar, and vanilla in a large bowl. Combine all-purpose flour, whole wheat flour, cinnamon, salt, baking soda, and baking powder in a sifter and sift over banana mixture; add oats and mix until just combined. Pour batter into the prepared muffin cups."
+        },
+        {
+            "3": "Bake in the preheated oven until a toothpick inserted into the center of a muffin comes out clean, about 20 minutes. Cool muffins completely in the tins before removing."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "36 "
+        },
+        {
+            "Yield": "36 muffins"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "101"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9343369.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9328133.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8854065.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8426485.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

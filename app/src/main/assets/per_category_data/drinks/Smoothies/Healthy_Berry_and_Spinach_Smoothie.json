@@ -1,0 +1,66 @@
+{
+    "title": "Healthy Berry and Spinach Smoothie",
+    "Category": "Smoothies",
+    "Ingredients": [
+        {
+            "1": "2 cups frozen berries"
+        },
+        {
+            "2": "1 cup plain yogurt"
+        },
+        {
+            "3": "0.5 cup orange juice"
+        },
+        {
+            "4": "0.25 cup fresh spinach, or to taste"
+        },
+        {
+            "5": "5  strawberries"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Blend berries, yogurt, orange juice, spinach, and strawberries together in a blender until smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "88"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F797cd7064ff4be1c4050143b549d707b%2F164403240502F12E68-339C-4F4E-A043-7D795AFA1DF9.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8795682.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6324023.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F97512445a4c4a802a662f15f945ddf16%2F6193780.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

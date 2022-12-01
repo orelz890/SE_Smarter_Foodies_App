@@ -1,0 +1,90 @@
+{
+    "title": "Cajun Spice Mix",
+    "Category": "Mardi Gras Recipes",
+    "Ingredients": [
+        {
+            "1": "1.0 teaspoons paprika"
+        },
+        {
+            "2": "2 teaspoons salt"
+        },
+        {
+            "3": "2 teaspoons garlic powder"
+        },
+        {
+            "4": "0.25 teaspoons dried oregano"
+        },
+        {
+            "5": "0.25 teaspoons dried thyme"
+        },
+        {
+            "6": "1 teaspoon ground black pepper"
+        },
+        {
+            "7": "1 teaspoon onion powder"
+        },
+        {
+            "8": "1 teaspoon cayenne pepper"
+        },
+        {
+            "9": "0.5 teaspoon red pepper flakes (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir together paprika, salt, garlic powder, oregano, thyme, black pepper, onion powder, cayenne pepper, and red pepper flakes in a bowl until evenly blended."
+        },
+        {
+            "2": "Store spice mix in an airtight container."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 /4 cup"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "6"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9134988.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9119556.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8294149.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8091803.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/JWpnCJEL_e_xASwWcDMYGsUFtE4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/149221_CajunSpiceMix_mfs_0083-1eb034786c604496bec6365b410c6b35.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/5ETPZez2rYv8H7MTxxjjpcBH89o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/149221_CajunSpiceMix_mfs_0084-2eef8a715fb04ad59c90d350f8ac8730.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

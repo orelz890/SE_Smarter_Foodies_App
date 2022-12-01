@@ -1,0 +1,93 @@
+{
+    "title": "German Apple Cake",
+    "Category": "Cake Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup vegetable oil"
+        },
+        {
+            "2": "2  eggs"
+        },
+        {
+            "3": "2 cups white sugar"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "2 cups all-purpose flour"
+        },
+        {
+            "6": "2 teaspoons ground cinnamon"
+        },
+        {
+            "7": "1 teaspoon baking soda"
+        },
+        {
+            "8": "0.5 teaspoon salt"
+        },
+        {
+            "9": "4 cups apples - peeled, cored and diced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch cake pan."
+        },
+        {
+            "2": "Beat oil and eggs in a mixing bowl with an electric mixer until creamy. Add sugar and vanilla; beat well."
+        },
+        {
+            "3": "Stir together flour, cinnamon, baking soda, and salt in a bowl. Slowly add flour mixture to egg mixture; mix until combined. The batter will be very thick. Fold in apples by hand using a wooden spoon. Spread batter into the prepared pan."
+        },
+        {
+            "4": "Bake cake in the preheated oven until a toothpick inserted into the center comes out clean, about 45 minutes. Cool cake on a wire rack."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "1 9x13-inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "201"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2797086b9146fbbd562df20ffcbf85de%2F1667758956401B8BE9773-656A-4B36-83BA-69AA9CE9A540.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9401088.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9398218.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9357065.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

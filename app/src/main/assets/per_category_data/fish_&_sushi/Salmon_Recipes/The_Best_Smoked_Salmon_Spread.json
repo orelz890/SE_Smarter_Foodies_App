@@ -1,0 +1,81 @@
+{
+    "title": "The Best Smoked Salmon Spread",
+    "Category": "Salmon Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "2": "6 ounces smoked salmon, chopped"
+        },
+        {
+            "3": "0.25 cup capers, or to taste"
+        },
+        {
+            "4": "2 tablespoons chopped green onion (Optional)"
+        },
+        {
+            "5": "0.5 teaspoons chopped fresh dill"
+        },
+        {
+            "6": "0.25 cup heavy whipping cream"
+        },
+        {
+            "7": "3 dashes Worcestershire sauce"
+        },
+        {
+            "8": "3 drops hot pepper sauce"
+        },
+        {
+            "9": "1 squeeze fresh lemon juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Process cream cheese in a food processor to soften completely."
+        },
+        {
+            "2": "Add smoked salmon, capers, green onion, dill, cream, Worcestershire sauce, hot pepper sauce, and lemon juice. Process the mixture again until creamy and smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "120"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4079cf75af2bedc21b9af5e26a48a047%2F164472341620220212_153407.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9432358.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8770450.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7997154.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Potato Salad with Chives",
+    "Category": "Potato Salad",
+    "Ingredients": [
+        {
+            "1": "0.75 pounds new potatoes, halved"
+        },
+        {
+            "2": "1 cup sour cream"
+        },
+        {
+            "3": "0.5 cup mayonnaise"
+        },
+        {
+            "4": "0.5 cup chopped fresh chives"
+        },
+        {
+            "5": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "6": "0.5 cup chopped fresh chives for garnish"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the potatoes into a pan, and fill with just enough water to cover. Bring to a boil, then simmer over low heat until tender, about 10 minutes. Drain, and cool under cold running water."
+        },
+        {
+            "2": "In a large bowl, stir together the sour cream, mayonnaise, and 1/2 cup of chives. When the potatoes have cooled, stir them into this mixture. Season with salt and pepper. Garnish with remaining chives."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "318"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6732623.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F788a67a57ce0dcf916843ed5edffc522%2F3695191.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F368825.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F18542.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

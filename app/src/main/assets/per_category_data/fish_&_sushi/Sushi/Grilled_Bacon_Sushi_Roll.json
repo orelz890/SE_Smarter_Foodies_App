@@ -1,0 +1,90 @@
+{
+    "title": "Grilled Bacon Sushi Roll",
+    "Category": "Sushi",
+    "Ingredients": [
+        {
+            "1": "6 thick slices bacon"
+        },
+        {
+            "2": "0.5 pound lean ground beef"
+        },
+        {
+            "3": "1 tablespoon barbeque spice rub, or to taste"
+        },
+        {
+            "4": "4 thin slices  prosciutto"
+        },
+        {
+            "5": "2  jalapeno peppers, sliced into long strips"
+        },
+        {
+            "6": "2  sticks pepper Jack cheese"
+        },
+        {
+            "7": "2 tablespoons barbeque sauce, or to taste"
+        },
+        {
+            "8": "1 cup French-fried onions"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Arrange bacon slices side by side, facing lengthwise, on a sushi mat."
+        },
+        {
+            "2": "Mix ground beef and spice rub together in a large bowl. Spread in a thin layer over bacon, leaving 1 inch of bacon uncovered on the end furthest from you. Cover beef with prosciutto. Line jalapeno strips across the end closest to you. Place cheese sticks next to jalapeno strips."
+        },
+        {
+            "3": "Roll up bacon tightly towards the uncovered end."
+        },
+        {
+            "4": "Preheat grill to 350 degrees F (175 degrees C). Grill bacon roll seam side-down over indirect heat until crisp, about 25 minutes. Brush some barbeque sauce on top. Continue grilling until barbeque sauce is glazed, about 5 minutes. Add remaining barbeque sauce; grill for 5 minutes more."
+        },
+        {
+            "5": "Remove from grill and coat evenly with fried onions. Slice and serve with chopsticks."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "1 roll"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "660"
+        },
+        {
+            "Fat": "49g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9361768.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F408f4ffb7b406c4bf4469037fc721cce%2F5601276.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4540910.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

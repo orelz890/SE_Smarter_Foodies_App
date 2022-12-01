@@ -1,0 +1,87 @@
+{
+    "title": "Banana and Nutella\u00ae French Toast",
+    "Category": "French Toast",
+    "Ingredients": [
+        {
+            "1": "0.25 cup chocolate-hazelnut spread (such as Nutella\u00ae)"
+        },
+        {
+            "2": "4 slices bread"
+        },
+        {
+            "3": "1  banana, sliced"
+        },
+        {
+            "4": "0.25 cup chocolate milk"
+        },
+        {
+            "5": "2  eggs, beaten"
+        },
+        {
+            "6": "1 tablespoon vanilla extract"
+        },
+        {
+            "7": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "8": "2 tablespoons butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Spread chocolate-hazelnut spread on 1 side of each slice of bread. Arrange banana slices over chocolate-hazelnut spread on 2 of the slices. Place remaining slices atop bananas to form 2 sandwiches."
+        },
+        {
+            "2": "Whisk chocolate milk, eggs, vanilla extract, and cinnamon together in a bowl. Dip sandwiches in milk mixture and turn as necessary to coat completely."
+        },
+        {
+            "3": "Melt butter in a large skillet over medium-low heat. Cook sandwiches in hot butter until both sides are golden brown and banana and chocolate spread have softened, 4 to 6 minutes per side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "563"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "63g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6401458.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4460418.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3918514.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3766443.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

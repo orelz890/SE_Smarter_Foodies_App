@@ -1,0 +1,78 @@
+{
+    "title": "Antipasto on a Stick",
+    "Category": "Tapas Recipes",
+    "Ingredients": [
+        {
+            "1": "8  bamboo toothpicks"
+        },
+        {
+            "2": "8 slices salami, rolled"
+        },
+        {
+            "3": "8 (1/2 inch) cubes mozzarella cheese"
+        },
+        {
+            "4": "8  pitted black olives"
+        },
+        {
+            "5": "4  grape tomatoes, halved"
+        },
+        {
+            "6": "4  marinated artichoke hearts, drained and halved"
+        },
+        {
+            "7": "8 leaves fresh basil, rolled"
+        },
+        {
+            "8": "2 tablespoons olive oil, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Thread ingredients onto toothpicks in the following order: salami roll, mozzarella cube, olive, tomato half, artichoke heart, and basil leaf. Arrange toothpicks on a serving platter and drizzle olive oil over top."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 antipasto sticks"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "151"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6949311.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3614454.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2534737.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1328414.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

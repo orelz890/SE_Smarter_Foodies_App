@@ -1,0 +1,84 @@
+{
+    "title": "Baked Turkey Meatballs",
+    "Category": "Ground Turkey",
+    "Ingredients": [
+        {
+            "1": "1 pound ground turkey"
+        },
+        {
+            "2": "0.5 cup Italian bread crumbs"
+        },
+        {
+            "3": "0.25 cup thinly sliced baby spinach"
+        },
+        {
+            "4": "1 large egg"
+        },
+        {
+            "5": "2 tablespoons onion powder"
+        },
+        {
+            "6": "2 tablespoons garlic powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Mix turkey, bread crumbs, spinach, egg, onion powder, and garlic powder together in a bowl until well combined. Roll mixture into eight palm-sized meatballs and place 2 inches apart on a baking sheet."
+        },
+        {
+            "3": "Bake in the preheated oven until no longer pink in the center and the outside is browned, 15 to 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "8 meatballs"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "267"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9081197.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7887279.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5774144.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5204705.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/h_a9uDJbDOUC3qsDYuPaPDBlZbQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7887279-e50237c73cff4e7a92e4eda532d06bbd.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

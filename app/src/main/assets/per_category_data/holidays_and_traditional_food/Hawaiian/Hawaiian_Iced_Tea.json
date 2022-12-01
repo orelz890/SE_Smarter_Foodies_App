@@ -1,0 +1,72 @@
+{
+    "title": "Hawaiian Iced Tea",
+    "Category": "Hawaiian",
+    "Ingredients": [
+        {
+            "1": "1 quart barely boiling hot water"
+        },
+        {
+            "2": "4  orange pekoe tea bags"
+        },
+        {
+            "3": "1 quart ice cold water"
+        },
+        {
+            "4": "1 (16 ounce) can pineapple juice"
+        },
+        {
+            "5": "0.5 cup simple syrup"
+        },
+        {
+            "6": "1  fresh pineapple - peeled, cored, and cut into spears"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour the barely boiling hot water into a large pitcher, and add the tea bags. Steep the tea, 2 to 4 minutes. Remove the tea bags and pour in the ice water. Pour in the pineapple juice. Refrigerate until thoroughly chilled, about 1 1/2 hours."
+        },
+        {
+            "2": "Pour the tea over ice, garnish with pineapple spears, and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 35 mins"
+        },
+        {
+            "Total Time": " 1 hrs 45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "152"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc0012300edacf584ab01b530335d52d0%2F738877.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F47498.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

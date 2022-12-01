@@ -1,0 +1,66 @@
+{
+    "title": "Simple Chocolate Mousse",
+    "Category": "Mousse",
+    "Ingredients": [
+        {
+            "1": "9 ounces good-quality chocolate"
+        },
+        {
+            "2": "5 tablespoons water"
+        },
+        {
+            "3": "0.5 cups cold heavy whipping cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Break up chocolate in a microwave-safe bowl. Pour water over chocolate and microwave at 50% power for 2 minutes. Remove and stir until smooth. Let cool to room temperature."
+        },
+        {
+            "2": "Place heavy cream into a mixing bowl and mix with an electric stand mixer's whisk attachment until stiff peaks form. Fold chocolate mixture into cream using a rubber spatula until mixture is uniform. Place immediately into a serving dish."
+        },
+        {
+            "3": "Chill for at least 1 hour before serving. Mousse can be spooned or sliced."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "407"
+        },
+        {
+            "Fat": "35g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7919172.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Sue's Taco Salad",
+    "Category": "Taco Salad",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "1 (1 ounce) package taco seasoning mix"
+        },
+        {
+            "3": "0.5 (14.5 ounce) package nacho-flavor tortilla chips"
+        },
+        {
+            "4": "2 cups shredded Cheddar cheese"
+        },
+        {
+            "5": "0.5 (15 ounce) can kidney beans, drained"
+        },
+        {
+            "6": "0.5 cup ranch-style salad dressing"
+        },
+        {
+            "7": "1  chopped tomato"
+        },
+        {
+            "8": "1 cup chopped lettuce"
+        },
+        {
+            "9": "0.25 cup chopped green onion"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place ground beef in a large, deep skillet over medium-high heat. Cook, stirring to crumble, until well done; drain. Stir in taco seasoning mix. Set aside to cool."
+        },
+        {
+            "2": "Place chips into a large bowl; crush them into bite-sized pieces. Combine with seasoned meat, cheese, beans, tomatoes, lettuce, and green onions."
+        },
+        {
+            "3": "Pour dressing on top; toss to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "626"
+        },
+        {
+            "Fat": "42g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9284172.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8406553.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8295291.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe2b64eabce8f100f833e6397cf18b321%2F7559561.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

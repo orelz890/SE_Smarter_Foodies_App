@@ -1,0 +1,84 @@
+{
+    "title": "Quick Pasta Carbonara",
+    "Category": "Pasta Carbonara",
+    "Ingredients": [
+        {
+            "1": "0.5 pound medium-size pasta"
+        },
+        {
+            "2": "4 slices OSCAR MAYER Bacon, chopped"
+        },
+        {
+            "3": "4 ounces PHILADELPHIA Cream Cheese, cubed"
+        },
+        {
+            "4": "1 cup frozen peas"
+        },
+        {
+            "5": "0.75 cup milk"
+        },
+        {
+            "6": "0.5 cup KRAFT Grated Parmesan Cheese"
+        },
+        {
+            "7": "0.5 teaspoon garlic powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook pasta as directed on the package. Drain pasta and set aside."
+        },
+        {
+            "2": "Meanwhile, cook bacon in a large skillet until crisp. Drain bacon on paper towels. Reserve 2 tablespoons drippings in the skillet."
+        },
+        {
+            "3": "Add cream cheese, peas, milk, Parmesan cheese, and garlic powder to reserved drippings. Cook on low heat until cream cheese is melted and mixture is heated through."
+        },
+        {
+            "4": "Place pasta in a large bowl. Add cream cheese sauce and bacon; mix lightly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "407"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "51g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9050026.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8346623.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8088584.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8009880.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Salad Dressing Chocolate Cake",
+    "Category": "Chocolate Cake",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "2 teaspoons baking soda"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "0.25 cup unsweetened cocoa powder"
+        },
+        {
+            "6": "1 cup creamy salad dressing (such as Miracle Whip\u00ae)"
+        },
+        {
+            "7": "1 cup lukewarm water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking dish."
+        },
+        {
+            "2": "Mix flour, sugar, baking soda, vanilla extract, cocoa powder, creamy salad dressing, and water in a large bowl. Pour into the greased baking dish."
+        },
+        {
+            "3": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 30 minutes. Cool in the pans for 10 minutes before removing to cool completely on a wire rack."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "1 - 9x13 inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "137"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6996623.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7014524.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2794256.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Delicious Egg Salad for Sandwiches",
+    "Category": "Egg Salad",
+    "Ingredients": [
+        {
+            "1": "8  eggs"
+        },
+        {
+            "2": "0.5 cup mayonnaise"
+        },
+        {
+            "3": "0.25 cup chopped green onion"
+        },
+        {
+            "4": "1 teaspoon prepared yellow mustard"
+        },
+        {
+            "5": "0.25 teaspoon paprika"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel, and chop."
+        },
+        {
+            "2": "Place chopped eggs in a bowl; stir in mayonnaise, green onion, and mustard. Season with paprika, salt, and pepper. Stir and serve on your favorite bread or crackers."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "344"
+        },
+        {
+            "Fat": "32g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0704c69e350e98c590fd08d63e90ce3e%2F16625921204FAA4AB0-A667-4BCB-BDEC-FCEC7FC8DC28.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0704c69e350e98c590fd08d63e90ce3e%2F1661126767image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0704c69e350e98c590fd08d63e90ce3e%2F165800944416580094307754976267779178309682.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0704c69e350e98c590fd08d63e90ce3e%2F1656638505image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/5SN7ROsF_d5tEiEUj5Vay0TD62g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4525663-570993c0dac74778a584ff6169bf8038.jpg"
+        }
+    ],
+    "main category": "salads"
+}

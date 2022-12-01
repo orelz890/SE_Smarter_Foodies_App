@@ -1,0 +1,81 @@
+{
+    "title": "Really Creamy Fettuccine Alfredo",
+    "Category": "Fettuccini",
+    "Ingredients": [
+        {
+            "1": "8 ounces dry fettuccine pasta"
+        },
+        {
+            "2": "1 (8 ounce) package cream cheese"
+        },
+        {
+            "3": "0.75 cup grated Parmesan cheese"
+        },
+        {
+            "4": "0.5 cup margarine"
+        },
+        {
+            "5": "0.5 cup milk"
+        },
+        {
+            "6": "1 teaspoon garlic powder"
+        },
+        {
+            "7": "0.25 teaspoon dried basil"
+        },
+        {
+            "8": "1 pinch ground nutmeg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add pasta and cook until al dente, 8 to 10 minutes; drain."
+        },
+        {
+            "2": "Combine cream cheese, Parmesan, margarine, milk, garlic powder, and basil in a medium saucepan. Stir over low heat until smooth and creamy, 10 to 15 minutes."
+        },
+        {
+            "3": "Toss sauce with pasta and sprinkle with nutmeg."
+        }
+    ],
+    "Details": [
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "680"
+        },
+        {
+            "Fat": "48g"
+        },
+        {
+            "Carbs": "45g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8128772.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4479105.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4023503.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2613977.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

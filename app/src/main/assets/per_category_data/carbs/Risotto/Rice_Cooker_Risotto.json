@@ -1,0 +1,69 @@
+{
+    "title": "Rice Cooker Risotto",
+    "Category": "Risotto",
+    "Ingredients": [
+        {
+            "1": "0.5 cups Arborio rice"
+        },
+        {
+            "2": "2.0 cups hot chicken stock"
+        },
+        {
+            "3": "1 cup grated Parmesan cheese (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the rice and heated chicken stock into the rice cooker."
+        },
+        {
+            "2": "Press Start and let cook until the cycle has completed and has shifted to Keep Warm setting. Let rice sit with cover remaining on the rice cooker until the rice is completely tender, about 10 minutes more."
+        },
+        {
+            "3": "Sprinkle Parmesan cheese over the rice and stir."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "268"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6385026.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4484804.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

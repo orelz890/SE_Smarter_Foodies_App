@@ -1,0 +1,99 @@
+{
+    "title": "Old Fashioned Mac and Cheese",
+    "Category": "Macaroni and Cheese",
+    "Ingredients": [
+        {
+            "1": "2 cups uncooked elbow macaroni"
+        },
+        {
+            "2": "4 tablespoons butter"
+        },
+        {
+            "3": "2 tablespoons all-purpose flour"
+        },
+        {
+            "4": "2 cups milk"
+        },
+        {
+            "5": "0.25  onion, minced"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        },
+        {
+            "7": "0.25 pound processed cheese food"
+        },
+        {
+            "8": "0.25 pound shredded Cheddar cheese"
+        },
+        {
+            "9": "0.25 pound shredded Swiss cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Prepare the elbow macaroni according to package directions."
+        },
+        {
+            "3": "Meanwhile, melt the butter in a small saucepan over medium high heat. Stir in the flour until a cream colored paste forms. Then pour in the milk and stir constantly until this comes to a hard boil, then stir for 1 more minute. Remove from heat and set aside."
+        },
+        {
+            "4": "When the macaroni is cooked, spread 1/2 of it into the bottom of a lightly greased 9x13-inch baking dish. Then layer 1/2 of the grated onion, 1/2 of the salt and pepper and 1/2 of each of the cheeses. Repeat this one more time: macaroni, onion, salt and pepper and cheeses, and then pour the reserved white sauce over all. Top off with small pats of butter to taste."
+        },
+        {
+            "5": "Cover and bake at 350 degrees F (175 degrees C) for 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "7 "
+        },
+        {
+            "Yield": "6 to 8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "401"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9363433.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9352957.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9332621.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9179434.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/b-A84_OI3IUa0juOwxwjFBEs0WQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4524672-d40f916a71894ac38dba88c3a1f1fb1c.jpg"
+        }
+    ],
+    "main category": "dairy"
+}

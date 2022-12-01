@@ -1,0 +1,87 @@
+{
+    "title": "Slow Cooker Lentil Soup",
+    "Category": "Lentil Soup",
+    "Ingredients": [
+        {
+            "1": "7 cups water"
+        },
+        {
+            "2": "1 pound cooked, smoked lean ham, cut into chunks"
+        },
+        {
+            "3": "1 (14.5 ounce) can low-sodium diced tomatoes, undrained"
+        },
+        {
+            "4": "0.75 cups dried lentils, rinsed"
+        },
+        {
+            "5": "8 ounces chopped onion"
+        },
+        {
+            "6": "6 ounces sliced carrots"
+        },
+        {
+            "7": "6 ounces chopped celery"
+        },
+        {
+            "8": "5 cloves garlic, minced"
+        },
+        {
+            "9": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "10": "0.5 teaspoon salt (Optional)"
+        },
+        {
+            "11": "0.5 teaspoon dried thyme, or more to taste"
+        },
+        {
+            "12": "1  bay leaf"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine water, ham, tomatoes, lentils, onion, carrots, celery, garlic, pepper, salt, thyme, and bay leaf in a slow cooker."
+        },
+        {
+            "2": "Cover and cook on Low until lentils and vegetables are as soft as you like, 6 to 8 hours. Remove bay leaf before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 6 hrs"
+        },
+        {
+            "Total Time": " 6 hrs 20 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "259"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8649449.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8222905.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

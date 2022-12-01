@@ -1,0 +1,111 @@
+{
+    "title": "Starbucks Pumpkin Bread",
+    "Category": "Winter Squash Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 cups all-purpose flour"
+        },
+        {
+            "2": "1 teaspoon baking soda"
+        },
+        {
+            "3": "1 teaspoon ground nutmeg"
+        },
+        {
+            "4": "1 teaspoon ground cinnamon"
+        },
+        {
+            "5": "1 teaspoon ground cloves"
+        },
+        {
+            "6": "0.5 teaspoon baking powder"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "4 large eggs"
+        },
+        {
+            "9": "1 cup white sugar"
+        },
+        {
+            "10": "0.25 cup light brown sugar"
+        },
+        {
+            "11": "0.5 teaspoon vanilla extract"
+        },
+        {
+            "12": "0.75 cup canned pumpkin"
+        },
+        {
+            "13": "0.75 cup vegetable oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease an 8 1/2-x4 1/2-inch loaf pan."
+        },
+        {
+            "2": "Combine flour, baking soda, nutmeg, cinnamon, cloves, baking powder, and salt in a large bowl; mix well and set aside."
+        },
+        {
+            "3": "Beat eggs, white sugar, brown sugar, and vanilla extract in a large bowl with an electric mixer on high speed until combined, about 30 seconds. Beat in pumpkin and oil. Add flour mixture; mix until batter is blended and smooth. Pour batter into the prepared loaf pan."
+        },
+        {
+            "4": "Bake in the preheated oven until the top is dark brown and a toothpick inserted into the center of the bread comes out clean, about 70 minutes."
+        },
+        {
+            "5": "Let bread cool in the pan for about 30 minutes, then invert onto a wire rack to cool completely. Cut into 1-inch-thick slices."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 10 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 55 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 8 1/2-x4 1/2-inch loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "430"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe160f579fb50e6201ebae59e2fee5c28%2F1658241128pumpkin.PNG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe160f579fb50e6201ebae59e2fee5c28%2F1653490180pumpkin%2520bread%2520muffin.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8858225.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8804450.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}

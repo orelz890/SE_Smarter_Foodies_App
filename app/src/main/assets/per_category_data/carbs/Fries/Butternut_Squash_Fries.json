@@ -1,0 +1,69 @@
+{
+    "title": "Butternut Squash Fries",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "1 (2 pound) butternut squash, halved and seeded"
+        },
+        {
+            "2": "1 salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "2": "Use a sharp knife to carefully cut away the peel from the squash. Cut the squash into sticks like French fries. Arrange squash pieces on a baking sheet and season with salt."
+        },
+        {
+            "3": "Bake for 20 minutes in the preheated oven, turning the fries over halfway through baking. Fries are done when they are starting to brown on the edges and become crispy."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "102"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7015609.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3493492.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbb428185d7550990e3e361b50c8f1bc7%2F2923214.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6f817ae382eb3f81cc05ac487e061c49%2F2923239.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

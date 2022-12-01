@@ -1,0 +1,102 @@
+{
+    "title": "Grits, Sausage, and Egg Casserole",
+    "Category": "Polenta",
+    "Ingredients": [
+        {
+            "1": "3 cups water"
+        },
+        {
+            "2": "1 cup half-and-half"
+        },
+        {
+            "3": "1 teaspoon salt"
+        },
+        {
+            "4": "1 cup stone-ground grits"
+        },
+        {
+            "5": "8 ounces shredded sharp Cheddar cheese"
+        },
+        {
+            "6": "0.5 cup butter"
+        },
+        {
+            "7": "1 pound bulk pork sausage"
+        },
+        {
+            "8": "3  eggs"
+        },
+        {
+            "9": "0.5 cup milk"
+        },
+        {
+            "10": "1  orange bell pepper, chopped small"
+        },
+        {
+            "11": "1  red bell pepper, chopped small"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish."
+        },
+        {
+            "2": "Bring water, half-and-half, and salt to a boil in a saucepan; slowly whisk in grits. Reduce heat to low and simmer, stirring occasionally, until thick, about 20 minutes. Stir in Cheddar cheese and butter until melted. Cool."
+        },
+        {
+            "3": "Heat a large skillet over medium-high heat. Cook and stir sausage in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease."
+        },
+        {
+            "4": "Beat eggs and milk together in a bowl. Stir sausage, egg mixture, orange bell pepper, and red bell pepper into grits mixture. Pour grits mixture into prepared baking dish."
+        },
+        {
+            "5": "Bake in the preheated oven until set, 45 to 60 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "343"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1d9a69a3ad860d3e8d3f42554d47a5f8%2F1643794607Sausage%2520Egg%2520and%2520Grits%2520Casserole.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9179926.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9118553.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8833604.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

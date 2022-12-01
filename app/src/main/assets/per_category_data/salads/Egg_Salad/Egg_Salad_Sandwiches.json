@@ -1,0 +1,84 @@
+{
+    "title": "Egg Salad Sandwiches",
+    "Category": "Egg Salad",
+    "Ingredients": [
+        {
+            "1": "8  hard-cooked eggs, diced"
+        },
+        {
+            "2": "1 cup mayonnaise"
+        },
+        {
+            "3": "0.25 cup dried onion flakes"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "1 teaspoon mustard powder"
+        },
+        {
+            "6": "0.25 teaspoon garlic powder"
+        },
+        {
+            "7": "0.25 teaspoon black pepper"
+        },
+        {
+            "8": "1 teaspoon dill weed"
+        },
+        {
+            "9": "8 slices white bread"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a bowl, gently mix the eggs, mayonnaise, onion flakes, salt, mustard powder, garlic powder, pepper, and dill. Cover, and refrigerate 8 hours, or overnight. To serve, spread equal amounts on 4 slices bread; top with remaining bread slices to make sandwiches."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "701"
+        },
+        {
+            "Fat": "56g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F30ce69363e242f745cab1cb47d6a8a4e%2F1647362649Egg%2520Salad%2520Sandwiches.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7927095.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F86384db66f34ac243ee73105c8ef3e91%2F800032.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F658354.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

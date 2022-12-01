@@ -1,0 +1,81 @@
+{
+    "title": "Auntie Mae's Irish Bread",
+    "Category": "Irish Soda Bread",
+    "Ingredients": [
+        {
+            "1": "3 cups all-purpose flour"
+        },
+        {
+            "2": "0.25 cups milk, or more as needed"
+        },
+        {
+            "3": "1 cup raisins"
+        },
+        {
+            "4": "0.75 cup white sugar"
+        },
+        {
+            "5": "2 tablespoons caraway seeds (Optional)"
+        },
+        {
+            "6": "1 tablespoon vegetable oil"
+        },
+        {
+            "7": "2 teaspoons baking powder"
+        },
+        {
+            "8": "1 teaspoon baking soda"
+        },
+        {
+            "9": "0.25 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease an 8-inch round glass baking dish."
+        },
+        {
+            "2": "Mix flour, milk, raisins, sugar, caraway seeds, vegetable oil, baking powder, baking soda, and salt together in a bowl until dough is not wet enough to pour and not dry enough to handle. Add more milk if dough is too dry. Transfer dough to the baking dish."
+        },
+        {
+            "3": "Bake in the preheated oven until a toothpick inserted in the center comes out clean, about 50 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "230"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2157495.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

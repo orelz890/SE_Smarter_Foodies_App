@@ -1,0 +1,69 @@
+{
+    "title": "Drop Dead Delicious Tuna Salad",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "4 (5 ounce) cans tuna, drained"
+        },
+        {
+            "2": "1  lemon, juiced"
+        },
+        {
+            "3": "2 cups mayonnaise"
+        },
+        {
+            "4": "4 stalks celery, diced"
+        },
+        {
+            "5": "0.5 cup sweet pickle relish"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a mixing bowl, combine the tuna, lemon juice, mayonnaise, celery and pickle relish. Mix together well and refrigerate until ready to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "4 to 6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "790"
+        },
+        {
+            "Fat": "71g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5169657.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1cb00af2927b39d0c9ccbf729178ac80%2F4482410.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F465743.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Chicken and Spinach Alfredo Lasagna",
+    "Category": "Lasagna",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package lasagna noodles"
+        },
+        {
+            "2": "3 cups heavy cream"
+        },
+        {
+            "3": "2 (10.75 ounce) cans  condensed cream of mushroom soup"
+        },
+        {
+            "4": "1 cup grated Parmesan cheese"
+        },
+        {
+            "5": "0.25 cup butter"
+        },
+        {
+            "6": "1 tablespoon olive oil"
+        },
+        {
+            "7": "0.5 large onion, diced"
+        },
+        {
+            "8": "4 cloves garlic, sliced"
+        },
+        {
+            "9": "5  mushrooms, diced"
+        },
+        {
+            "10": "1  roasted chicken, shredded"
+        },
+        {
+            "11": "1 salt and ground black pepper to taste"
+        },
+        {
+            "12": "1 cup ricotta cheese"
+        },
+        {
+            "13": "1 bunch fresh spinach, rinsed"
+        },
+        {
+            "14": "3 cups shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Bring a large pot of lightly salted water to a boil. Cook lasagna noodles for 8 to 10 minutes, or until al dente. Drain, and rinse with cold water."
+        },
+        {
+            "2": "In a saucepan over low heat, mix together heavy cream, cream of mushroom soup, Parmesan cheese, and butter. Simmer, stirring frequently, until well blended."
+        },
+        {
+            "3": "Heat the olive oil in a skillet over medium heat. Cook and stir the onion in olive oil until tender, then add garlic and mushrooms. Mix in the chicken, and cook until heated through. Season with salt and pepper."
+        },
+        {
+            "4": "Lightly coat the bottom of a 9x13 inch baking dish with enough of the cream sauce mixture to coat. Layer with 1/3 of the lasagna noodles, 1/2 cup ricotta, 1/2 of the spinach, 1/2 the chicken mixture, and 1 cup mozzarella. Top with 1/3 the cream sauce mixture, and repeat the layers. Place the remaining noodles on top, and spread with remaining sauce."
+        },
+        {
+            "5": "Bake 1 hour in the preheated oven, or until brown and bubbly. Top with the remaining mozzarella, and continue baking until cheese is melted and lightly browned."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 30 mins"
+        },
+        {
+            "Total Time": " 2 hrs"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "591"
+        },
+        {
+            "Fat": "44g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd4fb14dc8c51c735e4a77b4b7299b422%2F165249486120220513_211724.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd4fb14dc8c51c735e4a77b4b7299b422%2F164833774516483377333854980218798523175626.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9029410.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8968370.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

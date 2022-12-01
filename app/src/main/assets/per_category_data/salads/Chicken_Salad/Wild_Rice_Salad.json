@@ -1,0 +1,84 @@
+{
+    "title": "Wild Rice Salad",
+    "Category": "Chicken Salad",
+    "Ingredients": [
+        {
+            "1": "1 (6 ounce) package wild rice"
+        },
+        {
+            "2": "0.75 cup light mayonnaise"
+        },
+        {
+            "3": "1 teaspoon white vinegar"
+        },
+        {
+            "4": "1 teaspoon white sugar"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        },
+        {
+            "6": "2 cups cooked, cubed turkey meat"
+        },
+        {
+            "7": "0.25 cup diced green onion"
+        },
+        {
+            "8": "1 cup seedless red grapes"
+        },
+        {
+            "9": "6 ounces blanched slivered almonds"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook rice according to package directions. Remove from heat and set aside to cool."
+        },
+        {
+            "2": "Whisk together mayonnaise, vinegar, sugar, salt, and pepper in a medium bowl. Stir in rice, turkey, onion, and grapes until evenly coated with dressing. Cover and refrigerate for 1 to 2 hours."
+        },
+        {
+            "3": "Sprinkle slivered almonds over salad before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 2 hrs"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "221"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff55a0eae9141befabe8c68800a2fca22%2F1657146865wild%2520rice%2520GRAPE%2520CHICKEN%2520SALAD.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F10515.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

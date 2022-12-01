@@ -1,0 +1,78 @@
+{
+    "title": "Waffles II",
+    "Category": "Waffles",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "4 teaspoons baking powder"
+        },
+        {
+            "3": "0.25 teaspoon salt"
+        },
+        {
+            "4": "0.5 cups milk"
+        },
+        {
+            "5": "6 tablespoons vegetable oil"
+        },
+        {
+            "6": "2  eggs, separated"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat waffle iron. In a large mixing bowl, sift together flour, baking powder and salt. Stir in milk, oil and egg yolks until mixture is smooth. In a separate bowl, beat egg whites until soft peaks form. Gently fold egg whites into batter."
+        },
+        {
+            "2": "Spray preheated waffle iron with non-stick cooking spray. Pour mix onto hot waffle iron. Cook until golden; serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "492"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9312085.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8854815.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8794042.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8639333.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Fresh Tomato Soup",
+    "Category": "Lunch Recipes",
+    "Ingredients": [
+        {
+            "1": "4 cups chopped fresh tomatoes"
+        },
+        {
+            "2": "1 slice onion"
+        },
+        {
+            "3": "4 cloves garlic"
+        },
+        {
+            "4": "2 cups chicken broth"
+        },
+        {
+            "5": "2 tablespoons butter"
+        },
+        {
+            "6": "2 tablespoons all-purpose flour"
+        },
+        {
+            "7": "1 teaspoon salt"
+        },
+        {
+            "8": "2 teaspoons white sugar, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a stockpot, over medium heat, combine the tomatoes, large slice of onion, garlic cloves, and chicken broth. Bring to a boil, and gently boil for about 20 minutes to blend all of the flavors. Remove from heat and run the mixture through a food mill into a large bowl, or pan. Discard any stuff left over in the food mill."
+        },
+        {
+            "2": "In the now empty stockpot, melt the butter over medium heat. Stir in the flour to make a roux, cooking until the roux is a medium brown. Gradually whisk in a bit of the tomato mixture, so that no lumps form, then stir in the rest. Season with sugar and salt, and adjust to taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "80"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa9c6ff767f3fe97eacb8886e28f653c2%2F166396148020220923_143054.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa9c6ff767f3fe97eacb8886e28f653c2%2F166292730194A99131-C033-4F28-B047-6178936F1254.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa9c6ff767f3fe97eacb8886e28f653c2%2F1663802861IMG_1572.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa9c6ff767f3fe97eacb8886e28f653c2%2F1662428645tomato%2520soup.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/X0Ih3Zzy0faytPazCNNxXFyQddc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/39544-Garden-Fresh-Tomato-Soup-mfs-327-6613358123c5436e8d02440073171329.jpg"
+        }
+    ],
+    "main category": "lunch"
+}

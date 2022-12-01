@@ -1,0 +1,84 @@
+{
+    "title": "Oatmeal Whole Wheat Quick Bread",
+    "Category": "Wheat Bread",
+    "Ingredients": [
+        {
+            "1": "1 cup rolled oats"
+        },
+        {
+            "2": "1 cup whole wheat flour"
+        },
+        {
+            "3": "2 teaspoons baking powder"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.5 tablespoons honey"
+        },
+        {
+            "6": "1 tablespoon vegetable oil"
+        },
+        {
+            "7": "1 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "2": "Grind oatmeal in a food processor or blender. In a large bowl, combine oatmeal, flour, baking powder and salt. In a separate bowl, dissolve honey in vegetable oil then stir in the milk. Combine both mixtures and stir until a soft dough is formed. Form the dough into a ball and place on a lightly oiled baking sheet."
+        },
+        {
+            "3": "Bake in preheated oven for about 20 minutes, or until bottom of loaf sounds hollow when tapped."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "88"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9180751.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9168848.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9168851.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8945223.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Roti Bread from India",
+    "Category": "Diwali Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups durum wheat flour"
+        },
+        {
+            "2": "0.5 teaspoon salt"
+        },
+        {
+            "3": "0.75 cup water"
+        },
+        {
+            "4": "1 tablespoon vegetable oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium bowl, stir together the flour, salt, water and oil, until the mixture pulls away from the sides. Turn the dough out onto a well floured surface. Knead until smooth and pliable, about 10 minutes."
+        },
+        {
+            "2": "Preheat an unoiled skillet or tava to medium high heat. Divide dough into 12 equal parts, form into rounds and cover with a damp cloth. Flatten the balls with the palm of your hand, then use a rolling pin to roll out each piece into a 6 to 8 inch diameter round."
+        },
+        {
+            "3": "Cook the roti for 1 minute before turning over, then turn again after another minute. The roti should have some darker brown spots when finished. Best served warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "119"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8662518.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8008585.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F717ac974108caa42dbcefa7007bae51b%2F6324174.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3569384.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

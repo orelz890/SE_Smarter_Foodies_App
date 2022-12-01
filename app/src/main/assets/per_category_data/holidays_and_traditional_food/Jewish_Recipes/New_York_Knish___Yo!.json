@@ -1,0 +1,93 @@
+{
+    "title": "New York Knish - Yo!",
+    "Category": "Jewish Recipes",
+    "Ingredients": [
+        {
+            "1": "6 large Yukon Gold potatoes, peeled"
+        },
+        {
+            "2": "0.25 cup butter"
+        },
+        {
+            "3": "1 large onion, chopped"
+        },
+        {
+            "4": "1 cube chicken bouillon, crumbled"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        },
+        {
+            "6": "18 sheets phyllo dough"
+        },
+        {
+            "7": "0.25 cup butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place potatoes into a pot with enough water to cover. Bring to a boil, and cook until tender. Drain, and set aside."
+        },
+        {
+            "2": "While the potatoes are boiling, heat 1/4 cup butter in a large skillet over medium heat. Stir in onions, and cook until soft and translucent."
+        },
+        {
+            "3": "In a large bowl, mash the potatoes until smooth. Mix in onion and butter mixture, crumbled bouillon, and salt and pepper to taste."
+        },
+        {
+            "4": "Preheat oven to 375 degrees F (190 degrees C). Grease a baking sheet."
+        },
+        {
+            "5": "Layer 3 sheets of phyllo dough one on top of the other, and cut this triple-layered sheet in half. Drop one spoonful of potato mixture into each phyllo piece. Roll dough around mixture, tucking ends under. Repeat this step with remaining sheets of phyllo dough to make 12 knishes. Brush with remaining 1/4 cup butter, and place on baking sheet."
+        },
+        {
+            "6": "Bake in a preheated oven 30 to 40 minutes, or until golden brown."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 pastries"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "232"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdf2f2342aea9fa3353f554760389712a%2F1669256846793IMG_20221123_195210.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5731769.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4650959.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F131582.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

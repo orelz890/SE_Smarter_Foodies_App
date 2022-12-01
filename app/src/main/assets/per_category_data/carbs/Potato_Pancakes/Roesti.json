@@ -1,0 +1,75 @@
+{
+    "title": "Roesti",
+    "Category": "Potato Pancakes",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds potatoes, scrubbed"
+        },
+        {
+            "2": "3 tablespoons butter"
+        },
+        {
+            "3": "1 teaspoon salt"
+        },
+        {
+            "4": "2 tablespoons milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the potatoes in a large pot. Cover the potatoes with water. Bring the water to a boil over medium-high heat. Cook the potatoes until tender enough to pierce with a fork, about 15 minutes; drain and refrigerate potatoes overnight."
+        },
+        {
+            "2": "Peel and grate the potatoes into a large bowl."
+        },
+        {
+            "3": "Melt the butter in a skillet over medium heat; add the grated potatoes; season with salt. Press the potatoes into a round loaf using a spatula. Sprinkle the milk over them. Cover the skillet with a lid. When you hear the potatoes begin to sizzle in about 5 to 10 minutes, reduce the heat to low. Cook until a brown crust has formed on the bottom, about 30 minutes. Cover the skillet with a large plate and flip the roesti onto the plate to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 9 hrs 10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "186"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2134618.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F466885.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F214268.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

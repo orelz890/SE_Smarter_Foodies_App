@@ -1,0 +1,105 @@
+{
+    "title": "Cheese Lover's Chicken",
+    "Category": "Chicken Parmesan",
+    "Ingredients": [
+        {
+            "1": "2 (15 ounce) cans tomato sauce"
+        },
+        {
+            "2": "1 (6 ounce) can tomato paste"
+        },
+        {
+            "3": "1 tablespoon white sugar"
+        },
+        {
+            "4": "1 teaspoon dried parsley"
+        },
+        {
+            "5": "1 teaspoon dried basil"
+        },
+        {
+            "6": "1 teaspoon dried oregano"
+        },
+        {
+            "7": "1 medium garlic clove, chopped"
+        },
+        {
+            "8": "3 pounds skinless, boneless chicken breast halves"
+        },
+        {
+            "9": "1 cup fine dry bread crumbs"
+        },
+        {
+            "10": "1 pound Cheddar cheese, shredded"
+        },
+        {
+            "11": "1 pound mozzarella cheese, shredded"
+        },
+        {
+            "12": "1 teaspoon garlic salt to taste"
+        },
+        {
+            "13": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a baking dish that is deep enough to allow at least one inch between the chicken and the top of the dish."
+        },
+        {
+            "2": "In a large pot over medium heat, stir together tomato sauce, tomato paste, sugar, parsley, basil, oregano, and garlic."
+        },
+        {
+            "3": "Meanwhile, in a large bowl, toss chicken with bread crumbs until completely covered. Arrange chicken in baking dish and sprinkle to taste with garlic salt and pepper to taste. Top chicken with half of shredded Cheddar and mozzarella cheeses. Pour tomato sauce evenly over chicken. Reserve half of the remaining Cheddar and mozzarella cheeses, and sprinkle the rest over the chicken and sauce."
+        },
+        {
+            "4": "Cover dish with aluminum foil and bake for about 50 minutes, or until chicken is cooked through. Remove foil, and top with remaining Cheddar and mozzarella cheeses. Return dish to oven and cook, uncovered, until the cheese on top melts. Remove pan from oven and let sit five minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x13-inch baking dish"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "443"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "48g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F38dfac56b59367c5d296898e6c7447cf%2F305027.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F88776.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F34715.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

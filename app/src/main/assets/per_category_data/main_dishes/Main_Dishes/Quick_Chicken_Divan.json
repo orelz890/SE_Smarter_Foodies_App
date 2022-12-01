@@ -1,0 +1,87 @@
+{
+    "title": "Quick Chicken Divan",
+    "Category": "Main Dishes",
+    "Ingredients": [
+        {
+            "1": "2 (10 ounce) packages frozen chopped broccoli"
+        },
+        {
+            "2": "2  cooked boneless chicken breast halves, chopped"
+        },
+        {
+            "3": "1 (10.75 ounce) can  condensed cream of chicken soup"
+        },
+        {
+            "4": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "5": "0.5 cup mayonnaise"
+        },
+        {
+            "6": "1 teaspoon lemon juice"
+        },
+        {
+            "7": "0.5 cups shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Place broccoli in the bottom of a 9x13 inch baking dish. Top with the chicken."
+        },
+        {
+            "3": "In a small bowl, blend the cream of chicken soup, cream of mushroom soup, mayonnaise, and lemon juice. Pour the mixture over the chicken. Top with Cheddar cheese."
+        },
+        {
+            "4": "Bake 35 to 40 minutes in the preheated oven, until bubbly and lightly browned."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "323"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8923027.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8898633.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8303621.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8303638.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

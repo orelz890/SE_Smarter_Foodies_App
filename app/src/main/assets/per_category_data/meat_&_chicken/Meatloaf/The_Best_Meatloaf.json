@@ -1,0 +1,99 @@
+{
+    "title": "The Best Meatloaf",
+    "Category": "Meatloaf",
+    "Ingredients": [
+        {
+            "1": "1 cup soft bread crumbs"
+        },
+        {
+            "2": "0.5 cup milk"
+        },
+        {
+            "3": "0.5 pounds ground beef"
+        },
+        {
+            "4": "1  onion, chopped"
+        },
+        {
+            "5": "0.5 cup diced green bell pepper"
+        },
+        {
+            "6": "3 tablespoons steak sauce, (e.g. Heinz 57)"
+        },
+        {
+            "7": "1  egg, slightly beaten"
+        },
+        {
+            "8": "0.25 teaspoons salt"
+        },
+        {
+            "9": "1 ground black pepper to taste"
+        },
+        {
+            "10": "0.25 cup steak sauce, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease an 8x4-inch loaf pan. Combine bread crumbs and milk in a small bowl; set aside to soften."
+        },
+        {
+            "2": "Mix ground beef, onion, bell pepper, steak sauce, egg, salt, and black pepper in a large bowl; add bread crumb mixture and mix with your hands until combined."
+        },
+        {
+            "3": "Pat the mixture into the prepared loaf pan; brush the top with 1/4 cup steak sauce."
+        },
+        {
+            "4": "Bake in the preheated oven until no longer pink in the center, about 1 hour. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C). Allow to stand for 5 minutes before slicing."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "288"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9404297.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9397339.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9339565.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9120939.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/jDeY8_GBtp7-COBkXXvZMcIExU4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25198_The-Best-Meatloaf_Melissa-Goff_4558014_original-1x1-1-ff59f489ad2e4bb28695e0c927435dce.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

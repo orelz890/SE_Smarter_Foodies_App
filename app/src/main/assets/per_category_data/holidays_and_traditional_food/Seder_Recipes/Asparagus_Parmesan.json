@@ -1,0 +1,69 @@
+{
+    "title": "Asparagus Parmesan",
+    "Category": "Seder Recipes",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon butter"
+        },
+        {
+            "2": "0.25 cup olive oil"
+        },
+        {
+            "3": "1 pound fresh asparagus spears, trimmed"
+        },
+        {
+            "4": "0.75 cup grated Parmesan cheese"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter with olive oil in a large skillet over medium heat. Add asparagus spears and cook, stirring occasionally, for about 10 minutes, or to desired firmness. Drain off excess oil, and sprinkle with Parmesan cheese, salt, and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "5 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "199"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9060777.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9042026.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8836381.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8498206.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

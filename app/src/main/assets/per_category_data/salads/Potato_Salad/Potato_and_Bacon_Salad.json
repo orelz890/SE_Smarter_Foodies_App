@@ -1,0 +1,84 @@
+{
+    "title": "Potato and Bacon Salad",
+    "Category": "Potato Salad",
+    "Ingredients": [
+        {
+            "1": "5  eggs"
+        },
+        {
+            "2": "4 slices bacon"
+        },
+        {
+            "3": "2 tablespoons Dijon mustard, or to taste"
+        },
+        {
+            "4": "1 cup mayonnaise"
+        },
+        {
+            "5": "3 stalks celery, minced"
+        },
+        {
+            "6": "2 pounds small potatoes"
+        },
+        {
+            "7": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the potatoes in a pot with enough water to cover, and bring to a boil. Cook for about 20 minutes, or until tender. Drain and cool."
+        },
+        {
+            "2": "Meanwhile, place eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, and place in a bowl of cold water to cool."
+        },
+        {
+            "3": "Peel the eggs, and place 3 of them into a large bowl. Reserve the rest for later. Mash the eggs in the bowl with a fork. Stir in the mustard, mayonnaise, celery, salt and pepper. Set aside."
+        },
+        {
+            "4": "Cook bacon slices in the microwave for about 4 minutes, until crisp, or fry in a skillet over medium-high heat. Crumble 2 of the bacon slices into the mayonnaise mixture. Reserve the rest for garnish."
+        },
+        {
+            "5": "Peel and chop the potatoes, and stir into the bowl until evenly coated. Slice the 2 remaining eggs, and place on top of the salad. Crumble the remaining bacon over the eggs, then sprinkle parsley over the top."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "361"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8258984.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6704332.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6681645.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6590746.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

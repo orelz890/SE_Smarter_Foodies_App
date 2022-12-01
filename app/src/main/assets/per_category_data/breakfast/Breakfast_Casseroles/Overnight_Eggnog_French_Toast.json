@@ -1,0 +1,87 @@
+{
+    "title": "Overnight Eggnog French Toast",
+    "Category": "Breakfast Casseroles",
+    "Ingredients": [
+        {
+            "1": "1 cup brown sugar"
+        },
+        {
+            "2": "0.5 cup butter"
+        },
+        {
+            "3": "2 tablespoons light corn syrup"
+        },
+        {
+            "4": "1 loaf French bread, cut into 1-inch slices"
+        },
+        {
+            "5": "8  eggs"
+        },
+        {
+            "6": "2 cups prepared eggnog"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Lightly grease a 9x13-inch baking dish."
+        },
+        {
+            "2": "Heat the brown sugar, butter, and corn syrup in a small saucepan over medium heat. Cook and stir until the mixture begins to boil; remove the mixture from heat, and pour into the prepared baking dish. Place the bread slices atop the brown sugar mixture."
+        },
+        {
+            "3": "Whisk the eggs and eggnog together in a large bowl; pour over the bread slices. Cover the baking dish with aluminum foil, and refrigerate 8 hours to overnight."
+        },
+        {
+            "4": "Preheat an oven to 325 degrees F (165 degrees C). Remove the baking dish from the refrigerator."
+        },
+        {
+            "5": "Bake in the preheated oven for 35 minutes. Increase heat to 375 degrees F (190 degrees C), remove the aluminum foil, and continue baking until the the top begins to brown, 5 to 7 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "723"
+        },
+        {
+            "Fat": "30g"
+        },
+        {
+            "Carbs": "96g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd69f62e2fd7eae6fbdbd1ab6ced2ce90%2F16613689317BA5EEC5-1A5F-431D-AA53-DF087C8B7AFA.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd69f62e2fd7eae6fbdbd1ab6ced2ce90%2F1661279211unnamed.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9436354.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8927262.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

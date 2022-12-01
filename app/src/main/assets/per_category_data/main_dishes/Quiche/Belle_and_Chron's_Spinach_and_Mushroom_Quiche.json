@@ -1,0 +1,102 @@
+{
+    "title": "Belle and Chron's Spinach and Mushroom Quiche",
+    "Category": "Quiche",
+    "Ingredients": [
+        {
+            "1": "6 slices bacon"
+        },
+        {
+            "2": "4  eggs, beaten"
+        },
+        {
+            "3": "0.5 cups light cream"
+        },
+        {
+            "4": "0.25 teaspoon ground nutmeg"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "0.5 teaspoon pepper"
+        },
+        {
+            "7": "2 cups chopped fresh spinach"
+        },
+        {
+            "8": "2 cups chopped fresh mushrooms"
+        },
+        {
+            "9": "0.5 cup chopped onions"
+        },
+        {
+            "10": "1 cup shredded Swiss cheese"
+        },
+        {
+            "11": "1 cup shredded Cheddar cheese"
+        },
+        {
+            "12": "1 (9 inch) deep dish pie crust"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside."
+        },
+        {
+            "3": "In a large bowl, whip together eggs, cream, nutmeg, salt, and pepper. Stir in bacon, spinach, mushrooms, onions, 3/4 cup Swiss cheese, and 3/4 cup Cheddar cheese. Transfer to the pie crust. Top with remaining cheese."
+        },
+        {
+            "4": "Bake uncovered in the preheated oven 35 minutes, or until bubbly and lightly browned."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 to 9 - inch quiche"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "534"
+        },
+        {
+            "Fat": "42g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9189001.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8811732.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8678629.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8344567.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

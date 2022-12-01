@@ -1,0 +1,75 @@
+{
+    "title": "Grandma's Yorkshire Pudding",
+    "Category": "Popovers and Yorkshire Pudding",
+    "Ingredients": [
+        {
+            "1": "2  eggs"
+        },
+        {
+            "2": "1 cup milk"
+        },
+        {
+            "3": "1 cup all-purpose flour"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "1 cup beef drippings"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 450 degrees F (220 degrees C). Place about a tablespoon of beef drippings into each cup of a 6-cup muffin tin."
+        },
+        {
+            "2": "Whisk eggs in a medium bowl until well-blended. Stir in milk, flour, and salt. Fill the muffin cups about halfway."
+        },
+        {
+            "3": "Bake in the preheated oven for 15 minutes, then reduce the oven temperature to 350 degrees F (175 degrees C) and bake for an additional 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "475"
+        },
+        {
+            "Fat": "42g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3cbb441f59d1ecef8d842c6c97dcf37e%2F165231105220220508_190304.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9067155.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7044489.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5845711.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

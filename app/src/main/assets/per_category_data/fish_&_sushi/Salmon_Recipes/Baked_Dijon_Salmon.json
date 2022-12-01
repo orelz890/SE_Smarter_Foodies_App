@@ -1,0 +1,93 @@
+{
+    "title": "Baked Dijon Salmon",
+    "Category": "Salmon Recipes",
+    "Ingredients": [
+        {
+            "1": "0.25 cup butter, melted"
+        },
+        {
+            "2": "3 tablespoons Dijon mustard"
+        },
+        {
+            "3": "0.5 tablespoons honey"
+        },
+        {
+            "4": "0.25 cup dry bread crumbs"
+        },
+        {
+            "5": "0.25 cup finely chopped pecans"
+        },
+        {
+            "6": "4 teaspoons chopped fresh parsley"
+        },
+        {
+            "7": "4 (4 ounce) fillets salmon"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        },
+        {
+            "9": "1  lemon, for garnish"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Stir together butter, mustard, and honey in a small bowl. Set aside. Mix together bread crumbs, pecans, and parsley in another bowl."
+        },
+        {
+            "3": "Brush each salmon fillet lightly with honey mustard mixture, and sprinkle the tops of fillets with bread crumb mixture."
+        },
+        {
+            "4": "Bake salmon in the preheated oven until it flakes easily with a fork, 12 to 15 minutes. Season with salt and pepper, and garnish with a wedge of lemon."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "422"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1789cea70a889713153a66a97dd60095%2F1666198440219image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F61c07d045eabf0b6c76a0304d321c678%2F16483373135A453C64-BC31-4480-B0E0-30CF4471B194.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9278788.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9242935.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/1SSeIpy4UF7VtiB9NhA6PGKkrFY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21176-baked-dijon-salmon-mfs-1-fd980409247d464a95ac9dcb259ae290.jpg"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

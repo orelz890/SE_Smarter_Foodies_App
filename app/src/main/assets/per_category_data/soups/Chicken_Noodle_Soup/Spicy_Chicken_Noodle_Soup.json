@@ -1,0 +1,87 @@
+{
+    "title": "Spicy Chicken Noodle Soup",
+    "Category": "Chicken Noodle Soup",
+    "Ingredients": [
+        {
+            "1": "2  skinless, boneless chicken breast halves, diced"
+        },
+        {
+            "2": "2 cloves garlic, minced"
+        },
+        {
+            "3": "6 cups vegetable broth"
+        },
+        {
+            "4": "3  carrots, sliced"
+        },
+        {
+            "5": "0.5 cup frozen corn"
+        },
+        {
+            "6": "1 (8 ounce) package dried thin rice noodles"
+        },
+        {
+            "7": "1  red bell pepper, diced"
+        },
+        {
+            "8": "1 teaspoon dried basil"
+        },
+        {
+            "9": "0.5 teaspoon chili pepper flakes, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook and stir chicken in a large pot over medium heat until lightly browned, about 5 minutes; stir in garlic and cook until fragrant, about 1 minute."
+        },
+        {
+            "2": "Stir vegetable broth, carrots, and corn into chicken mixture; bring to a boil. Stir rice noodles, red pepper, basil, and chili flakes into chicken mixture; reduce heat and simmer until noodles are tender, about 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "179"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5835930.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4698415.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4480006.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3286652.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

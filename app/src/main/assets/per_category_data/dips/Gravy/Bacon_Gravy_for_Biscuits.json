@@ -1,0 +1,84 @@
+{
+    "title": "Bacon Gravy for Biscuits",
+    "Category": "Gravy",
+    "Ingredients": [
+        {
+            "1": "1 (10 ounce) can refrigerated biscuit dough"
+        },
+        {
+            "2": "4 thick slices bacon"
+        },
+        {
+            "3": "0.25 cup all-purpose flour"
+        },
+        {
+            "4": "1 cup milk, or as needed"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Place biscuits in an ungreased baking pan."
+        },
+        {
+            "3": "Bake in the preheated oven until golden brown, 10 to 13 minutes or as directed on the package instructions."
+        },
+        {
+            "4": "While the biscuits are baking, cook bacon in a deep skillet over medium heat until crisp, about 10 minutes. Transfer bacon to a paper towel-lined plate, reserving bacon grease in the skillet."
+        },
+        {
+            "5": "Whisk flour into bacon grease until smooth. Add milk and continue to stir over medium heat until thickened."
+        },
+        {
+            "6": "Crumble bacon into gravy and season with salt and pepper. Split biscuits in half and top with gravy."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "5 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "282"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9223719.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8452172.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8020296.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7906915.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

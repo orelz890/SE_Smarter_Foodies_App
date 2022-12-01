@@ -1,0 +1,72 @@
+{
+    "title": "Grilled Yams",
+    "Category": "Yam Recipes",
+    "Ingredients": [
+        {
+            "1": "1 olive oil-flavored cooking spray"
+        },
+        {
+            "2": "1 large yam, peeled and cut into 1/2 inch thick slices"
+        },
+        {
+            "3": "1 salt to taste"
+        },
+        {
+            "4": "1 tablespoon butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the grill to high heat and lightly oil the grate."
+        },
+        {
+            "2": "Coat yam slices with cooking spray and season with salt."
+        },
+        {
+            "3": "Arrange yam slices on the grate crosswise, so they don't fall through. Cook until tender and glazed, 10 to 12 minutes per side. Serve with butter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "158"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2433161.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2538124.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F672169f601c041129adcbd9156796aa6%2F210487.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F126041.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}

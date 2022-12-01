@@ -1,0 +1,99 @@
+{
+    "title": "Lettuce Leaf Tacos",
+    "Category": "Lettuce Wraps",
+    "Ingredients": [
+        {
+            "1": "1  green bell pepper, chopped"
+        },
+        {
+            "2": "1  yellow onion, chopped"
+        },
+        {
+            "3": "2 tablespoons olive oil"
+        },
+        {
+            "4": "2 tablespoons chicken stock (Optional)"
+        },
+        {
+            "5": "1 pound ground beef"
+        },
+        {
+            "6": "3 tablespoons taco seasoning"
+        },
+        {
+            "7": "2 large roma (plum) tomatoes, chopped"
+        },
+        {
+            "8": "0.5 teaspoon salt"
+        },
+        {
+            "9": "1 (8 ounce) package shredded Cheddar cheese"
+        },
+        {
+            "10": "12  large romaine lettuce leaves"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook and stir green bell pepper and yellow onion in a skillet over medium heat with olive oil and chicken broth until onion is translucent, about 5 minutes."
+        },
+        {
+            "2": "Place ground beef in a separate skillet over medium heat. Cook and stir with taco seasoning until beef is browned and crumbly, 5 to 8 minutes. Drain excess grease."
+        },
+        {
+            "3": "Sprinkle tomatoes with salt in a bowl. Place Cheddar cheese into a separate bowl."
+        },
+        {
+            "4": "Fill each lettuce leaf with about 2 tablespoons beef filling; top with 1 to 2 teaspoons green pepper mixture, tomato, and about 1 1/2 tablespoons Cheddar cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "12 lettuce-wrapped tacos"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "550"
+        },
+        {
+            "Fat": "39g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F04303da1bae2d59de61f66fafbad5343%2F165923161829A976D2-3000-436A-A3ED-68C8E9FDC19A.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8629819.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7407366.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5743723.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/xyXnX3158rO5tFzgRI6dfPPwmzQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2233942-4fdaf5a5a49a4e138a513edf3a308113.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Cheater Carbonara",
+    "Category": "Pasta Carbonara",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package linguine pasta"
+        },
+        {
+            "2": "1 cup frozen peas"
+        },
+        {
+            "3": "5 slices bacon"
+        },
+        {
+            "4": "1 clove garlic, minced"
+        },
+        {
+            "5": "1 cup milk"
+        },
+        {
+            "6": "0.5 (8 ounce) package cream cheese"
+        },
+        {
+            "7": "0.25 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook linguine at a boil until tender yet firm to the bite, about 11 minutes, adding peas in the last minute of cooking. Drain and keep warm in a bowl."
+        },
+        {
+            "2": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Transfer bacon to paper towels, reserving 1 tablespoon of drippings in the skillet."
+        },
+        {
+            "3": "Add garlic to the skillet; saute for 1 minute. Reduce heat to low and stir in milk and cream cheese until blended."
+        },
+        {
+            "4": "Crumble bacon and add to the linguine along with sauce and Parmesan cheese; stir to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "443"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7854281.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

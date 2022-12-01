@@ -1,0 +1,108 @@
+{
+    "title": "Easy Minestrone",
+    "Category": "Minestrone Soup",
+    "Ingredients": [
+        {
+            "1": "3 tablespoons olive oil"
+        },
+        {
+            "2": "3 cloves garlic, chopped, or more to taste"
+        },
+        {
+            "3": "2  onions, chopped"
+        },
+        {
+            "4": "5  carrots, sliced"
+        },
+        {
+            "5": "4 cups chicken broth"
+        },
+        {
+            "6": "2 (15 ounce) cans diced tomatoes with garlic and oregano"
+        },
+        {
+            "7": "0.5 cup red wine (Optional)"
+        },
+        {
+            "8": "1 (16 ounce) package frozen green beans"
+        },
+        {
+            "9": "1 (15 ounce) can pinto beans, rinsed and drained"
+        },
+        {
+            "10": "1 (10 ounce) package frozen chopped spinach"
+        },
+        {
+            "11": "2 tablespoons chopped fresh basil"
+        },
+        {
+            "12": "1 tablespoon chopped fresh oregano"
+        },
+        {
+            "13": "1 salt and pepper to taste"
+        },
+        {
+            "14": "0.5 cup seashell pasta, or more to taste"
+        },
+        {
+            "15": "0.25 cup freshly grated Parmesan cheese, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a large pot over medium-low heat. Cook and stir garlic in hot oil until fragrant, 2 to 3 minutes. Add onion; cook and stir until slightly softened, 4 to 5 minutes. Stir in carrots until heated through, 1 to 2 minutes."
+        },
+        {
+            "2": "Pour chicken broth and diced tomatoes into onion mixture; bring to a boil, stirring frequently. Add red wine, reduce heat to low, and stir green beans, pinto beans, spinach, basil, oregano, salt, and black pepper into broth mixture. Bring to a simmer, reduce heat to medium-low, and simmer until vegetables are tender, about 40 minutes."
+        },
+        {
+            "3": "Bring a large pot of lightly salted water to a boil. Cook seashell pasta in the boiling water, stirring occasionally until cooked through but firm to the bite, about 8 minutes. Drain and stir pasta into soup. Ladle soup into bowls and top with Parmesan cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "216"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7594493.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7557279.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7349653.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9da2f0128a44780f4a5d4916812d7d53%2F4567083.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

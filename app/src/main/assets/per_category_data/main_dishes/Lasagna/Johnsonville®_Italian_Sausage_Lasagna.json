@@ -1,0 +1,93 @@
+{
+    "title": "Johnsonville\u00ae Italian Sausage Lasagna",
+    "Category": "Lasagna",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package Johnsonville\u00ae Italian Ground Sausage"
+        },
+        {
+            "2": "12  lasagna noodles, cooked and drained"
+        },
+        {
+            "3": "1 medium onion, chopped"
+        },
+        {
+            "4": "2  garlic cloves, minced"
+        },
+        {
+            "5": "4 cups marinara sauce"
+        },
+        {
+            "6": "1 teaspoon dried oregano"
+        },
+        {
+            "7": "2 (15 ounce) containers ricotta cheese"
+        },
+        {
+            "8": "1  egg, beaten"
+        },
+        {
+            "9": "0.5 cup grated Parmesan cheese, divided"
+        },
+        {
+            "10": "2 cups fresh spinach, chopped"
+        },
+        {
+            "11": "2 cups shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a skillet, cook sausage, onion and garlic until pork is no longer pink and onion is tender; drain. Add marinara sauce and oregano; simmer for 5 minutes. In a bowl, combine ricotta cheese, egg, 1/4 cup Parmesan and spinach."
+        },
+        {
+            "2": "In a greased 13-in. x 9-in. x 2-in. baking dish, spread 1 cup meat sauce. Arrange 3 noodles over sauce. Spread one-fourth of the ricotta cheese mixture over the noodles, top with 1 cup of meat sauce. Sprinkle with 1/2 cup mozzarella cheese. Repeat process 3 times. Top with remaining Parmesan cheese. Bake, uncovered, at 350 degrees F for 40 to 45 minutes. Let stand for 10 minutes before cutting. Serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "35 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "889"
+        },
+        {
+            "Fat": "43g"
+        },
+        {
+            "Carbs": "71g"
+        },
+        {
+            "Protein": "52g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9273579.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8256040.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7690523.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6330629.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

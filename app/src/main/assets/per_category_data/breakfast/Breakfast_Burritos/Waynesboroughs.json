@@ -1,0 +1,69 @@
+{
+    "title": "Waynesboroughs",
+    "Category": "Breakfast Burritos",
+    "Ingredients": [
+        {
+            "1": "5 large potatoes, peeled and diced"
+        },
+        {
+            "2": "1 pound pork sausage"
+        },
+        {
+            "3": "6  eggs"
+        },
+        {
+            "4": "10 (8 inch) flour tortillas"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Boil the potatoes in a large saucepan until they are soft, but not mushy. Drain and return to the pan."
+        },
+        {
+            "2": "In a large skillet, brown the sausage until there is no pink left. Drain and set aside."
+        },
+        {
+            "3": "Coat a small skillet with vegetable cooking spray. Over medium heat, scramble the eggs."
+        },
+        {
+            "4": "Mix potatoes, sausage and scrambled eggs thoroughly and place into the flour tortillas."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "534"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "61g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F618b69b8b55b188c34f57271aaed9057%2F1059469.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F635886.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Beef or Moose Jerky",
+    "Category": "Jerky",
+    "Ingredients": [
+        {
+            "1": "3 pounds rump roast"
+        },
+        {
+            "2": "3 cups soy sauce"
+        },
+        {
+            "3": "3 cups packed brown sugar"
+        },
+        {
+            "4": "4 fluid ounces hickory-flavored liquid smoke"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Slice roast into slabs approximately 1/4 inch thick, (Note: you can have this done at the grocery store or butcher). Trim off all of the fat from the edges. Cut the slabs into pencil-like strips (about 1/4 inch wide), and about 4 inches long."
+        },
+        {
+            "2": "In a large bowl, combine the soy sauce, brown sugar and hickory-flavored liquid smoke; blend well. Place all of the meat into the bowl of marinade. Cover and place in refrigerator for at least 30 minutes."
+        },
+        {
+            "3": "Place the meat in a food dehydrator for about 12 to 20 hours, depending how dry you like your jerky. Rotate the trays after 6 hours. For example: Bottom tray on top, top tray on bottom, second tray from bottom to be second tray from top, and so on."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": " 1 hrs"
+        },
+        {
+            "Cook Time": " 12 hrs"
+        },
+        {
+            "Total Time": " 13 hrs"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 to 8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "1129"
+        },
+        {
+            "Fat": "51g"
+        },
+        {
+            "Carbs": "118g"
+        },
+        {
+            "Protein": "53g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fefcb19fa0bb1a34334d9a49601844446%2F1104567.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1104472.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

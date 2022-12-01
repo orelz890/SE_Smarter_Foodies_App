@@ -1,0 +1,75 @@
+{
+    "title": "Cha Cha Cha Sangria",
+    "Category": "Sangria",
+    "Ingredients": [
+        {
+            "1": "1 cup white sugar"
+        },
+        {
+            "2": "1 (750 milliliter) bottle dry white wine"
+        },
+        {
+            "3": "1 (750 milliliter) bottle dry red wine"
+        },
+        {
+            "4": "1  orange, sliced"
+        },
+        {
+            "5": "1  lemon, sliced"
+        },
+        {
+            "6": "1 cup sliced fresh peaches"
+        },
+        {
+            "7": "1 cup sliced fresh strawberries"
+        },
+        {
+            "8": "1 cup seedless red grapes, halved"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine the sugar, white wine, and red wine in a large bowl and stir for several minutes until the sugar is dissolved. Stir in the sliced orange and lemon. Cover and refrigerate for 4 to 6 hours or overnight."
+        },
+        {
+            "2": "Stir the mixture and divide it into pitchers. Add the sliced fruit and serve the sangria over ice."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 to 10 glasses"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "278"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5ccb6e25547c1a473e442550b18d1681%2F164770325620220318_205201.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

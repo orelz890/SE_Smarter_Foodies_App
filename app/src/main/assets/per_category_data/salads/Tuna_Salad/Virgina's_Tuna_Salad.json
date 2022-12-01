@@ -1,0 +1,78 @@
+{
+    "title": "Virgina's Tuna Salad",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "1  egg"
+        },
+        {
+            "2": "1 (5 ounce) can tuna, drained and flaked"
+        },
+        {
+            "3": "3 tablespoons mayonnaise"
+        },
+        {
+            "4": "2 stalks celery, chopped"
+        },
+        {
+            "5": "2 tablespoons sweet pickle relish"
+        },
+        {
+            "6": "1 pinch ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place egg in a saucepan and cover with cold water. Bring water to a boil and immediately remove the pan from heat. Cover and let egg stand in hot water for 10 to 12 minutes. Remove egg from hot water; cool for 5 minutes. Peel and chop into bite-sized pieces."
+        },
+        {
+            "2": "Mix together tuna and mayonnaise in a medium bowl. Mix in chopped egg, celery, relish, and black pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "142"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4584636.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F187186.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5f34c47374e828c7bcb034c80eb81cdb%2F44694.Jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7d3269f33f72c5ccebbf13c61dcc2f61%2F37874.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

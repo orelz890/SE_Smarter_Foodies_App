@@ -1,0 +1,63 @@
+{
+    "title": "Easy Creamy Vanilla Fudge",
+    "Category": "Fudge",
+    "Ingredients": [
+        {
+            "1": "2.25 cups confectioners' sugar"
+        },
+        {
+            "2": "6 tablespoons butter"
+        },
+        {
+            "3": "3 tablespoons milk"
+        },
+        {
+            "4": "1 tablespoon vanilla extract"
+        },
+        {
+            "5": "1 pinch salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Grease a 9x5-inch pan; set aside."
+        },
+        {
+            "2": "Mix confectioners sugar, butter, milk, vanilla, and salt in a 3-quart saucepan over low heat until mixture is hot and creamy."
+        },
+        {
+            "3": "Pour into the prepared pan; refrigerate until fudge has set, about 2 hours. Cut into squares and store in an airtight container in the refrigerator."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "20 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "121"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F659a3fe25c5f7ecb6e0b55afcdd0cc12%2F6463690.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F20c2c28b45d2afd3719a69112a36a23d%2F1026740.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F25424.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

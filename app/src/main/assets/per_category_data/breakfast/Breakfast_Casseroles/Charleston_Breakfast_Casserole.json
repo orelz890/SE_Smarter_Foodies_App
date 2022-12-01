@@ -1,0 +1,102 @@
+{
+    "title": "Charleston Breakfast Casserole",
+    "Category": "Breakfast Casseroles",
+    "Ingredients": [
+        {
+            "1": "12 slices bacon"
+        },
+        {
+            "2": "0.25 cup butter, melted"
+        },
+        {
+            "3": "3 cups croutons"
+        },
+        {
+            "4": "2 cups grated Cheddar cheese"
+        },
+        {
+            "5": "6  eggs"
+        },
+        {
+            "6": "0.75 cups milk"
+        },
+        {
+            "7": "1  bell pepper (any color), diced"
+        },
+        {
+            "8": "1 tablespoon prepared mustard"
+        },
+        {
+            "9": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside."
+        },
+        {
+            "2": "Preheat oven to 325 degrees F (165 degrees C)."
+        },
+        {
+            "3": "Melt butter in the microwave, or in a small pan on the stove over low heat. Spray a 9x12 inch baking dish with vegetable spray. Place croutons in the bottom of the dish, and drizzle with melted butter. Sprinkle with grated Cheddar cheese."
+        },
+        {
+            "4": "Crack the eggs into a bowl, whisking to break up the yolks. Add milk, peppers, mustard, salt, and pepper, and beat until well-combined. Pour over the croutons and cheese, and sprinkle with crumbled bacon."
+        },
+        {
+            "5": "Bake in the preheated oven for 40 minutes. Remove from oven and allow to stand 10 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "388"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8980577.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8861423.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8663592.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8594727.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/CKOam8IMr2VBnBGIvM_AQ3L7DHM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4125514-6546a9fe359348cc93ff723aca433911.jpg"
+        }
+    ],
+    "main category": "breakfast"
+}

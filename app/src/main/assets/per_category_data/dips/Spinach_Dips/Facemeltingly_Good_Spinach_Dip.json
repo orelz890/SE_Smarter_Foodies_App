@@ -1,0 +1,63 @@
+{
+    "title": "Facemeltingly-Good Spinach Dip",
+    "Category": "Spinach Dips",
+    "Ingredients": [
+        {
+            "1": "2 cups mayonnaise"
+        },
+        {
+            "2": "1 (10 ounce) package frozen chopped spinach, thawed and drained"
+        },
+        {
+            "3": "0.5 cup chopped green onion"
+        },
+        {
+            "4": "0.5 cup chopped fresh parsley"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "0.5 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir mayonnaise, spinach, green onion, parsley, salt, and black pepper together in a bowl until well mixed."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "204"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F815217.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

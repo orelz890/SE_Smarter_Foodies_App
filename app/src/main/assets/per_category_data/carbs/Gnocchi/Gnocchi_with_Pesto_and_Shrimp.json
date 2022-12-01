@@ -1,0 +1,84 @@
+{
+    "title": "Gnocchi with Pesto and Shrimp",
+    "Category": "Gnocchi",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package gnocchi"
+        },
+        {
+            "2": "2 tablespoons olive oil, divided"
+        },
+        {
+            "3": "1 bunch fresh asparagus, trimmed and sliced"
+        },
+        {
+            "4": "2 cloves garlic, minced"
+        },
+        {
+            "5": "1 pound uncooked medium shrimp, peeled and deveined"
+        },
+        {
+            "6": "5 ounces pesto, divided"
+        },
+        {
+            "7": "2 tablespoons fresh lemon juice, divided"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook gnocchi in the boiling water until they float to the top, 2 to 4 minutes."
+        },
+        {
+            "2": "Meanwhile, heat 1 tablespoon olive oil over medium-high heat. Saute asparagus and garlic in the hot oil until asparagus is tender, about 5 minutes. Transfer cooked gnocchi to a bowl using a slotted spoon; set aside."
+        },
+        {
+            "3": "Heat remaining olive oil in a large skillet over medium-high heat. Saute shrimp, 2 tablespoons pesto, and 1 tablespoon lemon juice in the hot oil until shrimp are fully cooked and opaque, about 5 minutes. Add cooked gnocchi, asparagus, remaining pesto, and remaining lemon juice; stir to combine. Serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "522"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9400192.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8606558.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8289160.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8233124.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Chinese Green Bean Stir-Fry",
+    "Category": "Chinese Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup vegetable oil"
+        },
+        {
+            "2": "13 pounds fresh green beans, trimmed"
+        },
+        {
+            "3": "5 tablespoons minced garlic"
+        },
+        {
+            "4": "5 tablespoons minced fresh ginger root"
+        },
+        {
+            "5": "2 tablespoons kosher salt"
+        },
+        {
+            "6": "1 tablespoon coarsely ground black pepper"
+        },
+        {
+            "7": "2 (8 ounce) bottles black bean sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large wok, heat oil over medium-high heat. Stir in green beans; cook, stirring frequently, for 1 to 2 minutes. Stir in garlic and ginger; cook, stirring frequently, for 3 to 4 minutes. Season with salt and pepper, and then stir in black bean sauce. Continue cooking until green beans are tender."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "40 "
+        },
+        {
+            "Yield": "10 pounds"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "107"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4542733.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1147845.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F865248.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6e9336006bab76b5bc79b844feaa8cc9%2F479478.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

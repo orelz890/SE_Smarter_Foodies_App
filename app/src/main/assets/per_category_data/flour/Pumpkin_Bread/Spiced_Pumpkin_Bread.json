@@ -1,0 +1,105 @@
+{
+    "title": "Spiced Pumpkin Bread",
+    "Category": "Pumpkin Bread",
+    "Ingredients": [
+        {
+            "1": "0.5 cups white sugar"
+        },
+        {
+            "2": "1 cup light brown sugar"
+        },
+        {
+            "3": "1 cup butter, melted"
+        },
+        {
+            "4": "2  eggs"
+        },
+        {
+            "5": "1 tablespoon vanilla extract"
+        },
+        {
+            "6": "3 cups pumpkin puree"
+        },
+        {
+            "7": "4 cups all-purpose flour"
+        },
+        {
+            "8": "2 tablespoons ground cinnamon"
+        },
+        {
+            "9": "1 tablespoon baking powder"
+        },
+        {
+            "10": "1 tablespoon baking soda"
+        },
+        {
+            "11": "1 teaspoon ground nutmeg"
+        },
+        {
+            "12": "0.5 teaspoon ground cloves"
+        },
+        {
+            "13": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Mix white sugar, brown sugar, and melted butter together in a large bowl. Stir in eggs and vanilla extract; mix in pumpkin until thoroughly combined."
+        },
+        {
+            "3": "Whisk flour, cinnamon, baking powder, baking soda, nutmeg, cloves, and salt together in a separate bowl. Mix flour mixture into pumpkin mixture until incorporated. Pour batter into three 5x9-inch loaf pans. Smooth batter evenly in each pan."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted in the middle of each loaf comes out clean, 45 to 50 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "3 loaves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "247"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9427103.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8790811.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8790729.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7318659.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

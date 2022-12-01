@@ -1,0 +1,90 @@
+{
+    "title": "Cast Iron Cornbread",
+    "Category": "Picnic Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 cup unsalted butter"
+        },
+        {
+            "2": "0.5 cups buttermilk"
+        },
+        {
+            "3": "1 cup cornmeal"
+        },
+        {
+            "4": "2 large eggs"
+        },
+        {
+            "5": "3 tablespoons honey, or to taste"
+        },
+        {
+            "6": "0.5 teaspoon fine salt"
+        },
+        {
+            "7": "1 pinch cayenne pepper"
+        },
+        {
+            "8": "1 cup self-rising flour"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Melt butter in a cast iron skillet. Turn off the heat; set the skillet aside."
+        },
+        {
+            "3": "Whisk buttermilk, cornmeal, eggs, honey, salt, and cayenne pepper together in a large bowl. Add flour and 1/2 of the butter from the pan; whisk again. Pour batter over remaining butter in the skillet."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 25 minutes. Let cool briefly before slicing."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "281"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9238067.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9219125.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9104587.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8904109.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ZBD1QFRQ3TZn3OhE2wPMg6nn1N8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5692570-cast-iron-cornbread-Chef-John-1x1-1-b26ada2a36e84e3796dd82e69d115e31.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

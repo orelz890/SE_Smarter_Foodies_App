@@ -1,0 +1,93 @@
+{
+    "title": "Oat Applesauce Muffins",
+    "Category": "Road Trip Snacks",
+    "Ingredients": [
+        {
+            "1": "1 cup rolled oats"
+        },
+        {
+            "2": "1 cup buttermilk"
+        },
+        {
+            "3": "1 cup whole wheat flour"
+        },
+        {
+            "4": "1 teaspoon baking powder"
+        },
+        {
+            "5": "0.5 teaspoon baking soda"
+        },
+        {
+            "6": "0.5 cup brown sugar"
+        },
+        {
+            "7": "0.5 cup applesauce"
+        },
+        {
+            "8": "1  egg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place oats in a small bowl, pour in buttermilk. Let sit for two hours at room temperature."
+        },
+        {
+            "2": "Preheat oven to 375 degrees F (190 degrees C). Grease 12 muffin cups or line with paper muffin liners."
+        },
+        {
+            "3": "In a large bowl, stir together whole wheat flour, baking powder, baking soda and brown sugar. Stir in oat/buttermilk mixture, applesauce and egg; mix well. Pour batter into prepared muffin cups."
+        },
+        {
+            "4": "Bake in preheated oven for 30 minutes, until a toothpick inserted into center of muffin comes out clean."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 40 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "101"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8695262.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7737552.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F53f34ee5aa272761e97c3ad5c258fc3a%2F5935128.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4530983.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

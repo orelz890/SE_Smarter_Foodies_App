@@ -1,0 +1,81 @@
+{
+    "title": "Roasted Green Beans",
+    "Category": "Appetizers and Snacks",
+    "Ingredients": [
+        {
+            "1": "2 pounds fresh green beans, trimmed"
+        },
+        {
+            "2": "1 tablespoon olive oil, or as needed"
+        },
+        {
+            "3": "1 teaspoon kosher salt"
+        },
+        {
+            "4": "0.5 teaspoon freshly ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Rinse green beans and pat dry with paper towels; spread onto a rimmed baking sheet. Drizzle beans with olive oil, then season with salt and pepper. Use your hands to toss the beans until evenly coated with oil; spread out in a single layer."
+        },
+        {
+            "3": "Roast in the preheated oven until beans are crisp-tender, look slightly shriveled, and start to show golden caramelized spots, 15 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "101"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9171300.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8351550.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8344670.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8243919.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/MK_QL0_wzAJwoMvrHWGJ1gx_Eu0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3587614-16815c7249c84124a66b2a5afc1bf44a.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/iDJq41WGUjQnpXauTy5mWCJpb8k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Screen-Shot-2022-08-11-at-3.27.34-PM-b3be7bf814254122a4f28bd96d30773b.png"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/MK_QL0_wzAJwoMvrHWGJ1gx_Eu0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3587614-16815c7249c84124a66b2a5afc1bf44a.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

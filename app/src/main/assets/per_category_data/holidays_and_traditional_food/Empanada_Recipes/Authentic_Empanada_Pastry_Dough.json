@@ -1,0 +1,75 @@
+{
+    "title": "Authentic Empanada Pastry Dough",
+    "Category": "Empanada Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour, sifted"
+        },
+        {
+            "2": "0.25 cup unsalted butter, chilled and cubed"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "6 tablespoons warm water"
+        },
+        {
+            "5": "1 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine sifted flour and butter in the bowl of a food processor; pulse until crumbly. Add egg and pulse until just combined."
+        },
+        {
+            "2": "Dissolve salt in warm water. Add gradually to the food processor and pulse until a soft dough ball forms. Place dough ball into a bowl and wrap tightly with plastic wrap. Refrigerate for at least 30 minutes."
+        },
+        {
+            "3": "Dust a work surface with flour and knead dough for 1 minute. Roll out thinly and cut into discs. Freeze discs for later, or use them right away for your favorite sweet or savory empanadas."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 pastry discs"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "116"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9009638.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9010166.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5511804.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

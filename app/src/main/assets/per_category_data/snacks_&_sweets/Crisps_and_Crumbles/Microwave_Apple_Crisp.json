@@ -1,0 +1,81 @@
+{
+    "title": "Microwave Apple Crisp",
+    "Category": "Crisps and Crumbles",
+    "Ingredients": [
+        {
+            "1": "4 large Granny Smith apples - peeled, cored and sliced"
+        },
+        {
+            "2": "0.5 cup butter, melted"
+        },
+        {
+            "3": "0.75 cup packed brown sugar"
+        },
+        {
+            "4": "0.75 cup quick cooking oats"
+        },
+        {
+            "5": "0.5 cup all-purpose flour"
+        },
+        {
+            "6": "1 teaspoon ground cinnamon"
+        },
+        {
+            "7": "0.5 teaspoon allspice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Spread the apples evenly in an 8 inch square glass baking dish. A deep dish glass pie plate will also work. In a medium bowl, mix together the melted butter, brown sugar, oats, flour, cinnamon and allspice. Sprinkle this topping evenly over the apples."
+        },
+        {
+            "2": "Cook on full power in the microwave for 10 to 12 minutes, until apples can easily be pierced with a knife. Enjoy!"
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "12 mins"
+        },
+        {
+            "Total Time": "27 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "382"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "60g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9402643.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8670568.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8668377.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8143342.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

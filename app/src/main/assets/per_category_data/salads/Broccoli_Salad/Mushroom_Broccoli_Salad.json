@@ -1,0 +1,93 @@
+{
+    "title": "Mushroom Broccoli Salad",
+    "Category": "Broccoli Salad",
+    "Ingredients": [
+        {
+            "1": "4 slices bacon"
+        },
+        {
+            "2": "4 cups broccoli florets"
+        },
+        {
+            "3": "0.25  red onion, finely chopped"
+        },
+        {
+            "4": "0.25 cup raisins"
+        },
+        {
+            "5": "1 cup chopped cremini mushrooms"
+        },
+        {
+            "6": "0.25 cup sunflower seed kernels"
+        },
+        {
+            "7": "1 cup mayonnaise"
+        },
+        {
+            "8": "0.25 cup white sugar"
+        },
+        {
+            "9": "3 tablespoons apple cider vinegar"
+        },
+        {
+            "10": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large, deep skillet, and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on a paper towel-lined plate; crumble bacon."
+        },
+        {
+            "2": "Combine broccoli, red onion, raisins, mushrooms, sunflower seeds, and crumbled bacon in a large bowl."
+        },
+        {
+            "3": "Mix mayonnaise, sugar, vinegar, salt, and black pepper in a bowl until well blended."
+        },
+        {
+            "4": "Pour mayonnaise mixture over vegetables; toss to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "283"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F802db413915bc6d70030e02535d2ba55%2F6898612.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F963247.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F963447.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

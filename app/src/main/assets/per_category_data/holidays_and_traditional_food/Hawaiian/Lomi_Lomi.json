@@ -1,0 +1,72 @@
+{
+    "title": "Lomi Lomi",
+    "Category": "Hawaiian",
+    "Ingredients": [
+        {
+            "1": "2 cups diced salted salmon"
+        },
+        {
+            "2": "6 medium tomatoes, diced"
+        },
+        {
+            "3": "1  white onion, chopped"
+        },
+        {
+            "4": "0.5 cup chopped green onion"
+        },
+        {
+            "5": "1 sea salt to taste"
+        },
+        {
+            "6": "1 cayenne pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium bowl, stir together the salted salmon, tomatoes, white onion, green onion, sea salt and cayenne pepper. Chill for at least 30 minutes before serving. Serve chilled."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "44"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8215590.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4485284.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4497446.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3dd62937ad85841b345f90ee0301c74b%2F4459409.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Tofu Pumpkin Pie",
+    "Category": "Pumpkin Pie",
+    "Ingredients": [
+        {
+            "1": "1 (10.5 ounce) package silken tofu, drained"
+        },
+        {
+            "2": "1 (16 ounce) can pumpkin puree"
+        },
+        {
+            "3": "0.75 cup white sugar"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "1 teaspoon ground cinnamon"
+        },
+        {
+            "6": "0.5 teaspoon ground ginger"
+        },
+        {
+            "7": "0.25 teaspoon ground cloves"
+        },
+        {
+            "8": "1 (9 inch) unbaked pie crust"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "2": "Place the tofu, pumpkin, sugar, salt, cinnamon, ginger, and clove into a blender. Puree until smooth. Pour into the pie crust."
+        },
+        {
+            "3": "Bake in the preheated oven 15 minutes, then reduce heat to 350 degrees F (175 degrees C), and continue baking until a knife inserted into the mixture comes out clean, about 40 minutes more. Cool before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 2 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "230"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8684031.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc5cd4f2d11c9b689c915391d8a40146f%2F7222772.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6024919.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1852430.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

@@ -1,0 +1,120 @@
+{
+    "title": "Zippy Shepherd's Pie",
+    "Category": "Shepherd's Pie",
+    "Ingredients": [
+        {
+            "1": "1 pound potatoes, peeled and chopped"
+        },
+        {
+            "2": "1 tablespoon canola oil"
+        },
+        {
+            "3": "1 pound ground beef"
+        },
+        {
+            "4": "1 large onion, finely chopped"
+        },
+        {
+            "5": "1  red bell pepper, finely chopped"
+        },
+        {
+            "6": "2 cloves garlic, finely chopped"
+        },
+        {
+            "7": "1 (14 ounce) can beef broth"
+        },
+        {
+            "8": "2 tablespoons ketchup"
+        },
+        {
+            "9": "1 tablespoon soy sauce"
+        },
+        {
+            "10": "1 tablespoon Worcestershire sauce"
+        },
+        {
+            "11": "1 teaspoon mild curry powder"
+        },
+        {
+            "12": "1 tablespoon cornstarch"
+        },
+        {
+            "13": "2  tomatoes, coarsely chopped"
+        },
+        {
+            "14": "1 (16 ounce) package frozen mixed peas and carrots"
+        },
+        {
+            "15": "0.25 cup milk"
+        },
+        {
+            "16": "1 tablespoon butter"
+        },
+        {
+            "17": "1 cup shredded extra-sharp Cheddar cheese"
+        },
+        {
+            "18": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add potatoes, and cook until tender but still firm, about 15 minutes; drain, and return to pan."
+        },
+        {
+            "2": "While potatoes are boiling, heat oil in a large skillet. Cook ground beef with onion, red pepper, and garlic until beef is evenly brown. Stir in beef broth, ketchup, soy sauce, Worcestershire sauce, and curry powder. Bring to a boil, and simmer 3 to 4 minutes. Mix cornstarch with a little water to form a paste, then stir into skillet with tomatoes, peas and carrots. Cook until thickened; season with salt and pepper. Spoon into a casserole dish."
+        },
+        {
+            "3": "Preheat oven on broiler setting. Add milk and butter to cooked potatoes, and whip until smooth and creamy. Spoon over meat mixture. Sprinkle top with shredded cheese."
+        },
+        {
+            "4": "Place under broiler for 3 to 5 minutes, or until cheese is melted and speckled with brown."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "493"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9347894.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9308667.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9121820.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9100434.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

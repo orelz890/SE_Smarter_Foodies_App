@@ -1,0 +1,102 @@
+{
+    "title": "Shepherd's Pie V",
+    "Category": "Shepherd's Pie",
+    "Ingredients": [
+        {
+            "1": "7  potatoes, peeled and cubed"
+        },
+        {
+            "2": "1 pound ground round"
+        },
+        {
+            "3": "1 cup water"
+        },
+        {
+            "4": "2 cubes beef bouillon"
+        },
+        {
+            "5": "1 cube chicken bouillon"
+        },
+        {
+            "6": "1 teaspoon dried rosemary"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "1 teaspoon ground black pepper"
+        },
+        {
+            "9": "1 teaspoon steak seasoning"
+        },
+        {
+            "10": "1 tablespoon dried minced onion flakes"
+        },
+        {
+            "11": "0.5 cups frozen mixed vegetables"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of salted water to a boil. Add potatoes and cook until tender, about 15 minutes. Drain, cool and mash."
+        },
+        {
+            "2": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 2 quart casserole dish."
+        },
+        {
+            "3": "In a large heavy skillet, saute meat until browned on all sides, stirring occasionally. Drain excess fat and return meat to pan over medium heat. Pour in water and season with beef and chicken bouillon, rosemary, salt, pepper, steak seasoning and onion flakes. Stir in frozen vegetables. Cook, stirring occasionally, until most of the water has evaporated."
+        },
+        {
+            "4": "Pour meat mixture into a 2 quart casserole dish. Cover top with mashed potatoes. Bake in preheated oven for 20 to 30 minutes, or until top begins to brown."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": " 1 hrs"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 to 2 - quart casserole"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "189"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8859416.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7018997.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0c8c422bac36162ddd2f11ae127d1f02%2F5315168.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4058517.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

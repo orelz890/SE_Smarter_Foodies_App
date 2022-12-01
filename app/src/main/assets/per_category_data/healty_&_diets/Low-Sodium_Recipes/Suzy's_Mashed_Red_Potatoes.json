@@ -1,0 +1,75 @@
+{
+    "title": "Suzy's Mashed Red Potatoes",
+    "Category": "Low-Sodium Recipes",
+    "Ingredients": [
+        {
+            "1": "2 pounds small red potatoes, quartered"
+        },
+        {
+            "2": "0.5 cup butter"
+        },
+        {
+            "3": "0.5 cup milk"
+        },
+        {
+            "4": "0.25 cup sour cream"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add potatoes, and cook until tender but still firm, about 10 minutes; drain."
+        },
+        {
+            "2": "Transfer potatoes to a large bowl; add butter, milk, sour cream, salt, and pepper. Mash together until smooth and creamy."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "214"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9295917.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9017894.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8942153.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8782176.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/B6vm3WjJjumLRh9SGCAVvkT7iCM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22986_Suzys-Mashed-Red-Potatoes_TTV78_5941207_original-1x1-1-3db544d182a54123978b7809a8187533.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

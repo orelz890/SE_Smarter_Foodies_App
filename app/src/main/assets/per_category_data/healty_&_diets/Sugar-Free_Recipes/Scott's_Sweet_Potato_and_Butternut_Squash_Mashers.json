@@ -1,0 +1,72 @@
+{
+    "title": "Scott's Sweet Potato and Butternut Squash Mashers",
+    "Category": "Sugar-Free Recipes",
+    "Ingredients": [
+        {
+            "1": "3  sweet potato, peeled and cubed"
+        },
+        {
+            "2": "1  butternut squash - peeled, seeded, and cubed"
+        },
+        {
+            "3": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "4": "0.5 teaspoon nutmeg"
+        },
+        {
+            "5": "0.25 cup sugar free maple flavored syrup"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place sweet potatoes and butternut squash into a large pot and cover with water. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer until tender, about 20 minutes. Drain and allow to steam dry for a minute or two."
+        },
+        {
+            "2": "Mash sweet potatoes and butternut squash, then add cinnamon, nutmeg, and syrup. Mix until smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "145"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2c8e238a2312d6abc1ca41032e08499c%2F1656101.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F707511.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F481963.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

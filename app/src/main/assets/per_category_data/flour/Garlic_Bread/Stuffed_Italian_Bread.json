@@ -1,0 +1,78 @@
+{
+    "title": "Stuffed Italian Bread",
+    "Category": "Garlic Bread",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter, melted"
+        },
+        {
+            "2": "3 tablespoons chopped fresh parsley"
+        },
+        {
+            "3": "2 tablespoons olive oil"
+        },
+        {
+            "4": "3 cloves garlic, minced"
+        },
+        {
+            "5": "1 loaf Italian bread"
+        },
+        {
+            "6": "12 ounces shredded Italian cheese blend"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Mix melted butter, parsley, olive oil, and garlic together in a bowl."
+        },
+        {
+            "3": "Slice bread diagonally without cutting all the way through; do the same on the opposite diagonal to create cube-shaped sections still attached to the bottom crust."
+        },
+        {
+            "4": "Spoon butter mixture carefully between sections; stuff in shredded Italian cheese blend. Wrap loaf in aluminum foil."
+        },
+        {
+            "5": "Bake in the preheated oven for 15 minutes; unwrap and bake until cheese is melted, about 10 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "401"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7569341.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

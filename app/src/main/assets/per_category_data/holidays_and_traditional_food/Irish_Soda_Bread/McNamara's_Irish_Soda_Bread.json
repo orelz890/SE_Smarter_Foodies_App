@@ -1,0 +1,111 @@
+{
+    "title": "McNamara's Irish Soda Bread",
+    "Category": "Irish Soda Bread",
+    "Ingredients": [
+        {
+            "1": "1.0 cups all-purpose flour"
+        },
+        {
+            "2": "0.5 teaspoon baking powder"
+        },
+        {
+            "3": "1 teaspoon baking soda"
+        },
+        {
+            "4": "9 tablespoons white sugar"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "1.5 tablespoons butter, softened"
+        },
+        {
+            "7": "0.5 cup milk"
+        },
+        {
+            "8": "2  eggs"
+        },
+        {
+            "9": "0.5 cup raisins"
+        },
+        {
+            "10": "1 tablespoon white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Grease an 8 1/2x4 1/2-inch loaf pan."
+        },
+        {
+            "3": "Mix flour, baking powder, baking soda, 9 tablespoons sugar, and salt in the mixing bowl of a large stand mixer on low speed until combined."
+        },
+        {
+            "4": "Mix in butter until thoroughly combined."
+        },
+        {
+            "5": "Beat in milk, then eggs, then raisins, incorporating each ingredient well before adding the next."
+        },
+        {
+            "6": "Transfer dough to the prepared loaf pan and sprinkle with 1 tablespoon sugar."
+        },
+        {
+            "7": "Bake in the preheated oven until bread has risen and the top is golden brown, about 45 minutes. A toothpick or cake tester inserted into the center should come out clean."
+        },
+        {
+            "8": "Cool for about 10 minutes before slicing. Best served warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "200"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9b88a48f98a56ab96617bd6407e27c11%2F4568974.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4485616.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1778633.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F14d5bbfcdeab0881d16ae880dd1b9d51%2F822856.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

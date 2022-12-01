@@ -1,0 +1,96 @@
+{
+    "title": "Quick Taco Salad",
+    "Category": "Taco Salad",
+    "Ingredients": [
+        {
+            "1": "2 pounds ground beef chuck"
+        },
+        {
+            "2": "2 envelopes taco seasoning mix"
+        },
+        {
+            "3": "0.5 cups water"
+        },
+        {
+            "4": "1  onion, chopped"
+        },
+        {
+            "5": "2 cups green leaf lettuce, shredded"
+        },
+        {
+            "6": "1 cup cherry tomatoes, halved"
+        },
+        {
+            "7": "2 cups shredded Cheddar/Monterey Jack cheese blend"
+        },
+        {
+            "8": "0.5 cup chopped black olives"
+        },
+        {
+            "9": "2 cups salsa"
+        },
+        {
+            "10": "2  jalapeno peppers, seeded and chopped (Optional)"
+        },
+        {
+            "11": "1 cup sour cream"
+        },
+        {
+            "12": "1 (10.5 ounce) bag corn chips (such as Fritos\u00ae)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Brown ground beef in a large skillet over medium heat until crumbly and no longer pink, about 10 minutes; drain excess grease. Mix in taco seasoning mix and water. Bring the beef mixture to a boil and cook until thickened, about 10 more minutes. Transfer beef to a serving bowl."
+        },
+        {
+            "2": "Place chopped onion, lettuce, cherry tomatoes, Cheddar cheese, black olives, salsa, jalapeno peppers, sour cream, and corn chips in individual serving bowls. Allow diners to assemble their own salads from the ingredients."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "35 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "638"
+        },
+        {
+            "Fat": "41g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3839640.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0eff8c686f8ed315369b8daea7c68508%2F3290237.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2220873.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2214616.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

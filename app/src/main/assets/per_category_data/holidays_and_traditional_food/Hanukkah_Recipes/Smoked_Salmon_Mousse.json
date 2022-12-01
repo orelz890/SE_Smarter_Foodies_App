@@ -1,0 +1,75 @@
+{
+    "title": "Smoked Salmon Mousse",
+    "Category": "Hanukkah Recipes",
+    "Ingredients": [
+        {
+            "1": "4 ounces smoked salmon"
+        },
+        {
+            "2": "2 tablespoons heavy cream"
+        },
+        {
+            "3": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "4": "0.5  lemon, juiced"
+        },
+        {
+            "5": "0.5 teaspoon dried dill weed to taste"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        },
+        {
+            "7": "1 ounce salmon roe"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place smoked salmon in a blender or food processor, and blend until smooth. Mix in heavy cream, cream cheese, juice of half of a lemon, dried dill weed, salt and pepper. Blend to desired consistency. Transfer to a medium serving dish, and garnish with salmon roe."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "67"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8556208.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7242939.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbf78349db6319a3d6e52995896e21951%2F1795045.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7137.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

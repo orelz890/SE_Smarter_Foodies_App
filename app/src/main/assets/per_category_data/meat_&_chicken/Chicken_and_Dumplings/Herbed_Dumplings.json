@@ -1,0 +1,87 @@
+{
+    "title": "Herbed Dumplings",
+    "Category": "Chicken and Dumplings",
+    "Ingredients": [
+        {
+            "1": "0.5 cups all-purpose flour"
+        },
+        {
+            "2": "1 teaspoon salt"
+        },
+        {
+            "3": "1 teaspoon baking soda"
+        },
+        {
+            "4": "2 teaspoons baking powder"
+        },
+        {
+            "5": "1 teaspoon dried thyme"
+        },
+        {
+            "6": "1 teaspoon dried parsley"
+        },
+        {
+            "7": "1 teaspoon dried oregano"
+        },
+        {
+            "8": "3 tablespoons butter"
+        },
+        {
+            "9": "0.75 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a bowl, mix the flour, salt, baking soda, baking powder, thyme, parsley, and oregano. Cut in butter until the mixture resembles coarse crumbs. Gradually add milk, using just enough to form a thick batter."
+        },
+        {
+            "2": "Drop by rounded tablespoons into your simmering soup or stew, cover, and allow to cook 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "182"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9003214.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8902366.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8655392.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8383562.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

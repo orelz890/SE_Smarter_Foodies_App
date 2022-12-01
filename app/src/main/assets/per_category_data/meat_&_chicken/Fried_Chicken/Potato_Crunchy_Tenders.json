@@ -1,0 +1,84 @@
+{
+    "title": "Potato Crunchy Tenders",
+    "Category": "Fried Chicken",
+    "Ingredients": [
+        {
+            "1": "0.5 cup vegetable oil for frying"
+        },
+        {
+            "2": "0.5 cups milk"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "1 (7.6 ounce) package garlic flavored instant mashed potatoes"
+        },
+        {
+            "5": "2 teaspoons salt"
+        },
+        {
+            "6": "2 teaspoons ground black pepper"
+        },
+        {
+            "7": "0.5 pounds chicken tenders"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat the oil in a large skillet over medium heat."
+        },
+        {
+            "2": "While the oil is heating, beat the milk and egg together in a bowl. In another bowl, stir together the instant mashed potatoes, salt, and pepper."
+        },
+        {
+            "3": "Stir the chicken tenders with the milk mixture to coat thoroughly, then shake off excess milk and dip each tender into the potato flakes. Place the breaded tenders into the hot oil, and fry until golden brown, 7 to 10 minutes. Remove from oil and drain on paper towels."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "556"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "45g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9395594.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9373140.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9138943.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9138941.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

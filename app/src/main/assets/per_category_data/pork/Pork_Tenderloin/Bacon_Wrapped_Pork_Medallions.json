@@ -1,0 +1,90 @@
+{
+    "title": "Bacon Wrapped Pork Medallions",
+    "Category": "Pork Tenderloin",
+    "Ingredients": [
+        {
+            "1": "8 slices bacon"
+        },
+        {
+            "2": "1 tablespoon garlic powder"
+        },
+        {
+            "3": "1 teaspoon seasoned salt"
+        },
+        {
+            "4": "1 teaspoon dried basil"
+        },
+        {
+            "5": "1 teaspoon dried oregano"
+        },
+        {
+            "6": "2 pounds pork tenderloin"
+        },
+        {
+            "7": "2 tablespoons butter"
+        },
+        {
+            "8": "2 tablespoons olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Place the bacon in a large, oven-safe skillet, and cook over medium-high heat, turning occasionally, until lightly browned and still flexible, 6 to 7 minutes. Drain the bacon slices on a paper towel-lined plate. Remove any excess bacon grease from the skillet. Combine garlic powder, seasoning salt, basil, and oregano in a small bowl. Set aside."
+        },
+        {
+            "3": "Wrap the pork tenderloin with the bacon strips securing with 1 or 2 toothpicks per strip of bacon. Slice the tenderloin between each bacon strip to create the medallions. Dip both sides of the medallions in seasoning mix. Melt butter and oil together in the same skillet over medium-high heat. Cook each medallion for 4 minutes on each side."
+        },
+        {
+            "4": "Place skillet into the preheated oven and bake until the pork is no longer pink in the center, 17 to 20 minutes. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "417"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "42g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9033341.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8760408.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8654961.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8466458.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

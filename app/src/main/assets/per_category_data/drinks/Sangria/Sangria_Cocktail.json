@@ -1,0 +1,72 @@
+{
+    "title": "Sangria Cocktail",
+    "Category": "Sangria",
+    "Ingredients": [
+        {
+            "1": "0.75 cup superfine sugar"
+        },
+        {
+            "2": "1 cup tap water"
+        },
+        {
+            "3": "1  orange, sliced"
+        },
+        {
+            "4": "1  lime, sliced"
+        },
+        {
+            "5": "5 (750 milliliter) bottles red wine"
+        },
+        {
+            "6": "12 cubes  ice cubes"
+        },
+        {
+            "7": "6 fluid ounces sparkling water"
+        },
+        {
+            "8": "1 cup fresh raspberries, blackberries, blueberries, or halved strawberries"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Dissolve sugar in tap water in a large pitcher. Add orange slices, lime slices, and wine. Stir in ice cubes until cold. Top with sparkling water. Serve in red-wine glasses, with fresh berries in each glass."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "30 "
+        },
+        {
+            "Yield": "30 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "128"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2303280.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1060864.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://www.allrecipes.com/thmb/3eGl49K-Y7QsIyflr8UrfsyGfM0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2303280-19d379feb74d41659f68b33b42ab0335.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

@@ -1,0 +1,105 @@
+{
+    "title": "Dad's New Zealand Mince Stew",
+    "Category": "Beef Stew",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon vegetable oil"
+        },
+        {
+            "2": "3 large onions, sliced"
+        },
+        {
+            "3": "2 pounds ground beef"
+        },
+        {
+            "4": "2 cloves garlic, chopped"
+        },
+        {
+            "5": "1 cup water"
+        },
+        {
+            "6": "2 cups ketchup"
+        },
+        {
+            "7": "1 cup beef stock"
+        },
+        {
+            "8": "2 tablespoons teriyaki sauce"
+        },
+        {
+            "9": "3 tablespoons black pepper"
+        },
+        {
+            "10": "1 tablespoon curry powder"
+        },
+        {
+            "11": "1 teaspoon garlic powder"
+        },
+        {
+            "12": "1 tablespoon onion powder"
+        },
+        {
+            "13": "1 tablespoon all-purpose flour"
+        },
+        {
+            "14": "0.5 cup water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large pot over medium heat. Saute onions until browned; remove from pot, and set aside. Add ground beef to pot, and cook until evenly brown. Add garlic, and cook for 2 minutes. Stir in browned onions, and cook on high heat for 3 to 5 minutes. Stir in 1 cup of water. Reduce heat, cover, and simmer for 20 minutes."
+        },
+        {
+            "2": "Stir in ketchup, beef stock, and teriyaki sauce. Season with pepper, curry powder, garlic powder, and onion powder. Cover, and simmer for about 2 hours."
+        },
+        {
+            "3": "Mix together 1 tablespoon flour and 1/2 cup water. Stir into stew, and cook until thickened."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "45 mins"
+        },
+        {
+            "Cook Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "474"
+        },
+        {
+            "Fat": "32g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F969356.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F969369.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F69521.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F20539.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

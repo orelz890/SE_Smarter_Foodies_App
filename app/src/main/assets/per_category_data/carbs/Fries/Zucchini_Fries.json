@@ -1,0 +1,75 @@
+{
+    "title": "Zucchini Fries",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil"
+        },
+        {
+            "2": "1  zucchini, quartered lengthwise and cut into 1/2-inch pieces"
+        },
+        {
+            "3": "3 tablespoons olive oil"
+        },
+        {
+            "4": "1 salt and ground black pepper to taste"
+        },
+        {
+            "5": "2 cups bread crumbs, divided"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil."
+        },
+        {
+            "2": "Drizzle 2 tablespoons olive oil onto the prepared baking sheet; place zucchini slices in the oil. Drizzle 3 more tablespoons olive oil over zucchini slices; season with salt and black pepper. Toss coated zucchini slices with 1 cup bread crumbs."
+        },
+        {
+            "3": "Bake in the preheated oven for 15 minutes. Toss zucchini slices with remaining 1 cup bread crumbs. Return to oven and bake until zucchini is soft and bread crumbs are lightly browned, 15 to 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "245"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8168926.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2515051.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F969335.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

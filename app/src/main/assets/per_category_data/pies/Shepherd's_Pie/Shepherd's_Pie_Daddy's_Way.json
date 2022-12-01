@@ -1,0 +1,81 @@
+{
+    "title": "Shepherd's Pie Daddy's Way",
+    "Category": "Shepherd's Pie",
+    "Ingredients": [
+        {
+            "1": "5 medium potatoes, peeled and chopped"
+        },
+        {
+            "2": "1 pound ground beef"
+        },
+        {
+            "3": "6 slices American cheese"
+        },
+        {
+            "4": "1 (10.75 ounce) can  condensed golden mushroom soup"
+        },
+        {
+            "5": "3 teaspoons butter (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Place the potatoes into a large saucepan with enough water to cover. Bring to a boil, and cook for 8 to 10 minutes, or until tender. Drain, and mash."
+        },
+        {
+            "3": "While the potatoes are cooking, crumble the ground beef into a large skillet over medium-high heat. Cook and stir until evenly browned. Drain off the grease, then stir in the golden mushroom soup. Transfer to an 8 inch square baking dish, and place the slices of cheese over the meat. Spread the mashed potatoes evenly over the top. Dot with butter."
+        },
+        {
+            "4": "Bake for 20 to 25 minutes in the preheated oven, or until the top is golden brown."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "642"
+        },
+        {
+            "Fat": "32g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff7fb52aa2394d086bf5f2be280d3c921%2F4513749.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F59876f5e59ae3a1d7c2c8b679131fcbe%2F4513750.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F996985.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F806600.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

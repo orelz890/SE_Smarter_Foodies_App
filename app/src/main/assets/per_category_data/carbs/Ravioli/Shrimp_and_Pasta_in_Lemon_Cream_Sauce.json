@@ -1,0 +1,78 @@
+{
+    "title": "Shrimp and Pasta in Lemon Cream Sauce",
+    "Category": "Ravioli",
+    "Ingredients": [
+        {
+            "1": "1 (9 ounce) package BUITONI\u00ae Refrigerated Light Four Cheese Ravioli, prepared according to package directions"
+        },
+        {
+            "2": "12 ounces cooked medium shrimp"
+        },
+        {
+            "3": "1 (10 ounce) container BUITONI\u00ae Refrigerated Light Alfredo Sauce"
+        },
+        {
+            "4": "1 tablespoon lemon juice"
+        },
+        {
+            "5": "1 teaspoon grated lemon peel"
+        },
+        {
+            "6": "1 tablespoon Chopped fresh parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine shrimp, sauce, lemon juice and lemon peel in small saucepan. Heat over medium-low heat, stirring occasionally, until heated through (do not boil)."
+        },
+        {
+            "2": "Serve over pasta. Sprinkle with parsley."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "341"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa6900593f60dda165fe3d1415646b1a5%2F7392077.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6648573.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5619428.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6c13feb9d1d6d02ff348e09a5d13cdf5%2F4465003.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

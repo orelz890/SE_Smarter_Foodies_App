@@ -1,0 +1,105 @@
+{
+    "title": "The Best Thai Coconut Soup",
+    "Category": "Soup",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon vegetable oil"
+        },
+        {
+            "2": "2 tablespoons grated fresh ginger"
+        },
+        {
+            "3": "2 teaspoons red curry paste"
+        },
+        {
+            "4": "1 stalk lemon grass, minced"
+        },
+        {
+            "5": "4 cups chicken broth"
+        },
+        {
+            "6": "3 tablespoons fish sauce"
+        },
+        {
+            "7": "1 tablespoon light brown sugar"
+        },
+        {
+            "8": "3 (13.5 ounce) cans coconut milk"
+        },
+        {
+            "9": "0.5 pound fresh shiitake mushrooms, sliced"
+        },
+        {
+            "10": "1 pound medium shrimp - peeled and deveined"
+        },
+        {
+            "11": "2 tablespoons fresh lime juice"
+        },
+        {
+            "12": "1 salt to taste"
+        },
+        {
+            "13": "0.25 cup chopped fresh cilantro"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large pot over medium heat. Add ginger, curry paste, and lemongrass; cook and stir in the hot oil for 1 minute."
+        },
+        {
+            "2": "Gradually stir in chicken broth, then stir in fish sauce and brown sugar; reduce heat to low and simmer for 15 minutes."
+        },
+        {
+            "3": "Add coconut milk and mushrooms; cook and stir until mushrooms are soft, about 5 minutes."
+        },
+        {
+            "4": "Add shrimp; cook until no longer translucent, about 5 minutes. Stir in lime juice; season with salt and garnish with cilantro."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "368"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0b2b0ae0fc2ce82256e7c7e5c4399fc0%2F166887972721420221106_175818.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0b2b0ae0fc2ce82256e7c7e5c4399fc0%2F1668353648965ThaiCoconutSoupResized.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6303d5a8b3246834ae57811fe5433377%2F1664076481IMG_20220924_231012.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6303d5a8b3246834ae57811fe5433377%2F165894798020220727_145225.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/xKptdwpGXDCfzusSblsr21L4FB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2319909-the-best-thai-coconut-soup-Aja-1x1-1-d2385a72da884e75a7364d6ecca5680e.jpg"
+        }
+    ],
+    "main category": "soups"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Doritos\u00ae Taco Salad",
+    "Category": "Taco Salad",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "1 medium onion, finely diced"
+        },
+        {
+            "3": "1 salt and ground black pepper to taste"
+        },
+        {
+            "4": "0.25 cup water"
+        },
+        {
+            "5": "0.5 tablespoons taco seasoning mix"
+        },
+        {
+            "6": "1 (15 ounce) can dark red kidney beans, drained"
+        },
+        {
+            "7": "0.5 (12 ounce) bag nacho cheese-flavored corn chips (such as Doritos\u00ae), crushed"
+        },
+        {
+            "8": "1 large head romaine lettuce, chopped"
+        },
+        {
+            "9": "0.5 medium tomatoes, diced"
+        },
+        {
+            "10": "0.5 cup shredded Cheddar cheese, or more to taste"
+        },
+        {
+            "11": "0.5 cup Catalina salad dressing, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large nonstick skillet over medium to medium-high heat and saute ground beef, diced onion, salt, and pepper together until ground beef is browned and no longer pink and onions are tender, about 10 minutes. Add 1/4 cup water and taco seasoning to the meat. Stir to coat and allow to simmer for 1 minute to thicken. Set aside to cool while you prep the salad."
+        },
+        {
+            "2": "Add kidney beans, crushed chips, lettuce, tomatoes, Cheddar cheese, and dressing to a large bowl. Top with meat mixture and toss gently to evenly combine. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "509"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9234451.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9102778.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

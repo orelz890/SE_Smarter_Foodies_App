@@ -1,0 +1,90 @@
+{
+    "title": "Bulgogi (Korean BBQ)",
+    "Category": "Bulgogi",
+    "Ingredients": [
+        {
+            "1": "1 cup soy sauce"
+        },
+        {
+            "2": "0.5 cup pear juice or white wine"
+        },
+        {
+            "3": "3 tablespoons white sugar"
+        },
+        {
+            "4": "2 tablespoons chopped garlic"
+        },
+        {
+            "5": "1 teaspoon sesame oil"
+        },
+        {
+            "6": "1 teaspoon sesame seeds"
+        },
+        {
+            "7": "1 tablespoon ground black pepper"
+        },
+        {
+            "8": "1 teaspoon monosodium glutamate"
+        },
+        {
+            "9": "1 (2 pound) beef rump roast, sliced into thin strips"
+        },
+        {
+            "10": "1  onion, cut into thin strips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, mix together soy sauce, pear juice, sugar, garlic, sesame oil, sesame seeds, black pepper, and monosodium glutamate; add beef and onions. Stir to coat, cover, and refrigerate for 1 hour."
+        },
+        {
+            "2": "Preheat a grill pan over high heat and brush with oil; add beef and onions. Cook, turning to brown evenly, for 3 to 6 minutes, or until done."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "439"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "44g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9293040.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9096510.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9068468.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7599931.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

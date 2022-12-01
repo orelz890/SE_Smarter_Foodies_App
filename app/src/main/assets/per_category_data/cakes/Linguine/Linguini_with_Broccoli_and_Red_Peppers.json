@@ -1,0 +1,93 @@
+{
+    "title": "Linguini with Broccoli and Red Peppers",
+    "Category": "Linguine",
+    "Ingredients": [
+        {
+            "1": "1 pound linguini pasta"
+        },
+        {
+            "2": "1 pound fresh broccoli, chopped"
+        },
+        {
+            "3": "3 tablespoons extra virgin olive oil"
+        },
+        {
+            "4": "1 tablespoon butter"
+        },
+        {
+            "5": "3 cloves garlic, minced"
+        },
+        {
+            "6": "1  red bell pepper, thinly sliced"
+        },
+        {
+            "7": "1 pinch garlic salt"
+        },
+        {
+            "8": "0.25 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+            "2": "Steam broccoli with 2 tablespoons water in microwave for 6-7 minutes."
+        },
+        {
+            "3": "In 10-inch skillet, heat olive oil and butter over low heat. Stir in garlic (more or less to suit your tastes) and red pepper slices; saute gently."
+        },
+        {
+            "4": "Drain broccoli and add to skillet. Sprinkle lightly with garlic salt and saute broccoli and peppers until soft."
+        },
+        {
+            "5": "Toss vegetable mixture with hot pasta. Sprinkle with Parmesan cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "393"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "61g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9345221.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9245757.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F49b25b32aa0c87fe2d7ee19dcf0a84a2%2F6345006.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1328b11b399522d9965c947a7aba7846%2F5217782.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

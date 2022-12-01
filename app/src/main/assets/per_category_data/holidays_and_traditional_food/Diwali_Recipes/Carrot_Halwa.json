@@ -1,0 +1,72 @@
+{
+    "title": "Carrot Halwa",
+    "Category": "Diwali Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup ghee (clarified butter)"
+        },
+        {
+            "2": "2 cups grated carrots"
+        },
+        {
+            "3": "0.5 cups milk"
+        },
+        {
+            "4": "0.5 cups water"
+        },
+        {
+            "5": "0.5 cups white sugar"
+        },
+        {
+            "6": "0.5 cup raisins"
+        },
+        {
+            "7": "1 tablespoon ground cardamom"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt ghee in a saucepan over medium heat. Add carrots; cook and stir until soft, about 5 minutes. Add milk and bring to a boil. Cook and stir until thickened, about 10 minutes. Reduce heat to medium."
+        },
+        {
+            "2": "Combine water and sugar in a bowl; stir to dissolve. Add to the saucepan with the carrots. Stir in raisins and cardamom. Cook and stir until raisins are plumped and mixture is thickened, about 10 minutes. Remove from heat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "284"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff93bdb61a374be7273a1794bedb2e486%2F6112525.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Ham, Potato, and Cheese Soup",
+    "Category": "Potato Soup",
+    "Ingredients": [
+        {
+            "1": "12  potatoes, peeled and cubed"
+        },
+        {
+            "2": "2 large onions, finely chopped"
+        },
+        {
+            "3": "2 pounds processed cheese food (eg. Velveeta)"
+        },
+        {
+            "4": "1 pound chopped ham"
+        },
+        {
+            "5": "1 ground black pepper to taste"
+        },
+        {
+            "6": "1.5 tablespoons all-purpose flour"
+        },
+        {
+            "7": "1 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place potatoes, onion, and cubed ham in large stockpot. Cover with water. Cook until potatoes are almost tender."
+        },
+        {
+            "2": "Remove about one cup of the cooked potatoes and mash in a bowl with the back of a fork. Add some of the liquid from the pan (about a tablespoon at a time) along with the flour till you have a thick paste. Add this back to the pot."
+        },
+        {
+            "3": "Place the cheese (either whole of cubed) in the pot. Let the soup simmer until the cheese melts and is thick. Add ground black pepper to taste and stir in the milk."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "321"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9417459.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8908641.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc63eb2c9539e0c95c33abe4d9b673aa2%2F7446541.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F751f58311027ac0ef5413f0c254817e5%2F5290781.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

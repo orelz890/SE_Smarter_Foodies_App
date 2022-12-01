@@ -1,0 +1,93 @@
+{
+    "title": "Curried Wild Rice and Squash Soup",
+    "Category": "Butternut Squash Soup",
+    "Ingredients": [
+        {
+            "1": "1 cup uncooked wild rice"
+        },
+        {
+            "2": "3 cups water"
+        },
+        {
+            "3": "1.0 pounds butternut squash - peeled, seeded, and cubed"
+        },
+        {
+            "4": "1.0 cups chicken broth"
+        },
+        {
+            "5": "0.5 cup orange juice"
+        },
+        {
+            "6": "2 tablespoons butter"
+        },
+        {
+            "7": "1 medium onion, chopped"
+        },
+        {
+            "8": "1 clove garlic, finely chopped"
+        },
+        {
+            "9": "0.5 teaspoons curry powder"
+        },
+        {
+            "10": "0.25 teaspoons salt"
+        },
+        {
+            "11": "0.5 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a pot, bring the wild rice and water to a boil. Reduce heat to low, cover, and simmer 45 minutes."
+        },
+        {
+            "2": "Place the squash in a medium pot with enough water to cover, and bring to a boil. Cook 15 minutes, or until tender. Drain, return to the pot, and mash. Mix in the chicken broth and orange juice."
+        },
+        {
+            "3": "Melt the butter in a skillet over medium heat, and saute the onion and garlic until tender. Season with the curry powder. Reduce heat to low, and continue cooking about 12 minutes, stirring occasionally."
+        },
+        {
+            "4": "In a blender or food processor, blend the squash and broth with the onion and garlic mixture until smooth. Return to the medium pot, mix in the cooked wild rice, and cook until heated through. Season with salt and pepper to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "309"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "61g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F175d4715e6a8873df2b3c8e92e8caad8%2F3046825.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F25043.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

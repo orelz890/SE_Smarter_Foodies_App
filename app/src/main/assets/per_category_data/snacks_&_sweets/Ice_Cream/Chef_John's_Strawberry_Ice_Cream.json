@@ -1,0 +1,90 @@
+{
+    "title": "Chef John's Strawberry Ice Cream",
+    "Category": "Ice Cream",
+    "Ingredients": [
+        {
+            "1": "12 ounces fresh strawberries, hulled"
+        },
+        {
+            "2": "0.75 cup white sugar"
+        },
+        {
+            "3": "2 cups heavy whipping cream"
+        },
+        {
+            "4": "1 cup milk"
+        },
+        {
+            "5": "1 teaspoon vanilla extract"
+        },
+        {
+            "6": "1 tiny pinch salt"
+        },
+        {
+            "7": "2 drops red food coloring (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place strawberries and sugar in a blender and pulse until pureed; steep for 10 minutes."
+        },
+        {
+            "2": "Pour cream, milk, vanilla extract, and salt into strawberry mixture; blend until smooth and slightly thickened, 10 to 15 seconds. Whisk red food color into cream mixture."
+        },
+        {
+            "3": "Pour strawberry mixture into the container of an ice cream maker and freeze according to the manufacturer's instructions. Transfer ice cream to a sealable container, cover the ice cream with plastic wrap, seal the container, and freeze, 2 hours to overnight."
+        },
+        {
+            "4": "Process in an ice cream maker until thick. Immediately transfer to a sealable container, cover with plastic wrap, cover the bowl with a lid and freeze for 2 hours to overnight."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": " 2 hrs 45 mins"
+        },
+        {
+            "Total Time": " 2 hrs 55 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "205"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8407224.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8190997.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8008796.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa866d17998375b59c683173d0053538f%2F6903530.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/81lSg8ofA1ni9b2aN9lPfczHHxw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2300442-cdaba30037824c53abc487e8782b3c31.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Brown Sugar Spiced Shortbread",
+    "Category": "Shortbread Cookies",
+    "Ingredients": [
+        {
+            "1": "0.25 cups all-purpose flour"
+        },
+        {
+            "2": "3 tablespoons brown sugar"
+        },
+        {
+            "3": "1 tablespoon white sugar"
+        },
+        {
+            "4": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "5": "0.5 cup butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 325 degrees F (165 degrees C)."
+        },
+        {
+            "2": "In a medium bowl, stir together the flour, brown sugar, white sugar and cinnamon. Cut in the butter until the mixture is like fine crumbs. Pack the crumbs into a ball, then knead by hand until smooth. On a lightly floured surface, roll the dough out into an 8 inch circle. Place the circle on a baking sheet, and slice into 16 wedges. Leave the circle intact."
+        },
+        {
+            "3": "Bake for 25 minutes in the preheated oven, or until the center has set. Cut the circle into wedges again while it is still warm, and transfer to a wire rack to cool."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "99"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb4a5d3d58880d360da62e69265813686%2F6442095.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7cf6b355677b11c1f80afb014e1ec549%2F4554674.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2261297.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1106200.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

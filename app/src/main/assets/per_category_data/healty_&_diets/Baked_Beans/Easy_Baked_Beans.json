@@ -1,0 +1,78 @@
+{
+    "title": "Easy Baked Beans",
+    "Category": "Baked Beans",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "2 (16 ounce) cans pork and beans"
+        },
+        {
+            "3": "0.75 cup brown sugar"
+        },
+        {
+            "4": "0.25 cup ketchup"
+        },
+        {
+            "5": "0.25 cup barbeque sauce"
+        },
+        {
+            "6": "4 slices bacon, cut into 1/2-inch pieces"
+        },
+        {
+            "7": "1 teaspoon dry mustard"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 325 degrees F (165 degrees C). Prepare a 9-inch baking dish with cooking spray."
+        },
+        {
+            "2": "Stir pork and beans, brown sugar, ketchup, barbeque sauce, bacon, and dry mustard together in the prepared baking dish."
+        },
+        {
+            "3": "Bake in preheated oven, stirring every 20 minutes or so, until bacon fat is rendered throughout the beans mixture, 2 1/4 to 2 1/2 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 2 hrs 15 mins"
+        },
+        {
+            "Total Time": " 2 hrs 25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "350"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "56g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6997552.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd356420304a868e721fec95730480614%2F2268693.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

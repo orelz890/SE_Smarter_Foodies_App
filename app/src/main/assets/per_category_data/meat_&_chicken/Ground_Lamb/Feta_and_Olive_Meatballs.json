@@ -1,0 +1,87 @@
+{
+    "title": "Feta and Olive Meatballs",
+    "Category": "Ground Lamb",
+    "Ingredients": [
+        {
+            "1": "1 pound ground lamb"
+        },
+        {
+            "2": "0.5 cup chopped fresh parsley"
+        },
+        {
+            "3": "2 tablespoons finely chopped onion"
+        },
+        {
+            "4": "0.5 cup crumbled feta cheese"
+        },
+        {
+            "5": "0.5 cup chopped green olives"
+        },
+        {
+            "6": "2  eggs"
+        },
+        {
+            "7": "1 teaspoon Italian seasoning"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat your oven's broiler."
+        },
+        {
+            "2": "In a large bowl, mix together ground lamb with parsley, onion, feta cheese, green olives, eggs, and Italian seasoning. Shape into 16 meatballs, and place 2 inches apart on a baking sheet."
+        },
+        {
+            "3": "Broil about 3 inches away from the heat until browned on top. Turn over, and broil on the other side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "185"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8510727.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8478720.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7993439.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7827474.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/fhgMkoQAQVM25vsmVN9ohXIvxT8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52562-163c34a575ce4972a0934b4ff7517f81.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

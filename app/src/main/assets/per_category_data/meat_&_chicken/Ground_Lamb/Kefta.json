@@ -1,0 +1,78 @@
+{
+    "title": "Kefta",
+    "Category": "Ground Lamb",
+    "Ingredients": [
+        {
+            "1": "1 bunch fresh parsley, chopped"
+        },
+        {
+            "2": "3 medium onions, finely chopped"
+        },
+        {
+            "3": "0.5 pounds ground lamb"
+        },
+        {
+            "4": "2 teaspoons ground allspice"
+        },
+        {
+            "5": "0.5 teaspoons grated lemon zest"
+        },
+        {
+            "6": "2 teaspoons salt"
+        },
+        {
+            "7": "0.25 cup butter, softened"
+        },
+        {
+            "8": "1 medium tomato, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "In a large bowl, mix together the parsley, onions, lamb, allspice, lemon zest, salt and butter until well blended. Use your hands for best results. Place in a baking dish, or pat into a 2 inch tall round on a baking sheet with sides. Arrange tomato slices on top."
+        },
+        {
+            "3": "Bake uncovered for 50 minutes in the preheated oven, until no longer pink and the internal temperature has reached at least 160 degrees F (72 degrees C). Serve with pita bread or rice."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "192"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F23662e914434ecdd3611998f64c9fb5f%2F165236875020220511_185438.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

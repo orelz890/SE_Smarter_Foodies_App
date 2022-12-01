@@ -1,0 +1,105 @@
+{
+    "title": "Rich and Simple French Onion Soup",
+    "Category": "French Onion Soup",
+    "Ingredients": [
+        {
+            "1": "0.5 cup unsalted butter"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "4 cups sliced onions"
+        },
+        {
+            "4": "5 cups beef broth"
+        },
+        {
+            "5": "2 tablespoons dry sherry"
+        },
+        {
+            "6": "1 teaspoon dried thyme"
+        },
+        {
+            "7": "1 pinch salt and pepper to taste"
+        },
+        {
+            "8": "4 slices French bread"
+        },
+        {
+            "9": "4 slices provolone cheese"
+        },
+        {
+            "10": "2 slices Swiss cheese, diced"
+        },
+        {
+            "11": "0.25 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter with olive oil in an 8-quart stock pot over medium heat. Add onions and continually stir until tender and translucent. Do not brown the onions."
+        },
+        {
+            "2": "Add beef broth, sherry, and thyme. Season with salt and pepper. Let simmer for 30 minutes."
+        },
+        {
+            "3": "Meanwhile, preheat the oven's broiler."
+        },
+        {
+            "4": "Ladle soup into oven-safe serving bowls and place one slice of bread on top of each (bread may be broken into pieces if you prefer). Layer each slice of bread with a slice of provolone, 1/2 slice diced Swiss and 1 tablespoon Parmesan cheese."
+        },
+        {
+            "5": "Place bowls on a cookie sheet and broil in the preheated oven until cheese bubbles and browns slightly, 2 to 3 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "586"
+        },
+        {
+            "Fat": "44g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff95de6b4f607f4be6b0fed20056e45c5%2F166716428902720221029_213514.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe91a784095df7c3ea84f9a89a002c841%2F1657502579DA02C61E-427F-41C0-BB85-2DC16184C655.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9444834.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9435988.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/rpvhDoHoXH2GvMfCdase81-SDIU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13309-rich-and-simple-french-onion-soup-mfs-041-47adba34d9e5490ea28129efcd3f27ba.jpg"
+        }
+    ],
+    "main category": "soups"
+}

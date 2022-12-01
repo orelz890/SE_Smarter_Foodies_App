@@ -1,0 +1,126 @@
+{
+    "title": "The Best Baked Ziti",
+    "Category": "Ziti",
+    "Ingredients": [
+        {
+            "1": "0.75 pound hot Italian sausage"
+        },
+        {
+            "2": "0.75 pound sweet Italian sausage"
+        },
+        {
+            "3": "2 tablespoons olive oil"
+        },
+        {
+            "4": "1 large yellow onion, diced"
+        },
+        {
+            "5": "0.5 teaspoon dried oregano"
+        },
+        {
+            "6": "0.25 teaspoon dried thyme"
+        },
+        {
+            "7": "0.25 teaspoon dried rosemary"
+        },
+        {
+            "8": "2 (24 ounce) jars prepared marinara sauce"
+        },
+        {
+            "9": "2 cups water"
+        },
+        {
+            "10": "1 (16 ounce) package ziti pasta"
+        },
+        {
+            "11": "1 drizzle olive oil"
+        },
+        {
+            "12": "0.5 cups whole-milk ricotta cheese"
+        },
+        {
+            "13": "8 ounces mozzarella cheese, cut into small cubes"
+        },
+        {
+            "14": "1 cup grated Pecorino Romano cheese"
+        },
+        {
+            "15": "1 teaspoon chopped flat-leaf (Italian) parsley, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cut down the length of each sausage with a sharp knife. Remove and discard casings."
+        },
+        {
+            "2": "Heat olive oil in a large saucepan set over high heat. Add sausages and onion. Cook, stirring occasionally and breaking up with a spatula, until sausage begins to brown, and onion turns translucent, 5 to 7 minutes. Add oregano, thyme, and rosemary and cook for 1 minute more. Pour in marinara sauce. Pour 1 cup water into each jar to rinse out remaining sauce; add to the saucepan. Stir together and bring sauce to a simmer."
+        },
+        {
+            "3": "Reduce the heat to medium-low, and let simmer, stirring occasionally, for 1 hour. Taste for seasoning and adjust if needed. Turn off heat and reserve until needed. Before using, skim any excess fat that rises to the surface."
+        },
+        {
+            "4": "While sauce simmers, bring a large pot of generously salted water to a boil. Add ziti and cook, stirring occasionally, for 1 or 2 minutes less than the directions on the package call for, about 8 minutes. Drain well and transfer into a large mixing bowl."
+        },
+        {
+            "5": "Carefully add the meat sauce and stir until thoroughly combined. Let rest for 5 minutes."
+        },
+        {
+            "6": "Meanwhile, preheat the oven to 375 degrees F (190 degrees C). Grease a large 9x15-inch or 9x13-inch casserole dish with a drizzle of olive oil."
+        },
+        {
+            "7": "Use a slotted spoon to transfer half of the pasta and sauce mixture to the prepared dish, then use a spatula to even out into a uniform layer. Top with 1/2 of the ricotta cheese, 1/2 of the mozzarella cheese, and then 1/2 of the grated Pecorino Romano cheese, being sure to distribute evenly. Top with the rest of the pasta and sauce mixture and give the pan a little shake to settle the sauce. Repeat the cheese application."
+        },
+        {
+            "8": "Bake in the center of the preheated oven until the cheese is melted and the casserole is piping hot, 30 to 35 minutes. Remove from the oven and let cool 10 to 15 minutes before serving. Top with parsley."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 45 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": " 2 hrs 20 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "627"
+        },
+        {
+            "Fat": "30g"
+        },
+        {
+            "Carbs": "58g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa4fe93bb3b247b859c930c4067ae2463%2F1668264280641PXL_20221112_015833851.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa2eee6b8d11271ac0093add8716edc28%2F1661725535E2FB8338-CDB6-48AD-8DE6-0502C72E41DC.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa2eee6b8d11271ac0093add8716edc28%2F1647216621inbound7479519397599235124.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9322727.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/nR9VQBJbMa9oWJVDUR2TSIc48rM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8564993-660d06496def41eb91cd21a8b8aa69c0.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

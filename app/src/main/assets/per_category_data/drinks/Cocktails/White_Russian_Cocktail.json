@@ -1,0 +1,66 @@
+{
+    "title": "White Russian Cocktail",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "1 cup ice"
+        },
+        {
+            "2": "2 fluid ounces vodka"
+        },
+        {
+            "3": "1 fluid ounce coffee-flavored liqueur"
+        },
+        {
+            "4": "1 fluid ounce heavy cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill an old-fashioned glass with ice. Pour in vodka and coffee liqueur. Top off with cream."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "338"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9045519.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8019990.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7998602.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7616002.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/MqpXkdJJdc4hOQsHFy5VSTUmzL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/877046-430e21a07eb44bf2921be9b80dcb70fd.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

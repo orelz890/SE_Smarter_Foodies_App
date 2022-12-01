@@ -1,0 +1,75 @@
+{
+    "title": "Split Pea Soup without Pork",
+    "Category": "Diabetic Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound dried split peas"
+        },
+        {
+            "2": "1 stalk celery, diced"
+        },
+        {
+            "3": "2 large carrots, peeled and diced"
+        },
+        {
+            "4": "2 (14.5 ounce) cans low-fat, low sodium chicken broth"
+        },
+        {
+            "5": "3 cups water"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Rinse and pick through peas. Place them in a large pot with the celery, carrots, broth and water. Bring to a boil, then reduce heat, cover and simmer until peas have fallen apart, 1 to 2 hours. Season with salt and pepper before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 15 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "65"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8977104.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8946604.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7631282.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F290f80a9d28a82458c4e94b922491871%2F5854599.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

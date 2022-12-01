@@ -1,0 +1,90 @@
+{
+    "title": "Potato and Egg Casserole",
+    "Category": "Lent Recipes",
+    "Ingredients": [
+        {
+            "1": "6 medium potatoes"
+        },
+        {
+            "2": "8 large eggs"
+        },
+        {
+            "3": "1 teaspoon seasoning salt, or to taste"
+        },
+        {
+            "4": "1 cup margarine"
+        },
+        {
+            "5": "1 (16 ounce) container sour cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes. Drain and let cool."
+        },
+        {
+            "3": "While the potatoes are cooking, cover eggs in a saucepan and with cold water. Bring water to a boil, then immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove eggs from hot water and place under cold running water to cool."
+        },
+        {
+            "4": "Slice potatoes. Peel and slice eggs."
+        },
+        {
+            "5": "Starting and ending with potatoes, layer potatoes and eggs in a 9x13-inch casserole dish, sprinkling each layer of eggs with seasoning salt."
+        },
+        {
+            "6": "Cook and stir sour cream and margarine in a small saucepan over low heat until melted. Pour over casserole and sprinkle lightly with seasoning salt."
+        },
+        {
+            "7": "Bake in the preheated oven for 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 9x13-inch casserole"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "414"
+        },
+        {
+            "Fat": "32g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4471648.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5b1bbf08c12bb8fbb56bb23802170498%2F2746305.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1125891.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F998791.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

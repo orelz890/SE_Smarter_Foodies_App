@@ -1,0 +1,69 @@
+{
+    "title": "Captain's Mojito",
+    "Category": "Mojitos",
+    "Ingredients": [
+        {
+            "1": "5  mint leaves"
+        },
+        {
+            "2": "3 wedges lime"
+        },
+        {
+            "3": "1 cup crushed ice"
+        },
+        {
+            "4": "1 teaspoon simple syrup"
+        },
+        {
+            "5": "0.5 teaspoon lime juice"
+        },
+        {
+            "6": "2 fluid ounces spiced rum (such as Captain Morgan's\u00ae)"
+        },
+        {
+            "7": "2 fluid ounces cranberry juice"
+        },
+        {
+            "8": "2 fluid ounces soda water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the mint leaves, lime wedges, and ice into a cocktail shaker; mash well with a cocktail muddler. Pour in the simple syrup, lime juice, rum, cranberry juice, and soda water. Cover, and shake until the outside of the shaker has frosted. Strain into a chilled glass to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 cocktail"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "180"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7d0f93a692ca372fdc56821c33d371c9%2F975549.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Simple Pumpkin Pie",
+    "Category": "Thanksgiving Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (9 inch) unbaked pie crust"
+        },
+        {
+            "2": "1 (16 ounce) can pumpkin puree"
+        },
+        {
+            "3": "1 (14 ounce) can sweetened condensed milk"
+        },
+        {
+            "4": "2 large eggs"
+        },
+        {
+            "5": "1 teaspoon pumpkin pie spice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 425 degrees F (220 degrees C). Fit pie crust into a 9-inch pie dish and place it on a baking sheet."
+        },
+        {
+            "2": "Combine pumpkin puree, condensed milk, eggs, and pumpkin pie spice in a large bowl; mix until combined. Pour into the pie crust."
+        },
+        {
+            "3": "Bake in the preheated oven for 15 minutes. Reduce heat to 350 degrees F (175 degrees C) and continue to bake until filling is set, 35 to 40 minutes."
+        },
+        {
+            "4": "Remove from the oven, set on a wire rack, and cool completely before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "309"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F69d0cf8447ec72a15831d8d8b01b1b2d%2F1667666234790DSC_0119-2-.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F69d0cf8447ec72a15831d8d8b01b1b2d%2F1666871929209IMG_20221026_112112287.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F69d0cf8447ec72a15831d8d8b01b1b2d%2F1666643239497Simple-Pumpkin-Pie.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9418115.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/CQrgVw7qjs2QQfKqy0GMerfppsM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229932-Simple-Pumpkin-Pie-vat-hero-4x3-LSH-ae211272471a4e7aa9f10716cdcf4bc3.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/aeiqOIgiHJX3w78ifeeHQtTME0I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229932-simple-pumpkin-pie-kim-4x3-1-eaa1d8edf5154d98b4a2f6546b2e902e.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/uI0sD52W_8INgMtafrHhLpoobeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229932-Simple-Pumpkin-Pie-vat-hero-1x1-LSH-21f6c8ebbd744b309589407bf2c7c107.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

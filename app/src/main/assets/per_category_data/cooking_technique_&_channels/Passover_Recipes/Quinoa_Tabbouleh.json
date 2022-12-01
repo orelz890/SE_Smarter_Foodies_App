@@ -1,0 +1,96 @@
+{
+    "title": "Quinoa Tabbouleh",
+    "Category": "Passover Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups water"
+        },
+        {
+            "2": "1 cup quinoa"
+        },
+        {
+            "3": "1 pinch salt"
+        },
+        {
+            "4": "0.25 cup olive oil"
+        },
+        {
+            "5": "0.5 teaspoon sea salt"
+        },
+        {
+            "6": "0.25 cup lemon juice"
+        },
+        {
+            "7": "3  tomatoes, diced"
+        },
+        {
+            "8": "1  cucumber, diced"
+        },
+        {
+            "9": "2 bunches green onions, diced"
+        },
+        {
+            "10": "2  carrots, grated"
+        },
+        {
+            "11": "1 cup chopped fresh parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a saucepan bring water to a boil. Add quinoa and a pinch of salt. Reduce heat to low, cover and simmer for 15 minutes. Allow to cool to room temperature; fluff with a fork."
+        },
+        {
+            "2": "Meanwhile, in a large bowl, combine olive oil, sea salt, lemon juice, tomatoes, cucumber, green onions, carrots and parsley. Stir in cooled quinoa."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "354"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9144937.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8463943.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8346678.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8267313.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/m1zJ2c4abcMu_CfGGZrQVcMPaYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/998528-e77aa07dfe9243ca82836be6f832206e.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Baked Teriyaki Chicken",
+    "Category": "Chicken Teriyaki",
+    "Ingredients": [
+        {
+            "1": "0.5 cup white sugar"
+        },
+        {
+            "2": "0.5 cup soy sauce"
+        },
+        {
+            "3": "0.25 cup cider vinegar"
+        },
+        {
+            "4": "1 tablespoon cornstarch"
+        },
+        {
+            "5": "1 tablespoon cold water"
+        },
+        {
+            "6": "1 clove garlic, minced"
+        },
+        {
+            "7": "0.5 teaspoon ground ginger"
+        },
+        {
+            "8": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "9": "12  boneless, skinless chicken thighs"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 425 degrees F (220 degrees C). Lightly grease a 9x13-inch baking dish."
+        },
+        {
+            "2": "Combine sugar, soy sauce, cider vinegar, cornstarch, cold water, garlic, ginger, and pepper in a small saucepan over low heat. Simmer, stirring frequently, until teriyaki sauce thickens and bubbles, 3 to 5 minutes. Remove from the heat."
+        },
+        {
+            "3": "Place chicken thighs in the prepared baking dish. Brush both sides of each thigh with the sauce. Reserve any extra sauce for basting."
+        },
+        {
+            "4": "Bake in the preheated oven for 30 minutes."
+        },
+        {
+            "5": "Flip chicken and brush with sauce. Continue to bake, basting with remaining sauce every 10 minutes, until no longer pink and juices run clear, 20 to 30 more minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "272"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc63552ab7e9ba53057fbef97b930bbcd%2F165498946953B9CC3A-243E-48DB-A6A6-6B3289A487F6.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9444946.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9443732.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9430648.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ICQw_bi-aBkKjRc69Amkl4d9Ztw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9023-baked-teriyaki-chicken-3x2-232-5725b256e8f5423ba4accc81d71ac83e.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/554-kl7YbIvVLQxsHKGKWMSfvWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9023-baked-teriyaki-chicken-1x1-234-f6546d974b734ddf91e6ddecebcd73ca.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

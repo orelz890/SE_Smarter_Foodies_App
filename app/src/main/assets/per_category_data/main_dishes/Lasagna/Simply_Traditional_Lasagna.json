@@ -1,0 +1,111 @@
+{
+    "title": "Simply Traditional Lasagna",
+    "Category": "Lasagna",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1 pound bulk Italian sausage"
+        },
+        {
+            "3": "0.5 cup warm water"
+        },
+        {
+            "4": "1 cup sliced black olives"
+        },
+        {
+            "5": "1 pinch basil"
+        },
+        {
+            "6": "2 teaspoons garlic powder"
+        },
+        {
+            "7": "1 tablespoon dried oregano"
+        },
+        {
+            "8": "0.5 teaspoons dried sage"
+        },
+        {
+            "9": "2 teaspoons ground black pepper"
+        },
+        {
+            "10": "2 tablespoons minced garlic"
+        },
+        {
+            "11": "1 tablespoon dried onion flakes"
+        },
+        {
+            "12": "2 (14 ounce) jars marinara sauce"
+        },
+        {
+            "13": "1 (16 ounce) package lasagna noodles"
+        },
+        {
+            "14": "8 ounces ricotta cheese"
+        },
+        {
+            "15": "1 pound mozzarella cheese, shredded"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Brown the ground beef and Italian sausage in a large skillet over medium-high heat. Drain excess grease. Stir in the water and black olives, and season with basil, garlic powder, oregano, sage, pepper, minced garlic, and onion flakes. Simmer for about 15 minutes, stirring frequently. Stir in the marinara sauce, and remove from the heat."
+        },
+        {
+            "2": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "3": "Place a layer of the meat and sauce in the bottom of a 9x13 inch baking dish. Cover with a layer of dry noodles. Spread a thin layer of ricotta cheese over the noodles, and sprinkle with a little mozzarella cheese. Cover with another layer of sauce, and repeat layering ending with the meat and sauce on top. Reserve about 1/2 cup of mozzarella cheese for later."
+        },
+        {
+            "4": "Bake for 45 minutes in the preheated oven, but check after 30 minutes depending on how thick the lasagna is. Lasagna is cooked when you can easily stick a knife into it. Sprinkle the reserved cheese over the top, and return to the oven for about 10 minutes for a nice melted cheese topping."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "736"
+        },
+        {
+            "Fat": "35g"
+        },
+        {
+            "Carbs": "63g"
+        },
+        {
+            "Protein": "44g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8624993.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8001845.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6541334.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6286017.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

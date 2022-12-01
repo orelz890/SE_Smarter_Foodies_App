@@ -1,0 +1,117 @@
+{
+    "title": "Veggie Pate",
+    "Category": "Pate",
+    "Ingredients": [
+        {
+            "1": "1 cup sunflower seeds"
+        },
+        {
+            "2": "0.5 cup whole wheat flour"
+        },
+        {
+            "3": "0.5 cup nutritional yeast"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.5 cup vegetable oil"
+        },
+        {
+            "6": "2 tablespoons lemon juice"
+        },
+        {
+            "7": "1  potato, peeled and chopped"
+        },
+        {
+            "8": "1 large carrot, peeled and sliced"
+        },
+        {
+            "9": "1  onion, chopped"
+        },
+        {
+            "10": "1 stalk celery, chopped"
+        },
+        {
+            "11": "1 clove garlic, peeled"
+        },
+        {
+            "12": "0.5 cups water"
+        },
+        {
+            "13": "0.5 teaspoon dried thyme"
+        },
+        {
+            "14": "0.5 teaspoon dried basil leaves"
+        },
+        {
+            "15": "0.5 teaspoon dried sage"
+        },
+        {
+            "16": "0.5 teaspoon dried savory"
+        },
+        {
+            "17": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "18": "0.5 teaspoon ground dry mustard"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease an 8x8 inch baking dish."
+        },
+        {
+            "2": "In a food processor, blend sunflower seeds, whole wheat flour, nutritional yeast, salt, vegetable oil, lemon juice, potato, carrot, onion, celery, garlic, water, thyme, basil, sage, savory, pepper and dry mustard. Process the mixture until almost smooth."
+        },
+        {
+            "3": "Transfer mixture to the baking dish. Bake in the preheated oven 1 hour, or until bubbly and lightly browned."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "102"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3bb8ed41f9dd8d12323f65b4834dd05e%2F5011461.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7b762f1c6b974aaab97e99523c508732%2F3692615.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fecaae2c568e3bf3f2f7998ec8e113221%2F3692668.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3645283.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

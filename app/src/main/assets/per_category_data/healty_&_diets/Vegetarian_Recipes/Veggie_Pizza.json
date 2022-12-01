@@ -1,0 +1,111 @@
+{
+    "title": "Veggie Pizza",
+    "Category": "Vegetarian Recipes",
+    "Ingredients": [
+        {
+            "1": "2 (8 ounce) packages refrigerated crescent rolls"
+        },
+        {
+            "2": "1 cup sour cream"
+        },
+        {
+            "3": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "4": "1 (1 ounce) package ranch seasoning mix"
+        },
+        {
+            "5": "1 teaspoon dried dill weed"
+        },
+        {
+            "6": "0.25 teaspoon garlic salt"
+        },
+        {
+            "7": "0.5 cups chopped fresh broccoli"
+        },
+        {
+            "8": "0.5 cup halved and thinly-sliced radishes"
+        },
+        {
+            "9": "1 small onion, finely chopped"
+        },
+        {
+            "10": "1  red bell pepper, chopped"
+        },
+        {
+            "11": "1  carrot, grated"
+        },
+        {
+            "12": "1 stalk celery, thinly sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Spray a jelly roll pan with nonstick cooking spray."
+        },
+        {
+            "2": "Press crescent roll dough into the prepared jelly roll pan to form a crust. Let stand 5 minutes. Pierce with a fork."
+        },
+        {
+            "3": "Bake in the preheated oven until dough is fully cooked and golden brown, about 10 minutes. Let cool completely."
+        },
+        {
+            "4": "Combine sour cream, cream cheese, ranch seasoning mix, dill, and garlic salt in a medium mixing bowl. Spread the cream cheese mixture on top of cooled crust. Arrange broccoli, radish, onion, bell pepper, carrot, and celery on top of the cream cheese mixture."
+        },
+        {
+            "5": "Cover and let chill, 1 to 2 hours. Cut chilled pizza into 16 squares to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "1 pizza"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "196"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9390110.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9387220.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9146761.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8890384.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/BmNAyULwaZ1JV6zb4j1E_O2KqiU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4805115-39eeff699f6540258f2d8a01cbad36f7.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

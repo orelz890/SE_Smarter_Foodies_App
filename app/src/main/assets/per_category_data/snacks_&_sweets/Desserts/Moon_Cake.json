@@ -1,0 +1,96 @@
+{
+    "title": "Moon Cake",
+    "Category": "Desserts",
+    "Ingredients": [
+        {
+            "1": "1 cup water"
+        },
+        {
+            "2": "0.5 cup margarine"
+        },
+        {
+            "3": "1 cup all-purpose flour"
+        },
+        {
+            "4": "4  eggs"
+        },
+        {
+            "5": "2 (3.4 ounce) packages instant vanilla pudding mix"
+        },
+        {
+            "6": "3 cups milk"
+        },
+        {
+            "7": "1 (8 ounce) package cream cheese"
+        },
+        {
+            "8": "1 (8 ounce) container frozen whipped topping, thawed"
+        },
+        {
+            "9": "0.25 cup chocolate syrup"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C). Lightly grease a 10x15-inch jelly roll pan."
+        },
+        {
+            "2": "In a large saucepan, bring water and margarine to a boil. Remove from heat; mix in flour with an electric mixer. Add eggs, one at a time, beating well after each addition; spread cake batter evenly in the prepared pan."
+        },
+        {
+            "3": "Bake in the preheated oven for 20 to 25 minutes. Set aside to cool completely."
+        },
+        {
+            "4": "In a large bowl, combine pudding mix, milk, and cream cheese. Mix with an electric mixer until smooth. Spread evenly over cooled cake crust. Top with whipped topping and drizzle with chocolate syrup. Chill in the refrigerator and serve cold."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "35 "
+        },
+        {
+            "Yield": "1 10x15-inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "133"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd40d352dc22e87d956bc53060bfe3f72%2F4509227.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3535047.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2217525.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F817515.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

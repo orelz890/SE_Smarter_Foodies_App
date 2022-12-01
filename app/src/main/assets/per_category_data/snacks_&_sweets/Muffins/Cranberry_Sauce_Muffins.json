@@ -1,0 +1,105 @@
+{
+    "title": "Cranberry Sauce Muffins",
+    "Category": "Muffins",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "0.5 cup packed brown sugar"
+        },
+        {
+            "3": "0.25 cup white sugar"
+        },
+        {
+            "4": "1 tablespoon baking powder"
+        },
+        {
+            "5": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "6": "0.5 teaspoon ground cardamom"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "1 cup leftover cranberry sauce"
+        },
+        {
+            "9": "0.75 cup milk"
+        },
+        {
+            "10": "0.25 cup vegetable oil"
+        },
+        {
+            "11": "1 large egg, slightly beaten"
+        },
+        {
+            "12": "1 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C). Line 18 muffin cups with paper liners."
+        },
+        {
+            "2": "Beat cranberry sauce, milk, oil, egg, and vanilla together in a bowl until well combined."
+        },
+        {
+            "3": "Whisk flour, brown sugar, white sugar, baking powder, cinnamon, cardamom, and salt together in a separate bowl. Stir dry ingredients into wet ingredients until batter is just moistened. Pour into the prepared muffin cups."
+        },
+        {
+            "4": "Bake in the preheated oven until golden brown, about 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "18 muffins"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "145"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8907831.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8900439.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8894457.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8840133.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/kDI_ijCtr67mECHEcRCGPCXr24g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Screen-Shot-2022-07-06-at-4.53.08-PM-9591cfe3db6745749315ad9d3ac74eb5.png"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

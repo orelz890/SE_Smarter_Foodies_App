@@ -1,0 +1,105 @@
+{
+    "title": "Slow-Cooker Fish Chowder",
+    "Category": "Chowder",
+    "Ingredients": [
+        {
+            "1": "4 slices bacon, chopped"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "2 cloves garlic, minced"
+        },
+        {
+            "4": "6 cups chicken stock"
+        },
+        {
+            "5": "1 cup fresh corn kernels"
+        },
+        {
+            "6": "2 large potatoes, diced"
+        },
+        {
+            "7": "3 stalks celery, diced"
+        },
+        {
+            "8": "2 large carrots, diced"
+        },
+        {
+            "9": "1 ground black pepper to taste"
+        },
+        {
+            "10": "0.5 teaspoon red pepper flakes, or to taste"
+        },
+        {
+            "11": "1 cup scallops"
+        },
+        {
+            "12": "1 cup uncooked medium shrimp, peeled and deveined"
+        },
+        {
+            "13": "0.25 pound halibut, cut into bite-size pieces"
+        },
+        {
+            "14": "1 (12 ounce) can evaporated milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook and stir bacon in a skillet over medium heat until browned, 5 to 8 minutes; drain excess grease. Cook and stir onion and garlic into bacon until onion is translucent, about 5 minutes. Transfer mixture to a slow cooker."
+        },
+        {
+            "2": "Pour chicken stock into slow cooker. Mix corn, potatoes, celery, and carrots into the stock. Season with black pepper and red pepper flakes. Set the cooker to High, cover, and cook for 3 hours."
+        },
+        {
+            "3": "Stir scallops, shrimp, and halibut into the soup and cook 1 more hour. Stir evaporated milk into chowder, heat thoroughly, and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 30 mins"
+        },
+        {
+            "Servings": "9 "
+        },
+        {
+            "Yield": "9 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "235"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8841574.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5056263.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F67bce78a8baf65c3b41cc2aaa38e5901%2F4385004.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8e9901a5cfe357e4ff320284e47b6e57%2F4039302.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dairy"
+}

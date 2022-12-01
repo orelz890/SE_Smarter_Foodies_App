@@ -1,0 +1,90 @@
+{
+    "title": "Pinoy Chicken Adobo",
+    "Category": "Chicken Adobo",
+    "Ingredients": [
+        {
+            "1": "5 pounds chicken legs and thighs, rinsed and patted dry"
+        },
+        {
+            "2": "0.75 cup water"
+        },
+        {
+            "3": "0.75 cup white vinegar"
+        },
+        {
+            "4": "0.25 cup soy sauce"
+        },
+        {
+            "5": "1 teaspoon white sugar"
+        },
+        {
+            "6": "1  onion, chopped"
+        },
+        {
+            "7": "2 cloves garlic, crushed"
+        },
+        {
+            "8": "1 teaspoon whole black peppercorns, crushed"
+        },
+        {
+            "9": "2  bay leaves"
+        },
+        {
+            "10": "1 salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the chicken in a 6-quart pot. Pour the water, vinegar, and soy sauce over the chicken. Add the sugar, onion, garlic, peppercorns, and bay leaves to the pot; bring the mixture to a boil for 2 minutes. Reduce heat to low; simmer until the chicken is no longer pink at the bone and the juices run clear, about 30 minutes. An instant-read thermometer inserted into the thickest part of the thigh, near the bone should read 180 degrees F (82 degrees C). Remove the chicken from the pot and continue cooking the sauce until it thickens, about 10 minutes; season with salt."
+        },
+        {
+            "2": "Return the chicken to the pot, making sure the chicken is covered entirely by the sauce. Cook together until the chicken is reheated, about 3 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "584"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "62g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8547292.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8539216.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7889867.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7740044.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

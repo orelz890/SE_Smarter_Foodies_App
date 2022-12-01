@@ -1,0 +1,81 @@
+{
+    "title": "Greek Yogurt Chicken Salad",
+    "Category": "Chicken Salad",
+    "Ingredients": [
+        {
+            "1": "1 cup plain Greek yogurt"
+        },
+        {
+            "2": "1 tablespoon Dijon mustard"
+        },
+        {
+            "3": "1 tablespoon lemon juice"
+        },
+        {
+            "4": "2 teaspoons honey"
+        },
+        {
+            "5": "2 teaspoons chopped fresh parsley"
+        },
+        {
+            "6": "1 teaspoon chopped fresh dill"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "0.5 teaspoon freshly ground black pepper"
+        },
+        {
+            "9": "0.5 teaspoon onion powder"
+        },
+        {
+            "10": "2 cups cooked, shredded chicken"
+        },
+        {
+            "11": "0.5 cup celery, diced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine Greek yogurt, mustard, lemon juice, honey, parsley, dill, salt, pepper, and onion powder in a small bowl. Mix until dressing is smooth and creamy."
+        },
+        {
+            "2": "Combine chicken and celery in a large bowl. Top with dressing and mix to combine. Chill in the refrigerator for 1 hour before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "106"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6687755.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

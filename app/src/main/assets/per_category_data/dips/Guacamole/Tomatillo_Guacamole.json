@@ -1,0 +1,81 @@
+{
+    "title": "Tomatillo Guacamole",
+    "Category": "Guacamole",
+    "Ingredients": [
+        {
+            "1": "3  avocados - peeled, pitted, and mashed"
+        },
+        {
+            "2": "3  tomatillos, husked and chopped"
+        },
+        {
+            "3": "1  red onion, finely chopped"
+        },
+        {
+            "4": "3  roma (plum) tomatoes, seeded and chopped"
+        },
+        {
+            "5": "1 tablespoon lime juice"
+        },
+        {
+            "6": "1 teaspoon red pepper flakes"
+        },
+        {
+            "7": "3 drops hot pepper sauce"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium bowl, mix avocados, tomatillos, red onion, roma tomatoes, and lime juice. Season with red pepper flakes, hot pepper sauce, and salt and pepper. Cover, and refrigerate at least 45 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "91"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8289487.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8289354.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8216846.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8206839.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

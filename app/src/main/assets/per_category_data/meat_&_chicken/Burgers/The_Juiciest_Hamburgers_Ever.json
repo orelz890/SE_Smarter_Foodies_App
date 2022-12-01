@@ -1,0 +1,84 @@
+{
+    "title": "The Juiciest Hamburgers Ever",
+    "Category": "Burgers",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "0.5 cup beer"
+        },
+        {
+            "3": "0.25 cup Worcestershire sauce"
+        },
+        {
+            "4": "1 teaspoon garlic powder"
+        },
+        {
+            "5": "0.5 teaspoon onion salt"
+        },
+        {
+            "6": "1 freshly ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Shape the ground beef into three patties. Place the patties in a shallow dish."
+        },
+        {
+            "2": "Combine the beer, Worcestershire sauce, garlic powder, onion salt, and pepper. Pour the marinade over the burgers. Refrigerate for 15 minutes. Flip the burgers over and marinate for an additional 15 minutes."
+        },
+        {
+            "3": "Preheat an outdoor grill for medium-high heat, and lightly oil the grate."
+        },
+        {
+            "4": "Place the patties on the hot grill and cook for 2 minutes before flipping them over. Cook the burgers to the desired degree of doneness, about 5 minutes per side for well done. An instant-read thermometer inserted into the center should read 160 degrees F (70 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "40 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "3 "
+        },
+        {
+            "Yield": "3 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "313"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6800144.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F48f57d394982ca1893f93d3e31aeb297%2F6742432.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff019a9f3770c8a8387881c6150901986%2F1759332.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1339760.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

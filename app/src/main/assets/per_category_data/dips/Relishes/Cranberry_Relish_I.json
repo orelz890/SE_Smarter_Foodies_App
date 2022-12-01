@@ -1,0 +1,81 @@
+{
+    "title": "Cranberry Relish I",
+    "Category": "Relishes",
+    "Ingredients": [
+        {
+            "1": "1 large orange, quartered with peel"
+        },
+        {
+            "2": "1 pound cranberries"
+        },
+        {
+            "3": "0.5 cups white sugar"
+        },
+        {
+            "4": "0.5 cup apricot preserves"
+        },
+        {
+            "5": "1 (8 ounce) can crushed pineapple, drained"
+        },
+        {
+            "6": "2 tablespoons lemon juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Finely chop the orange in a food processor."
+        },
+        {
+            "2": "Combine cranberries and sugar in a heavy saucepan. Cook and stir over medium heat until cranberries just begin to pop, about 10 minutes."
+        },
+        {
+            "3": "Transfer cranberries to a bowl, add apricot preserves and mix until melted. Stir in chopped orange, drained crushed pineapple and lemon juice. Cover and refrigerate until well chilled."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "83"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe96fb42052f8c5aa8ccf34a23c544796%2F4587018.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7377371.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc4d2d9f7017f87bc55709c202aa2c539%2F6013896.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4812285.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Spaghetti Bread",
+    "Category": "Calzones",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "0.5 teaspoon cornmeal"
+        },
+        {
+            "3": "1 (16 ounce) package prepared pizza dough"
+        },
+        {
+            "4": "0.5 cups cooked spaghetti"
+        },
+        {
+            "5": "0.25 cup spaghetti sauce, or to taste"
+        },
+        {
+            "6": "6  cooked meatballs, chopped - or to taste"
+        },
+        {
+            "7": "0.5 cup shredded mozzarella cheese"
+        },
+        {
+            "8": "2 tablespoons butter, melted"
+        },
+        {
+            "9": "0.5 teaspoon garlic salt, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Spray a large baking sheet with cooking spray and sprinkle lightly with cornmeal."
+        },
+        {
+            "2": "Roll pizza dough on a floured work surface into a 9x12-inch rectangle."
+        },
+        {
+            "3": "Mix spaghetti with spaghetti sauce in a bowl until pasta is coated. Spread spaghetti and sauce down the center of the dough rectangle, leaving about 1 inch at the top and bottom uncovered. Spread meatballs in a line down the center of the spaghetti. Sprinkle mozzarella cheese over spaghetti and meatballs. Roll the dough over the filling, starting at a long edge. Pinch ends and seam tightly closed. Transfer roll to the prepared baking sheet."
+        },
+        {
+            "4": "Bake in the preheated oven until crust is browned and filling is hot, 20 to 25 minutes. Brush roll with melted butter and sprinkle with garlic salt. Serve warm or cold."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 pizza roll"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "374"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe2b483ce2521ab1a7a012f4192661990%2F4535900.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa298bd697b5d2120ec1b5e50065ad165%2F4528429.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4528691.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4527328.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

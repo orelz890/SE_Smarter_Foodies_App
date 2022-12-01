@@ -1,0 +1,105 @@
+{
+    "title": "Chef John's Beef Sliders",
+    "Category": "Burgers",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "16 paper muffin liners"
+        },
+        {
+            "3": "1 salt and ground black pepper to taste"
+        },
+        {
+            "4": "1 Secret sauce ingredients-"
+        },
+        {
+            "5": "2 tablespoons mayonnaise"
+        },
+        {
+            "6": "1 tablespoon ketchup"
+        },
+        {
+            "7": "1 tablespoon Dijon mustard"
+        },
+        {
+            "8": "1 tablespoon sweet pickle relish"
+        },
+        {
+            "9": "8  slider-size burger buns, cut almost through horizontally"
+        },
+        {
+            "10": "8  slices roma (plum) tomato"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place ground beef onto a work surface; divide into 8 equal-size pieces using a knife or pastry cutter. Line 8 muffin cups with paper liners."
+        },
+        {
+            "2": "Sprinkle bottoms of paper liners with salt and black pepper. Form each piece of burger into a rough ball and place into a muffin cup. Season tops with salt and pepper."
+        },
+        {
+            "3": "Place a second paper liner on top of each piece of meat and gently press it down to shape the mini burger into a round, flat shape. Pull off the paper tops and remove burgers from the muffin cups; remove bottom paper liners from burgers."
+        },
+        {
+            "4": "Heat a large nonstick skillet over medium-high heat. Cook burgers in the hot skillet until they have a browned crust and are slightly pink in the middle, about 3 minutes per side. Flip burgers and cook 3 minutes on other side. Remove burgers to a plate to rest for 2 minutes."
+        },
+        {
+            "5": "Mix mayonnaise, ketchup, mustard, and pickle relish in a bowl; spoon a dollop onto each bun. Place burgers onto buns, season with more black pepper, and top with a tomato slice. Close buns and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 sliders"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "214"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "160g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9026202.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8162267.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F68522fb6edde2baebfd975d5d3267749%2F5505232.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8d9774e8f9bc82d52e68f2d531c1397e%2F3520504.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/DfEQnYnU_9_XN880rz7Fd9Fqbe4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1549595-566165c8c9b840eda90e6b71d896ce11.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Roasted Turnips and Carrots",
+    "Category": "Vegetable Side Dishes",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "1 large turnip, peeled and chopped"
+        },
+        {
+            "3": "2 medium carrots, peeled and sliced"
+        },
+        {
+            "4": "1 tablespoon olive oil"
+        },
+        {
+            "5": "1 teaspoon lemon-pepper seasoning"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with foil. Spray the foil with non-stick cooking spray."
+        },
+        {
+            "2": "Combine chopped turnip, carrots, olive oil, lemon pepper, and salt in a large bowl. Toss until well combined and lemon pepper has dissolved. Spread vegetable mixture on the prepared baking sheet in an even layer."
+        },
+        {
+            "3": "Roast in the preheated oven for 30 minutes. Stir and roast until vegetables are soft, about 15 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "56"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F58066f9fded47ac6341b39c2205b2d69%2F16675962200285E27996A-CA3A-410E-B155-24F006AA6FD9.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F58066f9fded47ac6341b39c2205b2d69%2F16675228958819BA31026-A194-4E72-A043-C6C4137C2666.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

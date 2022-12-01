@@ -1,0 +1,96 @@
+{
+    "title": "White Chocolate and Raspberry Ice Cream",
+    "Category": "Ice Cream",
+    "Ingredients": [
+        {
+            "1": "1 cup whole milk"
+        },
+        {
+            "2": "0.75 cup white sugar"
+        },
+        {
+            "3": "1  vanilla bean, slit lengthwise, seeds scraped"
+        },
+        {
+            "4": "1 pinch salt"
+        },
+        {
+            "5": "5  egg yolks"
+        },
+        {
+            "6": "1 (8 ounce) package white chocolate chips"
+        },
+        {
+            "7": "2 cups heavy whipping cream"
+        },
+        {
+            "8": "1 teaspoon vanilla extract"
+        },
+        {
+            "9": "1 (12 ounce) package frozen raspberries"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat milk, sugar, vanilla bean and seeds, and salt in a saucepan over medium heat until warm, about 5 minutes."
+        },
+        {
+            "2": "Whisk egg yolks and about 1 cup warm milk mixture in a bowl; stir egg mixture into a saucepan. Continue to cook and stir until custard thickens enough to coat the back of a spoon, 5 to 7 minutes. Remove vanilla bean."
+        },
+        {
+            "3": "Stir white chocolate chips into custard until melted. Pour custard into a large bowl; stir in heavy cream and vanilla extract. Cover and refrigerate until chilled."
+        },
+        {
+            "4": "Pour chilled mixture into an ice cream maker and freeze according to the manufacturer's directions until it reaches soft-serve consistency. Place ice cream in the freezer while you cook raspberries."
+        },
+        {
+            "5": "Heat raspberries in a saucepan over medium heat until raspberries begin to fall apart, 7 to 10 minutes. Press raspberries through a sieve over a bowl to remove seeds; discard seeds."
+        },
+        {
+            "6": "Gently swirl raspberries into soft ice cream, creating ribbons of raspberries. Transfer ice cream to a 1- or 2-quart lidded plastic container; cover surface with plastic wrap and seal. For best results, ice cream should ripen in the freezer for at least 2 hours or overnight."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 30 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "344"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8282418.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1126127.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F59f938f18dd713e0dc6ee300430a1a61%2F1013782.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

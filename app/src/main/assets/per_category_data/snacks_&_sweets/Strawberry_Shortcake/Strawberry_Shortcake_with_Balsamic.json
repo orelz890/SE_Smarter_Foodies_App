@@ -1,0 +1,81 @@
+{
+    "title": "Strawberry Shortcake with Balsamic",
+    "Category": "Strawberry Shortcake",
+    "Ingredients": [
+        {
+            "1": "2 cups sliced strawberries"
+        },
+        {
+            "2": "0.25 cup balsamic vinegar"
+        },
+        {
+            "3": "1 tablespoon white sugar"
+        },
+        {
+            "4": "1 pinch ground black pepper"
+        },
+        {
+            "5": "4  slices angel food cake"
+        },
+        {
+            "6": "0.5 cup whipped cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for medium heat and lightly oil the grate."
+        },
+        {
+            "2": "Combine strawberries, balsamic vinegar, sugar, and black pepper in a bowl; marinate for 10 to 15 minutes."
+        },
+        {
+            "3": "Grill the slices of angel food cake on the preheated grill until toasted, 3 to 5 minutes on each side."
+        },
+        {
+            "4": "Transfer the cake to 4 dessert plates and top with marinated strawberries and the liquid and a spoonful of whipped cream."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "142"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F836821.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F836822.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F836959.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

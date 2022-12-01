@@ -1,0 +1,59 @@
+{
+    "title": "Bahama Mama",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "1 cup crushed ice"
+        },
+        {
+            "2": "1 fluid ounce orange juice"
+        },
+        {
+            "3": "1 fluid ounce pineapple juice"
+        },
+        {
+            "4": "0.5 fluid ounce rum"
+        },
+        {
+            "5": "0.5 fluid ounce coconut-flavored rum"
+        },
+        {
+            "6": "0.5 fluid ounce grenadine syrup"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine crushed ice, orange juice, pineapple juice, regular rum, coconut-flavored rum, and grenadine in a blender. Blend until the drink's consistency is slushy."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9306024.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8909298.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8069557.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8069558.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/mq6pp7-g9mfUTyDEfcmpP2jjd5o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9306024-fc0cbe285b374781aa64f2072c9fa8ef.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

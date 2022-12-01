@@ -1,0 +1,93 @@
+{
+    "title": "Chocolate Banana Bread",
+    "Category": "Banana Bread",
+    "Ingredients": [
+        {
+            "1": "1 cup margarine, softened"
+        },
+        {
+            "2": "2 cups white sugar"
+        },
+        {
+            "3": "4  eggs"
+        },
+        {
+            "4": "6  bananas, mashed"
+        },
+        {
+            "5": "2 teaspoons vanilla extract"
+        },
+        {
+            "6": "3 cups all-purpose flour"
+        },
+        {
+            "7": "2 teaspoons baking soda"
+        },
+        {
+            "8": "0.25 cup unsweetened cocoa powder"
+        },
+        {
+            "9": "1 cup lite sour cream"
+        },
+        {
+            "10": "1 cup semisweet chocolate chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease two 9x5 inch loaf pans."
+        },
+        {
+            "2": "In a large bowl, cream together margarine, sugar and eggs. Stir in bananas and vanilla. Sift in flour, baking soda and cocoa; mix well. Blend in sour cream and chocolate chips. Pour batter into prepared pans."
+        },
+        {
+            "3": "Bake in preheated oven for 60 minutes, or until a toothpick inserted into center of a loaf comes out clean."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "2 - 9x5 inch loaves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "278"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb82fab6e3b85505a06d2c8cf271aa18c%2F1663526557IMG_0150%25202.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb82fab6e3b85505a06d2c8cf271aa18c%2F1648667119image.webp&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9247236.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9214988.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

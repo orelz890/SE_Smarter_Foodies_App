@@ -1,0 +1,75 @@
+{
+    "title": "Orange Gelatin Salad",
+    "Category": "Jell-O\u00ae Salad",
+    "Ingredients": [
+        {
+            "1": "1 (11 ounce) can mandarin oranges, drained"
+        },
+        {
+            "2": "1 (8 ounce) can crushed pineapple, drained"
+        },
+        {
+            "3": "1 (6 ounce) package orange flavored Jell-O\u00ae mix"
+        },
+        {
+            "4": "16 ounces cottage cheese"
+        },
+        {
+            "5": "8 ounces frozen whipped topping, thawed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine oranges, pineapple, and gelatin mix in a mixing bowl. Mix well and chill for 30 minutes."
+        },
+        {
+            "2": "Add cottage cheese to the fruit mixture; stir to combine."
+        },
+        {
+            "3": "Gently fold in whipped topping; chill and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "7 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "289"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9258852.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8884458.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7727502.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7053154.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

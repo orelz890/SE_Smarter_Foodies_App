@@ -1,0 +1,93 @@
+{
+    "title": "Bean Soup",
+    "Category": "Pork Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package dried navy beans"
+        },
+        {
+            "2": "7 cups water"
+        },
+        {
+            "3": "1  ham bone"
+        },
+        {
+            "4": "2 cups diced ham"
+        },
+        {
+            "5": "0.25 cup minced onion"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "1 pinch ground black pepper"
+        },
+        {
+            "8": "1  bay leaf"
+        },
+        {
+            "9": "0.5 cup sliced carrots"
+        },
+        {
+            "10": "0.5 cup sliced celery"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Rinse beans; transfer to a large stockpot and add water. Bring to a boil and simmer for 2 minutes; remove from heat, cover, and let stand for 1 hour."
+        },
+        {
+            "2": "Add ham bone, diced ham, onion, salt, pepper, and bay leaf. Bring to a boil; reduce heat to low, cover, and simmer until beans are soft, about 1 hour and 15 minutes."
+        },
+        {
+            "3": "Add carrots and celery; cook until tender, about 10 to 15 minutes."
+        },
+        {
+            "4": "Remove ham bone from the pot and place on a cutting board until cool enough to handle. Remove any meat from the bones and cut into bite-sized pieces; stir into soup until warmed through."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 40 mins"
+        },
+        {
+            "Total Time": " 2 hrs 5 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "247"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8937878.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8035562.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F98baee8cd4263b13085a0ed7b629a856%2F7633499.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7523163.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

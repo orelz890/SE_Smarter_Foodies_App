@@ -1,0 +1,78 @@
+{
+    "title": "Orange Buttermilk Salad",
+    "Category": "Jell-O\u00ae Salad",
+    "Ingredients": [
+        {
+            "1": "1 (20 ounce) can crushed pineapple, undrained"
+        },
+        {
+            "2": "3 tablespoons white sugar"
+        },
+        {
+            "3": "1 (6 ounce) package orange flavored Jell-O\u00ae"
+        },
+        {
+            "4": "2 cups buttermilk"
+        },
+        {
+            "5": "1 (8 ounce) container frozen whipped topping, thawed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix pineapple and sugar together in a medium saucepan, and bring to a low boil, stirring occasionally. Stir in gelatin until completely dissolved, remove from heat, and cool to room temperature. Add buttermilk, and refrigerate 1 hour, or until partially set."
+        },
+        {
+            "2": "Gently fold in whipped topping. Pour mixture into a lightly oiled gelatin mold. Refrigerate 8 hours, or until completely set."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 30 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "203"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7048276.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1013952.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1013562.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1013954.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Boiled Bagels",
+    "Category": "Bagels",
+    "Ingredients": [
+        {
+            "1": "1.0 cups all-purpose flour, or as needed"
+        },
+        {
+            "2": "2 (.25 ounce) packages active dry yeast"
+        },
+        {
+            "3": "0.5 cups warm water (110 degrees F/45 degrees C)"
+        },
+        {
+            "4": "3 tablespoons white sugar"
+        },
+        {
+            "5": "1 tablespoon salt"
+        },
+        {
+            "6": "1 tablespoon white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In large bowl, combine 1 1/2 cups flour and yeast. Mix water, 3 tablespoons sugar and salt together, and add to the dry ingredients. Beat with a mixer for half a minute at a low speed, scraping the sides of the bowl clean. Beat at a higher speed for 3 minutes. Then, by hand, mix in enough flour to make a moderately stiff dough."
+        },
+        {
+            "2": "Turn out onto a lightly floured surface and knead until smooth and elastic (8-10 minutes). Cover, let rest for 15 minutes."
+        },
+        {
+            "3": "Cut into 12 portions, shape into smooth balls. Poke a hole in the center with your finger, and gently enlarge the hole while working the bagel into a uniform shape. Cover, let rise 20 minutes."
+        },
+        {
+            "4": "Meanwhile, start a gallon of water boiling. Put 1 tablespoon of sugar in it, mix it around a bit. Reduce to simmering."
+        },
+        {
+            "5": "When the bagels are ready, put 4 or 5 bagels into the water, and cook 7 minutes, turning once. Drain them. Place on a greased baking sheet, and bake at 375 degrees F (190 degrees C) for 30 to 35 minutes. Remove from oven, eat hot or cold."
+        },
+        {
+            "6": "Broiling option: For a glossier surface, place raised bagels on an ungreased baking sheet prior to boiling them. Broil them five inches from heat for 1 to 1 1/2 minutes on each side. Then put them into the hot water to be boiled as above. Note: do not bake broiled bagels as long as non-broiled ones, 25 minutes should be long enough."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Additional Time": "35 mins"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "181"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe4af9541cc35ed6eae0d6756d5540ccc%2F166843997120820220530_154534_HDR.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F610fee55a8533f62ff609d61840f9e88%2F165427477589B3C333-A02E-4121-AEA3-05BF3DD36497.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F610fee55a8533f62ff609d61840f9e88%2F164772015670124425-E280-4AD8-824D-0131B5199D4E.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9162532.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

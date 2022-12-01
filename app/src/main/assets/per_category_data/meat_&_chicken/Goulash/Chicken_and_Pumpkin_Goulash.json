@@ -1,0 +1,105 @@
+{
+    "title": "Chicken and Pumpkin Goulash",
+    "Category": "Goulash",
+    "Ingredients": [
+        {
+            "1": "2 (14.5 ounce) cans diced tomatoes"
+        },
+        {
+            "2": "1 tablespoon brown sugar"
+        },
+        {
+            "3": "2 tablespoons olive oil"
+        },
+        {
+            "4": "1  onion, chopped"
+        },
+        {
+            "5": "1 teaspoon ground ginger"
+        },
+        {
+            "6": "1 teaspoon ground cinnamon"
+        },
+        {
+            "7": "1 teaspoon ground cumin"
+        },
+        {
+            "8": "1 tablespoon ground coriander"
+        },
+        {
+            "9": "0.5 pounds skinless, boneless chicken breast halves, cut into bite size pieces"
+        },
+        {
+            "10": "1 (15 ounce) can garbanzo beans, drained and rinsed"
+        },
+        {
+            "11": "3 pounds fresh pumpkin, peeled and cut into 3/4-inch cubes"
+        },
+        {
+            "12": "1 salt, or to taste"
+        },
+        {
+            "13": "1 teaspoon cornstarch (Optional)"
+        },
+        {
+            "14": "0.25 cup water (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Set a slow cooker to High, and place diced tomatoes and brown sugar into the cooker; stir to combine."
+        },
+        {
+            "2": "Heat olive oil in a non-stick skillet over medium-high heat, and cook and stir onion until lightly browned, about 10 minutes. Mix in the ginger, cinnamon, cumin, and coriander; cook and stir until the spices release their fragrance, about 2 minutes. Stir in the chicken, and cook and stir until chicken is no longer pink. Mix the garbanzo beans into the chicken mixture, and bring to a simmer. Transfer the mixture into the slow cooker, and mix with tomatoes."
+        },
+        {
+            "3": "Place pumpkin into the same skillet, and reduce heat to medium. Cook until the pumpkin is hot and some pieces are slightly browned, about 10 minutes, stirring often. Place pumpkin into the cooker, and cover."
+        },
+        {
+            "4": "Cook the stew on the High setting for 1 hour; reduce cooker setting to Low, and cook until pumpkin is tender, 3 to 4 more hours. Season with salt and black pepper. If stew seems too liquid, mix cornstarch into water in a small cup until smooth, and stir the slurry into the stew. Cook until thickened, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 4 hrs 25 mins"
+        },
+        {
+            "Total Time": " 4 hrs 55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "330"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc2374562141720c978dd0e8d92636abc%2F1568621.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1009411.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F753201.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Coconut Custard Pie",
+    "Category": "Pie Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 cups white sugar"
+        },
+        {
+            "2": "0.5 cup butter"
+        },
+        {
+            "3": "2 large eggs"
+        },
+        {
+            "4": "2 tablespoons all-purpose flour"
+        },
+        {
+            "5": "1 cup milk"
+        },
+        {
+            "6": "1 cup flaked coconut"
+        },
+        {
+            "7": "1 teaspoon vanilla extract"
+        },
+        {
+            "8": "1 (9 inch) unbaked pie crust"
+        },
+        {
+            "9": "1 tablespoon flaked coconut"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Beat together sugar, butter, and eggs in a large bowl with an electric mixer on low speed. Blend in flour. Mix in milk, 1/2 cup at a time. Add 1 cup coconut flakes and vanilla; mix well."
+        },
+        {
+            "3": "Pour filling into unbaked pie crust. Sprinkle top with 1 tablespoon coconut flakes."
+        },
+        {
+            "4": "Bake in the preheated oven until filling is set, 40 to 50 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "447"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "56g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F34e5a43381ef60720487a1a1c787a8db%2F166717589863816671758891661500046614025098762.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5615bbb43e909c51453fb073c4039942%2F1658253053image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8793384.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8110909.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

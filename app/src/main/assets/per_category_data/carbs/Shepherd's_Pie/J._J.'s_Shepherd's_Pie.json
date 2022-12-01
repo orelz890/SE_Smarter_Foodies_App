@@ -1,0 +1,78 @@
+{
+    "title": "J. J.'s Shepherd's Pie",
+    "Category": "Shepherd's Pie",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1 (16 ounce) can cream-style corn"
+        },
+        {
+            "3": "1 (10 ounce) package frozen corn niblets"
+        },
+        {
+            "4": "16 slices American cheese"
+        },
+        {
+            "5": "0.5 pounds mashed potatoes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Heat a large skillet over medium-high heat. Cook and stir beef in hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease."
+        },
+        {
+            "3": "Stir cream-style corn and corn niblets together in a saucepan over medium heat; cook and stir until heated through, 5 to 10 minutes."
+        },
+        {
+            "4": "Spread ground beef out in the bottom of a casserole dish. Top with 8 slices American cheese, corn mixture, remaining cheese slices, and mashed potatoes, respectively."
+        },
+        {
+            "5": "Bake in the preheated oven until corn mixture bubbles along the edges of the dish, about 30 minutes. Cool briefly before slicing."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "316"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3067211.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

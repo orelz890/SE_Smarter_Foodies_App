@@ -1,0 +1,75 @@
+{
+    "title": "Curried Chicken Salad with Greek Yogurt",
+    "Category": "Chicken Salad",
+    "Ingredients": [
+        {
+            "1": "1 pound cooked chicken breast, chopped"
+        },
+        {
+            "2": "2 stalks celery, chopped"
+        },
+        {
+            "3": "0.5 cup sliced almonds"
+        },
+        {
+            "4": "0.75 cup Greek yogurt"
+        },
+        {
+            "5": "2 teaspoons honey"
+        },
+        {
+            "6": "0.5 teaspoons lemon juice"
+        },
+        {
+            "7": "0.5 teaspoons curry powder"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine chicken with celery and almonds in a bowl."
+        },
+        {
+            "2": "Mix Greek yogurt, honey, lemon juice, curry powder, salt, and pepper together in a small bowl. Pour dressing over the chicken salad and stir to combine."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "346"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "36g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9333641.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2010328.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

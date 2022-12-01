@@ -1,0 +1,102 @@
+{
+    "title": "Whole Wheat Rotini Pasta Salad",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "1 (12 ounce) box whole wheat rotini pasta"
+        },
+        {
+            "2": "0.25 cup apple cider vinegar"
+        },
+        {
+            "3": "0.25 cup olive oil"
+        },
+        {
+            "4": "0.25 cup crumbled feta cheese, or to taste"
+        },
+        {
+            "5": "6 leaves fresh basil, chopped"
+        },
+        {
+            "6": "1 salt and ground black pepper to taste"
+        },
+        {
+            "7": "1 bunch asparagus, trimmed and chopped"
+        },
+        {
+            "8": "3  tomatoes, chopped"
+        },
+        {
+            "9": "2 large carrots, chopped"
+        },
+        {
+            "10": "1 bunch green onions"
+        },
+        {
+            "11": "4 cloves garlic, minced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot with lightly salted water to a rolling boil. Cook rotini at a boil until the pasta is cooked yet slightly firm to the bite, about 8 minutes; drain."
+        },
+        {
+            "2": "Rinse the pasta with cold water until completely chilled; drain completely."
+        },
+        {
+            "3": "While the pasta cooks, whisk the apple cider vinegar and olive oil together in a large bowl until blended. Stir feta cheese, basil, salt, and black pepper into the vinaigrette."
+        },
+        {
+            "4": "Fold the asparagus, tomatoes, carrots, green onions, and garlic into the vinaigrette to coat evenly."
+        },
+        {
+            "5": "Stir the cooled pasta into the vegetable mixture; toss until evenly mixed."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "352"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "52g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2a9d917cf53d264e1cf8a4a4fdf9b1ee%2F164988170716498816930568958560939992425424.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa93ee25563b81ee3d4ddb2ed1576d9ba%2F5529815.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2d7043024ad1e54574c908bdef4c24e1%2F5529816.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5529630.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

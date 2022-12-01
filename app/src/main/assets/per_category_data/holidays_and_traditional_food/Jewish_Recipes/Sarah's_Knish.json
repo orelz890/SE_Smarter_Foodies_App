@@ -1,0 +1,111 @@
+{
+    "title": "Sarah's Knish",
+    "Category": "Jewish Recipes",
+    "Ingredients": [
+        {
+            "1": "7  baking potatoes, peeled and cubed"
+        },
+        {
+            "2": "0.25 cup vegetable oil"
+        },
+        {
+            "3": "2  onions, chopped"
+        },
+        {
+            "4": "1 teaspoon ground black pepper"
+        },
+        {
+            "5": "2 teaspoons salt"
+        },
+        {
+            "6": "2 teaspoons white sugar"
+        },
+        {
+            "7": "1 teaspoon minced garlic"
+        },
+        {
+            "8": "2  eggs"
+        },
+        {
+            "9": "0.5 cup vegetable oil"
+        },
+        {
+            "10": "1 cup warm water"
+        },
+        {
+            "11": "1 teaspoon salt"
+        },
+        {
+            "12": "4 cups all-purpose flour"
+        },
+        {
+            "13": "2  egg yolks"
+        },
+        {
+            "14": "2 tablespoons milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the potatoes into a large pot and cover with salted water. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer until tender, about 20 minutes. Drain and allow to steam dry for a minute or two. Heat 1/4 cup of vegetable oil in a skillet over medium heat. Stir in the onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Combine potatoes and onions in a large bowl; season with 2 teaspoons of salt, pepper, sugar, and garlic. Mash until smooth; set aside."
+        },
+        {
+            "2": "Preheat an oven to 375 degrees F (190 degrees C). Line a baking sheet with parchment paper."
+        },
+        {
+            "3": "Beat eggs, 1/2 cup of vegetable oil, warm water, and 1 teaspoon of salt. Gradually stir in flour. When the dough has pulled together, turn it out onto a lightly floured surface and knead until smooth and elastic, about 8 minutes. Divide the dough into thirds and roll each piece out to about 9x13-inches. Slice the rolled dough in half lengthwise, then spread the potato mixture down the center of each strip. Roll each strip around the filling and gently press to seal. Repeat with the remaining dough and filling to end with six logs."
+        },
+        {
+            "4": "Cut each log into 1-inch slices and place cut side down on the prepared baking sheet. Gently press the edges of the dough toward the center of the potato mixture to form a bun. Beat egg yolks and milk together in a small bowl. Brush each knish with the the egg yolk mixture."
+        },
+        {
+            "5": "Bake in the preheated oven until golden brown, 35 to 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": " 2 hrs"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 3 hrs"
+        },
+        {
+            "Servings": "60 "
+        },
+        {
+            "Yield": "5 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "80"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8585318.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6430919.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4558780.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4321685.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

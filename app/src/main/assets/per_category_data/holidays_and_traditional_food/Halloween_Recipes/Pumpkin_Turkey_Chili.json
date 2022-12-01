@@ -1,0 +1,99 @@
+{
+    "title": "Pumpkin Turkey Chili",
+    "Category": "Halloween Recipes",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon vegetable oil"
+        },
+        {
+            "2": "1 cup chopped onion"
+        },
+        {
+            "3": "0.5 cup chopped green bell pepper"
+        },
+        {
+            "4": "0.5 cup chopped yellow bell pepper"
+        },
+        {
+            "5": "1 clove garlic, minced"
+        },
+        {
+            "6": "1 pound ground turkey"
+        },
+        {
+            "7": "1 (14.5 ounce) can diced tomatoes"
+        },
+        {
+            "8": "2 cups pumpkin puree"
+        },
+        {
+            "9": "0.5 tablespoons chili powder"
+        },
+        {
+            "10": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "11": "1 dash salt"
+        },
+        {
+            "12": "0.5 cup shredded Cheddar cheese"
+        },
+        {
+            "13": "0.5 cup sour cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat the oil in a large skillet over medium heat, and saute the onion, green bell pepper, yellow bell pepper, and garlic until tender. Stir in the turkey, and cook until evenly brown. Drain, and mix in tomatoes and pumpkin. Season with chili powder, pepper, and salt. Reduce heat to low, cover, and simmer 20 minutes. Serve topped with Cheddar cheese and sour cream."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "285"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff283e9eb5692a4a62b35d6340ac51631%2F166570353286946F712CF-013D-4386-99AF-20C0BFEC3673.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F102fd51afbebb38503814a4d578b87c1%2F165936789920220730_171840.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8629865.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7220919.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/MfhvtyEqTMekjXMBDABlbNynLF4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/270553-pumpkin-turkey-chili-Darcey55-1x1-1-206dbb134bcf4e7e8f903144d7a9497f.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

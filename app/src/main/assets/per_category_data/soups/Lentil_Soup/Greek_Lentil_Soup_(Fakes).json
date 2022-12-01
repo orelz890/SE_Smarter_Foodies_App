@@ -1,0 +1,102 @@
+{
+    "title": "Greek Lentil Soup (Fakes)",
+    "Category": "Lentil Soup",
+    "Ingredients": [
+        {
+            "1": "8 ounces brown lentils"
+        },
+        {
+            "2": "0.25 cup olive oil"
+        },
+        {
+            "3": "1 medium onion, minced"
+        },
+        {
+            "4": "1 large carrot, chopped"
+        },
+        {
+            "5": "1 tablespoon minced garlic"
+        },
+        {
+            "6": "1 quart water"
+        },
+        {
+            "7": "2  bay leaves"
+        },
+        {
+            "8": "1 pinch dried oregano"
+        },
+        {
+            "9": "1 pinch crushed dried rosemary"
+        },
+        {
+            "10": "1 tablespoon tomato paste"
+        },
+        {
+            "11": "1 salt and ground black pepper to taste"
+        },
+        {
+            "12": "1 teaspoon olive oil, or to taste"
+        },
+        {
+            "13": "1 teaspoon red wine vinegar, or to taste (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place lentils in a large saucepan; add enough water to cover by 1 inch. Bring water to a boil and cook for 10 minutes; drain."
+        },
+        {
+            "2": "Heat olive oil in a saucepan over medium heat. Add onion, carrot, and garlic; cook and stir until onion has softened and turned translucent, about 5 minutes. Pour in lentils, then add 1 quart water, bay leaves, oregano, and rosemary. Bring to a boil. Cover and reduce heat to medium-low; simmer for 10 minutes."
+        },
+        {
+            "3": "Stir in tomato paste; season with salt and pepper. Cover and simmer, stirring occasionally, until lentils have softened, 30 to 40 minutes. Add additional water if soup becomes too thick. Drizzle with olive oil and red wine vinegar to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "357"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9361158.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9001745.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8807370.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8665552.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/zWZ9xyFZl0BS9_FrRZLFSZBFn6Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6275622-2000-5a1cd13c02774a61a70303a09dce6f20.jpg"
+        }
+    ],
+    "main category": "soups"
+}

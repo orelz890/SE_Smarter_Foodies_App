@@ -1,0 +1,72 @@
+{
+    "title": "Beet Hummus",
+    "Category": "Hummus",
+    "Ingredients": [
+        {
+            "1": "1 medium beet, top and bottom trimmed"
+        },
+        {
+            "2": "0.25 cup tahini"
+        },
+        {
+            "3": "2 tablespoons lemon juice"
+        },
+        {
+            "4": "2 cloves garlic"
+        },
+        {
+            "5": "1 (15 ounce) can chickpeas, rinsed and drained"
+        },
+        {
+            "6": "0.25 cup olive oil"
+        },
+        {
+            "7": "1 tablespoon water, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a pot of lightly salted water to a low boil. Add beet and cook until tender, about 20 minutes. Remove beet and allow to cool, or place in a bowl of cold water. Peel beet, cut into small pieces, and transfer to the bowl of a food processor."
+        },
+        {
+            "2": "Add tahini to beet pieces and blend until smooth. Add lemon juice, garlic, and some of the chickpeas; pulse until combined. Continue adding chickpeas in small amounts, blending after each addition. Stream olive oil in slowly, with the processor running, until hummus is smooth but still thick and spreadable. Add a bit of water if needed."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "122"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9049818.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8486733.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

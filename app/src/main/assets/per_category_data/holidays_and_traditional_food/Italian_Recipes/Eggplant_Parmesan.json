@@ -1,0 +1,102 @@
+{
+    "title": "Eggplant Parmesan",
+    "Category": "Italian Recipes",
+    "Ingredients": [
+        {
+            "1": "3 large eggplant, peeled and thinly sliced"
+        },
+        {
+            "2": "2 large eggs, beaten"
+        },
+        {
+            "3": "4 cups Italian seasoned bread crumbs"
+        },
+        {
+            "4": "6 cups spaghetti sauce, divided"
+        },
+        {
+            "5": "1 (16 ounce) package mozzarella cheese, shredded and divided"
+        },
+        {
+            "6": "0.5 cup grated Parmesan cheese, divided"
+        },
+        {
+            "7": "0.5 teaspoon dried basil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Dip eggplant slices in beaten egg, then in bread crumbs to coat. Place in a single layer on a baking sheet."
+        },
+        {
+            "3": "Bake in the preheated oven for 5 minutes. Flip and bake for 5 more minutes."
+        },
+        {
+            "4": "Spread spaghetti sauce to cover the bottom of a 9x13-inch baking dish. Place a layer of eggplant slices in the sauce. Sprinkle with mozzarella and Parmesan cheeses. Repeat layers with remaining sauce, eggplant, and cheese, ending with a cheese layer. Sprinkle basil on top."
+        },
+        {
+            "5": "Bake in the preheated oven until golden brown, about 35 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 9x13-inch casserole"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "487"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "62g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffa71c8c7224d019f7631e89e3f0aa4f1%2F1669027371936Eggplant-Parm-.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffa71c8c7224d019f7631e89e3f0aa4f1%2F1666037026296IMG_20221017_195709.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F65970e963a246ff4a8d81be8986d7646%2F1664209512IMG_20220925_142023074.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F65970e963a246ff4a8d81be8986d7646%2F1662976206eggplant%2520parm.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/-HHXZYDQpZyLwzy1cwgDjm0CXFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25321_EggplantParmesanII-mfs-2X3--f961d97dc9a8495ab215a92d0b92298d.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/McRh73aVGWRR38SVcQiGXm4RG20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25321_EggplantParmesanII-mfs-1x2--21a2a992258148f6b5bfd822957472f3.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/NFCzBUfR0ub8dELJoJWQ9C87reQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5068161-eef00c8c5553490d894800642e1dd9ec.jpg"
+        },
+        {
+            "img8": "https://www.allrecipes.com/thmb/BDAQRAUL104trpZIV9D5neU6Q9o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25321-eggplant-parmesan-ddmfs-1x1-1-cfdaa73a240d4f6abb9b23948aa97cd8.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

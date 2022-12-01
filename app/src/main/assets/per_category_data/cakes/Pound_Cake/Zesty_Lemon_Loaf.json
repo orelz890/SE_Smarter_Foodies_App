@@ -1,0 +1,108 @@
+{
+    "title": "Zesty Lemon Loaf",
+    "Category": "Pound Cake",
+    "Ingredients": [
+        {
+            "1": "3 cups all-purpose flour"
+        },
+        {
+            "2": "2 teaspoons baking powder"
+        },
+        {
+            "3": "0.5 teaspoon ground ginger"
+        },
+        {
+            "4": "0.25 teaspoon salt"
+        },
+        {
+            "5": "1 cup butter"
+        },
+        {
+            "6": "2 cups sugar"
+        },
+        {
+            "7": "4  eggs"
+        },
+        {
+            "8": "2 tablespoons brandy-based orange liqueur (such as Grand Marnier\u00ae)"
+        },
+        {
+            "9": "3 tablespoons grated lemon zest"
+        },
+        {
+            "10": "0.25 cups buttermilk"
+        },
+        {
+            "11": "0.5 cup fresh lemon juice"
+        },
+        {
+            "12": "0.75 cup white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease 2 loaf pans."
+        },
+        {
+            "2": "Sift together the flour, baking powder, ground ginger, and salt in a bowl; set aside. Cream together the butter and 2 cups sugar in a separate large bowl; beat in the eggs. Stir in the lemon zest and orange liqueur. Add the buttermilk. Add the flour mixture while whisking gently. Pour the mixture into the prepared loaf pans."
+        },
+        {
+            "3": "Bake in the preheated ovens until a toothpick or small knife inserted in the crown comes out clean, about 50 minutes. Remove from pans and move to a cooling rack."
+        },
+        {
+            "4": "Whisk together the lemon juice and 3/4 cup sugar until the sugar dissolves. Gently drizzle the mixture over the hot loaves. Allow the loaves to cool completely before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "2 loaves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "284"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5c821204a74ab970ddefb03e113a4df3%2F1655680662C90B7D47-9D03-4070-9303-F58345675C23.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9045948.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9320867.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9223549.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/_ZNSZY7v5Rz63iGFkIVjedyAI1s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1007633-efc7ed85d2684397895f8a167bee734d.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

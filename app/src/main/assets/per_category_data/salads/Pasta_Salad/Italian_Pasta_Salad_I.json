@@ -1,0 +1,81 @@
+{
+    "title": "Italian Pasta Salad I",
+    "Category": "Pasta Salad",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package rotini pasta"
+        },
+        {
+            "2": "1 cup Italian-style salad dressing"
+        },
+        {
+            "3": "1 cup creamy Caesar salad dressing"
+        },
+        {
+            "4": "1 cup grated Parmesan cheese"
+        },
+        {
+            "5": "1  red bell pepper, diced"
+        },
+        {
+            "6": "1  green bell pepper, chopped"
+        },
+        {
+            "7": "1  red onion, diced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large pot of salted boiling water, cook pasta until al dente, rinse under cold water and drain."
+        },
+        {
+            "2": "In a large bowl, combine the pasta, Italian salad dressing, Caesar dressing, Parmesan cheese, red bell pepper, green bell pepper, and red onion. Mix well and serve chilled or at room temperature."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "291"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8970125.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8571795.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7615602.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6746260.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

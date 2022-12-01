@@ -1,0 +1,90 @@
+{
+    "title": "Chocolate Pudding Cake II",
+    "Category": "Chocolate Cake",
+    "Ingredients": [
+        {
+            "1": "1 cup all-purpose flour"
+        },
+        {
+            "2": "0.75 cup white sugar"
+        },
+        {
+            "3": "2 tablespoons unsweetened cocoa powder"
+        },
+        {
+            "4": "2 teaspoons baking powder"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "0.5 cup milk"
+        },
+        {
+            "7": "2 tablespoons vegetable oil"
+        },
+        {
+            "8": "1 teaspoon vanilla extract"
+        },
+        {
+            "9": "0.75 cup packed brown sugar"
+        },
+        {
+            "10": "0.25 cup unsweetened cocoa powder"
+        },
+        {
+            "11": "0.5 cups boiling water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F ( 175 degrees C)."
+        },
+        {
+            "2": "In ungreased 9 inch square pan, stir together flour, white sugar, cocoa, the baking powder, and salt. Mix in milk, oil, and vanilla with a fork until smooth."
+        },
+        {
+            "3": "Spread batter evenly in pan (batter will be thick). Sprinkle with brown sugar and 1/4 cup cocoa. Pour boiling water over batter."
+        },
+        {
+            "4": "Bake at 350 degrees F (175 degrees C) for 40 minutes. Let stand 15 minutes, then spoon into dessert dishes or cut into squares. Invert each square onto dessert plate and spoon sauce over each serving. Top with ice cream or whipped topping, if desired."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 to 9 - inch square pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "172"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9105500.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8713661.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8337263.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8025275.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

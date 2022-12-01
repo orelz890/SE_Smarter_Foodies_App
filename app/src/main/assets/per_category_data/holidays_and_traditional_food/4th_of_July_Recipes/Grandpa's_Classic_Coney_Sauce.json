@@ -1,0 +1,93 @@
+{
+    "title": "Grandpa's Classic Coney Sauce",
+    "Category": "4th of July Recipes",
+    "Ingredients": [
+        {
+            "1": "2 pounds ground beef"
+        },
+        {
+            "2": "0.5 cup chopped onion"
+        },
+        {
+            "3": "0.5 cups ketchup"
+        },
+        {
+            "4": "0.25 cup white sugar"
+        },
+        {
+            "5": "0.25 cup white vinegar"
+        },
+        {
+            "6": "0.25 cup prepared yellow mustard"
+        },
+        {
+            "7": "0.75 teaspoon Worcestershire sauce"
+        },
+        {
+            "8": "0.75 teaspoon salt"
+        },
+        {
+            "9": "0.5 teaspoon celery seed"
+        },
+        {
+            "10": "0.5 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place ground beef and onion in a large skillet over medium-high heat. Cook, stirring to crumble, until beef is browned; drain."
+        },
+        {
+            "2": "Transfer the beef and onion to a slow cooker and stir in ketchup, sugar, vinegar, and mustard. Season with Worcestershire, salt, celery seed, and pepper."
+        },
+        {
+            "3": "Cover and simmer on Low for 3 hours before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 10 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "186"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9384429.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9275692.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8034984.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7857578.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/SYwXj9dNCiTI5112F9BQNyeeTtA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/649489-74c4d500d0034bfbac7f3c57021b453f.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

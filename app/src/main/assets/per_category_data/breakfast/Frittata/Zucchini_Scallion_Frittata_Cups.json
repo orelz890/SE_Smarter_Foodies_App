@@ -1,0 +1,84 @@
+{
+    "title": "Zucchini Scallion Frittata Cups",
+    "Category": "Frittata",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "7  egg whites"
+        },
+        {
+            "3": "3  eggs"
+        },
+        {
+            "4": "2 tablespoons half-and-half"
+        },
+        {
+            "5": "2 cups shredded zucchini"
+        },
+        {
+            "6": "1 cup chopped green onion"
+        },
+        {
+            "7": "3 tablespoons grated Parmigiano-Reggiano cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Prepare 12 muffin cups with cooking spray."
+        },
+        {
+            "2": "Whisk egg whites, eggs, and half-and-half together in a bowl. Stir zucchini, green onion, and cheese into egg mixture; pour into prepared muffin cups."
+        },
+        {
+            "3": "Bake in the preheated oven until set in the middle, 30 to 35 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 egg cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "45"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7449501.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7b76c3839871cd068cf2192959402784%2F6251517.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5464375.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4465393.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

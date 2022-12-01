@@ -1,0 +1,93 @@
+{
+    "title": "Sloppied Flank Steak Sandwiches",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds beef flank steak"
+        },
+        {
+            "2": "1 tablespoon steak seasoning (such as Montreal Steak Seasoning\u00ae)"
+        },
+        {
+            "3": "1 tablespoon olive oil"
+        },
+        {
+            "4": "0.25 cup brown sugar"
+        },
+        {
+            "5": "1 small onion, chopped"
+        },
+        {
+            "6": "1 small red bell pepper, chopped"
+        },
+        {
+            "7": "1 tablespoon apple cider vinegar"
+        },
+        {
+            "8": "1 tablespoon Worcestershire sauce"
+        },
+        {
+            "9": "2 cups tomato sauce"
+        },
+        {
+            "10": "2 tablespoons tomato paste"
+        },
+        {
+            "11": "6  hamburger buns, split and toasted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Sprinkle the beef flank steak with steak seasoning on both sides. Heat olive oil in a skillet over medium heat until the oil shimmers, and place the flank steak into the hot oil. Quickly brown the steak on both sides, about 5 minutes per side. Set the beef aside."
+        },
+        {
+            "2": "Stir brown sugar, onion, red bell pepper, apple cider vinegar, Worcestershire sauce, tomato sauce, and tomato paste together in a slow cooker until the brown sugar dissolves. Place the flank steak into the slow cooker, immersing it in the sauce. Set the cooker on on High and cook 4 hours, or set on Low and cook 8 hours."
+        },
+        {
+            "3": "To serve, shred the meat with 2 forks, or remove the meat, chop, and return to the sauce. Toast buns, and serve the sloppied steak on the toasted buns."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 4 hrs 5 mins"
+        },
+        {
+            "Total Time": " 4 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 sandwiches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "346"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2325561.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1068562.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F772304.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

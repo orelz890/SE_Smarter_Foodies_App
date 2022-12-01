@@ -1,0 +1,81 @@
+{
+    "title": "Black Bean Hummus",
+    "Category": "Mediterranean Diet",
+    "Ingredients": [
+        {
+            "1": "1 clove garlic"
+        },
+        {
+            "2": "1 (15 ounce) can black beans; drain and reserve liquid"
+        },
+        {
+            "3": "2 tablespoons lemon juice"
+        },
+        {
+            "4": "0.5 tablespoons tahini"
+        },
+        {
+            "5": "0.75 teaspoon ground cumin"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "0.25 teaspoon cayenne pepper"
+        },
+        {
+            "8": "0.25 teaspoon paprika"
+        },
+        {
+            "9": "10  Greek olives"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mince garlic in the bowl of a food processor. Add black beans, 2 tablespoons reserved liquid, 2 tablespoons lemon juice, tahini, 1/2 teaspoon cumin, 1/2 teaspoon salt, and 1/8 teaspoon cayenne pepper; process until smooth, scraping down the sides as needed. Add additional seasoning and liquid to taste. Garnish with paprika and Greek olives."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "81"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fbc60544762ca5231780e38053d57a0fc%2F1657765612F99F52AE-922A-4A35-A3DA-03E75B443147.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8463746.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8219132.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7878909.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Easy Pecan Pie",
+    "Category": "Pecan Pie",
+    "Ingredients": [
+        {
+            "1": "1 (9 inch) unbaked pie crust"
+        },
+        {
+            "2": "3  eggs, beaten"
+        },
+        {
+            "3": "1 cup dark corn syrup"
+        },
+        {
+            "4": "1 cup white sugar"
+        },
+        {
+            "5": "0.25 cup melted butter"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "1 cup pecan halves"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Beat together the eggs, corn syrup, sugar, butter and vanilla."
+        },
+        {
+            "3": "Arrange pecans in bottom of pie crust and pour mixture over."
+        },
+        {
+            "4": "Bake for 1 hour or until knife inserted 1 inch from edge comes out clean. Allow to cool before slicing."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 to 9 - inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "500"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "69g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9350811.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9279722.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9243325.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9144918.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

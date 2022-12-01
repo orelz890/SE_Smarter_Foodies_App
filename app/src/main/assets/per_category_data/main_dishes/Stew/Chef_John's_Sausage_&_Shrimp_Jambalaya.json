@@ -1,0 +1,114 @@
+{
+    "title": "Chef John's Sausage & Shrimp Jambalaya",
+    "Category": "Stew",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons butter"
+        },
+        {
+            "2": "8 ounces andouille sausage, cut into 1/4-inch slices"
+        },
+        {
+            "3": "2 tablespoons ground paprika"
+        },
+        {
+            "4": "1 tablespoon ground cumin"
+        },
+        {
+            "5": "0.5 teaspoon cayenne pepper"
+        },
+        {
+            "6": "0.5 cup diced tomatoes"
+        },
+        {
+            "7": "2 stalks celery, sliced 1/4 inch thick"
+        },
+        {
+            "8": "1 large green bell pepper, diced"
+        },
+        {
+            "9": "4  green onions, thinly sliced"
+        },
+        {
+            "10": "1 teaspoon salt"
+        },
+        {
+            "11": "1  bay leaf"
+        },
+        {
+            "12": "1 cup uncooked brown rice"
+        },
+        {
+            "13": "3 cups chicken stock"
+        },
+        {
+            "14": "1 pound large shrimp, peeled and deveined"
+        },
+        {
+            "15": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place butter and sausage in a large stockpot over medium heat; cook and stir until sausage begins to brown, 5 to 6 minutes."
+        },
+        {
+            "2": "Stir in paprika, cumin, and cayenne; cook for 1 minute."
+        },
+        {
+            "3": "Stir tomatoes, celery, green pepper, green onions, salt, and bay leaf into the sausage mixture."
+        },
+        {
+            "4": "Add brown rice and stir to combine. Stir in chicken stock, bring it to a simmer, then turn heat to low. Cover and cook until rice is just tender, about 45 minutes."
+        },
+        {
+            "5": "Stir in shrimp, replace lid and cook until shrimp are cooked through, about 5 minutes. Season with salt and black pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "495"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3862439b053aee404329e32493d801d9%2F166250953291F26DE0-8DBF-4B7A-B600-5430F874B222.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3862439b053aee404329e32493d801d9%2F1657402219DAD50B78-BCB3-4E4C-BE4A-4E28BEBD4BAB.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3248766.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3862439b053aee404329e32493d801d9%2F1646184850PXL_20220302_010637514.MP.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/9u4FmFuEcQfd6Po_3mA2rwBNAjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220126_Chef-Johns-Sausage-Shrimp-Jambalaya_Rochelle_SERP_5498587_original-1x1-1-00db40ef2a27448a972b6f22f4e99738.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

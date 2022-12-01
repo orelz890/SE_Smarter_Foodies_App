@@ -1,0 +1,87 @@
+{
+    "title": "Ham and Beans",
+    "Category": "High-Fiber Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound dry great Northern beans"
+        },
+        {
+            "2": "0.5 pound cooked ham, diced"
+        },
+        {
+            "3": "1 small onion, diced"
+        },
+        {
+            "4": "0.5 cup brown sugar"
+        },
+        {
+            "5": "1 tablespoon dried parsley"
+        },
+        {
+            "6": "0.25 teaspoon cayenne pepper"
+        },
+        {
+            "7": "6 cups water, or as needed to cover"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Rinse beans; transfer to a large stockpot. Cover with cold water and let stand overnight or at least 8 hours. Drain and rinse beans."
+        },
+        {
+            "2": "Return beans to stockpot; add ham, onion, sugar, parsley, and cayenne pepper. Pour in enough water to cover and season with salt and pepper. Bring to a boil; reduce heat to low and simmer until beans are tender, adding more water if needed, about 1 1/2 to 2 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 2 hrs"
+        },
+        {
+            "Additional Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 10 hrs 15 mins"
+        },
+        {
+            "Servings": "7 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "300"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "43g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9174361.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8992009.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8950308.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8627546.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/z2SR1xTGgQM2-WckMcfBUpqoo5A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/813105-7e3e8fcd1aaf49bab3900c02db1476f2.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

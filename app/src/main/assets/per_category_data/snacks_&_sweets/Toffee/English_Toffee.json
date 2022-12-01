@@ -1,0 +1,78 @@
+{
+    "title": "English Toffee",
+    "Category": "Toffee",
+    "Ingredients": [
+        {
+            "1": "1 cup butter"
+        },
+        {
+            "2": "0.25 cups white sugar"
+        },
+        {
+            "3": "2 tablespoons water"
+        },
+        {
+            "4": "0.25 cup slivered almonds"
+        },
+        {
+            "5": "1 cup chocolate chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Butter a 10x15 inch jellyroll pan."
+        },
+        {
+            "2": "Melt butter in a heavy skillet over medium heat. Stir in sugar and water. Bring to a boil and add almonds. Cook, stirring constantly until nuts are toasted and the sugar is golden. Pour the mixture into the prepared pan; do not spread."
+        },
+        {
+            "3": "Immediately sprinkle the chocolate chips on top. Let stand for a minute, then spread the chocolate over the top. Let cool completely, then break into pieces."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "222"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9441594.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9434145.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8916462.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8870843.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

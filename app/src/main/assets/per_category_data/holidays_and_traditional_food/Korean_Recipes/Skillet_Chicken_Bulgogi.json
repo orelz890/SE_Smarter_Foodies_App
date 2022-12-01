@@ -1,0 +1,87 @@
+{
+    "title": "Skillet Chicken Bulgogi",
+    "Category": "Korean Recipes",
+    "Ingredients": [
+        {
+            "1": "0.25 cup chopped onion"
+        },
+        {
+            "2": "5 tablespoons soy sauce"
+        },
+        {
+            "3": "1.0 tablespoons brown sugar"
+        },
+        {
+            "4": "2 tablespoons minced garlic"
+        },
+        {
+            "5": "2 tablespoons sesame oil"
+        },
+        {
+            "6": "1 tablespoon sesame seeds"
+        },
+        {
+            "7": "0.5 teaspoon cayenne"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        },
+        {
+            "9": "1 pound skinless, boneless chicken breasts, cut into thin strips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk onion, soy sauce, brown sugar, garlic, sesame oil, sesame seeds, cayenne pepper, salt, and black pepper together in a bowl until marinade is smooth."
+        },
+        {
+            "2": "Cook and stir chicken and marinade together in a large skillet over medium-high heat until chicken is cooked through, about 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "269"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdfd22036ab93aa6254c8d46eb8bf3e14%2F166440825616644082281867268865505286158010.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9440378.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9395280.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9231961.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/f3pSh7U3KFZ0tWjawTAUBIxTZ2c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2280937-skillet-chicken-bulgogi-DIZ9829-1x1-1-f427ee5be09a44b1aec8323742296cd1.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

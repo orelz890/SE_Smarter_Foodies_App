@@ -1,0 +1,90 @@
+{
+    "title": "Gluten-Free Cornbread",
+    "Category": "Cornbread",
+    "Ingredients": [
+        {
+            "1": "0.25 cups white cornmeal"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "0.25 cup gluten-free all-purpose flour"
+        },
+        {
+            "4": "1 tablespoon gluten-free baking powder"
+        },
+        {
+            "5": "1 cup milk"
+        },
+        {
+            "6": "0.25 cup butter, melted"
+        },
+        {
+            "7": "1  egg"
+        },
+        {
+            "8": "1 (14.75 ounce) can cream-style corn"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Grease an 8-inch square pan."
+        },
+        {
+            "2": "Mix cornmeal, sugar, flour, and baking powder together in a bowl."
+        },
+        {
+            "3": "Whisk milk, butter, and egg together in another bowl. Stir into cornmeal mixture just until combined and some lumps remain. Fold in corn. Pour batter into the pan and smooth out the top."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 20 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 8-inch baking pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "248"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff6163026534b0004ef4480510d4e5a40%2F1647468461IMG_1353%255B1%255D.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5790510.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa59ee89c884d96aa93a55977dc1a5d92%2F4129542.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4004371.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

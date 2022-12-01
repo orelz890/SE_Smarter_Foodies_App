@@ -1,0 +1,87 @@
+{
+    "title": "Baked Panko-Breaded Zucchini Fries",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "3 small zucchini, cut into french-fry shaped pieces"
+        },
+        {
+            "2": "1 salt to taste"
+        },
+        {
+            "3": "1 cup panko bread crumbs"
+        },
+        {
+            "4": "0.25 cup grated Parmesan cheese"
+        },
+        {
+            "5": "2 tablespoons Italian seasoning"
+        },
+        {
+            "6": "2  eggs, beaten"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 425 degrees F (220 degrees C). Line a baking sheet with aluminum foil."
+        },
+        {
+            "2": "Season zucchini pieces with salt."
+        },
+        {
+            "3": "Mix panko bread crumbs, Parmesan cheese, and Italian seasoning in a bowl."
+        },
+        {
+            "4": "Dip zucchini pieces into the beaten eggs and then press into bread crumbs to coat; gently toss between your hands so any bread crumbs that haven't stuck can fall away. Arrange breaded zucchini onto the prepared baking sheet in a single layer."
+        },
+        {
+            "5": "Bake zucchini in preheated oven until golden brown, about 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "294"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9199340.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8922597.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8440494.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8290633.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

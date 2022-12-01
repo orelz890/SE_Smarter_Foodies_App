@@ -1,0 +1,84 @@
+{
+    "title": "Real German Potato Salad (No Mayo)",
+    "Category": "Potato Salad",
+    "Ingredients": [
+        {
+            "1": "10  red potatoes, peeled and roughly chopped, or more to taste"
+        },
+        {
+            "2": "0.5 cup chicken broth, or more as needed"
+        },
+        {
+            "3": "0.25 cup white vinegar"
+        },
+        {
+            "4": "0.25 cup oil"
+        },
+        {
+            "5": "1 large onion, diced"
+        },
+        {
+            "6": "6 slices cooked bacon, chopped (Optional)"
+        },
+        {
+            "7": "0.25 cup chopped fresh dill"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, 15 to 20 minutes; drain."
+        },
+        {
+            "2": "Combine chicken broth, vinegar, and oil in a large pot; bring to a boil. Add onion to broth mixture; cook until onion is desired tenderness, 2 to 6 minutes. Remove pot from heat and add potatoes, bacon, and dill; gently stir, adding more chicken broth if needed to moisten salad. Season potato salad with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "151"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9324726.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9348529.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8310231.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7162967.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

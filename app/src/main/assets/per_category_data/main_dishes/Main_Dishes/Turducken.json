@@ -1,0 +1,90 @@
+{
+    "title": "Turducken",
+    "Category": "Main Dishes",
+    "Ingredients": [
+        {
+            "1": "1 (3 pound) whole chicken, boned"
+        },
+        {
+            "2": "1 salt and pepper to taste"
+        },
+        {
+            "3": "1 Creole seasoning to taste"
+        },
+        {
+            "4": "1 (4 pound) duck, boned"
+        },
+        {
+            "5": "1 (16 pound) turkey, boned"
+        },
+        {
+            "6": "3 cups prepared sausage and oyster dressing"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C). Lay the boned chicken skin-side down on a platter and season liberally with salt, pepper and Creole seasoning. Lay the boned duck skin-side down on top of the chicken and season liberally with salt, pepper and Creole seasoning. Cover and refrigerate."
+        },
+        {
+            "2": "Lay the boned turkey skin-side down on a flat surface. Cover with a layer of cold Sausage and Oyster Dressing and push the dressing into the leg and wing cavities so they will look as if they still have bones in them."
+        },
+        {
+            "3": "Lay the duck on top of the turkey skin-side down and cover it with a layer of cold dressing. Lay the chicken on top of the duck skin-side down and cover it with a layer of cold dressing."
+        },
+        {
+            "4": "With the help of an assistant, bring the edges of the turkey skin up and fasten them together with toothpicks. Use the kitchen string to lace around the toothpicks to help hold the stuffed turkey together. Carefully place the turducken, breast up in a large roasting pan."
+        },
+        {
+            "5": "Roast covered for 4 hours or until the turducken is golden brown. Continue to roast uncovered for 1 hour or until a meat thermometer inserted through the thigh registers 180 degrees F. and a thermometer inserted through the stuffing registers 165 degrees F. Check the turducken every few hours to baste and remove excess liquid. There will be enough pan juices for a gallon of gravy. Carve and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": " 1 hrs"
+        },
+        {
+            "Cook Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 5 hrs"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "836"
+        },
+        {
+            "Fat": "53g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "79g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6184853.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6173126.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6045938.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2204003.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/IIsdgirRqaQFLOIQkC6s4KH4mTs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6045938-0c309beed58e47d5ba4489d866d89ffe.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

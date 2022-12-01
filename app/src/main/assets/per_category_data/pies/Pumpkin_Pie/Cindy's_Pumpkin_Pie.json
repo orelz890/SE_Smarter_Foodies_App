@@ -1,0 +1,90 @@
+{
+    "title": "Cindy's Pumpkin Pie",
+    "Category": "Pumpkin Pie",
+    "Ingredients": [
+        {
+            "1": "0.5 pints vanilla ice cream, softened"
+        },
+        {
+            "2": "3  eggs"
+        },
+        {
+            "3": "0.75 cups pumpkin puree"
+        },
+        {
+            "4": "0.75 cup white sugar"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "1 teaspoon ground cinnamon"
+        },
+        {
+            "7": "0.25 teaspoon ground ginger"
+        },
+        {
+            "8": "0.25 teaspoon ground nutmeg"
+        },
+        {
+            "9": "2 (9 inch)  unbaked pie shells"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 425 degrees F (220 degrees C.) Place ice cream near the warm oven to soften."
+        },
+        {
+            "2": "In a large bowl, whisk together the eggs. Stir in the pumpkin puree, sugar, salt, cinnamon, ginger, and nutmeg. Mix in soft ice cream until smooth. Pour filling into two 9 inch pie shells."
+        },
+        {
+            "3": "Bake for 15 minutes in the preheated oven. Reduce temperature to 350 degrees F (175 degrees C), and bake an additional 30 to 40 minutes, or until filling is set."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 to 9 - inch pies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "223"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8601598.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7378386.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F18e7598117a3e1bfb14ca2884dca805a%2F7373401.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6029026.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

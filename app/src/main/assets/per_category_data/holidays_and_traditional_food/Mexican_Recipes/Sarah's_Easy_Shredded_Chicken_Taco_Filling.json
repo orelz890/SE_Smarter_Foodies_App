@@ -1,0 +1,87 @@
+{
+    "title": "Sarah's Easy Shredded Chicken Taco Filling",
+    "Category": "Mexican Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound skinless, boneless chicken breast halves"
+        },
+        {
+            "2": "2 teaspoons vegetable oil"
+        },
+        {
+            "3": "1 tablespoon minced onion"
+        },
+        {
+            "4": "0.25 cup tomato sauce"
+        },
+        {
+            "5": "1 pinch ground cumin"
+        },
+        {
+            "6": "1 pinch chili powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place chicken breasts in a saucepan and cover with water. Bring to a boil over medium heat, then simmer until no longer pink, 10 to 12 minutes."
+        },
+        {
+            "2": "Transfer chicken breasts to a bowl. Allow to cool, then shred with 2 forks."
+        },
+        {
+            "3": "Heat vegetable oil in a saucepan over medium heat. Add onion and cook until translucent, 2 to 3 minutes. Stir in shredded chicken, tomato sauce, cumin, and chili powder."
+        },
+        {
+            "4": "Bring to a boil, then reduce heat to low and simmer until chicken is hot and flavors have blended, about 3 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "3 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "188"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8522910.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8519135.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8357629.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6905573.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/sFbHyC5PMFMz0nn5FFG19AXS0Kg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5382747-fb7c1747ab7a42c19d74fb043110a214.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Fabulous Fig Scones",
+    "Category": "Scones",
+    "Ingredients": [
+        {
+            "1": "1 cup whole wheat pastry flour"
+        },
+        {
+            "2": "0.5 cup old-fashioned rolled oats"
+        },
+        {
+            "3": "2 teaspoons baking powder"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.25 cup canola oil"
+        },
+        {
+            "6": "1  egg, lightly beaten"
+        },
+        {
+            "7": "0.25 cup honey"
+        },
+        {
+            "8": "0.25 cup white sugar"
+        },
+        {
+            "9": "1 cup diced fresh figs"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper and lightly sprinkle flour over paper."
+        },
+        {
+            "2": "Whisk flour, oats, baking powder, and salt together in a bowl. Whisk oil and egg together in a separate bowl until smooth; add honey and mix well. Mix oil mixture into flour mixture just until batter is moistened. Sprinkle sugar over figs in a bowl and toss to coat; fold into batter."
+        },
+        {
+            "3": "Transfer batter to the middle of the prepared baking sheet and form into a 7-inch circle."
+        },
+        {
+            "4": "Bake in the preheated oven for 10 minutes. Score the batter into 8 sections and continue baking until scones are cooked through and lightly browned on top, about 20 minutes more. Cut into 8 scones and slide every other scone back from the circle to allow cooling."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 scones"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "203"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9368461.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6956392.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8472922.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff9711f7369bfb7d9472c05668a09a553%2F6864478.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Zippy Tuna",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "1 (5 ounce) can chunk light tuna in water, drained and flaked"
+        },
+        {
+            "2": "2 tablespoons mayonnaise"
+        },
+        {
+            "3": "1 tablespoon prepared yellow mustard"
+        },
+        {
+            "4": "0.5 teaspoons creamy prepared horseradish"
+        },
+        {
+            "5": "1 teaspoon lemon juice"
+        },
+        {
+            "6": "1 teaspoon garlic powder"
+        },
+        {
+            "7": "1 pinch salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix tuna, mayonnaise, yellow mustard, horseradish, lemon juice, garlic powder, and salt together in a bowl."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "46"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8044885.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F70d592c4cc0bdd78eca5b721baa04559%2F6617804.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc19442edfb766b0c32b8a69dba0bbf0c%2F5129239.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5645740.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

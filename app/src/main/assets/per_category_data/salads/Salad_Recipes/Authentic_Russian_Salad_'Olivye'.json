@@ -1,0 +1,84 @@
+{
+    "title": "Authentic Russian Salad 'Olivye'",
+    "Category": "Salad Recipes",
+    "Ingredients": [
+        {
+            "1": "6  potatoes, peeled"
+        },
+        {
+            "2": "1  carrot, or more to taste"
+        },
+        {
+            "3": "4  whole eggs"
+        },
+        {
+            "4": "6 large pickles, cut into cubes"
+        },
+        {
+            "5": "1 (15 ounce) can peas, drained"
+        },
+        {
+            "6": "0.5 cup cubed fully cooked ham, or to taste"
+        },
+        {
+            "7": "1 tablespoon chopped fresh parsley, or to taste (Optional)"
+        },
+        {
+            "8": "0.5 cup mayonnaise, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of water to a boil. Add potatoes and carrot and return to a boil. Add whole eggs and cook until potatoes are tender, 20 to 30 minutes. Drain and slightly cool mixture."
+        },
+        {
+            "2": "Chop potatoes and carrot. Peel and chop eggs."
+        },
+        {
+            "3": "Mix potatoes, carrot, eggs, pickles, peas, ham, and parsley together in a large bowl; stir in mayonnaise until salad is evenly coated."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "261"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8023814.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7740707.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5747074.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5277638.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

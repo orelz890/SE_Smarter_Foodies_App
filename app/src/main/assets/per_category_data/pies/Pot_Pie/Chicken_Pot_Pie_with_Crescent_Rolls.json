@@ -1,0 +1,96 @@
+{
+    "title": "Chicken Pot Pie with Crescent Rolls",
+    "Category": "Pot Pie",
+    "Ingredients": [
+        {
+            "1": "2 (8 ounce) packages refrigerated crescent rolls"
+        },
+        {
+            "2": "1 pound cooked, cubed chicken breast meat"
+        },
+        {
+            "3": "1 pound chopped, cooked rotisserie chicken"
+        },
+        {
+            "4": "2 tablespoons butter"
+        },
+        {
+            "5": "1 (16 ounce) package frozen mixed vegetables"
+        },
+        {
+            "6": "1 (15 ounce) can sliced potatoes, drained"
+        },
+        {
+            "7": "1 (10.5 ounce) can condensed cream of chicken soup"
+        },
+        {
+            "8": "1 (10.5 ounce) can condensed cream of mushroom soup"
+        },
+        {
+            "9": "0.5 cup milk"
+        },
+        {
+            "10": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Line the bottom of an ungreased 9x13-inch baking dish with one can of crescent roll dough, pinching the seams together. Set second can of dough aside."
+        },
+        {
+            "2": "Melt butter in a saucepan over medium heat. Add chicken, frozen vegetables, and sliced potatoes. Cook, stirring frequently, until vegetables are thawed and mixture is heated through, 5 to 7 minutes."
+        },
+        {
+            "3": "Meanwhile, warm both cans of condensed soup in a separate pan over medium-low heat. Slowly add milk and cook, stirring frequently, until combined and heated through, about 3 minutes."
+        },
+        {
+            "4": "Add the soup mixture to the chicken mixture, then pour into the baking dish. Top with the second can of crescent roll dough; do not pinch the seams on these. Cover lightly with foil to prevent the crescent rolls from browning too quickly."
+        },
+        {
+            "5": "Bake in the preheated oven until heated through and rolls are golden brown, 40 to 50 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9x13-inch casserole"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "568"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "40g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe21f702a4440b557f2a752427e539b5e%2F166182301120220829_201442.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe21f702a4440b557f2a752427e539b5e%2F164688816720220309_185148.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9434590.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

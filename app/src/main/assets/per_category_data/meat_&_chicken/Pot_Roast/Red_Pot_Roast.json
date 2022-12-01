@@ -1,0 +1,96 @@
+{
+    "title": "Red Pot Roast",
+    "Category": "Pot Roast",
+    "Ingredients": [
+        {
+            "1": "2.0 pounds chuck roast"
+        },
+        {
+            "2": "2 cups water"
+        },
+        {
+            "3": "2 cups ketchup"
+        },
+        {
+            "4": "1 tablespoon chili powder"
+        },
+        {
+            "5": "1 tablespoon white sugar"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "6 large potatoes, peeled and halved"
+        },
+        {
+            "8": "1 large onion, sliced"
+        },
+        {
+            "9": "6  carrots, peeled and sliced"
+        },
+        {
+            "10": "2 tablespoons all-purpose flour"
+        },
+        {
+            "11": "0.25 cup water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Place the roast in a roasting pan. Cover with the 2 cups water, ketchup, chili powder, sugar, and salt. Cook 1 hour in the preheated oven."
+        },
+        {
+            "3": "Place the potatoes, onion, and carrots in the roasting pan with the roast and liquid. Continue cooking 1 hour, or until the vegetables are tender and the internal temperature of the meat has reached a minimum of 145 degrees F (63 degrees C)."
+        },
+        {
+            "4": "Remove the roast and vegetables from the pan, and drain the remaining liquid into a bowl. In a separate bowl, mix the flour and water. Stir into the remaining roast liquid to make gravy."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "651"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "63g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1087809.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F228627.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F16092.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

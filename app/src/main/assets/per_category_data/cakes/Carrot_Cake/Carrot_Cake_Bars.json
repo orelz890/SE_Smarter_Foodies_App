@@ -1,0 +1,87 @@
+{
+    "title": "Carrot Cake Bars",
+    "Category": "Carrot Cake",
+    "Ingredients": [
+        {
+            "1": "2 cups white sugar"
+        },
+        {
+            "2": "0.5 cups vegetable oil"
+        },
+        {
+            "3": "4  eggs"
+        },
+        {
+            "4": "2 cups all-purpose flour"
+        },
+        {
+            "5": "2 teaspoons baking soda"
+        },
+        {
+            "6": "2 teaspoons ground cinnamon"
+        },
+        {
+            "7": "1 teaspoon salt"
+        },
+        {
+            "8": "3 (4 ounce) jars carrot baby food"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 10x15 inch jelly roll pan. Sift together the flour, baking soda, cinnamon and salt. Set aside."
+        },
+        {
+            "2": "In a large bowl, beat sugar, oil and eggs until smooth. Mix in the flour mixture. Stir in the baby food carrots."
+        },
+        {
+            "3": "Spread batter into a 10x15 inch jelly roll pan. Bake in the preheated oven for 20 minutes, or until a toothpick inserted into the center of the cake comes out clean. Allow to cool."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "14 "
+        },
+        {
+            "Yield": "1 - 10x15 inch jelly roll pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "412"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F698833c4065ba059f13a14688b3e2885%2F5282752.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2641470.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd2c1f4bb9ed905cb9bbb6a2f0bfe81b5%2F2191466.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F385627.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

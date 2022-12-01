@@ -1,0 +1,99 @@
+{
+    "title": "Eggy Veggie Bake",
+    "Category": "Lent Recipes",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "1 cup sliced halved zucchini"
+        },
+        {
+            "3": "3  green onions, chopped"
+        },
+        {
+            "4": "0.5  sweet onion, thinly sliced"
+        },
+        {
+            "5": "2  roma (plum) tomatoes, chopped"
+        },
+        {
+            "6": "0.5 cup chopped fresh mushrooms"
+        },
+        {
+            "7": "3 cups chopped baby spinach"
+        },
+        {
+            "8": "0.5  lemon, juiced"
+        },
+        {
+            "9": "1 Worcestershire sauce to taste"
+        },
+        {
+            "10": "1 hot sauce to taste"
+        },
+        {
+            "11": "1 garlic powder to taste"
+        },
+        {
+            "12": "1 salt and ground black pepper to taste"
+        },
+        {
+            "13": "0.5 cups liquid egg substitute"
+        },
+        {
+            "14": "0.25 cup shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Spray an 8x8 inch baking dish with cooking spray."
+        },
+        {
+            "2": "Heat the olive oil in a skillet over medium-high heat. Place zucchini, green onions, onion, tomatoes, mushrooms, and spinach in the skillet. Sprinkle with lemon juice, Worcestershire sauce, and hot sauce. Season with garlic powder, salt, and pepper. Cook until tender. Transfer to the prepared baking dish. Pour egg substitute over the vegetables in the dish. Top with cheese."
+        },
+        {
+            "3": "Bake 20 minutes in the preheated oven, or until egg substitute is set and cheese is melted. Cut with a spatula and enjoy!"
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "175"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7e146e7f868736852353c024a8c90f38%2F827500.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6491.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

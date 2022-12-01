@@ -1,0 +1,87 @@
+{
+    "title": "Chocolate Pancakes",
+    "Category": "Pancakes",
+    "Ingredients": [
+        {
+            "1": "0.25 cups all-purpose flour"
+        },
+        {
+            "2": "0.25 cup unsweetened cocoa powder"
+        },
+        {
+            "3": "3 tablespoons white sugar"
+        },
+        {
+            "4": "0.25 teaspoon salt"
+        },
+        {
+            "5": "2  eggs, at room temperature"
+        },
+        {
+            "6": "0.25 cups milk"
+        },
+        {
+            "7": "0.5 teaspoon vanilla"
+        },
+        {
+            "8": "2 tablespoons melted butter"
+        },
+        {
+            "9": "0.5 cup semisweet chocolate chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk flour, cocoa powder, sugar, and salt together in a large bowl. Beat eggs, milk, and vanilla in another bowl; mix in the melted butter. Pour the wet ingredients into the dry, and mix just until combined. Stir in the chocolate chips."
+        },
+        {
+            "2": "Heat a lightly oiled griddle or skillet over medium-high heat. For each pancake, pour 1/4 cup batter on griddle and cook until bubbles pop in the center of the pancake, about 2 to 3 minutes. Flip, and cook an additional minute on the opposite side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "8 mins"
+        },
+        {
+            "Total Time": "13 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "8 pancakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "418"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "59g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8933754.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8933731.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8320927.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8159516.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

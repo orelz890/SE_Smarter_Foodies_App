@@ -1,0 +1,62 @@
+{
+    "title": "Salt Dough",
+    "Category": "Christmas Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "1 cup salt"
+        },
+        {
+            "3": "1 cup cold water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 250 degrees F (120 degrees C). Line a baking sheet."
+        },
+        {
+            "2": "Combine flour and salt in a bowl. Add water, a few tablespoons at a time, mixing well after each addition. Knead dough for 10 minutes. Wrap and let rest for 20 minutes."
+        },
+        {
+            "3": "Transfer dough to a floured work surface and knead until soft and pliable. Roll out to a thickness of 1/8 inch; cut desired festive shapes with cookie cutters. Transfer onto the prepared baking sheet; use a toothpick to make a hole in each ornament for hanging."
+        },
+        {
+            "4": "Bake in the preheated oven until dry and hard, about 2 hours. Allow to cool completely before decorating."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 2 hrs"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": " 2 hrs 40 mins"
+        },
+        {
+            "Yield": "10 to 12 ornaments"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7512851.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7448196.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7404982.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6090722.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Pan-Fried Asparagus",
+    "Category": "Kosher Recipes",
+    "Ingredients": [
+        {
+            "1": "0.25 cup butter"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "1 teaspoon coarse salt"
+        },
+        {
+            "4": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "5": "3 cloves garlic, minced"
+        },
+        {
+            "6": "1 pound fresh asparagus spears, trimmed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a skillet over medium-high heat. Add olive oil, salt, and pepper; cook and stir until garlic is fragrant, about 30 seconds."
+        },
+        {
+            "2": "Add asparagus and cook until fork-tender, turning asparagus often to ensure even cooking, about 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "188"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2457fb49df0daaeb891ec7b6c01e2cc2%2F165723032316572303172071868039809680487531.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2457fb49df0daaeb891ec7b6c01e2cc2%2F1652305426panfriedasparaguswithgarlic.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2457fb49df0daaeb891ec7b6c01e2cc2%2F1651530110image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2457fb49df0daaeb891ec7b6c01e2cc2%2F1645574783image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/-PgrYg29je44GkvweCLch7KWPwg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/214328-ad0dbeb2fb14481295e83ef4c326c779.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

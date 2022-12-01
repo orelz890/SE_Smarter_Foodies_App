@@ -1,0 +1,90 @@
+{
+    "title": "Curry Broccoli Salad",
+    "Category": "Broccoli Salad",
+    "Ingredients": [
+        {
+            "1": "0.5 pound bacon"
+        },
+        {
+            "2": "6 cups fresh broccoli florets"
+        },
+        {
+            "3": "0.5 cup diced onion"
+        },
+        {
+            "4": "0.5 cup dried cherries"
+        },
+        {
+            "5": "0.5 cup sunflower seeds"
+        },
+        {
+            "6": "0.75 cup mayonnaise"
+        },
+        {
+            "7": "1 teaspoon curry powder"
+        },
+        {
+            "8": "2 tablespoons cider vinegar"
+        },
+        {
+            "9": "0.25 cup white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside."
+        },
+        {
+            "2": "In a large bowl, combine the bacon, broccoli, onion, dried fruit and sunflower seeds."
+        },
+        {
+            "3": "Whisk together the mayonnaise, curry powder, vinegar and sugar."
+        },
+        {
+            "4": "Pour dressing over salad; toss to coat, and marinate over night."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 13 hrs 20 mins"
+        },
+        {
+            "Total Time": " 13 hrs 50 mins"
+        },
+        {
+            "Servings": "7 "
+        },
+        {
+            "Yield": "6 to 8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "412"
+        },
+        {
+            "Fat": "34g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6606624.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F85323.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

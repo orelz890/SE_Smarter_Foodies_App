@@ -1,0 +1,78 @@
+{
+    "title": "Red Cabbage Slaw",
+    "Category": "Salad Recipes",
+    "Ingredients": [
+        {
+            "1": "1 small head red cabbage, thinly sliced and chopped"
+        },
+        {
+            "2": "0.5 cup grated carrot"
+        },
+        {
+            "3": "0.5 cup mayonnaise"
+        },
+        {
+            "4": "0.25 cup dried cranberries"
+        },
+        {
+            "5": "0.25 cup chopped walnuts"
+        },
+        {
+            "6": "1 tablespoon milk, or more as needed"
+        },
+        {
+            "7": "1 tablespoon apple cider vinegar"
+        },
+        {
+            "8": "1 teaspoon white sugar, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine cabbage, carrot, mayonnaise, cranberries, walnuts, milk, cider vinegar, and sugar in a bowl; stir well. Cover and refrigerate until chilled, about 4 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "216"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8724048.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7036047.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd75e6e8fd42ab0f25ff152a390967b21%2F6277142.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6182633.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

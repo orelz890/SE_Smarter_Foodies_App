@@ -1,0 +1,84 @@
+{
+    "title": "Oven-Fresh Seasoned Potato Wedges",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "2  russet potatoes, scrubbed and cut into eighths"
+        },
+        {
+            "2": "0.25 cup grated Parmesan cheese"
+        },
+        {
+            "3": "1 tablespoon olive oil"
+        },
+        {
+            "4": "1 teaspoon onion powder"
+        },
+        {
+            "5": "1 teaspoon garlic powder"
+        },
+        {
+            "6": "0.25 teaspoon salt"
+        },
+        {
+            "7": "0.25 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "2": "Place potatoes, Parmesan cheese, olive oil, onion powder, garlic powder, salt, and pepper into a resealable plastic bag. Seal the bag, then shake until potatoes are evenly coated with seasoning. Spread potatoes on a baking sheet."
+        },
+        {
+            "3": "Bake in the preheated oven until potatoes are easily pierced with a fork, about 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "138"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4a70c2f5db4e92d14cbcadc9bc83c588%2F164704895120220311_193449.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9425694.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9250460.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8980853.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/QzQqpxdULT_24fz7IfLrfJy0FIs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/710065-f92d485546bc4346b65f069550fd379b.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

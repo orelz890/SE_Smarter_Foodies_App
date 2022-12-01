@@ -1,0 +1,90 @@
+{
+    "title": "Freezer Slaw",
+    "Category": "Coleslaw",
+    "Ingredients": [
+        {
+            "1": "1 large head cabbage, shredded"
+        },
+        {
+            "2": "1  green bell pepper, finely chopped"
+        },
+        {
+            "3": "1 small small onion, finely chopped"
+        },
+        {
+            "4": "2  carrots, shredded"
+        },
+        {
+            "5": "2 cups boiling water"
+        },
+        {
+            "6": "2 teaspoons salt"
+        },
+        {
+            "7": "0.5 cups white sugar"
+        },
+        {
+            "8": "1 cup water"
+        },
+        {
+            "9": "0.75 cup cider vinegar"
+        },
+        {
+            "10": "2 teaspoons celery seed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine cabbage, green bell pepper, onion, and carrots in a large bowl. Mix boiling water and salt together in a separate bowl and pour over cabbage mixture; set aside for salt to draw out extra water from vegetables, about 1 hour. Drain well."
+        },
+        {
+            "2": "Mix sugar, 1 cup water, cider vinegar, and celery seed in a saucepan; bring to a boil. Cook and stir until sugar is dissolved, about 1 minute. Remove the saucepan from the heat and cool completely."
+        },
+        {
+            "3": "Pour cooled sugar-vinegar mixture over drained cabbage mixture in a large bowl and toss until slaw is well mixed. Spoon slaw into resealable plastic bags; squeeze out excess air, seal the bag, and freeze."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "16 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "102"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9227045.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8340685.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2376098.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

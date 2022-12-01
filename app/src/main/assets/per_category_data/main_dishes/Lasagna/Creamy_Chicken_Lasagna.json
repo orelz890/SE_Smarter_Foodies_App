@@ -1,0 +1,93 @@
+{
+    "title": "Creamy Chicken Lasagna",
+    "Category": "Lasagna",
+    "Ingredients": [
+        {
+            "1": "6  uncooked lasagna noodles"
+        },
+        {
+            "2": "3  skinless, boneless chicken breast halves"
+        },
+        {
+            "3": "2 cups shredded mozzarella cheese, divided"
+        },
+        {
+            "4": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "5": "0.25 cup hot water"
+        },
+        {
+            "6": "1 cube chicken bouillon"
+        },
+        {
+            "7": "1 (26 ounce) jar spaghetti sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water, stirring occasionally, until tender yet firm to the bite, about 8 minutes. Drain, rinse with cold water, and set aside."
+        },
+        {
+            "3": "Meanwhile, place chicken in a saucepan with enough water to cover; bring to a boil. Cook until chicken is no longer pink and the juices run clear, about 20 minutes. Remove chicken from the saucepan and shred."
+        },
+        {
+            "4": "Combine shredded chicken, 1 cup mozzarella cheese, and cream cheese in a large bowl. Dissolve hot water and bouillon in a liquid measure; pour over chicken mixture and stir until well combined."
+        },
+        {
+            "5": "Spread 1/3 of the spaghetti sauce in the bottom of a 9x13-inch baking dish. Cover with 1/2 of the chicken mixture and top with 3 lasagna noodles; repeat. Top with remaining sauce and sprinkle with remaining 1 cup mozzarella cheese."
+        },
+        {
+            "6": "Bake in the preheated oven for 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "495"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9272439.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8994995.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8768059.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8425782.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/C4FdkzIyAc7duVby5syIiLc5Imk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2124654-ef7540d37d344e0c954016164155d423.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

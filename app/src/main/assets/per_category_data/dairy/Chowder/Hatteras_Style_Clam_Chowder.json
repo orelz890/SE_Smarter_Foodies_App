@@ -1,0 +1,81 @@
+{
+    "title": "Hatteras Style Clam Chowder",
+    "Category": "Chowder",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon vegetable oil"
+        },
+        {
+            "2": "1 large onion, chopped"
+        },
+        {
+            "3": "5 stalks celery, sliced"
+        },
+        {
+            "4": "4  carrots, sliced"
+        },
+        {
+            "5": "4 cups peeled, cubed white potatoes"
+        },
+        {
+            "6": "2 (16 ounce) cans minced clams, with juice"
+        },
+        {
+            "7": "3 quarts clam juice"
+        },
+        {
+            "8": "1 teaspoon dried thyme"
+        },
+        {
+            "9": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "10": "8 slices crisp cooked bacon, crumbled"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large pot over medium heat, cook onion, celery and carrots in oil until they begin to soften. Stir in potatoes, clams, clam juice, thyme, pepper and bacon. Bring to a boil, then reduce heat and simmer 20 minutes, or until potatoes are tender."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "265"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F728656.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7472.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dairy"
+}

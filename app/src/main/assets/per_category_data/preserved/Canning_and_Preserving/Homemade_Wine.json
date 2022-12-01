@@ -1,0 +1,62 @@
+{
+    "title": "Homemade Wine",
+    "Category": "Canning and Preserving",
+    "Ingredients": [
+        {
+            "1": "4 cups sugar"
+        },
+        {
+            "2": "1 (12 fluid ounce) can frozen juice concentrate - any flavor except citrus, thawed"
+        },
+        {
+            "3": "1 (.25 ounce) package active dry yeast"
+        },
+        {
+            "4": "1.5 quarts cold water, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine sugar, juice concentrate, and yeast in a 1-gallon jug. Fill the jug the rest of the way with cold water."
+        },
+        {
+            "2": "Rinse out a large balloon; fit it over the opening of the jug. Secure the balloon with a rubber band."
+        },
+        {
+            "3": "Place jug in a cool dark place. Within a day, you will notice the balloon starting to expand. As sugar turns to alcohol, gasses will release and fill up the balloon. When the balloon has deflated, wine is ready to drink. It takes about 6 weeks total."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Additional Time": "42 days"
+        },
+        {
+            "Total Time": "42 days 5 mins"
+        },
+        {
+            "Servings": "32 "
+        },
+        {
+            "Yield": "1 gallon"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9218539.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F95391b94d9e0b7ce154c71aec449abdd%2F7449198.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5877730.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff0bb17bc50aeaf495612e98067fe60a6%2F5701465.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "preserved"
+}

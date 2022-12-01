@@ -1,0 +1,90 @@
+{
+    "title": "Cheeseburger Macaroni Casserole",
+    "Category": "Noodle Casserole",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package elbow macaroni"
+        },
+        {
+            "2": "1 pound ground beef"
+        },
+        {
+            "3": "2 (14.5 ounce) cans Italian-style diced tomatoes"
+        },
+        {
+            "4": "1 salt and ground black pepper to taste"
+        },
+        {
+            "5": "2 (8 ounce) packages cream cheese, softened"
+        },
+        {
+            "6": "2 cups shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until cooked through but firm to the bite, 8 minutes. Drain."
+        },
+        {
+            "3": "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. Add ground beef back to skillet and mix in tomatoes; season with salt and pepper. Cook and stir mixture until tomatoes are heated through, about 5 minutes."
+        },
+        {
+            "4": "Transfer beef mixture to a casserole dish; top with cooked macaroni. Spread cream cheese over macaroni and sprinkle Cheddar cheese over cream cheese."
+        },
+        {
+            "5": "Bake in the preheated oven until cheese is melted and bubbling, about 45 minutes. Cool casserole for 15 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "558"
+        },
+        {
+            "Fat": "38g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9372551.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7969890.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7581403.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe57cee62f25c4b5e05a9b834f100c02a%2F5720841.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

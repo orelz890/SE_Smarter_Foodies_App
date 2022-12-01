@@ -1,0 +1,93 @@
+{
+    "title": "Marinated Tuna Steak",
+    "Category": "Kosher Recipes",
+    "Ingredients": [
+        {
+            "1": "0.25 cup orange juice"
+        },
+        {
+            "2": "0.25 cup soy sauce"
+        },
+        {
+            "3": "2 tablespoons olive oil"
+        },
+        {
+            "4": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "5": "1 tablespoon lemon juice"
+        },
+        {
+            "6": "1 clove garlic, minced"
+        },
+        {
+            "7": "0.5 teaspoon chopped fresh oregano"
+        },
+        {
+            "8": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "9": "4 (4 ounce) tuna steaks"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix orange juice, soy sauce, olive oil, parsley, lemon juice, garlic, oregano, and pepper together in a large non-reactive dish until well combined. Place tuna steaks in marinade and turn to coat. Cover the dish with plastic wrap and marinate in the refrigerator for at least 30 minutes."
+        },
+        {
+            "2": "Preheat an outdoor grill for high heat and lightly oil the grate. Remove tuna steaks from the marinade and shake off excess; reserve marinade for basting."
+        },
+        {
+            "3": "Cook tuna steaks on the preheated grill for 5 to 6 minutes; flip steaks and baste with reserved marinade. Cook for an additional 5 minutes, or to desired doneness. Discard any remaining marinade."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "200"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4ef0e80a308dd052548347a740175c40%2F16614936908EBAD87B-FD38-40E0-9CFD-D392F5A77442.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4ef0e80a308dd052548347a740175c40%2F1661039495KIMG0660.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4ef0e80a308dd052548347a740175c40%2F1659743578E3DB1FE9-83F0-4F47-BAD5-2A91B918B3FD.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4ef0e80a308dd052548347a740175c40%2F165748731220220710_145050_HDR.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/yyA2ado501JEQC0krit0-BZSJgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1608428-bba14c2f4ea5427691806e7b6adef171.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

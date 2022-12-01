@@ -1,0 +1,75 @@
+{
+    "title": "Slow Cooker Spinach-Artichoke Dip",
+    "Category": "Artichoke Dip",
+    "Ingredients": [
+        {
+            "1": "1 (14 ounce) can artichoke hearts, drained and chopped"
+        },
+        {
+            "2": "1 (9 ounce) package frozen spinach"
+        },
+        {
+            "3": "1 (8 ounce) package cream cheese"
+        },
+        {
+            "4": "0.75 cup shredded mozzarella cheese"
+        },
+        {
+            "5": "0.5 cup shredded Parmesan cheese"
+        },
+        {
+            "6": "0.25 cup milk"
+        },
+        {
+            "7": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine artichokes, spinach, cream cheese, mozzarella cheese, Parmesan cheese, milk, salt, and pepper in the bottom of a slow cooker."
+        },
+        {
+            "2": "Cover and cook on High, stirring occasionally to combine, for 2 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 5 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "233"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8837192.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7487820.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

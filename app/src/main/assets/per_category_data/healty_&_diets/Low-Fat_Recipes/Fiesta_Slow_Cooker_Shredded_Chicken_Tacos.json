@@ -1,0 +1,72 @@
+{
+    "title": "Fiesta Slow Cooker Shredded Chicken Tacos",
+    "Category": "Low-Fat Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup chicken broth"
+        },
+        {
+            "2": "3 tablespoons taco seasoning mix"
+        },
+        {
+            "3": "1 pound skinless, boneless chicken breasts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine chicken broth and taco seasoning mix in a bowl."
+        },
+        {
+            "2": "Place chicken in a slow cooker. Pour chicken broth mixture over chicken."
+        },
+        {
+            "3": "Cook on Low for 6 to 8 hours. Shred chicken."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 6 hrs"
+        },
+        {
+            "Total Time": " 6 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "71"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8334480.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8257166.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7994235.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7983340.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ojZWnybjPNoRnndVtchu-0vt9AU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2280317-e59421f3dcf449b8b15d6d908c495232.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

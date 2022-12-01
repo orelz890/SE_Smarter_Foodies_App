@@ -1,0 +1,93 @@
+{
+    "title": "Slow Cooker Venison Sloppy Joes",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "0.25 pound bacon"
+        },
+        {
+            "2": "2 pounds venison stew meat"
+        },
+        {
+            "3": "1 large yellow onion, chopped"
+        },
+        {
+            "4": "0.5 cup brown sugar"
+        },
+        {
+            "5": "0.25 cup wine vinegar"
+        },
+        {
+            "6": "1 tablespoon ground cumin"
+        },
+        {
+            "7": "1 teaspoon chili powder"
+        },
+        {
+            "8": "2 tablespoons minced garlic"
+        },
+        {
+            "9": "1 tablespoon prepared Dijon-style mustard"
+        },
+        {
+            "10": "1 cup ketchup"
+        },
+        {
+            "11": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Remove from skillet, crumble and set aside. Brown stew meat in bacon grease for flavor."
+        },
+        {
+            "2": "Put onion, sugar, vinegar, cumin, chili powder, garlic, mustard, ketchup, salt and pepper in slow cooker and mix well. Add bacon and venison and stir together."
+        },
+        {
+            "3": "Cook for a minimum of 8 hours on Low setting. Use a fork to separate the meat into a thick and yummy Sloppy Joe-style barbecue."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 5 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "538"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "52g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5952297.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F605577.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F170290.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

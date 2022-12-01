@@ -1,0 +1,99 @@
+{
+    "title": "Delicious Sweet Potato Pie Recipe",
+    "Category": "Sweet Potato Pie",
+    "Ingredients": [
+        {
+            "1": "2  sweet potatoes, peeled and cut into chunks"
+        },
+        {
+            "2": "1 (9 inch) refrigerated pie crust"
+        },
+        {
+            "3": "1 cup white sugar"
+        },
+        {
+            "4": "2  eggs, beaten"
+        },
+        {
+            "5": "2 tablespoons butter"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "1 tablespoon all-purpose flour"
+        },
+        {
+            "8": "1 teaspoon pumpkin pie spice"
+        },
+        {
+            "9": "0.5 teaspoon salt"
+        },
+        {
+            "10": "0.5 cup buttermilk"
+        },
+        {
+            "11": "0.25 teaspoon baking soda"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place sweet potatoes into a large pot and cover with water; bring to a boil. Reduce heat to medium-low and simmer until tender, 10 to 15 minutes. Drain well and let cool."
+        },
+        {
+            "2": "Preheat oven to 350 degrees F (175 degrees C). Line the bottom of a pie plate with pie crust."
+        },
+        {
+            "3": "Mash sweet potatoes with a potato masher or fork. Measure 2 cups of the mash into a large bowl. Mix in sugar eggs, butter, and vanilla extract."
+        },
+        {
+            "4": "Mix flour, pumpkin pie spice, and salt together in a separate bowl. Add to the sweet potato mixture."
+        },
+        {
+            "5": "Combine buttermilk and baking soda in a small bowl. Add to the sweet potato-flour mixture. Stir batter well; pour into the prepared crust."
+        },
+        {
+            "6": "Bake in the preheated oven until set, about 1 hour 10 minutes. Let cool on rack until firm, at least 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 25 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": " 2 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "327"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "51g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6e9f4f2c9a15391ce9436ab84879e26a%2F7372966.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

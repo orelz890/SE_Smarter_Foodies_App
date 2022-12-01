@@ -1,0 +1,72 @@
+{
+    "title": "Spicy Bloody Mary Mix",
+    "Category": "Bloody Marys",
+    "Ingredients": [
+        {
+            "1": "1 (46 fluid ounce) can tomato juice"
+        },
+        {
+            "2": "0.5 (10.5 ounce) can condensed beef consomme (such as Campbell's \u00ae)"
+        },
+        {
+            "3": "3 tablespoons Worcestershire sauce"
+        },
+        {
+            "4": "1 tablespoon lemon juice"
+        },
+        {
+            "5": "1 tablespoon hot pepper sauce (such as Tabasco\u00ae)"
+        },
+        {
+            "6": "1 tablespoon celery salt"
+        },
+        {
+            "7": "1 tablespoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix the tomato juice, beef consomme, Worcestershire sauce, lemon juice, hot pepper sauce, celery salt, and black pepper together in a pitcher; chill."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "27"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F579188.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F532989.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

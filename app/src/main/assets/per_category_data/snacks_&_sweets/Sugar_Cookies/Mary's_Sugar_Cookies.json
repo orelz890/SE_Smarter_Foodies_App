@@ -1,0 +1,93 @@
+{
+    "title": "Mary's Sugar Cookies",
+    "Category": "Sugar Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup butter, softened"
+        },
+        {
+            "2": "0.5 cups sifted confectioners' sugar"
+        },
+        {
+            "3": "1 large egg"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "0.5 teaspoon almond extract"
+        },
+        {
+            "6": "1.0 cups all-purpose flour"
+        },
+        {
+            "7": "1 teaspoon baking soda"
+        },
+        {
+            "8": "1 teaspoon cream of tartar"
+        },
+        {
+            "9": "0.25 cup granulated sugar for decoration"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, cream together the butter and confectioners' sugar until smooth. Beat in the egg and stir in the vanilla and almond extract. Combine the flour, baking soda and cream of tartar; blend into the creamed mixture. Cover and chill for at least two hours."
+        },
+        {
+            "2": "Preheat the oven to 375 degrees F (190 degrees C). Divide the dough into two parts. On a lightly floured surface, roll each piece of the dough out to 3/16 inch in thickness. Cut into desired shapes with cookie cutters. Place cookies 1 1/2 inches apart onto greased cookie sheets. Sprinkle cookies with plain or colored granulated sugar."
+        },
+        {
+            "3": "Bake for 8 minutes in the preheated oven, until lightly browned. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": " 2 hrs 5 mins"
+        },
+        {
+            "Total Time": " 2 hrs 55 mins"
+        },
+        {
+            "Servings": "30 "
+        },
+        {
+            "Yield": "5 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "126"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F4b70ab01bee9f4e8aafbf9f26770113d%2F7486529.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6158376.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4790880.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4641664.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

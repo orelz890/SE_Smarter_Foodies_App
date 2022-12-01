@@ -1,0 +1,84 @@
+{
+    "title": "Turkey Goulash",
+    "Category": "Goulash",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground turkey"
+        },
+        {
+            "2": "1 (14 ounce) can stewed, diced tomatoes"
+        },
+        {
+            "3": "3 cloves garlic, minced"
+        },
+        {
+            "4": "1 cup tomato sauce"
+        },
+        {
+            "5": "2 teaspoons white sugar"
+        },
+        {
+            "6": "0.5 teaspoon dried basil"
+        },
+        {
+            "7": "1 (16 ounce) package bow tie pasta"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large skillet over medium heat, cook the turkey until browned."
+        },
+        {
+            "2": "Stir in the stewed tomatoes, garlic, tomato sauce, sugar and basil, and then simmer for about 20 minutes."
+        },
+        {
+            "3": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente, and then drain. Combine the pasta and turkey mixture; toss and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "311"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9044373.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8045548.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5902427.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7605638.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

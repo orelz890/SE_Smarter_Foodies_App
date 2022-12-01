@@ -1,0 +1,57 @@
+{
+    "title": "Microwave Spaghetti Squash",
+    "Category": "Winter Squash Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (3 pound) spaghetti squash"
+        },
+        {
+            "2": "1 cup water, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Carefully cut stem end off spaghetti squash. Poke a few small slits in squash in a dotted line where you plan to slice squash. Carefully cut between the slits until squash is cut in half. Scoop out seeds and pulp."
+        },
+        {
+            "2": "Place squash in a 9x13-inch microwave-safe dish, cut-side down. Pour water into the dish so it is at least 1/2 inch deep."
+        },
+        {
+            "3": "Microwave on High until skin is soft and can be pierced with a fork, 12 to 15 minutes. If the dish is too big to rotate, turn off the turntable and rotate the dish halfway through."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "106"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8736621.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}

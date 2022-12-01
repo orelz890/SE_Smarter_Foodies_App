@@ -1,0 +1,102 @@
+{
+    "title": "Mary's Meatloaf",
+    "Category": "Meatloaf",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds lean ground beef"
+        },
+        {
+            "2": "1 large onion, chopped"
+        },
+        {
+            "3": "1 salt to taste"
+        },
+        {
+            "4": "1 ground black pepper to taste"
+        },
+        {
+            "5": "1 garlic powder to taste"
+        },
+        {
+            "6": "6 slices white bread, cut into cubes"
+        },
+        {
+            "7": "0.5 cup milk"
+        },
+        {
+            "8": "1  egg"
+        },
+        {
+            "9": "3 tablespoons yellow mustard, divided"
+        },
+        {
+            "10": "0.5 cup ketchup, divided"
+        },
+        {
+            "11": "3 tablespoons brown sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "In a large bowl, thoroughly mix ground beef, onion, salt, pepper and garlic powder. Mix in bread, milk, egg, 2 tablespoons mustard and 1/4 cup ketchup."
+        },
+        {
+            "3": "Press the meat mixture into a 9x5-inch loaf pan. In a small bowl, stir together remaining mustard, ketchup and brown sugar; pour on top of the meat loaf."
+        },
+        {
+            "4": "Bake in the preheated oven until an instant-read thermometer inserted into the center reads 165 degrees F (74 degrees C), about 2 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "450"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9089424.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9083370.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8729410.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8315250.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/qIUDKjzMSSvttKI_3rOGh0HglRw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2467586-marys-meatloaf-Allrecipes-Magazine-1x1-1-e90cd0cc4d904c11aebd158e70372e25.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

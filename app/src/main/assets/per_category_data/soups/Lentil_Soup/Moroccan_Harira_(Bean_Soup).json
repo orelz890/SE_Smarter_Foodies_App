@@ -1,0 +1,111 @@
+{
+    "title": "Moroccan Harira (Bean Soup)",
+    "Category": "Lentil Soup",
+    "Ingredients": [
+        {
+            "1": "6 cups beef stock"
+        },
+        {
+            "2": "1 cup dry lentils"
+        },
+        {
+            "3": "1 tablespoon olive oil, or to taste"
+        },
+        {
+            "4": "1  onion, chopped"
+        },
+        {
+            "5": "1  cinnamon stick"
+        },
+        {
+            "6": "1 teaspoon minced fresh ginger root"
+        },
+        {
+            "7": "1 teaspoon ground turmeric"
+        },
+        {
+            "8": "1 teaspoon ground cumin"
+        },
+        {
+            "9": "1 teaspoon ground black pepper"
+        },
+        {
+            "10": "1 (15 ounce) can garbanzo beans, drained"
+        },
+        {
+            "11": "1 (15 ounce) can red kidney beans, rinsed and drained"
+        },
+        {
+            "12": "1 (14 ounce) can diced tomatoes"
+        },
+        {
+            "13": "1 cup cooked quinoa (Optional)"
+        },
+        {
+            "14": "1 bunch flat-leaf parsley leaves and thinner stems, chopped"
+        },
+        {
+            "15": "1 bunch cilantro leaves and thinner stems, chopped"
+        },
+        {
+            "16": "1  lemon, or to taste, juiced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir beef stock and lentils together in a large pot; bring to a boil, reduce heat to low, and keep at a simmer while preparing onion."
+        },
+        {
+            "2": "Heat olive oil in a skillet over medium heat. Cook and stir onion, cinnamon stick, ginger, turmeric, cumin, and black pepper in the hot oil until the onion is translucent, about 5 minutes; add to stock mixture."
+        },
+        {
+            "3": "Pour garbanzo beans, kidney beans, tomatoes, and quinoa into the stock mixture; stir and bring mixture to a boil. Stir parsley and cilantro into the stock mixture; reduce heat to low and cook mixture at a simmer until the lentils are tender, about 45 minutes. Drizzle lemon juice over the soup before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "261"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8968976.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6d81b05995217c77740d83048f06c1a5%2F5015952.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4695611.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3258262.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

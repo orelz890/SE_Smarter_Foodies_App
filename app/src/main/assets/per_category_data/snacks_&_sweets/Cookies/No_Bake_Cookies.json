@@ -1,0 +1,90 @@
+{
+    "title": "No-Bake Cookies",
+    "Category": "Cookies",
+    "Ingredients": [
+        {
+            "1": "0.75 cups white sugar"
+        },
+        {
+            "2": "0.5 cup butter"
+        },
+        {
+            "3": "0.5 cup milk"
+        },
+        {
+            "4": "4 tablespoons unsweetened cocoa powder"
+        },
+        {
+            "5": "0.5 cup crunchy peanut butter"
+        },
+        {
+            "6": "3 cups quick-cooking oats"
+        },
+        {
+            "7": "1 teaspoon vanilla extract"
+        },
+        {
+            "8": "1 waxed paper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine sugar, butter, milk, and cocoa in a medium saucepan; bring to a boil, stirring often. Boil for exactly 1 1/2 minutes. Remove from heat, and stir in peanut butter. Add oats and vanilla; stir until well combined."
+        },
+        {
+            "2": "Drop by teaspoonfuls onto waxed paper. Let cool until hardened."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "36 "
+        },
+        {
+            "Yield": "3 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "110"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F26877999f40129136fe6f4e542cdadbe%2F16634291202815C4DD-6DDF-44BA-BC92-1F3ECDE72F95.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F26877999f40129136fe6f4e542cdadbe%2F165349271916534926841669079945789329804772.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F26877999f40129136fe6f4e542cdadbe%2F165238427416523842376957818324245042694416.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9435930.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/GJgoLp1J9XxWu5cM2fuEsATEiZM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/467751-34510d54b1ef4efcaab8f03d87b6c6ed.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

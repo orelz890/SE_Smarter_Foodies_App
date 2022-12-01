@@ -1,0 +1,108 @@
+{
+    "title": "Greek Pasta Salad I",
+    "Category": "Pasta Salad",
+    "Ingredients": [
+        {
+            "1": "0.5 cup olive oil"
+        },
+        {
+            "2": "0.5 cup red wine vinegar"
+        },
+        {
+            "3": "0.5 teaspoons garlic powder"
+        },
+        {
+            "4": "0.5 teaspoons dried basil"
+        },
+        {
+            "5": "0.5 teaspoons dried oregano"
+        },
+        {
+            "6": "0.75 teaspoon ground black pepper"
+        },
+        {
+            "7": "0.75 teaspoon white sugar"
+        },
+        {
+            "8": "1.0 cups cooked elbow macaroni"
+        },
+        {
+            "9": "3 cups fresh sliced mushrooms"
+        },
+        {
+            "10": "15  cherry tomatoes, halved"
+        },
+        {
+            "11": "1 cup sliced red bell peppers"
+        },
+        {
+            "12": "0.75 cup crumbled feta cheese"
+        },
+        {
+            "13": "0.5 cup chopped green onions"
+        },
+        {
+            "14": "1 (4 ounce) can whole black olives"
+        },
+        {
+            "15": "0.75 cup sliced pepperoni sausage, cut into strips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, whisk together olive oil, vinegar, garlic powder, basil, oregano, black pepper, and sugar. Add cooked pasta, mushrooms, tomatoes, red peppers, feta cheese, green onions, olives, and pepperoni. Toss until evenly coated. Cover, and chill 2 hours or overnight."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "746"
+        },
+        {
+            "Fat": "56g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9395937.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9285047.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9199103.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9134609.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/rGdpMcmoLsh3wq6yUsOUh5gK2ts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/881103-greek-pasta-salad-i-SMClanton-1x1-1-e9179965766d45809bfb9e91617803b5.jpg"
+        }
+    ],
+    "main category": "salads"
+}

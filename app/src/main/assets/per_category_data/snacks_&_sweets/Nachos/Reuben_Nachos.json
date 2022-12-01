@@ -1,0 +1,105 @@
+{
+    "title": "Reuben Nachos",
+    "Category": "Nachos",
+    "Ingredients": [
+        {
+            "1": "0.75 cup mayonnaise"
+        },
+        {
+            "2": "0.25 cup ketchup"
+        },
+        {
+            "3": "2 tablespoons sour cream"
+        },
+        {
+            "4": "1 tablespoon sweet pickle relish"
+        },
+        {
+            "5": "0.5 tablespoon minced red onion"
+        },
+        {
+            "6": "1 teaspoon Dijon mustard"
+        },
+        {
+            "7": "0.25 teaspoon garlic salt"
+        },
+        {
+            "8": "1 (11 ounce) package tortilla chips"
+        },
+        {
+            "9": "0.25 teaspoon garlic salt"
+        },
+        {
+            "10": "2 cups shredded Swiss cheese"
+        },
+        {
+            "11": "1 cup shredded Cheddar cheese"
+        },
+        {
+            "12": "0.5 teaspoon dried dill weed"
+        },
+        {
+            "13": "2 cups shredded cooked corned beef brisket"
+        },
+        {
+            "14": "1 cup Bavarian-style sauerkraut with caraway seeds, drained"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Mix mayonnaise, ketchup, sour cream, relish, red onion, Dijon mustard, and garlic salt together in a small bowl until well blended. Set aside."
+        },
+        {
+            "3": "Layer 1/2 of the tortilla chips in an even layer on a baking sheet. Top with 1 cup Swiss cheese, 1/2 cup Cheddar cheese, and 1/4 teaspoon dill. Repeat layers on top."
+        },
+        {
+            "4": "Bake in the preheated oven until cheeses are melted, about 5 minutes. Remove from oven. Set an oven rack about 6 inches from the heat source and preheat the oven's broiler."
+        },
+        {
+            "5": "Top nachos evenly with corned beef and sauerkraut. Broil until heated through, 1 to 2 minutes. Top nachos with the mayonnaise sauce."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "854"
+        },
+        {
+            "Fat": "64g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7813454.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7633952.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

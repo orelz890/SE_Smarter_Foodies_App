@@ -1,0 +1,59 @@
+{
+    "title": "Diabetic Dog Treats",
+    "Category": "Pet Food",
+    "Ingredients": [
+        {
+            "1": "0.5 cup whole wheat flour"
+        },
+        {
+            "2": "2  eggs"
+        },
+        {
+            "3": "0.5 pounds beef liver, cut into pieces"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Line a 10x15 inch jellyroll pan with parchment paper."
+        },
+        {
+            "2": "Place the liver into a food processor. Pulse until finely chopped. If you have room, add the flour and eggs, and process until smooth. Otherwise, transfer to a bowl, and stir in the flour and eggs using a wooden spoon. Spread evenly in the prepared pan."
+        },
+        {
+            "3": "Bake for 15 minutes in the preheated oven, or until the center is firm. Cool, and cut into squares using a pizza cutter. The treats will have a consistency similar to a sponge. Store in a sealed container in the refrigerator."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "36 "
+        },
+        {
+            "Yield": "2 pounds"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8813874.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8059660.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd11f608403a0e6b31aae6d42ab848e10%2F5318822.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4580861.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "animals"
+}

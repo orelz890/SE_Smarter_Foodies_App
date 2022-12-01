@@ -1,0 +1,78 @@
+{
+    "title": "Fresh Tomato Salsa",
+    "Category": "Salsa",
+    "Ingredients": [
+        {
+            "1": "3  tomatoes, chopped"
+        },
+        {
+            "2": "0.5 cup finely diced onion"
+        },
+        {
+            "3": "5  serrano chiles, finely chopped"
+        },
+        {
+            "4": "0.5 cup chopped fresh cilantro"
+        },
+        {
+            "5": "1 teaspoon salt"
+        },
+        {
+            "6": "2 teaspoons lime juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium bowl, stir together tomatoes, onion, chili peppers, cilantro, salt, and lime juice. Chill for one hour in the refrigerator before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "52"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9154371.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8509611.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8370179.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8228106.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/W-w9Ay2DZAR6usQju0Au-bJzv6o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/797844-d941fe7db06d41f58191e7ba454d36de.jpg"
+        }
+    ],
+    "main category": "dips"
+}

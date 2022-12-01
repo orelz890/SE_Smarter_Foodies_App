@@ -1,0 +1,120 @@
+{
+    "title": "Creamy Apple Blueberry Pie",
+    "Category": "Apple Pie",
+    "Ingredients": [
+        {
+            "1": "3 cups sliced apples"
+        },
+        {
+            "2": "1 cup blueberries"
+        },
+        {
+            "3": "1 (9 inch) unbaked deep dish pie crust"
+        },
+        {
+            "4": "0.25 cup all-purpose flour"
+        },
+        {
+            "5": "0.5 cup white sugar"
+        },
+        {
+            "6": "0.25 teaspoon salt"
+        },
+        {
+            "7": "0.25 teaspoon ground nutmeg"
+        },
+        {
+            "8": "0.25 teaspoon ground cinnamon, or more to taste"
+        },
+        {
+            "9": "1 cup plain yogurt"
+        },
+        {
+            "10": "1  egg"
+        },
+        {
+            "11": "1 teaspoon vanilla extract"
+        },
+        {
+            "12": "0.5 cup all-purpose flour"
+        },
+        {
+            "13": "0.5 cup chopped pecans"
+        },
+        {
+            "14": "0.5 cup rolled oats"
+        },
+        {
+            "15": "0.25 cup brown sugar"
+        },
+        {
+            "16": "0.5 cup butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Toss apples and blueberries in unbaked pie crust."
+        },
+        {
+            "3": "Mix 1/4 cup flour, white sugar, salt, nutmeg, and cinnamon in a bowl. Stir in yogurt, egg, and vanilla extract; pour batter over apples and blueberries."
+        },
+        {
+            "4": "Combine 1/2 cup flour, pecans, oats, and brown sugar in a mixing bowl. Cut in butter with a knife or pastry blender until mixture resembles coarse crumbs; set aside."
+        },
+        {
+            "5": "Bake in the preheated oven for 15 minutes; reduce heat to 350 degrees F (175 degrees C) and continue baking until pie crust is lightly browned, about 30 minutes. Sprinkle crumb mixture over pie and bake until golden brown, about 15 minutes more. Cool before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "464"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "55g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9262427.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8161690.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7962970.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6345131.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

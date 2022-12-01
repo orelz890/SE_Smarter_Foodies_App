@@ -1,0 +1,54 @@
+{
+    "title": "Bacon on the Grill",
+    "Category": "Keto Diet",
+    "Ingredients": [
+        {
+            "1": "1 pound lean thick-cut bacon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for medium-low heat."
+        },
+        {
+            "2": "Line a large rimmed baking sheet with aluminum foil. Place a cooling rack on top. Place bacon on rack, making sure no pieces are overlapping."
+        },
+        {
+            "3": "Place baking sheet on the grill grate, close the lid, and cook for 12 minutes or until desired doneness. Transfer bacon to a paper towel-lined plate to absorb excess grease."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "126"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9236697.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6685209.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

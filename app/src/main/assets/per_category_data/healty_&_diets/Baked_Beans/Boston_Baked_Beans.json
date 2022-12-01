@@ -1,0 +1,105 @@
+{
+    "title": "Boston Baked Beans",
+    "Category": "Baked Beans",
+    "Ingredients": [
+        {
+            "1": "2 cups dry navy beans, soaked overnight"
+        },
+        {
+            "2": "0.5 pound uncooked bacon strips"
+        },
+        {
+            "3": "1 medium onion, diced"
+        },
+        {
+            "4": "0.5 cup ketchup"
+        },
+        {
+            "5": "3 tablespoons molasses"
+        },
+        {
+            "6": "0.25 cup brown sugar"
+        },
+        {
+            "7": "1 tablespoon Worcestershire sauce"
+        },
+        {
+            "8": "2 teaspoons salt"
+        },
+        {
+            "9": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "10": "0.25 teaspoon dry mustard"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Transfer soaked navy beans and soaking water to a saucepan; bring to a boil. Reduce heat and simmer until tender, approximately 1 to 2 hours. Drain and reserve the cooking liquid."
+        },
+        {
+            "2": "Preheat the oven to 325 degrees F (165 degrees C)."
+        },
+        {
+            "3": "Arrange 1/2 of the beans in the bottom of a 2-quart casserole dish. Place 1/2 of the bacon strips over the beans and sprinkle 1/2 of the onions over top. Repeat layers once more."
+        },
+        {
+            "4": "Combine ketchup, molasses, brown sugar, Worcestershire sauce, salt, pepper, and dry mustard in a large saucepan over medium heat; bring to a boil."
+        },
+        {
+            "5": "Pour sauce over the beans. Pour in just enough reserved cooking liquid to cover the beans. Cover the casserole dish with a lid or aluminum foil."
+        },
+        {
+            "6": "Bake in the preheated oven for 1 1/2 hours. Remove the lid and continue to cook, checking every 1/2 hour or so and adding more cooking liquid if necessary to prevent the beans from getting too dry, until beans are tender, 1 1/2 to 2 1/2 more hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 4 hrs 10 mins"
+        },
+        {
+            "Total Time": " 4 hrs 20 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "382"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "63g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc5fbb2a12dc28b5bf5f722757d60bb38%2F1645216411373BFE4A-8254-410D-9EBA-1C136572FB69.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc5fbb2a12dc28b5bf5f722757d60bb38%2F16441968899F80A15F-E3E1-4A49-A7AF-33C4F2E1F0B3.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9443031.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9293240.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/jWaBMuJssDwvRmkrkktuWoEVdKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18255-BostonBakedBeans-mfs-2X3-0176-310b59a2789940208c765faf58b3580d.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/_ATGK90FH6G9aBhJzWcNq84rcQU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18255-boston-baked-beans-ddmfs-1x1-1-05a8130d50664dcbaf10f7ff16cf828f.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

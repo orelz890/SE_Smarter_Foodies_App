@@ -1,0 +1,72 @@
+{
+    "title": "Avocado Salad",
+    "Category": "Salad Recipes",
+    "Ingredients": [
+        {
+            "1": "2  avocados - peeled, pitted and diced"
+        },
+        {
+            "2": "1  sweet onion, chopped"
+        },
+        {
+            "3": "1  green bell pepper, chopped"
+        },
+        {
+            "4": "1 large ripe tomato, chopped"
+        },
+        {
+            "5": "0.25 cup chopped fresh cilantro"
+        },
+        {
+            "6": "0.5  lime, juiced"
+        },
+        {
+            "7": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine avocados, onion, bell pepper, tomato, cilantro, and lime juice in a large bowl. Gently toss until evenly coated. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "126"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fcf20cdfcfb44ee2658665bbc53283f61%2F1662320193PXL_20220904_165757711.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9437601.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9293731.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9257911.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

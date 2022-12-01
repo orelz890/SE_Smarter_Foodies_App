@@ -1,0 +1,108 @@
+{
+    "title": "Hawaiian Haystacks",
+    "Category": "Hawaiian",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "4  skinless, boneless chicken breast halves, cut into small cubes"
+        },
+        {
+            "3": "0.5 cup chicken broth"
+        },
+        {
+            "4": "1 (10.75 ounce) can  cream of mushroom soup"
+        },
+        {
+            "5": "1 teaspoon dried basil"
+        },
+        {
+            "6": "1 teaspoon dried parsley"
+        },
+        {
+            "7": "4 cups cooked rice"
+        },
+        {
+            "8": "1 cup chopped pineapple"
+        },
+        {
+            "9": "1 cup chopped green bell pepper"
+        },
+        {
+            "10": "1 cup shredded Cheddar cheese"
+        },
+        {
+            "11": "1 cup chopped fresh tomatoes"
+        },
+        {
+            "12": "1 cup chow mein noodles"
+        },
+        {
+            "13": "0.5 cup toasted sliced almonds"
+        },
+        {
+            "14": "0.5 cup chopped green onions"
+        },
+        {
+            "15": "0.5 cup shredded coconut"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a skillet over medium heat; cook and stir chicken in the hot oil until no longer pink in the center, 5 to 7 minutes. Add chicken broth; simmer until slightly reduced, about 5 minutes. Mix cream of mushroom soup, basil, and parsley into chicken mixture until smooth; cook until warmed, about 5 minutes. Transfer chicken sauce to a small bowl."
+        },
+        {
+            "2": "Spread cooked rice onto a serving platter; top with chicken sauce. Layer pineapple, green bell pepper, Cheddar cheese, tomatoes, chow mein noodles, almonds, green onions, and coconut, respectively, onto chicken sauce."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "799"
+        },
+        {
+            "Fat": "32g"
+        },
+        {
+            "Carbs": "87g"
+        },
+        {
+            "Protein": "40g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7760001.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5322103.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4545857.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4470051.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/5F0ZYHMIKwWDDHENlqqFHynyeWg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5322103-hawaiian-haystacks-Quenton-Dawson-1x1-1-cb17dc7faa324038a7eed83e06156425.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

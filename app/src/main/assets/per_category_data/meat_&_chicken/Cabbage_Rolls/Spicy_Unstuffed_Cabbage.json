@@ -1,0 +1,87 @@
+{
+    "title": "Spicy Unstuffed Cabbage",
+    "Category": "Cabbage Rolls",
+    "Ingredients": [
+        {
+            "1": "1 pound spicy bulk pork sausage"
+        },
+        {
+            "2": "1 pound lean ground beef"
+        },
+        {
+            "3": "1 (28 ounce) can diced tomatoes"
+        },
+        {
+            "4": "1  onion, chopped"
+        },
+        {
+            "5": "1 (6 ounce) can tomato paste"
+        },
+        {
+            "6": "2 tablespoons distilled white vinegar"
+        },
+        {
+            "7": "2 teaspoons chili powder"
+        },
+        {
+            "8": "0.5 teaspoon salt"
+        },
+        {
+            "9": "0.25 teaspoon red pepper flakes, or more to taste"
+        },
+        {
+            "10": "10 cups shredded cabbage"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large skillet over medium-high heat. Cook and stir sausage and beef in the hot skillet until browned and crumbly, 7 to 10 minutes; drain and discard grease."
+        },
+        {
+            "2": "Stir diced tomatoes, onion, tomato paste, vinegar, chili powder, salt, and red pepper flakes into sausage mixture. Fold in cabbage. Reduce heat to medium-low and cook, stirring occasionally, until cabbage is tender, 20 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "314"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8368263.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8328045.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8325872.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8316350.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

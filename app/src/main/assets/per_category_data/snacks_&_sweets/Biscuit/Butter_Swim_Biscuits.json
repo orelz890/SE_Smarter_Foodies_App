@@ -1,0 +1,87 @@
+{
+    "title": "Butter Swim Biscuits",
+    "Category": "Biscuit",
+    "Ingredients": [
+        {
+            "1": "0.5 cup unsalted butter"
+        },
+        {
+            "2": "1.0 cups all-purpose flour"
+        },
+        {
+            "3": "4 teaspoons baking powder"
+        },
+        {
+            "4": "4 teaspoons white sugar"
+        },
+        {
+            "5": "1 teaspoon salt"
+        },
+        {
+            "6": "0.75 cups buttermilk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "2": "Place butter in an 8x8-inch glass or ceramic baking dish. Microwave for 1 minute. Stir butter and keep microwaving at 20-second intervals until butter is fully melted."
+        },
+        {
+            "3": "Sift flour, baking powder, sugar, and salt into a bowl. Add buttermilk and stir until combined. Pour over melted butter and spread over the melted butter. Use a bench scraper to cut dough into 9 equal pieces."
+        },
+        {
+            "4": "Bake in the preheated oven until biscuit tops start to brown, 20 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "9 "
+        },
+        {
+            "Yield": "9 biscuits"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "244"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3d0e3a8468b893966da26121220ba467%2F166753945787320221102_151512.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd780417020da087b6b59e8c64bea80eb%2F1660958014IMG_20220819_193224.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9299685.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9240115.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/FGVVmKUh0Q_Yjz2wP03-mP5VZt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-30-c1294db9d646427ba18ddd07e5f0731f.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

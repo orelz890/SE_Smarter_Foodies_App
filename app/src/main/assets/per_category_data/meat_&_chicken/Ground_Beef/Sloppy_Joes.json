@@ -1,0 +1,99 @@
+{
+    "title": "Sloppy Joes",
+    "Category": "Ground Beef",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "0.25 cup chopped onion"
+        },
+        {
+            "3": "0.25 cup chopped green bell pepper"
+        },
+        {
+            "4": "0.75 cup ketchup, or to taste"
+        },
+        {
+            "5": "1 tablespoon brown sugar, or to taste"
+        },
+        {
+            "6": "1 teaspoon yellow mustard, or to taste"
+        },
+        {
+            "7": "0.5 teaspoon garlic powder"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        },
+        {
+            "9": "6  hamburger buns, split"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large skillet over medium heat. Cook and stir lean ground beef in the hot skillet until some of the fat starts to render, 3 to 4 minutes. Add onion and bell pepper; continue to cook until vegetables have softened and beef is cooked through, 3 to 5 more minutes."
+        },
+        {
+            "2": "Stir in ketchup, brown sugar, mustard, and garlic powder; season with salt and pepper. Reduce heat to low and simmer for 20 to 30 minutes."
+        },
+        {
+            "3": "Divide meat mixture evenly among hamburger buns."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 sandwiches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "243"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4366609337c69e8b8c5c53fde827ad17%2F16640442310B6EA8BA-403B-401B-81E3-7944611227DD.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4366609337c69e8b8c5c53fde827ad17%2F1661270851image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4366609337c69e8b8c5c53fde827ad17%2F165888085416588808352396379771605680799863.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4366609337c69e8b8c5c53fde827ad17%2F165637072120220627_175542.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/KCsOg0ROt6SjT70USb7GhbtqHhY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24264-sloppy-joes-dianne-3x2-1-16a5c18a55b94454b36a5424c9dd0c40.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/Tx1ftu21Al9eRyM3YE_x16NZzIU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR_GC_SloppyJoes_stills_00686-2000-f7a19e5a6c564a9fbd12ef43d4298a34.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/ALLMxp_JsluPy2d3x1ZZYr1AHxk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24264-sloppy-joes-dianne-1x1-1-ca246f276afe4196b0ea921df2574466.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,114 @@
+{
+    "title": "Easy Chicken Quiche",
+    "Category": "Quiche",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "1  frozen puff pastry - thawed, unfolded, and lightly rolled"
+        },
+        {
+            "3": "1 tablespoon Dijon mustard"
+        },
+        {
+            "4": "1 tablespoon butter"
+        },
+        {
+            "5": "1 cup chopped green onions"
+        },
+        {
+            "6": "2 cloves garlic, chopped"
+        },
+        {
+            "7": "0.5 cups chopped cooked chicken"
+        },
+        {
+            "8": "3  eggs"
+        },
+        {
+            "9": "0.5 cups heavy cream"
+        },
+        {
+            "10": "1 teaspoon salt"
+        },
+        {
+            "11": "0.5 teaspoon nutmeg"
+        },
+        {
+            "12": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "13": "0.5 teaspoon Italian seasoning"
+        },
+        {
+            "14": "2 cups shredded Gouda cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C). Grease a 9-inch pie dish with cooking spray."
+        },
+        {
+            "2": "Line the prepared pie dish with puff pastry, covering base and sides. Trim excess pastry. Brush bottom with Dijon mustard."
+        },
+        {
+            "3": "Melt butter in a saucepan over medium heat. Add chopped green onions and cook until tender, about 5 minutes. Add garlic and cook for 1 minute more. Mix in chicken, and cook for 1 minute more."
+        },
+        {
+            "4": "Whisk eggs, heavy cream, salt, nutmeg, ground black pepper, and Italian seasoning together in a bowl."
+        },
+        {
+            "5": "Layer 1/2 of the Gouda cheese over the puff pastry and top with chicken mixture. Pour in egg mixture. Sprinkle the remaining Gouda cheese on top."
+        },
+        {
+            "6": "Bake in the preheated oven until set and golden, about 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch quiche"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "520"
+        },
+        {
+            "Fat": "41g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9328445.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6319696.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F47b05e1428be4f59a707024d4ba0d3c7%2F5907622.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5056419.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

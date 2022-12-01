@@ -1,0 +1,72 @@
+{
+    "title": "Pesto Genovese (Authentic Italian Basil Pesto)",
+    "Category": "Pesto Sauce",
+    "Ingredients": [
+        {
+            "1": "2 cloves garlic, or more to taste"
+        },
+        {
+            "2": "2 tablespoons pine nuts"
+        },
+        {
+            "3": "1 bunch fresh basil leaves"
+        },
+        {
+            "4": "0.5 cup grated Parmigiano-Reggiano cheese"
+        },
+        {
+            "5": "0.5 tablespoons grated pecorino Romano cheese"
+        },
+        {
+            "6": "0.5 cup extra-virgin olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Crush garlic using a mortar and pestle. Add pine nuts; crush with the garlic. Add basil leaves gradually, making circular movements with the pestle, until a smooth paste forms."
+        },
+        {
+            "2": "Mix Parmigiano-Reggiano cheese and pecorino Romano cheese using a wooden spoon. Stir in olive oil until pesto is blended."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "225"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8441902.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdae4b121c5164900fc336a5b04da3910%2F4557058.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://www.allrecipes.com/thmb/MjwKnbTrL2HY6zHfT_bYT7BidYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4557058-f3b9bbca2c2e45c2a3afa789dfdd847d.jpg"
+        }
+    ],
+    "main category": "dips"
+}

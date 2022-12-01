@@ -1,0 +1,93 @@
+{
+    "title": "French Onion Soup IX",
+    "Category": "French Onion Soup",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons butter"
+        },
+        {
+            "2": "2 pounds yellow onions, halved and sliced 1/2 inch thick"
+        },
+        {
+            "3": "4 (14 ounce) cans beef broth"
+        },
+        {
+            "4": "1 (10.5 ounce) can beef consomme"
+        },
+        {
+            "5": "0.25 cup grated Romano cheese"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        },
+        {
+            "7": "8 slices French bread, toasted"
+        },
+        {
+            "8": "0.5 cup shredded Gruyere cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large pot over low heat, melt butter. Cook onions in butter until soft and golden brown, 15 to 30 minutes."
+        },
+        {
+            "2": "Pour in beef broth and consomme and simmer 10 minutes."
+        },
+        {
+            "3": "Preheat oven broiler."
+        },
+        {
+            "4": "Whisk Romano into soup and season with salt and pepper. Pour soup into 8 ovenproof bowls. Top with toasted slices of bread and grated Gruyere."
+        },
+        {
+            "5": "Place bowls under broiler until cheese melts."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "213"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8647965.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7880890.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7067324.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5095990.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Wacky Cake",
+    "Category": "Chocolate Cake",
+    "Ingredients": [
+        {
+            "1": "0.5 cups all-purpose flour"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "4 tablespoons unsweetened cocoa powder"
+        },
+        {
+            "4": "1 teaspoon baking soda"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "6 tablespoons vegetable oil"
+        },
+        {
+            "7": "1 tablespoon cider vinegar"
+        },
+        {
+            "8": "1 teaspoon vanilla extract"
+        },
+        {
+            "9": "1 cup water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Sift together flour, sugar, cocoa powder, baking soda, and salt into an 8x8-inch ungreased cake pan. Make 3 depressions in the flour mixture. Pour oil into one well, vinegar into second, and vanilla into third well. Pour water over all, then stir with a fork until well blended."
+        },
+        {
+            "3": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 30 to 40 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 8x8-inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "225"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F011f1bfe30d482175641d22b043ab16d%2F1666221362126ABB72F38-9AA8-413E-913E-5EA249A61ED7.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F011f1bfe30d482175641d22b043ab16d%2F1664484147011wacky-cake.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F21fad902ea302a5a17eebef3a8b4c682%2F166173184020220828_190829.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F21fad902ea302a5a17eebef3a8b4c682%2F1645482094CA2AC0B4-C475-4FFF-8307-8D549C3A585C.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

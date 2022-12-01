@@ -1,0 +1,90 @@
+{
+    "title": "Asian Salad",
+    "Category": "Pasta Salad",
+    "Ingredients": [
+        {
+            "1": "2 (3 ounce) packages ramen noodles, crushed"
+        },
+        {
+            "2": "1 cup blanched slivered almonds"
+        },
+        {
+            "3": "2 teaspoons sesame seeds"
+        },
+        {
+            "4": "0.5 cup butter, melted"
+        },
+        {
+            "5": "0.75 cup vegetable oil"
+        },
+        {
+            "6": "0.5 cup white sugar"
+        },
+        {
+            "7": "0.25 cup distilled white vinegar"
+        },
+        {
+            "8": "2 tablespoons soy sauce"
+        },
+        {
+            "9": "1 head napa cabbage, shredded"
+        },
+        {
+            "10": "1 bunch green onions, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Brown ramen noodles, almonds, and sesame seeds with melted butter in a medium skillet over low heat. Once browned, take off heat and cool."
+        },
+        {
+            "2": "Bring oil, sugar, and vinegar to a boil in a small saucepan for 1 minute. Cool. Add soy sauce."
+        },
+        {
+            "3": "Combine cabbage and green onions in a large bowl. Add noodle mixture and soy sauce mixture. Toss to coat and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "374"
+        },
+        {
+            "Fat": "32g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8419950.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8243217.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8123091.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6978477.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

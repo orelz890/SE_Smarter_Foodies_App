@@ -1,0 +1,75 @@
+{
+    "title": "Granny's Homemade Noodles",
+    "Category": "Homemade Pasta",
+    "Ingredients": [
+        {
+            "1": "4  eggs"
+        },
+        {
+            "2": "2 tablespoons water"
+        },
+        {
+            "3": "3 cups all-purpose flour"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "0.5 teaspoon baking powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Beat the eggs and water together in a bowl. Sift the flour, salt, and baking powder into a separate large bowl and make a well in the center. Pour the beaten eggs into the well, then stir in the flour mixture until a soft dough forms."
+        },
+        {
+            "2": "Roll the dough into a very thin layer on a lightly-floured surface; cut into 1/2 inch strips. Allow to dry at least 4 hours before using."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Additional Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "275"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2063640.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffd8cf8d9e4101cdc4d8c7413608eab96%2F1948783.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9131025fca90861b5d04647f30a64a6b%2F993804.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F760631.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

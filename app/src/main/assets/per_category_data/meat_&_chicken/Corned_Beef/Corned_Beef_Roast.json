@@ -1,0 +1,78 @@
+{
+    "title": "Corned Beef Roast",
+    "Category": "Corned Beef",
+    "Ingredients": [
+        {
+            "1": "1 (5 1/2 pound) corned beef brisket with spice packet"
+        },
+        {
+            "2": "7 small potatoes, peeled and diced"
+        },
+        {
+            "3": "4  carrots, peeled and diced"
+        },
+        {
+            "4": "3 cloves garlic, chopped"
+        },
+        {
+            "5": "1 medium onion, diced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 300 degrees F (150 degrees C)."
+        },
+        {
+            "2": "Place the brisket in the center of a roasting pan. Arrange the potatoes and carrots around the sides. Place the onion and garlic on top of the roast, and season with salt and pepper. Empty the seasoning packet over the roast, and pour enough water into the pan to almost cover the potatoes. Cover with a lid or heavy aluminum foil."
+        },
+        {
+            "3": "Roast for 5 to 6 hours in the preheated oven, until the roast is so tender it can be flaked apart with a fork."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 5 hrs"
+        },
+        {
+            "Total Time": " 5 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "465"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9098747.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7918132.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F606297.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F10759.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

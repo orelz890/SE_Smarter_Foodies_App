@@ -1,0 +1,90 @@
+{
+    "title": "Light and Fluffy Spinach Quiche",
+    "Category": "Quiche",
+    "Ingredients": [
+        {
+            "1": "0.5 cup light mayonnaise"
+        },
+        {
+            "2": "0.5 cup milk"
+        },
+        {
+            "3": "4 large eggs, lightly beaten"
+        },
+        {
+            "4": "1 (10 ounce) package frozen chopped spinach, thawed and squeezed dry"
+        },
+        {
+            "5": "8 ounces shredded reduced-fat Cheddar cheese"
+        },
+        {
+            "6": "0.25 cup chopped onion"
+        },
+        {
+            "7": "1 (9 inch) unbaked pie shell"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C). Line a cookie sheet with foil."
+        },
+        {
+            "2": "Whisk together mayonnaise and milk in a large bowl until smooth. Whisk in eggs; set aside."
+        },
+        {
+            "3": "Layer spinach, cheese, and onion in the pie shell, making several layers of each. Place on the prepared cookie sheet. Slowly pour egg mixture into the pie shell, then cover quiche with foil."
+        },
+        {
+            "4": "Bake in the preheated oven for 45 minutes. Uncover and continue baking until the top is golden brown and filling is set, 10 to 15 more minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 9-inch quiche"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "356"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F16c61cc69bd09767e5c4672a7fa50861%2F1656870340C736CC7D-898D-4937-92EB-77CE8ED9CCE8.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F16c61cc69bd09767e5c4672a7fa50861%2F165621304757F3DB8D-29F5-4CD6-951F-1DD8B32666ED.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9355627.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9355626.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/TTwj4ftxLwKLqnzmC-tS7AUTLQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6537558-0dacd09cfe774f468d0d05cacd1ed293.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

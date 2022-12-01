@@ -1,0 +1,75 @@
+{
+    "title": "Chicken Tetrazzini for a Crowd",
+    "Category": "Tetrazzini",
+    "Ingredients": [
+        {
+            "1": "1 pound spaghetti, broken into pieces"
+        },
+        {
+            "2": "3 (10.75 ounce) cans  condensed cream of mushroom soup"
+        },
+        {
+            "3": "12 ounces shredded Cheddar cheese"
+        },
+        {
+            "4": "6 cups shredded boiled chicken breast meat"
+        },
+        {
+            "5": "1 pound sauteed mushrooms"
+        },
+        {
+            "6": "1 (4 ounce) jar sliced pimento peppers, drained"
+        },
+        {
+            "7": "2 cups reserved chicken broth"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Bring a large pot of salted water to a boil. Add uncooked spaghetti (broken into thirds) to the pot and cook for 8 to 10 minutes or until al dente. Drain and set aside."
+        },
+        {
+            "2": "In a large saucepan, heat soup over low heat. Add shredded cheese (reserve some for topping) and stir together. Then add the cooked shredded chicken, mushrooms, pimento peppers and cooked spaghetti and stir all together. Add enough of the reserved broth to make it 'sloppy' and mix all together."
+        },
+        {
+            "3": "Pour mixture into a 9x13 inch baking dish. Sprinkle reserved shredded cheese on top and bake in the preheated oven for 25 to 35 minutes or until bubbly."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "20 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "279"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb3f7c21d5b27dd55f1b8cf2ad5587219%2F16535761078F59DF3E-6AA3-4A2E-8580-B61DAC007F6C.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9210882.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8324125.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8324123.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

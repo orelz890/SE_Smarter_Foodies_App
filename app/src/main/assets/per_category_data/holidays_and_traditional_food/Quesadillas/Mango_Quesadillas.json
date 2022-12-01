@@ -1,0 +1,105 @@
+{
+    "title": "Mango Quesadillas",
+    "Category": "Quesadillas",
+    "Ingredients": [
+        {
+            "1": "1 (15 ounce) can black beans, drained"
+        },
+        {
+            "2": "1 tablespoon vegetable oil"
+        },
+        {
+            "3": "0.5  onion, chopped"
+        },
+        {
+            "4": "1  red bell pepper, chopped"
+        },
+        {
+            "5": "1 teaspoon chili powder"
+        },
+        {
+            "6": "1 pinch cayenne pepper"
+        },
+        {
+            "7": "1 pinch dried oregano"
+        },
+        {
+            "8": "1 pinch dried basil"
+        },
+        {
+            "9": "1  mango - peeled, seeded and diced"
+        },
+        {
+            "10": "1 (6 ounce) package seasoned chicken-style vegetarian strips (such as Lightlife Smart Strips\u00ae)"
+        },
+        {
+            "11": "6 (10 inch) flour tortillas"
+        },
+        {
+            "12": "1 (8 ounce) package shredded Cheddar cheese"
+        },
+        {
+            "13": "1 cup arugula leaves"
+        },
+        {
+            "14": "1 (4 ounce) jar jalapeno pepper rings (Optional)"
+        },
+        {
+            "15": "1 (8 ounce) jar salsa"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the beans in a saucepan over medium heat, and cook 5 minutes. Partially mash with a potato masher or large spoon. Reduce heat to low, and keep warm until ready to serve."
+        },
+        {
+            "2": "Heat the oil in a skillet over medium heat. Stir in the onion and red bell pepper. Season with chili powder, cayenne pepper, oregano, and basil. Cook and stir until vegetables are tender. Mix in mango and vegetarian chicken strips, and continue cooking about 2 minutes, until vegetarian chicken is heated through."
+        },
+        {
+            "3": "In a separate skillet over medium heat, place the tortillas one at a time until soft and warm, about 2 minutes per side. Spread warm tortillas with equal amounts of the the black beans, mango mixture, Cheddar cheese, arugula, and jalapenos. Fold tortillas over the filling and top with salsa to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "503"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3555384.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3432267.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F747796.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

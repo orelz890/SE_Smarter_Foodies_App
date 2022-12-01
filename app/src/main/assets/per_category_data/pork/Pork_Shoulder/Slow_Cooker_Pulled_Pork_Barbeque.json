@@ -1,0 +1,87 @@
+{
+    "title": "Slow Cooker Pulled Pork Barbeque",
+    "Category": "Pork Shoulder",
+    "Ingredients": [
+        {
+            "1": "2 cups chopped celery"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "1 cup barbeque sauce"
+        },
+        {
+            "4": "1 cup ketchup"
+        },
+        {
+            "5": "0.5 cup water"
+        },
+        {
+            "6": "1 teaspoon garlic powder"
+        },
+        {
+            "7": "1 teaspoon chili powder"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        },
+        {
+            "9": "1 (4 pound) pork shoulder roast"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir celery, onion, barbeque sauce, ketchup, water, garlic powder, chili powder, salt, and pepper together in a slow cooker. Place roast into the mixture."
+        },
+        {
+            "2": "Cook on Low for 7 hours (or High for 5 hours). Shred the meat with two forks and stir into the liquid; cook for 1 hour more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 6 hrs"
+        },
+        {
+            "Total Time": " 6 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "323"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9413149.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4547125.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4059021.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F39a273ace8f21226322cab381f160457%2F3822933.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

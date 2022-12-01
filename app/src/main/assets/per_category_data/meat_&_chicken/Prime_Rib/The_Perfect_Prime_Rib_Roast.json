@@ -1,0 +1,81 @@
+{
+    "title": "The Perfect Prime Rib Roast",
+    "Category": "Prime Rib",
+    "Ingredients": [
+        {
+            "1": "1 teaspoon garlic powder"
+        },
+        {
+            "2": "1 teaspoon onion powder"
+        },
+        {
+            "3": "1 teaspoon dried dill weed"
+        },
+        {
+            "4": "1 teaspoon ground black pepper"
+        },
+        {
+            "5": "1 teaspoon salt (Optional)"
+        },
+        {
+            "6": "3 pounds prime rib roast, ribs removed and trussed onto roast, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C). Place a rack inside a roasting pan."
+        },
+        {
+            "2": "Mix garlic powder, onion powder, dill weed, pepper, and salt together in a bowl; rub onto roast, including the ribs. Place roast, rib-side down, onto rack in roasting pan."
+        },
+        {
+            "3": "Bake roast in the preheated oven for 45 minutes. Turn off oven, keeping the door closed the entire time, and keep roast in oven for 3 hours. Turn oven back to 375 degrees F (190 degrees C) and cook roast until an internal temperature of 145 degrees F (65 degrees C) is reached, 30 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 4 hrs 15 mins"
+        },
+        {
+            "Total Time": " 4 hrs 25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "393"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F652d27d61d3ab35ead8f2cfc09e2cec4%2F1659477909image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7519187.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7519191.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5392888.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

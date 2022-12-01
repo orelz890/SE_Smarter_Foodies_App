@@ -1,0 +1,66 @@
+{
+    "title": "3-Ingredient Whipped Cream",
+    "Category": "Frosting and Icing Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pint heavy cream"
+        },
+        {
+            "2": "0.25 cup white sugar"
+        },
+        {
+            "3": "1 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place a small bowl and mixer beaters in the freezer for about 5 minutes."
+        },
+        {
+            "2": "Pour cream into the chilled bowl and beat with an electric mixer until frothy. Add sugar and vanilla extract gradually, continuing to beat until soft peaks form."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "462"
+        },
+        {
+            "Fat": "44g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8052856.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1ee1cdb4532b97f861e49cdae77f6ada%2F7304504.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7058432.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

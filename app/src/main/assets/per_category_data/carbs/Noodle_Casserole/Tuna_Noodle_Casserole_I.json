@@ -1,0 +1,93 @@
+{
+    "title": "Tuna Noodle Casserole I",
+    "Category": "Noodle Casserole",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package wide egg noodles"
+        },
+        {
+            "2": "2 tablespoons butter"
+        },
+        {
+            "3": "2 tablespoons all-purpose flour"
+        },
+        {
+            "4": "1 teaspoon salt (Optional)"
+        },
+        {
+            "5": "1 cup milk"
+        },
+        {
+            "6": "1 cup shredded sharp Cheddar cheese"
+        },
+        {
+            "7": "1 (5 ounce) can tuna, drained"
+        },
+        {
+            "8": "1 (15 ounce) can peas, drained"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Coat a 2 quart casserole dish with cooking spray."
+        },
+        {
+            "2": "In a large pot of salted water, boil noodles until al dente. Drain well."
+        },
+        {
+            "3": "In a medium saucepan, combine flour, butter, and salt. Stir until butter is melted and ingredients are combined evenly. Add milk, and whisk until the sauce thickens (usually it is at the proper consistency by the time it begins to boil). Add cheese to mixture, and whisk until cheese is melted and mixture is well blended. Stir in tuna, peas, and noodles. Spread evenly in prepared dish."
+        },
+        {
+            "4": "Bake in preheated oven for 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "346"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9162639.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8770819.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6899631.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffd1e65b3f6d45b78237b20ffd6c98cda%2F6086013.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/VbfSHkgx6cpdsw291NiwJ5pdAJY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/30429-tuna-noodle-casserole-i-apedawn-1x1-1-c97a58f432974fddb635fce2a6b979f3.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

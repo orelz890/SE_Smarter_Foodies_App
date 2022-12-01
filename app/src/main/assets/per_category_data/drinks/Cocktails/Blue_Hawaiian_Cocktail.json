@@ -1,0 +1,84 @@
+{
+    "title": "Blue Hawaiian Cocktail",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "1 cup crushed ice"
+        },
+        {
+            "2": "2 fluid ounces pineapple juice"
+        },
+        {
+            "3": "1 fluid ounce light rum"
+        },
+        {
+            "4": "1 fluid ounce blue Curacao liqueur"
+        },
+        {
+            "5": "1 fluid ounce cream of coconut"
+        },
+        {
+            "6": "1  pineapple slice"
+        },
+        {
+            "7": "1  maraschino cherry"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine crushed ice, pineapple juice, rum, blue Curacao, and cream of coconut in a blender. Puree on high speed until smooth. Pour into a chilled highball glass."
+        },
+        {
+            "2": "Garnish with a slice of pineapple and a maraschino cherry."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 cocktail"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "369"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9382670.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8909339.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8341881.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8234710.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/RCd1kfHBA651Ti3LhED7BpLyS8c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222550-BlueHawaiianCocktail-mfs-2X3-0145-b5170c95d1c64396a60fc8e6cd66e939.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/91POgRGZCmrCJjAB3FMyCZLznUM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222550-BlueHawaiianCocktail-mfs-1X1-0146-1e115e006ebd422b8fe1ea36704b86c2.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

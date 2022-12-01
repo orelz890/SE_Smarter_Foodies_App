@@ -1,0 +1,90 @@
+{
+    "title": "Fluffy Gluten-Free Pancakes",
+    "Category": "Gluten-Free Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup all-purpose gluten-free flour"
+        },
+        {
+            "2": "0.5 teaspoon gluten-free baking powder"
+        },
+        {
+            "3": "0.5 teaspoon salt"
+        },
+        {
+            "4": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "5": "1 large egg"
+        },
+        {
+            "6": "1 tablespoon vegetable oil"
+        },
+        {
+            "7": "1 teaspoon vanilla extract"
+        },
+        {
+            "8": "0.5 cup cold milk, or more as needed"
+        },
+        {
+            "9": "1 cooking spray"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk flour, baking powder, salt, and cinnamon together in a bowl until well combined."
+        },
+        {
+            "2": "Whisk egg, vegetable oil, and vanilla together in a second bowl until well combined. Gradually stir dry ingredients into wet ingredients with a wooden spoon until incorporated; batter should still be still lumpy. Add milk and mix until batter is smooth. Let sit until thickened, 5 to 10 minutes. Stir in more milk, 1 tablespoon at a time, if batter is too thick."
+        },
+        {
+            "3": "Spray a griddle with cooking spray and preheat over medium-low heat."
+        },
+        {
+            "4": "Working in batches, drop 1 to 2 heaping tablespoonfuls onto the preheated griddle for each pancake. Cook until bubbles form and the edges are dry, 3 to 4 minutes. Flip and cook until browned on the other side, 2 to 3 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "90"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8b5b430504ffe244e55fb81e95fc74b7%2F6747989.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff4e59e3734437bc736f6a085eab0dd0d%2F6747974.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4564452.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

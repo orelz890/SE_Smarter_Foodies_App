@@ -1,0 +1,69 @@
+{
+    "title": "Homemade Hashbrowns",
+    "Category": "Breakfast Potatoes",
+    "Ingredients": [
+        {
+            "1": "2 cups mashed potatoes"
+        },
+        {
+            "2": "1  egg, beaten"
+        },
+        {
+            "3": "1  onion, finely diced"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "6": "2 tablespoons olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Beat egg in a medium size mixing bowl. Mix egg and onion with mashed potatoes. Add salt and pepper."
+        },
+        {
+            "2": "Heat olive oil in a medium size frying pan, over a medium heat. Scoop the potato mixutre into the frying pan in 4 inch circles, pat with a spatula to flatten the mounds to approximately 1/2 to 1 inch thick. Cook until bottom is browned. Flip the patty over and brown on the other side."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "176"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8250785.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8032778.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7122545.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbd45586d8a765885af8e2b5f3e53d70a%2F6459807.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

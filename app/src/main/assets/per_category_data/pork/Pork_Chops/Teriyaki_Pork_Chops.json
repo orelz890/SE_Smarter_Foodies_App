@@ -1,0 +1,81 @@
+{
+    "title": "Teriyaki Pork Chops",
+    "Category": "Pork Chops",
+    "Ingredients": [
+        {
+            "1": "0.75 cup teriyaki sauce"
+        },
+        {
+            "2": "0.5 teaspoons garlic salt"
+        },
+        {
+            "3": "0.5 teaspoons ground black pepper"
+        },
+        {
+            "4": "3  pork chops"
+        },
+        {
+            "5": "1 tablespoon extra-virgin olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine teriyaki sauce, garlic salt, and black pepper in a bowl."
+        },
+        {
+            "2": "Place pork chops on a deep plate. Pour 3/4 of the teriyaki mixture on top. Flip pork chops to coat second side. Let marinate in the refrigerator, about 30 minutes."
+        },
+        {
+            "3": "Heat oil in large skillet over medium heat; add pork chops, discarding marinade. Cover and cook until pork chops are browned, about 15 minutes. Flip and continue cooking until pork chops are cooked through, about 10 minutes. Uncover and pour in remaining 1/4 of the teriyaki mixture. Cover and simmer until flavors combine, about 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "3 "
+        },
+        {
+            "Yield": "3 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "225"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F955e4a66ac714dc9a3cfe5bed5c679d1%2F1645060493Snapchat-100585510.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9212332.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8093210.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8091029.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

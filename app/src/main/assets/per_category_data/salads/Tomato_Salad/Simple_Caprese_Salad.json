@@ -1,0 +1,75 @@
+{
+    "title": "Simple Caprese Salad",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "1 (12 ounce) jar roasted red peppers, drained"
+        },
+        {
+            "2": "16 slices fresh mozzarella cheese"
+        },
+        {
+            "3": "16 thick slices ripe slicing tomato"
+        },
+        {
+            "4": "32 leaves fresh basil"
+        },
+        {
+            "5": "1 olive oil"
+        },
+        {
+            "6": "1 pinch ground black pepper to taste"
+        },
+        {
+            "7": "1 (4 ounce) can sliced black olives, drained (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cut roasted red peppers into 16 large pieces. Starting at the edge of a serving platter, place a slice of tomato, a basil leaf, a slice of mozzarella cheese, a piece of roasted pepper, and another basil leaf. Continue in that pattern, forming a spiral from the outside in, until all the ingredients have been arranged; salad should end in the center of the platter. Drizzle the salad with olive oil and sprinkle with black pepper and black olives."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "311"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4373499.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F08482654abf0490b21f3afdae27affd1%2F1132592.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F870628.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F870627.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

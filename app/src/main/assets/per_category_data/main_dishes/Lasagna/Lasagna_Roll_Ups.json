@@ -1,0 +1,108 @@
+{
+    "title": "Lasagna Roll-Ups",
+    "Category": "Lasagna",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "0.25  white onion, chopped"
+        },
+        {
+            "3": "0.5 teaspoon garlic powder"
+        },
+        {
+            "4": "0.5 teaspoon dried oregano"
+        },
+        {
+            "5": "1 (26 ounce) jar chunky tomato sauce (such as Ragu\u00ae)"
+        },
+        {
+            "6": "3 tablespoons white sugar"
+        },
+        {
+            "7": "18  lasagna noodles"
+        },
+        {
+            "8": "1 cooking spray"
+        },
+        {
+            "9": "1 (15 ounce) container ricotta cheese"
+        },
+        {
+            "10": "1 large egg, beaten"
+        },
+        {
+            "11": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "12": "1 cup grated Parmesan cheese, divided"
+        },
+        {
+            "13": "1 (12 ounce) package shredded mozzarella cheese, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook and stir ground beef, onion, garlic powder, and oregano in a large skillet over medium heat until onion is tender and beef is browned, about 10 minutes. Add tomato sauce and sugar; simmer until sauce is heated through, about 10 minutes."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Cook lasagna in the boiling water, stirring occasionally until cooked through but firm to the bite, 8 to 10 minutes. Drain."
+        },
+        {
+            "3": "Preheat the oven to 375 degrees F (190 degrees C). Grease a 9x13-inch casserole dish."
+        },
+        {
+            "4": "Mix ricotta cheese, egg, parsley, and 3/4 cup Parmesan cheese together in a bowl."
+        },
+        {
+            "5": "Place a lasagna noodle on a work surface. Spoon one layer ricotta cheese mixture, one layer meat sauce, and one layer mozzarella cheese atop lasagna noodle; top with another lasagna noodle. Roll up the stuffed lasagna noodles in the jelly-roll style; place in the prepared casserole dish. Repeat with remaining lasagna noodles, ricotta cheese mixture, meat sauce, and mozzarella cheese. Spread a spoonful of meat sauce atop each lasagna roll; top with remaining mozzarella cheese and 1/4 cup Parmesan cheese."
+        },
+        {
+            "6": "Bake in the preheated oven until cheese is melted and bubbling, 30 to 35 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "9 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "524"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9181002.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9113952.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9109720.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9083593.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Gourmet Wasabi Grits",
+    "Category": "Grits",
+    "Ingredients": [
+        {
+            "1": "1 (1 ounce) packet instant grits (such as Quaker\u00ae)"
+        },
+        {
+            "2": "0.5 cup boiling water"
+        },
+        {
+            "3": "1 teaspoon wasabi sauce (such as S&B\u00ae Wasabi)"
+        },
+        {
+            "4": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix grits and boiling water together in a bowl; stir in wasabi sauce, salt, and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 serving"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "119"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3713740.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

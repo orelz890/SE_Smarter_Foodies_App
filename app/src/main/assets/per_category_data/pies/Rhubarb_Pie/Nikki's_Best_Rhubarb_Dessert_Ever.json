@@ -1,0 +1,93 @@
+{
+    "title": "Nikki's Best Rhubarb Dessert Ever",
+    "Category": "Rhubarb Pie",
+    "Ingredients": [
+        {
+            "1": "3 cups all-purpose flour"
+        },
+        {
+            "2": "0.5 cups brown sugar"
+        },
+        {
+            "3": "1 cup butter, softened"
+        },
+        {
+            "4": "4  eggs"
+        },
+        {
+            "5": "0.25 cup all-purpose flour"
+        },
+        {
+            "6": "0.5 cups white sugar"
+        },
+        {
+            "7": "1 cup half-and-half"
+        },
+        {
+            "8": "0.5 teaspoon salt"
+        },
+        {
+            "9": "4 cups chopped rhubarb"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Mix 3 cups flour and brown sugar in a large bowl; cut in softened butter with a knife or pastry blender until mixture resembles coarse crumbs. Reserve 1 1/2 cups flour mixture; pat remainder into the bottom of a 9x13-inch pan."
+        },
+        {
+            "3": "Bake in preheated oven until crust is lightly browned, about 15 minutes."
+        },
+        {
+            "4": "Beat eggs in a large bowl; mix 1/4 cup flour, white sugar, half-and-half, and salt into eggs, beating until smooth."
+        },
+        {
+            "5": "Sprinkle chopped rhubarb over baked crust. Pour egg mixture over rhubarb; top with reserved flour mixture."
+        },
+        {
+            "6": "Bake in preheated oven until eggs are set and lightly browned, 40 to 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "519"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "81g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb7f475d79e7a1286c198b28d540b35af%2F6709135.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1005634.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

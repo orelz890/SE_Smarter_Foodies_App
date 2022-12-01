@@ -1,0 +1,81 @@
+{
+    "title": "Chicken and Red Wine Sauce",
+    "Category": "Purim Recipes",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "1 tablespoon minced garlic"
+        },
+        {
+            "3": "3 pounds skinless, boneless chicken breast halves"
+        },
+        {
+            "4": "1 tablespoon paprika"
+        },
+        {
+            "5": "1 cup brown sugar"
+        },
+        {
+            "6": "1 cup red wine"
+        },
+        {
+            "7": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large skillet over medium-high heat. Cook garlic in oil until tender. Place chicken in the skillet, and cook for about 10 minutes on each side, until no longer pink and juices run clear."
+        },
+        {
+            "2": "Drain oil from the skillet. Sprinkle chicken with paprika and brown sugar. Pour red wine around chicken. Cover and simmer, 15 to 20 minutes; lightly baste the chicken with wine sauce while cooking."
+        },
+        {
+            "3": "Season with salt and pepper to taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "214"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9443815.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9181883.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9054760.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8676319.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

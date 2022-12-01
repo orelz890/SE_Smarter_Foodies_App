@@ -1,0 +1,96 @@
+{
+    "title": "Chococonut Chip Cookies",
+    "Category": "Drop Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup butter"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "0.5 cup light brown sugar"
+        },
+        {
+            "4": "2  eggs"
+        },
+        {
+            "5": "1 teaspoon vanilla extract"
+        },
+        {
+            "6": "0.5 cups all-purpose flour"
+        },
+        {
+            "7": "1 teaspoon baking soda"
+        },
+        {
+            "8": "1 teaspoon salt"
+        },
+        {
+            "9": "2 cups semisweet chocolate chips"
+        },
+        {
+            "10": "2 cups flaked coconut"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Beat butter, white sugar, and brown sugar together with an electric mixer in a large bowl until light and fluffy. Beat first egg into butter mixture. Beat second egg into mixture along with vanilla extract."
+        },
+        {
+            "3": "Combine flour, baking soda, and salt together in a separate bowl; stir into butter mixture until just combined. Fold in chocolate chips and coconut. Drop spoonfuls of dough 2 inches apart onto ungreased cookie sheets."
+        },
+        {
+            "4": "Bake in the preheated oven until edges are golden, about 8 to 10 minutes. Cool on the cookie sheets briefly before removing to a wire rack to cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "72 "
+        },
+        {
+            "Yield": "6 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "85"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb24fc6acc7816636ea875fe59e12202e%2F1643429597image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8835564.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8746973.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8302964.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

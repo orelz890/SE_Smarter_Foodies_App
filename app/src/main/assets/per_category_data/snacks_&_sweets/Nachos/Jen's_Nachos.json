@@ -1,0 +1,84 @@
+{
+    "title": "Jen's Nachos",
+    "Category": "Nachos",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "8 ounces shredded Cheddar cheese"
+        },
+        {
+            "3": "0.75 (18 ounce) bottle barbecue sauce"
+        },
+        {
+            "4": "1 (14.5 ounce) can stewed tomatoes, drained"
+        },
+        {
+            "5": "1 (15 ounce) can whole kernel corn, drained"
+        },
+        {
+            "6": "1 (14.5 ounce) package nacho-flavor tortilla chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Brown beef in a large skillet over a medium-high heat. Drain the fat from the pan once the meat is browned."
+        },
+        {
+            "2": "Mix Cheddar cheese, tomatoes, corn and barbecue sauce into the meat. Heat this mixture, stirring occasionally."
+        },
+        {
+            "3": "While the mixture is heating, make beds of chips onto 4 plates. Pour the hot mixture over the chips. Enjoy!"
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "1355"
+        },
+        {
+            "Fat": "77g"
+        },
+        {
+            "Carbs": "124g"
+        },
+        {
+            "Protein": "45g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8363821.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7178300.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7045335.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2774133.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

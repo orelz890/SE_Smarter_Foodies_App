@@ -1,0 +1,81 @@
+{
+    "title": "Salsa Salad",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "4 large ripe tomatoes, cut into bite-size pieces"
+        },
+        {
+            "2": "1 bunch cilantro, stems cut off and leaves coarsely chopped"
+        },
+        {
+            "3": "1 large green bell pepper, cut into bite-size pieces"
+        },
+        {
+            "4": "1 large red bell pepper, cut into bite-size pieces"
+        },
+        {
+            "5": "2  jalapeno peppers, finely chopped"
+        },
+        {
+            "6": "3  green onions, chopped"
+        },
+        {
+            "7": "0.5  sweet red onion, chopped"
+        },
+        {
+            "8": "2 large avocados, pitted and cut into bite-sized pieces"
+        },
+        {
+            "9": "1  lime, juiced"
+        },
+        {
+            "10": "0.5 teaspoon salt, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large salad bowl, lightly mix the tomatoes, cilantro, green and red bell peppers, jalapeno peppers, green onions, and sweet red onion until thoroughly combined. Gently toss with avocado pieces, and squeeze lime juice over the salad. Sprinkle with salt to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "198"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4048362.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fac9bb6d82334f5a1f66f3415a77bd110%2F3389488.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F835586.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

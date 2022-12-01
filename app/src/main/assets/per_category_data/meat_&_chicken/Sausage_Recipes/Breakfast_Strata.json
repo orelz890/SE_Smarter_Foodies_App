@@ -1,0 +1,114 @@
+{
+    "title": "Breakfast Strata",
+    "Category": "Sausage Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound sausage, casings removed"
+        },
+        {
+            "2": "2 cups sliced fresh mushrooms"
+        },
+        {
+            "3": "8  eggs, beaten"
+        },
+        {
+            "4": "10 cups cubed, day-old bread"
+        },
+        {
+            "5": "3 cups whole milk"
+        },
+        {
+            "6": "2 cups shredded Cheddar cheese"
+        },
+        {
+            "7": "0.5 cups cubed Black Forest ham"
+        },
+        {
+            "8": "1 (10 ounce) package frozen chopped spinach, thawed and drained"
+        },
+        {
+            "9": "2 tablespoons all-purpose flour"
+        },
+        {
+            "10": "2 tablespoons mustard powder"
+        },
+        {
+            "11": "1 teaspoon salt"
+        },
+        {
+            "12": "2 teaspoons butter, melted"
+        },
+        {
+            "13": "2 teaspoons dried basil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Generously grease a 9x13-inch casserole dish."
+        },
+        {
+            "2": "Heat a skillet over medium heat; cook and stir sausage until crumbly and completely browned, about 10 minutes. Transfer cooked sausage to the prepared casserole dish."
+        },
+        {
+            "3": "Cook and stir mushrooms in the same skillet over medium heat until liquid has been released and mushrooms are lightly browned, 5 to 10 minutes; drain."
+        },
+        {
+            "4": "Mix mushrooms, eggs, bread, milk, Cheddar cheese, ham, spinach, flour, mustard powder, salt, butter, and basil together in a large bowl; pour over sausage. Cover casserole dish and refrigerate, 2 hours to overnight."
+        },
+        {
+            "5": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "6": "Bake in the preheated oven until a knife inserted into the center of the strata comes out clean, 60 to 70 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 15 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "600"
+        },
+        {
+            "Fat": "37g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9065632.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8944089.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8881611.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7638641.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

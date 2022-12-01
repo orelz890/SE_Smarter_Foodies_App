@@ -1,0 +1,87 @@
+{
+    "title": "Tandoori Masala Spice Mix",
+    "Category": "Indian Recipes",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons ground coriander"
+        },
+        {
+            "2": "0.5 tablespoons ground cumin"
+        },
+        {
+            "3": "1 teaspoon garlic powder"
+        },
+        {
+            "4": "1 teaspoon ground ginger"
+        },
+        {
+            "5": "1 teaspoon ground cloves"
+        },
+        {
+            "6": "1 teaspoon ground mace"
+        },
+        {
+            "7": "1 teaspoon ground fenugreek"
+        },
+        {
+            "8": "1 teaspoon ground cinnamon"
+        },
+        {
+            "9": "1 teaspoon ground black pepper"
+        },
+        {
+            "10": "1 teaspoon ground cardamom"
+        },
+        {
+            "11": "0.5 teaspoon ground nutmeg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine coriander, cumin, garlic powder, ginger, cloves, mace, fenugreek, cinnamon, black pepper, cardamom, and nutmeg together in a bowl; store in an airtight container."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1/2 cup"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "19"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F832ebcbd31ee3827f5a8e33919eef186%2F1666726995672masala-spice-mix.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7a4bac4ca9f8b3baa31f9ee83158e5b3%2F4468622.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3910956.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2210505.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

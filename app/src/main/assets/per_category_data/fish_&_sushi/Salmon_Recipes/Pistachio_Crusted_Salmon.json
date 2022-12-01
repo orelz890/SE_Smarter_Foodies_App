@@ -1,0 +1,96 @@
+{
+    "title": "Pistachio-Crusted Salmon",
+    "Category": "Salmon Recipes",
+    "Ingredients": [
+        {
+            "1": "0.25 cup crushed pistachios"
+        },
+        {
+            "2": "2 tablespoons panko bread crumbs"
+        },
+        {
+            "3": "1 tablespoon grated Parmesan cheese"
+        },
+        {
+            "4": "1 tablespoon butter, melted"
+        },
+        {
+            "5": "4 (6 ounce) fillets salmon with skin, center cut"
+        },
+        {
+            "6": "1 salt and ground black pepper to taste"
+        },
+        {
+            "7": "2 tablespoons olive oil"
+        },
+        {
+            "8": "1 tablespoon Dijon mustard"
+        },
+        {
+            "9": "4  lemon wedges"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Combine pistachios, bread crumbs, Parmesan cheese, and butter in a small bowl; stir with a fork until evenly combined."
+        },
+        {
+            "3": "Lightly season salmon fillets with salt and pepper on both sides."
+        },
+        {
+            "4": "Heat olive oil in a large oven-safe skillet over medium heat. Sear salmon fillets, flesh-side down, for 2 to 3 minutes. Turn heat off and flip salmon pieces over so skin side is down."
+        },
+        {
+            "5": "Brush tops of salmon evenly with Dijon mustard. Top with pistachio mixture, pressing mixture down onto salmon."
+        },
+        {
+            "6": "Bake in the preheated oven until salmon flakes easily with a fork, 10 to 12 minutes. Serve with lemon wedges."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "459"
+        },
+        {
+            "Fat": "32g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "36g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2c3ebc0c900a9f04a7a0bd8797d0114e%2F1661043287image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8783311.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8504992.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8505025.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

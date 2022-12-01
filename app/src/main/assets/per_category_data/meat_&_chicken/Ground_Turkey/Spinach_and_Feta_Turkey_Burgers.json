@@ -1,0 +1,84 @@
+{
+    "title": "Spinach and Feta Turkey Burgers",
+    "Category": "Ground Turkey",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "2 pounds ground turkey"
+        },
+        {
+            "3": "1 (10 ounce) box frozen chopped spinach, thawed and squeezed dry"
+        },
+        {
+            "4": "4 ounces feta cheese"
+        },
+        {
+            "5": "2 large eggs, beaten"
+        },
+        {
+            "6": "2 cloves garlic, minced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for medium-high heat and lightly oil the grate."
+        },
+        {
+            "2": "Mix together turkey, spinach, feta, eggs, and garlic in a large bowl until well combined; form into 8 patties."
+        },
+        {
+            "3": "Cook patties on the preheated grill until no longer pink in the center, 15 to 20 minutes. An instant-read thermometer inserted into the center of patties should read at least 165 degrees F (74 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 turkey burgers"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "233"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9218232.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8396242.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8294085.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6785547.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/cpf6Rics5oHGq1TZ1df5fEaImwM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1360550-582be362ee99424bb4f363c2274a9d0d.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

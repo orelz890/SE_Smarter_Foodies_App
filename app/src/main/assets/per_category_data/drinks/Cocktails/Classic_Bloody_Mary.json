@@ -1,0 +1,90 @@
+{
+    "title": "Classic Bloody Mary",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "1 teaspoon sea salt, or as needed"
+        },
+        {
+            "2": "1 ice cubes, as needed"
+        },
+        {
+            "3": "0.75 cup spicy tomato-vegetable juice cocktail (such as V8\u00ae)"
+        },
+        {
+            "4": "1 (1.5 fluid ounce) jigger vodka"
+        },
+        {
+            "5": "2 dashes Worcestershire sauce"
+        },
+        {
+            "6": "1 dash hot pepper sauce (such as Tabasco\u00ae)"
+        },
+        {
+            "7": "1 salt and ground black pepper to taste"
+        },
+        {
+            "8": "1 stalk celery"
+        },
+        {
+            "9": "2  garlic-stuffed green olives, threaded onto a toothpick"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour salt onto a small plate. Moisten the rim of a glass and press into the salt. Fill the glass with ice cubes."
+        },
+        {
+            "2": "Fill a cocktail shaker with ice cubes; add vegetable juice cocktail, vodka, Worcestershire sauce, hot pepper sauce, salt, and pepper. Cover and shake until the outside of shaker has frosted, about 20 seconds."
+        },
+        {
+            "3": "Strain Bloody Mary into the prepared glass and garnish with celery stalk and olives."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "2 mins"
+        },
+        {
+            "Total Time": "2 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "141"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9249095.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9198885.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7790222.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7109447.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/gQ0dzFb1sBsO8WPanjNIj9zbiH8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/65037-ClassicBloodyMary-mfs-3x2-0153-37158afd9d5048509533f0eb7f4ab9ee.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/1N-zOmOt8rWgTO4-v0dwOEpr33o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/65037-ClassicBloodyMary-mfs-1x1-0157-a03cc92b8e7b407ab8ec231d983c3b6f.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

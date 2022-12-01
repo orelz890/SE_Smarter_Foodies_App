@@ -1,0 +1,78 @@
+{
+    "title": "Best Breakfast Quesadilla",
+    "Category": "Quesadillas",
+    "Ingredients": [
+        {
+            "1": "2 large eggs"
+        },
+        {
+            "2": "3 slices bacon, cooked and crumbled"
+        },
+        {
+            "3": "2 (8 inch) flour tortillas"
+        },
+        {
+            "4": "1 teaspoon butter, softened, or to taste"
+        },
+        {
+            "5": "1 cooking spray"
+        },
+        {
+            "6": "0.5 cup shredded Colby-Jack cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Crack eggs into a small bowl. Add crumbled bacon and whisk until well combined."
+        },
+        {
+            "2": "Spray a large skillet with cooking spray; warm over medium-high heat. Pour egg mixture into the skillet; cook and stir until eggs are set, about 5 minutes. Remove from the heat."
+        },
+        {
+            "3": "Lightly butter one side of each tortilla."
+        },
+        {
+            "4": "Warm a separate, dry skillet over medium-low heat."
+        },
+        {
+            "5": "Place one tortilla into the warm skillet with the buttered side facing down. Spoon 1/2 of the scrambled egg mixture over one half of the tortilla. Sprinkle 1/4 cup Colby-Jack cheese over the egg mixture and fold the tortilla over top. Cook, turning as needed, until tortilla is toasted and crispy and cheese is melted, 2 to 3 minutes. Repeat to make second quesadilla."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 quesadillas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "476"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F077f971bc2679db5e80cb99614f92218%2F164659650920220306_094055.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

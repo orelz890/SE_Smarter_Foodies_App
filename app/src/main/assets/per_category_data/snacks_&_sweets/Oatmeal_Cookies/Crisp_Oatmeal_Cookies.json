@@ -1,0 +1,99 @@
+{
+    "title": "Crisp Oatmeal Cookies",
+    "Category": "Oatmeal Cookies",
+    "Ingredients": [
+        {
+            "1": "0.5 cup shortening"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "0.5 cup packed brown sugar"
+        },
+        {
+            "4": "1  egg"
+        },
+        {
+            "5": "0.5 teaspoon vanilla extract"
+        },
+        {
+            "6": "1 cup all-purpose flour"
+        },
+        {
+            "7": "0.5 teaspoon baking powder"
+        },
+        {
+            "8": "0.5 teaspoon baking soda"
+        },
+        {
+            "9": "0.5 teaspoon salt"
+        },
+        {
+            "10": "0.75 cup rolled oats"
+        },
+        {
+            "11": "0.5 cup flaked coconut (Optional)"
+        },
+        {
+            "12": "0.5 cup miniature semi-sweet chocolate chips (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease cookie sheets."
+        },
+        {
+            "2": "In a large bowl, cream together the shortening, white sugar and brown sugar. Mix in the egg and vanilla until well blended. Combine the flour, baking powder, baking soda and salt; stir into the batter until well blended. Mix in the oats, coconut and chocolate chips until evenly distributed. Roll dough into walnut sized balls and place 2 inches apart onto prepared cookie sheets."
+        },
+        {
+            "3": "Bake for 12 minutes in the preheated oven, or until edges are lightly browned."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "12 mins"
+        },
+        {
+            "Total Time": "27 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "4 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "127"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0c33a99e17d87034c6f1426796bbfb1a%2F16497068984CFCCFA7-B51E-47E7-B3DF-4F1F6366C9DE.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0c33a99e17d87034c6f1426796bbfb1a%2F1647275070Screenshot%25202022-03-14%252012.24.17%2520PM.png&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9354665.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9144476.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

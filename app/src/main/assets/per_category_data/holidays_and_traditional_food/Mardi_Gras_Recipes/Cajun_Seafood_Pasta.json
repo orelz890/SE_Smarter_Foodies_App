@@ -1,0 +1,108 @@
+{
+    "title": "Cajun Seafood Pasta",
+    "Category": "Mardi Gras Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound dry fettuccine pasta"
+        },
+        {
+            "2": "2 cups heavy whipping cream"
+        },
+        {
+            "3": "1 cup chopped green onions"
+        },
+        {
+            "4": "1 cup chopped parsley"
+        },
+        {
+            "5": "1 tablespoon chopped fresh basil"
+        },
+        {
+            "6": "1 tablespoon chopped fresh thyme"
+        },
+        {
+            "7": "2 teaspoons salt"
+        },
+        {
+            "8": "2 teaspoons ground black pepper"
+        },
+        {
+            "9": "0.5 teaspoons crushed red pepper flakes"
+        },
+        {
+            "10": "1 teaspoon ground white pepper"
+        },
+        {
+            "11": "0.5 pound shrimp, peeled and deveined"
+        },
+        {
+            "12": "0.5 pound scallops"
+        },
+        {
+            "13": "0.5 cup shredded Swiss cheese"
+        },
+        {
+            "14": "0.5 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a large pot with lightly salted water and bring to a rolling boil. Cook fettuccine at a boil until tender yet firm to the bite, about 8 minutes. Drain once done cooking."
+        },
+        {
+            "2": "Meanwhile, pour cream into a large skillet. Cook over medium heat, stirring constantly, until just about boiling. Reduce heat and add green onions, parsley, basil, thyme, salt, black pepper, red pepper flakes, and white pepper. Simmer until thickened, 7 to 8 minutes."
+        },
+        {
+            "3": "Stir in shrimp and scallops. Cook until shrimp is no longer translucent. Stir in cheeses, blending well."
+        },
+        {
+            "4": "Serve sauce over pasta."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "695"
+        },
+        {
+            "Fat": "37g"
+        },
+        {
+            "Carbs": "62g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9278733.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9272091.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8177636.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9219192.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/g4WGRZd9igOdYQldkr5UhJ7gDKE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1045817-710e5f6175bd4cb2ae94d22914d4670a.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

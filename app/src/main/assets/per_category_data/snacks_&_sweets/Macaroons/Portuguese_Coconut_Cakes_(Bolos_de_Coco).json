@@ -1,0 +1,69 @@
+{
+    "title": "Portuguese Coconut Cakes (Bolos de Coco)",
+    "Category": "Macaroons",
+    "Ingredients": [
+        {
+            "1": "0.75 cups shredded coconut"
+        },
+        {
+            "2": "0.75 cup white sugar"
+        },
+        {
+            "3": "3  eggs"
+        },
+        {
+            "4": "1 tablespoon grated lemon zest"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Line 3 muffin cups with paper liners."
+        },
+        {
+            "2": "Mix coconut, sugar, eggs, and lemon zest together in a large bowl. Scoop coconut mixture into lined muffin cups."
+        },
+        {
+            "3": "Bake in the preheated oven until firm and golden, 15 to 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "3 "
+        },
+        {
+            "Yield": "3 coconut cakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "624"
+        },
+        {
+            "Fat": "40g"
+        },
+        {
+            "Carbs": "64g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9180938.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8073829.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

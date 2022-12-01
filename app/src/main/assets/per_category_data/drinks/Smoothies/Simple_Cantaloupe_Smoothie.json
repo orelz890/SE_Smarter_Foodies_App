@@ -1,0 +1,60 @@
+{
+    "title": "Simple Cantaloupe Smoothie",
+    "Category": "Smoothies",
+    "Ingredients": [
+        {
+            "1": "1 cup vanilla yogurt (such as Dannon\u00ae Light and Fit\u00ae)"
+        },
+        {
+            "2": "0.5 cup orange juice"
+        },
+        {
+            "3": "0.5 cup sliced cantaloupe"
+        },
+        {
+            "4": "4  ice cubes, crushed, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Blend yogurt, orange juice, cantaloupe, and ice cubes in a blender until smooth, about 30 seconds."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 smoothie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "291"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8225037.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1221609.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

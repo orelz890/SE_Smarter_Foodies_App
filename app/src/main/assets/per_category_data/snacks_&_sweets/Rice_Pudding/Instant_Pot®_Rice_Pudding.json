@@ -1,0 +1,84 @@
+{
+    "title": "Instant Pot\u00ae Rice Pudding",
+    "Category": "Rice Pudding",
+    "Ingredients": [
+        {
+            "1": "1 cup long-grain rice"
+        },
+        {
+            "2": "2 cups 2% milk"
+        },
+        {
+            "3": "0.5 cups water"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "1 teaspoon ground cinnamon"
+        },
+        {
+            "6": "1 pinch salt"
+        },
+        {
+            "7": "8 ounces sweetened condensed milk"
+        },
+        {
+            "8": "0.75 cup raisins"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Rinse rice until water runs clear. Strain out most of the water and add rice to a multi-functional pressure cooker (such as Instant Pot\u00ae). Add milk, water, vanilla extract, cinnamon, and salt and stir well. Close and lock the lid. Select the porridge function according to manufacturer's instructions; set timer for 20 minutes. Allow 10 to 15 minutes for pressure to build."
+        },
+        {
+            "2": "Release pressure using the natural-release method according to manufacturer's instructions for 10 minutes. Release remaining pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid."
+        },
+        {
+            "3": "Stir sweetened condensed milk into the rice pudding until combined. Stir in raisins and serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "332"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "64g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8364050.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6266157.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

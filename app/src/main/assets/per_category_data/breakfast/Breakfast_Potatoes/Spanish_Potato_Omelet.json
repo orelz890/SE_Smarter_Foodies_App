@@ -1,0 +1,93 @@
+{
+    "title": "Spanish Potato Omelet",
+    "Category": "Breakfast Potatoes",
+    "Ingredients": [
+        {
+            "1": "0.5 cup olive oil"
+        },
+        {
+            "2": "0.5 pound potatoes, thinly sliced"
+        },
+        {
+            "3": "1 salt and pepper to taste"
+        },
+        {
+            "4": "1 large onion, thinly sliced"
+        },
+        {
+            "5": "4  eggs"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        },
+        {
+            "7": "2  tomatoes - peeled, seeded, and coarsely chopped"
+        },
+        {
+            "8": "2  green onions, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large frying pan or skillet, heat olive oil over medium-high heat. Sprinkle potatoes lightly with salt and pepper. Cook until golden brown and crisp."
+        },
+        {
+            "2": "Once the potatoes are golden, stir in the onions. Cook, stirring occasionally, until onions soften and begin to brown."
+        },
+        {
+            "3": "Meanwhile, beat eggs together with salt and pepper. Pour eggs into pan and stir gently to combine. Reduce heat to low and cook until eggs begin to brown on the bottom."
+        },
+        {
+            "4": "Loosen bottom of omelet with a spatula, invert a large plate over the pan, and carefully turn the omelet out onto it. Slide the omelet back into the pan with the uncooked side down. Cook until eggs are set. Garnish omelet with tomato and green onion and serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "252"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8332804.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8270821.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8011714.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7edd5485163137e54faf777b7656acc4%2F6567977.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Mc1AxKeF9rLNdy70qhMrA8vfYA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2200867-6e284848d4bb43b48eae523719651676.jpg"
+        }
+    ],
+    "main category": "breakfast"
+}

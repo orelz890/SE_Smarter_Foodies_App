@@ -1,0 +1,90 @@
+{
+    "title": "Easy Sugar Cookies",
+    "Category": "Sugar Cookies",
+    "Ingredients": [
+        {
+            "1": "1.5 cups all-purpose flour"
+        },
+        {
+            "2": "1 teaspoon baking soda"
+        },
+        {
+            "3": "0.5 teaspoon baking powder"
+        },
+        {
+            "4": "1 cup butter, softened"
+        },
+        {
+            "5": "0.5 cups white sugar"
+        },
+        {
+            "6": "1  egg"
+        },
+        {
+            "7": "1 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Stir flour, baking soda, and baking powder together in a small bowl."
+        },
+        {
+            "3": "Beat sugar and butter together in a large bowl with an electric mixer until smooth. Beat in egg and vanilla. Gradually blend in flour mixture. Roll dough into walnut-sized balls and place 2 inches apart onto ungreased baking sheets."
+        },
+        {
+            "4": "Bake in the preheated oven until edges are golden, 8 to 10 minutes. Cool on the baking sheets briefly before removing to a wire rack to cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "48 "
+        },
+        {
+            "Yield": "4 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "86"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff559d81ac4f0c34e6ef4a6df993a817d%2F166930611117042C42BAE-C6B4-498F-A6AF-1C17F69D76CD.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff559d81ac4f0c34e6ef4a6df993a817d%2F166924868325899BFC12D-289E-45F8-BFBA-B2F800137B8C.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff559d81ac4f0c34e6ef4a6df993a817d%2F1668867872655image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff559d81ac4f0c34e6ef4a6df993a817d%2F16671383342777ECD6641-8468-4AB0-BFFA-A35B38DC050F.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/XSJoH98eVnTCnaE6lTcDpYHbalw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9870-easy-sugar-cookies-mfs356-1-8c317695c5b645a48f6b20d1b97d3c93.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Shrimp Gazpacho",
+    "Category": "Gazpacho",
+    "Ingredients": [
+        {
+            "1": "64 fluid ounces tomato and clam juice cocktail"
+        },
+        {
+            "2": "3 pounds cooked shrimp, peeled and deveined"
+        },
+        {
+            "3": "4  avocados, peeled and chopped"
+        },
+        {
+            "4": "2  cucumbers, cubed"
+        },
+        {
+            "5": "3 large tomatoes, diced"
+        },
+        {
+            "6": "1  red onion, diced"
+        },
+        {
+            "7": "1 bunch cilantro, chopped"
+        },
+        {
+            "8": "2 tablespoons lemon juice"
+        },
+        {
+            "9": "0.5 teaspoon salt"
+        },
+        {
+            "10": "0.25 teaspoon pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, combine the tomato and clam juice cocktail, shrimp, avocados, cucumbers, tomatoes, red onion, cilantro, lemon juice, salt, and pepper."
+        },
+        {
+            "2": "Refrigerate until ready to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "322"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8316345.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7424585.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7156784.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7011354.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

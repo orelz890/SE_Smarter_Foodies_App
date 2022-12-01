@@ -1,0 +1,78 @@
+{
+    "title": "Refreshing Cucumber Salsa",
+    "Category": "Spinach Dips",
+    "Ingredients": [
+        {
+            "1": "0.5 bunch fresh spinach, minced"
+        },
+        {
+            "2": "1  cucumber, cubed"
+        },
+        {
+            "3": "1  tomato, cubed"
+        },
+        {
+            "4": "0.5 small red onion, cut into 1/4-inch pieces"
+        },
+        {
+            "5": "2 cloves garlic, minced"
+        },
+        {
+            "6": "1  lemon, juiced"
+        },
+        {
+            "7": "0.25 cup olive oil"
+        },
+        {
+            "8": "1 teaspoon sea salt"
+        },
+        {
+            "9": "1 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix spinach, cucumber, tomato, red onion, garlic, lemon juice, olive oil, salt, and black pepper in a large bowl. Cover with plastic wrap and refrigerate, 1 hour to overnight."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "61"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1493445.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1493463.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

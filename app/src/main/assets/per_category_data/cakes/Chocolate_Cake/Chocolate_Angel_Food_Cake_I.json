@@ -1,0 +1,90 @@
+{
+    "title": "Chocolate Angel Food Cake I",
+    "Category": "Chocolate Cake",
+    "Ingredients": [
+        {
+            "1": "2 cups egg whites"
+        },
+        {
+            "2": "0.25 teaspoon salt"
+        },
+        {
+            "3": "0.25 teaspoons cream of tartar"
+        },
+        {
+            "4": "0.25 cups white sugar"
+        },
+        {
+            "5": "0.25 cups confectioners' sugar"
+        },
+        {
+            "6": "0.25 cups cake flour"
+        },
+        {
+            "7": "0.25 cup unsweetened cocoa powder"
+        },
+        {
+            "8": "0.25 teaspoons vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 325 degrees F (165 degrees C)."
+        },
+        {
+            "2": "In a medium bowl, mix confectioners' sugar, cake flour, and cocoa. Sift together 2 times, and set aside."
+        },
+        {
+            "3": "In a clean large bowl, whip egg whites, salt, and cream of tartar with an electric mixer on high speed until very stiff. Fold in white sugar 2 tablespoons at a time while continuing to mix. Fold in flour mixture, a little at a time, until fully incorporated. Stir in vanilla. Pour into a 10 inch tube pan."
+        },
+        {
+            "4": "Bake at 325 degrees F (165 degrees C) for approximately 1 hour, or until cake springs back when touched."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "14 "
+        },
+        {
+            "Yield": "1 to 10 - inch tube cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "179"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9181948.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9118892.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7265290.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3581831.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

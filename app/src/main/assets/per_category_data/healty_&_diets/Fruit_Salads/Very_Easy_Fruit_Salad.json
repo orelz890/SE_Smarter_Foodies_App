@@ -1,0 +1,66 @@
+{
+    "title": "Very Easy Fruit Salad",
+    "Category": "Fruit Salads",
+    "Ingredients": [
+        {
+            "1": "1 pint strawberries - cleaned, hulled and sliced"
+        },
+        {
+            "2": "1 pound seedless grapes, halved"
+        },
+        {
+            "3": "3  kiwis, peeled and sliced"
+        },
+        {
+            "4": "3  bananas, sliced"
+        },
+        {
+            "5": "1 (21 ounce) can peach pie filling"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, combine the strawberries, grapes, kiwis, and bananas. Gently mix in peaches. Chill for 1 hour before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "142"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7725399.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F74773.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

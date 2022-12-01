@@ -1,0 +1,81 @@
+{
+    "title": "Jalapeno-Garlic-Onion Cheeseburgers",
+    "Category": "Burgers",
+    "Ingredients": [
+        {
+            "1": "1  fresh jalapeno chile pepper, finely chopped"
+        },
+        {
+            "2": "2 cloves garlic, minced"
+        },
+        {
+            "3": "1 small onion, finely chopped"
+        },
+        {
+            "4": "1 pound lean ground beef"
+        },
+        {
+            "5": "4 slices pepperjack cheese"
+        },
+        {
+            "6": "4  hamburger buns"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat grill for high heat."
+        },
+        {
+            "2": "Mix jalapeno pepper, garlic, onion, and ground beef in a medium bowl. Form into four patties."
+        },
+        {
+            "3": "Brush grill grate with oil. Grill hamburger patties 5 minutes per side, or until well done. Top with pepperjack cheese, and serve on buns."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "474"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7340199.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6b85e7e1a7b6a1aeec96a200ea8bff14%2F1138695.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F878309.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F825475.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

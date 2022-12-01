@@ -1,0 +1,75 @@
+{
+    "title": "Rosemary-Infused Watermelon Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "2 cups water"
+        },
+        {
+            "2": "0.75 cup white sugar"
+        },
+        {
+            "3": "1 sprig rosemary, leaves stripped and chopped"
+        },
+        {
+            "4": "2 cups lemon juice"
+        },
+        {
+            "5": "12 cups cubed seeded watermelon"
+        },
+        {
+            "6": "8 cups ice cubes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring the water and sugar to a boil in a small saucepan over high heat. Stir in the rosemary, and set aside to steep for 1 hour."
+        },
+        {
+            "2": "Place half of the lemon juice, and half of the watermelon into a blender. Strain the rosemary syrup through a mesh strainer into the blender. Cover, and puree until smooth. Strain into a pitcher, then puree the remaining lemon juice and watermelon. Stir the lemonade before serving over ice."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "156"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6724288.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F333528.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F107512.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

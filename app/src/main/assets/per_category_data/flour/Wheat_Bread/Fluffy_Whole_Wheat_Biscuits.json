@@ -1,0 +1,84 @@
+{
+    "title": "Fluffy Whole Wheat Biscuits",
+    "Category": "Wheat Bread",
+    "Ingredients": [
+        {
+            "1": "1 cup all-purpose flour"
+        },
+        {
+            "2": "1 cup whole wheat flour"
+        },
+        {
+            "3": "4 teaspoons baking powder"
+        },
+        {
+            "4": "1 tablespoon white sugar"
+        },
+        {
+            "5": "0.75 teaspoon salt"
+        },
+        {
+            "6": "0.25 cup butter"
+        },
+        {
+            "7": "1 cup buttermilk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "2": "Combine all-purpose flour, whole wheat flour, baking powder, sugar, and salt in a large bowl. Cut in cold butter with 2 knives or a pastry blender until the mixture resembles coarse crumbs; stir in buttermilk until just moistened."
+        },
+        {
+            "3": "Turn dough out on a lightly floured surface; knead gently 8 to 10 times. Roll out to about 3/4-inch thick. Use a 2 1/2-inch round biscuit cutter to cut biscuits; reroll any scraps to cut more biscuits. Place biscuits on an ungreased baking sheet."
+        },
+        {
+            "4": "Bake in preheated oven until biscuits are lightly browned, 10 to 12 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "119"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8695825.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8064110.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7927257.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7916413.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

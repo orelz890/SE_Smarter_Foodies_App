@@ -1,0 +1,93 @@
+{
+    "title": "Old Fashioned Crumb Cake",
+    "Category": "Coffee Cake",
+    "Ingredients": [
+        {
+            "1": "1 cup white sugar"
+        },
+        {
+            "2": "0.5 cups all-purpose flour"
+        },
+        {
+            "3": "0.5 cup butter, cut into pieces"
+        },
+        {
+            "4": "1 teaspoon ground cinnamon"
+        },
+        {
+            "5": "0.5 teaspoon ground cloves"
+        },
+        {
+            "6": "1 teaspoon baking soda"
+        },
+        {
+            "7": "1 pinch salt"
+        },
+        {
+            "8": "1 cup buttermilk"
+        },
+        {
+            "9": "1  egg, lightly beaten"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 7x11 inch baking pan or casserole dish."
+        },
+        {
+            "2": "Combine sugar, flour and butter. Use a fork to cut butter in until mixture resembles coarse crumbs. Set aside 1/2 cup of this mixture to use as topping."
+        },
+        {
+            "3": "To the remaining flour mixture, add cinnamon, cloves, baking soda and salt. Lightly stir in the buttermilk and egg. Pour batter into prepared pan. Sprinkle cake with reserved topping."
+        },
+        {
+            "4": "Bake in preheated oven for 25 minutes, until a toothpick inserted into center of the cake comes out clean."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "204"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7939183.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2025959.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2025939.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe81ce394617d9d9786c5b2112f14510c%2F802663.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

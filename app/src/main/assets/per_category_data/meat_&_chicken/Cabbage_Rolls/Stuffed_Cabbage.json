@@ -1,0 +1,93 @@
+{
+    "title": "Stuffed Cabbage",
+    "Category": "Cabbage Rolls",
+    "Ingredients": [
+        {
+            "1": "1 large head cabbage"
+        },
+        {
+            "2": "1 pound lean ground beef"
+        },
+        {
+            "3": "1  egg, beaten"
+        },
+        {
+            "4": "1  onion, finely diced"
+        },
+        {
+            "5": "0.75 cup cooked white rice"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        },
+        {
+            "7": "1 (10.75 ounce) can  condensed tomato soup"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place cabbage head in freezer and freeze overnight. Remove from freezer, thaw and peel away leaves."
+        },
+        {
+            "2": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "3": "Combine the beef, egg, onion, rice, salt and pepper. Mix together well. Take a small handful and form into a small roll or ball. Place into the center of a cabbage leaf. Fold the sides of the leaf over and roll the ball up into the leaf. Place seam side down in baking dish. Continue until all of the filling is used up."
+        },
+        {
+            "4": "Mix together the soup with a 1/2 can water; pour over stuffed cabbage."
+        },
+        {
+            "5": "Bake uncovered at 350 degrees F (175 degrees C) for 1 hour; baste often with the sauce."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": " 12 hrs"
+        },
+        {
+            "Total Time": " 13 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "248"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9173739.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8518110.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7962189.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Faf7f993bba91d774b5ee686cfc82bef8%2F6088543.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

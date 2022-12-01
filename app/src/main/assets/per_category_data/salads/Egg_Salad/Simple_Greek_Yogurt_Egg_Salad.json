@@ -1,0 +1,75 @@
+{
+    "title": "Simple Greek Yogurt Egg Salad",
+    "Category": "Egg Salad",
+    "Ingredients": [
+        {
+            "1": "0.25 cup Greek yogurt"
+        },
+        {
+            "2": "1 tablespoon brown sugar"
+        },
+        {
+            "3": "8  hard-boiled eggs, peeled and chopped"
+        },
+        {
+            "4": "0.25 cup chopped celery"
+        },
+        {
+            "5": "0.25 cup chopped green onion"
+        },
+        {
+            "6": "2 tablespoons sweet pickle relish"
+        },
+        {
+            "7": "2 tablespoons yellow mustard"
+        },
+        {
+            "8": "0.25 teaspoon dill weed"
+        },
+        {
+            "9": "0.25 teaspoon paprika"
+        },
+        {
+            "10": "1 ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk yogurt and brown sugar together in a bowl. Add eggs, celery, green onion, relish, mustard, dill, paprika, and black pepper; mix well."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "204"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1127556.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Instant Pot\u00ae Pork Chops",
+    "Category": "Pork Chops",
+    "Ingredients": [
+        {
+            "1": "4  pork chops"
+        },
+        {
+            "2": "3 tablespoons butter"
+        },
+        {
+            "3": "1 (1 ounce) package dry onion soup mix (such as Lipton\u00ae)"
+        },
+        {
+            "4": "1 cup apple juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place pork chops in a multi-functional pressure cooker (such as Instant Pot\u00ae); top with butter. Sprinkle onion soup mix over pork chops. Pour in apple juice."
+        },
+        {
+            "2": "Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 5 minutes. Allow 10 to 15 minutes for pressure to build."
+        },
+        {
+            "3": "Release pressure using the natural-release method according to manufacturer's instructions, 10 to 40 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 pork chops"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "224"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9071360.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7566514.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6501901.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

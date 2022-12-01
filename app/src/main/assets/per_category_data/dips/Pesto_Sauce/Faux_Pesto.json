@@ -1,0 +1,75 @@
+{
+    "title": "Faux Pesto",
+    "Category": "Pesto Sauce",
+    "Ingredients": [
+        {
+            "1": "4 cups fresh baby spinach"
+        },
+        {
+            "2": "0.5 cup pecans"
+        },
+        {
+            "3": "2 cloves garlic"
+        },
+        {
+            "4": "1 cup Parmesan cheese"
+        },
+        {
+            "5": "1 tablespoon lemon juice"
+        },
+        {
+            "6": "0.5 cup extra virgin olive oil"
+        },
+        {
+            "7": "1 pinch salt and freshly ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix the spinach, pecans, garlic, Parmesan cheese, and lemon juice in the bowl of a food processor; stream the olive oil into the mixture as it blends. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "113"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2134831.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F492469.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F491945.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F491944.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

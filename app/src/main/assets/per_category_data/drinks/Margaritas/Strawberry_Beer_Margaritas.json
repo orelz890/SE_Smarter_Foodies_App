@@ -1,0 +1,81 @@
+{
+    "title": "Strawberry Beer Margaritas",
+    "Category": "Margaritas",
+    "Ingredients": [
+        {
+            "1": "1 pound fresh strawberries, hulled and cut into chunks"
+        },
+        {
+            "2": "12 fluid ounces white tequila"
+        },
+        {
+            "3": "1 (12 fluid ounce) can or bottle lemon-lime flavored carbonated beverage"
+        },
+        {
+            "4": "1 (12 fluid ounce) can or bottle light beer"
+        },
+        {
+            "5": "1 (12 fluid ounce) can frozen limeade concentrate, thawed"
+        },
+        {
+            "6": "1 ice, or as needed"
+        },
+        {
+            "7": "1 teaspoon kosher salt for rimming glasses"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Put strawberry chunks in a bowl. Pour tequila over strawberries. Marinate in refrigerator for 2 hours."
+        },
+        {
+            "2": "Blend strawberries and tequila in a blender until fully pureed; strain into a large pitcher to remove seeds."
+        },
+        {
+            "3": "Stir strained berry mixture, soda, beer, and limeade concentrate together in a pitcher. Add ice cubes to chill. Rim glasses with salt before pouring margaritas."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "377"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "59g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8211800.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3670126.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1006403.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

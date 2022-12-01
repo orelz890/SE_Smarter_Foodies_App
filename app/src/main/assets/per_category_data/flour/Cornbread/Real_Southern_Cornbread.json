@@ -1,0 +1,93 @@
+{
+    "title": "Real Southern Cornbread",
+    "Category": "Cornbread",
+    "Ingredients": [
+        {
+            "1": "2 cups cornmeal"
+        },
+        {
+            "2": "2 cups all-purpose flour"
+        },
+        {
+            "3": "0.5 teaspoon salt"
+        },
+        {
+            "4": "2 tablespoons baking powder"
+        },
+        {
+            "5": "2  eggs"
+        },
+        {
+            "6": "1 cup margarine, melted"
+        },
+        {
+            "7": "4 cups buttermilk"
+        },
+        {
+            "8": "0.25 cup corn oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl mix together the corn meal, flour, salt, and baking powder."
+        },
+        {
+            "2": "In a separate bowl mix together the eggs, butter, and buttermilk. Add to the dry ingredients and stir until well blended."
+        },
+        {
+            "3": "Heat a dry 12 inch cast iron skillet over high heat for 2 minutes. Add corn oil to skillet, swirl oil around to coat bottom and sides. Leave remaining oil in pan. Return to high heat for 1 minute."
+        },
+        {
+            "4": "Pour the cornbread batter into the skillet and cook on high heat until bubbles start to form in the center. Remove from stove."
+        },
+        {
+            "5": "Bake in a preheated 400 degree F (200 degree C) oven for 40 to 50 minutes, or until a knife inserted into the center comes out clean. Serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "369"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9413901.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8796702.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8795547.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8459730.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

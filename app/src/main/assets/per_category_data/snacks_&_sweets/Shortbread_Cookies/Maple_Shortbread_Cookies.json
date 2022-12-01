@@ -1,0 +1,75 @@
+{
+    "title": "Maple Shortbread Cookies",
+    "Category": "Shortbread Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup butter"
+        },
+        {
+            "2": "0.5 cup maple syrup"
+        },
+        {
+            "3": "2 cups flour"
+        },
+        {
+            "4": "0.25 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Beat the butter and maple syrup together with an electric mixer in a large bowl until smooth. Stir the flour and salt together in a separate bowl; gradually mix the flour mixture into the butter mixture until just incorporated. Form the mixture into walnut-sized balls; flatten gently and arrange onto a baking sheet."
+        },
+        {
+            "3": "Bake in the preheated oven until lightly browned, 10 to 12 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 cookies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "123"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7499410.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6994711.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe7eaccc46d40ca9fb0a4792c9f27b0f2%2F6177708.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa554e234135a9f26b2f63b0772e3e119%2F4477542.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

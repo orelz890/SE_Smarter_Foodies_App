@@ -1,0 +1,84 @@
+{
+    "title": "Ahi Poke Salad",
+    "Category": "Hawaiian",
+    "Ingredients": [
+        {
+            "1": "0.25 pounds ahi tuna, cut into 1/2 inch cubes"
+        },
+        {
+            "2": "0.25 cup minced onion"
+        },
+        {
+            "3": "0.25 cup minced green onion"
+        },
+        {
+            "4": "2 tablespoons lightly crumbled wakame seaweed"
+        },
+        {
+            "5": "1 tablespoon ground roasted macadamia nuts"
+        },
+        {
+            "6": "2 teaspoons sesame oil"
+        },
+        {
+            "7": "0.5 teaspoons crushed red pepper flakes"
+        },
+        {
+            "8": "1 teaspoon minced fresh ginger"
+        },
+        {
+            "9": "8 leaves iceberg lettuce"
+        },
+        {
+            "10": "2 tablespoons cilantro leaves, for garnish"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix together ahi tuna, onion, green onion, seaweed, macadamia nuts, sesame oil, red pepper flakes, and ginger in a mixing bowl."
+        },
+        {
+            "2": "Cover and refrigerate for the flavors to come together, at least 1 hour."
+        },
+        {
+            "3": "Arrange lettuce leaves on a serving platter, spoon ahi poke on top, and garnish with cilantro."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "203"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd5e7a6f30a24b62808c0744823e47554%2F5378349.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F659252.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

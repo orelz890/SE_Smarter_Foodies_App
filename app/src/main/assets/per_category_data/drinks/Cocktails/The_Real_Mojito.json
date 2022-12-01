@@ -1,0 +1,87 @@
+{
+    "title": "The Real Mojito",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "10  fresh mint leaves"
+        },
+        {
+            "2": "0.5 medium lime, cut into 3 wedges, divided"
+        },
+        {
+            "3": "2 tablespoons white sugar, or to taste"
+        },
+        {
+            "4": "1 cup ice cubes, or as needed"
+        },
+        {
+            "5": "0.5 fluid ounces white rum"
+        },
+        {
+            "6": "0.5 cup club soda, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place mint leaves and 1 lime wedge into a sturdy glass. Use a muddler and crush to release mint oils and lime juice."
+        },
+        {
+            "2": "Add remaining lime wedges and 2 tablespoons sugar, and muddle again to release the lime juice. Do not strain the mixture."
+        },
+        {
+            "3": "Fill the glass almost to the top with ice. Pour in rum and fill the glass with club soda."
+        },
+        {
+            "4": "Stir, taste, and add more sugar if desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 cocktail"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "203"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F63c9914765589a51ddad074018b97407%2F1658017885image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F63c9914765589a51ddad074018b97407%2F1656462370087A77BE-F0F5-4C3C-859D-51B296363752.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F63c9914765589a51ddad074018b97407%2F1655776565image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F63c9914765589a51ddad074018b97407%2F165031185137ED6818-ECF5-4200-BA61-6F56699058FF.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ci6Ne5EGfT79de-zCg8WiWwjMN4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/147363-TheRealMojito_115-37ba3db19cab4664ba43b09e3676aeb0.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/OY8EtTwT033siz5n25pgo_dBlfI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/147363-TheRealMojito_117-b3cc8870d03c4d18b08bfc1c03cb1e80.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

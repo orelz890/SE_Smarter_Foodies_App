@@ -1,0 +1,57 @@
+{
+    "title": "Prosciutto e Melone (Italian Ham and Melon)",
+    "Category": "Antipasto",
+    "Ingredients": [
+        {
+            "1": "1  cantaloupe - seeded and cut into 8 wedges"
+        },
+        {
+            "2": "8 thin slices  prosciutto"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Remove the flesh from the rind of the cantaloupe; wrap each piece of cantaloupe with a slice of prosciutto. Arrange on a platter and serve cold."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "99"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6834474.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2084a31a7787b1fae9a46a7a5640a43c%2F1127027.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F842399.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F842398.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

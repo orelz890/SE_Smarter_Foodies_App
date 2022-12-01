@@ -1,0 +1,105 @@
+{
+    "title": "Spinach and Bacon Quiche",
+    "Category": "Quiche",
+    "Ingredients": [
+        {
+            "1": "0.75 pound sliced bacon"
+        },
+        {
+            "2": "1 (9 inch) single refrigerated pie crust"
+        },
+        {
+            "3": "6 large eggs, beaten"
+        },
+        {
+            "4": "0.5 cups heavy cream"
+        },
+        {
+            "5": "5 dashes hot pepper sauce, or to taste"
+        },
+        {
+            "6": "2 dashes Worcestershire sauce"
+        },
+        {
+            "7": "1 salt and ground black pepper to taste"
+        },
+        {
+            "8": "1 (10 ounce) package frozen chopped spinach - thawed, drained and squeezed dry"
+        },
+        {
+            "9": "0.5 cups shredded Cheddar cheese"
+        },
+        {
+            "10": "0.5 cup chopped green onion"
+        },
+        {
+            "11": "0.25 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Place bacon in a large, deep skillet, and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on a paper towel-lined plate. Chop when cool."
+        },
+        {
+            "3": "Fit pie crust into a 9-inch pie dish and set aside."
+        },
+        {
+            "4": "Whisk eggs, cream, hot pepper sauce, Worcestershire sauce, salt, and pepper together in a bowl."
+        },
+        {
+            "5": "Spread spinach over the bottom of pie crust. Top with bacon, Cheddar cheese, and green onion; pour in egg mixture and sprinkle with Parmesan cheese."
+        },
+        {
+            "6": "Bake quiche in the preheated oven until the top is lightly puffed and browned, and a knife inserted into the center of the quiche comes out clean, 35 to 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch quiche"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "506"
+        },
+        {
+            "Fat": "42g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff98439868d1b03cac7865801d960d8ef%2F1660684540image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9247653.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9197174.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8792289.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

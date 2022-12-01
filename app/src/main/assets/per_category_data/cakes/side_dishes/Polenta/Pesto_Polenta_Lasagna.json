@@ -1,0 +1,81 @@
+{
+    "title": "Pesto Polenta Lasagna",
+    "Category": "Polenta",
+    "Ingredients": [
+        {
+            "1": "1 (18 ounce) package polenta, cut into 1/4 inch thick slices"
+        },
+        {
+            "2": "0.5 (24 ounce) jar bottled marinara sauce"
+        },
+        {
+            "3": "0.25 cup pesto"
+        },
+        {
+            "4": "0.25 cup pine nuts"
+        },
+        {
+            "5": "1 cup shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C). Oil an 11x7x2 inch baking dish."
+        },
+        {
+            "2": "Arrange a single layer of polenta in the bottom of the prepared baking dish. Spread a thin layer of pesto over the polenta. Spoon half of the sauce over the polenta. Top with another layer of polenta and sauce."
+        },
+        {
+            "3": "Bake, uncovered, for 25 minutes. Turn on the broiler. Top polenta with cheese and pine nuts, and broil until cheese browns and nuts are toasted."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "179"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9017317.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8865218.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7314534.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe3757eac6a1b52d8f3e96b5e3d9d80fe%2F7045227.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/yJTD_SkYl4GspHK666ClvW23X_w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1080109-86d4f83e56e64b58968baf63d6f786a4.jpg"
+        }
+    ],
+    "main category": "side_dishes"
+}

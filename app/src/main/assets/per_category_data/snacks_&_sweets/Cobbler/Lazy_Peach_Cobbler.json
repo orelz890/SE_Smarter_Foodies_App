@@ -1,0 +1,84 @@
+{
+    "title": "Lazy Peach Cobbler",
+    "Category": "Cobbler",
+    "Ingredients": [
+        {
+            "1": "0.5 cup margarine"
+        },
+        {
+            "2": "2 cups all-purpose flour"
+        },
+        {
+            "3": "1 cup white sugar"
+        },
+        {
+            "4": "1 teaspoon baking powder"
+        },
+        {
+            "5": "1 (29 ounce) can sliced peaches, juice reserved"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Melt margarine in a 9x13-inch glass baking pan in the preheated oven."
+        },
+        {
+            "3": "In a large bowl, combine flour, sugar, and baking powder. Pour reserved peach juice into flour mixture and stir until smooth."
+        },
+        {
+            "4": "Remove the glass pan from the oven and pour in batter starting in the center; batter will spread over the entire pan. Add peaches by placing them in the center of the pan; allow peaches to spread on their own."
+        },
+        {
+            "5": "Bake cobbler in preheated oven for 20 to 25 minutes, or until just brown on top."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x13-inch cobbler"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "237"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8170119.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7867228.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6650533.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F216150294735ebb1517309c21d6af839%2F6347001.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

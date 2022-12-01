@@ -1,0 +1,87 @@
+{
+    "title": "Rancho Baked Beans",
+    "Category": "Baked Beans",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "1 pound ground beef"
+        },
+        {
+            "3": "2 cups chopped onion"
+        },
+        {
+            "4": "2 (16 ounce) cans pork and beans"
+        },
+        {
+            "5": "1 (16 ounce) can kidney beans, drained"
+        },
+        {
+            "6": "1 cup ketchup"
+        },
+        {
+            "7": "0.75 cup brown sugar"
+        },
+        {
+            "8": "2 tablespoons mustard"
+        },
+        {
+            "9": "1 tablespoon white vinegar"
+        },
+        {
+            "10": "1 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Spray a casserole dish with cooking spray."
+        },
+        {
+            "2": "Cook and stir ground beef and onion in a skillet over medium heat until beef is browned and onions are translucent, 10 to 15 minutes. Drain well."
+        },
+        {
+            "3": "Mix pork and beans, kidney beans, ketchup, brown sugar, mustard, vinegar, and salt in a large bowl. Stir hamburger mixture into bean mixture. Pour hamburger-bean mixture into prepared casserole dish."
+        },
+        {
+            "4": "Bake in the preheated oven until bubbling, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "298"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F106ade775c1640e4715c4da1343a0c39%2F872719.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

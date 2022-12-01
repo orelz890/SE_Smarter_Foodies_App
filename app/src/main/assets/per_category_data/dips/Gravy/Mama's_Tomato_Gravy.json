@@ -1,0 +1,72 @@
+{
+    "title": "Mama's Tomato Gravy",
+    "Category": "Gravy",
+    "Ingredients": [
+        {
+            "1": "0.25 cup bacon drippings"
+        },
+        {
+            "2": "3 tablespoons all-purpose flour"
+        },
+        {
+            "3": "2 cups water"
+        },
+        {
+            "4": "0.5 (6 ounce) can tomato paste"
+        },
+        {
+            "5": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat bacon drippings in a skillet over medium-high heat. Stir the flour into the bacon drippings and cook, stirring constantly, until lightly browned. Slowly pour the water into the flour mixture while whisking. Whisk in the tomato paste. Cook the mixture until it begins to thicken. Reduce heat to low and simmer until thick, about 5 minutes. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "86"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3826553.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc393b30d22910c14ee3484c8e3c3fec9%2F684907.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F683900.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F681182.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

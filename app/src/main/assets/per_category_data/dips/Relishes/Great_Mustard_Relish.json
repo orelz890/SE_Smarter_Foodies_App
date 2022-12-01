@@ -1,0 +1,60 @@
+{
+    "title": "Great Mustard Relish",
+    "Category": "Relishes",
+    "Ingredients": [
+        {
+            "1": "0.5 cup dill pickle slices"
+        },
+        {
+            "2": "0.5 cup onion, chopped"
+        },
+        {
+            "3": "1 tablespoon prepared yellow mustard"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place pickle slices in a food processor; pulse until pickles resemble relish. Transfer relish into a bowl and set aside."
+        },
+        {
+            "2": "Rinse and dry the food processor bowl. Add onion and pulse until it is the same size as relish. Stir onion and mustard into relish until well-blended."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 cup"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "7"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F872150.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F871574.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

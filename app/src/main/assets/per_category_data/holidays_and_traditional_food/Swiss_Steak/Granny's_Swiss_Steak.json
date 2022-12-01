@@ -1,0 +1,99 @@
+{
+    "title": "Granny's Swiss Steak",
+    "Category": "Swiss Steak",
+    "Ingredients": [
+        {
+            "1": "0.25 cup vegetable oil"
+        },
+        {
+            "2": "4 (4 ounce) cube steaks"
+        },
+        {
+            "3": "0.5 teaspoon salt, or to taste"
+        },
+        {
+            "4": "0.25 teaspoon ground black pepper, or to taste"
+        },
+        {
+            "5": "0.5 cup all-purpose flour"
+        },
+        {
+            "6": "1  green bell pepper, seeded and chopped"
+        },
+        {
+            "7": "1  medium onion, chopped"
+        },
+        {
+            "8": "1 stalk celery, chopped"
+        },
+        {
+            "9": "1 (6 ounce) can mushroom stems and pieces, undrained"
+        },
+        {
+            "10": "1 (1 ounce) envelope dry onion soup mix"
+        },
+        {
+            "11": "0.5 teaspoon dried oregano"
+        },
+        {
+            "12": "1 salt and pepper to taste"
+        },
+        {
+            "13": "0.5 cups tomato juice"
+        },
+        {
+            "14": "1 cup ketchup"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Heat oil in a large skillet over medium-high heat. Dredge the cube steaks in a mixture of flour, salt and pepper, and brown them in the hot oil."
+        },
+        {
+            "2": "Arrange steaks in a 9x13 inch baking dish. Sprinkle the green pepper, onion, celery, mushrooms, oregano, and onion soup mix over the steaks. Stir together the tomato juice and ketchup; pour over everything in the dish."
+        },
+        {
+            "3": "Bake for about 1 hour in the preheated oven, or until the meat is cooked through, and the sauce is thickened."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "413"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F80c323a7f907f319db9fbcb46f8f2553%2F3375537.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F48622.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

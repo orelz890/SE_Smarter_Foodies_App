@@ -1,0 +1,78 @@
+{
+    "title": "Quick and Simple Fairy Cakes",
+    "Category": "Cupcakes",
+    "Ingredients": [
+        {
+            "1": "1 cup butter, softened"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "0.75 cups self-rising flour"
+        },
+        {
+            "4": "4 large eggs, beaten"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease two 12-cup muffin tins or line cups with paper liners."
+        },
+        {
+            "2": "Beat butter and sugar together in a large bowl with an electric mixer until light and fluffy. Add 1/2 of the flour and 1/2 of the eggs; beat until smooth. Add remaining flour and eggs and beat until batter is light and fluffy."
+        },
+        {
+            "3": "Spoon batter into the prepared muffin cups, filling each 3/4 full."
+        },
+        {
+            "4": "Bake in the preheated oven until tops spring back when lightly pressed, about 10 to 12 minutes. Cool in the tins for 5 minutes. Transfer to a wire rack to cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "2 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "144"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8649305.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F665225610f3274273658cd78cd2698f0%2F6437375.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6439020.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6041701.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

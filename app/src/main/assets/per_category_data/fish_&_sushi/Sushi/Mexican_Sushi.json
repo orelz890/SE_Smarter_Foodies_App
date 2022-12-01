@@ -1,0 +1,78 @@
+{
+    "title": "Mexican Sushi",
+    "Category": "Sushi",
+    "Ingredients": [
+        {
+            "1": "3 ounces low-fat cream cheese, softened"
+        },
+        {
+            "2": "0.5 tablespoons seeded and finely chopped chipotle in adobo"
+        },
+        {
+            "3": "1 large plain flour tortilla"
+        },
+        {
+            "4": "1 large tomato-flavored tortilla"
+        },
+        {
+            "5": "1 large spinach-flavored tortilla"
+        },
+        {
+            "6": "0.75 cup low-fat refried black beans"
+        },
+        {
+            "7": "6 tablespoons pico de gallo salsa"
+        },
+        {
+            "8": "0.5  Avocados from Mexico, peeled, pitted and diced"
+        },
+        {
+            "9": "0.75 cup chopped cilantro leaves"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix together cream cheese and chipotle. Heat tortillas in microwave or oven to soften. Spread each tortilla with 2 Tbsp. chipotle cream cheese, 1/4 cup black beans and 2 Tbsp. salsa. Scatter one-third of the avocado and cilantro on each."
+        },
+        {
+            "2": "Roll up tortillas tightly; wrap in plastic wrap and refrigerate. To serve, unwrap and trim ends; cut each roll across into 6 pieces."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "332"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9236592.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fba5f0870de87feff8855683596143582%2F5539733.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1996246.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1124378.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

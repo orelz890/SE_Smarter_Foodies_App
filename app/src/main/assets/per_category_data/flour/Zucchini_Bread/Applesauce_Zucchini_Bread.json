@@ -1,0 +1,99 @@
+{
+    "title": "Applesauce Zucchini Bread",
+    "Category": "Zucchini Bread",
+    "Ingredients": [
+        {
+            "1": "3 cups all-purpose flour"
+        },
+        {
+            "2": "3 teaspoons ground cinnamon"
+        },
+        {
+            "3": "1 teaspoon salt"
+        },
+        {
+            "4": "1 teaspoon baking soda"
+        },
+        {
+            "5": "0.5 teaspoon baking powder"
+        },
+        {
+            "6": "3  eggs"
+        },
+        {
+            "7": "0.75 cups white sugar"
+        },
+        {
+            "8": "1 cup vegetable oil"
+        },
+        {
+            "9": "1 cup shredded zucchini"
+        },
+        {
+            "10": "1 cup applesauce"
+        },
+        {
+            "11": "3 teaspoons vanilla extract"
+        },
+        {
+            "12": "1 cup chopped pecans (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease two loaf pans."
+        },
+        {
+            "2": "Combine flour, cinnamon, salt, baking soda, and baking powder in a bowl and set aside."
+        },
+        {
+            "3": "Combine eggs, sugar, and oil in another bowl and mix until blended. Add zucchini, applesauce, and vanilla extract. Mix into dry ingredients until well blended; stir in pecans. Pour evenly into the prepared pans."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 1 hour. Let cool slightly before slicing and serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "14 "
+        },
+        {
+            "Yield": "2 loaves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "415"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd64d55c34c2e4959c5ab1ee046a19435%2F1661203157zucchini%2520applesauce%2520loaf.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd64d55c34c2e4959c5ab1ee046a19435%2F165488331020220610_133634.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F292376.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Easy Tortellini Soup",
+    "Category": "Tortellini",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "1 small red onion, chopped"
+        },
+        {
+            "3": "1  zucchini, chopped"
+        },
+        {
+            "4": "1 tablespoon minced garlic"
+        },
+        {
+            "5": "1 (28 ounce) can crushed tomatoes"
+        },
+        {
+            "6": "2 (14.5 ounce) cans chicken broth"
+        },
+        {
+            "7": "1 tablespoon white sugar"
+        },
+        {
+            "8": "1 tablespoon Italian seasoning"
+        },
+        {
+            "9": "0.25 cup red wine"
+        },
+        {
+            "10": "1 dash hot pepper sauce"
+        },
+        {
+            "11": "1 (11 ounce) can white corn, undrained"
+        },
+        {
+            "12": "0.5 cup freshly grated Parmesan cheese"
+        },
+        {
+            "13": "8 ounces cheese tortellini"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large pot over medium heat, cook onion, zucchini and garlic in oil three minutes, until onion is translucent. Stir in crushed tomatoes, broth, sugar, Italian seasoning, wine and pepper sauce and bring to a boil."
+        },
+        {
+            "2": "Reduce heat and stir in corn and Parmesan. Simmer 30 minutes."
+        },
+        {
+            "3": "Stir in tortellini and simmer 10 minutes more, until pasta is tender."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "218"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7068483.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5107203.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F185725.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

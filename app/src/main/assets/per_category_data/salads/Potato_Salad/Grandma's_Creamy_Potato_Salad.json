@@ -1,0 +1,87 @@
+{
+    "title": "Grandma's Creamy Potato Salad",
+    "Category": "Potato Salad",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds red potatoes, peeled"
+        },
+        {
+            "2": "0.5 cups mayonnaise"
+        },
+        {
+            "3": "1 cup chopped celery"
+        },
+        {
+            "4": "0.5 cup chopped onion"
+        },
+        {
+            "5": "1 tablespoon white vinegar"
+        },
+        {
+            "6": "1 tablespoon prepared yellow mustard"
+        },
+        {
+            "7": "1 teaspoon salt"
+        },
+        {
+            "8": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "9": "4  hard-cooked eggs, chopped"
+        },
+        {
+            "10": "1 teaspoon paprika, or to taste (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes. Drain and let cool enough to handle, 10 to 15 minutes. Cut into cubes."
+        },
+        {
+            "2": "Mix mayonnaise, celery, onion, vinegar, mustard, salt, and pepper together in a large bowl. Add potatoes and mix to combine. Stir in eggs and sprinkle with paprika."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "538"
+        },
+        {
+            "Fat": "48g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F69a3260142ab76656e2882be08dab4b1%2F16503177056FDD89A0-4E6D-4D79-A880-7022D9FED4DC.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4554026.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

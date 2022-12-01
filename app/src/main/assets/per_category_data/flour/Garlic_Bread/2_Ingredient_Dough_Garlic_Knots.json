@@ -1,0 +1,84 @@
+{
+    "title": "2-Ingredient Dough Garlic Knots",
+    "Category": "Garlic Bread",
+    "Ingredients": [
+        {
+            "1": "0.5 cups self-rising flour, plus more for kneading"
+        },
+        {
+            "2": "1 cup plain Greek yogurt"
+        },
+        {
+            "3": "0.5 cup butter, melted"
+        },
+        {
+            "4": "2 cloves garlic, minced"
+        },
+        {
+            "5": "0.5 teaspoon chopped fresh parsley, plus more for garnish"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix flour and Greek yogurt together in a medium bowl until a shaggy dough forms. Transfer to a surface dusted with more self-rising flour, and knead for 8 to 10 minutes. Continue adding flour as needed if the dough is too sticky."
+        },
+        {
+            "2": "Preheat the oven to 425 degrees F (220 degrees C). Line a baking sheet with parchment paper."
+        },
+        {
+            "3": "Combine melted butter, garlic, parsley, and salt in a small bowl."
+        },
+        {
+            "4": "Cut the dough into 8 pieces, roughly 2 ounces each. Roll each segment into an even 12-inch log. Shape the logs into knots by forming a cross, wrapping the top piece around the bottom piece, then connecting the two ends. Press together tightly to seal."
+        },
+        {
+            "5": "Move the knots to the prepared baking sheet and brush with garlic butter."
+        },
+        {
+            "6": "Bake in the preheated oven until lightly browned, 15 to 20 minutes. Brush with remaining garlic butter, garnish with more parsley, and serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 garlic knots"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "218"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F334a3f6503ed7bf2e1d0e2f7d2cfdb34%2F1661822767BC456745-260D-4B21-8555-E5BFF603BA75.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F334a3f6503ed7bf2e1d0e2f7d2cfdb34%2F16562501291656250085805664491325923234864.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

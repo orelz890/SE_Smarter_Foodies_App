@@ -1,0 +1,84 @@
+{
+    "title": "Mini Cheesecakes",
+    "Category": "Cake Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (12 ounce) package vanilla wafers"
+        },
+        {
+            "2": "2 (8 ounce) packages cream cheese"
+        },
+        {
+            "3": "0.75 cup white sugar"
+        },
+        {
+            "4": "2  eggs"
+        },
+        {
+            "5": "1 teaspoon vanilla extract"
+        },
+        {
+            "6": "1 (21 ounce) can cherry pie filling"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Line two 24-cup miniature muffin tins with paper liners."
+        },
+        {
+            "2": "Crush vanilla wafers. Place 1/2 teaspoon of crushed vanilla wafers into each paper cup."
+        },
+        {
+            "3": "Beat cream cheese, sugar, eggs, and vanilla in a mixing bowl until light and fluffy. Fill each miniature muffin liner with this mixture, almost to the top."
+        },
+        {
+            "4": "Bake in the preheated oven for 15 minutes until the cheesecake is set. Cool. Top with a teaspoonful of cherry pie filling."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "48 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "95"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9439167.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8911949.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8663645.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8108818.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Ud0Oy3kpykwOxfLX58ivZz57wNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4560235-432003a103e442acb0cd1cacaf07de29.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

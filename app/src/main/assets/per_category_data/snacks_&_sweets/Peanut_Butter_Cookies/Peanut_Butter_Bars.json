@@ -1,0 +1,84 @@
+{
+    "title": "Peanut Butter Bars",
+    "Category": "Peanut Butter Cookies",
+    "Ingredients": [
+        {
+            "1": "2 cups graham cracker crumbs"
+        },
+        {
+            "2": "2 cups confectioners' sugar"
+        },
+        {
+            "3": "1 cup butter or margarine, melted"
+        },
+        {
+            "4": "1 cup peanut butter"
+        },
+        {
+            "5": "0.5 cups semisweet chocolate chips"
+        },
+        {
+            "6": "4 tablespoons peanut butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix together graham cracker crumbs, confectioners' sugar, butter or margarine, and 1 cup peanut butter in a medium bowl until well-blended. Press evenly into the bottom of an ungreased 9x13-inch pan."
+        },
+        {
+            "2": "Place chocolate chips and 4 tablespoons peanut butter in a microwave-safe bowl. Microwave on high, stirring every 15 seconds, until smooth. Spread mixture over crust."
+        },
+        {
+            "3": "Refrigerate for at least 1 hour before cutting into 12 squares."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 bars"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "532"
+        },
+        {
+            "Fat": "37g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9b7ca1d2f7e78c9662d6abacc3ddba6f%2F165990439016599043796493557508083660483742.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9b7ca1d2f7e78c9662d6abacc3ddba6f%2F165896348620220727_181843.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9b7ca1d2f7e78c9662d6abacc3ddba6f%2F16560313299D5DF6C0-D8BF-4C61-9AEC-53B3F65AE137.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9b7ca1d2f7e78c9662d6abacc3ddba6f%2F1652658476image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/YPLBdUN8crxWQY3EEezAFMi5L9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5179354-843751606fef447fad6f01536eb6bd4e.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

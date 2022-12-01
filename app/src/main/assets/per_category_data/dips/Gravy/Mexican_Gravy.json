@@ -1,0 +1,81 @@
+{
+    "title": "Mexican Gravy",
+    "Category": "Gravy",
+    "Ingredients": [
+        {
+            "1": "0.5 cup flour"
+        },
+        {
+            "2": "2 tablespoons chili powder"
+        },
+        {
+            "3": "2 teaspoons onion powder"
+        },
+        {
+            "4": "1 teaspoon dried Mexican oregano"
+        },
+        {
+            "5": "1 teaspoon salt"
+        },
+        {
+            "6": "6 tablespoons vegetable oil"
+        },
+        {
+            "7": "4 cups water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix flour, chili powder, onion powder, oregano, and salt together in a small bowl."
+        },
+        {
+            "2": "Heat oil in a large saucepan over low heat. Whisk flour mixture into hot oil until smooth. Pour water into mixture in small amounts and whisk to incorporate smoothly between additions. Bring the gravy to a simmer for 5 minutes. Remove from heat and cool 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "170"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5121571.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4036192.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1118111.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

@@ -1,0 +1,105 @@
+{
+    "title": "Calico Bean Casserole",
+    "Category": "Potluck Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (15 ounce) can kidney beans, undrained"
+        },
+        {
+            "2": "1 (16 ounce) can baked beans with pork"
+        },
+        {
+            "3": "1 (15 ounce) can butter beans, undrained"
+        },
+        {
+            "4": "0.5 cup ketchup"
+        },
+        {
+            "5": "2 teaspoons white vinegar"
+        },
+        {
+            "6": "1 tablespoon dry mustard"
+        },
+        {
+            "7": "0.75 cup packed brown sugar"
+        },
+        {
+            "8": "1 pound lean ground beef"
+        },
+        {
+            "9": "4 ounces bacon, chopped"
+        },
+        {
+            "10": "0.5 cup chopped onion"
+        },
+        {
+            "11": "1 salt to taste"
+        },
+        {
+            "12": "1 ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "In a large skillet over medium heat, fry the ground beef, bacon and onion together until ground beef is no longer pink. Drain fat."
+        },
+        {
+            "3": "In a large mixing bowl, combine the kidney beans, baked beans with pork and butter beans. Stir in the ketchup, white vinegar, dry mustard, brown sugar and cook beef mixture. Mix thoroughly, adding salt and pepper to taste."
+        },
+        {
+            "4": "Pour the bean and meat mixture into a 9x13 inch baking dish. Bake in preheated oven for 30 to 40 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "617"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "69g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9157693.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7960935.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6874272.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6873883.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/WG2riS_Ev1d53b0c7itIfaVPyvg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/994732-calico-bean-casserole-Melissa-Goff-1x1-1-e74e01de50f9463094542ba423068330.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

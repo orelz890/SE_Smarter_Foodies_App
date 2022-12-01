@@ -1,0 +1,81 @@
+{
+    "title": "Cold Russian Borscht",
+    "Category": "Borscht",
+    "Ingredients": [
+        {
+            "1": "4 medium beets"
+        },
+        {
+            "2": "4 cups beef broth"
+        },
+        {
+            "3": "1  onion, chopped"
+        },
+        {
+            "4": "2 tablespoons red wine vinegar"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "0.25 teaspoon black pepper"
+        },
+        {
+            "7": "1  cucumber - peeled, seeded, and diced"
+        },
+        {
+            "8": "0.5 cup sour cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Remove stems and leaves from beets, but leave on skins. Cover beets with cold water and bring to a boil in a deep pot. Boil until fork tender, about 40 minutes."
+        },
+        {
+            "2": "Drain beets, but reserve two cups of the liquid. Strain the liquid and add to a large saucepan. Remove skin from beets. Grate beets through the most coarse blade of a grater. Add to beet liquid. Add beef broth, onion, vinegar, salt, and pepper. Bring to a boil, and then cover and reduce heat to low. Simmer for 20 minutes, then remove from the heat."
+        },
+        {
+            "3": "Chill in the refrigerator for 1 hour, or until cold, before serving. Ladle into bowls and top each serving with cucumber and a big spoonful of sour cream."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 20 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "107"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4528186.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F4ba7d15689ecc6b35f312fa947a86cf5%2F1095156.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

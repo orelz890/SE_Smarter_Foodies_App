@@ -1,0 +1,84 @@
+{
+    "title": "Potato Hay",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "2  russet potatoes"
+        },
+        {
+            "2": "1 tablespoon canola oil"
+        },
+        {
+            "3": "1 kosher salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cut potatoes into spirals using the medium grating attachment on a spiralizer, cutting the spirals with kitchen shears after 4 or 5 rotations."
+        },
+        {
+            "2": "Soak potato spirals in a bowl of water for 20 minutes. Drain and rinse well. Pat potatoes dry with paper towels, removing as much moisture as possible."
+        },
+        {
+            "3": "Place potato spirals in a large resealable plastic bag. Add oil, salt, and pepper; toss to coat."
+        },
+        {
+            "4": "Preheat an air fryer to 360 degrees F (180 degrees C)."
+        },
+        {
+            "5": "Place 1/2 of the potato spirals in the fry basket and insert into the air fryer. Cook until golden, about 5 minutes."
+        },
+        {
+            "6": "Increase temperature to 390 degrees F (200 degrees C). Pull out the fry basket and toss potato spirals using tongs. Return basket to the air fryer and continue cooking, tossing occasionally, until golden brown, 10 to 12 minutes."
+        },
+        {
+            "7": "Reduce temperature to 360 degrees F (180 degrees C) and repeat with remaining potato spirals."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "113"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1307a98dea5eba4a58237582fe25d3a1%2F5246585.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4518172.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4509515.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4484958.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

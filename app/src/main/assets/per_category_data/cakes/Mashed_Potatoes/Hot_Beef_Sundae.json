@@ -1,0 +1,60 @@
+{
+    "title": "Hot Beef Sundae",
+    "Category": "Mashed Potatoes",
+    "Ingredients": [
+        {
+            "1": "2 cups leftover mashed potatoes"
+        },
+        {
+            "2": "2 cups roast beef with gravy"
+        },
+        {
+            "3": "1 cup shredded Cheddar cheese"
+        },
+        {
+            "4": "0.5 cup sour cream"
+        },
+        {
+            "5": "4  cherry tomatoes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pile mashed potatoes in each serving bowl to resemble a scoop of ice cream. Top with roast beef with gravy to resemble hot fudge."
+        },
+        {
+            "2": "Sprinkle on Cheddar cheese. Dollop sour cream for the whipped cream, on top. Garnish each sundae with a cherry tomato."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "362"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0373be7e6253e6a1134f7ca5f420fc4c%2F4555528.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

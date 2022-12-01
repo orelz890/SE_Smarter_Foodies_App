@@ -1,0 +1,78 @@
+{
+    "title": "Roasted Brussels Sprouts",
+    "Category": "Side Dishes",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds Brussels sprouts, ends trimmed and yellow leaves removed"
+        },
+        {
+            "2": "3 tablespoons olive oil"
+        },
+        {
+            "3": "1 teaspoon kosher salt"
+        },
+        {
+            "4": "0.5 teaspoon freshly ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (205 degrees C)."
+        },
+        {
+            "2": "Place trimmed Brussels sprouts, olive oil, kosher salt, and pepper in a large resealable plastic bag. Seal tightly, and shake to coat. Pour onto a baking sheet, and place on center oven rack."
+        },
+        {
+            "3": "Roast in the preheated oven for 30 to 45 minutes, shaking pan every 5 to 7 minutes for even browning. Reduce heat when necessary to prevent burning. Brussels sprouts should be darkest brown, almost black, when done. Adjust seasoning with kosher salt, if necessary. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "104"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2bc9b05e2dad367cd2cd1194ba995317%2F1645163958roasted%2520brussel%2520sprouts.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429859.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9343251.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9322226.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/cwpKOm_NSCjblfbuHTHV2OmDUUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/67952_roasted-brussels-sprouts_Rita-859db753873341ecb2a7b8ec0fa8385a.jpg"
+        }
+    ],
+    "main category": "side_dishes"
+}

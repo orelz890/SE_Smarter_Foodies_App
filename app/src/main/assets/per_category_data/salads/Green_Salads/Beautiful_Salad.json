@@ -1,0 +1,75 @@
+{
+    "title": "Beautiful Salad",
+    "Category": "Green Salads",
+    "Ingredients": [
+        {
+            "1": "8 cups baby spinach leaves"
+        },
+        {
+            "2": "0.5 medium red onion, sliced and separated into rings"
+        },
+        {
+            "3": "1 (11 ounce) can mandarin oranges, drained"
+        },
+        {
+            "4": "0.5 cups sweetened dried cranberries"
+        },
+        {
+            "5": "1 cup honey-roasted sliced almonds"
+        },
+        {
+            "6": "1 cup crumbled feta cheese"
+        },
+        {
+            "7": "1 cup balsamic vinaigrette salad dressing, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place servings of spinach onto salad plates. Top with red onion, mandarin oranges, cranberries, sliced almonds and feta cheese in that order. Drizzle dressing over each salad."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "459"
+        },
+        {
+            "Fat": "30g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8378259.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8243700.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7726287.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6619695.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

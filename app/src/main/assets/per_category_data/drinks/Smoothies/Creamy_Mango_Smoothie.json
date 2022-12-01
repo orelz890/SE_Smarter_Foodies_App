@@ -1,0 +1,69 @@
+{
+    "title": "Creamy Mango Smoothie",
+    "Category": "Smoothies",
+    "Ingredients": [
+        {
+            "1": "0.75 cup cold milk"
+        },
+        {
+            "2": "0.25 cup vanilla yogurt"
+        },
+        {
+            "3": "0.75 teaspoon vanilla extract"
+        },
+        {
+            "4": "0.5 cups chopped fresh mango"
+        },
+        {
+            "5": "3  ice cubes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Blend the milk, yogurt, vanilla extract, mango, and ice cubes in a blender until smooth and creamy."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "157"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9431070.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9057676.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7521943.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1426363.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

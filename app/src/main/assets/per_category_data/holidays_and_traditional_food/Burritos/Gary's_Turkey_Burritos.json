@@ -1,0 +1,87 @@
+{
+    "title": "Gary's Turkey Burritos",
+    "Category": "Burritos",
+    "Ingredients": [
+        {
+            "1": "1 pound ground turkey"
+        },
+        {
+            "2": "2 (7.75 ounce) cans Mexican-style hot tomato sauce (such as El Pato\u00ae)"
+        },
+        {
+            "3": "1 (15.25 ounce) can whole kernel corn, drained"
+        },
+        {
+            "4": "0.5 small onion, diced"
+        },
+        {
+            "5": "1 (16 ounce) can fat-free refried beans"
+        },
+        {
+            "6": "1 (16 ounce) container fat-free sour cream"
+        },
+        {
+            "7": "0.75 cup shredded reduced-fat Cheddar cheese"
+        },
+        {
+            "8": "6 (10 inch) flour tortillas"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large skillet over medium high heat, brown ground turkey. Stir in tomato sauce, corn and onion. Reduce heat to medium and let simmer, stirring occasionally, until liquids reduce (about 20 minutes)."
+        },
+        {
+            "2": "In a separate medium skillet, heat beans over medium-low heat. Prepare sour cream and cheese for sprinkling into burritos. One by one, heat tortillas over stove burner for 1 to 2 minutes, flipping a few times. Top with beans, then meat mixture, then sour cream and cheese. Fold over and serve while still warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 burritos"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "571"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "78g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8020167.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4528870.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4420324.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa33b42d112559abaa9eb5b77ecf59915%2F2276941.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/XKYsHvbaFL8tTmWx35cQeqrycN8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2276941-5eab46e2c6d143a9ac5eff0493a303cb.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

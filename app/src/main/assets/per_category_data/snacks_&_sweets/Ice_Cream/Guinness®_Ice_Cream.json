@@ -1,0 +1,99 @@
+{
+    "title": "Guinness\u00ae Ice Cream",
+    "Category": "Ice Cream",
+    "Ingredients": [
+        {
+            "1": "2 cups heavy whipping cream"
+        },
+        {
+            "2": "0.5 cups whole milk"
+        },
+        {
+            "3": "1 cup white sugar"
+        },
+        {
+            "4": "1  vanilla bean"
+        },
+        {
+            "5": "6  egg yolks, beaten"
+        },
+        {
+            "6": "1 (12 fluid ounce) can or bottle Irish stout beer (such as Guinness\u00ae)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine cream, milk, and sugar in a saucepan over medium heat. Stir until sugar has dissolved, about 5 minutes."
+        },
+        {
+            "2": "Split the vanilla bean lengthwise with a sharp knife and scrape seeds into cream mixture. Place bean pod into mixture and bring to a boil. Remove from heat and discard vanilla bean pod."
+        },
+        {
+            "3": "Place egg yolks in a bowl. Gradually whisk in 1 cup hot cream mixture."
+        },
+        {
+            "4": "Whisk the egg yolk mixture back into the saucepan and place over medium heat. Whisk constantly until slightly thickened, about 2 to 3 minutes. Mixture should coat the back of a spoon. Do not let the mixture boil."
+        },
+        {
+            "5": "Transfer cream mixture to a bowl and chill until cold, at least 2 hours to overnight."
+        },
+        {
+            "6": "Simmer Irish stout beer in a saucepan over low heat until reduced to 2/3 cup, about 15 minutes. Chill the stout beer syrup at least 2 hours to overnight."
+        },
+        {
+            "7": "Whisk together chilled cream mixture and beer syrup; pour into an ice cream maker and freeze according to manufacturer's directions."
+        },
+        {
+            "8": "When machine has finished, pack ice cream into a airtight container and store in freezer."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 5 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 quart"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "376"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9406684.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1123168.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F806048.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://www.allrecipes.com/thmb/53i6DmXUdnfMFuKGHIK7fHQgqqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1123168-bab20099684b41f787b2cb60b1bc266f.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

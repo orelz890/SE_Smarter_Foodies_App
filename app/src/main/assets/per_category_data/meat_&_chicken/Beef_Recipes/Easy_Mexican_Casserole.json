@@ -1,0 +1,99 @@
+{
+    "title": "Easy Mexican Casserole",
+    "Category": "Beef Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "2 cups salsa"
+        },
+        {
+            "3": "1 (16 ounce) can chili beans, drained"
+        },
+        {
+            "4": "3 cups tortilla chips, crushed"
+        },
+        {
+            "5": "2 cups sour cream"
+        },
+        {
+            "6": "1 (2 ounce) can sliced black olives, drained"
+        },
+        {
+            "7": "0.5 cup chopped green onion"
+        },
+        {
+            "8": "0.5 cup chopped fresh tomato"
+        },
+        {
+            "9": "2 cups shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Spray a 9x13-baking dish with cooking spray."
+        },
+        {
+            "2": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 8 to 10 minutes."
+        },
+        {
+            "3": "Stir in salsa, reduce heat, and simmer until liquid is absorbed, about 20 minutes. Stir in beans; cook until heated through."
+        },
+        {
+            "4": "Spread crushed tortilla chips over the bottom of the baking dish; spoon beef mixture on top. Spread sour cream over beef, then sprinkle olives, green onion, and tomatoes on top. Cover with Cheddar cheese."
+        },
+        {
+            "5": "Bake in the preheated oven until hot and bubbly, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 9x13-inch casserole"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "632"
+        },
+        {
+            "Fat": "44g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F67dd1a2b51b9ad10b3091adaf2acdd32%2F16689890358041D8957AF-A6DE-4042-9012-4CF3EB6EF671.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5e2b65860bb7ac3ecf250b34bb77c00d%2F1662601483image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5e2b65860bb7ac3ecf250b34bb77c00d%2F16538576239C7AC91F-6992-4950-A436-41DE809AD47C.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5e2b65860bb7ac3ecf250b34bb77c00d%2F1647129139E76BE8F1-B5AC-4B3D-B91B-C239B9CF9D7C.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/-I7C6eORCGjCW0HfPT6L-mbXAWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5928063-easy-mexican-casserole-Juvee336-1x1-1-bd97c7ef03ff42cbb775a9cba767bf0e.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

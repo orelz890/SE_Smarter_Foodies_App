@@ -1,0 +1,87 @@
+{
+    "title": "Angie's Dad's Best Cabbage Coleslaw",
+    "Category": "Coleslaw",
+    "Ingredients": [
+        {
+            "1": "1 medium head cabbage, shredded"
+        },
+        {
+            "2": "1 large red onion, diced"
+        },
+        {
+            "3": "1 cup grated carrots"
+        },
+        {
+            "4": "2 stalks celery, chopped"
+        },
+        {
+            "5": "1 cup white sugar"
+        },
+        {
+            "6": "1 cup white vinegar"
+        },
+        {
+            "7": "0.75 cup vegetable oil"
+        },
+        {
+            "8": "1 tablespoon salt"
+        },
+        {
+            "9": "1 tablespoon dry mustard"
+        },
+        {
+            "10": "1 black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, combine cabbage, onion, carrots, and celery. Sprinkle with 1 cup sugar, and mix well. In a small saucepan, combine vinegar, oil, salt, dry mustard, and pepper. Bring to a boil. Pour hot dressing over cabbage mixture, and mix well."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "20 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "131"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5203208.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4529582.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1678865.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1115277.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/pXVor6RbyUjmSbmv7vTVDSk9gNg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/40204-Angies-Dads-Best-Cabbage-Coleslaw-Shearone_5203208_original-1x1-1-9939285fa36a4c6293f4386c1fac8c6c.jpg"
+        }
+    ],
+    "main category": "salads"
+}

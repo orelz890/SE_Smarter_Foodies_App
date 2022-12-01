@@ -1,0 +1,93 @@
+{
+    "title": "Dill Gazpacho",
+    "Category": "Gazpacho",
+    "Ingredients": [
+        {
+            "1": "6 medium ripe tomatoes, finely chopped"
+        },
+        {
+            "2": "2  cucumbers, peeled and finely chopped"
+        },
+        {
+            "3": "1  onion, finely chopped"
+        },
+        {
+            "4": "1  green bell pepper, finely chopped"
+        },
+        {
+            "5": "1 jalapeno pepper, seeded and minced"
+        },
+        {
+            "6": "1 large lemon, juiced"
+        },
+        {
+            "7": "1 tablespoon balsamic vinegar"
+        },
+        {
+            "8": "2 teaspoons olive oil"
+        },
+        {
+            "9": "1 teaspoon kosher salt"
+        },
+        {
+            "10": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "11": "0.25 cup chopped fresh dill"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, stir together tomatoes, cucumber, onion, bell pepper, and jalapeno pepper. Season with lemon juice, balsamic vinegar, olive oil, salt and pepper."
+        },
+        {
+            "2": "In a blender or food processor, puree half of the mixture until smooth. Return to bowl, stir in dill and mix well. Cover and chill for at least one hour before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "58"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8505101.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc5ff0154f5c9ed4c59fc1ba33f8ae351%2F2578103.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F707e7a76d05e7e98b786e6cedf633c15%2F459396.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F756463.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

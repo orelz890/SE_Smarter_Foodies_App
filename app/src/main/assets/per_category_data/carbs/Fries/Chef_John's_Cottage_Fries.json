@@ -1,0 +1,87 @@
+{
+    "title": "Chef John's Cottage Fries",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "4  baking (russet) potatoes, sliced into 3/8-inch thick rounds"
+        },
+        {
+            "2": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "3": "1 pinch cayenne pepper, or to taste"
+        },
+        {
+            "4": "1 pinch herbes de provence, or to taste"
+        },
+        {
+            "5": "2 tablespoons olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "2": "Line a baking sheet with parchment paper or a silicone baking mat and set aside."
+        },
+        {
+            "3": "Combine potatoes, salt, ground black pepper, cayenne pepper, and herbes de provence in a large bowl. Drizzle olive oil over potatoes and stir to evenly coat."
+        },
+        {
+            "4": "Place potatoes on baking sheet, spaced evenly, and bake in the preheated oven for 15 minutes."
+        },
+        {
+            "5": "Remove from oven, flip over each potato slice, and return to the oven for another 15 minutes. Continue cooking and flipping until potatoes are well browned, about 30 minutes. Potatoes should be crispy around edges, but still soft in the center."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "187"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7138584.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa15b60f4f3bc9263367663f322df0053%2F6616845.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Face41ba443e692d8c46ffab3679e620a%2F6264218.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F99d9fde87d5da1d3c01c77af7a6763a2%2F5988807.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/mf9l1oSk1oxr1frH9VduBRFUYJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/833264-f1ca0bf4e9be48d0bb5290013cff75ce.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

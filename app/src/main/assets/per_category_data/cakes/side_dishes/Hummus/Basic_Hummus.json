@@ -1,0 +1,75 @@
+{
+    "title": "Basic Hummus",
+    "Category": "Hummus",
+    "Ingredients": [
+        {
+            "1": "2 cloves garlic, peeled and crushed"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "1 (15 ounce) can garbanzo beans, drained, liquid reserved"
+        },
+        {
+            "4": "1 tablespoon sesame seeds"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium saucepan over medium heat, cook and stir the garlic in olive oil for approximately 3 minutes, until tender."
+        },
+        {
+            "2": "Place garbanzo beans in a blender or food processor with approximately 1 teaspoon reserved liquid. Process until smooth. Mix in the garlic, sesame seeds, salt and pepper. Blend to desired consistency, increasing the amount of reserved garbanzo bean liquid as desired. Chill in the refrigerator until serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 1/2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "53"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9443506.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8287588.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5094824.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff3674846b1f0615f89d7bec3d588bf1c%2F1050029.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

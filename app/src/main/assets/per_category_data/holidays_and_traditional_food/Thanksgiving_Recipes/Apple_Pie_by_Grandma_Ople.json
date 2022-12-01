@@ -1,0 +1,108 @@
+{
+    "title": "Apple Pie by Grandma Ople",
+    "Category": "Thanksgiving Recipes",
+    "Ingredients": [
+        {
+            "1": "8 small Granny Smith apples, or as needed"
+        },
+        {
+            "2": "0.5 cup unsalted butter"
+        },
+        {
+            "3": "3 tablespoons all-purpose flour"
+        },
+        {
+            "4": "0.5 cup white sugar"
+        },
+        {
+            "5": "0.5 cup packed brown sugar"
+        },
+        {
+            "6": "0.25 cup water"
+        },
+        {
+            "7": "1 (9 inch) double-crust pie pastry, thawed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Peel and core apples, then thinly slice. Set aside."
+        },
+        {
+            "2": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "3": "Melt butter in a saucepan over medium heat. Add flour and stir to form a paste; cook until fragrant, about 1 to 2 minutes. Add both sugars and water; bring to a boil. Reduce the heat to low and simmer for 3 to 5 minutes. Remove from the heat."
+        },
+        {
+            "4": "Press one pastry into the bottom and up the sides of a 9-inch pie pan. Roll out remaining pastry so it will overhang the pie by about 1/2 inch. Cut pastry into eight 1-inch strips."
+        },
+        {
+            "5": "Place sliced apples into the bottom crust, forming a slight mound. Lay four pastry strips vertically and evenly spaced over apples, using longer strips in the center and shorter strips at the edges."
+        },
+        {
+            "6": "Make a lattice crust: Fold the first and third strips all the way back so they're almost falling off the pie. Lay one of the unused strips perpendicularly over the second and fourth strips, then unfold the first and third strips back into their original position."
+        },
+        {
+            "7": "Fold the second and fourth vertical strips back. Lay one of the three unused strips perpendicularly over top. Unfold the second and fourth strips back into their original position."
+        },
+        {
+            "8": "Repeat Steps 6 and 7 to weave in the last two strips of pastry. Fold and trim excess dough at the edges as necessary, and pinch to secure."
+        },
+        {
+            "9": "Slowly and gently pour sugar-butter mixture over lattice crust, making sure it seeps over sliced apples. Brush some onto lattice, but make sure it doesn't run off the sides."
+        },
+        {
+            "10": "Bake in the preheated oven for 15 minutes. Reduce the temperature to 350 degrees F (175 degrees C) and continue baking until apples are soft, 35 to 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "373"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "52g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa82914d650ae39c21d85b517506d91ad%2F166933519305516693351833629000894083381182740.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa82914d650ae39c21d85b517506d91ad%2F16690432352399109F89B-E2E4-447F-91C0-E484F295E1FC.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa82914d650ae39c21d85b517506d91ad%2F1668906940768B7DD7F66-97B5-4741-B088-8B7E96213585.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa82914d650ae39c21d85b517506d91ad%2F166889752525920221006_175221.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/1I95oiTGz6aEpuHd2DAr33w7Mgg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12682-apple-pie-by-grandma-ople-natasha-titanov-1x1-1-7f1cd9f631d24ff0b90cac0163247686.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

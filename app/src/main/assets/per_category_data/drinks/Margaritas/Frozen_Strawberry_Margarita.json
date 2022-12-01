@@ -1,0 +1,56 @@
+{
+    "title": "Frozen Strawberry Margarita",
+    "Category": "Margaritas",
+    "Ingredients": [
+        {
+            "1": "6 fluid ounces tequila"
+        },
+        {
+            "2": "2 fluid ounces triple sec"
+        },
+        {
+            "3": "8 ounces frozen strawberries"
+        },
+        {
+            "4": "4 fluid ounces frozen limeade concentrate"
+        },
+        {
+            "5": "6 cups ice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place ice in a blender and crush for 15 to 20 seconds. Add frozen strawberries, tequila, triple sec, and limeade. Blend until smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2861d53ec695e063635bebab2a84dbf4%2F5373789.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5373739.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F92506f8b3f27e138e0b71270a6226dd2%2F5371664.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5208739.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

@@ -1,0 +1,66 @@
+{
+    "title": "No Cook Icing",
+    "Category": "Frosting and Icing Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup white sugar"
+        },
+        {
+            "2": "1  egg white"
+        },
+        {
+            "3": "1 teaspoon vanilla extract"
+        },
+        {
+            "4": "0.25 teaspoon cream of tartar"
+        },
+        {
+            "5": "0.5 cup boiling water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium bowl, stir together the white sugar, egg white, vanilla, cream of tartar, and boiling water. Beat using an electric mixer until stiff peaks form. If you have a stand mixer, use the whisk attachment."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "67"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F046e43a615066550b10abb5def54d3b5%2F1664289313image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F046e43a615066550b10abb5def54d3b5%2F164805495720220322_132029%7E2.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9441508.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9207110.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

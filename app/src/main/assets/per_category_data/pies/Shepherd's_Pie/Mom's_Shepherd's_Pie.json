@@ -1,0 +1,105 @@
+{
+    "title": "Mom's Shepherd's Pie",
+    "Category": "Shepherd's Pie",
+    "Ingredients": [
+        {
+            "1": "9  potatoes - peeled and cubed"
+        },
+        {
+            "2": "0.5 pounds ground beef"
+        },
+        {
+            "3": "1 (6 ounce) can tomato sauce"
+        },
+        {
+            "4": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "5": "1 dash Worcestershire sauce"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "8": "2 (15 ounce) cans green beans, drained"
+        },
+        {
+            "9": "3 tablespoons water"
+        },
+        {
+            "10": "2 tablespoons all-purpose flour"
+        },
+        {
+            "11": "2 tablespoons milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Place potatoes and water to cover in a large pot. Bring to a boil over high heat; lower heat and simmer until tender, about 15 minutes."
+        },
+        {
+            "3": "Meanwhile, brown ground beef in a large skillet over medium-high heat; drain excess fat."
+        },
+        {
+            "4": "Add tomato sauce, parsley, Worcestershire sauce, salt, ground black pepper, and green beans to the skillet."
+        },
+        {
+            "5": "In a small bowl, mix water and flour together; stir into the skillet."
+        },
+        {
+            "6": "Drain and mash potatoes. Spread potatoes over beef mixture. Poke 2 to 3 vent holes through top to release steam as casserole bakes."
+        },
+        {
+            "7": "Bake in the preheated oven for 20 minutes. Brush milk over potatoes and bake 5 minutes longer."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "35 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "638"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "64g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F45d3c7eee34fabdf4bfdd4450c6cd6cb%2F166424580944A28DAC-E2C9-4C2F-90DC-C165798B08EC.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6297255.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5088640.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4465048.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

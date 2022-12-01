@@ -1,0 +1,90 @@
+{
+    "title": "Oh My Arctic Char!",
+    "Category": "Main Dishes",
+    "Ingredients": [
+        {
+            "1": "1 (10 ounce) fillet arctic char, rinsed and patted dry"
+        },
+        {
+            "2": "1 sea salt to taste"
+        },
+        {
+            "3": "1  lime, zested and juiced"
+        },
+        {
+            "4": "0.25 cup olive oil"
+        },
+        {
+            "5": "0.25 cup sherry wine"
+        },
+        {
+            "6": "3 sprigs rosemary, leaves stripped"
+        },
+        {
+            "7": "2 cloves garlic"
+        },
+        {
+            "8": "0.25 teaspoon cayenne pepper, or to taste"
+        },
+        {
+            "9": "1 ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C). Line a baking dish with aluminum foil."
+        },
+        {
+            "2": "Season arctic char with sea salt, place in the prepared baking dish, and sprinkle with lime zest."
+        },
+        {
+            "3": "Combine lime juice, olive oil, sherry, rosemary, and garlic in a food processor; pulse until garlic is finely chopped. Spread mixture over fish; season with cayenne pepper and black pepper."
+        },
+        {
+            "4": "Bake in the preheated oven until fish flakes easily with a fork, 12 to 15 minutes, basting with pan juices about halfway through. When fish is close to being fully cooked, switch the oven to broil. Cook until the top is browned, about 2 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "545"
+        },
+        {
+            "Fat": "39g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff6f2a9d0adf49e755e4afee6c7297613%2F1669186909043oh-my-arctic-char.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7802601.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7796905.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7126601.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

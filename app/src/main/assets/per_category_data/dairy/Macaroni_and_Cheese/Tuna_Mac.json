@@ -1,0 +1,87 @@
+{
+    "title": "Tuna Mac",
+    "Category": "Macaroni and Cheese",
+    "Ingredients": [
+        {
+            "1": "6 cups water"
+        },
+        {
+            "2": "1 (7.25 ounce) package macaroni and cheese dinner mix"
+        },
+        {
+            "3": "0.25 cup margarine, cut into pieces"
+        },
+        {
+            "4": "0.25 cup milk"
+        },
+        {
+            "5": "1 (5 ounce) can tuna, drained and flaked"
+        },
+        {
+            "6": "1 (4.5 ounce) can sliced mushrooms, drained"
+        },
+        {
+            "7": "1 cup bread crumbs"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Bring water to boil in a saucepan. Cook macaroni at a boil, stirring occasionally, until tender, 7 to 8 minutes; drain."
+        },
+        {
+            "3": "Return macaroni to the saucepan. Stir cheese sauce mixture from the packet, margarine, and milk into the macaroni until the margarine melts and the macaroni is evenly coated in sauce. Add tuna and mushrooms; stir. Pour macaroni mixture into a small casserole dish; top with bread crumbs."
+        },
+        {
+            "4": "Bake in preheated oven until hot, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "447"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "56g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9114510.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8198153.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8041991.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7927408.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dairy"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Cinnamon and Lime Chicken Fajitas",
+    "Category": "Fajitas",
+    "Ingredients": [
+        {
+            "1": "4  boneless, skinless chicken breast halves"
+        },
+        {
+            "2": "1 tablespoon ground cinnamon"
+        },
+        {
+            "3": "1 salt and pepper to taste"
+        },
+        {
+            "4": "2 large baking potatoes, peeled and cubed"
+        },
+        {
+            "5": "0.25 cup canola oil"
+        },
+        {
+            "6": "1 large yellow onion, chopped"
+        },
+        {
+            "7": "1 large clove garlic, peeled and minced"
+        },
+        {
+            "8": "1 tablespoon chopped jalapeno peppers"
+        },
+        {
+            "9": "1  lime, juiced"
+        },
+        {
+            "10": "12 (6 inch) corn tortillas, warmed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Place potatoes in a shallow baking dish. Drizzle with about 1/2 the oil, and season with salt. Bake 30 to 40 minutes in the preheated oven, until tender."
+        },
+        {
+            "3": "Meanwhile, season chicken with cinnamon, salt, and pepper. Arrange in a separate baking dish, and bake 30 minutes in the preheated oven, until no longer pink and juices run clear. Cool and shred."
+        },
+        {
+            "4": "Heat remaining oil in a skillet over medium heat, and saute onion and garlic until tender. Mix in shredded chicken, jalapeno, and lime juice. Cook until heated through."
+        },
+        {
+            "5": "Serve the chicken and potatoes in warmed tortillas."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "395"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1198079.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F16188.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F15803.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

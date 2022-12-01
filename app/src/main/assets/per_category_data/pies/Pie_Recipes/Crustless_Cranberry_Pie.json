@@ -1,0 +1,99 @@
+{
+    "title": "Crustless Cranberry Pie",
+    "Category": "Pie Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup all-purpose flour"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "0.25 teaspoon salt"
+        },
+        {
+            "4": "2 cups cranberries"
+        },
+        {
+            "5": "0.5 cup chopped walnuts"
+        },
+        {
+            "6": "0.5 cup butter, melted"
+        },
+        {
+            "7": "2 large eggs, beaten"
+        },
+        {
+            "8": "1 teaspoon almond extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9-inch pie pan."
+        },
+        {
+            "2": "Combine flour, sugar, and salt in a bowl. Add cranberries and walnuts, and toss to coat. Stir in melted butter, beaten eggs, and almond extract. Spread the batter into the prepared pan."
+        },
+        {
+            "3": "Bake in the preheated oven until a toothpick inserted near the center comes our clean, about 40 minutes. Serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "335"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1f92930e32133b22494ee1169089a190%2F1667439712074AE7FA68C-30F7-4734-935C-FF742A485263.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe3b9e0270819c6ecf733af9c43787f8c%2F164375462320220201_162333.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9410281.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9101956.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/DWWgQmt4aS4IE_lDPmt29R_zGjw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12398-crustless-cranberry-pie-VAT-hero-4x3-1-d069d10485214347b6d0e6b3d364d690.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/UVH6pywatYRQUGkLPX4mz3HGcTs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/753796-6f22e6e6a5aa4841b21e4fa799a3176f.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/cmieLrPFw7RtS__LtlhkIGV_kwY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Crustless-Cranberry-Pie-3bed1aff6ea844b48f4a7f77a3082399.jpg"
+        },
+        {
+            "img8": "https://www.allrecipes.com/thmb/TBOXiA8RJBAgYzzVKNBOZj4taGk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12398-crustless-cranberry-pie-VAT-hero-1x1-1-c4eede0bb6b642d59a51d0940022ee73.jpg"
+        }
+    ],
+    "main category": "pies"
+}

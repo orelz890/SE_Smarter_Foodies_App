@@ -1,0 +1,75 @@
+{
+    "title": "Fresh Raspberry Mojito",
+    "Category": "Mojitos",
+    "Ingredients": [
+        {
+            "1": "4  fresh mint leaves"
+        },
+        {
+            "2": "4  fresh raspberries"
+        },
+        {
+            "3": "0.5 fluid ounce simple syrup"
+        },
+        {
+            "4": "0.5 fluid ounce lime juice"
+        },
+        {
+            "5": "1 ice"
+        },
+        {
+            "6": "1 fluid ounce raspberry-flavored vodka"
+        },
+        {
+            "7": "1 fluid ounce silver rum"
+        },
+        {
+            "8": "2 fluid ounces club soda"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Muddle mint leaves, raspberries, simple syrup, and lime juice together in a shaker. Fill the shaker with ice and add vodka and rum; cover and shake until chilled. Pour entire contents of shaker into a Collins glass and top with club soda."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 cocktail"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "174"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4461983.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F17b4835a0689be73577615d0b4bb7a7b%2F3669567.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://www.allrecipes.com/thmb/NcsWrFQVXxZncbnVfZK-QEVu4Bw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3669567-cdc8f49514164bc5b74b6de9850978b2.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

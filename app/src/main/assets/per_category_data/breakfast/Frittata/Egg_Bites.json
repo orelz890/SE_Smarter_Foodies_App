@@ -1,0 +1,96 @@
+{
+    "title": "Egg Bites",
+    "Category": "Frittata",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "5 small tri-color baby potatoes, thinly sliced"
+        },
+        {
+            "3": "0.25 stick butter"
+        },
+        {
+            "4": "10 small eggs"
+        },
+        {
+            "5": "1 small yellow bell pepper, finely chopped"
+        },
+        {
+            "6": "1 small tomato, finely chopped"
+        },
+        {
+            "7": "0.5 cup fresh spinach"
+        },
+        {
+            "8": "0.25 cup chopped ham"
+        },
+        {
+            "9": "0.25 cup chopped white onion"
+        },
+        {
+            "10": "1 slice mozzarella cheese, cut into 12 cubes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Spray a 12-cup muffin tin with nonstick cooking spray."
+        },
+        {
+            "2": "Place a thin layer of potato slices in the bottom of each muffin cup. Add a little butter on top."
+        },
+        {
+            "3": "Bake in the preheated oven for 5 minutes."
+        },
+        {
+            "4": "Mix together eggs, bell pepper, tomato, spinach, ham, and onion in a large bowl. Ladle egg mixture over warm potatoes. Top each muffin cup with a mozzarella cube."
+        },
+        {
+            "5": "Continue baking until eggs are set, about 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 egg bites"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "108"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8568088.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F553d73c79f2a445c3551b4f0e10de8c9%2F7675228.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5562256.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

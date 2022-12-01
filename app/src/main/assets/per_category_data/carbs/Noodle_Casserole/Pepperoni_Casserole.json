@@ -1,0 +1,90 @@
+{
+    "title": "Pepperoni Casserole",
+    "Category": "Noodle Casserole",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package uncooked rotini pasta"
+        },
+        {
+            "2": "1 pound ground Italian sausage"
+        },
+        {
+            "3": "1 (16 ounce) jar pasta sauce"
+        },
+        {
+            "4": "2 (12 ounce) containers cottage cheese"
+        },
+        {
+            "5": "1 (2.25 ounce) can sliced black olives"
+        },
+        {
+            "6": "12 ounces shredded mozzarella cheese"
+        },
+        {
+            "7": "2 (3 ounce) packages sliced pepperoni"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a medium casserole dish."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Place pasta in the pot, cook for 8 to 10 minutes, until al dente, and drain."
+        },
+        {
+            "3": "In a skillet over medium heat, cook the sausage until evenly brown."
+        },
+        {
+            "4": "In the prepared casserole dish, mix the cooked pasta, sausage, and pasta sauce. In a bowl, mix the cottage cheese, olives, and mozzarella cheese. Spoon the cheese mixture over the sausage and pasta mixture. Top with pepperoni slices."
+        },
+        {
+            "5": "Bake 25 minutes in the preheated oven, until bubbly and lightly browned."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "694"
+        },
+        {
+            "Fat": "34g"
+        },
+        {
+            "Carbs": "54g"
+        },
+        {
+            "Protein": "41g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9014711.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8995657.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8995655.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8971210.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

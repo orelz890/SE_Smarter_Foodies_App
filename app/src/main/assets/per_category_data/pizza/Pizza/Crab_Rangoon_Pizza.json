@@ -1,0 +1,99 @@
+{
+    "title": "Crab Rangoon Pizza",
+    "Category": "Pizza",
+    "Ingredients": [
+        {
+            "1": "1 cup vegetable oil for frying, or as needed"
+        },
+        {
+            "2": "4  (3.5 inch square) wonton wrappers, cut into strips"
+        },
+        {
+            "3": "1 (16 ounce) package pizza dough"
+        },
+        {
+            "4": "6 ounces cream cheese, softened"
+        },
+        {
+            "5": "6 tablespoons chopped green onions, divided"
+        },
+        {
+            "6": "0.25 cup shredded Parmesan cheese, divided"
+        },
+        {
+            "7": "4 ounces frozen crab meat, thawed"
+        },
+        {
+            "8": "4 ounces shredded mozzarella cheese"
+        },
+        {
+            "9": "2 tablespoons sweet chili sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat vegetable oil in a deep skillet over medium-high heat; fry wonton strips until crisp, 2 to 4 minutes. Transfer to a paper towel-lined plate to drain."
+        },
+        {
+            "2": "Preheat oven to 450 degrees F (230 degrees C). Spread pizza dough onto a baking sheet."
+        },
+        {
+            "3": "Bake in the preheated oven until slightly brown, about 7 minutes."
+        },
+        {
+            "4": "Mix cream cheese, 1/4 cup green onions, 2 tablespoons Parmesan cheese, and crab together in a bowl; spread onto the pizza crust. Top with mozzarella cheese, remaining Parmesan cheese, fried wonton strips, and remaining green onions."
+        },
+        {
+            "5": "Bake in the preheated oven until cheese is browned and melted, about 8 minutes. Drizzle sweet chile sauce over top."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "17 mins"
+        },
+        {
+            "Total Time": "27 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 pizza"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "327"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9442239.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8995377.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8974518.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffb4443528dcf81113a7cc5a5a1191aa2%2F6356955.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/5UbokGLpJP4BQjEMqLqZ2z3FaZI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/97d5424d-fa2902885d5d4e96b80b5b825292b290.jpeg"
+        }
+    ],
+    "main category": "pizza"
+}

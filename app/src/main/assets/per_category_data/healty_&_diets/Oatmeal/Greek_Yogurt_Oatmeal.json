@@ -1,0 +1,87 @@
+{
+    "title": "Greek Yogurt Oatmeal",
+    "Category": "Oatmeal",
+    "Ingredients": [
+        {
+            "1": "0.5 cup rolled oats"
+        },
+        {
+            "2": "0.5  banana, sliced"
+        },
+        {
+            "3": "0.5 teaspoon ground cinnamon (Optional)"
+        },
+        {
+            "4": "1 pinch salt"
+        },
+        {
+            "5": "1 cup water"
+        },
+        {
+            "6": "0.25 cup Greek yogurt"
+        },
+        {
+            "7": "2 tablespoons strawberry jam"
+        },
+        {
+            "8": "1 tablespoon peanut butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine oats, banana, cinnamon, and salt in a microwave-safe bowl; add water and stir. Cook in microwave until water is absorbed, 2 to 3 minutes. Stir to evenly distribute cinnamon; let stand until slightly cooled, about 3 minutes."
+        },
+        {
+            "2": "Spoon Greek yogurt, strawberry jam, and peanut butter over oatmeal; stir."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "2 mins"
+        },
+        {
+            "Additional Time": "3 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 big bowl"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "470"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "73g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8975389.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9c3af4924d00aadc9ceff7683e1ac96f%2F5998316.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4072528.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8438c7ab1b6511105f190c6f0d96d352%2F2614540.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

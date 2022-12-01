@@ -1,0 +1,99 @@
+{
+    "title": "Chocolate Cream Pie",
+    "Category": "Pie Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 cups white sugar"
+        },
+        {
+            "2": "3  egg yolks, beaten"
+        },
+        {
+            "3": "0.5 cup unsweetened cocoa powder"
+        },
+        {
+            "4": "3 tablespoons cornstarch"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "3 cups milk"
+        },
+        {
+            "7": "1 tablespoon butter"
+        },
+        {
+            "8": "0.5 teaspoons vanilla extract"
+        },
+        {
+            "9": "1 (9 inch) pie crust, baked"
+        },
+        {
+            "10": "1 cup frozen whipped topping, thawed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Beat sugar and eggs together in a large bowl until creamy; mix in cocoa powder, cornstarch, and salt until well blended. Gently stir in milk."
+        },
+        {
+            "2": "Pour mixture into a large saucepan. Cook over medium heat, stirring constantly, until boiling. Remove from heat; stir in butter and vanilla extract. Set aside to cool slightly."
+        },
+        {
+            "3": "Pour mixture into pastry shell; chill pie in the refrigerator until set, 2 to 4 hours. Garnish with whipped topping."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "360"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "58g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F076f055d51d5418751464dbb10f00913%2F166932021789916693201977454829113568908655211.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F076f055d51d5418751464dbb10f00913%2F16692564375455B95DBEE-A46F-4272-A2BC-4E7B0034F648.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdd8dd38361caf862e11eedd8eff9f6ca%2F1650497825Screenshot_20220418-224458_Gallery.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdd8dd38361caf862e11eedd8eff9f6ca%2F1650373970Homemade%2520Chocolate%2520Creme%2520Pie.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/D2q4iXNw8psWlfL5DRT-X4_1vh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/999684-chocolate-cream-pie-Sue-Garzone-1x1-1-28b6a6fabb004f23be3904542245588c.jpg"
+        }
+    ],
+    "main category": "pies"
+}

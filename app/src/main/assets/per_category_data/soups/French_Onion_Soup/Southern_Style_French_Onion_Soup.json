@@ -1,0 +1,87 @@
+{
+    "title": "Southern Style French Onion Soup",
+    "Category": "French Onion Soup",
+    "Ingredients": [
+        {
+            "1": "4 tablespoons butter"
+        },
+        {
+            "2": "1  onion, sliced"
+        },
+        {
+            "3": "0.5 teaspoon dried thyme"
+        },
+        {
+            "4": "5 (10.5 ounce) cans beef consomme"
+        },
+        {
+            "5": "6  bay leaves"
+        },
+        {
+            "6": "0.5 cup white wine (Optional)"
+        },
+        {
+            "7": "1  French baguette, cut into 1/2 inch slices"
+        },
+        {
+            "8": "2 cups shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Melt the butter in a large skillet over medium high heat. Place the onion in the butter and saute for 5 to 10 minutes, or until tender. Stir in the thyme and remove from heat."
+        },
+        {
+            "3": "In a large pot over high heat, combine the consomme, bay leaves and white wine, if desired. Bring to a boil, reduce heat to low, stir in the sauteed onions and allow to heat through, about 10 to 15 minutes."
+        },
+        {
+            "4": "Ladle soup into 4 individual oven-safe bowls, filling each about 3/4 of the way. Top each bowl with 2 slices of baguette bread and then cover each with the cheese."
+        },
+        {
+            "5": "Bake at 375 degrees F (190 degrees C) for 10 to 15 minutes, or until cheese is melted and bubbly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "662"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "69g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F113575.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F113580.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

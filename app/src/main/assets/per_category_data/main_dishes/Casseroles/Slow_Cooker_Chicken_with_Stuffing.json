@@ -1,0 +1,75 @@
+{
+    "title": "Slow Cooker Chicken with Stuffing",
+    "Category": "Casseroles",
+    "Ingredients": [
+        {
+            "1": "4  skinless, boneless chicken breasts"
+        },
+        {
+            "2": "1 cup chicken broth"
+        },
+        {
+            "3": "1 (10.5 ounce) can cream of chicken soup"
+        },
+        {
+            "4": "1 (6 ounce) box stuffing mix"
+        },
+        {
+            "5": "0.5 cup water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place chicken into the bottom of a slow cooker. Pour broth over chicken."
+        },
+        {
+            "2": "Mix soup, stuffing mix, and water in a bowl; spoon on top of chicken."
+        },
+        {
+            "3": "Cook in the slow cooker on Low for 7 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 7 hrs"
+        },
+        {
+            "Total Time": " 7 hrs 5 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "356"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8823801.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8736495.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8610607.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F32e9557d606978e383e75efe1314db52%2F6134633.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

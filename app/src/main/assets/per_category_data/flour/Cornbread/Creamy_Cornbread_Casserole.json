@@ -1,0 +1,84 @@
+{
+    "title": "Creamy Cornbread Casserole",
+    "Category": "Cornbread",
+    "Ingredients": [
+        {
+            "1": "1 (15 ounce) can whole kernel corn, drained and 1/2 liquid reserved"
+        },
+        {
+            "2": "1 (14.75 ounce) can cream-style corn"
+        },
+        {
+            "3": "2  eggs"
+        },
+        {
+            "4": "1 (8 ounce) package dry corn bread mix"
+        },
+        {
+            "5": "1 cup sour cream"
+        },
+        {
+            "6": "8 ounces Cheddar cheese, shredded"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Lightly grease a 9x13 inch baking pan."
+        },
+        {
+            "2": "In a large mixing bowl, combine corn, reserved liquid, eggs, corn bread mix and sour cream; stir until blended. Pour batter into prepared pan; sprinkle with cheese."
+        },
+        {
+            "3": "Bake in preheated oven for 30 minutes, until golden brown."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 - 9x13 inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "255"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2dab57dd25bea976f1e1e23b670fa5e3%2F1653949304image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9435567.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9011665.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8809546.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/rfrCQ_rt_d1GCi2v9JXuwCBU3Uw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/103842-47d45d3d16674eb0b684ad418fc27459.jpg"
+        }
+    ],
+    "main category": "flour"
+}

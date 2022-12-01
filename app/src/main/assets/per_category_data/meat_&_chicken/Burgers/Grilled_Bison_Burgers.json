@@ -1,0 +1,96 @@
+{
+    "title": "Grilled Bison Burgers",
+    "Category": "Burgers",
+    "Ingredients": [
+        {
+            "1": "1 pound ground bison"
+        },
+        {
+            "2": "0.5 cup panko bread crumbs"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "3 tablespoons Worcestershire sauce"
+        },
+        {
+            "5": "4 dashes hot sauce (such as Tabasco\u00ae)"
+        },
+        {
+            "6": "1 pinch granulated garlic"
+        },
+        {
+            "7": "1 pinch ground black pepper"
+        },
+        {
+            "8": "1 olive oil cooking spray"
+        },
+        {
+            "9": "4 slices American cheese"
+        },
+        {
+            "10": "4  hamburger buns, split and toasted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for high heat and lightly oil the grate."
+        },
+        {
+            "2": "Mix bison, bread crumbs, egg, Worcestershire sauce, hot sauce, garlic, and pepper together by hand in a large bowl; form into 4 patties. Place patties on a baking sheet. Cover with aluminum foil and refrigerate until chilled, about 15 minutes."
+        },
+        {
+            "3": "Spray patties with cooking spray and cook on the preheated grill until hot and slightly pink in the center, about 5 minutes per side. Top each patty with a slice of cheese; continue cooking until cheese melts, about 2 minutes more. An instant-read thermometer inserted into the center should read 140 degrees F (60 degrees C)."
+        },
+        {
+            "4": "Sandwich patties between toasted bun halves."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "393"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "33g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8166488.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5447771.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F366ed0df6d8c5fe0b4f9563acda04021%2F4881596.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4507749.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Eggless French Toast",
+    "Category": "French Toast",
+    "Ingredients": [
+        {
+            "1": "1 cup milk"
+        },
+        {
+            "2": "2 teaspoons ground cinnamon"
+        },
+        {
+            "3": "1 teaspoon vanilla extract"
+        },
+        {
+            "4": "4 slices white bread"
+        },
+        {
+            "5": "1 teaspoon butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk milk, cinnamon, and vanilla extract together in a shallow bowl."
+        },
+        {
+            "2": "Press each slice of bread lightly into the milk mixture to coat both sides, removing it before it gets soaked."
+        },
+        {
+            "3": "Melt butter in a skillet over medium heat. Cook coated slices in batches until golden brown and somewhat firm, 5 to 8 minutes per side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "112"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb860ec9182f8af8205ea34559b909663%2F1664026883image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb860ec9182f8af8205ea34559b909663%2F166022337016602233581957957849612103030383.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8017111.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6933884.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

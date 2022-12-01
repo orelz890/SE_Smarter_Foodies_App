@@ -1,0 +1,96 @@
+{
+    "title": "Buffalo Chicken Nacho Bowl",
+    "Category": "Nachos",
+    "Ingredients": [
+        {
+            "1": "1 pound shredded rotisserie chicken"
+        },
+        {
+            "2": "0.25 cup Buffalo wing sauce"
+        },
+        {
+            "3": "1 (16 ounce) package tortilla chips"
+        },
+        {
+            "4": "1 (15 ounce) can black beans, rinsed and drained"
+        },
+        {
+            "5": "1 (8 ounce) package shredded sharp Cheddar cheese"
+        },
+        {
+            "6": "0.5 cup sour cream"
+        },
+        {
+            "7": "0.25 cup crumbled blue cheese"
+        },
+        {
+            "8": "1 tablespoon chopped jalapeno peppers, or to taste"
+        },
+        {
+            "9": "1 tablespoon chopped green onion, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "2": "Combine chicken and Buffalo wing sauce in a bowl."
+        },
+        {
+            "3": "Place 1 layer tortilla chips in the bottom of a baking dish; top with a layer of Buffalo chicken mixture, black beans, and Cheddar cheese. Continue layering with remaining tortilla chips, Buffalo chicken mixture, black beans, and Cheddar cheese."
+        },
+        {
+            "4": "Bake in the preheated oven until cheese is melted, 10 to 15 minutes. Cover the nachos with aluminum foil if the top is getting too dark."
+        },
+        {
+            "5": "Top nachos with sour cream, blue cheese, jalapeno peppers, and green onion."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "613"
+        },
+        {
+            "Fat": "34g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8533975.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1fe3ecfc993eb7163b2d38d323808212%2F4466636.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F27f1a14cdaf065cc7180fbd5cf4725a0%2F4466599.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb9fbebcf627af990b309f4e2fb7482c6%2F4466477.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

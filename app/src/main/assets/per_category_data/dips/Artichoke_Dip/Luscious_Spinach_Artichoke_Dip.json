@@ -1,0 +1,84 @@
+{
+    "title": "Luscious Spinach Artichoke Dip",
+    "Category": "Artichoke Dip",
+    "Ingredients": [
+        {
+            "1": "1 (14 ounce) can artichoke hearts, drained and chopped"
+        },
+        {
+            "2": "0.5 (10 ounce) package frozen chopped spinach, thawed"
+        },
+        {
+            "3": "0.5 cup sour cream"
+        },
+        {
+            "4": "0.25 cup mayonnaise"
+        },
+        {
+            "5": "0.25 cup cream cheese"
+        },
+        {
+            "6": "0.25 cup grated Romano cheese"
+        },
+        {
+            "7": "0.25 teaspoon minced garlic"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "In a small baking dish, mix together artichoke hearts, spinach, sour cream, mayonnaise, cream cheese, Romano cheese, and garlic. Cover dish."
+        },
+        {
+            "3": "Bake until heated through and bubbly, about 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "50"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8537790.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8363174.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8246948.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F793cd2c0dc5aad7d2487a0f0dee3d6fc%2F7622570.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

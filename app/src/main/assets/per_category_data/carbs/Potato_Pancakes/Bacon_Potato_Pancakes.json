@@ -1,0 +1,90 @@
+{
+    "title": "Bacon Potato Pancakes",
+    "Category": "Potato Pancakes",
+    "Ingredients": [
+        {
+            "1": "4 slices bacon"
+        },
+        {
+            "2": "4  Idaho potatoes, peeled and shredded"
+        },
+        {
+            "3": "0.25 cup all-purpose flour"
+        },
+        {
+            "4": "2  eggs"
+        },
+        {
+            "5": "4  garlic cloves, minced"
+        },
+        {
+            "6": "1 tablespoon chopped fresh thyme"
+        },
+        {
+            "7": "1 salt and ground black pepper to taste"
+        },
+        {
+            "8": "1 vegetable oil for frying, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook bacon in a skillet over medium heat until crisp, 3 to 5 minutes. Transfer to a paper towel-lined plate to drain; let cool and crumble. Reserve bacon drippings in skillet."
+        },
+        {
+            "2": "Combine crumbled bacon, potatoes, flour, eggs, garlic, thyme, salt, and black pepper in a large bowl."
+        },
+        {
+            "3": "Pour vegetable oil about 1/4-inch deep into skillet with bacon drippings and place over medium heat; heat until the oil and bacon drippings shimmer."
+        },
+        {
+            "4": "Gently drop potato mixture by heaping tablespoon into hot oil and flatten potatoes into small patties about 3 inches in diameter. Cook until browned, about 3 minutes on each side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "257"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7761598.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4129020.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0b0e86ba95f237564be9bb3d4e937150%2F1035027.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F810716.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

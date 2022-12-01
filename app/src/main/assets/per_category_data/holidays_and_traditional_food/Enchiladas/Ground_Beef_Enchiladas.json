@@ -1,0 +1,99 @@
+{
+    "title": "Ground Beef Enchiladas",
+    "Category": "Enchiladas",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds lean ground beef"
+        },
+        {
+            "2": "1 bunch green onions, finely chopped"
+        },
+        {
+            "3": "1  diced fresh jalapeno pepper, or to taste"
+        },
+        {
+            "4": "0.25 cup water"
+        },
+        {
+            "5": "1 (1.25 ounce) package taco seasoning mix"
+        },
+        {
+            "6": "1 cup plain yogurt"
+        },
+        {
+            "7": "1 (10.75 ounce) can  condensed cream of chicken soup"
+        },
+        {
+            "8": "2 cups shredded mozzarella cheese"
+        },
+        {
+            "9": "6 (6 inch) corn tortillas"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "In a large skillet over medium heat, cook the ground beef, green onion, and jalapeno pepper until the beef is evenly brown. Stir in water and taco seasoning. Simmer until water has evaporated."
+        },
+        {
+            "3": "In a medium bowl, mix together yogurt, condensed soup, and cheese."
+        },
+        {
+            "4": "Divide the meat mixture evenly between tortillas. Place a couple of tablespoons of cheese mixture over meat, and roll up. Place in a 7x11 inch baking dish. Repeat for each tortilla. Spoon remaining cheese mixture over the top of the tortillas."
+        },
+        {
+            "5": "Bake in preheated oven for 20 to 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "556"
+        },
+        {
+            "Fat": "34g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc6e1c61d434be49d36baded53c0d7b46%2F1652920573ground%2520beef%2520enchiladas.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9302035.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9238786.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9152161.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/8fJOb7gw4iS5xLOCNJ7uWMX_yRw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1937864-da7f00ca8a0a406e95fffbd946cad24f.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

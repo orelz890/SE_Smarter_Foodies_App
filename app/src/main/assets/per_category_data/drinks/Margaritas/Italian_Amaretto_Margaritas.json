@@ -1,0 +1,56 @@
+{
+    "title": "Italian Amaretto Margaritas",
+    "Category": "Margaritas",
+    "Ingredients": [
+        {
+            "1": "4 fluid ounces amaretto liqueur, plus additional"
+        },
+        {
+            "2": "1 white sugar"
+        },
+        {
+            "3": "6 fluid ounces frozen limeade concentrate"
+        },
+        {
+            "4": "6 fluid ounces tequila"
+        },
+        {
+            "5": "0.5 cup orange juice"
+        },
+        {
+            "6": "6 cups ice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Dip the rims of 4 margarita glasses in amaretto, then into sugar; set aside. Pour the limeaid, tequila, amaretto, orange juice, and ice into the bowl of a blender. Puree until smooth, then pour into prepared glasses."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc182d1d1f69266edb2b455caa060ad80%2F5362552.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F289726.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F222123.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

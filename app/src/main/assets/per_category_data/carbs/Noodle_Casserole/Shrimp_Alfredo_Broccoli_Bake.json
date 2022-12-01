@@ -1,0 +1,87 @@
+{
+    "title": "Shrimp Alfredo Broccoli Bake",
+    "Category": "Noodle Casserole",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package angel hair pasta"
+        },
+        {
+            "2": "1  serving cooking spray"
+        },
+        {
+            "3": "1 pound raw peeled and deveined shrimp, slightly thawed if frozen"
+        },
+        {
+            "4": "2 cups chopped broccoli"
+        },
+        {
+            "5": "0.5 cups Alfredo sauce"
+        },
+        {
+            "6": "0.5 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook angel hair in the boiling water, stirring occasionally, until tender yet firm to the bite, 4 to 5 minutes. Drain."
+        },
+        {
+            "2": "Preheat oven to 350 degrees F (175 degrees C). Grease a 2-quart casserole dish with cooking spray."
+        },
+        {
+            "3": "Cook and stir shrimp in a skillet over medium heat until slightly pink, 3 to 5 minutes. Add broccoli; cover skillet and let broccoli steam, about 5 minutes. Remove from heat."
+        },
+        {
+            "4": "Spread angel hair pasta over the bottom of the prepared baking dish. Top with shrimp and broccoli. Pour Alfredo sauce over shrimp and broccoli; cover sauce with Parmesan cheese."
+        },
+        {
+            "5": "Bake in the preheated oven until cheese is slightly browned, about 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "37 mins"
+        },
+        {
+            "Total Time": "47 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "577"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe7bb4181711976be1061ebe34978a9a3%2F166181883816618188201801512618506863196135.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9370736.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9354608.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9198989.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

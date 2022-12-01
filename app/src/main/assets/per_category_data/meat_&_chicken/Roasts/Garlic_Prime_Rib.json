@@ -1,0 +1,90 @@
+{
+    "title": "Garlic Prime Rib",
+    "Category": "Roasts",
+    "Ingredients": [
+        {
+            "1": "1 (10 pound) prime rib roast"
+        },
+        {
+            "2": "10 cloves garlic, minced"
+        },
+        {
+            "3": "2 tablespoons olive oil"
+        },
+        {
+            "4": "2 teaspoons salt"
+        },
+        {
+            "5": "2 teaspoons ground black pepper"
+        },
+        {
+            "6": "2 teaspoons dried thyme"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place roast in a roasting pan with the fatty side up. Mix garlic, olive oil, salt, pepper, and thyme together in a small bowl. Spread mixture over the top of roast; let roast sit out until it is at room temperature, no longer than 1 hour."
+        },
+        {
+            "2": "Preheat the oven to 500 degrees F (260 degrees C)."
+        },
+        {
+            "3": "Bake roast in the preheated oven for 30 minutes; reduce the temperature to 325 degrees F (165 degrees C), and continue roasting for an additional 60 to 75 minutes. The internal temperature of the roast should be at 135 degrees F (57 degrees C) for medium rare."
+        },
+        {
+            "4": "Allow roast to rest for 10 or 15 minutes before carving so the meat can retain its juices."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 30 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 10 mins"
+        },
+        {
+            "Total Time": " 2 hrs 50 mins"
+        },
+        {
+            "Servings": "15 "
+        },
+        {
+            "Yield": "1 10-pound roast"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "562"
+        },
+        {
+            "Fat": "48g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9435980.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9435982.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9249428.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9000594.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/iP7QxYjstweye6S0GE8-cnUQ21s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6036515-47e7fab5e0f040fbac6409a73e3b9868.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

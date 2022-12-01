@@ -1,0 +1,93 @@
+{
+    "title": "Easy Tortellini Salad",
+    "Category": "Tortellini",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package dried spinach tortellini"
+        },
+        {
+            "2": "1 (8 ounce) package dried three-cheese tortellini"
+        },
+        {
+            "3": "1 cup grape tomatoes, halved"
+        },
+        {
+            "4": "1 (6 ounce) jar marinated artichoke hearts, drained and chopped"
+        },
+        {
+            "5": "1 (6 ounce) can sliced black olives, drained"
+        },
+        {
+            "6": "0.5  red onion, thinly sliced"
+        },
+        {
+            "7": "0.25 cup grated carrots"
+        },
+        {
+            "8": "0.5 cups oil and vinegar dressing"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in spinach and three-cheese tortellini and return to a boil. Cook the pasta uncovered, stirring occasionally, until the pasta has cooked through but is still slightly firm, 10 to 11 minutes."
+        },
+        {
+            "2": "Drain well, and allow tortellini to cool."
+        },
+        {
+            "3": "Toss together the tortellini, grape tomatoes, artichoke hearts, olives, red onion, carrots, and dressing in a large bowl."
+        },
+        {
+            "4": "Cover and refrigerate until chilled, at least 3 hours or overnight."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "305"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8557785.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5816319.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1234767.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F790395.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

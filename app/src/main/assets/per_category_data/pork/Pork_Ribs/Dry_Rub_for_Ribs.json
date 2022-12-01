@@ -1,0 +1,75 @@
+{
+    "title": "Dry Rub for Ribs",
+    "Category": "Pork Ribs",
+    "Ingredients": [
+        {
+            "1": "3 tablespoons brown sugar"
+        },
+        {
+            "2": "0.5 tablespoons paprika"
+        },
+        {
+            "3": "0.5 tablespoons salt"
+        },
+        {
+            "4": "0.5 tablespoons ground black pepper"
+        },
+        {
+            "5": "1 teaspoon garlic powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix brown sugar, paprika, salt, pepper, and garlic powder together in a small bowl. Rub into pork ribs."
+        },
+        {
+            "2": "For best results, allow ribs to marinate overnight."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1/2 cup"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "27"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8598334.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe88e968634f5f99aec913d7c877f5de3%2F7250885.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6814068.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F506e3b353abd742f65f1e12b51cc075d%2F6477782.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/jKbdjzO74dGRXsBFVS9IoE_ZYWc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3839549-7216b14cd35f4d59a1f80b824d5a1c3b.jpg"
+        }
+    ],
+    "main category": "pork"
+}

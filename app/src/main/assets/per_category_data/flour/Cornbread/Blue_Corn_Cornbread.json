@@ -1,0 +1,93 @@
+{
+    "title": "Blue Corn Cornbread",
+    "Category": "Cornbread",
+    "Ingredients": [
+        {
+            "1": "1 cup blue cornmeal"
+        },
+        {
+            "2": "1 cup all-purpose flour"
+        },
+        {
+            "3": "5 teaspoons baking powder"
+        },
+        {
+            "4": "0.25 cup white sugar"
+        },
+        {
+            "5": "1 pinch salt"
+        },
+        {
+            "6": "2  eggs, beaten"
+        },
+        {
+            "7": "1 cup milk"
+        },
+        {
+            "8": "0.5 cup butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 350 degrees F (175 degrees C). Grease a 9x9 inch baking dish."
+        },
+        {
+            "2": "Mix cornmeal, flour, baking powder, sugar, and salt in a bowl. Sift 3 times."
+        },
+        {
+            "3": "Stir the eggs and milk into the cornmeal mixture. Place the butter in the prepared baking dish, and melt in the preheated oven. Mix hot, melted butter into the cornmeal mixture. Transfer cornmeal mixture to the prepared baking dish."
+        },
+        {
+            "4": "Bake on center rack in the preheated oven for 30 to 35 minutes, until the edges of the cornbread pull away from the sides of the dish, and a toothpick inserted into the center comes out clean. Let cool 10 minutes before cutting."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "1 - 9x9 inch pan of cornbread"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "141"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7994393.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6739919.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6739833.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3670454856ec3d09e605520c38ddf2f2%2F5358190.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

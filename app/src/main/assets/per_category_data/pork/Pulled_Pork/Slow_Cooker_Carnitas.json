@@ -1,0 +1,90 @@
+{
+    "title": "Slow Cooker Carnitas",
+    "Category": "Pulled Pork",
+    "Ingredients": [
+        {
+            "1": "1 teaspoon salt"
+        },
+        {
+            "2": "1 teaspoon garlic powder"
+        },
+        {
+            "3": "1 teaspoon ground cumin"
+        },
+        {
+            "4": "0.5 teaspoon crumbled dried oregano"
+        },
+        {
+            "5": "0.5 teaspoon ground coriander"
+        },
+        {
+            "6": "0.25 teaspoon ground cinnamon"
+        },
+        {
+            "7": "1 (4 pound) boneless pork shoulder roast"
+        },
+        {
+            "8": "2  bay leaves"
+        },
+        {
+            "9": "2 cups chicken broth"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix salt, garlic powder, cumin, oregano, coriander, and cinnamon together in a bowl; coat pork with spice mixture. Place bay leaves in the bottom of a slow cooker and arrange pork on top. Pour chicken broth around the sides of pork, being careful not to rinse off spice mixture."
+        },
+        {
+            "2": "Cover and cook on Low, turning after 5 hours, until pork shreds easily with a fork, about 10 hours in total."
+        },
+        {
+            "3": "When the pork is tender, remove from the slow cooker; shred with two forks. Use cooking liquid as needed to moisten the meat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 10 hrs"
+        },
+        {
+            "Total Time": " 10 hrs 10 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "223"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9075360.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9062111.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9021938.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9014168.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/IdiFLjoFumcjdba-nN2k42kZZh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5369243-0effadc01c7c4a0bbf7f668f182078b3.jpg"
+        }
+    ],
+    "main category": "pork"
+}

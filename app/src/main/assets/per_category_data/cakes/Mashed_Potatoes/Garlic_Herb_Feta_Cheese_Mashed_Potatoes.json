@@ -1,0 +1,81 @@
+{
+    "title": "Garlic Herb Feta Cheese Mashed Potatoes",
+    "Category": "Mashed Potatoes",
+    "Ingredients": [
+        {
+            "1": "1.0 pounds Yukon Gold potatoes, peeled and cubed"
+        },
+        {
+            "2": "0.5 cup milk"
+        },
+        {
+            "3": "1 (4 ounce) package crumbled feta cheese"
+        },
+        {
+            "4": "2 tablespoons butter"
+        },
+        {
+            "5": "3 cloves garlic, minced"
+        },
+        {
+            "6": "0.5 teaspoon dried oregano"
+        },
+        {
+            "7": "0.5 teaspoon dried rosemary"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes. Drain and return potatoes to the pot."
+        },
+        {
+            "2": "Mash potatoes with a potato masher until smooth. Stir in milk, feta cheese, butter, garlic, oregano, and rosemary. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "246"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd3f99a0b37d86df8394d4978197d9a8f%2F6088775.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4587277.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd34674c3270f0220985af3c3b57dd9a8%2F1060568.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

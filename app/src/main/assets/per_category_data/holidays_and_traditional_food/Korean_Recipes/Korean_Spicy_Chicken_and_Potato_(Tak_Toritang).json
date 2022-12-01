@@ -1,0 +1,87 @@
+{
+    "title": "Korean Spicy Chicken and Potato (Tak Toritang)",
+    "Category": "Korean Recipes",
+    "Ingredients": [
+        {
+            "1": "1.0 pounds chicken drumettes"
+        },
+        {
+            "2": "2 large potatoes, cut into large chunks"
+        },
+        {
+            "3": "2  carrots, cut into 2 inch pieces"
+        },
+        {
+            "4": "1 large onion, cut into 8 pieces"
+        },
+        {
+            "5": "4 cloves garlic, crushed"
+        },
+        {
+            "6": "0.25 cup water"
+        },
+        {
+            "7": "0.5 cup soy sauce"
+        },
+        {
+            "8": "2 tablespoons white sugar"
+        },
+        {
+            "9": "3 tablespoons gochujang (Korean hot pepper paste)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large pot over medium heat, mix the chicken, potatoes, carrots, onion, sugar, and garlic. Pour in water and soy sauce, and stir in sugar and hot pepper paste."
+        },
+        {
+            "2": "Bring to a boil, reduce heat to low, and simmer 45 minutes, until chicken juices run clear, vegetables are tender, and liquid has thickened."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "447"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "55g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9162800.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8770745.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8740790.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8145425.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

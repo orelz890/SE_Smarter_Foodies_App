@@ -1,0 +1,84 @@
+{
+    "title": "Sausage Balls",
+    "Category": "Christmas Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound ground pork sausage, at room temperature"
+        },
+        {
+            "2": "2 cups biscuit baking mix"
+        },
+        {
+            "3": "1 pound sharp Cheddar cheese, shredded"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Combine room temperature sausage and biscuit mix in a large bowl; mix with your hands until well combined. Add shredded Cheddar cheese and mix until fully incorporated. Roll mixture into about 30 walnut-sized balls; transfer to a baking sheet."
+        },
+        {
+            "3": "Bake in the preheated oven until golden brown and sausage is cooked through, 20 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "15 "
+        },
+        {
+            "Yield": "30 sausage balls"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "264"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8423ace1395733322a16ff5ccbec7fb6%2F1667670260384sausage-balls.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb0cda5eaed515a7034b6b5b79708e5fe%2F166379919316637991664166573687255816191820.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb0cda5eaed515a7034b6b5b79708e5fe%2F166284444420220910_170713.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb0cda5eaed515a7034b6b5b79708e5fe%2F165880223816588022233602169990061801183932.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ISOpX79ZkgWYlFDnq8C3KMDfrzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21649-sausage-balls-mfs42-8f89e80c003c48c39f3f75901c07a074.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/7pDME5zUXAp8qt2TmbmlT0Jbcxo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sausage-balls-f78f5624bcdd42468af0b498f37850b2.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/KpB8wyu8Mgc1m6cMNGSJx1rQzGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Screen-Shot-2022-08-08-at-3.24.02-PM-1f2f753cce594b0d9a1aaef6929d5d1d.png"
+        },
+        {
+            "img8": "https://www.allrecipes.com/thmb/gex-ju5UvoxlhepRbdA03jiddSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21649-sausage-balls-mfs42-1-5a211e1995694fefb2b5a89ce9977654.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

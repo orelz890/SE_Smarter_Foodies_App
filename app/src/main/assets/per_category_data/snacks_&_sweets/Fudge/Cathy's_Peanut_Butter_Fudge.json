@@ -1,0 +1,81 @@
+{
+    "title": "Cathy's Peanut Butter Fudge",
+    "Category": "Fudge",
+    "Ingredients": [
+        {
+            "1": "2 cups packed brown sugar"
+        },
+        {
+            "2": "1 tablespoon butter"
+        },
+        {
+            "3": "0.5 cup milk"
+        },
+        {
+            "4": "1 teaspoon cornstarch"
+        },
+        {
+            "5": "1 tablespoon water"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "1 cup creamy peanut butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Grease an 8x8 inch square pan."
+        },
+        {
+            "2": "In a saucepan over medium heat, combine the brown sugar , butter and milk. cook until the mixture reaches the soft ball stage (234-240 degrees F, 112-115 degrees C)."
+        },
+        {
+            "3": "Combine the cornstarch and water, add to the saucepan and mix well. Remove from heat and beat for 2 minutes. Stir in the vanilla and peanut butter until thoroughly blended. Spread batter evenly into the prepared pan. let cool, then cut into squares and enjoy!"
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 - 8x8 inch square pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "281"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F48236df64984ebb35f01541e8921253d%2F6327603.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4787869.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4808103.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4526968.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

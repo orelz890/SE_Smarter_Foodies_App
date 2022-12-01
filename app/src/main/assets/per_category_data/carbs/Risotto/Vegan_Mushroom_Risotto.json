@@ -1,0 +1,90 @@
+{
+    "title": "Vegan Mushroom Risotto",
+    "Category": "Risotto",
+    "Ingredients": [
+        {
+            "1": "6 cups vegetable stock, or more if needed"
+        },
+        {
+            "2": "4 tablespoons olive oil, divided"
+        },
+        {
+            "3": "2 (8 ounce) packages baby bella mushrooms, chopped"
+        },
+        {
+            "4": "1 medium onion, diced"
+        },
+        {
+            "5": "1  celery stalk, diced"
+        },
+        {
+            "6": "3 cloves garlic, minced"
+        },
+        {
+            "7": "2 cups Arborio rice"
+        },
+        {
+            "8": "1 cup dry white wine"
+        },
+        {
+            "9": "0.5 teaspoons dried thyme"
+        },
+        {
+            "10": "0.5 teaspoon salt, or to taste"
+        },
+        {
+            "11": "0.5 teaspoon freshly cracked black pepper, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour vegetable stock into a large pot and bring to a boil over medium heat. Reduce heat to low, cover, and keep warm."
+        },
+        {
+            "2": "Heat 2 tablespoons olive oil in a large Dutch oven over medium-high heat. Add mushrooms and cook, stirring occasionally, until softened, about 10 minutes. Add onion and cook until soft and translucent, about 5 minutes. Stir in celery and garlic, and cook until garlic is fragrant, about 3 minutes."
+        },
+        {
+            "3": "Add remaining 2 tablespoons olive oil and Arborio rice to the Dutch oven. Cook, stirring often, until rice is opaque and smells slightly toasted, 2 to 4 minutes. Stir in white wine; cook until it evaporates, an additional 2 to 3 minutes. Season with thyme, salt, and pepper."
+        },
+        {
+            "4": "Begin stirring in reserved warm vegetable stock, one cup at a time; allow each addition of stock to be fully absorbed before adding in the next, stirring continuously. Continue adding broth gradually, stirring constantly, until rice is tender and creamy, about 20 minutes. Season with additional salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "670"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "111g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7903036.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7712052.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

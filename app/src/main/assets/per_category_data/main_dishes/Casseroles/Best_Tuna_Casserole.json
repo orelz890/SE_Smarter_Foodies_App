@@ -1,0 +1,90 @@
+{
+    "title": "Best Tuna Casserole",
+    "Category": "Casseroles",
+    "Ingredients": [
+        {
+            "1": "1 (12 ounce) package egg noodles"
+        },
+        {
+            "2": "2 (10.5 ounce) cans condensed cream of mushroom soup"
+        },
+        {
+            "3": "2 cups shredded Cheddar cheese, divided"
+        },
+        {
+            "4": "2 (5 ounce) cans tuna, drained"
+        },
+        {
+            "5": "1 cup frozen green peas"
+        },
+        {
+            "6": "0.5 (4.5 ounce) can sliced mushrooms"
+        },
+        {
+            "7": "0.25 cup chopped onion"
+        },
+        {
+            "8": "1 cup crushed potato chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a large pot with lightly salted water and bring to a rapid boil. Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes; drain."
+        },
+        {
+            "2": "Meanwhile, preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "3": "Mix noodles, condensed soup, 1 cup cheese, tuna, peas, mushrooms, and onion in a large bowl until well combined. Transfer into a 9x13-inch baking dish; top with crushed potato chip and remaining 1 cup of cheese."
+        },
+        {
+            "4": "Bake in the preheated oven until cheese is bubbly, about 15 to 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "595"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "58g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F770d780c99defd76d6db4cb6a8b114cb%2F166865792752343ACAC00-981C-4900-9750-7D3FA6BAE9A7.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5a620fd1d8e3d7851224162d7bc1a9e2%2F16613016608E4CEEAD-1F79-41D2-ABC1-98F0265CDA67.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5a620fd1d8e3d7851224162d7bc1a9e2%2F166102502720220819_155330.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5a620fd1d8e3d7851224162d7bc1a9e2%2F165970920916597091684806203635859557051719.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/T9bPA_yD6E4e_J6WlH7JuF_9ZwQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17219-best-tuna-casserole-mfs-256-594d7889179e4c63a99b1333ebcf1360.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

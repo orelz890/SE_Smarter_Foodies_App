@@ -1,0 +1,84 @@
+{
+    "title": "Gluten-Free Peanut Butter Cookies",
+    "Category": "Peanut Butter Cookies",
+    "Ingredients": [
+        {
+            "1": "2 cups peanut butter"
+        },
+        {
+            "2": "2 cups white sugar"
+        },
+        {
+            "3": "4  eggs, beaten"
+        },
+        {
+            "4": "2 cups semi-sweet chocolate chips (Optional)"
+        },
+        {
+            "5": "0.5 cups chopped pecans (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease cookie sheet."
+        },
+        {
+            "2": "Combine peanut butter, eggs, and sugar and mix until smooth. Mix in chocolate chips and nuts, if desired. Spoon dough by tablespoons onto a cookie sheet."
+        },
+        {
+            "3": "Bake for 10 to 12 minutes or until lightly browned. Let the cookies cool on the cookie sheets for 5 to 10 minutes before removing."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "12 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "52 mins"
+        },
+        {
+            "Servings": "15 "
+        },
+        {
+            "Yield": "30 cookies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "513"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9343712.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9136629.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8995012.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7965088.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/YJ2OHvu6B1i2UUehq99sxjf0Eck=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1307601-gluten-free-peanut-butter-cookies-Norah-1x1-1-f51f5be57091485191f01a68cde2c8c7.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

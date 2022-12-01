@@ -1,0 +1,81 @@
+{
+    "title": "Firehouse Jalapenos",
+    "Category": "Jalapeno Poppers",
+    "Ingredients": [
+        {
+            "1": "30  jalapeno peppers, halved and seeded"
+        },
+        {
+            "2": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "3": "30  small smoked sausages (such as Lit'l Smokies\u00ae)"
+        },
+        {
+            "4": "1 (1 pound) package thin-sliced bacon, cut in half"
+        },
+        {
+            "5": "60  toothpicks"
+        },
+        {
+            "6": "0.5 cup barbeque sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Fill the jalapeno pepper halves with softened cream cheese, then place a smoked sausage into each pepper on top of the cheese. Wrap each piece with a half strip of bacon and secure with a toothpick. Place the peppers onto a baking sheet and brush with the barbeque sauce."
+        },
+        {
+            "3": "Bake in the preheated oven until the bacon is crispy, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "30 "
+        },
+        {
+            "Yield": "60 poppers"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "138"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9366076.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9019759.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8089595.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5312165.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

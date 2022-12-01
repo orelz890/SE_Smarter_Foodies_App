@@ -1,0 +1,75 @@
+{
+    "title": "Quick and Easy Guacamole",
+    "Category": "Guacamole",
+    "Ingredients": [
+        {
+            "1": "2  avocados - peeled, pitted, and diced"
+        },
+        {
+            "2": "2  green onions, chopped"
+        },
+        {
+            "3": "1 tablespoon chopped fresh cilantro"
+        },
+        {
+            "4": "1 teaspoon seasoned salt"
+        },
+        {
+            "5": "1 teaspoon ground black pepper"
+        },
+        {
+            "6": "1 teaspoon garlic, minced"
+        },
+        {
+            "7": "0.5  lime, juiced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine avocado, green onion, cilantro, seasoned salt, black pepper, garlic, and lime juice in a bowl; mash with a spoon or potato masher until mostly smooth with small chunks."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "168"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8640723.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6898008.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5397125.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fde0e3605accab7e54402a34fe16c8281%2F5344230.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

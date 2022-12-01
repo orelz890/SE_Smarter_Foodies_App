@@ -1,0 +1,72 @@
+{
+    "title": "Carrot Hummus",
+    "Category": "Hummus",
+    "Ingredients": [
+        {
+            "1": "1 cup cashews"
+        },
+        {
+            "2": "4 cloves garlic, peeled"
+        },
+        {
+            "3": "1 pound carrots, peeled and roughly chopped"
+        },
+        {
+            "4": "1 large lemon, juiced"
+        },
+        {
+            "5": "1 tablespoon tamari"
+        },
+        {
+            "6": "1 bunch flat-leaf parsley, chopped"
+        },
+        {
+            "7": "0.5 tablespoons mayonnaise, or to taste"
+        },
+        {
+            "8": "1 salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine cashews and garlic in a food processor and pulse until finely chopped. Add carrots, lemon juice, tamari, parsley, and mayonnaise and process until smooth. Season with salt."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "199"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2d3d6f5fee0845c29af9b6ff7f76a1eb%2F16538549341898C6F8-C470-479E-8E55-9FEE72045897.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9213327.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Rocky Road Ice Cream",
+    "Category": "Ice Cream",
+    "Ingredients": [
+        {
+            "1": "1 (14 ounce) can sweetened condensed milk"
+        },
+        {
+            "2": "0.5 cup unsweetened cocoa powder"
+        },
+        {
+            "3": "2 cups heavy cream"
+        },
+        {
+            "4": "1 cup light cream"
+        },
+        {
+            "5": "1 tablespoon vanilla extract"
+        },
+        {
+            "6": "1 cup miniature marshmallows"
+        },
+        {
+            "7": "0.5 cup chopped pecans"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook and stir condensed milk and cocoa in a medium saucepan over low heat until smooth and slightly thickened, about 5 minutes. Remove from heat and allow to cool slightly. Stir in heavy cream, light cream, and vanilla. Refrigerate until cold, about 1 hour."
+        },
+        {
+            "2": "Pour mixture into the canister of an ice cream maker and freeze according to manufacturer's directions. Stir in marshmallows and nuts halfway through the freezing process."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 quarts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "254"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8476505.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8231592.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7911791.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6712885.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

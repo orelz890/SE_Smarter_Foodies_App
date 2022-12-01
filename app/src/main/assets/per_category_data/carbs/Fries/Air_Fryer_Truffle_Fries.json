@@ -1,0 +1,81 @@
+{
+    "title": "Air Fryer Truffle Fries",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "0.75 pounds russet potatoes, peeled and cut into fries"
+        },
+        {
+            "2": "2 tablespoons truffle-infused olive oil"
+        },
+        {
+            "3": "0.5 teaspoon paprika"
+        },
+        {
+            "4": "1 tablespoon grated Parmesan cheese"
+        },
+        {
+            "5": "2 teaspoons chopped fresh parsley"
+        },
+        {
+            "6": "1 teaspoon black truffle sea salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place fries in a bowl. Cover with water and let soak for 30 minutes. Drain and pat dry."
+        },
+        {
+            "2": "Preheat the air fryer to 400 degrees F (200 degrees C) according to manufacturer's instructions."
+        },
+        {
+            "3": "Place drained fries into a large bowl. Add truffle olive oil and paprika; stir until evenly combined. Transfer fries to the air fryer basket."
+        },
+        {
+            "4": "Air fry for 20 minutes, shaking every 5 minutes. Transfer fries to a bowl. Add Parmesan cheese, parsley, and truffle salt. Toss to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "226"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8304550.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8198065.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

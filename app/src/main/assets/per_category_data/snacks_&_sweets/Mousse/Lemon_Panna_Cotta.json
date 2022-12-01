@@ -1,0 +1,90 @@
+{
+    "title": "Lemon Panna Cotta",
+    "Category": "Mousse",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons freshly squeezed lemon juice"
+        },
+        {
+            "2": "1 (.25 ounce) package powdered gelatin (such as Knox\u00ae)"
+        },
+        {
+            "3": "3 cups heavy cream"
+        },
+        {
+            "4": "0.5 cup white sugar"
+        },
+        {
+            "5": "1.0 tablespoons fresh lemon zest, divided"
+        },
+        {
+            "6": "1 tablespoon orange liqueur (such as Grand Marnier\u00ae) (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place lemon juice in a small bowl and sprinkle the unflavored gelatin over it. Let stand for about 15 minutes until gelatin softens."
+        },
+        {
+            "2": "Combine heavy cream, sugar, and 2 tablespoons lemon zest in a saucepan over medium-low heat; bring to a simmer. Whisk in gelatin mixture until dissolved. Remove from heat and stir in orange liqueur."
+        },
+        {
+            "3": "Strain the cream mixture into a medium bowl and divide evenly among small glass bowls or ramekins."
+        },
+        {
+            "4": "Place uncovered panna cottas into the refrigerator until set, at least 4 hours. If time permits, cover the bowls with plastic wrap and chill overnight."
+        },
+        {
+            "5": "Garnish with remaining lemon zest before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 4 hrs 15 mins"
+        },
+        {
+            "Total Time": " 4 hrs 35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "488"
+        },
+        {
+            "Fat": "44g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9437572.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9123237.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7173571.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7101355.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

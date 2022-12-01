@@ -1,0 +1,90 @@
+{
+    "title": "Potato Waffles",
+    "Category": "Breakfast Potatoes",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons butter"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "1 tablespoon minced garlic"
+        },
+        {
+            "4": "2 cups mashed potatoes"
+        },
+        {
+            "5": "2 large eggs"
+        },
+        {
+            "6": "0.25 cup all-purpose flour"
+        },
+        {
+            "7": "0.25 teaspoon salt"
+        },
+        {
+            "8": "0.25 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a skillet over medium heat. Add onion and garlic; cook and stir until onion is tender, 5 to 7 minutes."
+        },
+        {
+            "2": "Preheat a waffle iron according to manufacturer's instructions."
+        },
+        {
+            "3": "Combine onion mixture, mashed potatoes, eggs, flour, salt, and black pepper in a large bowl until well blended."
+        },
+        {
+            "4": "Scoop 1/4 to 1/2 cup batter (depending on size of waffle iron) into the center of waffle iron and close lid. Cook until golden brown, 3 to 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "217"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8787747.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8255961.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8172353.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7331097.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/33mQkwos6Q7MLoF02hLSkeFMHDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3554091-02b903cce1b24a3da432dc2e572176ab.jpg"
+        }
+    ],
+    "main category": "breakfast"
+}

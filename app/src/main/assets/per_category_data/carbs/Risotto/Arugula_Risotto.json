@@ -1,0 +1,87 @@
+{
+    "title": "Arugula Risotto",
+    "Category": "Risotto",
+    "Ingredients": [
+        {
+            "1": "6 cups loosely packed arugula, or more to taste"
+        },
+        {
+            "2": "3 tablespoons olive oil"
+        },
+        {
+            "3": "2 cups Arborio rice"
+        },
+        {
+            "4": "0.5 cup finely chopped yellow onion"
+        },
+        {
+            "5": "0.5 cup white wine"
+        },
+        {
+            "6": "6 cups vegetable broth"
+        },
+        {
+            "7": "0.25 cup grated Parmesan cheese"
+        },
+        {
+            "8": "2 tablespoons butter"
+        },
+        {
+            "9": "1 pinch salt and freshly ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Finely chop arugula and set aside."
+        },
+        {
+            "2": "Heat oil in a large saucepan over medium heat. Saute rice in the hot oil until it begins to look toasted, about 1 minute. Add onion and cook until softened, about 5 minutes. Pour in wine and stir frequently until most of the liquid is absorbed, 5 to 7 minutes."
+        },
+        {
+            "3": "Stir in vegetable broth, 1 cup at a time, stirring almost constantly. Add arugula with the 5th cup of vegetable broth; pour in remaining broth, stirring almost constantly, until rice is tender yet firm to the bite, 20 to 25 minutes."
+        },
+        {
+            "4": "Remove from heat and stir in Parmesan cheese and butter. Add salt and pepper to taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "654"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "103g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9067137.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F999927.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

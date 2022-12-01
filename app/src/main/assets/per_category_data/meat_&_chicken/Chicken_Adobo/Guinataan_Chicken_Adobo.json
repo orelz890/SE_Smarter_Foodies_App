@@ -1,0 +1,93 @@
+{
+    "title": "Guinataan Chicken Adobo",
+    "Category": "Chicken Adobo",
+    "Ingredients": [
+        {
+            "1": "2.0 pounds chicken leg quarters"
+        },
+        {
+            "2": "0.75 cup white vinegar"
+        },
+        {
+            "3": "0.75 cup water"
+        },
+        {
+            "4": "1 teaspoon white sugar"
+        },
+        {
+            "5": "0.25 cup soy sauce"
+        },
+        {
+            "6": "2  bay leaves"
+        },
+        {
+            "7": "1 teaspoon whole black peppercorns, crushed"
+        },
+        {
+            "8": "1  onion, chopped"
+        },
+        {
+            "9": "2 cloves garlic, crushed"
+        },
+        {
+            "10": "1 salt to taste"
+        },
+        {
+            "11": "1 (14 ounce) can coconut milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine the chicken, vinegar, water, sugar, soy sauce, bay leaves, crushed peppercorns, onion, and garlic in a large pot; stir and bring the mixture to a boil for 2 minutes. Reduce heat to medium-low and cook at a simmer for 30 minutes."
+        },
+        {
+            "2": "Remove the chicken to a large serving platter and set aside. Increase the heat under the pot to medium and cook until the liquid reduces by about one-quarter, about 10 minutes. Season with salt; stir the coconut milk into the mixture. Cover and cook until the coconut milk appears oily, about 10 minutes. Pour the mixture over the chicken to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "657"
+        },
+        {
+            "Fat": "44g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "58g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7101919.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5011187.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4461193.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1132767.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

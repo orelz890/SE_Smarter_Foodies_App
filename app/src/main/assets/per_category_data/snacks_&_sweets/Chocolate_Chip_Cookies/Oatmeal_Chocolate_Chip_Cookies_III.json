@@ -1,0 +1,87 @@
+{
+    "title": "Oatmeal Chocolate Chip Cookies III",
+    "Category": "Chocolate Chip Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup butter"
+        },
+        {
+            "2": "0.75 cup packed brown sugar"
+        },
+        {
+            "3": "0.25 cup white sugar"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "0.5 cups all-purpose flour"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "1 teaspoon baking soda"
+        },
+        {
+            "8": "0.25 cup boiling water"
+        },
+        {
+            "9": "2 cups quick cooking oats"
+        },
+        {
+            "10": "0.5 cup raisins (Optional)"
+        },
+        {
+            "11": "0.5 cups semisweet chocolate chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Beat butter or margarine, sugars and vanilla until light and fluffy. Add flour and salt, mix well."
+        },
+        {
+            "2": "Dissolve baking soda in boiling water and add to mixture. Stir in rolled oats, raisins and chocolate chips."
+        },
+        {
+            "3": "Drop by teaspoonful onto ungreased cookie sheet. Bake at 350 degrees F (175 degrees C) for 10-12 minutes. Don't over cook. (There are no eggs in this recipe, I didn't forget to type it down)."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "3 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "290"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9022419.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8199884.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9022026.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8602662.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

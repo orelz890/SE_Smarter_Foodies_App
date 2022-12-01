@@ -1,0 +1,71 @@
+{
+    "title": "Strawberry Mojito",
+    "Category": "Mojitos",
+    "Ingredients": [
+        {
+            "1": "1 white sugar, for rimming"
+        },
+        {
+            "2": "2 large limes, quartered"
+        },
+        {
+            "3": "0.5 bunch mint leaves"
+        },
+        {
+            "4": "7  strawberries, quartered"
+        },
+        {
+            "5": "1 cup white sugar"
+        },
+        {
+            "6": "2 cups club soda"
+        },
+        {
+            "7": "1 cup white rum"
+        },
+        {
+            "8": "8 cups ice cubes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour about 1/2 inch of sugar onto a small, shallow plate. Run a lime wedge around the rims of 8 cocktail glasses, then dip the rims into sugar to coat; set aside."
+        },
+        {
+            "2": "Squeeze all of the lime wedges into a sturdy glass pitcher. Toss juiced limes into the pitcher along with mint, strawberries, and 1 cup sugar. Crush with a muddler to release strawberry juice and mint oil. Stir in club soda and rum until sugar has dissolved."
+        },
+        {
+            "3": "Pour into the prepared glasses over ice cubes to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 mojitos"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9401420.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4555647.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3709498.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0733e6b8251083ab291000865384f157%2F2063118.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

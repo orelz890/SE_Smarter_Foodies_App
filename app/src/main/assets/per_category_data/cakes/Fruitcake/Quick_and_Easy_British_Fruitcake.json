@@ -1,0 +1,93 @@
+{
+    "title": "Quick and Easy British Fruitcake",
+    "Category": "Fruitcake",
+    "Ingredients": [
+        {
+            "1": "0.75 cups self-rising flour"
+        },
+        {
+            "2": "0.5 cup unsalted butter"
+        },
+        {
+            "3": "0.25 cups dried mixed fruit"
+        },
+        {
+            "4": "0.5 cup white sugar"
+        },
+        {
+            "5": "1 tablespoon white sugar"
+        },
+        {
+            "6": "1 teaspoon mixed spice (Optional)"
+        },
+        {
+            "7": "5 tablespoons milk"
+        },
+        {
+            "8": "1  egg"
+        },
+        {
+            "9": "2 tablespoons light brown sugar, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Butter a 6-inch round cake pan."
+        },
+        {
+            "2": "Place flour in a bowl. Rub butter into the flour until mixture resembles fine bread crumbs. Add mixed fruit, 1 cup plus 1 tablespoon sugar, and mixed spice. Stir to combine. Add milk and egg and mix until batter is soft and easy to drop."
+        },
+        {
+            "3": "Drop batter into the prepared pan. Sprinkle light brown sugar on top and pat down with the back of a spoon."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 1 to 1 1/4 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 6-inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "348"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "56g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd6697ab3efe8841d3c2333e10ac74b40%2F6039278.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0058e6c3308a3722a065e063eecbe85b%2F6039292.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5098418.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5098421.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

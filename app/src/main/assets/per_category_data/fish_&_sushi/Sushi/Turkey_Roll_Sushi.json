@@ -1,0 +1,78 @@
+{
+    "title": "Turkey Roll Sushi",
+    "Category": "Sushi",
+    "Ingredients": [
+        {
+            "1": "0.75 cup fresh spinach, chopped"
+        },
+        {
+            "2": "0.25 cup cream cheese, softened"
+        },
+        {
+            "3": "0.25 cup shredded Cheddar cheese, or more to taste"
+        },
+        {
+            "4": "4  pickled peppers, chopped"
+        },
+        {
+            "5": "0.5  spring onion (green part only), chopped, or more to taste"
+        },
+        {
+            "6": "2 teaspoons garlic powder"
+        },
+        {
+            "7": "0.75 teaspoon ground black pepper"
+        },
+        {
+            "8": "2 pinches red pepper flakes"
+        },
+        {
+            "9": "2  flour tortillas"
+        },
+        {
+            "10": "0.5 pound sliced deli turkey meat"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix spinach, cream cheese, Cheddar cheese, pickled peppers, spring onion, garlic powder, black pepper, and red pepper flakes together in a bowl. Spread cream cheese mixture, about 1-inch wide, over the top portion of each tortilla, reserving about 1 tablespoon cream cheese mixture for sealing."
+        },
+        {
+            "2": "Arrange turkey onto each tortilla below the cream cheese mixture section. Spread a thin line of reserved cream cheese mixture below the turkey section of each tortilla for sealing. Starting at the end with the most cream cheese mixture, roll each tortilla around the filling, sealing together with the opposite end with small amount of cream cheese mixture. Cut 1/2-inch-wide slices from roll creating turkey 'sushi' rolls."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "225"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8a303423290bb5e1e54fee090c5b09e0%2F1429014.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

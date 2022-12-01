@@ -1,0 +1,111 @@
+{
+    "title": "Grilled Spicy Lamb Burgers",
+    "Category": "Ground Lamb",
+    "Ingredients": [
+        {
+            "1": "1 pound ground lamb"
+        },
+        {
+            "2": "2 tablespoons chopped fresh mint leaves"
+        },
+        {
+            "3": "2 tablespoons chopped fresh cilantro"
+        },
+        {
+            "4": "2 tablespoons chopped fresh oregano"
+        },
+        {
+            "5": "1 tablespoon garlic, chopped"
+        },
+        {
+            "6": "1 teaspoon sherry"
+        },
+        {
+            "7": "1 teaspoon white wine vinegar"
+        },
+        {
+            "8": "1 teaspoon molasses"
+        },
+        {
+            "9": "1 teaspoon ground cumin"
+        },
+        {
+            "10": "0.25 teaspoon ground allspice"
+        },
+        {
+            "11": "0.5 teaspoon red pepper flakes"
+        },
+        {
+            "12": "0.5 teaspoon salt"
+        },
+        {
+            "13": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "14": "4  pita bread rounds"
+        },
+        {
+            "15": "4 ounces feta cheese, crumbled"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat grill for medium heat."
+        },
+        {
+            "2": "Place the lamb in a large bowl, and mix with the mint, cilantro, oregano, garlic, sherry, vinegar, and molasses. Season with cumin, allspice, red pepper flakes, salt, and black pepper, and mix well. Shape into 4 patties."
+        },
+        {
+            "3": "Brush grill grate with oil. Grill burgers 5 minutes on each side, or until well done. Heat the pita pocket briefly on the grill. Serve burgers wrapped in pitas with feta cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "478"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7068174.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6772452.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5367982.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4074240.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/pJQXJ9PIuRoH-JEdp-pd16CWCUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6772452-89e52861daab4c49b8398fd12f2c3234.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "The Best Vegan Banana Bread",
+    "Category": "Banana Bread",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "0.5 cup vegan butter, melted"
+        },
+        {
+            "3": "0.5 cup coconut sugar"
+        },
+        {
+            "4": "0.25 cup brown sugar"
+        },
+        {
+            "5": "2 cups mashed bananas"
+        },
+        {
+            "6": "0.5 cup plain applesauce"
+        },
+        {
+            "7": "2 cups all-purpose flour"
+        },
+        {
+            "8": "1 teaspoon baking soda"
+        },
+        {
+            "9": "0.5 teaspoon baking powder"
+        },
+        {
+            "10": "0.25 teaspoon salt"
+        },
+        {
+            "11": "0.5 cup chopped walnuts (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x5-inch loaf pan with cooking spray."
+        },
+        {
+            "2": "Combine butter, coconut sugar, and brown sugar in a large bowl; beat with an electric mixer until smooth and creamy, 2 to 3 minutes. Stir in mashed bananas and applesauce until well blended."
+        },
+        {
+            "3": "Combine flour, baking soda, baking powder, and salt in a separate bowl. Add banana mixture, stirring just enough to moisten. Fold in walnuts. Pour batter into the prepared loaf pan."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted into center of the loaf comes out clean, 60 to 65 minutes. Let bread cool in the pan for 10 minutes, then turn out onto a wire rack."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 9x5-inch loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "320"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6892398012e2f5a0c5662bb8c3e4528f%2F1669408087269vegan-banana-bread.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Lancashire Hot Pot",
+    "Category": "Lamb Recipes",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon vegetable oil"
+        },
+        {
+            "2": "12 ounces chopped onion"
+        },
+        {
+            "3": "0.5 pounds cubed leg of lamb meat"
+        },
+        {
+            "4": "1.0 pounds potatoes, peeled and thinly sliced"
+        },
+        {
+            "5": "2 tablespoons chopped fresh thyme"
+        },
+        {
+            "6": "1 ounce butter"
+        },
+        {
+            "7": "2 cups chicken or lamb stock"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large skillet over medium high heat. Saute onion until soft and deep golden in color. Remove from skillet and set aside. Add lamb to skillet and fry (in batches if necessary) until rich chestnut brown in color, 12 to 15 minutes. Drain fat and reserve."
+        },
+        {
+            "2": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "3": "Spread 1/2 of the potatoes in the bottom of a 9x13 inch baking dish. Season with salt and pepper to taste. Place browned lamb and onions on top, then sprinkle with thyme and season to taste. Cover with remaining potatoes, season to taste and dot with butter. Pour stock over all."
+        },
+        {
+            "4": "Bake in the preheated oven for 1 1/2 to 2 hours. Note: If casserole is drying out while cooking, add more stock as needed. If casserole is browning too quickly, cover with aluminum foil."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "365"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe47b7fc10826e1c65d4be1e1351fb613%2F3482186.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F264300.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F213270.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

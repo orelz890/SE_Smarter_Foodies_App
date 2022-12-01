@@ -1,0 +1,63 @@
+{
+    "title": "Oil Pie Crust",
+    "Category": "Pie Crusts",
+    "Ingredients": [
+        {
+            "1": "1.5 cups sifted all-purpose flour"
+        },
+        {
+            "2": "1 teaspoon salt"
+        },
+        {
+            "3": "0.5 cup vegetable oil"
+        },
+        {
+            "4": "0.5 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix flour and salt together. Pour milk and oil into one measuring cup, do not stir, and add all at once to flour. Stir until mixed, and shape into 2 flat balls. Wrap in plastic wrap. Refrigerate for 15 minutes or more."
+        },
+        {
+            "2": "Roll out on lightly floured surface."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 pastry crusts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "143"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8735236.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5730934.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc54c969f497e376b05405e2b773db968%2F464881.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdf4a11d59b264033375b79cb6d240bd2%2F464880.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

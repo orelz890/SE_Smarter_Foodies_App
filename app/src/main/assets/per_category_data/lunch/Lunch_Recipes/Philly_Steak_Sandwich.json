@@ -1,0 +1,126 @@
+{
+    "title": "Philly Steak Sandwich",
+    "Category": "Lunch Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 teaspoon salt"
+        },
+        {
+            "2": "0.5 teaspoon black pepper"
+        },
+        {
+            "3": "0.5 teaspoon paprika"
+        },
+        {
+            "4": "0.5 teaspoon chili powder"
+        },
+        {
+            "5": "0.5 teaspoon onion powder"
+        },
+        {
+            "6": "0.5 teaspoon garlic powder"
+        },
+        {
+            "7": "0.5 teaspoon dried thyme"
+        },
+        {
+            "8": "0.5 teaspoon dried marjoram"
+        },
+        {
+            "9": "0.5 teaspoon dried basil"
+        },
+        {
+            "10": "1 pound beef sirloin, cut into thin 2 inch strips"
+        },
+        {
+            "11": "3 tablespoons vegetable oil"
+        },
+        {
+            "12": "1  onion, sliced"
+        },
+        {
+            "13": "1  green bell pepper, julienned"
+        },
+        {
+            "14": "3 ounces Swiss cheese, thinly sliced"
+        },
+        {
+            "15": "4  hoagie rolls, split lengthwise"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix together salt, pepper, paprika, chili powder, onion powder, garlic powder, thyme, marjoram, and basil in a small bowl."
+        },
+        {
+            "2": "Place beef in a large bowl. Sprinkle seasoning mixture over top and stir to coat."
+        },
+        {
+            "3": "Heat 1/2 of the oil in a skillet over medium-high heat. Add beef and saute to the desired doneness. Remove to a plate."
+        },
+        {
+            "4": "Heat the remaining oil in the skillet. Add onion and green pepper and saute until tender."
+        },
+        {
+            "5": "Preheat the oven on the broiler setting."
+        },
+        {
+            "6": "Divide cooked beef between the bottoms of 4 rolls. Layer with onion and green pepper, then top with sliced cheese. Place on a cookie sheet."
+        },
+        {
+            "7": "Broil in the preheated oven until cheese is melted."
+        },
+        {
+            "8": "Cover with tops of rolls and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 sandwiches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "641"
+        },
+        {
+            "Fat": "38g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9280486.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9122012.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9093741.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8626840.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/S0QDni5PcWYxb7TkT46EIwZDOFU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1100227-0971e13ddf9949c3bee0747d4dd734cf.jpg"
+        }
+    ],
+    "main category": "lunch"
+}

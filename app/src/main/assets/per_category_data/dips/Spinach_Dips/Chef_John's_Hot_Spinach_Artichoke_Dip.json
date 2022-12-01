@@ -1,0 +1,111 @@
+{
+    "title": "Chef John's Hot Spinach Artichoke Dip",
+    "Category": "Spinach Dips",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons butter"
+        },
+        {
+            "2": "0.5 cup green onions, white and light green parts only, thinly sliced"
+        },
+        {
+            "3": "2 cloves garlic, minced"
+        },
+        {
+            "4": "1 salt"
+        },
+        {
+            "5": "1 (14 ounce) can artichoke hearts, drained and chopped"
+        },
+        {
+            "6": "1 (10 ounce) package frozen chopped spinach , thawed, drained and squeezed dry"
+        },
+        {
+            "7": "8 ounces cream cheese"
+        },
+        {
+            "8": "0.5 cup shredded Gruyere cheese"
+        },
+        {
+            "9": "0.5 cup finely grated Parmigiano-Reggiano cheese"
+        },
+        {
+            "10": "0.25 teaspoon hot sauce"
+        },
+        {
+            "11": "1 pinch ground nutmeg"
+        },
+        {
+            "12": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "13": "0.25 cup shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Melt butter in a saucepan over medium-low heat; stir in onions and pinch of salt. Cook, stirring occasionally, until onions are soft, about 5 minutes. Stir garlic into onions and remove from heat."
+        },
+        {
+            "3": "Mix green onion mixture, spinach, artichoke hearts, cream cheese, Gruyere, Parmigiano-Reggiano, hot sauce, nutmeg, salt, and pepper in a large bowl until combined."
+        },
+        {
+            "4": "Spoon artichoke mixture into two ramekins. Top each with shredded mozzarella cheese."
+        },
+        {
+            "5": "Bake in the preheated oven until tops are golden brown and bubbling, about 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "284"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc9a084a52f573fbc200c5556d9d15422%2F166904434757620221119_175019.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8606326.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7771134.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7156370.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/oyiN2X3HCsKIC5TfRdhjJh3jB2E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5258299-151d2d2ad6094aed9094af2de0e905a3.jpg"
+        }
+    ],
+    "main category": "dips"
+}

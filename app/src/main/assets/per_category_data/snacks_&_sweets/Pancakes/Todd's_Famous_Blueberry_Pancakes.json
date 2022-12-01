@@ -1,0 +1,93 @@
+{
+    "title": "Todd's Famous Blueberry Pancakes",
+    "Category": "Pancakes",
+    "Ingredients": [
+        {
+            "1": "0.25 cups all-purpose flour"
+        },
+        {
+            "2": "1 tablespoon baking powder"
+        },
+        {
+            "3": "0.25 teaspoons white sugar"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "1 cup milk"
+        },
+        {
+            "6": "1  egg"
+        },
+        {
+            "7": "0.5 tablespoon butter, melted"
+        },
+        {
+            "8": "0.5 cup frozen blueberries, thawed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Sift flour, baking powder, sugar, and salt together in a large bowl. Combine milk and egg in a small bowl. Stir egg mixture into flour mixture until just combined. Stir in melted butter, then fold in blueberries. Set aside for 1 hour."
+        },
+        {
+            "2": "Heat a lightly oiled griddle or nonstick frying pan over medium-high heat."
+        },
+        {
+            "3": "Pour or scoop the batter onto the hot griddle, using approximately 1/4 cup for each pancake; cook until bubbles appear on the surface, then flip and cook until golden brown on both sides. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "12 pancakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "146"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9399239.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9064267.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8815702.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8791982.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ecb0XKvcrE7OyxBLX3OVEd30TbE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/686460-todds-famous-blueberry-pancakes-Dianne-1x1-1-9bd040b975634bce884847ce2090de16.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Pizza Crust for Bread Machine",
+    "Category": "Pizza Dough and Crusts",
+    "Ingredients": [
+        {
+            "1": "0.25 cups warm water (110 degrees F/45 degrees C)"
+        },
+        {
+            "2": "2 cups all-purpose flour"
+        },
+        {
+            "3": "1 cup semolina flour"
+        },
+        {
+            "4": "0.5 teaspoon white sugar"
+        },
+        {
+            "5": "1 teaspoon salt"
+        },
+        {
+            "6": "2 teaspoons olive oil"
+        },
+        {
+            "7": "2 teaspoons active dry yeast"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place all ingredients in the bread machine pan in the order suggested by the manufacturer. Select dough cycle."
+        },
+        {
+            "2": "Remove after rise cycle and use with your favorite pizza recipe."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 large pizza crust"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "86"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9283078.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9283087.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F61b291e4660cf155f2f97618674f9599%2F2445401.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F25da723e391b5ab6365b232b551173a8%2F2445444.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pizza"
+}

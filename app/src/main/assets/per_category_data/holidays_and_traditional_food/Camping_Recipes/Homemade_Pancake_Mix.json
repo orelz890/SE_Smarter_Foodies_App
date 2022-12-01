@@ -1,0 +1,72 @@
+{
+    "title": "Homemade Pancake Mix",
+    "Category": "Camping Recipes",
+    "Ingredients": [
+        {
+            "1": "5 cups all-purpose flour"
+        },
+        {
+            "2": "0.25 cups powdered milk"
+        },
+        {
+            "3": "0.25 cup white sugar"
+        },
+        {
+            "4": "0.25 cup baking powder"
+        },
+        {
+            "5": "1 tablespoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine flour, powdered milk, sugar, baking powder, and salt in a large bowl; stir to blend. Store mixture in an airtight container and use within 8 months."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "274"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8945262.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8044988.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7166423.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6382335.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/pmWJOcBhXaot9H_1vA5LRbWM4fY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/962934-8dce49fac94047c88cd1b0756d8ac807.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

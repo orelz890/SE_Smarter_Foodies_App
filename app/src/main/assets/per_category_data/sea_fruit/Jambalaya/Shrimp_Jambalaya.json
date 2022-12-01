@@ -1,0 +1,96 @@
+{
+    "title": "Shrimp Jambalaya",
+    "Category": "Jambalaya",
+    "Ingredients": [
+        {
+            "1": "1 pound boneless, skinless chicken thighs, cut into 2-inch pieces"
+        },
+        {
+            "2": "2 stalks celery, thinly sliced"
+        },
+        {
+            "3": "1 medium green bell pepper, cut into 1 inch pieces"
+        },
+        {
+            "4": "1  medium onion, chopped"
+        },
+        {
+            "5": "2 cloves garlic, minced"
+        },
+        {
+            "6": "1 (28 ounce) can crushed tomatoes, with liquid"
+        },
+        {
+            "7": "1 tablespoon white sugar"
+        },
+        {
+            "8": "0.5 teaspoon salt"
+        },
+        {
+            "9": "0.5 teaspoon dried Italian seasoning"
+        },
+        {
+            "10": "0.25 teaspoon cayenne pepper"
+        },
+        {
+            "11": "1  bay leaf"
+        },
+        {
+            "12": "1 cup uncooked orzo pasta"
+        },
+        {
+            "13": "1 pound cooked shrimp, peeled and deveined"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a slow cooker, mix chicken, celery, green bell pepper, onion, garlic, tomatoes with liquid, sugar, salt, Italian seasoning, cayenne pepper, and bay leaf. Cover, and cook on Low 7 to 9 hours."
+        },
+        {
+            "2": "Remove bay leaf from the chicken mixture, and stir in orzo. Increase heat to High. Cook 15 minutes, until orzo is tender."
+        },
+        {
+            "3": "Stir in shrimp, and cook 2 minutes, until shrimp are heated through."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "40 mins"
+        },
+        {
+            "Cook Time": " 9 hrs 20 mins"
+        },
+        {
+            "Total Time": " 10 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "270"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2b5ec787c6166fbc8e80d40116eb1fa2%2F887894.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F541475.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "sea_fruit"
+}

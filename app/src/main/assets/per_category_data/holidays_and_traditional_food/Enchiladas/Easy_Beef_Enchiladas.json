@@ -1,0 +1,102 @@
+{
+    "title": "Easy Beef Enchiladas",
+    "Category": "Enchiladas",
+    "Ingredients": [
+        {
+            "1": "2 pounds ground beef"
+        },
+        {
+            "2": "0.25 cup chopped onion"
+        },
+        {
+            "3": "2 cups shredded Cheddar cheese, divided"
+        },
+        {
+            "4": "0.5 cup sour cream"
+        },
+        {
+            "5": "1 tablespoon taco seasoning"
+        },
+        {
+            "6": "1 pinch salt and ground black pepper to taste"
+        },
+        {
+            "7": "1.0 cups red enchilada sauce"
+        },
+        {
+            "8": "0.5 teaspoons chili powder"
+        },
+        {
+            "9": "1 cooking spray"
+        },
+        {
+            "10": "1 (10 ounce) package flour tortillas"
+        },
+        {
+            "11": "1 (15 ounce) can black beans, rinsed and drained (Optional)"
+        },
+        {
+            "12": "1 (6 ounce) can sliced black olives, drained (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Spray a 9x13-inch casserole dish with cooking spray."
+        },
+        {
+            "2": "Cook and stir ground beef and onion in a skillet until beef is browned and crumbly, 5 to 7 minutes. Drain off grease. Stir 1 cup Cheddar cheese, sour cream, taco seasoning, and pepper into the beef mixture until cheese is melted. Mix in red enchilada sauce, chili powder, and salt."
+        },
+        {
+            "3": "Warm tortillas in the microwave for about 1 minute. Spoon about 1/4 cup of the beef mixture into the center of each tortilla. Roll tortillas up and place in the casserole dish, seam-side down. Spoon any leftover sauce, black beans, and olives over the tortillas. Sprinkle remaining cheese over the top."
+        },
+        {
+            "4": "Bake in the preheated oven until cheese is melted and filling is bubbling, about 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "675"
+        },
+        {
+            "Fat": "45g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F21f9fb2055c0f3340f345f4b6d7fdbc5%2F1655851656image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F21f9fb2055c0f3340f345f4b6d7fdbc5%2F1652061654D0959CFB-E72B-40CB-A51C-C297746EF7B3.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8250365.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6940952.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

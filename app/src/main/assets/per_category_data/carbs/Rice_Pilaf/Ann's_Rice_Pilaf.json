@@ -1,0 +1,90 @@
+{
+    "title": "Ann's Rice Pilaf",
+    "Category": "Rice Pilaf",
+    "Ingredients": [
+        {
+            "1": "2 teaspoons chicken bouillon granules"
+        },
+        {
+            "2": "2 cups water"
+        },
+        {
+            "3": "0.25 cup butter"
+        },
+        {
+            "4": "0.75 cup broken pieces vermicelli pasta"
+        },
+        {
+            "5": "1 cup long grain white rice"
+        },
+        {
+            "6": "1 teaspoon freshly ground black pepper"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "0.25 teaspoon Greek seasoning, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Dissolve chicken bouillon in water in a bowl."
+        },
+        {
+            "2": "Melt butter in a skillet over medium-high heat. Cook and stir vermicelli pieces until golden brown, about 5 minutes."
+        },
+        {
+            "3": "Pour bouillon mixture into the skillet with the vermicelli."
+        },
+        {
+            "4": "Stir rice, black pepper, salt, and Greek seasoning into the vermicelli mixture and bring to a boil. Cover and reduce heat to low; simmer until rice is tender and liquid is absorbed, 20 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "357"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "54g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9335315.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9307913.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8765705.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7152687.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

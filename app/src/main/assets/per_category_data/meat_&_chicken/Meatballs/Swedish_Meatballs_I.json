@@ -1,0 +1,99 @@
+{
+    "title": "Swedish Meatballs I",
+    "Category": "Meatballs",
+    "Ingredients": [
+        {
+            "1": "1  egg"
+        },
+        {
+            "2": "0.25 cup milk"
+        },
+        {
+            "3": "1 pound ground beef"
+        },
+        {
+            "4": "0.25 cup dry cream of wheat cereal"
+        },
+        {
+            "5": "0.25 cup minced onion"
+        },
+        {
+            "6": "1 (10.75 ounce) can  condensed cream of chicken soup"
+        },
+        {
+            "7": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "8": "1 (12 fluid ounce) can evaporated milk"
+        },
+        {
+            "9": "1 tablespoon chopped fresh parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "In a large bowl, whisk together the egg and the milk. Add the beef, cream of wheat and onion and mix well. Shape into 1 inch balls. Place balls on a lightly greased baking sheet."
+        },
+        {
+            "3": "Bake at 350 degrees F (175 degrees C) for about 20 minutes."
+        },
+        {
+            "4": "Drain meatballs on paper towels, if needed. Then place meatballs in a lightly greased 2 quart casserole dish. In a separate medium bowl, combine the soups with the evaporated milk, stirring until smooth. Pour over the meatballs."
+        },
+        {
+            "5": "Bake uncovered at 350 degrees F (175 degrees C) for another 40 minutes. Sprinkle with parsley before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "662"
+        },
+        {
+            "Fat": "48g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9120558.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4533695.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa063ee1a6c09577d4091b0d18fab47e8%2F4488635.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2612912.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/oo1j0vt-lubmu3OdqaExg1BgkKI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/327598-ff6c489ab1744968bb5f3a8507fb400e.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

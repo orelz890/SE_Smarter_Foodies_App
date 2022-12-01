@@ -1,0 +1,117 @@
+{
+    "title": "Vegetarian Sloppy Joes",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "0.25 cup vegetable oil"
+        },
+        {
+            "2": "0.5 cup minced onion"
+        },
+        {
+            "3": "2 (8 ounce) packages tempeh"
+        },
+        {
+            "4": "0.5 cup minced green bell pepper"
+        },
+        {
+            "5": "2 cloves garlic, minced"
+        },
+        {
+            "6": "0.25 cup tomato sauce"
+        },
+        {
+            "7": "1 tablespoon vegetarian Worcestershire sauce"
+        },
+        {
+            "8": "1 tablespoon honey"
+        },
+        {
+            "9": "1 tablespoon blackstrap molasses"
+        },
+        {
+            "10": "0.25 teaspoon cayenne pepper"
+        },
+        {
+            "11": "0.25 teaspoon celery seed"
+        },
+        {
+            "12": "0.25 teaspoon ground cumin"
+        },
+        {
+            "13": "0.25 teaspoon salt"
+        },
+        {
+            "14": "0.5 teaspoon ground coriander"
+        },
+        {
+            "15": "0.5 teaspoon dried thyme"
+        },
+        {
+            "16": "0.5 teaspoon oregano"
+        },
+        {
+            "17": "0.5 teaspoon paprika"
+        },
+        {
+            "18": "1 pinch ground black pepper"
+        },
+        {
+            "19": "1 hamburger buns"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a deep, 10-inch skillet over medium-low heat. Cook the onion in the oil until translucent. Crumble the tempeh into the skillet; cook and stir until golden brown. Add the green pepper and garlic; cook another 2 to 3 minutes."
+        },
+        {
+            "2": "Stir in the tomato sauce, Worcestershire sauce, honey, molasses, cayenne pepper, celery seed, cumin, salt, coriander, thyme, oregano, paprika, and black pepper; stir. Simmer another 10 to 15 minutes. Spoon hot onto hamburger buns to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 sandwiches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "384"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8259213.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7900884.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5408897.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5408896.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

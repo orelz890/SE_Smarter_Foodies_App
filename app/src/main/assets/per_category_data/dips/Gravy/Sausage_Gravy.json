@@ -1,0 +1,72 @@
+{
+    "title": "Sausage Gravy",
+    "Category": "Gravy",
+    "Ingredients": [
+        {
+            "1": "1 pound ground pork sausage"
+        },
+        {
+            "2": "3 tablespoons all-purpose flour"
+        },
+        {
+            "3": "3 cups milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place sausage in a large, deep skillet. Cook over medium high heat until evenly brown. Remove sausage, drain and set aside."
+        },
+        {
+            "2": "Pour off most of the fat from the pan, leaving about 2 to 3 tablespoons. Return pan to medium-low heat and add flour. Using a whisk, stir vigorously until roux forms, scraping bottom of pan. Reduce heat to low and let roux cook at least 5 minutes, stirring occasionally. Grandma always burned hers a little on purpose."
+        },
+        {
+            "3": "Add milk in a stream, whisking the whole time. After adding about 2 1/2 cups, turn heat to medium and continue cooking, stirring constantly. Bring gravy to a boil and cook to desired thickness. Add more milk if a thinner gravy is desired. You may also add some of the cooked and crumbled sausage to the gravy."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "195"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9028563.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8993872.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8993616.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8910094.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

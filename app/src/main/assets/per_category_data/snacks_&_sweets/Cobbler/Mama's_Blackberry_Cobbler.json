@@ -1,0 +1,78 @@
+{
+    "title": "Mama's Blackberry Cobbler",
+    "Category": "Cobbler",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter, melted"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "1 cup self-rising flour"
+        },
+        {
+            "4": "0.75 cup milk"
+        },
+        {
+            "5": "2 cups fresh blackberries"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Pour the melted butter into the bottom of an 8x8-inch square baking pan. Mix the sugar, self-rising flour, and milk together until moistened, and pour the mixture over the butter. Do not stir. Spread blackberries evenly over the batter."
+        },
+        {
+            "3": "Bake in the preheated oven until the top is browned and the cobbler is bubbling, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "9 "
+        },
+        {
+            "Yield": "1 8x8-inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "250"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9302727.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9171996.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9064952.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8523169.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

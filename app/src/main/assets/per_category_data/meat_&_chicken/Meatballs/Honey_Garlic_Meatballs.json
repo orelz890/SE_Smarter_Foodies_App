@@ -1,0 +1,90 @@
+{
+    "title": "Honey Garlic Meatballs",
+    "Category": "Meatballs",
+    "Ingredients": [
+        {
+            "1": "0.5 cup ketchup"
+        },
+        {
+            "2": "0.25 cup brown sugar"
+        },
+        {
+            "3": "0.25 cup honey"
+        },
+        {
+            "4": "3 cloves garlic, minced"
+        },
+        {
+            "5": "2 tablespoons chile-garlic sauce"
+        },
+        {
+            "6": "2 tablespoons soy sauce"
+        },
+        {
+            "7": "1 teaspoon Chinese five-spice powder"
+        },
+        {
+            "8": "1 (2 pound) bag frozen cooked meatballs"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine ketchup, brown sugar, honey, garlic, chile-garlic sauce, soy sauce, and five-spice powder together in a bowl. Let sauce stand at room temperature for 1 hour."
+        },
+        {
+            "2": "Add frozen meatballs to a slow cooker. Pour sauce over meatballs and toss gently to coat."
+        },
+        {
+            "3": "Cook on Low for 4 hours, stirring occasionally."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 4 hrs"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 5 hrs 10 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "25 meatballs"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "516"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8ba385c7ecd16062633596260f81aa33%2F165749528014519913-E642-4EF5-833D-2B37F957AF50.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8063304.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd267fe735a476734c697fd85ccd450e1%2F7630651.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7179472.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

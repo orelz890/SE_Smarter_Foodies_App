@@ -1,0 +1,66 @@
+{
+    "title": "Sauerkraut Filling for Pierogi",
+    "Category": "Pierogi",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons vegetable oil"
+        },
+        {
+            "2": "1 cup chopped onion"
+        },
+        {
+            "3": "1 cup chopped mushrooms"
+        },
+        {
+            "4": "14 ounces sauerkraut - drained, rinsed and minced"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "7": "2 tablespoons sour cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large skillet, heat oil over a medium flame. Add onions and mushrooms, and cook until tender but not brown. Stir in sauerkraut, 1/4 teaspoon salt, and 1/4 teaspoon black pepper. Cook for 6 to 10 minutes. Remove from heat, and stir in 2 tablespoons sour cream."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "3 cups filling"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "77"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8847126.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6562224.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F107468.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

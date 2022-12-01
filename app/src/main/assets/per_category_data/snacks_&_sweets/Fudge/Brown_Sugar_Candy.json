@@ -1,0 +1,78 @@
+{
+    "title": "Brown Sugar Candy",
+    "Category": "Fudge",
+    "Ingredients": [
+        {
+            "1": "1 pound brown sugar"
+        },
+        {
+            "2": "0.75 cup evaporated milk"
+        },
+        {
+            "3": "0.5 cup chopped walnuts (Optional)"
+        },
+        {
+            "4": "2 tablespoons butter"
+        },
+        {
+            "5": "1 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Butter an 8- or 9-inch square baking dish."
+        },
+        {
+            "2": "Stir together brown sugar and evaporated milk in a large, heavy saucepan. Bring to a boil over medium-high heat. Cook until temperature reaches between 234 and 240 degrees F (112 to 116 degrees C) or until a small amount of syrup dropped into cold water forms a soft ball that flattens when removed from the water and placed on a flat surface."
+        },
+        {
+            "3": "Remove from heat and stir in walnuts, butter, and vanilla. Continue to beat with a sturdy spoon until mixture loses its gloss. Pour into the prepared pan. Score into squares with a knife, then set aside until firm, about 5 minutes."
+        },
+        {
+            "4": "Cut into squares. Store in an airtight container in the refrigerator."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "16 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "162"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F582f81e649964da1dac416d6356ffb33%2F1648697047brownsugarfudge.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7449753.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F282996.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F70762.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

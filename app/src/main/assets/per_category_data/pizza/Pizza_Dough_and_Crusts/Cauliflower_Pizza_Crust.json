@@ -1,0 +1,90 @@
+{
+    "title": "Cauliflower Pizza Crust",
+    "Category": "Pizza Dough and Crusts",
+    "Ingredients": [
+        {
+            "1": "0.5 head cauliflower, coarsely chopped"
+        },
+        {
+            "2": "0.5 cup shredded Italian cheese blend"
+        },
+        {
+            "3": "0.25 cup chopped fresh parsley"
+        },
+        {
+            "4": "1 large egg"
+        },
+        {
+            "5": "1 teaspoon chopped garlic"
+        },
+        {
+            "6": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place cauliflower pieces through the feeding tube of the food processor using the grating blade; pulse until all the cauliflower is shredded."
+        },
+        {
+            "2": "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add cauliflower, cover, and steam until tender, about 15 minutes. Transfer cauliflower to a large bowl and refrigerate, stirring occasionally, until cooled, about 15 minutes."
+        },
+        {
+            "3": "Preheat the oven to 450 degrees F (230 degrees C). Line a baking sheet with parchment paper or a silicone mat."
+        },
+        {
+            "4": "Stir Italian cheese blend, parsley, egg, garlic, salt, and pepper into cauliflower until evenly incorporated. Pour mixture onto the prepared baking sheet; press and shape into a pizza crust."
+        },
+        {
+            "5": "Bake in the preheated oven until lightly browned, about 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "59"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8984572.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8935097.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8935097.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8924557.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/BdDh-sRXkc71RFHzgddWKomOwGs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6322849-206d2701611049618bd90fef782451a4.jpg"
+        }
+    ],
+    "main category": "pizza"
+}

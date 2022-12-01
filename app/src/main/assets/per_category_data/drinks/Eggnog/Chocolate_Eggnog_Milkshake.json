@@ -1,0 +1,56 @@
+{
+    "title": "Chocolate Eggnog Milkshake",
+    "Category": "Eggnog",
+    "Ingredients": [
+        {
+            "1": "0.5 cups low-fat vanilla ice cream"
+        },
+        {
+            "2": "0.75 cup low-fat eggnog"
+        },
+        {
+            "3": "2 tablespoons chocolate syrup, plus more for garnish"
+        },
+        {
+            "4": "1 whipped cream (optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine ice cream, eggnog, and 2 tablespoons of chocolate syrup in a blender, and process until well-combined."
+        },
+        {
+            "2": "Drizzle some chocolate syrup down the sides of the glass in a random pattern, and pour in the milkshake. Top with whipped cream, if desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 milkshake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "575"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "88g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [],
+    "main category": "drinks"
+}

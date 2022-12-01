@@ -1,0 +1,90 @@
+{
+    "title": "Spicy Grilled Shrimp",
+    "Category": "4th of July Recipes",
+    "Ingredients": [
+        {
+            "1": "1 large clove garlic"
+        },
+        {
+            "2": "1 teaspoon coarse salt"
+        },
+        {
+            "3": "1 teaspoon paprika"
+        },
+        {
+            "4": "0.5 teaspoon cayenne pepper"
+        },
+        {
+            "5": "2 tablespoons olive oil"
+        },
+        {
+            "6": "2 teaspoons lemon juice"
+        },
+        {
+            "7": "2 pounds large shrimp, peeled and deveined"
+        },
+        {
+            "8": "8 wedges lemon, for garnish"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat a grill for medium heat."
+        },
+        {
+            "2": "Crush garlic and salt together in a small bowl with a fork. Mix in paprika and cayenne. Stir in olive oil and lemon juice to form a paste."
+        },
+        {
+            "3": "Combine garlic paste and shrimp in a large bowl and toss until shrimp are evenly coated."
+        },
+        {
+            "4": "Lightly oil the grill grate. Grill shrimp until opaque, 2 to 3 minutes per side. Transfer to a serving dish, garnish with lemon wedges, and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "164"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9400356.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9174504.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9158223.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8879556.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/XCxBNHOsOISbNwDsIwvSDUKXLmI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1384969-spicy-grilled-shrimp-KGora-1x1-1-77078f6e15bc47809cfa1e165a76c9eb.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

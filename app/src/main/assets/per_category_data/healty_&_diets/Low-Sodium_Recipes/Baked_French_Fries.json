@@ -1,0 +1,81 @@
+{
+    "title": "Baked French Fries",
+    "Category": "Low-Sodium Recipes",
+    "Ingredients": [
+        {
+            "1": "1 large baking potato"
+        },
+        {
+            "2": "1 tablespoon olive oil"
+        },
+        {
+            "3": "0.5 teaspoon paprika"
+        },
+        {
+            "4": "0.5 teaspoon garlic powder"
+        },
+        {
+            "5": "0.5 teaspoon chili powder"
+        },
+        {
+            "6": "0.5 teaspoon onion powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "2": "Cut potato into thick wedges. Mix olive oil, paprika, garlic powder, chili powder, and onion powder together in a medium bowl. Add potato wedges and toss to coat evenly; arrange on a baking sheet."
+        },
+        {
+            "3": "Bake in the preheated oven, turning once or twice, until golden brown and crispy, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "357"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "55g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9185553.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8939342.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8724885.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8080198.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/s_Ko4xztGnjB-GReZy8ac52h8Qg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3678575-0093b22dee824fe3974ab37798153262.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

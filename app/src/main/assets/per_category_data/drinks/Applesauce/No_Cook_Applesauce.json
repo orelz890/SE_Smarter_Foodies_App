@@ -1,0 +1,66 @@
+{
+    "title": "No Cook Applesauce",
+    "Category": "Applesauce",
+    "Ingredients": [
+        {
+            "1": "12  apples - peeled, cored, and chopped"
+        },
+        {
+            "2": "1 cup brown sugar"
+        },
+        {
+            "3": "1 cup water"
+        },
+        {
+            "4": "0.5 tablespoons lemon juice"
+        },
+        {
+            "5": "1 teaspoon ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Blend apples, brown sugar, water, lemon juice, and cinnamon in a blender until smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "107"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffebd174a028738289ed99fc3d474abdf%2F5143941.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5588df69c0e708c95c8bb6a4933aa623%2F1061318.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7571639a6898844b78b13c54d69607e6%2F1060959.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

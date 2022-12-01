@@ -1,0 +1,87 @@
+{
+    "title": "Broccoli Cashew Salad",
+    "Category": "Broccoli Salad",
+    "Ingredients": [
+        {
+            "1": "1 pound bacon"
+        },
+        {
+            "2": "1 cup mayonnaise"
+        },
+        {
+            "3": "2 teaspoons cider vinegar"
+        },
+        {
+            "4": "0.5 cup white sugar"
+        },
+        {
+            "5": "2 pounds fresh broccoli, broken into florets"
+        },
+        {
+            "6": "0.5 cup raisins"
+        },
+        {
+            "7": "1 cup roasted cashews"
+        },
+        {
+            "8": "0.25  red onion, finely chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the bacon in a large, deep skillet, and cook over medium-high heat, turning occasionally, until evenly browned and crisp, about 10 minutes. Drain the bacon slices on a paper towel-lined plate. Cool bacon and crumble into pieces."
+        },
+        {
+            "2": "Whisk together the mayonnaise, cider vinegar, and sugar in a mixing bowl until the sugar has dissolved. Add the broccoli, raisins, cashews, onion, and crumbled bacon. Stir until evenly coated. Cover and refrigerate the salad for at least 2 hours. Let stand at room temperature 15 to 20 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "512"
+        },
+        {
+            "Fat": "38g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7950931.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5629998.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4496291.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3847204.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

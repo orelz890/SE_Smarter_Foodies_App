@@ -1,0 +1,57 @@
+{
+    "title": "Tito's Berry Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "0.5 ounces Tito's Handmade Vodka"
+        },
+        {
+            "2": "4 ounces lemonade"
+        },
+        {
+            "3": "1 Fresh berries, sliced or whole"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Lightly muddle berries into a glass. Add Tito's Handmade Vodka, lemonade, and ice."
+        },
+        {
+            "2": "Stir and garnish with a strawberry or lemon slice."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 drink"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "148"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4b6dfa0e6403a3b1f0f4ba437b633149%2F1653497017Meredith_Berry_Lemonade_V2.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

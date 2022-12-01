@@ -1,0 +1,108 @@
+{
+    "title": "Sauce Rosee",
+    "Category": "Tortellini",
+    "Ingredients": [
+        {
+            "1": "0.5 pound refrigerated cheese tortellini"
+        },
+        {
+            "2": "6 tablespoons olive oil"
+        },
+        {
+            "3": "0.5 teaspoon dried basil"
+        },
+        {
+            "4": "0.5 teaspoon dried thyme"
+        },
+        {
+            "5": "0.5 teaspoon dried oregano"
+        },
+        {
+            "6": "0.5 teaspoon dried parsley"
+        },
+        {
+            "7": "0.25 teaspoon dried red pepper flakes"
+        },
+        {
+            "8": "2 tablespoons minced onion"
+        },
+        {
+            "9": "2 tablespoons minced green bell pepper"
+        },
+        {
+            "10": "1 tablespoon minced garlic"
+        },
+        {
+            "11": "7 ounces tomato sauce"
+        },
+        {
+            "12": "1 tablespoon white sugar"
+        },
+        {
+            "13": "0.5 teaspoon chicken soup base"
+        },
+        {
+            "14": "6 fluid ounces heavy cream"
+        },
+        {
+            "15": "0.5 cup white wine"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil; stir in tortellini and return to a gentle boil. Cook uncovered, stirring occasionally, until tortellini float to the top and filling is hot, about 4 minutes. Drain and set aside."
+        },
+        {
+            "2": "Heat olive oil in a large saucepan over medium-low heat. Stir basil, thyme, oregano, parsley, and red pepper flakes into hot oil."
+        },
+        {
+            "3": "Add onion, bell pepper, and garlic; cook and stir until onions are translucent, about 2 minutes. Pour in tomato sauce and bring to a boil. Stir in sugar and chicken bouillon until dissolved."
+        },
+        {
+            "4": "Reduce heat and stir in cream and wine; bring close to a boil, stirring constantly. Gently stir in tortellini and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "344"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7893149.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6098890.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Feb633b2c7584797b744166fae1c6c530%2F4462366.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4210429.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

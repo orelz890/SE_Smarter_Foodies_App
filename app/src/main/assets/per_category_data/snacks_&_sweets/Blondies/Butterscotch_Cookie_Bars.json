@@ -1,0 +1,99 @@
+{
+    "title": "Butterscotch Cookie Bars",
+    "Category": "Blondies",
+    "Ingredients": [
+        {
+            "1": "1 cup butterscotch chips"
+        },
+        {
+            "2": "0.25 cup butter"
+        },
+        {
+            "3": "2  eggs"
+        },
+        {
+            "4": "0.5 teaspoon vanilla extract"
+        },
+        {
+            "5": "0.75 cup all-purpose flour"
+        },
+        {
+            "6": "1 teaspoon baking powder"
+        },
+        {
+            "7": "0.75 teaspoon salt"
+        },
+        {
+            "8": "1 cup brown sugar"
+        },
+        {
+            "9": "1 cup semi-sweet chocolate chips"
+        },
+        {
+            "10": "0.5 cup chopped walnuts"
+        },
+        {
+            "11": "0.5 cup raisins"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place butterscotch chips and butter into a glass bowl. Heat in the microwave for about 3 minutes, stirring at 30 second intervals until smooth. Set aside to cool until firm."
+        },
+        {
+            "2": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13 inch pan."
+        },
+        {
+            "3": "In a large bowl, beat the butterscotch chip mixture with eggs and vanilla until well blended. Combine the flour, baking powder, and salt; stir into the batter until evenly mixed. Mix in the brown sugar, chocolate chips, walnuts, and raisins. Spread the batter evenly in the prepared pan."
+        },
+        {
+            "4": "Bake for 25 minutes in the preheated oven, just until the bars begin to pull away from the sides of the pan. Cut into squares while warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "1 - 9x13 inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "231"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8174470.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6312544.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F906131.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2845b6c484ed70bf397ec789f4c03dc3%2F62171.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

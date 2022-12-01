@@ -1,0 +1,93 @@
+{
+    "title": "Karen's Sweet Corn Bread",
+    "Category": "Cornbread",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "2  eggs"
+        },
+        {
+            "4": "1 cup yellow cornmeal"
+        },
+        {
+            "5": "0.5 cups all-purpose flour"
+        },
+        {
+            "6": "2 teaspoons baking powder"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "0.5 cups milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C). Grease an 8-inch square pan."
+        },
+        {
+            "2": "Beat butter and sugar together in a bowl until creamy. Add eggs; beat until combined. Stir in cornmeal."
+        },
+        {
+            "3": "Sift flour, baking powder, and salt together in a separate bowl. Stir flour mixture, alternating with milk, into butter mixture until well combined. Pour batter into prepared pan."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted in the center of the bread comes out clean, 30 to 35 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "227"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9427641.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9427642.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9388894.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9317315.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/E6ds2_FBESAPDKH4r4UFSyb5hGM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-216-f77d4d9ed2ed4702bf55b64379b0f28b.jpg"
+        }
+    ],
+    "main category": "flour"
+}

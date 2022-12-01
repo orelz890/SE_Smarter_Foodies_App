@@ -1,0 +1,111 @@
+{
+    "title": "Fresh Peach Cobbler I",
+    "Category": "Cobbler",
+    "Ingredients": [
+        {
+            "1": "1 Peach Filling-"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "1 tablespoon cornstarch"
+        },
+        {
+            "4": "0.25 teaspoon ground cinnamon"
+        },
+        {
+            "5": "4 cups sliced fresh peaches"
+        },
+        {
+            "6": "1 teaspoon lemon juice"
+        },
+        {
+            "7": "1 Cobbler Topping-"
+        },
+        {
+            "8": "1 cup all-purpose flour"
+        },
+        {
+            "9": "1 tablespoon white sugar"
+        },
+        {
+            "10": "0.5 teaspoons baking powder"
+        },
+        {
+            "11": "0.5 teaspoon salt"
+        },
+        {
+            "12": "3 tablespoons shortening"
+        },
+        {
+            "13": "0.5 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Combine 1/2 cup sugar, cornstarch, and cinnamon in a saucepan and whisk to mix. Stir in sliced peaches (see Editor's Note) and lemon juice, tossing until peaches are evenly coated."
+        },
+        {
+            "3": "Cook filling over medium heat, stirring constantly, until mixture thickens and boils. Boil 1 minute. Pour mixture into an ungreased 2-quart casserole dish. Keep mixture hot in oven while you make the topping."
+        },
+        {
+            "4": "In a medium bowl combine flour, 1 tablespoon sugar, baking powder, and salt. Mix thoroughly, then cut in shortening until mixture looks like fine crumbs. Add milk and stir until mixture is evenly moistened."
+        },
+        {
+            "5": "Remove peach filling from oven and drop dough onto peaches in 6 equal-size spoonfuls."
+        },
+        {
+            "6": "Return cobbler to oven and bake until topping is golden brown, 25 to 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "243"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "43g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8714916.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8581598.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5799070.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5617291.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

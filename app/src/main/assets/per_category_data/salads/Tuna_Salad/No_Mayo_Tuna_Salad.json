@@ -1,0 +1,81 @@
+{
+    "title": "No-Mayo Tuna Salad",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "5  eggs"
+        },
+        {
+            "2": "0.25 cups bread and butter pickles"
+        },
+        {
+            "3": "2 (5 ounce) cans tuna, drained"
+        },
+        {
+            "4": "3 stalks celery, chopped"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "7": "1 tablespoon sweet pickle juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water and cool under cold running water. Peel."
+        },
+        {
+            "2": "Place the eggs and pickles into a food processor; pulse until roughly chopped. Transfer to a medium bowl and stir in tuna and celery. Season with salt and pepper, and stir in the pickle juice until thoroughly blended."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "139"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2215348.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2115413.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb3fd31a1192e2ce6da9d8e97e014c2e8%2F210424.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

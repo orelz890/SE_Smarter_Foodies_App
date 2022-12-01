@@ -1,0 +1,87 @@
+{
+    "title": "Black-Eyed Pea Gumbo",
+    "Category": "Gumbo",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "1 medium onion, chopped"
+        },
+        {
+            "3": "1 medium green bell pepper, chopped"
+        },
+        {
+            "4": "5 stalks celery, chopped"
+        },
+        {
+            "5": "2 cups chicken broth"
+        },
+        {
+            "6": "1 cup brown rice"
+        },
+        {
+            "7": "4 (15 ounce) cans black-eyed peas with liquid"
+        },
+        {
+            "8": "1 (10 ounce) can diced tomatoes and green chiles"
+        },
+        {
+            "9": "1 (14.5 ounce) can diced tomatoes"
+        },
+        {
+            "10": "2 cloves garlic, finely chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a large saucepan over medium heat. Add onion, pepper, and celery; cook until tender."
+        },
+        {
+            "2": "Pour in chicken broth; stir in rice, black-eyed peas with liquid, diced tomatoes with green chiles, diced tomatoes, and garlic. Bring to a boil, reduce heat to low, and simmer for 45 minutes, or until rice is tender. Add water if gumbo is too thick."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "272"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffa3909ce4f4ca5a65a8e7f56acc7ec5a%2F166177900420220828_191626.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8916771.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8911163.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8911058.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

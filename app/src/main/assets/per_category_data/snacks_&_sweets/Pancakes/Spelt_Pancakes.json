@@ -1,0 +1,96 @@
+{
+    "title": "Spelt Pancakes",
+    "Category": "Pancakes",
+    "Ingredients": [
+        {
+            "1": "0.75 cup milk"
+        },
+        {
+            "2": "1 tablespoon lemon juice"
+        },
+        {
+            "3": "1  egg, beaten"
+        },
+        {
+            "4": "1 tablespoon melted butter"
+        },
+        {
+            "5": "1 cup spelt flour"
+        },
+        {
+            "6": "1 teaspoon white sugar"
+        },
+        {
+            "7": "1 teaspoon baking powder"
+        },
+        {
+            "8": "0.75 teaspoon baking soda"
+        },
+        {
+            "9": "0.25 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine milk and lemon juice in a bowl and set aside to sour, about 5 minutes. Add beaten egg and melted butter; stir to combine."
+        },
+        {
+            "2": "Combine spelt flour, sugar, baking powder, baking soda, and salt in a large bowl. Stir gently into milk mixture until just combined; batter will be lumpy."
+        },
+        {
+            "3": "Heat a lightly oiled griddle over medium-high heat. Drop batter by large spoonfuls onto the griddle and cook until bubbles form and the edges are dry, 3 to 4 minutes. Flip and cook until browned on the other side, 1 to 2 minutes. Repeat with remaining batter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "172"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fae3d0792eef2cb3858e98feaf36eaffa%2F1666966204912IMG_5011.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9412909.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8135541.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff5b04d86de051887ffd22a12b97614d1%2F6380811.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/6CDOwVoq9LWKwLfIgHMAhlJITFg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4918338-33fbbaaff6474c1b9b0a809ff053e567.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

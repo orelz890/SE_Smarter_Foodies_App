@@ -1,0 +1,59 @@
+{
+    "title": "Eggnog from Scratch",
+    "Category": "Eggnog",
+    "Ingredients": [
+        {
+            "1": "12 jumbo egg yolks"
+        },
+        {
+            "2": "1 pound granulated sugar"
+        },
+        {
+            "3": "1 quart whole milk"
+        },
+        {
+            "4": "1 liter spiced rum"
+        },
+        {
+            "5": "1 quart heavy cream, lightly whipped"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Beat egg yolks in a large mixing bowl. Gradually add sugar. Beat until mixture thickens. Stir in milk and rum. Pour into a large punch bowl and chill for 3 to 4 hours."
+        },
+        {
+            "2": "Fold in lightly whipped heavy cream with vanilla before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Additional Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 20 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F962040.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1588e7a97e6c5dd8af235b7150f3837b%2F506260.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd6f0e79f4d7a73c857381a0d09f8d293%2F52742.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Whole Wheat Banana Waffles",
+    "Category": "Waffles",
+    "Ingredients": [
+        {
+            "1": "1 cup all-purpose flour"
+        },
+        {
+            "2": "0.75 cup whole wheat flour"
+        },
+        {
+            "3": "1 tablespoon baking powder"
+        },
+        {
+            "4": "0.25 teaspoon kosher salt"
+        },
+        {
+            "5": "0.5 cups milk"
+        },
+        {
+            "6": "1 cup mashed overripe bananas"
+        },
+        {
+            "7": "0.5 cup canola oil"
+        },
+        {
+            "8": "2  eggs"
+        },
+        {
+            "9": "0.5 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat a waffle iron according to manufacturer's instructions. Grease the inside of the waffle iron."
+        },
+        {
+            "2": "Mix all-purpose flour, whole wheat flour, baking powder, and salt together in a bowl. Whisk milk, bananas, canola oil, eggs, and vanilla extract together in a separate bowl; stir into flour mixture until batter is moistened with a few lumps."
+        },
+        {
+            "3": "Spoon about 1/4 cup batter into preheated waffle iron and cook according to manufacturer's instructions."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 waffles"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "382"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9271111.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8604223.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7818131.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe02679910ba1e6ce1178ae6e7ff06d83%2F5732893.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

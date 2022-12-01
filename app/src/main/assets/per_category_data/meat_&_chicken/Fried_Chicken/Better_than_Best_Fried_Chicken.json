@@ -1,0 +1,99 @@
+{
+    "title": "Better than Best Fried Chicken",
+    "Category": "Fried Chicken",
+    "Ingredients": [
+        {
+            "1": "1 (10.5 ounce) can condensed cream of chicken soup"
+        },
+        {
+            "2": "1 large egg"
+        },
+        {
+            "3": "1 seasoning salt to taste"
+        },
+        {
+            "4": "4  skinless, boneless chicken breast halves"
+        },
+        {
+            "5": "0.5 cup all-purpose flour"
+        },
+        {
+            "6": "0.5 cup cornstarch"
+        },
+        {
+            "7": "0.5 teaspoon garlic powder"
+        },
+        {
+            "8": "0.5 teaspoon paprika"
+        },
+        {
+            "9": "1 salt and pepper to taste"
+        },
+        {
+            "10": "1 oil for frying"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine condensed soup, egg, and seasoning salt (be careful, as soup is already salted) in a shallow dish or bowl; mix well. Dip chicken in mixture and turn to coat completely. Set aside."
+        },
+        {
+            "2": "Mix together flour, cornstarch, garlic powder, paprika, salt, and pepper in a resealable plastic bag. Place chicken pieces, one at a time, in the bag, seal and shake to coat. Add more flour and cornstarch as necessary, but add them in equal parts."
+        },
+        {
+            "3": "Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C). Be sure to use enough oil to cover chicken pieces."
+        },
+        {
+            "4": "Place coated chicken on a platter; allow to sit until outside becomes doughy (this is critical to ensure crispiness when fried). Once chicken coating is doughy, test oil by dropping a piece of coating into it; oil is ready if it starts to fry immediately."
+        },
+        {
+            "5": "Working in batches, fry chicken pieces in hot oil until cooked through and the juices run clear, 7 to 10 minutes. Drain on paper towels and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "531"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7251397.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa11320a57d63a6d99ab9ae3e57342f2f%2F6472917.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F84e7e4cc9e97f3c78034018ae115574d%2F6213101.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd5cfcdd2aca76d410a595160358cb3e7%2F5464304.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/z8c2hAEC6eRITKphiyvVxXYe7rc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1089770-b7af8096a9594e0f812e7926316f63cb.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

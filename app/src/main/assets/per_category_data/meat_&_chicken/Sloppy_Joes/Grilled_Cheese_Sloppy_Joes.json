@@ -1,0 +1,81 @@
+{
+    "title": "Grilled Cheese Sloppy Joes",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "2 tablespoons dried minced onion"
+        },
+        {
+            "3": "1 (12 ounce) bottle chili sauce (such as Heinz\u00ae)"
+        },
+        {
+            "4": "1.0 tablespoons brown sugar"
+        },
+        {
+            "5": "1 tablespoon water, or as needed"
+        },
+        {
+            "6": "0.5 cup salted butter, softened, or as needed"
+        },
+        {
+            "7": "16 slices bread"
+        },
+        {
+            "8": "16 slices American cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large skillet over medium-high heat. Cook and stir ground beef and minced in the hot skillet until browned and crumbly, 5 to 7 minutes."
+        },
+        {
+            "2": "Add chili sauce and brown sugar. Rinse chili sauce jar with water to get the remnants of the sauce; add to the beef mixture. Stir, reduce heat, and simmer for 10 to 15 minutes. Remove from the heat."
+        },
+        {
+            "3": "Butter one side of 2 slices of bread. Place one slice, butter-side down, in a new skillet over medium heat. Layer with 1 slice of American cheese, a scoop of Sloppy Joe mixture, another slice of cheese, and the second piece of bread, butter-side up. Cook until sandwich is browned on the bottom and the bottom slice of cheese is melted, 3 to 5 minutes. Flip sandwich over and repeat on the other side. Repeat to assemble and cook remaining sandwiches."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 sandwiches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "585"
+        },
+        {
+            "Fat": "39g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8911864.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5410153.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Basic Cheese Polenta",
+    "Category": "Polenta",
+    "Ingredients": [
+        {
+            "1": "1 cup cornmeal"
+        },
+        {
+            "2": "1 cup cold water"
+        },
+        {
+            "3": "1 teaspoon salt"
+        },
+        {
+            "4": "3 cups boiling water"
+        },
+        {
+            "5": "1 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a mixing bowl combine cornmeal, cold water and salt. Grease a loaf pan."
+        },
+        {
+            "2": "Bring the remaining 3 cups of water to a rolling boil and stir in the cornmeal mixture. Bring the mixture back to a boil while stirring constantly. Reduce heat to a simmer and stir in the cheese."
+        },
+        {
+            "3": "Let the mixture simmer for 20 to 30 minutes; stirring frequently. Allow the polenta to simmer until it becomes very thick. Spread the mixture into the loaf pan and refrigerate at least 4 hours before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": " 4 hrs"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 4 hrs 30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "214"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7010156.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3333114.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc4444a6e5dc9606c467ade0cbcf72217%2F668107.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F656610.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

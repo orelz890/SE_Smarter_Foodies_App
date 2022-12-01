@@ -1,0 +1,87 @@
+{
+    "title": "Black Beans and Rice",
+    "Category": "High-Fiber Recipes",
+    "Ingredients": [
+        {
+            "1": "1 teaspoon olive oil"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "2 cloves garlic, minced"
+        },
+        {
+            "4": "0.75 cup uncooked white rice"
+        },
+        {
+            "5": "0.5 cups low sodium, low fat vegetable broth"
+        },
+        {
+            "6": "1.5 cups canned black beans, drained"
+        },
+        {
+            "7": "1 teaspoon ground cumin"
+        },
+        {
+            "8": "0.25 teaspoon cayenne pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a saucepan over medium-high heat. Add onion and garlic; cook and stir until onion has softened, about 4 minutes. Stir in rice to coat; cook and stir for 2 minutes."
+        },
+        {
+            "2": "Add vegetable broth and bring to a boil. Cover, reduce to a simmer, and cook until liquid is absorbed, about 20 minutes."
+        },
+        {
+            "3": "Stir in beans, cumin, and cayenne; cook until beans are warmed through."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "140"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F58c5876a813fedb0b6285c0ba5dd34ba%2F1649185439BF3A61C5-EAEA-4D63-99FC-4C0260240D47.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9192258.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9155564.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9244075f23b227ca90f0442130334eb2%2F6421709.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/KwTKa17RBxGi-f8YCjPY3J07X-g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Black-Beans-and-Rice-by-House-of-Aqua-2119665_original-4e87fb50007047deb0756d83d15591b7.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

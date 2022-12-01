@@ -1,0 +1,99 @@
+{
+    "title": "Pumpkin Custard Pie",
+    "Category": "Pie Recipes",
+    "Ingredients": [
+        {
+            "1": "0.75 cups pumpkin puree"
+        },
+        {
+            "2": "0.75 cup white sugar"
+        },
+        {
+            "3": "1 teaspoon ground cinnamon"
+        },
+        {
+            "4": "0.5 teaspoon ground ginger"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "1 cup heavy whipping cream"
+        },
+        {
+            "7": "0.5 cup milk"
+        },
+        {
+            "8": "2 large eggs, beaten"
+        },
+        {
+            "9": "1 (9 inch) frozen unbaked pie crust, thawed in the refrigerator, but still cold"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Place pumpkin puree in a saucepan over medium-high heat; cook and stir until slightly dry and caramelized, 10 to 20 minutes. Remove from the heat."
+        },
+        {
+            "3": "Stir sugar, cinnamon, ginger, and salt into the caramelized pumpkin until well combined. Mix in cream, milk, and eggs until smooth. Pour into the cold pie crust."
+        },
+        {
+            "4": "Bake in the preheated oven until crust is golden brown and filling is mostly set except for a small spot in the center that jiggles when the pie is shaken slightly, 25 to 55 minutes."
+        },
+        {
+            "5": "Remove from the oven and allow to cool completely on wire rack before cutting."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "326"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F58448676b0114acb9c42b28af81b5458%2F166917110095820221122_193814.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F58448676b0114acb9c42b28af81b5458%2F166866215387113858_pumpkin-custard-pie2.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9437900.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8796671.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Y6bPlB1QdCLeY_5dpHI7upKvcrc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Screen-Shot-2022-07-12-at-2.31.08-PM-29bcbfa2da64415db9013b2572fd7251.png"
+        }
+    ],
+    "main category": "pies"
+}

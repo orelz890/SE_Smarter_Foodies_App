@@ -1,0 +1,78 @@
+{
+    "title": "Fusion Hummus",
+    "Category": "Hummus",
+    "Ingredients": [
+        {
+            "1": "2 sprigs fresh rosemary"
+        },
+        {
+            "2": "1 clove garlic, peeled"
+        },
+        {
+            "3": "2 (15.5 ounce) cans garbanzo beans, drained"
+        },
+        {
+            "4": "0.25 cup olive oil"
+        },
+        {
+            "5": "0.25 cup balsamic vinegar"
+        },
+        {
+            "6": "0.25 cup cold water"
+        },
+        {
+            "7": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Strip rosemary leaves from stems, discard stems, and place leaves in the bowl of a food processor. Add garlic and pulse until finely chopped. Pour in the garbanzo beans; process until evenly blended."
+        },
+        {
+            "2": "With food processor running, slowly pour in the olive oil, scraping sides of the bowl as necessary. Pour in balsamic vinegar and process until evenly blended. Taste, and add more vinegar, 1 tablespoon at a time, as desired. Pour in the water and process to make a spreadable consistency. Add more water, 1 tablespoon at a time, if necessary. Season with salt and pepper to taste. Chill before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "4 1/2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "157"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9273084.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd8a735ca7d8465696949e9fac9d7d9a1%2F618695.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9c563bffffedd978db0fb03d87ca4d11%2F618504.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F515597.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

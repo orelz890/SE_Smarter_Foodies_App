@@ -1,0 +1,108 @@
+{
+    "title": "Asian Coleslaw",
+    "Category": "Salad Recipes",
+    "Ingredients": [
+        {
+            "1": "1 Peanut Dressing-"
+        },
+        {
+            "2": "6 tablespoons rice wine vinegar"
+        },
+        {
+            "3": "6 tablespoons vegetable oil"
+        },
+        {
+            "4": "5 tablespoons creamy peanut butter"
+        },
+        {
+            "5": "3 tablespoons soy sauce"
+        },
+        {
+            "6": "3 tablespoons brown sugar"
+        },
+        {
+            "7": "2 tablespoons minced fresh ginger root"
+        },
+        {
+            "8": "0.5 tablespoons minced garlic"
+        },
+        {
+            "9": "1 Cabbage Salad-"
+        },
+        {
+            "10": "5 cups thinly sliced green cabbage"
+        },
+        {
+            "11": "2 cups thinly sliced red cabbage"
+        },
+        {
+            "12": "2 cups shredded napa cabbage"
+        },
+        {
+            "13": "2  red bell peppers, thinly sliced"
+        },
+        {
+            "14": "2  carrots, julienned"
+        },
+        {
+            "15": "6  green onions, chopped"
+        },
+        {
+            "16": "0.5 cup chopped fresh cilantro"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Prepare the peanut dressing: Whisk together rice vinegar, oil, peanut butter, soy sauce, brown sugar, ginger, and garlic in a medium bowl. Set aside."
+        },
+        {
+            "2": "Make the cabbage salad: Mix green cabbage, red cabbage, napa cabbage, red bell peppers, carrots, green onions, and cilantro in a large bowl."
+        },
+        {
+            "3": "Toss salad together with peanut dressing just before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "184"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8711791.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8313725.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8165857.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7723616.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/H4qouwS9KiVWiyIAT_xT_paGWiw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2805594-da34dcb299e34892a4cbdd8b5d3db6c7.jpg"
+        }
+    ],
+    "main category": "salads"
+}

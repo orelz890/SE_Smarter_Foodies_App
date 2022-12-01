@@ -1,0 +1,81 @@
+{
+    "title": "Super Easy Strawberry Shortcake Biscuits",
+    "Category": "Biscuit",
+    "Ingredients": [
+        {
+            "1": "1.0 cups all-purpose flour"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "3 tablespoons baking powder"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "0.5 cup shortening"
+        },
+        {
+            "6": "2 large eggs"
+        },
+        {
+            "7": "0.5 cups milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 12-cup muffin tin."
+        },
+        {
+            "2": "Mix flour, sugar, baking powder, and salt together in a bowl. Cut in shortening and mix to combine."
+        },
+        {
+            "3": "Beat eggs in a separate bowl and mix in milk to combine. Add to the dry ingredients and mix until moistened. Pour batter evenly into each of the prepared muffin cups and transfer to the oven as quickly as possible."
+        },
+        {
+            "4": "Bake in the preheated oven until golden brown, about 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 biscuits"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "232"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1d606f8b0090b5e8fe4e34d5fa9541cf%2F1658704813C2A2250F-4104-4AE1-BC67-21D669B3D8AD.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5561908.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

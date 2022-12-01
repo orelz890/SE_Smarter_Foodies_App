@@ -1,0 +1,93 @@
+{
+    "title": "Oven Fried Chicken",
+    "Category": "Fried Chicken",
+    "Ingredients": [
+        {
+            "1": "12  chicken thighs"
+        },
+        {
+            "2": "3  eggs"
+        },
+        {
+            "3": "1 cup all-purpose flour"
+        },
+        {
+            "4": "1 cup Italian seasoned bread crumbs"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        },
+        {
+            "6": "1 teaspoon paprika"
+        },
+        {
+            "7": "0.5 cup vegetable oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Place flour in a shallow plate or bowl and season with salt and pepper to taste. Put the bread crumbs in another shallow plate or bowl and beat the eggs in another bowl."
+        },
+        {
+            "3": "Dredge the chicken piece by piece in the flour, then the egg, then the bread crumbs, until all pieces are coated."
+        },
+        {
+            "4": "Pour the oil into a large baking dish; add the breaded chicken thighs and sprinkle with paprika to taste. Bake in the preheated oven for 30 minutes, then turn pieces over and bake for another 30 minutes. Remove from oven and drain on paper towels."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "310"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd816e5ecc2c5eb35dfe133b42c10b4b4%2F165611681320220624_171810.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9033006.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9031868.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9031868.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/3GBWY5ek7hAcQ8gOpl67-IwEai4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8841-Oven-Fried-Chicken-ddmfs-4x3-104184-1633bf02818a49f9818732cba77216c6.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/WPXTunsYeKTgXvRhfV80CPXDNuI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/edited-102225723-oven-fried-chicken-aa14f70b44e94884865de45050e44ec8.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/SRxQZwUGy6nVosiT5zyqsLGAkRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8841-Oven-Fried-Chicken-ddmfs-1x1-104185-ac6bdc1dfd324374a445cbfdd3e99878.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

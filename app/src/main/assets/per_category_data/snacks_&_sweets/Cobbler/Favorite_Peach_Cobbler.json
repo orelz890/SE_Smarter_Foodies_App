@@ -1,0 +1,93 @@
+{
+    "title": "Favorite Peach Cobbler",
+    "Category": "Cobbler",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter, melted"
+        },
+        {
+            "2": "4 cups fresh peaches - peeled, pitted, and sliced"
+        },
+        {
+            "3": "2 tablespoons white sugar"
+        },
+        {
+            "4": "1 cup white sugar"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "1 teaspoon baking powder"
+        },
+        {
+            "7": "1 cup all-purpose flour"
+        },
+        {
+            "8": "1 teaspoon ground cinnamon"
+        },
+        {
+            "9": "0.5 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Pour melted butter into the bottom of a 9x13-inch dish."
+        },
+        {
+            "2": "Toss together peaches and 2 tablespoons sugar in the prepared dish."
+        },
+        {
+            "3": "Stir together 1 cup sugar, salt, baking powder, flour, cinnamon, and milk in a mixing bowl. Spoon batter over peaches."
+        },
+        {
+            "4": "Bake in the preheated oven until top is golden brown, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 9x13-inch cobbler"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "234"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F452641c66724c15d5d41d7fb67dae31e%2F166277411920220909_162559.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F452641c66724c15d5d41d7fb67dae31e%2F1659812135F76CF5F2-0C45-4B00-B9A3-52638EAD7FBD.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F452641c66724c15d5d41d7fb67dae31e%2F165629071420220625_185304.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9425883.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

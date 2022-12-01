@@ -1,0 +1,69 @@
+{
+    "title": "Lavender Lemonade with Hibiscus",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "3 cups water"
+        },
+        {
+            "2": "0.5 cups lemon juice"
+        },
+        {
+            "3": "3 cups water"
+        },
+        {
+            "4": "0.25 cups white sugar"
+        },
+        {
+            "5": "2 tablespoons dried lavender flowers"
+        },
+        {
+            "6": "0.5 teaspoons dried hibiscus petals"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix 3 cups water and lemon juice in a large pitcher. Refrigerate until chilled."
+        },
+        {
+            "2": "Bring remaining 3 cups water, sugar, lavender, and hibiscus petals to a boil in a saucepan. Reduce heat to medium-low and simmer for 10 minutes. Remove from heat and allow to cool. Strain lavender and hibiscus from liquid and pour into pitcher with lemon water. Refrigerate until cold."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "133"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff45607c38f02ed078681992d40d3f958%2F5466523.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

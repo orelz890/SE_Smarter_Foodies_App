@@ -1,0 +1,78 @@
+{
+    "title": "Fresh Restaurant-Style Salsa",
+    "Category": "Salsa",
+    "Ingredients": [
+        {
+            "1": "1 (28 ounce) can Roma tomatoes, drained"
+        },
+        {
+            "2": "4 small Roma tomatoes, quartered"
+        },
+        {
+            "3": "1 cup chopped white onion"
+        },
+        {
+            "4": "1 clove garlic, smashed"
+        },
+        {
+            "5": "1 small bunch fresh cilantro, stems removed"
+        },
+        {
+            "6": "1  serrano pepper, seeded and chopped"
+        },
+        {
+            "7": "1 medium jalapeno pepper, seeded and chopped"
+        },
+        {
+            "8": "1 tablespoon freshly squeezed lime juice"
+        },
+        {
+            "9": "0.5 teaspoons kosher salt"
+        },
+        {
+            "10": "0.25 teaspoon ground cumin"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine canned and fresh tomatoes, onion, and garlic in a food processor; pulse 5 times to chop. Add cilantro, serrano and jalapeno peppers, lime juice, salt, and cumin and process for 10 seconds. Pulse further to desired consistency. Check and adjust seasoning as desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "6 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "11"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9235854.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9235853.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

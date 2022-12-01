@@ -1,0 +1,87 @@
+{
+    "title": "Zeppole",
+    "Category": "Drop Cookies",
+    "Ingredients": [
+        {
+            "1": "2 quarts vegetable oil for frying"
+        },
+        {
+            "2": "1 cup all-purpose flour"
+        },
+        {
+            "3": "2 teaspoons baking powder"
+        },
+        {
+            "4": "0.5 teaspoons white sugar"
+        },
+        {
+            "5": "1 pinch salt"
+        },
+        {
+            "6": "2 large eggs, beaten"
+        },
+        {
+            "7": "1 cup ricotta cheese"
+        },
+        {
+            "8": "0.25 teaspoon vanilla extract"
+        },
+        {
+            "9": "0.5 cup confectioners' sugar for dusting"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a deep fryer to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Combine flour, baking powder, sugar, and salt in a medium saucepan. Stir in eggs, ricotta cheese, and vanilla. Mix gently over low heat until combined. Batter will be sticky."
+        },
+        {
+            "3": "Drop by tablespoons into the hot oil a few at a time. Zeppole will turn over by themselves. Fry until golden brown, about 3 or 4 minutes. Drain in a paper sack and dust with confectioners' sugar. Serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "35 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "69"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9089661.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9089676.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8626424.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7750585.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

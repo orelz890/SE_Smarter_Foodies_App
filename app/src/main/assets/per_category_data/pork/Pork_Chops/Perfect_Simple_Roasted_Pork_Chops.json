@@ -1,0 +1,72 @@
+{
+    "title": "Perfect Simple Roasted Pork Chops",
+    "Category": "Pork Chops",
+    "Ingredients": [
+        {
+            "1": "4  boneless center-cut pork chops"
+        },
+        {
+            "2": "1 salt and ground black pepper to taste"
+        },
+        {
+            "3": "2 tablespoons dried thyme, lightly crushed, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Sprinkle chops on all sides with thyme, salt, and pepper. Place on a baking sheet."
+        },
+        {
+            "3": "Bake in the preheated oven until a meat thermometer inserted into the thickest part of a pork chop reads 165 degrees F (74 degrees C), about 20 minutes. Tent aluminum foil over the chops and let rest 5 to 10 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 pork chops"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "169"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8586808.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8586805.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5563863.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

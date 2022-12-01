@@ -1,0 +1,66 @@
+{
+    "title": "Mock Macaroons",
+    "Category": "Macaroons",
+    "Ingredients": [
+        {
+            "1": "2 cups rolled oats"
+        },
+        {
+            "2": "1 cup packed brown sugar"
+        },
+        {
+            "3": "0.5 cup vegetable oil"
+        },
+        {
+            "4": "1  egg"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "0.5 teaspoon almond extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine oatmeal, brown sugar and oil in a bowl. Stir to mix well. Cover and let stand at least 5 hours, or overnight."
+        },
+        {
+            "2": "Pre-heat oven to 350 degrees F (175 degrees C). Grease cookie sheets - use non-stick if possible."
+        },
+        {
+            "3": "Add the egg, salt and almond extract to oatmeal and stir well until blended."
+        },
+        {
+            "4": "Drop by rounded teaspoonfuls about 1-1/2 inches apart on greased cookie sheets. Bake 7 or 8 minutes or until edges are browned and center is golden. Remove from cookie sheet and cool on racks."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "30 "
+        },
+        {
+            "Yield": "5 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "83"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7215ac0fbcae969ca8ea62abb1945400%2F970129.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

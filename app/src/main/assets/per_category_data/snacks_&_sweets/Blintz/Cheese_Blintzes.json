@@ -1,0 +1,93 @@
+{
+    "title": "Cheese Blintzes",
+    "Category": "Blintz",
+    "Ingredients": [
+        {
+            "1": "1 (1 pound) loaf white bread"
+        },
+        {
+            "2": "4 tablespoons white sugar"
+        },
+        {
+            "3": "2 teaspoons ground cinnamon"
+        },
+        {
+            "4": "2 (8 ounce) packages cream cheese, softened"
+        },
+        {
+            "5": "2 tablespoons milk"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "0.5 cup butter, melted"
+        },
+        {
+            "8": "1 pint sour cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Spray a cookie sheet generously with non-stick cooking spray."
+        },
+        {
+            "2": "Trim crusts from bread and roll the slices flat."
+        },
+        {
+            "3": "In a small bowl combine sugar and cinnamon to make a mixture."
+        },
+        {
+            "4": "In a large mixing bowl, mix softened cream cheese, milk and vanilla until smooth. Spread this mixture onto each slice of flattened bread. Roll each bread slice up. Dip bread/cream cheese rolls in melted butter, roll the blintzes immediately in the sugar-cinnamon mixture. Cut rolls into 1 inch pieces. Arrange the blintzes on the prepared cookie sheet."
+        },
+        {
+            "5": "Bake for 10 minutes. Serve with sour cream."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "9 "
+        },
+        {
+            "Yield": "8 to 10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "534"
+        },
+        {
+            "Fat": "40g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9106865.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8498818.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8458131.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6607192.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

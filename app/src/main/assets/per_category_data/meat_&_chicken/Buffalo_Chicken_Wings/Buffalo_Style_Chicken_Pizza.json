@@ -1,0 +1,87 @@
+{
+    "title": "Buffalo-Style Chicken Pizza",
+    "Category": "Buffalo Chicken Wings",
+    "Ingredients": [
+        {
+            "1": "3  cooked chicken breasts, diced"
+        },
+        {
+            "2": "1 (2 ounce) bottle hot sauce"
+        },
+        {
+            "3": "2 tablespoons butter, melted"
+        },
+        {
+            "4": "1 (8 ounce) bottle blue cheese salad dressing"
+        },
+        {
+            "5": "1 (16 inch) prepared pizza crust"
+        },
+        {
+            "6": "1 (8 ounce) package shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "2": "Mix chicken, hot sauce, and melted butter in a bowl until well combined."
+        },
+        {
+            "3": "Place crust onto a rimmed baking sheet or pizza pan. Spread salad dressing over crust, then top with chicken mixture and sprinkle with mozzarella."
+        },
+        {
+            "4": "Bake in the preheated oven until crust is golden brown and cheese is bubbly, about 5 to 10 minutes. Let sit a few minutes before slicing."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 16-inch pizza"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "428"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9269361.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8541774.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7709769.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F03a4e63a458935cde8b4191cab184436%2F7289369.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

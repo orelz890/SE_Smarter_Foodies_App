@@ -1,0 +1,99 @@
+{
+    "title": "Homemade Chili",
+    "Category": "Ground Beef",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil"
+        },
+        {
+            "2": "1 large onion, chopped"
+        },
+        {
+            "3": "2 cloves garlic, minced, or more to taste"
+        },
+        {
+            "4": "2 pounds lean ground beef"
+        },
+        {
+            "5": "2 (16 ounce) cans kidney beans, rinsed and drained"
+        },
+        {
+            "6": "1 (28 ounce) can diced tomatoes"
+        },
+        {
+            "7": "1 (15 ounce) can tomato puree"
+        },
+        {
+            "8": "1 cup water"
+        },
+        {
+            "9": "1 (4 ounce) can chopped green chile peppers"
+        },
+        {
+            "10": "2 tablespoons mild chili powder"
+        },
+        {
+            "11": "2 teaspoons salt"
+        },
+        {
+            "12": "2 teaspoons ground cumin"
+        },
+        {
+            "13": "1 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large skillet over medium-low heat. Add onion and garlic; cook and stir until onion is translucent, about 5 minutes. Add ground beef; cook and stir until browned, 8 to 10 minutes."
+        },
+        {
+            "2": "Transfer beef mixture to a 6-quart slow cooker. Stir in kidney beans, diced tomatoes, tomato puree, water, green chile peppers, chili powder, salt, cumin, and black pepper."
+        },
+        {
+            "3": "Cook on Low until flavors combine, 4 to 6 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 4 hrs 15 mins"
+        },
+        {
+            "Total Time": " 4 hrs 25 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "274"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe0df87ecdf323879b0367cc09a1623f2%2F1666845846945255259-homemade-chili-humblepieliving-001.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb34758c787c96a6281ddee2ad8e44b66%2F166376844120220921_094015.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9410671.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9011248.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

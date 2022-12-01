@@ -1,0 +1,87 @@
+{
+    "title": "Potato Salad - German Kartoffel",
+    "Category": "Potato Salad",
+    "Ingredients": [
+        {
+            "1": "5  potatoes"
+        },
+        {
+            "2": "2 tablespoons vinegar"
+        },
+        {
+            "3": "0.5 teaspoon white sugar"
+        },
+        {
+            "4": "1 salt and ground black pepper to taste"
+        },
+        {
+            "5": "1  onion, finely chopped"
+        },
+        {
+            "6": "2 tablespoons pickled gherkins, chopped"
+        },
+        {
+            "7": "0.25 cup creamy salad dressing (such as Miracle Whip\u00ae)"
+        },
+        {
+            "8": "4  hard-boiled eggs, cut into wedges, divided"
+        },
+        {
+            "9": "2 tablespoons chopped fresh parsley, or as desired"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes; drain and rinse with cold water to cool. Remove and discard potato skins. Slice potatoes."
+        },
+        {
+            "2": "Whisk vinegar, sugar, salt, and pepper together in a large bowl; add potatoes, onion, and chopped gherkin. Stir salad dressing into the mixture. Fold 3/4 the egg wedges into the mixture. Garnish with the remaining egg wedges and parsley. Cover bowl with plastic wrap and refrigerate 1 hour before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "241"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe7c2de87a40f76b91b9438d0313f80d9%2F4032841.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3185391.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1049709.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

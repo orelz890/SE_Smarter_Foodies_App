@@ -1,0 +1,87 @@
+{
+    "title": "Tuna Tostadas",
+    "Category": "Tostadas",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) can tuna"
+        },
+        {
+            "2": "5 tablespoons mayonnaise"
+        },
+        {
+            "3": "4 tablespoons salsa"
+        },
+        {
+            "4": "6 tablespoons vegetable oil"
+        },
+        {
+            "5": "4 (6 inch) corn tortillas"
+        },
+        {
+            "6": "1 large tomato, diced"
+        },
+        {
+            "7": "0.5 cup chopped fresh spinach"
+        },
+        {
+            "8": "0.5 cup diced onion"
+        },
+        {
+            "9": "4 tablespoons shredded Cheddar cheese"
+        },
+        {
+            "10": "1  avocado, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix tuna, mayonnaise, and salsa together in a bowl. Set aside."
+        },
+        {
+            "2": "Heat vegetable oil over medium-high heat in a frying pan. Add tortillas in batches and fry until golden and slightly crisp, 2 to 3 minutes."
+        },
+        {
+            "3": "Spread tuna mixture over tortillas evenly. Top with tomato, spinach, and onions. Sprinkle with Cheddar cheese and top with avocado slices."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "562"
+        },
+        {
+            "Fat": "46g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F78038028808a271fa24c668a25e684e2%2F1650332390WhatsApp%2520Image%25202022-04-18%2520at%25208.26.49%2520PM.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F920611.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

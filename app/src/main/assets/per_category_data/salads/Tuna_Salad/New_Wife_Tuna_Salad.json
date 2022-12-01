@@ -1,0 +1,87 @@
+{
+    "title": "New Wife Tuna Salad",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "4 (5 ounce) cans tuna, drained"
+        },
+        {
+            "2": "5  hard-boiled eggs, chopped"
+        },
+        {
+            "3": "0.5 cup chopped sweet onion"
+        },
+        {
+            "4": "1 stalk celery, chopped"
+        },
+        {
+            "5": "0.75 cup mayonnaise"
+        },
+        {
+            "6": "0.5 tablespoons dill pickle relish"
+        },
+        {
+            "7": "2 teaspoons honey mustard"
+        },
+        {
+            "8": "0.5 teaspoon celery seed"
+        },
+        {
+            "9": "0.5 teaspoon seasoned salt"
+        },
+        {
+            "10": "0.5 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine tuna, eggs, onion, and celery in a large bowl."
+        },
+        {
+            "2": "In a small bowl, stir together mayonnaise, relish, honey mustard, celery seed, seasoned salt, and pepper. Pour over the ingredients in the other bowl, and stir gently to coat. Serve at room temperature or chill until ready to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "186"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8532988.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8301986.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8225698.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7912340.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

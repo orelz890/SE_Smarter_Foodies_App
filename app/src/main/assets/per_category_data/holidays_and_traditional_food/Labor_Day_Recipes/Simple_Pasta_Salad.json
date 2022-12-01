@@ -1,0 +1,87 @@
+{
+    "title": "Simple Pasta Salad",
+    "Category": "Labor Day Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package uncooked rotini pasta"
+        },
+        {
+            "2": "1 (16 ounce) bottle Italian salad dressing"
+        },
+        {
+            "3": "2  cucumbers, chopped"
+        },
+        {
+            "4": "6  tomatoes, chopped"
+        },
+        {
+            "5": "1 bunch green onions, chopped"
+        },
+        {
+            "6": "4 ounces grated Parmesan cheese"
+        },
+        {
+            "7": "1 tablespoon Italian seasoning"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Place pasta in the pot, cook for 8 to 12 minutes, until al dente, and drain."
+        },
+        {
+            "2": "Toss cooked pasta with Italian dressing, cucumbers, tomatoes, and green onions in a large bowl. Mix Parmesan cheese and Italian seasoning in a small bowl, and gently mix into the salad."
+        },
+        {
+            "3": "Cover, and refrigerate for at least 30 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "289"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9263031.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9240089.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8322602.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8218550.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/UIlpSdUwGSrULbqCmCDVgVry6ac=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/86353-SimplePastaSalad-ddmfs-1x1-0512-1-1-1adea5b7e7ce4d0eae0b2f5582a16f33.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

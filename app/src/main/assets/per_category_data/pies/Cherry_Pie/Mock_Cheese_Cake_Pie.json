@@ -1,0 +1,63 @@
+{
+    "title": "Mock Cheese Cake Pie",
+    "Category": "Cherry Pie",
+    "Ingredients": [
+        {
+            "1": "1 cup plain yogurt"
+        },
+        {
+            "2": "1 (3.5 ounce) package instant vanilla pudding mix"
+        },
+        {
+            "3": "1 (16 ounce) can cherry pie filling"
+        },
+        {
+            "4": "3 tablespoons white sugar"
+        },
+        {
+            "5": "1 (9 inch) prepared graham cracker crust"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl combine yogurt and instant vanilla pudding. Mix well. Stir in cherry pie filling. Pour filling into pie crust and chill for 30 to 60 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 to 9 - inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "277"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "51g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F28f17e346b934c3eca591aae7eaa93d7%2F1099669.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

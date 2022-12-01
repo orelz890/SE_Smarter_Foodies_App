@@ -1,0 +1,78 @@
+{
+    "title": "Easy Enchiladas",
+    "Category": "Enchiladas",
+    "Ingredients": [
+        {
+            "1": "2 (16 ounce) jars prepared salsa"
+        },
+        {
+            "2": "1 pound ground beef"
+        },
+        {
+            "3": "1 (15.5 ounce) jar prepared salsa con queso"
+        },
+        {
+            "4": "20 (8 inch) flour tortillas"
+        },
+        {
+            "5": "1 (8 ounce) package shredded Cheddar-Monterey Jack cheese blend"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking dish, and pour the salsa into the bottom of the dish. Set aside."
+        },
+        {
+            "2": "Cook and stir the ground beef in a skillet over medium heat for about 10 minutes, until meat is browned and crumbly. Drain the grease from the beef, and add the salsa con queso to the skillet, stirring to mix well. Place about 2 tablespoons of the beef mixture down the center of each tortilla, roll the tortillas, and place them seam side down on top of the salsa in the baking dish. Sprinkle the shredded cheese on top of the enchiladas."
+        },
+        {
+            "3": "Bake for 15 to 20 minutes in the preheated oven, until the cheese is browned and the enchiladas are hot and bubbling."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "20 enchiladas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "595"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "68g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9174383.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8982957.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8836455.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8819214.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

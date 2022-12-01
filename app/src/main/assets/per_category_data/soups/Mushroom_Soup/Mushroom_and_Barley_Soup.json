@@ -1,0 +1,90 @@
+{
+    "title": "Mushroom and Barley Soup",
+    "Category": "Mushroom Soup",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "1 cup diced onion"
+        },
+        {
+            "3": "1 cup diced red bell pepper"
+        },
+        {
+            "4": "4 cloves garlic, minced"
+        },
+        {
+            "5": "1 (32 fluid ounce) container chicken stock"
+        },
+        {
+            "6": "2 cups mixed greens (such as spinach, beet greens, and Swiss chard)"
+        },
+        {
+            "7": "0.5 (12 ounce) package frozen corn"
+        },
+        {
+            "8": "1 cup pearl barley"
+        },
+        {
+            "9": "1 cup thinly sliced cremini mushrooms"
+        },
+        {
+            "10": "1 cup peeled, thinly sliced carrot"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a large saucepan over medium heat. Cook onion, bell pepper, and garlic in hot oil until softened, about 5 minutes."
+        },
+        {
+            "2": "Pour chicken broth over onion mixture; bring to a boil and reduce heat to medium low."
+        },
+        {
+            "3": "Stir mixed greens, corn, pearl barley, cremini mushrooms, and carrot through the simmering stock."
+        },
+        {
+            "4": "Cook until barley is tender, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "277"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2094803.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F917738.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

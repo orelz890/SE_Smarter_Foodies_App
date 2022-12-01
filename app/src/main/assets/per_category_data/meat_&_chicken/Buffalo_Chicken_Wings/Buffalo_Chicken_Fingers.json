@@ -1,0 +1,93 @@
+{
+    "title": "Buffalo Chicken Fingers",
+    "Category": "Buffalo Chicken Wings",
+    "Ingredients": [
+        {
+            "1": "4  skinless, boneless chicken breast halves - cut into finger-sized pieces"
+        },
+        {
+            "2": "0.25 cup all-purpose flour"
+        },
+        {
+            "3": "1 teaspoon garlic powder"
+        },
+        {
+            "4": "1 teaspoon cayenne pepper"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "0.75 cup bread crumbs"
+        },
+        {
+            "7": "2  egg whites, beaten"
+        },
+        {
+            "8": "1 tablespoon water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (205 degrees C). Coat a baking sheet with a nonstick spray."
+        },
+        {
+            "2": "In a bag, mix together flour, 1/2 teaspoon garlic powder, 1/2 teaspoon cayenne pepper, and 1/4 teaspoon salt. On a plate, mix the bread crumbs with the rest of the garlic powder, cayenne pepper, and salt."
+        },
+        {
+            "3": "Shake the chicken pieces with the seasoned flour. Beat egg whites with 1 tablespoon water, and place egg mixture in a shallow dish or bowl. Dip seasoned chicken in egg mixture, then roll in the seasoned bread crumb mixture. Place on prepared baking sheet."
+        },
+        {
+            "4": "Bake for about 8 minutes in the preheated oven. Use tongs to turn pieces over. Bake 8 minutes longer, or until chicken juices run clear."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "125"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8169389.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7964121.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8200bae1ceb37f3dbcaa14715202173a%2F6493799.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F164da7084aa5c2244ee6fe8cf0b76469%2F4541236.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/uctyUgj-s1CHGXh9YbQ736AWy7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1055204-buffalo-chicken-fingers-Sherri-1x1-1-2a15c904b1d640988ab241cd3f8f42dc.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

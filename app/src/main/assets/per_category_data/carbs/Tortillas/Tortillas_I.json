@@ -1,0 +1,87 @@
+{
+    "title": "Tortillas I",
+    "Category": "Tortillas",
+    "Ingredients": [
+        {
+            "1": "5 cups all-purpose flour"
+        },
+        {
+            "2": "2 tablespoons shortening"
+        },
+        {
+            "3": "2 teaspoons baking powder"
+        },
+        {
+            "4": "0.25 teaspoon salt"
+        },
+        {
+            "5": "0.5 cups boiling water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix together the flour, baking powder, and salt in large bowl. Cut in shortening to resemble cornmeal. Add water slowly, mixing with your hands to make a soft dough. You may not need all the water."
+        },
+        {
+            "2": "Knead a few minutes on floured surface until smooth and elastic. Lubricate top with oil, put back in bowl and let rest, covered for 10 minutes."
+        },
+        {
+            "3": "Divide into small balls the size of golf balls and proceed to roll out into size and thickness you prefer."
+        },
+        {
+            "4": "Cook on top of stove over medium heat using a cast iron grill or heavy skillet until top is slightly bubbly then turning on opposite side for a minute or two."
+        },
+        {
+            "5": "Keep stacked and warm inside a clean dish towel."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "60 "
+        },
+        {
+            "Yield": "5 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "42"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7427786.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4464858.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4462783.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3791760.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

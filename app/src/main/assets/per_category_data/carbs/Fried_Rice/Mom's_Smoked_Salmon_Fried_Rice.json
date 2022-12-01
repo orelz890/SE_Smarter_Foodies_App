@@ -1,0 +1,87 @@
+{
+    "title": "Mom's Smoked Salmon Fried Rice",
+    "Category": "Fried Rice",
+    "Ingredients": [
+        {
+            "1": "6 cups water"
+        },
+        {
+            "2": "3 cups long grain white rice, uncooked"
+        },
+        {
+            "3": "3 tablespoons cooking oil, divided"
+        },
+        {
+            "4": "2  eggs, beaten"
+        },
+        {
+            "5": "0.5  onion, finely chopped"
+        },
+        {
+            "6": "1  green onion, chopped"
+        },
+        {
+            "7": "4 ounces smoked salmon, chopped"
+        },
+        {
+            "8": "0.5 cup frozen peas"
+        },
+        {
+            "9": "1 salt and freshly ground pepper, to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour water into a saucepan; add rice and bring to a boil. Cover, reduce heat to low, and simmer until rice is tender and water is absorbed, about 20 minutes. Set aside."
+        },
+        {
+            "2": "Meanwhile, place 2 tablespoons of cooking oil into a large skillet and heat over medium heat. Stir in eggs and cook until scrambled to desired consistency. Remove eggs from the pan; set aside."
+        },
+        {
+            "3": "Using the same skillet, add remaining 1 tablespoon oil and heat over medium heat. Stir in onion and green onion; cook until onion is transparent, about 5 minutes. Stir in salmon, rice, peas, and scrambled eggs; toss until evenly blended. Cook and stir rice mixture until heated through. Season to taste with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "458"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "77g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2470235.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F20aa38222c51ab5db73bb7612c94f2e2%2F2303946.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1110873.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F915243.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

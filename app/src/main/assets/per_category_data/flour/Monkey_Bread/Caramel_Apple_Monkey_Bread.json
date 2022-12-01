@@ -1,0 +1,87 @@
+{
+    "title": "Caramel Apple Monkey Bread",
+    "Category": "Monkey Bread",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "1 teaspoon ground cinnamon"
+        },
+        {
+            "4": "1 large apple - peeled, cored, and chopped into 20 chunks"
+        },
+        {
+            "5": "1 (1 pound) loaf frozen bread dough, thawed"
+        },
+        {
+            "6": "0.5 stick butter, melted"
+        },
+        {
+            "7": "0.5 cup brown sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C). Spray a fluted tube pan (such as Bundt\u00ae) with cooking spray."
+        },
+        {
+            "2": "Mix white sugar and cinnamon together in a medium bowl. Add apple chunks and stir to coat thoroughly. Set aside."
+        },
+        {
+            "3": "Divide dough into 20 pieces. Wrap 1 piece of dough around a coated apple chunk and pinch to seal shut. Dip in melted butter, then roll in brown sugar. Arrange balls of dough in even circles in the prepared pan."
+        },
+        {
+            "4": "Bake in the preheated oven until golden brown, 20 to 25 minutes."
+        },
+        {
+            "5": "Carefully invert pan onto a large plate so caramel mixture runs over each piece. Cool briefly before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 monkey bread Bundt(R)"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "260"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9103369.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7973560.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffd4f1f2d563792772939f66a309c6fe6%2F6516303.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

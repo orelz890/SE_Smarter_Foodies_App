@@ -1,0 +1,102 @@
+{
+    "title": "Easy Tuna Pasta Salad",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package cavatappi (corkscrew macaroni)"
+        },
+        {
+            "2": "1 Dressing-"
+        },
+        {
+            "3": "1 cup mayonnaise"
+        },
+        {
+            "4": "3 tablespoons lemon juice"
+        },
+        {
+            "5": "2 tablespoons honey"
+        },
+        {
+            "6": "0.5 tablespoon garlic powder"
+        },
+        {
+            "7": "1 salt and ground black pepper to taste"
+        },
+        {
+            "8": "2 (8 ounce) cans tuna, drained"
+        },
+        {
+            "9": "3 stalks celery, sliced"
+        },
+        {
+            "10": "1  red onion, diced"
+        },
+        {
+            "11": "1 cup peas"
+        },
+        {
+            "12": "0.25 cup chopped fresh parsley"
+        },
+        {
+            "13": "0.5 cup chopped green olives"
+        },
+        {
+            "14": "1 teaspoon lemon juice, or to taste"
+        },
+        {
+            "15": "4  hard-boiled eggs, halved"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil; cook cavatappi at a boil until tender yet firm to the bite, 9 to 10 minutes. Drain and transfer to a large bowl."
+        },
+        {
+            "2": "Whisk mayonnaise, 3 tablespoons lemon juice, honey, garlic powder, salt, and pepper for dressing together in a medium bowl. Set aside."
+        },
+        {
+            "3": "Stir tuna, celery, onion, peas, parsley, olives, and 1 teaspoon lemon juice into pasta. Pour dressing over salad, toss until coated, and add hard-boiled eggs on top. Serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "557"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "54g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8731881.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8023490.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

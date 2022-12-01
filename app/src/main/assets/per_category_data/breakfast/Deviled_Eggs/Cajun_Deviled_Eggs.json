@@ -1,0 +1,84 @@
+{
+    "title": "Cajun Deviled Eggs",
+    "Category": "Deviled Eggs",
+    "Ingredients": [
+        {
+            "1": "6  eggs"
+        },
+        {
+            "2": "2 tablespoons mayonnaise"
+        },
+        {
+            "3": "1 teaspoon prepared Dijon-style mustard"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "6": "0.25 teaspoon ground cayenne pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place eggs in a medium saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, and peel."
+        },
+        {
+            "2": "Slice eggs in half lengthwise. Remove yolks and place in a medium bowl; set aside egg whites. Use a fork to mash egg yolks with mayonnaise, Dijon-style mustard, salt, and black pepper."
+        },
+        {
+            "3": "Fill hollowed egg white halves with yolk mixture. Sprinkle with cayenne pepper. Cover and chill in the refrigerator until serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 deviled eggs"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "53"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "0g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6823943.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4428720.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F449112.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F73a7558c74243686305bdde8b046898d%2F380979.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

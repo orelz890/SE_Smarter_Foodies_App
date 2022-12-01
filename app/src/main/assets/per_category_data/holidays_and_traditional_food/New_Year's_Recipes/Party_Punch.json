@@ -1,0 +1,66 @@
+{
+    "title": "Party Punch",
+    "Category": "New Year's Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (2 liter) bottle fruit punch, chilled"
+        },
+        {
+            "2": "1 (64 fluid ounce) bottle orange juice, chilled"
+        },
+        {
+            "3": "1 (2 liter) bottle ginger ale, chilled"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine fruit punch and orange juice in a punch bowl. Slowly pour ginger ale down the side of the bowl to retain carbonation."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 8-ounce cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "100"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3672617.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2203930.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fde47386a004d18f75880fc122b343d74%2F410691.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F132938.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/hhe6NAq_ZDF1E8xf3wGKcDnSkVs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2203930-660f63634976495b93fdef7d9cc576d0.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

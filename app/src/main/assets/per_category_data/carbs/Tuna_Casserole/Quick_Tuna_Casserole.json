@@ -1,0 +1,72 @@
+{
+    "title": "Quick Tuna Casserole",
+    "Category": "Tuna Casserole",
+    "Ingredients": [
+        {
+            "1": "1 (7.25 ounce) package macaroni and cheese mix"
+        },
+        {
+            "2": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "3": "1 (9 ounce) can tuna, drained"
+        },
+        {
+            "4": "1 (10 ounce) can peas, drained"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Prepare macaroni and cheese mix according to package directions. Stir in the cream of mushroom soup, tuna and peas. Mix well, and heat until bubbly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "363"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9204873.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7884584.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7884577.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6791678.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/l6RXSprmsdcdp4tNlrhZglTC5Bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2043192-0cd81016b87d491fb6f183858a58720b.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

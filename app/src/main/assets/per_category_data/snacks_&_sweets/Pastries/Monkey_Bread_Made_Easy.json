@@ -1,0 +1,93 @@
+{
+    "title": "Monkey Bread Made Easy",
+    "Category": "Pastries",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "1 tablespoon ground cinnamon"
+        },
+        {
+            "3": "0.75 cup white sugar"
+        },
+        {
+            "4": "2 (7.5 ounce) packages refrigerated biscuit dough"
+        },
+        {
+            "5": "0.5 cup butter"
+        },
+        {
+            "6": "0.5 cup brown sugar"
+        },
+        {
+            "7": "1 tablespoon ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Spray 8 muffin cups with cooking spray."
+        },
+        {
+            "2": "In a bowl, stir together 1 tablespoon of cinnamon and the white sugar until evenly blended. Remove the biscuits from the packages, and cut into quarters. Drop a few biscuit pieces at a time into the sugar mixture, and coat thoroughly. Distribute the coated biscuit pieces among the prepared muffin tins (4 to 5 pieces per cup)."
+        },
+        {
+            "3": "Place butter, brown sugar, and the remaining 1 tablespoon cinnamon in a microwave-safe glass or ceramic bowl, and microwave a few seconds until the butter has melted. Stir to blend, and drizzle about 2 tablespoons of the butter mixture over each cup."
+        },
+        {
+            "4": "Bake in the preheated oven until the tops of the muffins are crispy and brown, about 20 minutes. Allow to cool for about 10 minutes before removing from pan."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "403"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9049667.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8073947.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4870701.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4372544.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/j09wmkeAb1uwH62ZD2HzKcNW7sg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/467760-monkey-bread-made-easy-1gdcowgrl-gone-1x1-1-d7f9d7bd738e499697baf731346d396d.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

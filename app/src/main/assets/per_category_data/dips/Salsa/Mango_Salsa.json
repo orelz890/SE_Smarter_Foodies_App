@@ -1,0 +1,78 @@
+{
+    "title": "Mango Salsa",
+    "Category": "Salsa",
+    "Ingredients": [
+        {
+            "1": "1  mango - peeled, seeded, and chopped"
+        },
+        {
+            "2": "0.25 cup finely chopped red bell pepper"
+        },
+        {
+            "3": "1  green onion, chopped"
+        },
+        {
+            "4": "1  fresh jalapeno chile pepper, finely chopped"
+        },
+        {
+            "5": "2 tablespoons chopped cilantro"
+        },
+        {
+            "6": "2 tablespoons lime juice"
+        },
+        {
+            "7": "1 tablespoon lemon juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place mango, red bell pepper, green onion, jalapeno, cilantro, lime juice, and lemon juice in a medium bowl; mix well to combine. Cover and let sit at least 30 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "21"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7c457c5faa154bff58eb3cd04ea1b929%2F16547222471D9FC435-FA7F-4907-8198-892BB195E732.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9389782.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9252375.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9137785.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/cyWetfTqrCVdFgClFbnB_xkhXE0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/48032-mango-salsa-1x1-612-copy-386c47a9b04e45ea9e156a3771772c1d.jpg"
+        }
+    ],
+    "main category": "dips"
+}

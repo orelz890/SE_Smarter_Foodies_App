@@ -1,0 +1,105 @@
+{
+    "title": "Pasta Fazool (Pasta e Fagioli)",
+    "Category": "Soup",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "12 ounces sweet bulk Italian sausage"
+        },
+        {
+            "3": "1 stalk celery, diced"
+        },
+        {
+            "4": "0.5  yellow onion, chopped"
+        },
+        {
+            "5": "0.75 cup dry elbow macaroni"
+        },
+        {
+            "6": "0.25 cup tomato paste"
+        },
+        {
+            "7": "3 cups chicken broth, or more as needed, divided"
+        },
+        {
+            "8": "0.25 teaspoon crushed red pepper flakes, or to taste"
+        },
+        {
+            "9": "0.25 teaspoon dried oregano"
+        },
+        {
+            "10": "1 Salt and freshly ground black pepper to taste"
+        },
+        {
+            "11": "3 cups chopped Swiss chard"
+        },
+        {
+            "12": "1 (15 ounce) can cannellini (white kidney) beans, drained"
+        },
+        {
+            "13": "0.25 cup grated Parmigiano-Reggiano cheese, plus additional for serving, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a skillet over medium-high heat. Cook and stir sausage in the hot skillet until browned and crumbly, about 5 minutes. Reduce heat to medium. Add diced celery and chopped onion. Cook until onions are translucent, 4 to 5 minutes. Add dry pasta; cook and stir for 2 minutes."
+        },
+        {
+            "2": "Stir in tomato paste until evenly distributed, 2 to 3 minutes. Pour in 3 cups broth; increase heat to high and bring to a boil. Stir in red pepper flakes, oregano, salt, and pepper. Reduce heat to medium and let simmer, stirring often, for about 5 minutes. Add more broth if needed."
+        },
+        {
+            "3": "Place chopped chard in a bowl. Cover with cold water and rinse leaves; any grit will fall to the bottom of the bowl. Transfer chard to a colander to drain briefly; add to soup. Cook and stir until leaves wilt, 2 to 3 minutes."
+        },
+        {
+            "4": "Stir in white beans; continue cooking and stirring until pasta is tender, 4 to 5 minutes. Remove from heat and stir in grated cheese. Serve topped with additional grated cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "888"
+        },
+        {
+            "Fat": "44g"
+        },
+        {
+            "Carbs": "77g"
+        },
+        {
+            "Protein": "44g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffce42aa5754daf105fa2cbc4ae9aa817%2F1660962816inbound2414120156414777655.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffce42aa5754daf105fa2cbc4ae9aa817%2F1651193802889B9796-701A-438F-9889-DB5ADA6506F4.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffce42aa5754daf105fa2cbc4ae9aa817%2F164902544920220403_180125.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9241402.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/b0DiMwLH1mPr6aeU5lWrGnCl2_U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4064575-pasta-fazool-pasta-e-fagioli-Chef-John-1x1-1-3b09444d9d99494181825cda657f3d0f.jpg"
+        }
+    ],
+    "main category": "soups"
+}

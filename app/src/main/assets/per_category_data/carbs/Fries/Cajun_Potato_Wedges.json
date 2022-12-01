@@ -1,0 +1,84 @@
+{
+    "title": "Cajun Potato Wedges",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "4  baking potatoes"
+        },
+        {
+            "2": "3 tablespoons olive oil"
+        },
+        {
+            "3": "1 teaspoon minced fresh garlic"
+        },
+        {
+            "4": "0.25 teaspoon salt"
+        },
+        {
+            "5": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "6": "0.5 teaspoons onion powder"
+        },
+        {
+            "7": "0.5 teaspoon paprika"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 425 degrees F (220 degrees C). Grease a baking sheet."
+        },
+        {
+            "2": "Cut each potato into 12 wedges; place in a large bowl. Toss potatoes with olive oil, garlic, salt, pepper, onion powder, and paprika. Arrange in a single layer on prepared baking sheet."
+        },
+        {
+            "3": "Bake in preheated oven for 20 minutes. Turn potatoes over and continue baking until golden and crisp, 25 to 30 minutes longer."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "258"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8724537.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7574465.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6701013.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4526943.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

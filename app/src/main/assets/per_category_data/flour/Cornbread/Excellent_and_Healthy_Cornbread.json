@@ -1,0 +1,84 @@
+{
+    "title": "Excellent and Healthy Cornbread",
+    "Category": "Cornbread",
+    "Ingredients": [
+        {
+            "1": "1 cup unbleached flour"
+        },
+        {
+            "2": "1 cup cornmeal"
+        },
+        {
+            "3": "0.25 cup white sugar"
+        },
+        {
+            "4": "1 teaspoon baking soda"
+        },
+        {
+            "5": "0.75 teaspoon salt"
+        },
+        {
+            "6": "1 cup plain nonfat yogurt"
+        },
+        {
+            "7": "2 large eggs, beaten"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C). Lightly grease an 8-inch square baking pan."
+        },
+        {
+            "2": "Whisk flour, cornmeal, sugar, baking soda, and salt together in a large bowl. Stir in yogurt and eggs until just combined; do not overmix. Pour batter into the prepared pan."
+        },
+        {
+            "3": "Bake in the preheated oven until the center springs back when lightly pressed, 20 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 8-inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "76"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fba43a988e4e5c26edb37b90e1ebd0b9e%2F7555947.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0b70b2f012b84b8c51207d406c4e9285%2F6858106.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5f23a25883f71cee04e58134358d6ebd%2F6827333.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6488036.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

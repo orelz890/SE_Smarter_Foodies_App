@@ -1,0 +1,102 @@
+{
+    "title": "Oven-Baked Chicken Fajitas",
+    "Category": "Fajitas",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "2  red bell peppers, sliced"
+        },
+        {
+            "3": "1 large onion, sliced"
+        },
+        {
+            "4": "2 pounds skinless, boneless chicken breasts, cut into thin strips"
+        },
+        {
+            "5": "1 (1 ounce) package fajita seasoning mix, divided"
+        },
+        {
+            "6": "2 tablespoons vegetable oil, divided"
+        },
+        {
+            "7": "8 (6 inch) flour tortillas"
+        },
+        {
+            "8": "0.5 cup sour cream, or to taste"
+        },
+        {
+            "9": "0.5 cup salsa, or to taste"
+        },
+        {
+            "10": "0.5 cup chopped fresh cilantro, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Spray a 9x13-inch glass baking dish with cooking spray."
+        },
+        {
+            "2": "Spread red bell peppers and onion in the baking dish."
+        },
+        {
+            "3": "Coat chicken strips with a few pinches of the fajita seasoning mix. Heat 2 teaspoons vegetable oil in a skillet over medium heat; cook and stir seasoned chicken until browned, about 2 minutes per side."
+        },
+        {
+            "4": "Place chicken in the baking dish with bell peppers and onion; top with remaining fajita seasoning mix and vegetable oil. Stir until chicken and vegetables are evenly coated."
+        },
+        {
+            "5": "Bake in the preheated oven, stirring halfway through baking, until chicken is no longer pink in the center, about 30 minutes."
+        },
+        {
+            "6": "Spoon chicken mixture into each tortilla and top with sour cream, salsa, and cilantro."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "34 mins"
+        },
+        {
+            "Total Time": "59 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "211"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9213892.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9202661.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9183602.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff4208158161ef6a788ad30caa82c57b5%2F5312488.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

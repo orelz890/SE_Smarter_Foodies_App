@@ -1,0 +1,69 @@
+{
+    "title": "Lebanese Lemon Salad Dressing",
+    "Category": "Salad Dressings",
+    "Ingredients": [
+        {
+            "1": "0.5 cup fresh lemon juice"
+        },
+        {
+            "2": "0.5 cup mild extra-virgin olive oil"
+        },
+        {
+            "3": "3 cloves garlic, minced"
+        },
+        {
+            "4": "1 teaspoon kosher salt"
+        },
+        {
+            "5": "1 ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium bowl, whisk together the lemon juice, olive oil, garlic, salt and pepper. Stir just before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 cup"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "176"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9028906.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Faa058a306990def06ef1596997071046%2F7545906.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6521516.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4532642.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

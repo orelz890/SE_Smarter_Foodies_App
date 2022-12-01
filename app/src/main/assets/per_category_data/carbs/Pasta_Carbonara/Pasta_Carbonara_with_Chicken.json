@@ -1,0 +1,105 @@
+{
+    "title": "Pasta Carbonara with Chicken",
+    "Category": "Pasta Carbonara",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package penne pasta"
+        },
+        {
+            "2": "0.25 cup extra-virgin olive oil"
+        },
+        {
+            "3": "2 tablespoons unsalted butter"
+        },
+        {
+            "4": "1 medium yellow onion, finely chopped"
+        },
+        {
+            "5": "3 teaspoons minced garlic"
+        },
+        {
+            "6": "4 ounces thinly sliced pancetta bacon, chopped"
+        },
+        {
+            "7": "4 ounces thinly sliced prosciutto, chopped"
+        },
+        {
+            "8": "4 cups shredded, cooked rotisserie chicken"
+        },
+        {
+            "9": "1.0 cups heavy whipping cream, at room temperature"
+        },
+        {
+            "10": "1 cup grated Parmigiano-Reggiano cheese, or more to taste"
+        },
+        {
+            "11": "3 large egg yolks, at room temperature"
+        },
+        {
+            "12": "0.25 cup chopped fresh basil"
+        },
+        {
+            "13": "0.25 cup chopped Italian (flat-leaf) parsley"
+        },
+        {
+            "14": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add penne and cook, stirring occasionally, until tender yet firm to the bite, 10 to 11 minutes. Drain."
+        },
+        {
+            "2": "While the pasta is cooking, heat oil in a skillet over medium heat; stir in onion and garlic. Cook and stir until the onion has softened and turned translucent, about 4 minutes. Add pancetta and prosciutto; saute until crisp and brown, about 8 minutes. Add chicken and saute until heated through, about 2 minutes. Remove from the heat and set aside to cool slightly."
+        },
+        {
+            "3": "Whisk cream, Parmigiano-Reggiano cheese, egg yolks, basil, and parsley together in a large bowl until blended."
+        },
+        {
+            "4": "Return chicken mixture to the stove over medium-low heat. Add drained penne and cream mixture; toss over medium-low heat until penne is thickly coated, about 4 minutes; do not let it boil or the eggs will scramble. Taste and season with salt and pepper if necessary. Transfer to a large, wide serving bowl and serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "796"
+        },
+        {
+            "Fat": "52g"
+        },
+        {
+            "Carbs": "45g"
+        },
+        {
+            "Protein": "38g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0dbbff6dc1196250e38aa24acd741b5d%2F1666132325301PXL_20221018_214048274.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8998325.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8996835.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1018260.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

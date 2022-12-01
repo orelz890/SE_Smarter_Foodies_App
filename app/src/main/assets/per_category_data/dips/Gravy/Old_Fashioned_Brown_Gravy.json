@@ -1,0 +1,75 @@
+{
+    "title": "Old Fashioned Brown Gravy",
+    "Category": "Gravy",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons pan drippings"
+        },
+        {
+            "2": "2 tablespoons all-purpose flour"
+        },
+        {
+            "3": "1 cup milk"
+        },
+        {
+            "4": "1 cup water"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Immediately after removing roasted meat from its pan, drain off drippings, reserving 2 tablespoons in the pan."
+        },
+        {
+            "2": "Sprinkle flour over drippings; cook and stir over medium heat until brown. Gradually stir in milk, whisking with a fork to scrape up all of the meaty bits from the pan, then gradually whisk in water."
+        },
+        {
+            "3": "Increase heat to medium-high; cook, stirring constantly, until gravy thickens, about 10 minutes. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "61"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9225761.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9077155.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8887071.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8312988.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Chicken Spaghetti III",
+    "Category": "Spaghetti",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package spaghetti"
+        },
+        {
+            "2": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "3": "0.75 pound processed cheese"
+        },
+        {
+            "4": "1 (10 ounce) can diced tomatoes with green chile peppers"
+        },
+        {
+            "5": "1 cup chopped green onion"
+        },
+        {
+            "6": "4  skinless, boneless chicken breast halves - boiled, cut into bite size pieces"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+            "2": "Heat soup in a large saucepan over low heat. Add cheese and melt, stirring. When cheese is almost melted, stir in tomatoes with green chile peppers and green onion. Simmer over low heat for 2 to 3 minutes, stirring."
+        },
+        {
+            "3": "Add spaghetti and mix well, then stir in chicken. Heat through and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "655"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "67g"
+        },
+        {
+            "Protein": "42g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F456f3e0acb429ab7111d9fd5476e6519%2F1650932681image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9011348.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8997854.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7923930.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/C9ilMg7fUMC-kDbTaJ0xRZ3vETM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7923930-8b154287042d4ea59417cdd51b225b1a.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

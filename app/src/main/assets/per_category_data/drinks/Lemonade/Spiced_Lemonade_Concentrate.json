@@ -1,0 +1,75 @@
+{
+    "title": "Spiced Lemonade Concentrate",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "1 cup water"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "1  cinnamon stick"
+        },
+        {
+            "4": "0.5 teaspoon whole cloves"
+        },
+        {
+            "5": "1  lemon, juiced and zested"
+        },
+        {
+            "6": "3  lemon, juiced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine water, sugar, cinnamon stick, cloves, and lemon zest in a saucepan; cook and stir over medium heat until just boiling, about 5 minutes."
+        },
+        {
+            "2": "Reduce heat to medium-low and continue to cook until reduced to a thick syrup, 10 to 15 minutes."
+        },
+        {
+            "3": "Stir lemon juice into the syrup; bring to a boil and cook 1 to 2 minutes more; strain into a bowl and refrigerate until chilled."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "107"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9f8a3f7f781ebaa7718280a0e62ace2a%2F1032580.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

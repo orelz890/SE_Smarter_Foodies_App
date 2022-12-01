@@ -1,0 +1,90 @@
+{
+    "title": "Caramels",
+    "Category": "Cooking for a Crowd",
+    "Ingredients": [
+        {
+            "1": "1 pint heavy whipping cream"
+        },
+        {
+            "2": "2 cups white sugar"
+        },
+        {
+            "3": "1 cup packed brown sugar"
+        },
+        {
+            "4": "1 cup butter"
+        },
+        {
+            "5": "1 cup corn syrup"
+        },
+        {
+            "6": "1 cup evaporated milk"
+        },
+        {
+            "7": "0.25 teaspoons vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Grease a 12x15-inch pan; set aside. Attach a candy thermometer to a medium-size pot."
+        },
+        {
+            "2": "Place whipping cream, white sugar, brown sugar, butter, corn syrup, and evaporated milk into the prepared pot. Cook and stir mixture over medium heat until temperature reaches 250 degrees F (120 degrees C). Remove the pot from heat."
+        },
+        {
+            "3": "Stir in vanilla. Pour mixture into the prepared pan; let cool completely."
+        },
+        {
+            "4": "Cut caramel into 60 small squares. Wrap them in waxed paper for storage."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "60 "
+        },
+        {
+            "Yield": "60 caramels"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "115"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff111b3b41b721f03ad1d2d5c07b71bf4%2F165086486220220424_092555.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff111b3b41b721f03ad1d2d5c07b71bf4%2F16501603489BA04D79-DCBF-46A4-8C51-4ED7FC5421A3.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9398649.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9372334.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/oDqXtgufZKbX2tqXZDxiTexc_Ts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16018-Caramels-ddmfs-1x1-0126-6bf6065de2294cd99d2a7e3abe98bb35.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Easy Apple Crisp",
+    "Category": "Crisps and Crumbles",
+    "Ingredients": [
+        {
+            "1": "6  apple - peeled, cored and sliced"
+        },
+        {
+            "2": "1 cup water"
+        },
+        {
+            "3": "1 (18.25 ounce) package white cake mix"
+        },
+        {
+            "4": "1 cup packed brown sugar"
+        },
+        {
+            "5": "1 teaspoon ground cinnamon"
+        },
+        {
+            "6": "0.5 cup butter, melted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish."
+        },
+        {
+            "2": "Arrange apples in an even layer in bottom of baking dish. Pour water over apples."
+        },
+        {
+            "3": "In a medium bowl mix together cake mix, brown sugar, and cinnamon. Stir in melted butter or margarine until ingredients are thoroughly blended; mixture will be crumbly. Sprinkle mixture over apples."
+        },
+        {
+            "4": "Bake in preheated oven for 50 to 55 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "355"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "61g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9207427.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8938778.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8627136.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8004579.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/YzZejV5I-Gkz_pUQxDRAmaiuGK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2958192-9252321f306e4ed098094b1b043e0377.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Strawberry Cobbler I",
+    "Category": "Cobbler",
+    "Ingredients": [
+        {
+            "1": "0.5 cup white sugar"
+        },
+        {
+            "2": "1 tablespoon cornstarch"
+        },
+        {
+            "3": "1 cup water"
+        },
+        {
+            "4": "3 cups strawberries, hulled"
+        },
+        {
+            "5": "2 tablespoons butter, diced"
+        },
+        {
+            "6": "1 cup all-purpose flour"
+        },
+        {
+            "7": "1 tablespoon white sugar"
+        },
+        {
+            "8": "0.5 teaspoons baking powder"
+        },
+        {
+            "9": "0.5 teaspoon salt"
+        },
+        {
+            "10": "3 tablespoons butter"
+        },
+        {
+            "11": "0.5 cup heavy whipping cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (205 degrees C). Butter a 2-quart baking dish."
+        },
+        {
+            "2": "Combine sugar, cornstarch, and water. Cook over medium heat, stirring constantly, until thick and hot. Stir in strawberries, and remove from heat. Pour mixture into the baking dish, and dot with 2 tablespoons butter."
+        },
+        {
+            "3": "Sift together the flour, sugar, baking powder, and salt. Cut in 3 tablespoons butter. Stir in cream. Mixture should be fairly soft. Spoon on top of berries."
+        },
+        {
+            "4": "Bake for 25 minutes in the preheated oven, or until biscuit is golden brown and filling is bubbly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 cobbler"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "249"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3a034a172f8031c340f55eaeb2f23bf9%2F165860127517EF3034-BDC4-472C-89CA-3D08052B0D6C.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8196724.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8136153.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8107896.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

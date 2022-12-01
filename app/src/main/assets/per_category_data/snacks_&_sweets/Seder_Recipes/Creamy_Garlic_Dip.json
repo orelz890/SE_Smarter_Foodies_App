@@ -1,0 +1,63 @@
+{
+    "title": "Creamy Garlic Dip",
+    "Category": "Seder Recipes",
+    "Ingredients": [
+        {
+            "1": "0.75 cup sour cream"
+        },
+        {
+            "2": "0.25 cup mayonnaise"
+        },
+        {
+            "3": "0.5 tablespoon garlic powder"
+        },
+        {
+            "4": "0.5 teaspoon crushed red pepper"
+        },
+        {
+            "5": "0.5 tablespoon dried parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium bowl, mix together sour cream, mayonnaise, garlic powder, crushed red pepper and dried parsley. Serve immediately or refrigerate overnight for full flavor."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "1 cup"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "49"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8a6ea4c5901b422491cab6ce31d7ce5f%2F16624989751662498927117.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F314597.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

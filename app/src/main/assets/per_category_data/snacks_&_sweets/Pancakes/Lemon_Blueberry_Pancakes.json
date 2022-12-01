@@ -1,0 +1,93 @@
+{
+    "title": "Lemon-Blueberry Pancakes",
+    "Category": "Pancakes",
+    "Ingredients": [
+        {
+            "1": "0.25 cups all-purpose flour"
+        },
+        {
+            "2": "1 tablespoon baking powder"
+        },
+        {
+            "3": "1 teaspoon white sugar"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "1 cup milk"
+        },
+        {
+            "6": "1  egg"
+        },
+        {
+            "7": "0.5 tablespoon butter, melted and slightly cooled"
+        },
+        {
+            "8": "1  lemon, zested"
+        },
+        {
+            "9": "2 teaspoons oil, or as needed"
+        },
+        {
+            "10": "1 cup frozen blueberries, or as needed, thawed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Sift together flour, baking powder, sugar, and salt in a large bowl."
+        },
+        {
+            "2": "Whisk together milk and egg in a small bowl. Add milk and egg mixture to flour mixture, whisking until blended. Stir in melted butter and lemon zest."
+        },
+        {
+            "3": "Lightly oil a griddle and heat over medium-high heat. Fill a 1/4-cup measure with batter and pour onto the hot griddles. Drop a few blueberries on top and cover them with a little batter. Cook until bubbles form and the edges are dry, 3 to 4 minutes. Flip and cook until browned on the other side, 2 to 3 minutes. Repeat with remaining batter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 pancakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "123"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F08333ed3b01503f6cc2e45527e3fd2f9%2F166195695620220831_085043.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8235211.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8186138.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8034409.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

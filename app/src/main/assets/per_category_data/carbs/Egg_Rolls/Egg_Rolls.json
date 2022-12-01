@@ -1,0 +1,99 @@
+{
+    "title": "Egg Rolls",
+    "Category": "Egg Rolls",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package wonton wrappers"
+        },
+        {
+            "2": "1 pound lean ground beef"
+        },
+        {
+            "3": "1 pound shrimp - peeled, deveined and coarsely chopped"
+        },
+        {
+            "4": "5 tablespoons soy sauce"
+        },
+        {
+            "5": "3 tablespoons oyster sauce"
+        },
+        {
+            "6": "1 pound bean sprouts"
+        },
+        {
+            "7": "2  green onions"
+        },
+        {
+            "8": "3 stalks celery, chopped"
+        },
+        {
+            "9": "1 medium head cabbage, finely shredded"
+        },
+        {
+            "10": "2 cloves garlic, minced"
+        },
+        {
+            "11": "1 teaspoon monosodium glutamate (MSG)"
+        },
+        {
+            "12": "1 cup vegetable oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place cabbage, bean sprouts, celery, and green onions in a large wok and stir-fry over high heat until vegetables cook down (add a little water if necessary). Mix in shrimp, stir-fry until cooked."
+        },
+        {
+            "2": "In a large skillet, brown ground meat. Drain grease and add the meat to the vegetable and shrimp mixture. Continue to fry over high heat; add oyster sauce, soy sauce, garlic, and MSG. When well blended, remove the mixture from heat."
+        },
+        {
+            "3": "Place a tablespoon of the meat and seafood mixture (or more, depending on how large your wonton skins are) into the center of each wonton skin. Fold the wonton skin over to make a package of the meat mixture inside, and seal the skin closed by dipping your finger in a little water and pressing the ends together to make egg rolls."
+        },
+        {
+            "4": "Fry the egg rolls in 1/4 inch vegetable oil until golden brown."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "35 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "275"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8590905.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8232452.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8230122.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8181600.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

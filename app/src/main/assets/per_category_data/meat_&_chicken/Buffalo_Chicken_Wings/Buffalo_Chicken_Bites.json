@@ -1,0 +1,93 @@
+{
+    "title": "Buffalo Chicken Bites",
+    "Category": "Buffalo Chicken Wings",
+    "Ingredients": [
+        {
+            "1": "1 cup all-purpose flour"
+        },
+        {
+            "2": "2 tablespoons cayenne pepper"
+        },
+        {
+            "3": "1 teaspoon salt"
+        },
+        {
+            "4": "1 teaspoon ground black pepper"
+        },
+        {
+            "5": "2  eggs"
+        },
+        {
+            "6": "1 cup vegetable oil"
+        },
+        {
+            "7": "1 pound skinless, boneless chicken breast halves, cut into 1-inch pieces"
+        },
+        {
+            "8": "0.25 cup hot sauce"
+        },
+        {
+            "9": "1 tablespoon chopped garlic"
+        },
+        {
+            "10": "1 teaspoon butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk flour, cayenne pepper, salt, and pepper together in a bowl. Beat eggs together in a separate bowl. Dip chicken pieces in the egg; transfer chicken to flour mixture and coat completely."
+        },
+        {
+            "2": "Heat oil in a saucepan over medium heat."
+        },
+        {
+            "3": "Fry coated chicken pieces in the hot oil, working in batches, until no longer pink in the center, about 3 minutes per side; drain on a paper towel-lined plate."
+        },
+        {
+            "4": "Combine hot sauce, garlic, and butter in a microwave-safe bowl; heat in the microwave until butter is melted and sauce is warm, about 1 minute. Serve hot sauce mixture as a dipping sauce or pour over buffalo chicken bites."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "243"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9095914.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6407639.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1070215.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

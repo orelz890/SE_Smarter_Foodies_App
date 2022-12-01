@@ -1,0 +1,99 @@
+{
+    "title": "Air Fryer Apple Crisp",
+    "Category": "Crisps and Crumbles",
+    "Ingredients": [
+        {
+            "1": "0.5 teaspoon butter"
+        },
+        {
+            "2": "2 cups diced apples"
+        },
+        {
+            "3": "3 tablespoons water"
+        },
+        {
+            "4": "0.5 tablespoon white sugar"
+        },
+        {
+            "5": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "6": "1 pinch salt"
+        },
+        {
+            "7": "1 Topping-"
+        },
+        {
+            "8": "2 tablespoons rolled oats"
+        },
+        {
+            "9": "2 tablespoons all-purpose flour"
+        },
+        {
+            "10": "2 tablespoons brown sugar"
+        },
+        {
+            "11": "1 tablespoon melted butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an air fryer to 350 degrees F (175 degrees C) according to manufacturer's instructions. Butter a small oven-safe dish that will fit into the air fryer."
+        },
+        {
+            "2": "Combine apples, water, sugar, cinnamon, and salt in a small bowl. Transfer into the prepared dish and cover tightly with aluminum foil."
+        },
+        {
+            "3": "Place the dish inside the air fryer and set the timer for 10 minutes. Remove the foil and stir. Replace foil and set timer for another 10 minutes."
+        },
+        {
+            "4": "Meanwhile, combine rolled oats, flour, brown sugar, and melted butter in a small bowl and mix with a fork into a crumbly topping."
+        },
+        {
+            "5": "Open the air fryer and remove the foil. Sprinkle the topping on top of the apples. Close air fryer and set timer for 5 minutes. Remove the apple crisp from the air fryer and cool slightly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "238"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5b6c84ed12cc23a9d8a3ae0d23bdbcf0%2F1666485525029BC12CCFA-D5B1-4414-AC71-EECC20528ECE.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9040835.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8622521.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Mesquite Smoked Jerky",
+    "Category": "Jerky",
+    "Ingredients": [
+        {
+            "1": "1 pound beef eye of round sliced into 1/4 inch strips"
+        },
+        {
+            "2": "1 cup soy sauce"
+        },
+        {
+            "3": "0.5 cup packed brown sugar"
+        },
+        {
+            "4": "2 tablespoons mesquite flavored liquid smoke concentrate"
+        },
+        {
+            "5": "1 tablespoon ground paprika"
+        },
+        {
+            "6": "3 cloves garlic, minced"
+        },
+        {
+            "7": "0.25 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a shallow glass baking dish, stir together the soy sauce, brown sugar, liquid smoke, paprika, garlic, and salt. Lay the meat strips in the liquid in a single layer. Cover the dish, and refrigerate for at least 6 hours."
+        },
+        {
+            "2": "Arrange strips of beef in a dehydrator, and let dry for 6 hours, or to desired dryness."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "8 ounces"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6941199.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F655207.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

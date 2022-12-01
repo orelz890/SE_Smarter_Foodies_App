@@ -1,0 +1,81 @@
+{
+    "title": "Sous Vide Carrots",
+    "Category": "Sous Vide Recipes",
+    "Ingredients": [
+        {
+            "1": "8 small carrots, cut into 1-inch pieces"
+        },
+        {
+            "2": "2 tablespoons cold salted butter, cubed"
+        },
+        {
+            "3": "1 tablespoon honey"
+        },
+        {
+            "4": "0.5 teaspoon salt, or more to taste"
+        },
+        {
+            "5": "0.25 teaspoon chili powder"
+        },
+        {
+            "6": "1 tablespoon minced fresh parsley leaves"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a large pot with water and place a sous vide immersion cooker into the water. Set temperature to 185 degrees F (85 degrees C) according to manufacturer's directions."
+        },
+        {
+            "2": "Scrub carrots under cold water and dry thoroughly. Place carrots in a single layer inside a large vacuum bag, along with cubed butter, honey, 1/2 teaspoon salt, and chili powder. Seal the bag using a vacuum sealer, stopping the sealer early, if necessary, so liquid doesn't escape from the bag."
+        },
+        {
+            "3": "Place bag into the water and set timer for 60 minutes. If any air remains in the bag, you will need to weigh the bag down with a heavy object to ensure it is fully submerged at all times."
+        },
+        {
+            "4": "Preheat oven broiler and set rack 4 inches from heat source."
+        },
+        {
+            "5": "When sous vide timer is up, cut the bag open and transfer carrots to an oven-safe dish, along with 3 tablespoons of liquid from the bag."
+        },
+        {
+            "6": "Set under the broiler for 2 minutes. Toss carrots and broil for 1 more minute. Remove from the oven and transfer to a serving dish, spooning any remaining juices over top of the carrots. Top with parsley and additional salt, if desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "109"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9081923.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

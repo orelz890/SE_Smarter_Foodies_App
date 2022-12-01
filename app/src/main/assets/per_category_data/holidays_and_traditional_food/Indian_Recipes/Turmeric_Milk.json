@@ -1,0 +1,87 @@
+{
+    "title": "Turmeric Milk",
+    "Category": "Indian Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (1 1/2 inch) piece fresh turmeric root, peeled and grated"
+        },
+        {
+            "2": "1 (1/2 inch) piece fresh ginger root, peeled and grated"
+        },
+        {
+            "3": "1 tablespoon honey"
+        },
+        {
+            "4": "1 cup unsweetened almond milk"
+        },
+        {
+            "5": "1 pinch ground turmeric"
+        },
+        {
+            "6": "1 pinch ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine turmeric root, ginger root, and honey together in a bowl, crushing the turmeric and ginger as much as possible."
+        },
+        {
+            "2": "Heat almond milk in a saucepan over medium-low heat. Once small bubbles begin to form around the edges, reduce heat to low. Transfer about 2 tablespoon milk to turmeric mixture to allow mixture to soften and honey to melt into a paste-like mixture."
+        },
+        {
+            "3": "Mix the turmeric paste into milk in the saucepan; raise temperature to medium-low and cook, stirring continuously, until fully combined. Blend with an immersion blender for a smooth texture."
+        },
+        {
+            "4": "Pour turmeric tea into a mug and top with ground turmeric and cinnamon."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 cup"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "143"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6968114.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6960604.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6819433.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6316600.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ZwZmtHGBzjaIww470wejYbLCwSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2610008-93658225f7764b02bf31e8daa42d298f.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

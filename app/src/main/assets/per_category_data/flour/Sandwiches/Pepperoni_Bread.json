@@ -1,0 +1,87 @@
+{
+    "title": "Pepperoni Bread",
+    "Category": "Sandwiches",
+    "Ingredients": [
+        {
+            "1": "1 (1 pound) loaf frozen bread dough, thawed"
+        },
+        {
+            "2": "1 large egg, beaten"
+        },
+        {
+            "3": "4 ounces sliced pepperoni"
+        },
+        {
+            "4": "1 cup shredded mozzarella cheese"
+        },
+        {
+            "5": "0.25 cup grated Parmesan cheese"
+        },
+        {
+            "6": "0.5 teaspoons Italian seasoning"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place thawed dough into a bowl; cover and let rise in a warm place until doubled in volume, about 1 hour."
+        },
+        {
+            "2": "Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with parchment paper."
+        },
+        {
+            "3": "Roll dough into a rectangle, then brush with beaten egg and arrange pepperoni over top. Sprinkle mozzarella, Parmesan, and Italian seasoning over pepperoni. Roll dough over fillings like a jelly roll and pinch the seam to seal. Place dough, seam-side down, onto the prepared baking sheet."
+        },
+        {
+            "4": "Bake in the preheated oven until golden brown, about 40 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 55 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "233"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8852174.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8574117.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8561725.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7999759.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Chef John's Creamy Mushroom Pasta",
+    "Category": "Fettuccini",
+    "Ingredients": [
+        {
+            "1": "8 ounces fettuccine pasta"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "0.75 pound fresh white mushrooms, sliced"
+        },
+        {
+            "4": "0.25 pound fresh shiitake mushrooms, stemmed and sliced"
+        },
+        {
+            "5": "1 salt and ground black pepper to taste"
+        },
+        {
+            "6": "2 cloves garlic, minced"
+        },
+        {
+            "7": "2 fluid ounces sherry"
+        },
+        {
+            "8": "1 cup chicken stock"
+        },
+        {
+            "9": "1 cup heavy whipping cream"
+        },
+        {
+            "10": "0.5 teaspoons chopped fresh thyme"
+        },
+        {
+            "11": "0.5 teaspoons chopped fresh chives"
+        },
+        {
+            "12": "0.5 teaspoons chopped fresh tarragon"
+        },
+        {
+            "13": "9 tablespoons freshly shredded Parmigiano-Reggiano cheese, divided"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a large pot with lightly salted water and bring to a rolling boil. Cook fettuccine at a boil until tender yet firm to the bite, about 8 minutes. Drain but do not rinse pasta; transfer to a large serving bowl and keep warm."
+        },
+        {
+            "2": "Heat olive oil in a large skillet over medium heat. Cook and stir white and shiitake mushrooms in hot oil with a pinch of salt until liquid from mushrooms evaporates and mushrooms are browned, about 10 minutes."
+        },
+        {
+            "3": "Stir garlic into mushrooms and cook for 1 minute; pour in sherry and cook until wine is nearly evaporated. Stir in chicken stock; season with salt and black pepper. Bring to a simmer, reduce heat, and cook until slightly thickened, about 5 minutes."
+        },
+        {
+            "4": "Pour cream into mushroom mixture, stir to combine, and simmer for 5 minutes. Mixture will foam and thicken slightly."
+        },
+        {
+            "5": "Stir thyme, chives, and tarragon into mushroom sauce and turn off heat; mix 1/2 cup Parmigiano-Reggiano cheese into sauce until cheese is melted."
+        },
+        {
+            "6": "Pour 1/2 of the mushroom sauce over pasta; toss to coat. Top with remaining mushroom sauce and 1 tablespoon Parmigiano-Reggiano cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "375"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9443369.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9367341.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9105297.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9083573.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/LPLpBwwoeTnWZ-OOWiWj0oOIZ5k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4073969-chef-johns-creamy-mushroom-pasta-Chef-John-1x1-1-622ea03e11c741989437beea0e61f648.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Ellen's Chicken Cacciatore",
+    "Category": "Chicken Cacciatore",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil"
+        },
+        {
+            "2": "6  boneless, skinless chicken thighs - fat trimmed"
+        },
+        {
+            "3": "1  onion, chopped"
+        },
+        {
+            "4": "1 (8 ounce) package sliced fresh mushrooms"
+        },
+        {
+            "5": "2 cloves garlic, minced"
+        },
+        {
+            "6": "1 (28 ounce) can diced tomatoes with juice"
+        },
+        {
+            "7": "1 cup dry white wine"
+        },
+        {
+            "8": "0.5 cup orange juice"
+        },
+        {
+            "9": "2 tablespoons dried rosemary, or to taste"
+        },
+        {
+            "10": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a skillet over medium heat, and brown the chicken thighs in the hot oil, about 5 minutes per side. Set the chicken aside."
+        },
+        {
+            "2": "In the same skillet, cook and stir the onion and mushrooms until the mushrooms have softened, about 10 minutes. Mix in the garlic, and cook until fragrant, 1 to 2 more minutes."
+        },
+        {
+            "3": "Pour in the tomatoes with their juice, white wine, orange juice, rosemary, salt, and black pepper, and stir until thoroughly combined."
+        },
+        {
+            "4": "Stir in the chicken pieces and any accumulated juices, cover the skillet, and bring to a boil. Reduce heat to medium-low, and simmer until the chicken is tender and no longer pink inside, 30 to 40 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "289"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9365156.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9334010.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8575260.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8228083.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/dow8LX8WvPu3wqsVWO07yGppJfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/822122-a5981ae9b91a442da730576fd4b6ade7.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

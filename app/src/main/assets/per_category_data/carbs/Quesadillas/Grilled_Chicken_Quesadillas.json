@@ -1,0 +1,87 @@
+{
+    "title": "Grilled Chicken Quesadillas",
+    "Category": "Quesadillas",
+    "Ingredients": [
+        {
+            "1": "2 pounds boneless, skinless chicken thighs"
+        },
+        {
+            "2": "1 adobo seasoning to taste"
+        },
+        {
+            "3": "12 (10 inch) flour tortillas"
+        },
+        {
+            "4": "0.5 cups shredded Mexican cheese blend"
+        },
+        {
+            "5": "1  onion, chopped"
+        },
+        {
+            "6": "1 (6 ounce) can sliced black olives, drained"
+        },
+        {
+            "7": "1 (7 ounce) can diced green chilies, drained"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the chicken on a plate, and sprinkle with adobo seasoning on both sides. Let it marinate for 15 minutes."
+        },
+        {
+            "2": "Heat grill for medium-high heat."
+        },
+        {
+            "3": "Lightly oil the grill grate. Place chicken on grill, and cook for 10 minutes per side, or until juices run clear. Remove chicken from grill, and cut into bite-size pieces."
+        },
+        {
+            "4": "Place one or two tortillas on the grill, and sprinkle with a thin layer of cheese, chicken, onion, olives, and chiles. Top with another tortilla, and grill until brown and crispy on both sides, about 3 minutes per side. Repeat with remaining ingredients. Cut into wedges to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "35 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "851"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "87g"
+        },
+        {
+            "Protein": "46g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1163747.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F208077.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F199716.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F24080.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

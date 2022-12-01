@@ -1,0 +1,93 @@
+{
+    "title": "Ramen Carbonara",
+    "Category": "Pasta Carbonara",
+    "Ingredients": [
+        {
+            "1": "2 slices bacon, chopped"
+        },
+        {
+            "2": "0.5 cup chopped onion"
+        },
+        {
+            "3": "2 (3 ounce) packages ramen noodles (flavor packets discarded)"
+        },
+        {
+            "4": "0.5 cup frozen peas"
+        },
+        {
+            "5": "1  egg"
+        },
+        {
+            "6": "0.5 cup shredded Parmesan cheese"
+        },
+        {
+            "7": "0.25 teaspoon kosher salt"
+        },
+        {
+            "8": "1 pinch red pepper flakes"
+        },
+        {
+            "9": "1 Chopped fresh parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook bacon in a large skillet over medium heat until crisp, about 5 minutes. Transfer to paper towels to drain. Add onion to bacon drippings in skillet; cook until tender, 3 to 5 minutes."
+        },
+        {
+            "2": "Meanwhile, cook ramen in a saucepan according to package directions, adding peas the last minute of cooking. Reserve 1/2 cup cooking water; drain."
+        },
+        {
+            "3": "Whisk together egg, Parmesan, onion and drippings, salt, and red pepper in a bowl. Add hot ramen and cooked bacon. Toss to coat, adding enough reserved cooking water to make a creamy consistency. Top servings with parsley."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "284"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8202466.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8150082.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8148417.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8142031.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/XwEve7QqnG0-6RHch_Nw7g6r8H0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-117-82d56906e00d4ef18fa9fb634d7e9d79.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

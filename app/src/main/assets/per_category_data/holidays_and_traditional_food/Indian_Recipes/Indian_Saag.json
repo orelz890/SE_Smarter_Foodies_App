@@ -1,0 +1,93 @@
+{
+    "title": "Indian Saag",
+    "Category": "Indian Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter"
+        },
+        {
+            "2": "2 tablespoons ground turmeric"
+        },
+        {
+            "3": "2 teaspoons cumin seed"
+        },
+        {
+            "4": "1  green chile pepper, seeded and diced"
+        },
+        {
+            "5": "2 cloves garlic, chopped"
+        },
+        {
+            "6": "1 pound chopped fresh mustard greens"
+        },
+        {
+            "7": "1 pound chopped fresh spinach"
+        },
+        {
+            "8": "1 teaspoon ground cumin"
+        },
+        {
+            "9": "1 teaspoon ground coriander"
+        },
+        {
+            "10": "1 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a large skillet or wok over medium-high heat; cook and stir turmeric, cumin seed, chile pepper, and garlic until fragrant, about 2 minutes."
+        },
+        {
+            "2": "Stir in chopped mustard greens and spinach a little at a time, adding the tougher stems and thicker leaves first. Cook and stir until greens are thoroughly wilted."
+        },
+        {
+            "3": "Stir in ground cumin, coriander, and salt. Cover, reduce heat, and simmer until greens are tender, about 10 minutes; add water as needed to keep greens moist."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "182"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9336329.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8136338.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5928154.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F474011dfa66ca7c3b574b829b5fe81f0%2F5718536.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

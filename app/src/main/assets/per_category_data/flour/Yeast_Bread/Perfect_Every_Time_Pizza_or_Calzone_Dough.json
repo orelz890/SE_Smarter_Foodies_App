@@ -1,0 +1,81 @@
+{
+    "title": "Perfect Every Time Pizza or Calzone Dough",
+    "Category": "Yeast Bread",
+    "Ingredients": [
+        {
+            "1": "0.5 cup lukewarm water"
+        },
+        {
+            "2": "1 (.25 ounce) package active dry yeast"
+        },
+        {
+            "3": "0.5 cup water"
+        },
+        {
+            "4": "2 tablespoons olive oil"
+        },
+        {
+            "5": "2 tablespoons honey"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "3 cups all-purpose flour, plus more for dusting"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix together 1/2 cup lukewarm water and yeast in a small bowl. Let stand until foamy, about 5 minutes."
+        },
+        {
+            "2": "Combine 1/2 cup water, olive oil, honey, and salt in a large mixing bowl. Add 1 cup flour and mix well. Mix yeast mixture into flour mixture. Add remaining flour, 1 cup at a time, until dough is well combined."
+        },
+        {
+            "3": "Knead dough on a floured work surface until dough is soft, smooth, and elastic, about 8 minutes. Roll dough into 4 calzone shapes or 1 large pizza."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 medium calzones"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "438"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "81g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffe7bad3ab0e04c43746ade8e9ed26613%2F1646415354image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffe7bad3ab0e04c43746ade8e9ed26613%2F164417296220220131_174930%281%29.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8974161.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9232965.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

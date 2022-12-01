@@ -1,0 +1,81 @@
+{
+    "title": "London Broil for the Slow Cooker",
+    "Category": "Slow Cooker Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds London broil"
+        },
+        {
+            "2": "2 cloves garlic, minced"
+        },
+        {
+            "3": "1 (10.5 ounce) can condensed cream of mushroom soup"
+        },
+        {
+            "4": "0.5 cup water"
+        },
+        {
+            "5": "0.5 teaspoon dried basil"
+        },
+        {
+            "6": "0.5 teaspoon dried oregano"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place London broil in a slow cooker; add the garlic, condensed soup, water, basil, oregano, and salt; cover."
+        },
+        {
+            "2": "Cook on Low 6 to 7 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 6 hrs"
+        },
+        {
+            "Total Time": " 6 hrs 10 mins"
+        },
+        {
+            "Servings": "5 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "220"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9079627.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9079606.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8939892.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8844240.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/nsUD-P3O0o0A-j2iCyy7P0oUnLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/138918-london-broil-for-the-slow-cooker-ddmfs-1x1-36-bc9c91ea33a2496aa252c7049ba95a77.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

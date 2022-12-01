@@ -1,0 +1,96 @@
+{
+    "title": "Summery Strawberry Pie",
+    "Category": "Strawberry Pie",
+    "Ingredients": [
+        {
+            "1": "1 (9 inch) prepared graham cracker pie crust"
+        },
+        {
+            "2": "1 (8 ounce) package Neufchatel cheese, softened"
+        },
+        {
+            "3": "2 tablespoons white sugar"
+        },
+        {
+            "4": "2 teaspoons pure vanilla extract"
+        },
+        {
+            "5": "2 tablespoons milk"
+        },
+        {
+            "6": "1 pint fresh strawberries, hulled"
+        },
+        {
+            "7": "1 cup strawberry glaze"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Bake pie crust in preheated oven until lightly browed, about 5 minutes; allow to cool completely before filling."
+        },
+        {
+            "3": "Beat together Neufchatel cheese, sugar, vanilla extract, and milk together in a bowl until slightly thinned; spread with a spatula onto the pie crust."
+        },
+        {
+            "4": "Arrange berries atop the cheese filling in the pie crust with the points pointing upward, pushing down slightly to anchor in the cheese filling. Cover the cheese filling as completely as possible with berries."
+        },
+        {
+            "5": "Pour strawberries glaze evenly over the pie."
+        },
+        {
+            "6": "Refrigerate at least 1 hour before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "289"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6691216.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F72ba8f712c314ff55af848edd78b4530%2F6317241.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1016748.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1016490.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

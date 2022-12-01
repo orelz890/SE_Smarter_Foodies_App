@@ -1,0 +1,99 @@
+{
+    "title": "Sandwich French Toast Casserole",
+    "Category": "Breakfast Strata",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "6 slices whole wheat bread, or more to taste"
+        },
+        {
+            "3": "1 tablespoon butter, or as needed"
+        },
+        {
+            "4": "12 slices deli ham, or more to taste"
+        },
+        {
+            "5": "6 slices Swiss cheese, or more to taste"
+        },
+        {
+            "6": "0.5 cup milk"
+        },
+        {
+            "7": "4  eggs"
+        },
+        {
+            "8": "1 teaspoon Worcestershire sauce"
+        },
+        {
+            "9": "0.5 teaspoon mustard powder"
+        },
+        {
+            "10": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Spray the inside of a 9x13-inch casserole dish with cooking spray."
+        },
+        {
+            "2": "Spread butter on one side of each bread slice; top each bread slice with 2 slices ham and 1 slice Swiss cheese. Arrange open-faced sandwiches in the prepared casserole dish, overlapping them to fit."
+        },
+        {
+            "3": "Whisk milk, eggs, Worcestershire sauce, mustard powder, salt, and pepper together in a bowl; pour milk mixture over the open-faced sandwiches. Allow milk mixture to soak in for at least 15 minutes."
+        },
+        {
+            "4": "Bake in the preheated oven until eggs are set and casserole is cooked through, about 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "347"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9442339.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2695275.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2613847.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbf3797b1e8c951204d741bab6999f659%2F2057326.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

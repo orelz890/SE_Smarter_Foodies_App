@@ -1,0 +1,93 @@
+{
+    "title": "Easiest Pot Roast Ever",
+    "Category": "Beef Recipes",
+    "Ingredients": [
+        {
+            "1": "6 medium potatoes"
+        },
+        {
+            "2": "1 medium yellow onion"
+        },
+        {
+            "3": "2 stalks celery"
+        },
+        {
+            "4": "0.5 cups baby carrots"
+        },
+        {
+            "5": "1 (3 pound) beef roast"
+        },
+        {
+            "6": "3 cubes beef bouillon"
+        },
+        {
+            "7": "0.5 cup water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cut potatoes, onions, and celery into fairly large chunks; place in the bottom of a slow cooker along with baby carrots."
+        },
+        {
+            "2": "Place roast on top of vegetables. Place 3 bouillon cubes randomly on top of the roast and pour in 1/2 cup water."
+        },
+        {
+            "3": "Cover and cook on Low for 6 to 8 hours or on High for 4 to 5 hours. An instant-read thermometer inserted in the thickest part of the roast should read 145 degrees F (65 degrees C)."
+        },
+        {
+            "4": "Transfer roast to a platter. Remove vegetables using a slotted spoon and arrange them around the roast."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "526"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F45b40fb52b5d1c32b5ce3f62a978974b%2F16611157002753F13C-8360-4F52-BC00-7A3D7BF7A759.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8597440.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6312760.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3a5378509325d2780e2872d33d7825b4%2F4534079.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/0mdPCE98U7ddvH3njSea_ec5pDQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14670_EasiestPotRoastEver_mfs_0199-253b53ec646f4d028f9750d4b06bcdd6.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/PUhjAh-I0XA0I84RYjvGdhyXCzQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14670_EasiestPotRoastEver_mfs_0201-9f671c5acc4d4c9882adac36f2ad55d1.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

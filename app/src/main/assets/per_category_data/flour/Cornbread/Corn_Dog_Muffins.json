@@ -1,0 +1,84 @@
+{
+    "title": "Corn Dog Muffins",
+    "Category": "Cornbread",
+    "Ingredients": [
+        {
+            "1": "2 (8.5 ounce) packages cornbread mix"
+        },
+        {
+            "2": "2 tablespoons brown sugar"
+        },
+        {
+            "3": "2  eggs"
+        },
+        {
+            "4": "0.5 cups milk"
+        },
+        {
+            "5": "1 cup grated Cheddar cheese"
+        },
+        {
+            "6": "9  hot dogs, cut in half"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Lightly grease muffin tins."
+        },
+        {
+            "2": "Stir together the cornbread mix and the brown sugar in a large bowl. Whisk the eggs and milk in a small bowl until smooth. Fold the eggs and cheese into the dry mixture until moistened. Spoon mixture into muffin tins until 2/3 full. Add 1 hot dog half to each muffin."
+        },
+        {
+            "3": "Bake in a preheated oven 14 to 18 minutes, or until golden brown."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "14 mins"
+        },
+        {
+            "Total Time": "24 mins"
+        },
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "18 muffins"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "246"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fca1670b4d6bed93fe4f46276aba37cea%2F164934042516493403999752744406794150027847.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fca1670b4d6bed93fe4f46276aba37cea%2F16437607251BC63210-4F69-4E69-A1AD-66BC3E181D16.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8864974.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8532007.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/izhIBy4tLe7ThNkhPzgngCGKGdc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-253-0603cf46008f4b8fa85508614f1c035a.jpg"
+        }
+    ],
+    "main category": "flour"
+}

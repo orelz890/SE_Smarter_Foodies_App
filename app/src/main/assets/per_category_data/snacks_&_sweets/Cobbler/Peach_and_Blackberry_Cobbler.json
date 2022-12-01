@@ -1,0 +1,99 @@
+{
+    "title": "Peach and Blackberry Cobbler",
+    "Category": "Cobbler",
+    "Ingredients": [
+        {
+            "1": "4 cups peeled and sliced fresh peaches"
+        },
+        {
+            "2": "1 cup fresh blackberries"
+        },
+        {
+            "3": "0.25 cup white sugar"
+        },
+        {
+            "4": "1 teaspoon ground cinnamon"
+        },
+        {
+            "5": "1 tablespoon lemon juice"
+        },
+        {
+            "6": "0.5 cup butter, melted"
+        },
+        {
+            "7": "0.25 cups all-purpose flour"
+        },
+        {
+            "8": "1 cup white sugar"
+        },
+        {
+            "9": "2 teaspoons baking powder"
+        },
+        {
+            "10": "0.5 teaspoon salt"
+        },
+        {
+            "11": "1 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Mix peaches, blackberries, 1/4 cup sugar, cinnamon, and lemon juice in a bowl."
+        },
+        {
+            "3": "Pour butter into a 9x13-inch glass baking dish and evenly coat the bottom and sides. Whisk flour, 1 cup sugar, baking powder, and salt in a bowl; mix in milk, stirring just to moisten dry ingredients. Pour batter into prepared baking dish and distribute fruit mixture evenly over the batter."
+        },
+        {
+            "4": "Bake in the preheated oven until cobbler is golden brown, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x13-inch dish"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "223"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd6eb806c8d6de54a7a8ffa8c4d598ade%2F165247688020220513_161838.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9190571.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9385030.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F91347ca2bfb0512aaf6d205bcc40fc02%2F5652028.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

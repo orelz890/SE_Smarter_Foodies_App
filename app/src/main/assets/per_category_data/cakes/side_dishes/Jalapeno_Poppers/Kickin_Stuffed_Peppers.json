@@ -1,0 +1,78 @@
+{
+    "title": "Kickin Stuffed Peppers",
+    "Category": "Jalapeno Poppers",
+    "Ingredients": [
+        {
+            "1": "1 pound mild pork sausage"
+        },
+        {
+            "2": "1 (8 ounce) package Neufchatel cheese, cubed"
+        },
+        {
+            "3": "15  fresh jalapeno peppers, halved lengthwise and seeded"
+        },
+        {
+            "4": "0.25 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 350 degrees F (175 degrees C). Lightly grease a baking sheet."
+        },
+        {
+            "2": "Place a skillet over medium-high heat; add sausage and cook until brown; drain and return pan to heat. Stir the cream cheese into the sausage and cook until completely melted; remove from heat."
+        },
+        {
+            "3": "Spoon equal portions of the sausage mixture into the jalapeno halves and arrange onto the prepared baking sheet; sprinkle the Parmesan cheese over the stuffed peppers."
+        },
+        {
+            "4": "Bake in the preheated oven until the peppers are soft and the tops are lightly browned, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "30 stuffed peppers"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "318"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9328659.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9290652.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7e9b945da39e95ec4667799b0866fe68%2F6624111.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3933609.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

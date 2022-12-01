@@ -1,0 +1,93 @@
+{
+    "title": "Low-Carb Cream of Mushroom Soup",
+    "Category": "Mushroom Soup",
+    "Ingredients": [
+        {
+            "1": "0.25 cup butter"
+        },
+        {
+            "2": "5 cups coarsely chopped fresh mushrooms"
+        },
+        {
+            "3": "0.5 cup finely chopped onion"
+        },
+        {
+            "4": "1 clove garlic, minced"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "7": "0.25 teaspoon dried thyme"
+        },
+        {
+            "8": "1 (32 ounce) carton chicken broth"
+        },
+        {
+            "9": "2 cups heavy whipping cream"
+        },
+        {
+            "10": "1 (4 ounce) package cream cheese"
+        },
+        {
+            "11": "2 tablespoons sherry"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a large, heavy saucepan over medium heat. Add mushrooms, onion, and garlic; cook and stir until tender, about 10 minutes. Add salt, pepper, and thyme; cook and stir until combined, about 1 minute. Stir in chicken broth, heavy cream, and cream cheese. Reduce heat to a low simmer and pour in sherry. Cook, stirring constantly, until flavors are well incorporated, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "56 mins"
+        },
+        {
+            "Total Time": " 1 hrs 16 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "443"
+        },
+        {
+            "Fat": "44g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9043911.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8980891.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8503065.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8389012.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/mHK5890L99yc-a1zoCoUyKgJoBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4554590-f96bd38fe7034febb18363776831c5dd.jpg"
+        }
+    ],
+    "main category": "soups"
+}

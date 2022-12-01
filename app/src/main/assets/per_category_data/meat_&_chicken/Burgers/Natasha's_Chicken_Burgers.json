@@ -1,0 +1,90 @@
+{
+    "title": "Natasha's Chicken Burgers",
+    "Category": "Burgers",
+    "Ingredients": [
+        {
+            "1": "1 pound extra-lean ground chicken"
+        },
+        {
+            "2": "0.5 cup Italian-seasoned bread crumbs, divided"
+        },
+        {
+            "3": "0.5 small onion, finely grated"
+        },
+        {
+            "4": "1  egg"
+        },
+        {
+            "5": "2 cloves garlic, minced"
+        },
+        {
+            "6": "1 salt and ground black pepper to taste"
+        },
+        {
+            "7": "2 teaspoons olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix ground chicken, 1/4 cup bread crumbs, onion, egg, and garlic in a bowl. Season with salt and pepper."
+        },
+        {
+            "2": "Moisten hands and shape chicken mixture, 2 tablespoons at a time, into flat, oval-shaped patties."
+        },
+        {
+            "3": "Spread remaining 1/4 cup bread crumbs in a shallow dish. Dip patties in bread crumbs to coat."
+        },
+        {
+            "4": "Heat olive oil in a large skillet over medium-high heat."
+        },
+        {
+            "5": "Cook patties in hot oil until deeply browned on the bottoms, 5 to 6 minutes. Turn patties and cook until other sides are browned, 3 to 4 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "238"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7891299.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7878651.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2bb56dd3a967d1d9ac2be334fff591c3%2F6059010.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5804080.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/sLx-yZhGyo1nrPMC39bldSw_TxU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3752216-88639bfbe7c24da9b7d4891a082922fb.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,105 @@
+{
+    "title": "Best Ever Meatloaf with Brown Gravy",
+    "Category": "Meatloaf",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds ground beef"
+        },
+        {
+            "2": "0.75 cup fresh bread crumbs"
+        },
+        {
+            "3": "0.5 cup chili sauce"
+        },
+        {
+            "4": "1 large egg"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "0.25 teaspoon freshly ground black pepper"
+        },
+        {
+            "7": "1 Gravy-"
+        },
+        {
+            "8": "1 tablespoon butter"
+        },
+        {
+            "9": "1 cup fresh sliced mushrooms"
+        },
+        {
+            "10": "2 tablespoons minced onion"
+        },
+        {
+            "11": "1 cup beef broth"
+        },
+        {
+            "12": "2 tablespoons water"
+        },
+        {
+            "13": "1 tablespoon cornstarch"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Combine ground beef, bread crumbs, chili sauce, egg, salt, and freshly ground black pepper in a large bowl; mix well. Press mixture into an 8x4-inch loaf pan, then place the loaf pan on a rack in a roasting pan."
+        },
+        {
+            "3": "Bake in the preheated oven until meat is well done with no trace of pink, about 1 hour. An instant-read thermometer inserted into the center of the loaf should read at least 160 degrees F (70 degrees C). Let rest for 10 minutes while you make gravy."
+        },
+        {
+            "4": "Make gravy: Melt butter in a medium saucepan over medium heat. Add mushrooms and onions; cook and stir until tender. Add beef broth and simmer, stirring occasionally, for 5 minutes. Mix together water and cornstarch in a small cup; stir into broth. Cook and stir until gravy is thickened, about 1 minute."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 8x4-inch loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "451"
+        },
+        {
+            "Fat": "34g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9199117.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6941128.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6941137.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F787fd384b6446776031983f97f8c5a84%2F6233154.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

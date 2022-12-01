@@ -1,0 +1,96 @@
+{
+    "title": "Quick Fish Tacos",
+    "Category": "Tacos",
+    "Ingredients": [
+        {
+            "1": "0.25 cup reduced-fat sour cream"
+        },
+        {
+            "2": "2 tablespoons lime juice"
+        },
+        {
+            "3": "1 salt and ground black pepper to taste"
+        },
+        {
+            "4": "1  jalapeno pepper, halved lengthwise"
+        },
+        {
+            "5": "1.0 cups shredded red cabbage"
+        },
+        {
+            "6": "4  green onions, thinly sliced"
+        },
+        {
+            "7": "2 tablespoons olive oil"
+        },
+        {
+            "8": "1 pound tilapia fillets, cut into strips"
+        },
+        {
+            "9": "8 (6 inch) flour tortillas"
+        },
+        {
+            "10": "0.5 cup chopped fresh cilantro"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix sour cream and lime juice together in a large bowl; season with salt and black pepper. Reserve about half the mixture in another bowl for serving. Mince half the jalapeno pepper; save other half for later. Toss cabbage, green onions, and minced jalapeno half in remaining sour cream mixture until slaw is well mixed."
+        },
+        {
+            "2": "Heat olive oil and remaining jalapeno half in a large skillet over medium heat; swirl oil to coat skillet evenly. Season tilapia fillets with salt and pepper. Pan-fry fish strips in the skillet in 2 batches until fish is golden brown and easily flaked with a fork, 5 to 6 minutes. Discard jalapeno half."
+        },
+        {
+            "3": "Heat tortillas in the microwave on high until warm, 20 to 30 seconds."
+        },
+        {
+            "4": "Serve fish in warmed tortillas topped with cabbage slaw, reserved sour cream mixture, and cilantro."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "416"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9367353.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9169089.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9125500.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8815406.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

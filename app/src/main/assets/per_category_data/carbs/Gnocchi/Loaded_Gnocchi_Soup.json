@@ -1,0 +1,84 @@
+{
+    "title": "Loaded Gnocchi Soup",
+    "Category": "Gnocchi",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon vegetable oil"
+        },
+        {
+            "2": "1 medium onion, diced"
+        },
+        {
+            "3": "0.5 teaspoon celery seed"
+        },
+        {
+            "4": "4 cups vegetable broth"
+        },
+        {
+            "5": "1 (16 ounce) package fresh gnocchi"
+        },
+        {
+            "6": "0.5 cup half-and-half"
+        },
+        {
+            "7": "8 slices cooked bacon, crumbled, divided"
+        },
+        {
+            "8": "1 cup shredded sharp Cheddar cheese, divided"
+        },
+        {
+            "9": "2 tablespoons chopped fresh chives"
+        },
+        {
+            "10": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a soup pot over medium-high heat. Add onion and celery seed. Cook until onion is soft and translucent, about 4 minutes. Pour in broth and bring to a boil. Add gnocchi and cook for 3 minutes. Stir in half-and-half and 1/2 of the bacon. Remove from heat and stir in 3/4 of the Cheddar cheese until melted. Let sit to thicken, about 5 minutes."
+        },
+        {
+            "2": "Ladle soup into bowls and top with remaining bacon, Cheddar cheese, and chives. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "362"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8047971.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

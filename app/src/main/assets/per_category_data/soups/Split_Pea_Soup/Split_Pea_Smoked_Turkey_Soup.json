@@ -1,0 +1,81 @@
+{
+    "title": "Split Pea Smoked Turkey Soup",
+    "Category": "Split Pea Soup",
+    "Ingredients": [
+        {
+            "1": "1 pound dried split peas"
+        },
+        {
+            "2": "5 cups water, or more if needed"
+        },
+        {
+            "3": "3 pounds smoked turkey legs"
+        },
+        {
+            "4": "3 cups chicken broth"
+        },
+        {
+            "5": "0.5 cups chopped carrot"
+        },
+        {
+            "6": "1 cup chopped celery"
+        },
+        {
+            "7": "2  potatoes, peeled and chopped"
+        },
+        {
+            "8": "1  onion, chopped"
+        },
+        {
+            "9": "0.5 teaspoon garlic powder"
+        },
+        {
+            "10": "0.5 teaspoon dried oregano"
+        },
+        {
+            "11": "2  bay leaves"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine split peas, water, smoked turkey legs, chicken broth, carrot, celery, potatoes, onion, garlic powder, oregano, and bay leaves in a slow cooker. Set the cooker on Low, cover, and cook until peas are tender and soup is thickened, 4 to 5 hours. Discard bay leaves before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 25 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "613"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "63g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8f98bc63ee3312f324c154908aa94550%2F3166560.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F772468.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

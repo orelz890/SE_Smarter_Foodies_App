@@ -1,0 +1,84 @@
+{
+    "title": "To Die For Fettuccine Alfredo",
+    "Category": "Fettuccini",
+    "Ingredients": [
+        {
+            "1": "24 ounces dry fettuccine pasta"
+        },
+        {
+            "2": "1 cup butter"
+        },
+        {
+            "3": "0.75 pint heavy cream"
+        },
+        {
+            "4": "1 salt and pepper to taste"
+        },
+        {
+            "5": "1 dash garlic salt"
+        },
+        {
+            "6": "0.75 cup grated Romano cheese"
+        },
+        {
+            "7": "0.5 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add fettuccine and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+            "2": "Melt butter into cream in a large saucepan over low heat; add salt, pepper, and garlic salt. Increase the heat to medium; stir in grated Romano and Parmesan cheese until melted and sauce has thickened."
+        },
+        {
+            "3": "Add cooked pasta to sauce and toss until thoroughly coated; serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "964"
+        },
+        {
+            "Fat": "61g"
+        },
+        {
+            "Carbs": "84g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fac2977196b8aea9b2b4827d1ad06c97b%2F1668105676989IMG_3527.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F926a3244cbb2ef73ac319fb2da7a16fa%2F166283843027558.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F926a3244cbb2ef73ac319fb2da7a16fa%2F16604386243DA8C569-4722-4FC3-9B03-C4ED7D24B80A.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F926a3244cbb2ef73ac319fb2da7a16fa%2F1648668228Picture%2520502.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/8W5wmwmSqlRYoTQJ9BTid-yo1bM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8065111-b0dbefd1f1b343259810f4771829f970.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

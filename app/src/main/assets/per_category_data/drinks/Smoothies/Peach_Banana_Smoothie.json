@@ -1,0 +1,72 @@
+{
+    "title": "Peach Banana Smoothie",
+    "Category": "Smoothies",
+    "Ingredients": [
+        {
+            "1": "1 cup plain yogurt"
+        },
+        {
+            "2": "1 (15.25 ounce) can peaches"
+        },
+        {
+            "3": "2  bananas, sliced"
+        },
+        {
+            "4": "0.25 cup orange juice"
+        },
+        {
+            "5": "0.25 cup white sugar, or to taste"
+        },
+        {
+            "6": "2 cubes  ice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Blend yogurt, peaches, bananas, orange juice, sugar, and ice in a blender on high until the ice is crushed and the smoothie is to your desired consistency."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "5 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "194"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F293226adbd61ce6c9f0ea0785b12fc24%2F1652886156image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6949207.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6b8a80a9ce76c1002e2edacd1358165c%2F6886453.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3594972.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

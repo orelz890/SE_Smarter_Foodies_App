@@ -1,0 +1,93 @@
+{
+    "title": "Jewish Coffee Cake",
+    "Category": "Jewish Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "2  eggs"
+        },
+        {
+            "4": "2 cups all-purpose flour"
+        },
+        {
+            "5": "1 teaspoon baking soda"
+        },
+        {
+            "6": "1 teaspoon baking powder"
+        },
+        {
+            "7": "1 cup sour cream"
+        },
+        {
+            "8": "1 teaspoon vanilla extract"
+        },
+        {
+            "9": "1 cup chopped walnuts"
+        },
+        {
+            "10": "0.5 cup confectioners' sugar"
+        },
+        {
+            "11": "2 teaspoons ground cinnamon"
+        },
+        {
+            "12": "2 tablespoons butter, melted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x9 inch pan. Combine the flour, baking soda and baking powder; set aside."
+        },
+        {
+            "2": "In a medium bowl, cream together the sugar, butter and eggs until smooth. Add the flour mixture and beat until smooth. Finally, stir in the sour cream and vanilla. In a separate bowl, combine the nuts, confectioners' sugar and cinnamon."
+        },
+        {
+            "3": "Spread half of the batter into the 9x9 inch pan. Sprinkle a layer of the nut mixture, then spread the remaining batter and top with the rest of the nut mixture. Spread the melted butter over the top."
+        },
+        {
+            "4": "Bake for 1 hour in the preheated oven, until cake springs back to the touch."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x9-inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "364"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9242129.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9172764.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8820876.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8076541.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

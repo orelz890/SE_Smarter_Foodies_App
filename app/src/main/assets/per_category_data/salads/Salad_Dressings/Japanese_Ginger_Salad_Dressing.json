@@ -1,0 +1,78 @@
+{
+    "title": "Japanese Ginger Salad Dressing",
+    "Category": "Salad Dressings",
+    "Ingredients": [
+        {
+            "1": "1 cup olive oil"
+        },
+        {
+            "2": "0.25 cup soy sauce"
+        },
+        {
+            "3": "1  lemon, juiced"
+        },
+        {
+            "4": "3 cloves garlic, minced"
+        },
+        {
+            "5": "3 tablespoons minced fresh ginger root"
+        },
+        {
+            "6": "1 teaspoon prepared Dijon-style mustard"
+        },
+        {
+            "7": "2 teaspoons honey"
+        },
+        {
+            "8": "1 ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a small bowl, whisk together the soy sauce, lemon juice, garlic, ginger, mustard, honey and pepper. Once these are thoroughly combined, add the oil in a steady stream, whisking constantly. When all of the oil is incorporated into the dressing, pour into a glass jar and chill until serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 1/2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "170"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9216512.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2ae8a6025d188e67b3e1c9b40dee4e73%2F1084175.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe7e1166c125f529eb335e355868e806b%2F204989.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F78e465e85d8f756ef20d1ee9fe38bdca%2F188336.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

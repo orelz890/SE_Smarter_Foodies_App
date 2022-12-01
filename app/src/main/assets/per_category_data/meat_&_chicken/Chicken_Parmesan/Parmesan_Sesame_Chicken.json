@@ -1,0 +1,75 @@
+{
+    "title": "Parmesan Sesame Chicken",
+    "Category": "Chicken Parmesan",
+    "Ingredients": [
+        {
+            "1": "1 cup bread crumbs"
+        },
+        {
+            "2": "0.25 cup Parmesan cheese"
+        },
+        {
+            "3": "0.25 cup sesame seeds"
+        },
+        {
+            "4": "1  egg, beaten"
+        },
+        {
+            "5": "4  boneless, skinless chicken breast halves"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "In a bowl, mix the bread crumbs, Parmesan cheese, and sesame seeds. Place the egg in a separate bowl. Dip the chicken in the egg, then dip into the bread crumb mixture to coat. Place the chicken breasts in a shallow baking dish."
+        },
+        {
+            "3": "Bake chicken 20 to 30 minutes in the preheated oven, until juices run clear."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "328"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "33g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8708046.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F372793.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5a11b402b8871de4ef3c832ec9acf669%2F90851.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

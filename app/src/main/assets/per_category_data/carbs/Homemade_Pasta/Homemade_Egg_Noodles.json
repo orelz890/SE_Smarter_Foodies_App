@@ -1,0 +1,63 @@
+{
+    "title": "Homemade Egg Noodles",
+    "Category": "Homemade Pasta",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "0.25 teaspoon salt"
+        },
+        {
+            "3": "0.25 teaspoon baking powder"
+        },
+        {
+            "4": "4  egg yolks"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Sift together the flour, salt and baking powder. Add egg yolks and mix until dry ingredients are moistened."
+        },
+        {
+            "2": "Press into a ball and cut in quarters. Roll out on floured surface 1/8 to 1/4 inch thick; cut to desired width and length. Lay on linen dish towel or wooden dowel to dry."
+        },
+        {
+            "3": "Add to broth such as chicken or turkey and cook until done."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "280"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8704133.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F81cb4cebb3ffcf258097a84546b55d67%2F705392.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F523291.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

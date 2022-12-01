@@ -1,0 +1,81 @@
+{
+    "title": "Oatmeal Chocolate Coconut Macaroons",
+    "Category": "Christmas Cookies",
+    "Ingredients": [
+        {
+            "1": "2 cups quick-cooking oats"
+        },
+        {
+            "2": "1 cup shredded coconut"
+        },
+        {
+            "3": "0.25 cup unsweetened cocoa powder"
+        },
+        {
+            "4": "2 cups white sugar"
+        },
+        {
+            "5": "0.5 cup butter"
+        },
+        {
+            "6": "0.5 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix together oats, coconut, and cocoa powder in a large bowl."
+        },
+        {
+            "2": "Bring sugar, butter, and milk to a boil in a saucepan, stirring occasionally; remove immediately from heat and stir into oat mixture until well combined."
+        },
+        {
+            "3": "Drop 15 spoonfuls of dough onto a sheet of waxed paper. Let cool completely at room temperature before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "15 "
+        },
+        {
+            "Yield": "15 macaroons"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "228"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1952dbf5ef330ef1f403099d9ff6cd55%2F1665688473551BCF55372-76F3-4B47-AE2A-1BC99795C1A7.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8677137.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8554887.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7799401.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Chocolate-Banana Tofu Pudding",
+    "Category": "Tofu Recipes",
+    "Ingredients": [
+        {
+            "1": "1  banana, broken into chunks"
+        },
+        {
+            "2": "1 (12 ounce) package soft silken tofu"
+        },
+        {
+            "3": "0.25 cup confectioners' sugar"
+        },
+        {
+            "4": "5 tablespoons unsweetened cocoa powder"
+        },
+        {
+            "5": "3 tablespoons soy milk"
+        },
+        {
+            "6": "1 pinch ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place banana, tofu, sugar, cocoa powder, soy milk, and cinnamon into a blender. Cover, and puree until smooth."
+        },
+        {
+            "2": "Pour into individual serving dishes, and refrigerate for 1 hour before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "124"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9311593.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9005856.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2048414.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9589403565ff33d7b3aad0bf0c6e8e6e%2F1117332.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

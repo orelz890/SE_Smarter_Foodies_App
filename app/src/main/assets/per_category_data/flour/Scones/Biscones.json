@@ -1,0 +1,72 @@
+{
+    "title": "Biscones",
+    "Category": "Scones",
+    "Ingredients": [
+        {
+            "1": "2 cups unbleached all-purpose flour"
+        },
+        {
+            "2": "4 teaspoons baking powder"
+        },
+        {
+            "3": "1 tablespoon white sugar, or more to taste"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "6 tablespoons butter"
+        },
+        {
+            "6": "0.75 cup buttermilk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C). Grease a baking sheet."
+        },
+        {
+            "2": "Combine flour, baking powder, sugar, and salt together in a bowl. Cut butter into flour mixture using a fork, your hands, or a pastry blender until mixture resembles coarse crumbs. Mix buttermilk into flour mixture until dough starts to stick together."
+        },
+        {
+            "3": "Turn dough onto a floured work surface and shape into a 1/2-inch thick circle. Cut dough into 4 wedges and then into 8 wedges using a sharp knife. Arrange wedges on the prepared baking sheet."
+        },
+        {
+            "4": "Bake in the preheated oven until biscones are lightly browned, about 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "207"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2313911.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

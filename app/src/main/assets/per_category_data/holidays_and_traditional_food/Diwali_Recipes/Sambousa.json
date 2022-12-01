@@ -1,0 +1,84 @@
+{
+    "title": "Sambousa",
+    "Category": "Diwali Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "0.5  carrot, minced"
+        },
+        {
+            "3": "0.5  onion, minced"
+        },
+        {
+            "4": "1 clove garlic, minced"
+        },
+        {
+            "5": "1 teaspoon tomato paste"
+        },
+        {
+            "6": "1  green onion, chopped"
+        },
+        {
+            "7": "1 pinch seasoning salt"
+        },
+        {
+            "8": "1  green chile peppers, diced (Optional)"
+        },
+        {
+            "9": "1 (16 ounce) package egg roll wrappers, cut in half into rectangles"
+        },
+        {
+            "10": "1 tablespoon all-purpose flour"
+        },
+        {
+            "11": "1 tablespoon water"
+        },
+        {
+            "12": "2 cups vegetable oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large skillet, brown meat. Remove the meat from the skillet."
+        },
+        {
+            "2": "In the same skillet used for the meat, saute onion, garlic, carrot and green onion. When the vegetables are tender, add tomato paste and seasoning salt. Stir in browned meat."
+        },
+        {
+            "3": "In a small bowl combine flour with water until a watery paste is formed. Place a teaspoon full of meat mixture in the front part of one of the strips. Starting from the right front corner, fold over to the left. You've started the triangle shape. Continue back and forth (making a triangular shape) until there is no more wrapper. Seal the wrappers closed with the flour and water mixture. Continue this process until all of the ingredients are used."
+        },
+        {
+            "4": "Using oil to taste, fry the triangular packages until crisp. Delicious!"
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "649"
+        },
+        {
+            "Fat": "54g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F441501.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

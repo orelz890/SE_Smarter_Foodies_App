@@ -1,0 +1,105 @@
+{
+    "title": "Fresh Strawberry Coffee Cake",
+    "Category": "Coffee Cake",
+    "Ingredients": [
+        {
+            "1": "0.25 cup butter"
+        },
+        {
+            "2": "0.75 cup white sugar"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "0.5 cups all-purpose flour"
+        },
+        {
+            "5": "2 teaspoons baking powder"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "0.5 cup milk"
+        },
+        {
+            "8": "0.5 cups thinly sliced strawberries"
+        },
+        {
+            "9": "0.5 cup all-purpose flour"
+        },
+        {
+            "10": "0.5 cup white sugar"
+        },
+        {
+            "11": "0.25 cup butter, softened"
+        },
+        {
+            "12": "0.25 cup flaked coconut"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch baking pan."
+        },
+        {
+            "2": "Beat 1/4 cup butter in a bowl until creamy; add 3/4 cup sugar and egg. Beat until fully incorporated."
+        },
+        {
+            "3": "Mix 1 1/2 cup flour, baking powder, and salt together in a separate bowl. Stir flour mixture, alternating with milk, into butter mixture until combined. Pour batter into prepared baking pan. Arrange strawberries atop the batter."
+        },
+        {
+            "4": "Mix 1/2 cup flour, 1/2 cup sugar, 1/4 cup butter, and coconut together in a bowl. Sprinkle topping over strawberries."
+        },
+        {
+            "5": "Bake in the preheated oven until a toothpick inserted in the center of the cake comes out clean, about 35 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "249"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F07e87e585285526a4622df26e8cbf468%2F165856202220220723_173837.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F07e87e585285526a4622df26e8cbf468%2F1658424921CD48B929-9F97-42D4-A310-F6C207EA7158.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F07e87e585285526a4622df26e8cbf468%2F165757929024A1DAC6-0B95-4434-8F26-9F632C55F554.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F07e87e585285526a4622df26e8cbf468%2F16575000870710220918.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

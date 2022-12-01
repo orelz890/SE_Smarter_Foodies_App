@@ -1,0 +1,75 @@
+{
+    "title": "Sloe Gin Fizz Cocktail",
+    "Category": "Mardi Gras Recipes",
+    "Ingredients": [
+        {
+            "1": "2  ice cubes"
+        },
+        {
+            "2": "2 fluid ounces sloe gin"
+        },
+        {
+            "3": "1 fluid ounce lemon juice"
+        },
+        {
+            "4": "1 teaspoon simple syrup"
+        },
+        {
+            "5": "1 cup ice"
+        },
+        {
+            "6": "4 fluid ounces club soda"
+        },
+        {
+            "7": "1 slice lemon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place 2 ice cubes in a highball glass. Set aside in the freezer."
+        },
+        {
+            "2": "Combine sloe gin, lemon juice, and simple syrup in a cocktail shaker. Add ice; cover and shake until chilled. Strain into the prepared highball glass. Stir in club soda. Garnish with a slice of lemon."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 cocktail"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "219"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8502016.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcaf2611d14630741f7e3bd92a4ad2a19%2F5882068.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F964869.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

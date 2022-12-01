@@ -1,0 +1,84 @@
+{
+    "title": "Nana's Apple Crisp",
+    "Category": "Crisps and Crumbles",
+    "Ingredients": [
+        {
+            "1": "6  tart apples - peeled, cored, and sliced"
+        },
+        {
+            "2": "0.5 cup butter, melted"
+        },
+        {
+            "3": "1 cup all-purpose flour"
+        },
+        {
+            "4": "1 cup white sugar"
+        },
+        {
+            "5": "1 cup quick-cooking oats"
+        },
+        {
+            "6": "2 tablespoons ground cinnamon, divided"
+        },
+        {
+            "7": "0.25 cup butter, cut into pieces"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Place apples in a 9x13 inch baking dish. In a bowl, mix melted butter, flour, sugar, oats, and 1 tablespoon cinnamon to form a crumbly mixture. Sprinkle over apples. Dot with remaining 1/4 cup butter, and sprinkle with remaining 1 tablespoon cinnamon."
+        },
+        {
+            "3": "Bake 50 minutes in the preheated oven, until lightly browned and apples are tender."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "403"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "60g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8692202.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8644645.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8644666.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8644642.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

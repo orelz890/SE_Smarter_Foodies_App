@@ -1,0 +1,47 @@
+{
+    "title": "Peach Cosmo",
+    "Category": "Punch",
+    "Ingredients": [
+        {
+            "1": "3 fluid ounces cranberry juice"
+        },
+        {
+            "2": "1 (1.5 fluid ounce) jigger citron vodka"
+        },
+        {
+            "3": "1 tablespoon peach schnapps"
+        },
+        {
+            "4": "1 teaspoon fresh lime juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour the cranberry juice, vodka, schnapps, and lime juice into a cocktail shaker over ice. Cover, and shake until the outside of the shaker has frosted. Strain into a chilled martini glass to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 cocktail"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7985794.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F653466.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

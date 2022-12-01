@@ -1,0 +1,105 @@
+{
+    "title": "Chocolate Oatmeal Cookies",
+    "Category": "Oatmeal Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup all-purpose flour"
+        },
+        {
+            "2": "3 tablespoons unsweetened cocoa powder"
+        },
+        {
+            "3": "1 teaspoon baking powder"
+        },
+        {
+            "4": "0.5 teaspoon baking soda"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "7": "0.5 cup margarine"
+        },
+        {
+            "8": "0.5 cup brown sugar"
+        },
+        {
+            "9": "0.5 cup white sugar"
+        },
+        {
+            "10": "1 large egg"
+        },
+        {
+            "11": "1 teaspoon vanilla extract"
+        },
+        {
+            "12": "0.25 cups rolled oats"
+        },
+        {
+            "13": "0.5 cup semisweet chocolate chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease cookie sheets."
+        },
+        {
+            "2": "Stir flour, cocoa, baking powder, baking soda, salt, and cinnamon together in a large bowl; set aside."
+        },
+        {
+            "3": "Beat margarine, brown sugar, and white sugar together in a large bowl with an electric mixer until light and fluffy. Beat in egg and vanilla. Stir in flour mixture using a wooden spoon. Mix in oats and chocolate chips. Drop spoonfuls of dough 2 inches apart onto the prepared cookie sheets."
+        },
+        {
+            "4": "Bake in the preheated oven until edges are golden, about 8 to 10 minutes. Cool on the baking sheet briefly before removing to a wire rack to cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "36 "
+        },
+        {
+            "Yield": "3 dozen cookies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "79"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F320543c32c85a01ecc86767c2b0e11f3%2F166402262220220924_073001.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9399540.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9345769.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9282628.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,135 @@
+{
+    "title": "Buddha Bowl",
+    "Category": "Quinoa",
+    "Ingredients": [
+        {
+            "1": "3 cups chicken broth"
+        },
+        {
+            "2": "0.5 cups quinoa"
+        },
+        {
+            "3": "1 large sweet potato, diced"
+        },
+        {
+            "4": "1 large red onion, diced"
+        },
+        {
+            "5": "0.25 cup olive oil, divided"
+        },
+        {
+            "6": "1 kosher salt to taste"
+        },
+        {
+            "7": "1 freshly ground black pepper to taste"
+        },
+        {
+            "8": "3 cloves garlic, minced, divided"
+        },
+        {
+            "9": "1 tablespoon minced fresh ginger root"
+        },
+        {
+            "10": "1 pound skinless, boneless chicken breast halves"
+        },
+        {
+            "11": "0.25 cup lime juice"
+        },
+        {
+            "12": "2 tablespoons smooth peanut butter"
+        },
+        {
+            "13": "1 tablespoon soy sauce"
+        },
+        {
+            "14": "1 tablespoon honey"
+        },
+        {
+            "15": "1 tablespoon sesame oil"
+        },
+        {
+            "16": "2 cups baby spinach"
+        },
+        {
+            "17": "1  avocado - peeled, pitted, and thinly sliced"
+        },
+        {
+            "18": "1 tablespoon chopped fresh cilantro"
+        },
+        {
+            "19": "1 teaspoon toasted sesame seeds"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring chicken broth and quinoa to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until quinoa is tender and broth is absorbed, 15 to 20 minutes."
+        },
+        {
+            "2": "Preheat oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "3": "Spread sweet potato and red onion onto a baking sheet. Drizzle 1 tablespoon olive oil over mixture and season with salt and pepper; toss to coat."
+        },
+        {
+            "4": "Bake in the preheated oven until sweet potatoes are tender, 20 to 25 minutes."
+        },
+        {
+            "5": "Heat 1 tablespoon olive oil in a skillet over medium heat; cook and stir 2 cloves garlic and ginger until fragrant, about 1 minute. Add chicken and cook until no longer pink in the center and the juices run clear, about 6 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Cut chicken into 1-inch pieces."
+        },
+        {
+            "6": "Whisk 1 garlic clove, lime juice, peanut butter, soy sauce, and honey together in a bowl. Whisk 1 tablespoon olive oil and sesame oil into mixture until dressing is smooth."
+        },
+        {
+            "7": "Divide quinoa among bowls; top with chicken, sweet potato mixture, spinach, and avocado. Sprinkle cilantro and sesame seeds over the top and drizzle dressing over each bowl."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "48 mins"
+        },
+        {
+            "Total Time": "58 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "799"
+        },
+        {
+            "Fat": "36g"
+        },
+        {
+            "Carbs": "82g"
+        },
+        {
+            "Protein": "40g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F680ef779a4a18e2634cab6d5ba88b785%2F165119666020220428_192601.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9368410.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9333869.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9003610.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/7OuROWMm3VkC56spFN26G3iyJ8I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6728019-d8c67fe1b8874f9eadce007a5d5fd44c.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

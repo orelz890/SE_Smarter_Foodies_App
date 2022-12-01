@@ -1,0 +1,84 @@
+{
+    "title": "Stef's Super Cheesy Garlic Bread",
+    "Category": "Garlic Bread",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter, softened"
+        },
+        {
+            "2": "0.75 cup mayonnaise"
+        },
+        {
+            "3": "1 bunch green onions, chopped"
+        },
+        {
+            "4": "3 cloves garlic, minced"
+        },
+        {
+            "5": "0.25 cups Parmesan cheese"
+        },
+        {
+            "6": "0.5 cups shredded Monterey Jack cheese"
+        },
+        {
+            "7": "1 (1 pound) loaf French bread, halved lengthwise"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Combine the butter, mayonnaise, green onions, garlic, Parmesan cheese, and Monterey Jack cheese in a large bowl. Cut each half of French bread into 4 pieces. Spread the cheese mixture evenly on the bread pieces."
+        },
+        {
+            "3": "Bake in the preheated oven for 8 minutes. Set the oven to broil; broil until hot and bubbly, about 2 additional minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "555"
+        },
+        {
+            "Fat": "39g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8938812.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8737450.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7830290.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6845694.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

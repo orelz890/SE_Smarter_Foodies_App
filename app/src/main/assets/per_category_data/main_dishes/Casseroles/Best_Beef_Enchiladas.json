@@ -1,0 +1,120 @@
+{
+    "title": "Best Beef Enchiladas",
+    "Category": "Casseroles",
+    "Ingredients": [
+        {
+            "1": "2 pounds ground beef"
+        },
+        {
+            "2": "0.25 medium onion, finely chopped"
+        },
+        {
+            "3": "0.25 cups shredded Cheddar cheese, divided"
+        },
+        {
+            "4": "0.5 cup sour cream"
+        },
+        {
+            "5": "1 tablespoon dried parsley"
+        },
+        {
+            "6": "1 tablespoon taco seasoning"
+        },
+        {
+            "7": "1 teaspoon dried oregano"
+        },
+        {
+            "8": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "9": "1.0 cups enchilada sauce"
+        },
+        {
+            "10": "0.5 teaspoons chili powder"
+        },
+        {
+            "11": "1 clove garlic, minced"
+        },
+        {
+            "12": "0.5 teaspoon salt"
+        },
+        {
+            "13": "8  flour tortillas"
+        },
+        {
+            "14": "1 (15 ounce) can black beans, rinsed and drained"
+        },
+        {
+            "15": "1 (4 ounce) can sliced black olives, drained"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Heat a large skillet over medium-high heat. Cook and stir ground beef and onion in the hot skillet until beef is browned and crumbly, 5 to 7 minutes. Drain and discard grease."
+        },
+        {
+            "3": "Stir 1 cup Cheddar cheese, sour cream, parsley, taco seasoning, oregano, and black pepper into ground beef until cheese is melted. Mix in enchilada sauce, chili powder, garlic, and salt; bring to a boil, reduce heat to low, and simmer until sauce is slightly thickened, about 5 minutes."
+        },
+        {
+            "4": "Lay a tortilla onto a work surface and spoon about 1/4 cup meat sauce down the center of tortilla. Top meat sauce with 1 tablespoon black beans and a sprinkling of black olives. Roll up tortilla, enclosing filling; lay seam-side down in a 9x13-inch baking dish. Repeat with remaining tortillas."
+        },
+        {
+            "5": "Spoon any remaining meat sauce over rolled tortillas. Scatter any remaining black beans and black olives over the top. Sprinkle with remaining 1/4 cup Cheddar cheese."
+        },
+        {
+            "6": "Bake in the preheated oven until cheese is melted and sauce is bubbling, 20 to 22 minutes. Let stand 5 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "583"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "33g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5fcd8f6c98f050cb88ffbe42315891e3%2F1645749358image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5fcd8f6c98f050cb88ffbe42315891e3%2F16437602792CC589B5-BE96-43F0-A834-27CC8FD46045.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9418988.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9418987.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/4FpB6eOPoIFSntCZKzV1aNed2PA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3978116-best-beef-enchiladas-SunnyDaysNora-1x1-1-d04fc7521093405f8bd8e3688a165f5e.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

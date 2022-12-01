@@ -1,0 +1,75 @@
+{
+    "title": "Corned Beef Hash British Style",
+    "Category": "St. Patrick's Day Recipes",
+    "Ingredients": [
+        {
+            "1": "4 large baking potatoes, peeled and cubed"
+        },
+        {
+            "2": "1 (16 ounce) can baked beans"
+        },
+        {
+            "3": "1 (12 ounce) can corned beef, broken into pieces"
+        },
+        {
+            "4": "1 dash Worcestershire sauce"
+        },
+        {
+            "5": "0.5 cup shredded sharp Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Place the potatoes in a large pot with just enough water to cover. Bring to a boil and simmer until tender, about 10 minutes. Drain and mash, flavoring with milk, butter, salt or however you like to make them."
+        },
+        {
+            "3": "Pour the baked beans into the bottom of a 1 1/2 quart casserole dish. Slice the corned beef and arrange on top of the beans in an even layer. Season with a few dashes of Worcestershire sauce. Top with mashed potatoes."
+        },
+        {
+            "4": "Bake uncovered for 25 minutes in the preheated oven. The mashed potatoes should start to crisp up but not yet brown. Top with the cheese and return to the oven. Bake for another 20 minutes, or until cheese is browned."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "447"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "59g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8717749.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1749567.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Ultimate Cranberry Sauce",
+    "Category": "Cranberry Sauce",
+    "Ingredients": [
+        {
+            "1": "0.5 cups white sugar"
+        },
+        {
+            "2": "1 large orange, zested and juiced"
+        },
+        {
+            "3": "0.5 teaspoon grated fresh ginger"
+        },
+        {
+            "4": "4 cups cranberries"
+        },
+        {
+            "5": "0.5 cup toasted pecans"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine the sugar, orange zest and juice, and ginger in a pot over medium heat; cook and stir until the sugar is completely dissolved, about 5 minutes. Add the cranberries to the orange juice mixture; cook until the cranberries pop, about 5 minutes. Stir the pecans through the cranberry mixture; remove from heat and allow to cool completely before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "233"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F128ed3c33ac0611f31dcf7411f521ff0%2F5944270.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

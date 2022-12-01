@@ -1,0 +1,66 @@
+{
+    "title": "Slow Cooker Cocktail Smokies",
+    "Category": "Appetizers and Snacks",
+    "Ingredients": [
+        {
+            "1": "1 (12 ounce) bottle barbeque sauce"
+        },
+        {
+            "2": "1 (8 ounce) jar grape jelly"
+        },
+        {
+            "3": "2 (14 ounce) packages miniature smoked sausage links"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine barbeque sauce and grape jelly in a slow cooker. Stir in miniature smoked sausage links. Cook on High until heated through, about 2 to 3 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 5 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "346"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0d88c01fe883a002108df636e3e10fb8%2F1663668430image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8755566.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8755568.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8207224.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/GDTYNjshw-Snubl5-vI97ZQh1pQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/213073-slow-cooker-cocktail-smokies-mfs290-1b66cfcd2c32441cbb33223799e7d62d.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

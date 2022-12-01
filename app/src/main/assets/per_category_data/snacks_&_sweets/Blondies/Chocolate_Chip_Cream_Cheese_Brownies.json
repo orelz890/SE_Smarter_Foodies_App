@@ -1,0 +1,84 @@
+{
+    "title": "Chocolate Chip Cream Cheese Brownies",
+    "Category": "Blondies",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "2 (8 ounce) packages cream cheese, softened"
+        },
+        {
+            "3": "1 cup white sugar"
+        },
+        {
+            "4": "3  eggs, room temperature"
+        },
+        {
+            "5": "1 tablespoon vanilla extract"
+        },
+        {
+            "6": "2 (16 ounce) packages chocolate chip cookie dough (such as Pillsbury\u00ae)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Spray the bottom and sides of a jelly roll pan with cooking spray or line with parchment paper."
+        },
+        {
+            "2": "Mix cream cheese, sugar, and eggs in the bowl of a stand mixer fitted with a paddle until smooth; add vanilla extract and mix for 1 more minute."
+        },
+        {
+            "3": "Slice 1 roll of cookie dough into thin rounds and arrange on the prepared jelly roll pan. Pour cream cheese mixture over cookie layer. Slice the second roll of cookie dough into rounds and arrange over cream cheese mixture layer."
+        },
+        {
+            "4": "Bake in the preheated oven until cookies are golden brown, about 30 minutes. Cool completely before cutting and serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "275"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fec5c669b7c4e0ce27a4357329c9f06e7%2F166256509420220906_205451.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fec5c669b7c4e0ce27a4357329c9f06e7%2F1662148419Chocolate%2520Chip%2520Cream%2520Cheese%2520Brownies.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fec5c669b7c4e0ce27a4357329c9f06e7%2F1661637663IMG_1621.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6152733.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

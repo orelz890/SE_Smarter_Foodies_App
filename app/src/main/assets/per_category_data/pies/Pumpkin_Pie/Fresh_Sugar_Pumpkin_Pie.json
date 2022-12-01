@@ -1,0 +1,102 @@
+{
+    "title": "Fresh Sugar Pumpkin Pie",
+    "Category": "Pumpkin Pie",
+    "Ingredients": [
+        {
+            "1": "2  sugar pumpkins, halved and seeded"
+        },
+        {
+            "2": "4  eggs, beaten"
+        },
+        {
+            "3": "1 cup heavy whipping cream"
+        },
+        {
+            "4": "1 cup sour cream"
+        },
+        {
+            "5": "2 cups demerara sugar"
+        },
+        {
+            "6": "2 tablespoons all-purpose flour"
+        },
+        {
+            "7": "2 tablespoons pumpkin pie spice"
+        },
+        {
+            "8": "1 teaspoon salt"
+        },
+        {
+            "9": "2 (9 inch)  unbaked deep dish pie crusts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 325 degrees F (165 degrees C). Line a baking sheet with aluminum foil; lightly oil the foil."
+        },
+        {
+            "2": "Arrange pumpkin halves onto the prepared baking sheet, cut sides down."
+        },
+        {
+            "3": "Bake in preheated oven until flesh is tender throughout, about 40 minutes. Set aside until cool enough to handle."
+        },
+        {
+            "4": "Increase oven heat to 425 degrees F (220 degrees C)."
+        },
+        {
+            "5": "Scrape pumpkin flesh into a large mixing bowl. Add eggs, heavy cream, sour cream, demerara sugar, flour, pumpkin pie spice, and salt; beat until smooth. Pour the pumpkin mixture into pie crusts."
+        },
+        {
+            "6": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 25 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": " 2 hrs"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 deep dish pies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "364"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F234268213dd6812b08574b253bf24753%2F1669145268647IMG_4017.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8775266.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8733097.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7371784.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

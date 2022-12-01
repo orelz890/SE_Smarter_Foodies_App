@@ -1,0 +1,69 @@
+{
+    "title": "Cool Summer Cucumber and Tomato Toss",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "1 large cucumber, peeled and sliced"
+        },
+        {
+            "2": "2  ripe fresh tomatoes, chopped"
+        },
+        {
+            "3": "2 tablespoons balsamic vinegar"
+        },
+        {
+            "4": "2 tablespoons olive oil"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place cucumber and tomatoes in a bowl. Pour in olive oil and balsamic vinegar. Season with salt and pepper. Toss gently to coat. Refrigerate until ready to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "84"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1288469.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2d374e60c9a68ee5f20897bc27db7304%2F1271234.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F72696b2bdb29bf63a1db72b049e77123%2F850859.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5a358eccf115033c3d5bd96764a7aa3d%2F697269.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

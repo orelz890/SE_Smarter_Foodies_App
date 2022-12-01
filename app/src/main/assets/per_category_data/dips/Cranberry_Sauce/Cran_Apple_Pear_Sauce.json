@@ -1,0 +1,54 @@
+{
+    "title": "Cran-Apple-Pear Sauce",
+    "Category": "Cranberry Sauce",
+    "Ingredients": [
+        {
+            "1": "2 (16 ounce) cans whole berry cranberry sauce"
+        },
+        {
+            "2": "1 (20 ounce) can apple pie filling"
+        },
+        {
+            "3": "2 (15 ounce) cans sliced pears, drained"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium bowl, stir together the cranberry sauce, apple pie filling and pears. Chill until serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "190"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1037335.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

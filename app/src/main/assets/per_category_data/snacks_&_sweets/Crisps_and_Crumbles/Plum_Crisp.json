@@ -1,0 +1,87 @@
+{
+    "title": "Plum Crisp",
+    "Category": "Crisps and Crumbles",
+    "Ingredients": [
+        {
+            "1": "12  plums, pitted and chopped"
+        },
+        {
+            "2": "1 cup white sugar, divided"
+        },
+        {
+            "3": "1 cup sifted all-purpose flour"
+        },
+        {
+            "4": "0.5 teaspoons baking powder"
+        },
+        {
+            "5": "1 teaspoon salt"
+        },
+        {
+            "6": "1 large beaten egg"
+        },
+        {
+            "7": "0.5 cup melted butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease an 8x8-inch baking dish."
+        },
+        {
+            "2": "Spread plums evenly into the prepared baking dish and sprinkle with 1/4 cup sugar."
+        },
+        {
+            "3": "Mix together flour, remaining 3/4 cup sugar, baking powder, and salt in a large bowl. Stir in beaten egg and spoon mixture over plums. Drizzle batter with melted butter."
+        },
+        {
+            "4": "Bake in the preheated oven until the topping is brown, about 40 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 8x8-inch dish"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "414"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "65g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5e370403645923f924923f24c30baccd%2F165449996054D91E24-79DA-477F-B57E-914606640D5A.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9390715.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9372801.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9318325.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

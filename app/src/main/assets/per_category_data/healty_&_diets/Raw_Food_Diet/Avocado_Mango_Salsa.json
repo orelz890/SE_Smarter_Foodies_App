@@ -1,0 +1,78 @@
+{
+    "title": "Avocado Mango Salsa",
+    "Category": "Raw Food Diet",
+    "Ingredients": [
+        {
+            "1": "1  avocado - peeled, pitted and diced"
+        },
+        {
+            "2": "1  lime, juiced"
+        },
+        {
+            "3": "1  mango - peeled, seeded and diced"
+        },
+        {
+            "4": "1 small red onion, chopped"
+        },
+        {
+            "5": "1  habanero pepper, seeded and chopped"
+        },
+        {
+            "6": "1 tablespoon chopped fresh cilantro"
+        },
+        {
+            "7": "1 salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the avocado in a serving bowl, and mix with the lime juice. Mix in the mango, onion, habanero pepper, cilantro and salt."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "63"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8292033.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8259851.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8174492.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6978915.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Cqgllbwpo86w3MGO8MVEu4KtSRo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20303-bf54df13776446c49c958974b89f0a49.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

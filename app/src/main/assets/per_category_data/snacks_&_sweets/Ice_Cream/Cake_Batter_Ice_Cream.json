@@ -1,0 +1,78 @@
+{
+    "title": "Cake Batter Ice Cream",
+    "Category": "Ice Cream",
+    "Ingredients": [
+        {
+            "1": "2 cups heavy whipping cream"
+        },
+        {
+            "2": "1 cup milk"
+        },
+        {
+            "3": "0.75 cup white cake mix, sifted"
+        },
+        {
+            "4": "0.5 cup white sugar"
+        },
+        {
+            "5": "2 large egg yolks, beaten"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk together cream, milk, cake mix, sugar, egg yolks, and vanilla in a saucepan until well blended. Cook, stirring frequently, over medium-low heat until mixture reaches 160 degrees F (70 degrees C). Pour into a heat-proof container and place in the refrigerator or freezer until chilled."
+        },
+        {
+            "2": "Pour chilled mixture into an ice cream maker and freeze according to manufacturer's directions until it reaches soft-serve consistency. Transfer ice cream to a 1- or 2-quart lidded plastic container; cover surface with plastic wrap and seal. For best results, ice cream should ripen in the freezer for at least 2 hours or overnight."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "378"
+        },
+        {
+            "Fat": "32g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F80828d118aa6762d069cc2f05f7623f1%2F1020382.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F447077.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F364189.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F667226.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

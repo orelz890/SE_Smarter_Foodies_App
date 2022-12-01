@@ -1,0 +1,57 @@
+{
+    "title": "Party Punch V",
+    "Category": "Punch",
+    "Ingredients": [
+        {
+            "1": "1 (12 fluid ounce) can frozen orange juice concentrate"
+        },
+        {
+            "2": "3 cups water"
+        },
+        {
+            "3": "1 (46 fluid ounce) can pineapple juice"
+        },
+        {
+            "4": "1 liter ginger ale"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a punch bowl, combine orange juice, water and pineapple juice; chill. Stir in ginger ale just before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 (4 ounce) servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "67"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F29560.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

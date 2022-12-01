@@ -1,0 +1,84 @@
+{
+    "title": "Fat Free Refried Beans",
+    "Category": "Refried Beans",
+    "Ingredients": [
+        {
+            "1": "2 cups canned black beans, divided"
+        },
+        {
+            "2": "0.5 cup water"
+        },
+        {
+            "3": "2 cloves garlic, minced"
+        },
+        {
+            "4": "1 teaspoon pepper"
+        },
+        {
+            "5": "1 teaspoon salt"
+        },
+        {
+            "6": "1 teaspoon liquid smoke flavoring"
+        },
+        {
+            "7": "0.75 cup diced onion"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a small bowl mash 2/3 cup of beans to a smooth paste."
+        },
+        {
+            "2": "In a medium saucepan over medium heat, combine the remaining beans with the water. When heated through, stir in garlic, pepper, salt and liquid smoke."
+        },
+        {
+            "3": "Stir the bean paste into the whole beans and mix well. Stir in the onion and cook for 10 minutes, or until onions are slightly cooked."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "134"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe3b678b7d35c0ed9446ddf751e5cb33f%2F5370501.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa75507f9f92c28bcffad5c9d2418983e%2F5366079.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F267271.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F267267.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

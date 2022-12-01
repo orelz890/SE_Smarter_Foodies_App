@@ -1,0 +1,69 @@
+{
+    "title": "Strawberry Banana Protein Smoothie",
+    "Category": "High-Fiber Recipes",
+    "Ingredients": [
+        {
+            "1": "0.25 cups sliced fresh strawberries"
+        },
+        {
+            "2": "1  banana"
+        },
+        {
+            "3": "10  whole almonds"
+        },
+        {
+            "4": "2 tablespoons water"
+        },
+        {
+            "5": "1 cup ice cubes"
+        },
+        {
+            "6": "3 tablespoons chocolate flavored protein powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place strawberries, banana, almonds, and water into a blender; blend to combine. Add ice cubes and puree until smooth. Add protein powder and mix until evenly incorporated, about 30 seconds."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "349"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9202093.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9180138.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9073980.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8790888.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Impossible Pumpkin Pie II",
+    "Category": "Pumpkin Pie",
+    "Ingredients": [
+        {
+            "1": "0.75 cup white sugar"
+        },
+        {
+            "2": "0.5 cup biscuit baking mix"
+        },
+        {
+            "3": "2 tablespoons butter"
+        },
+        {
+            "4": "1 (12 fluid ounce) can evaporated milk"
+        },
+        {
+            "5": "2  eggs"
+        },
+        {
+            "6": "1 (15 ounce) can solid pack pumpkin puree"
+        },
+        {
+            "7": "1.0 teaspoons pumpkin pie spice"
+        },
+        {
+            "8": "2 teaspoons vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9 inch pie pan."
+        },
+        {
+            "2": "In a large bowl, combine sugar and baking mix. Stir in butter, milk and eggs. Then beat in pumpkin, spice and vanilla to mixture until smooth. Pour into pie pan."
+        },
+        {
+            "3": "Bake in preheated oven for 50 to 55 minutes, or until knife inserted in center comes out clean. Refrigerate any remaining pie. High altitude directions: Bake at 375 degrees F (190 degrees C) for 45 to 50 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 to 9 - inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "228"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8223434.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe3a6136d090779a85b48734d784d4d9a%2F4589241.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fad7fe07835eef062baf2c71317a65be9%2F4589238.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc41b1e1e1d8188c8701d43859675627e%2F2033699.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

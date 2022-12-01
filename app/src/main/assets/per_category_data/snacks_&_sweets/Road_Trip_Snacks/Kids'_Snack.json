@@ -1,0 +1,60 @@
+{
+    "title": "Kids' Snack",
+    "Category": "Road Trip Snacks",
+    "Ingredients": [
+        {
+            "1": "1 (14.5 ounce) package sweetened honey corn and oat cereal"
+        },
+        {
+            "2": "1 (10 ounce) package bear-shaped graham cookies"
+        },
+        {
+            "3": "1 (10.5 ounce) package miniature marshmallows"
+        },
+        {
+            "4": "1 (12 ounce) package semisweet chocolate chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine all ingredients in a large bag and shake to mix. Divide and store in individual baggies for a fast treat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "25 "
+        },
+        {
+            "Yield": "25 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "220"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F20857a3d9b42dbd36dccad6849b1fb94%2F2159510.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc65aeafd37e989b29fcf308c2cec593a%2F1054907.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

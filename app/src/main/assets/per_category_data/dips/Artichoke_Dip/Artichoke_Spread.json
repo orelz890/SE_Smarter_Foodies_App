@@ -1,0 +1,78 @@
+{
+    "title": "Artichoke Spread",
+    "Category": "Artichoke Dip",
+    "Ingredients": [
+        {
+            "1": "1 (14 ounce) can artichoke hearts, drained"
+        },
+        {
+            "2": "1 (8 ounce) package cream cheese"
+        },
+        {
+            "3": "1 cup grated Parmesan cheese"
+        },
+        {
+            "4": "0.5 cup mayonnaise"
+        },
+        {
+            "5": "1 clove garlic, peeled"
+        },
+        {
+            "6": "0.75 teaspoon dried dill weed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Place the artichoke hearts in a food processor and process until smooth. Process the cream cheese, Parmesan cheese, mayonnaise, garlic and dill with the artichoke hearts until the mixture is smooth and well blended. Transfer to a 9 inch pie pan."
+        },
+        {
+            "3": "Bake in the preheated oven 10 to 15 minutes, or until bubbly and lightly brown."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "93"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8866203.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffe6682504309b1ca9d69a41357dd916c%2F4545359.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6232.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

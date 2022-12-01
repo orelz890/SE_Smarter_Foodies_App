@@ -1,0 +1,90 @@
+{
+    "title": "Sour Cream Lemon Pound Cake",
+    "Category": "Pound Cake",
+    "Ingredients": [
+        {
+            "1": "1 cup white sugar"
+        },
+        {
+            "2": "0.5 cup unsalted butter, melted"
+        },
+        {
+            "3": "0.75 cup sour cream"
+        },
+        {
+            "4": "3 large eggs"
+        },
+        {
+            "5": "2 teaspoons lemon extract"
+        },
+        {
+            "6": "0.5 cups all-purpose flour"
+        },
+        {
+            "7": "0.25 teaspoon baking soda"
+        },
+        {
+            "8": "1 tablespoon confectioners' sugar, or as needed (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour an 8x4-inch loaf pan."
+        },
+        {
+            "2": "Cream sugar and butter together in a large bowl until light and fluffy. Mix in sour cream, eggs, and lemon extract. Add flour and baking soda; mix until well combined. Pour batter into the prepared loaf pan."
+        },
+        {
+            "3": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 1 hour."
+        },
+        {
+            "4": "Remove from the oven and let cool completely, about 30 minutes."
+        },
+        {
+            "5": "Remove loaf from the pan and dust with confectioners' sugar."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 8x4-inch loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "291"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8249607.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8220173.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

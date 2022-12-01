@@ -1,0 +1,102 @@
+{
+    "title": "Caramel Pecan Pie",
+    "Category": "Pecan Pie",
+    "Ingredients": [
+        {
+            "1": "1 (9 inch) unbaked pie crust"
+        },
+        {
+            "2": "36  individually wrapped caramels, unwrapped"
+        },
+        {
+            "3": "0.25 cup unsalted butter"
+        },
+        {
+            "4": "0.25 cup milk"
+        },
+        {
+            "5": "0.75 cup white sugar"
+        },
+        {
+            "6": "3 large eggs"
+        },
+        {
+            "7": "0.5 teaspoon vanilla extract"
+        },
+        {
+            "8": "0.25 teaspoon salt"
+        },
+        {
+            "9": "1 cup pecan halves"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C.)"
+        },
+        {
+            "2": "Combine caramels, butter, and milk in a saucepan over low heat. Cook, stirring frequently, until caramels are melted and mixture is smooth, 10 to 15 minutes. Remove from the heat and set aside."
+        },
+        {
+            "3": "Mix together sugar, eggs, vanilla, and salt in a large bowl. Gradually mix in the melted caramel mixture, then stir in pecans. Pour filling into unbaked pie crust."
+        },
+        {
+            "4": "Bake in the preheated oven until pastry is golden brown, 45 to 50 minutes. Remove from the oven and let set on a wire rack until filling is firm, about 15 minutes. Serve warm or cold."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "536"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "66g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1590fc220e9e9c11dbdc8ed347453f20%2F16657620999744x3-PASSANO_ALR0922_Faves_Pecan_Pie_5426.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8911600.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8909491.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8878875.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/J2PRwsGBW8rOpJDnv42RJTnCDbE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2885771-pecan-pie-72dpi-a3458c093de64df1b3adfc4ed905843d.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/mKvnY5FYT5fVXZfCFPDD1HKg-Yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2885771-caramel-pecan-pie-larkspur-1x1-1-5c2ad0f2b32f4e689247ff6f2f6a7191.jpg"
+        }
+    ],
+    "main category": "pies"
+}

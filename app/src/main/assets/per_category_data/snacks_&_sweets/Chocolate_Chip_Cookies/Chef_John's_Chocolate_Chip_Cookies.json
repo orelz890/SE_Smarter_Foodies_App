@@ -1,0 +1,105 @@
+{
+    "title": "Chef John's Chocolate Chip Cookies",
+    "Category": "Chocolate Chip Cookies",
+    "Ingredients": [
+        {
+            "1": "0.5 cups all-purpose flour"
+        },
+        {
+            "2": "0.25 teaspoons kosher salt"
+        },
+        {
+            "3": "1 teaspoon baking soda"
+        },
+        {
+            "4": "1 cup unsalted butter, very soft"
+        },
+        {
+            "5": "1 cup white sugar"
+        },
+        {
+            "6": "0.5 cup light brown sugar"
+        },
+        {
+            "7": "1  large egg"
+        },
+        {
+            "8": "2 tablespoons milk"
+        },
+        {
+            "9": "0.25 teaspoons vanilla extract"
+        },
+        {
+            "10": "2 cups semisweet chocolate chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk flour, salt, and baking soda together in a bowl. In a separate bowl, cream the butter, white sugar, and brown sugar together until mixture is light and fluffy, 3 to 4 minutes. Add the egg, milk, and vanilla extract. Whisk liquids together in small areas around the bowl, then all together to avoid separation."
+        },
+        {
+            "2": "Pour dry ingredients into the wet ingredients; stir until flour is thoroughly mixed in. Stir in the chocolate chips."
+        },
+        {
+            "3": "Transfer dough to a resealable plastic bag. Refrigerate until dough is firm, at least 2 hours."
+        },
+        {
+            "4": "Preheat oven to 375 degrees F (190 degrees C). Line baking sheet with parchment paper."
+        },
+        {
+            "5": "Scoop out rounded tablespoons of dough and place on prepared baking sheet, leaving 4 inches of space between cookies (about 8 per sheet). Bake in preheated oven until cookies are golden brown, about 12 minutes. Slide parchment and cookies onto a cooling rack for a few minutes. Remove parchment and finish cooling the cookies on the rack."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "12 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 27 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "32 cookies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "347"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F70a98fb96cc278759c338fc561c1aafb%2F16626939435369AA2F-4082-4653-9926-E7FD7699903F.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F70a98fb96cc278759c338fc561c1aafb%2F16624941743A24F8AE-BE19-42AA-B884-5AEE22618C3E_1_201_a.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F70a98fb96cc278759c338fc561c1aafb%2F1662224335IMG_8569.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9300702.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/fmJkeM09PXIklnk3auSl9c5LtDM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2453255_Chef-Johns-Chocolate-Chip-Cookies-1x1-1-408db7596cd54de59e7aed1f1504f71c.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

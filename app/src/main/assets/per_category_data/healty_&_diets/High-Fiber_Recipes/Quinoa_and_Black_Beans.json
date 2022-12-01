@@ -1,0 +1,96 @@
+{
+    "title": "Quinoa and Black Beans",
+    "Category": "High-Fiber Recipes",
+    "Ingredients": [
+        {
+            "1": "1 teaspoon vegetable oil"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "3 cloves garlic, chopped"
+        },
+        {
+            "4": "0.75 cup quinoa"
+        },
+        {
+            "5": "0.5 cups vegetable broth"
+        },
+        {
+            "6": "1 teaspoon ground cumin"
+        },
+        {
+            "7": "0.25 teaspoon cayenne pepper"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        },
+        {
+            "9": "1 cup frozen corn kernels"
+        },
+        {
+            "10": "2 (15 ounce) cans black beans, rinsed and drained"
+        },
+        {
+            "11": "0.5 cup chopped fresh cilantro"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large saucepan over medium heat. Add onion and garlic; cook and stir until lightly browned, about 10 minutes."
+        },
+        {
+            "2": "Mix quinoa into onion mixture and cover with vegetable broth; season with cumin, cayenne pepper, salt, and pepper. Bring to a boil; cover, reduce heat, and simmer until quinoa is tender and broth is absorbed, about 20 minutes."
+        },
+        {
+            "3": "Stir in frozen corn and continue to simmer until heated through, about 5 minutes. Mix in black beans and cilantro."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "153"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9370566.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9362068.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9358651.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9325057.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/guQ41L6ZRDSEN8EA1HZnPoCa9zw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/357989-00a5789a30d6429382c26988f3f442b7.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

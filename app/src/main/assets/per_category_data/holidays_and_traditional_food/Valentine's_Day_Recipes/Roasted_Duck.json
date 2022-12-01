@@ -1,0 +1,81 @@
+{
+    "title": "Roasted Duck",
+    "Category": "Valentine's Day Recipes",
+    "Ingredients": [
+        {
+            "1": "2 teaspoons paprika"
+        },
+        {
+            "2": "2 teaspoons salt"
+        },
+        {
+            "3": "1 teaspoon black pepper"
+        },
+        {
+            "4": "1 (5 pound) whole duck"
+        },
+        {
+            "5": "0.5 cup butter, melted, divided"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Combine paprika, salt, and pepper in a small bowl; rub spice mixture onto skin of duck. Place duck in a roasting pan."
+        },
+        {
+            "3": "Roast in the preheated oven for 1 hour."
+        },
+        {
+            "4": "Spoon 1/4 cup melted butter over duck and continue cooking for 45 minutes more."
+        },
+        {
+            "5": "Spoon remaining 1/4 cup melted butter over duck and cook until golden brown, about 15 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 10 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "625"
+        },
+        {
+            "Fat": "45g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "52g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff2463f248c933f37a1eb429a0d386de9%2F1669228874843IMG_20221123_113800.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F89ba93dc1501257def0503183bcd32a1%2F165206447616520644591405724202573109517296.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1102349.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1350987.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

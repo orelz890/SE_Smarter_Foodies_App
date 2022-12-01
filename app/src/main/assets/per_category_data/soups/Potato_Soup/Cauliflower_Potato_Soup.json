@@ -1,0 +1,102 @@
+{
+    "title": "Cauliflower Potato Soup",
+    "Category": "Potato Soup",
+    "Ingredients": [
+        {
+            "1": "1 head cauliflower, stemmed and chopped"
+        },
+        {
+            "2": "2 large red potatoes, cut into 1-inch pieces"
+        },
+        {
+            "3": "5  baby carrots, cut into 1/2-inch slices, or more to taste"
+        },
+        {
+            "4": "2 teaspoons dried onion flakes, or to taste"
+        },
+        {
+            "5": "1 water, or as needed"
+        },
+        {
+            "6": "1 cube chicken bouillon"
+        },
+        {
+            "7": "1 (10.75 ounce) can  condensed cream of chicken soup"
+        },
+        {
+            "8": "0.5 cup milk"
+        },
+        {
+            "9": "0.5 (8 ounce) package cream cheese"
+        },
+        {
+            "10": "1 tablespoon bacon bits, or more to taste"
+        },
+        {
+            "11": "0.25 cup chopped fresh parsley, or more to taste"
+        },
+        {
+            "12": "0.5 cup shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir cauliflower, potatoes, carrots, and onion flakes together in a pot; add enough water to cover and stir in chicken bouillon cube. Bring to a simmer and cook until cauliflower is tender, about 10 minutes."
+        },
+        {
+            "2": "Transfer vegetable mixture and about 1 cup cooking liquid to a slow cooker. Stir cream of chicken soup, milk, cream cheese, and bacon bits into vegetable mixture."
+        },
+        {
+            "3": "Cook on Low, stirring occasionally, for 2 1/2 hours."
+        },
+        {
+            "4": "Stir parsley into soup and continue cooking until vegetable are tender and flavors blend, 1/2 to 1 1/2 hours. Top with shredded Cheddar cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 3 hrs 10 mins"
+        },
+        {
+            "Total Time": " 3 hrs 25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "416"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8995483.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8586366.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7623379.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7304473.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

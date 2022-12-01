@@ -1,0 +1,75 @@
+{
+    "title": "Spinach Pomegranate Salad",
+    "Category": "Green Salads",
+    "Ingredients": [
+        {
+            "1": "1 (10 ounce) bag baby spinach leaves, rinsed and drained"
+        },
+        {
+            "2": "0.5 cup walnut pieces"
+        },
+        {
+            "3": "0.5 cup crumbled feta"
+        },
+        {
+            "4": "0.25 medium red onion, sliced very thin"
+        },
+        {
+            "5": "0.25 cup alfalfa sprouts (Optional)"
+        },
+        {
+            "6": "0.5 cup pomegranate seeds, or to taste"
+        },
+        {
+            "7": "4 tablespoons balsamic vinaigrette"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place spinach into a salad bowl. Top with walnuts, feta, red onion, alfalfa sprouts, and pomegranate seeds. Drizzle with vinaigrette."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "273"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6096468.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8b16f47282bd8d6750bde7e3c3850611%2F5972847.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5124199.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4576767.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/MFs9Ph1Ra0y3hUnMkSJxrjovhgQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/127167_Spinach-Pomegranat-Salad_Amanda_4576767_original-1x1-1-b60fc7cb05ac458b97030ccbabf41a7c.jpg"
+        }
+    ],
+    "main category": "salads"
+}

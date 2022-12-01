@@ -1,0 +1,72 @@
+{
+    "title": "Creamy Vanilla Ice Cream",
+    "Category": "Ice Cream",
+    "Ingredients": [
+        {
+            "1": "5 large eggs"
+        },
+        {
+            "2": "2 (12 fluid ounce) cans evaporated milk"
+        },
+        {
+            "3": "1 (14 ounce) can sweetened condensed milk"
+        },
+        {
+            "4": "0.5 cups white sugar"
+        },
+        {
+            "5": "0.5 pint heavy cream"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "1 (3.5 ounce) package instant vanilla pudding mix"
+        },
+        {
+            "8": "4 cups milk, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Beat eggs, evaporated milk, condensed milk, sugar, cream, and vanilla together in a large bowl with an electric mixer. Beat in pudding mix until smooth. Pour into freezer canister of an ice cream maker and add enough milk to bring mixture to fill line. Freeze according to manufacturer's directions."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "50 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "32 "
+        },
+        {
+            "Yield": "1 gallon"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "171"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7990717.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdccf700e7d02d93dc0763c08ee07f820%2F5574586.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

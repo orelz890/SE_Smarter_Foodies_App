@@ -1,0 +1,99 @@
+{
+    "title": "Ham Bone Chowder",
+    "Category": "Chowder",
+    "Ingredients": [
+        {
+            "1": "1  meaty ham bone, fat trimmed"
+        },
+        {
+            "2": "1 (32 fluid ounce) container chicken stock"
+        },
+        {
+            "3": "1  onion, chopped"
+        },
+        {
+            "4": "2 tablespoons chopped garlic"
+        },
+        {
+            "5": "6  red potatoes, cubed"
+        },
+        {
+            "6": "4 large carrots, chopped"
+        },
+        {
+            "7": "1 tablespoon chopped fresh parsley"
+        },
+        {
+            "8": "2 teaspoons ground cumin"
+        },
+        {
+            "9": "1 cup frozen corn"
+        },
+        {
+            "10": "1 cup milk"
+        },
+        {
+            "11": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place ham bone in a slow cooker; top with chicken stock, onion, and garlic."
+        },
+        {
+            "2": "Cook on Low for 6 to 8 hours."
+        },
+        {
+            "3": "Remove ham bone from the slow cooker; pull meat off bone and shred. Return shredded meat to the slow cooker and discard ham bone. Add potatoes, carrots, parsley, and cumin; mix well."
+        },
+        {
+            "4": "Cook on High until potatoes are tender, about 45 minutes. Stir in frozen corn."
+        },
+        {
+            "5": "Remove 1 cup soup to a blender. Add milk. Cover and hold the lid down; pulse a few times before leaving on to blend. Return blended soup to the slow cooker and stir well. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 6 hrs 45 mins"
+        },
+        {
+            "Total Time": " 7 hrs"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "112"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9435827.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429334.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9140226.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9061924.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dairy"
+}

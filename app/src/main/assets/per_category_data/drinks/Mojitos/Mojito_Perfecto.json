@@ -1,0 +1,75 @@
+{
+    "title": "Mojito Perfecto",
+    "Category": "Mojitos",
+    "Ingredients": [
+        {
+            "1": "6  mint leaves"
+        },
+        {
+            "2": "4 teaspoons white sugar"
+        },
+        {
+            "3": "1  lime, cut into 6 wedges"
+        },
+        {
+            "4": "2 (1.5 fluid ounce) jiggers lemon-flavored rum"
+        },
+        {
+            "5": "1 cup ice cubes, or as needed"
+        },
+        {
+            "6": "0.5 cup carbonated water, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Put 3 mint leaves and 2 teaspoons sugar into each of 2 glass tumblers; vigorously stir sugar and mint together, crushing mint with the back of a spoon to release oils."
+        },
+        {
+            "2": "Add 3 lime wedges to each glass; again stir vigorously to release some lime juice."
+        },
+        {
+            "3": "Pour 1 jigger rum into each glass, then fill glasses with ice cubes. Top with carbonated water; stir."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "139"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7970041.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc279086e2272528a27edcbee39c6f8fd%2F4517498.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F018f797569742ac42e47af4308115b46%2F4512986.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4498163.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

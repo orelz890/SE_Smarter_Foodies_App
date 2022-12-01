@@ -1,0 +1,69 @@
+{
+    "title": "Buttermilk Mashed Potatoes",
+    "Category": "Mashed Potatoes",
+    "Ingredients": [
+        {
+            "1": "6 medium white potatoes, peeled"
+        },
+        {
+            "2": "0.75 cup buttermilk"
+        },
+        {
+            "3": "3 tablespoons butter"
+        },
+        {
+            "4": "2 tablespoons chicken bouillon powder"
+        },
+        {
+            "5": "2 teaspoons chopped fresh dill"
+        },
+        {
+            "6": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, 20 to 30 minutes. Drain and mash in a large bowl."
+        },
+        {
+            "2": "Add buttermilk, butter, bouillon powder, dill, salt, and pepper and mash until creamy."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "233"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fae3cb90e26c2d71d79f396fd4a140eb6%2F7472137.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

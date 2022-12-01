@@ -1,0 +1,126 @@
+{
+    "title": "Texas Sheet Cake",
+    "Category": "Chocolate Cake",
+    "Ingredients": [
+        {
+            "1": "1 Cake-"
+        },
+        {
+            "2": "2 cups all-purpose flour"
+        },
+        {
+            "3": "2 cups white sugar"
+        },
+        {
+            "4": "1 teaspoon baking soda"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "0.5 cup sour cream"
+        },
+        {
+            "7": "2  eggs"
+        },
+        {
+            "8": "1 cup butter"
+        },
+        {
+            "9": "1 cup water"
+        },
+        {
+            "10": "5 tablespoons unsweetened cocoa powder"
+        },
+        {
+            "11": "1 Icing-"
+        },
+        {
+            "12": "6 tablespoons milk"
+        },
+        {
+            "13": "5 tablespoons unsweetened cocoa powder"
+        },
+        {
+            "14": "0.5 cup butter"
+        },
+        {
+            "15": "4 cups confectioners' sugar"
+        },
+        {
+            "16": "1 teaspoon vanilla extract"
+        },
+        {
+            "17": "1 cup chopped walnuts (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 10x15-inch jelly roll pan."
+        },
+        {
+            "2": "Make cake: Combine flour, sugar, baking soda, and salt in a mixing bowl. Beat in sour cream and eggs."
+        },
+        {
+            "3": "Melt butter in a saucepan over low heat. Stir in water and cocoa powder. Bring mixture to a boil then remove from the heat. Allow to cool slightly, then stir cocoa mixture into the flour and egg mixture until blended. Pour batter into the prepared pan."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 20 minutes."
+        },
+        {
+            "5": "While the cake is baking, make icing: Combine milk, cocoa powder, and butter in a large saucepan over medium heat. Bring to a boil, then remove from heat. Stir in confectioners' sugar and vanilla, then fold in walnuts, mixing until blended."
+        },
+        {
+            "6": "Spread icing over warm cake."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "32 "
+        },
+        {
+            "Yield": "1 10x15-inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "256"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3b4161fdf2231c3f0454a6b1c5221935%2F1668205085755F85E07FA-04C4-49F2-9B8D-833178FE3F83.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fcca06c44e4899097bc828493b765f40f%2F1656952061image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9269682.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9071445.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/0FZ0_Up2QGe2uPCjU5RTsXMVgKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Texas-Sheet-Cake-Yoly-1x1-1-2000-cf77f52ab346431a9c8c3e02d087e220.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Slow Cooker Chicken Pot Pie Stew",
+    "Category": "Stew",
+    "Ingredients": [
+        {
+            "1": "10 medium red potatoes, quartered"
+        },
+        {
+            "2": "4 large skinless, boneless chicken breast halves, cut into cubes"
+        },
+        {
+            "3": "2 (26 ounce) cans condensed cream of chicken soup"
+        },
+        {
+            "4": "1 (8 ounce) package baby carrots"
+        },
+        {
+            "5": "1 cup chopped celery"
+        },
+        {
+            "6": "6 cubes  chicken bouillon"
+        },
+        {
+            "7": "1 tablespoon ground black pepper"
+        },
+        {
+            "8": "2 teaspoons garlic salt"
+        },
+        {
+            "9": "1 teaspoon celery salt"
+        },
+        {
+            "10": "1 (16 ounce) bag frozen mixed vegetables"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine potatoes, chicken, condensed soup, carrots, celery, bouillon, pepper, garlic salt, and celery salt in a slow cooker; cover and cook on High for 5 hours."
+        },
+        {
+            "2": "Stir in frozen mixed vegetables; continue to cook on High for 1 hour more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 6 hrs"
+        },
+        {
+            "Total Time": " 6 hrs 20 mins"
+        },
+        {
+            "Servings": "16 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "263"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8673812.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8269737.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7820203.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7774351.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/HbT1uWJf17NV0HfJSk0XbG89p6w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6400112-slow-cooker-chicken-pot-pie-stew-Erika-Walker-1x1-1-790d890214434cc9b9859a7ee0355103.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Israeli Couscous and Cheese",
+    "Category": "Macaroni and Cheese",
+    "Ingredients": [
+        {
+            "1": "2 teaspoons butter"
+        },
+        {
+            "2": "1 cup pearl (Israeli) couscous"
+        },
+        {
+            "3": "2 cups chicken broth"
+        },
+        {
+            "4": "0.5 cup heavy cream"
+        },
+        {
+            "5": "0.25 cup diced pimientos"
+        },
+        {
+            "6": "1 pinch cayenne pepper, or more to taste"
+        },
+        {
+            "7": "3 ounces shredded sharp Cheddar cheese"
+        },
+        {
+            "8": "1 tablespoon chopped fresh chives"
+        },
+        {
+            "9": "1 salt and freshly ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a large skillet over medium heat. Cook and stir couscous in the melted butter until slightly toasted, 2 to 3 minutes."
+        },
+        {
+            "2": "Pour in chicken broth and bring to a boil. Reduce heat to low and simmer until most of the stock is absorbed and the couscous have plumped, 6 to 7 minutes."
+        },
+        {
+            "3": "Stir heavy cream and pimientos into couscous; add cayenne pepper and cook until couscous is tender, 2 to 3 minutes. Add more broth if needed."
+        },
+        {
+            "4": "Remove from heat and stir in Cheddar cheese until melted; add chives and stir to combine. Season with salt, black pepper, and cayenne pepper to taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "360"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9224549.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4486176.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F56227be64584d24e30f5a552c7fda3b3%2F1066502.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://www.allrecipes.com/thmb/hA6-IddvKIdVf6OpbCs3NvI9p5Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4486176-856d5743b0f048bfabc4187167990044.jpg"
+        }
+    ],
+    "main category": "dairy"
+}

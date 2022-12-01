@@ -1,0 +1,102 @@
+{
+    "title": "Crispy Rolled Breakfast Burrito",
+    "Category": "Burritos",
+    "Ingredients": [
+        {
+            "1": "4 slices bacon"
+        },
+        {
+            "2": "1 large russet potato, peeled and cubed"
+        },
+        {
+            "3": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "4": "1 pinch cayenne pepper, or to taste"
+        },
+        {
+            "5": "0.25 cup sliced onion"
+        },
+        {
+            "6": "0.25 cup sliced bell pepper"
+        },
+        {
+            "7": "1 cup grated Cheddar cheese"
+        },
+        {
+            "8": "4 large eggs, beaten"
+        },
+        {
+            "9": "2 (10 inch) flour tortillas"
+        },
+        {
+            "10": "1 teaspoon hot sauce, or to taste"
+        },
+        {
+            "11": "1 medium avocado, cubed"
+        },
+        {
+            "12": "2 tablespoons sour cream"
+        },
+        {
+            "13": "1 tablespoon fresh cilantro leaves, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a cold, nonstick pan over medium to medium-high heat. Cook until browned, crisp, and foamy, about 10 minutes. Turn off the heat, remove to a paper towel-lined plate, and set aside."
+        },
+        {
+            "2": "Place cubed potatoes into the pan of bacon fat and set heat to medium. Season with salt, black pepper, and cayenne. Cook, tossing and turning occasionally, until the potatoes are browned, crispy, and tender, 8 to 10 minutes. Add onions and peppers, and cook until they soften up a bit, 2 to 3 minutes. Transfer everything into a strainer set over a bowl to drain excess bacon fat."
+        },
+        {
+            "3": "To make one breakfast burrito, place 2 strips cooked bacon back in the pan. Turn heat to medium and scatter 1/2 of the potato mixture in and around. Scatter over 1/2 of the Cheddar cheese as evenly as possible, and then pour 2 beaten eggs over top."
+        },
+        {
+            "4": "Tilt the pan to make sure the egg is evenly distributed. Place a tortilla over the top and press down lightly into the rest of the ingredients. Cook just until the eggs firm up enough to flip, about 1 minute. Use a spatula to carefully, but confidently, flip everything over so the tortilla is now on the bottom. Cook until the tortilla is as browned and crispy as you like, 2 to 3 minutes."
+        },
+        {
+            "5": "Remove from the heat and transfer onto a plate. Roll into a burrito and serve with hot sauce, avocado, sour cream, and cilantro. Repeat to cook remaining burrito."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 burritos"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "1033"
+        },
+        {
+            "Fat": "60g"
+        },
+        {
+            "Carbs": "82g"
+        },
+        {
+            "Protein": "46g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9114819.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://www.allrecipes.com/thmb/49pWvYHzrFzGPTipfDzVvcGyYaI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-513-957f58e253ff4847b4bf5af3059feedd.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

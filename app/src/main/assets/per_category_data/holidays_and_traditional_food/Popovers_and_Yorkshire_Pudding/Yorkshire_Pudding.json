@@ -1,0 +1,84 @@
+{
+    "title": "Yorkshire Pudding",
+    "Category": "Popovers and Yorkshire Pudding",
+    "Ingredients": [
+        {
+            "1": "0.5 cups all-purpose flour"
+        },
+        {
+            "2": "0.75 teaspoon salt"
+        },
+        {
+            "3": "0.75 cup milk, room temperature"
+        },
+        {
+            "4": "3 large eggs, room temperature"
+        },
+        {
+            "5": "0.75 cup water"
+        },
+        {
+            "6": "0.5 cup beef drippings"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix together flour and salt in a large bowl; form a well in the center. Add milk and whisk until combined. Beat in eggs until incorporated. Add water; beat until mixture is light and frothy. Cover and set aside at room temperature for 1 hour (or, if it's the day before, store covered in the refrigerator for 8 hours to overnight)."
+        },
+        {
+            "2": "Preheat the oven to 400 degrees F (205 degrees C)."
+        },
+        {
+            "3": "Pour beef drippings into a 9x12-inch baking dish and place in the preheated oven until drippings sizzle. Pour batter over drippings and bake until the sides have risen and turned golden brown, about 30 minutes. Cut into 8 portions and serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 puddings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "157"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9e76c0c841e864e8b67fef9593191536%2F1664752977275AE6F27E6-649A-4187-AA44-547E1AFF05BF.png&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9435569.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9297261.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8969544.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Creamy Garlic Pasta",
+    "Category": "Quick and Easy Recipes",
+    "Ingredients": [
+        {
+            "1": "2 teaspoons olive oil"
+        },
+        {
+            "2": "4  garlic cloves, minced"
+        },
+        {
+            "3": "2 tablespoons butter"
+        },
+        {
+            "4": "3 cups chicken broth, or more as needed"
+        },
+        {
+            "5": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "6": "0.25 teaspoon salt"
+        },
+        {
+            "7": "0.5 pound spaghetti"
+        },
+        {
+            "8": "1 cup grated Parmesan cheese"
+        },
+        {
+            "9": "0.75 cup heavy cream"
+        },
+        {
+            "10": "0.5 tablespoons dried parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a medium pan over medium heat. Add garlic and stir until fragrant, 1 to 2 minutes. Add butter and stir constantly until melted. Pour in 3 cups chicken broth; add pepper and salt. Bring to a boil."
+        },
+        {
+            "2": "Add spaghetti and cook, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Add more chicken broth if pasta starts to stick to the pan."
+        },
+        {
+            "3": "Add Parmesan cheese, cream, and parsley and mix until thoroughly combined. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "543"
+        },
+        {
+            "Fat": "32g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff5cca520f6c0b2cd1d837aeb541e5dea%2F1659572671C5A0F3E7-053F-4D90-9196-75B9323D77FE.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff5cca520f6c0b2cd1d837aeb541e5dea%2F165886947016588694427755917053389840274692.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff5cca520f6c0b2cd1d837aeb541e5dea%2F165648570320220629_021048.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff5cca520f6c0b2cd1d837aeb541e5dea%2F1645622663IMG_1651.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/mxbklixuV9xlCTjRMX-TAk2AVl4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5886077-54220f4a1e3f4c09a51cbfd17708f4ef.jpg"
+        }
+    ],
+    "main category": "easy_recipies_&_leftovers"
+}

@@ -1,0 +1,108 @@
+{
+    "title": "Oma's Rhubarb Cake",
+    "Category": "Cake Recipes",
+    "Ingredients": [
+        {
+            "1": "1 Cake-"
+        },
+        {
+            "2": "2 cups all-purpose flour"
+        },
+        {
+            "3": "0.25 cups white sugar"
+        },
+        {
+            "4": "1 teaspoon baking soda"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "2  eggs, beaten"
+        },
+        {
+            "7": "1 cup sour cream"
+        },
+        {
+            "8": "3 cups diced rhubarb"
+        },
+        {
+            "9": "1 Streusel-"
+        },
+        {
+            "10": "1 cup white sugar"
+        },
+        {
+            "11": "0.25 cup butter, softened"
+        },
+        {
+            "12": "0.25 cup all-purpose flour"
+        },
+        {
+            "13": "0.25 teaspoon ground cinnamon, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch baking dish."
+        },
+        {
+            "2": "Make cake: Stir together flour, sugar, baking soda, and salt in a large bowl. Stir in eggs and sour cream until smooth, then fold in rhubarb. Pour into the prepared dish and spread evenly."
+        },
+        {
+            "3": "Make streusel: Stir together sugar and butter in a medium bowl until smooth. Stir in flour until mixture is crumbly. Sprinkle mixture on top of cake, then dust lightly with cinnamon."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted in the center comes out clean, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x13-inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "324"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "58g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F60d29310acf60abbe275bc2d80fe477c%2F1657827438image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F60d29310acf60abbe275bc2d80fe477c%2F165526530804FFE89E-B25B-441F-919A-B5137D4493D3.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F60d29310acf60abbe275bc2d80fe477c%2F165343017720220524_180602.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F60d29310acf60abbe275bc2d80fe477c%2F16533113133A216D6F-C152-4442-AD88-1C303E764937.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/s3x-sMQynPo65-FuipB4ua92ZcI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9173959-omas-rhubarb-cake-Christine-G-1x1-1-84e1673ba02342ea9b2b184b5aace78b.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

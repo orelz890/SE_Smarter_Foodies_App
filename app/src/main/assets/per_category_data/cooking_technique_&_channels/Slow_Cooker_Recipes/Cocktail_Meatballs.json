@@ -1,0 +1,93 @@
+{
+    "title": "Cocktail Meatballs",
+    "Category": "Slow Cooker Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "0.5 cup bread crumbs"
+        },
+        {
+            "3": "3 tablespoons minced onion"
+        },
+        {
+            "4": "2 tablespoons water"
+        },
+        {
+            "5": "1 large egg"
+        },
+        {
+            "6": "1 (8 ounce) can jellied cranberry sauce"
+        },
+        {
+            "7": "0.75 cup chili sauce"
+        },
+        {
+            "8": "1 tablespoon brown sugar"
+        },
+        {
+            "9": "0.5 teaspoons lemon juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Mix together ground beef, bread crumbs, onion, water, and egg in a large bowl. Form into small meatballs and arrange on a nonstick baking sheet."
+        },
+        {
+            "3": "Bake in the preheated oven for 20 to 25 minutes, turning once."
+        },
+        {
+            "4": "Stir together cranberry sauce, chili sauce, brown sugar, and lemon juice in a large saucepan over low heat until smooth. Add meatballs; simmer for 1 hour before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "193"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9015221.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8605871.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F57de371751d2e0f5c74d152e5a30d9e6%2F7527381.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7487676.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/CJgvRtF2kxw8YKOUhqthx9r42fw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2467703-cocktail-meatballs-Allrecipes-magazine-1x2-1-0f856eb5477749268bf1df6f9883c8af.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

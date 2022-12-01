@@ -1,0 +1,54 @@
+{
+    "title": "POG Juice",
+    "Category": "Hawaiian",
+    "Ingredients": [
+        {
+            "1": "6 cups passion fruit juice (such as Welch's\u00ae)"
+        },
+        {
+            "2": "6 cups guava nectar (such as Goya\u00ae)"
+        },
+        {
+            "3": "3 cups fresh squeezed orange juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine passion fruit juice, guava nectar, and orange juice in a large glass pitcher and stir well. Chill until ready to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "15 "
+        },
+        {
+            "Yield": "15 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "141"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6476824.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

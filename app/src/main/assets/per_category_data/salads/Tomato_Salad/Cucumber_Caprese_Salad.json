@@ -1,0 +1,72 @@
+{
+    "title": "Cucumber Caprese Salad",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "0.5 cup aged balsamic vinegar"
+        },
+        {
+            "2": "2 large Roma tomatoes, sliced into 1/4-inch-thick rounds"
+        },
+        {
+            "3": "1 large cucumber, peeled and sliced into 1/4-inch-thick rounds"
+        },
+        {
+            "4": "1 (8 ounce) package sliced fresh mozzarella cheese"
+        },
+        {
+            "5": "1 cup fresh basil leaves"
+        },
+        {
+            "6": "1 tablespoon olive oil"
+        },
+        {
+            "7": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring balsamic vinegar to a boil in a small saucepan over medium heat. Boil until reduced to 1/4 cup, about 8 minutes. Remove from heat and allow to cool to room temperature."
+        },
+        {
+            "2": "Arrange tomatoes, cucumber, mozzarella slices, and basil leaves in an alternating pattern on a small serving platter until platter is covered. Drizzle olive oil over the salad. Season with salt and pepper. Drizzle 1 to 2 tablespoons of the cooled balsamic vinegar on top. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "141"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5521438.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

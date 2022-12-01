@@ -1,0 +1,75 @@
+{
+    "title": "Broiled Filet Mignon",
+    "Category": "Filet Mignon",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "2 tablespoons packed light brown sugar"
+        },
+        {
+            "3": "2 tablespoons prepared horseradish"
+        },
+        {
+            "4": "1 teaspoon grated shallot"
+        },
+        {
+            "5": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "6": "4 (4 ounce) filet mignon steaks"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Set an oven rack about 3 inches from the heat source and preheat the oven's broiler. Lightly spray a broiler pan with cooking spray."
+        },
+        {
+            "2": "Combine brown sugar, horseradish, shallot, and pepper in a small bowl."
+        },
+        {
+            "3": "Place steaks on the prepared broiler pan and spread 1/2 of the brown sugar mixture over top."
+        },
+        {
+            "4": "Broil in the preheated oven for 5 minutes. Turn steaks, spread remaining brown sugar mixture over top, and broil to desired degree of doneness, 5 to 9 minutes longer."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 steaks"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "250"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9420495.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

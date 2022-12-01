@@ -1,0 +1,84 @@
+{
+    "title": "Caramel Apples",
+    "Category": "Halloween Recipes",
+    "Ingredients": [
+        {
+            "1": "6  apples"
+        },
+        {
+            "2": "6  wooden craft sticks"
+        },
+        {
+            "3": "1 cooking spray"
+        },
+        {
+            "4": "1 (14 ounce) package individually wrapped caramels, unwrapped"
+        },
+        {
+            "5": "2 tablespoons milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Remove the stem from each apple and press a craft stick into the top. Spray a baking sheet with cooking spray."
+        },
+        {
+            "2": "Place caramels and milk in a microwave-safe bowl; microwave for 2 minutes, stirring once. Set aside to cool briefly."
+        },
+        {
+            "3": "Roll each apple quickly in caramel sauce until well coated. Place on prepared sheet to set."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "8 mins"
+        },
+        {
+            "Cook Time": "2 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 caramel apples"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "324"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "70g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9199865.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9096411.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8827573.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8675938.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Gc2LqawZpqaCSWaMdsNx5RK9J2Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/481786-6c24ca3a641f43eea1597930a40b6178.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

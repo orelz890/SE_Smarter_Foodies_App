@@ -1,0 +1,102 @@
+{
+    "title": "Moist Carrot Cake",
+    "Category": "Carrot Cake",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "1.0 teaspoons ground cinnamon"
+        },
+        {
+            "3": "2 teaspoons baking powder"
+        },
+        {
+            "4": "0.5 teaspoons baking soda"
+        },
+        {
+            "5": "1 teaspoon salt"
+        },
+        {
+            "6": "2 cups white sugar"
+        },
+        {
+            "7": "0.5 cups vegetable oil"
+        },
+        {
+            "8": "4 large eggs"
+        },
+        {
+            "9": "1.5 cups shredded carrots"
+        },
+        {
+            "10": "1 (8 ounce) can crushed pineapple, drained"
+        },
+        {
+            "11": "1 cup flaked coconut"
+        },
+        {
+            "12": "0.75 cup chopped walnuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 325 degrees F (165 degrees C). Grease and flour a 9x13-inch pan."
+        },
+        {
+            "2": "Combine flour, cinnamon, baking powder, baking soda, and salt together in a large bowl; set aside."
+        },
+        {
+            "3": "Mix sugar, oil, and eggs together in a separate bowl. Beat in flour mixture. Stir in carrots, pineapple, coconut, and walnuts. Pour cake batter into the prepared pan."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 35 to 40 minutes. Allow to cool."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x13-inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "569"
+        },
+        {
+            "Fat": "36g"
+        },
+        {
+            "Carbs": "59g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9441764.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9427396.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9205457.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9061137.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

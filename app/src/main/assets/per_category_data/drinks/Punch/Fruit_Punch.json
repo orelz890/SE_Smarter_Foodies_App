@@ -1,0 +1,63 @@
+{
+    "title": "Fruit Punch",
+    "Category": "Punch",
+    "Ingredients": [
+        {
+            "1": "1 (2 liter) bottle ginger ale, chilled"
+        },
+        {
+            "2": "1 (64 fluid ounce) bottle fruit punch, chilled"
+        },
+        {
+            "3": "1 (64 fluid ounce) bottle unsweetened pineapple juice, chilled"
+        },
+        {
+            "4": "0.5 gallon orange sherbet"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine ginger ale, fruit punch, and pineapple juice together in a punch bowl; add scoops of sherbet into the punch. Wait for the sherbet to begin melting, approximately 10 minutes; stir gently and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "60 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "43"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6505425.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdae6546bb1752df1b07fc893a2f8bf1b%2F816468.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F782422.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff5c5713b57baf6eed50836e5cddc4aaa%2F6582.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/3RbVcGjHvLJAF1Mt9C26N8wGn80=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/816468-c6cc0131b7bb4278860e6665ee64169a.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

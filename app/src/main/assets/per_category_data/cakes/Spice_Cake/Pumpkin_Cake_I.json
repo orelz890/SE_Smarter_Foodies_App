@@ -1,0 +1,108 @@
+{
+    "title": "Pumpkin Cake I",
+    "Category": "Spice Cake",
+    "Ingredients": [
+        {
+            "1": "1 cup vegetable oil"
+        },
+        {
+            "2": "3  eggs"
+        },
+        {
+            "3": "1 (15 ounce) can pumpkin puree"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "1.0 cups white sugar"
+        },
+        {
+            "6": "1.0 cups all-purpose flour"
+        },
+        {
+            "7": "1 teaspoon baking soda"
+        },
+        {
+            "8": "1 teaspoon ground nutmeg"
+        },
+        {
+            "9": "1 teaspoon ground allspice"
+        },
+        {
+            "10": "1 teaspoon ground cinnamon"
+        },
+        {
+            "11": "1 teaspoon ground cloves"
+        },
+        {
+            "12": "0.25 teaspoon salt"
+        },
+        {
+            "13": "1 cup chopped walnuts (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease one 10-inch bundt or tube pan."
+        },
+        {
+            "2": "Blend oil, beaten eggs, pumpkin and vanilla together."
+        },
+        {
+            "3": "Sift the flour, sugar, baking soda, ground nutmeg, ground allspice, ground cinnamon, ground cloves and salt together. Add the flour mixture to the pumpkin mixture and mix until just combined. If desired, stir in some chopped nuts. Pour batter into the prepared pan."
+        },
+        {
+            "4": "Bake in preheated oven until a toothpick inserted in the middle comes out clean, about 1 hour. Let cake cool in pan for 5 minutes, then turn out onto a plate and sprinkle with confectioners' sugar."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 10-inch bundt cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "517"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "66g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9104282.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8931709.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8889039.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8733565.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

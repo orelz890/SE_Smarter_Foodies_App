@@ -1,0 +1,105 @@
+{
+    "title": "Chocolate Chip Apple Cake",
+    "Category": "Spice Cake",
+    "Ingredients": [
+        {
+            "1": "1 cup butter, softened"
+        },
+        {
+            "2": "2 cups white sugar"
+        },
+        {
+            "3": "3 large eggs"
+        },
+        {
+            "4": "0.5 cup water"
+        },
+        {
+            "5": "1 tablespoon vanilla extract"
+        },
+        {
+            "6": "1.0 cups all-purpose flour"
+        },
+        {
+            "7": "2 tablespoons unsweetened cocoa powder"
+        },
+        {
+            "8": "1 teaspoon baking soda"
+        },
+        {
+            "9": "1 teaspoon ground cinnamon"
+        },
+        {
+            "10": "1 teaspoon ground nutmeg"
+        },
+        {
+            "11": "2 cups apples - peeled, cored and finely diced"
+        },
+        {
+            "12": "1 cup semisweet chocolate chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 325 degrees F (165 degrees C). Grease and flour one 9- or 10-inch tube pan."
+        },
+        {
+            "2": "Cream butter with sugar in a large bowl. Beat in eggs, then add water and vanilla."
+        },
+        {
+            "3": "Stir flour, cocoa powder, baking soda, cinnamon, and nutmeg together. Beat this mixture into the creamed mixture just to combine."
+        },
+        {
+            "4": "Stir in chopped apples and chocolate chips. Pour the batter into the prepared pan."
+        },
+        {
+            "5": "Bake until the cake tests done when a toothpick is inserted near the center, about 1 hour 15 minutes. Transfer to a rack to cool."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "14 "
+        },
+        {
+            "Yield": "1 9- or 10-inch tube cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "396"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7851288.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3d91ad5c48c2a01361c9b79a5f4bee8b%2F4514271.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7348ecb3dc972c4874583e51ffe26294%2F4514266.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3857376.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

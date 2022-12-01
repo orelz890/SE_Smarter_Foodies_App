@@ -1,0 +1,78 @@
+{
+    "title": "Cake Mix Whoopie Pies",
+    "Category": "Whoopie Pies",
+    "Ingredients": [
+        {
+            "1": "1 (18.25 ounce) package devil's food cake mix"
+        },
+        {
+            "2": "5 tablespoons all-purpose flour"
+        },
+        {
+            "3": "1 cup milk"
+        },
+        {
+            "4": "1 cup shortening"
+        },
+        {
+            "5": "1 cup white sugar"
+        },
+        {
+            "6": "2 teaspoons vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "To make the cakes: Prepare mix as directed on package except using only 3/4 cup of water. Drop batter onto greased cookie sheet (or use parchment paper to line pan) in 2 1/2 to 3 inch circles. Bake until toothpick inserted in center comes out clean. Let cool."
+        },
+        {
+            "2": "To make the filling: In a saucepan, combine milk and flour and cook, stirring constantly until it forms a thick paste. Let cool."
+        },
+        {
+            "3": "In a medium bowl, beat sugar and shortening until fluffy. Add vanilla. Add cooled flour mixture and beat until double in volume."
+        },
+        {
+            "4": "Turn the little cakes over on their backs. Spoon a dollop of filling onto half of the little cakes. Place the other half of the cakes on top of the filling to form sandwiches."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 cupcakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "214"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9046222.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8787361.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8346260.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6286082.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/DlYFGlXQAcFnGEt6XwpLy1DngQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1008697-whoopie-pies-LYNNINMA-4x3-1-4a3a8e50603741a8bd85c5092972a251.jpg"
+        }
+    ],
+    "main category": "pies"
+}

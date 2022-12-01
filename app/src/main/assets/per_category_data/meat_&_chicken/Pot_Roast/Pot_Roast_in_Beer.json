@@ -1,0 +1,90 @@
+{
+    "title": "Pot Roast in Beer",
+    "Category": "Pot Roast",
+    "Ingredients": [
+        {
+            "1": "2 pounds top round steak, trimmed"
+        },
+        {
+            "2": "2 tablespoons vegetable oil"
+        },
+        {
+            "3": "1  onion, chopped"
+        },
+        {
+            "4": "2 stalks celery, chopped"
+        },
+        {
+            "5": "1 clove garlic, minced"
+        },
+        {
+            "6": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "7": "1 (12 fluid ounce) can or bottle beer"
+        },
+        {
+            "8": "2  bay leaves"
+        },
+        {
+            "9": "2  whole cloves"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a roasting pan over high heat, and coat bottom with oil. Sear meat on all sides. Remove from pan, and set aside."
+        },
+        {
+            "2": "Reduce heat to low, saute onion, celery and garlic, scraping up browned bits. Cover, and cook on low for 15 minutes."
+        },
+        {
+            "3": "Mix in cream of mushroom soup and beer. Wrap bay leaves and cloves in cheesecloth, tie with string, and add to pan. Place roast on top of vegetables, spooning some sauce over meat. Cover with foil, and place lid over foil to seal well. Reduce heat, and simmer 1 1/2 hours."
+        },
+        {
+            "4": "Remove meat from pan, and slice. Return to the pan, and spoon sauce over. Cook an additional 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 2 hrs 15 mins"
+        },
+        {
+            "Total Time": " 2 hrs 30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "387"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7280346.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F468498.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F107928.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

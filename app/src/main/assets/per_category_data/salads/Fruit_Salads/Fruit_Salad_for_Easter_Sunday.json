@@ -1,0 +1,69 @@
+{
+    "title": "Fruit Salad for Easter Sunday",
+    "Category": "Fruit Salads",
+    "Ingredients": [
+        {
+            "1": "1 cup chopped fresh strawberries"
+        },
+        {
+            "2": "1 cup fresh blueberries"
+        },
+        {
+            "3": "1  Granny Smith apple, chopped"
+        },
+        {
+            "4": "1  Fuji apple, cored and chopped"
+        },
+        {
+            "5": "2  kiwi fruit, peeled and chopped"
+        },
+        {
+            "6": "1 (15 ounce) can crushed pineapple"
+        },
+        {
+            "7": "1 cup red grapes"
+        },
+        {
+            "8": "2 cups lemon yogurt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a salad bowl, mix together the strawberries, blueberries, Granny Smith and Fuji apples, kiwi fruit, crushed pineapple, red grapes, and lemon yogurt until thoroughly combined. Refrigerate leftovers."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "146"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1122378.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

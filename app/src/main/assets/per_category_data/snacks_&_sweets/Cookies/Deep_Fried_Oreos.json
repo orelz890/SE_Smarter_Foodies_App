@@ -1,0 +1,84 @@
+{
+    "title": "Deep-Fried Oreos",
+    "Category": "Cookies",
+    "Ingredients": [
+        {
+            "1": "2 quarts vegetable oil for frying"
+        },
+        {
+            "2": "1 cup milk"
+        },
+        {
+            "3": "1  large egg"
+        },
+        {
+            "4": "2 teaspoons vegetable oil"
+        },
+        {
+            "5": "1 cup pancake mix"
+        },
+        {
+            "6": "1 (18 ounce) package cream-filled chocolate sandwich cookies (such as Oreo\u00ae)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a deep fryer or large saucepan to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Whisk milk, egg, and 2 teaspoons of vegetable oil in a large bowl until smooth. Stir in the pancake mix until no dry lumps remain."
+        },
+        {
+            "3": "Dip cookies into batter, one at a time, and carefully place into hot oil. Fry in batches, 4 or 5 at a time, until cookies are golden brown, about 2 minutes. Drain on a paper towel-lined plate before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "30 "
+        },
+        {
+            "Yield": "30 cookies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "156"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fcd7e43dfe39ceddc5531ac8e027df87b%2F1663091564Deep_Fried_Oreo2.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fcd7e43dfe39ceddc5531ac8e027df87b%2F16539182105f8afb602cda5.image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fcd7e43dfe39ceddc5531ac8e027df87b%2F1653769866image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fcd7e43dfe39ceddc5531ac8e027df87b%2F1651730633image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/gtkt0YHQ7VyjS_SLSxOKgMWPGX0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/102242182-deep-fried-oreos-1x1-1-b7a2bd179d43450ba9372277ebe5296f.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

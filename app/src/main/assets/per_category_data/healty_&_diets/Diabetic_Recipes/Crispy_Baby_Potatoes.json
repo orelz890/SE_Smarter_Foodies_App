@@ -1,0 +1,66 @@
+{
+    "title": "Crispy Baby Potatoes",
+    "Category": "Diabetic Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds baby potatoes, halved"
+        },
+        {
+            "2": "0.5 teaspoon dried parsley"
+        },
+        {
+            "3": "0.25 teaspoon garlic powder"
+        },
+        {
+            "4": "1 salt and ground black pepper to taste"
+        },
+        {
+            "5": "1 tablespoon olive oil, or more as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place a steamer insert into a saucepan and add enough water to reach the bottom of the steamer. Bring water to a boil. Add potatoes, cover, and steam until fork tender, about 10 minutes."
+        },
+        {
+            "2": "Transfer potatoes to a bowl. Add parsley, garlic powder, salt, and pepper; toss to coat."
+        },
+        {
+            "3": "Heat oil in a large skillet over medium-high heat. Add potatoes to hot oil and cook, shaking the skillet occasionally, until potatoes are browned on all sides, about 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "162"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3257483.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

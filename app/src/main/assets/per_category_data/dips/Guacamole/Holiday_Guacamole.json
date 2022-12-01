@@ -1,0 +1,75 @@
+{
+    "title": "Holiday Guacamole",
+    "Category": "Guacamole",
+    "Ingredients": [
+        {
+            "1": "0.5  white onion, minced"
+        },
+        {
+            "2": "4  serrano chile peppers, minced"
+        },
+        {
+            "3": "1 teaspoon kosher salt"
+        },
+        {
+            "4": "4  avocados - peeled, pitted and diced"
+        },
+        {
+            "5": "1.0 tablespoons fresh lime juice"
+        },
+        {
+            "6": "1  pear - peeled, cored and diced"
+        },
+        {
+            "7": "1 cup seedless green grapes, halved"
+        },
+        {
+            "8": "1 cup pomegranate seeds"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix the onion, chile peppers, and salt in a bowl. Fold in the avocados and lime juice. Stir in pear, grapes, and pomegranate. Chill until serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "144"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F757317.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F156349.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F156350.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

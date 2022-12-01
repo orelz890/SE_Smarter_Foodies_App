@@ -1,0 +1,63 @@
+{
+    "title": "Grandma's Cranberry Sauce",
+    "Category": "Applesauce",
+    "Ingredients": [
+        {
+            "1": "1 (12 ounce) bag cranberries"
+        },
+        {
+            "2": "2  navel oranges - washed thoroughly, unpeeled, cut into quarters"
+        },
+        {
+            "3": "3  apples - peeled, cored and halved"
+        },
+        {
+            "4": "1 cup pecans"
+        },
+        {
+            "5": "1 cup white sugar, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the cranberries, oranges, apples, pecans, and sugar in the bowl of a food processor. Process until all ingredients are evenly ground, 2-3 minutes. Pour mixture into a bowl, cover, and refrigerate at least 2 days before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": "2 days"
+        },
+        {
+            "Total Time": "2 days 15 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "20 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "106"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbbf938b2a3e301b4f98527c7e8f47022%2F4583623.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

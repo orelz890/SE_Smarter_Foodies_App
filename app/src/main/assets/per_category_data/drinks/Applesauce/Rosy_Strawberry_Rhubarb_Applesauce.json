@@ -1,0 +1,69 @@
+{
+    "title": "Rosy Strawberry Rhubarb Applesauce",
+    "Category": "Applesauce",
+    "Ingredients": [
+        {
+            "1": "5 large Red Delicious apples, finely chopped"
+        },
+        {
+            "2": "4 cups hulled and halved strawberries"
+        },
+        {
+            "3": "4 cups finely chopped rhubarb"
+        },
+        {
+            "4": "0.5 cup white sugar"
+        },
+        {
+            "5": "0.25 cup water"
+        },
+        {
+            "6": "2 teaspoons vanilla extract, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine apples, strawberries, rhubarb, sugar, and water in a large pot. Bring to a boil; cover and simmer, stirring occasionally, until apples are tender, about 20 minutes. Remove from heat and stir in vanilla extract."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "6 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "105"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F05526570f901b4cc4f3ea6ad9766456d%2F4528022.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F829c762cc7a8c315e050f63c3531d60e%2F4528021.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Triple Berry Pie",
+    "Category": "Blueberry Pie",
+    "Ingredients": [
+        {
+            "1": "1 pint fresh blueberries"
+        },
+        {
+            "2": "1 pint fresh strawberries, sliced"
+        },
+        {
+            "3": "3  bananas, sliced"
+        },
+        {
+            "4": "0.5 cups white sugar"
+        },
+        {
+            "5": "1 teaspoon lemon juice"
+        },
+        {
+            "6": "1 tablespoon ground cinnamon"
+        },
+        {
+            "7": "2 teaspoons ground nutmeg"
+        },
+        {
+            "8": "0.5 cup all-purpose flour"
+        },
+        {
+            "9": "0.5 cup vital wheat gluten"
+        },
+        {
+            "10": "1  double crust ready-to-use pie crust"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Place the blueberries, strawberries, and sliced bananas into a mixing bowl. Sprinkle with the sugar, lemon juice, cinnamon, nutmeg, flour, and gluten; mix gently. Pour the fruit mixture into the pie shell, cover with the top crust, and pinch the seams shut. Cut slits in the top crust with a knife to create slots for the steam. Place the pie onto a baking sheet to catch drips."
+        },
+        {
+            "3": "Bake in the preheated oven until golden brown, about 35 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 to 9 - inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "518"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "88g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3161721.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F430139.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

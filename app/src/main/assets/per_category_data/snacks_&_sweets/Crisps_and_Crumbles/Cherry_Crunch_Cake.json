@@ -1,0 +1,75 @@
+{
+    "title": "Cherry Crunch Cake",
+    "Category": "Crisps and Crumbles",
+    "Ingredients": [
+        {
+            "1": "2 (21 ounce) cans cherry pie filling"
+        },
+        {
+            "2": "1 (18.25 ounce) package white cake mix"
+        },
+        {
+            "3": "0.5 cup butter, melted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Spread cherry pie filling in a 9x12-inch glass dish."
+        },
+        {
+            "3": "Pour cake mix into a large bowl. Stir in butter slowly until mixture is crumbly. Sprinkle crumbly mixture over cherry pie filling."
+        },
+        {
+            "4": "Bake in the preheated oven until top is golden, 30 to 32 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 9x12-inch glass dish"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "436"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "73g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9331942.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9291276.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4563714.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F13337515b11e51a68241f63e571e0a18%2F4459234.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

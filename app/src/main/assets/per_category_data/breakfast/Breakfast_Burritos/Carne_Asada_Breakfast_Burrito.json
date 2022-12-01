@@ -1,0 +1,108 @@
+{
+    "title": "Carne Asada Breakfast Burrito",
+    "Category": "Breakfast Burritos",
+    "Ingredients": [
+        {
+            "1": "2 pounds beef skirt steak, cut into thin strips"
+        },
+        {
+            "2": "2 tablespoons carne asada seasoning"
+        },
+        {
+            "3": "1 tablespoon garlic powder"
+        },
+        {
+            "4": "1 tablespoon vegetable oil"
+        },
+        {
+            "5": "0.5  sweet onion, diced"
+        },
+        {
+            "6": "1  red bell pepper, seeded and chopped"
+        },
+        {
+            "7": "1  jalapeno pepper, seeded and diced"
+        },
+        {
+            "8": "1 (14.5 ounce) can Hunt's\u00ae Diced Tomatoes, drained"
+        },
+        {
+            "9": "2 cups frozen diced potatoes"
+        },
+        {
+            "10": "1 salt and pepper to taste"
+        },
+        {
+            "11": "3 tablespoons butter, divided"
+        },
+        {
+            "12": "6  eggs, whisked"
+        },
+        {
+            "13": "2 cups shredded Mexican cheese blend"
+        },
+        {
+            "14": "4 (12 inch) flour tortillas"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place beef slices in a mixing bowl. Sprinkle with asada seasoning and garlic powder; toss in bowl to evenly coat. Let marinade 5 minutes."
+        },
+        {
+            "2": "Heat oil in a large, deep skillet over medium-high heat. Place beef strips in skillet and cook and stir until browned. Stir in bell pepper, onions, and jalapeno pepper. Add tomatoes and potatoes. Cook mixture until potatoes are tender, 5 to 8 minutes. Season with salt and pepper. Transfer mixture to a bowl."
+        },
+        {
+            "3": "Melt 1 tablespoon butter in the same skillet. Add the eggs, stirring occasionally, until eggs are scrambled and set. Transfer the beef mixture back to skillet. Cook and stir until warmed through, about 2 minutes. Melt the remaining 2 tablespoons butter in a small dish in microwave."
+        },
+        {
+            "4": "Divide shredded cheese among tortillas; divide beef and veggie mixture and place on the cheese. Fold in sides of tortilla and roll up. Brush with melted butter and place folded side down in pan to brown; flip and brown on top side. Burrito should be warmed though."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "1163"
+        },
+        {
+            "Fat": "63g"
+        },
+        {
+            "Carbs": "83g"
+        },
+        {
+            "Protein": "65g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F20484a314d2b2a5f436bb854e659b3e3%2F8690325.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5621596.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc7d647d469c113e40e7190dbed9658e0%2F4506817.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F00f422b315f674f6b7598f6da90682ff%2F4502392.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Vegetarian Kale Soup",
+    "Category": "Soup",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil"
+        },
+        {
+            "2": "1  yellow onion, chopped"
+        },
+        {
+            "3": "2 tablespoons chopped garlic"
+        },
+        {
+            "4": "1 bunch kale, stems removed and leaves chopped"
+        },
+        {
+            "5": "8 cups water"
+        },
+        {
+            "6": "6  white potatoes, peeled and cubed"
+        },
+        {
+            "7": "2 (15 ounce) cans cannellini beans (drained if desired)"
+        },
+        {
+            "8": "1 (15 ounce) can diced tomatoes"
+        },
+        {
+            "9": "6 cubes  vegetable bouillon (such as Knorr)"
+        },
+        {
+            "10": "2 tablespoons dried parsley"
+        },
+        {
+            "11": "1 tablespoon Italian seasoning"
+        },
+        {
+            "12": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a large soup pot over medium-high heat; cook onion and garlic until soft, 2 to 3 minutes. Stir in kale and cook until wilted, about 2 minutes. Stir in water, potatoes, beans, tomatoes, vegetable bouillon, parsley, and Italian seasoning."
+        },
+        {
+            "2": "Bring to a boil, then reduce heat and simmer until potatoes are cooked through, about 25 minutes. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "277"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "51g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8836918.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F20f951b8ccbb6aed8c12a54e034cc3b4%2F1655578703image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9101122.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9091504.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/0RlafqF9Km5zFBZHb9ioleLeOJo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7272209-vegetarian-kale-soup-CFraser-1x1-1-a144b0a33bbe4d9092f5a9cc91017da2.jpg"
+        }
+    ],
+    "main category": "soups"
+}

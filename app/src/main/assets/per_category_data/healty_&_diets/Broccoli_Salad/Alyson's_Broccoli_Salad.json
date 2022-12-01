@@ -1,0 +1,90 @@
+{
+    "title": "Alyson's Broccoli Salad",
+    "Category": "Broccoli Salad",
+    "Ingredients": [
+        {
+            "1": "10 slices bacon"
+        },
+        {
+            "2": "1 head fresh broccoli, cut into bite size pieces"
+        },
+        {
+            "3": "0.25 cup red onion, chopped"
+        },
+        {
+            "4": "0.5 cup raisins"
+        },
+        {
+            "5": "3 tablespoons white wine vinegar"
+        },
+        {
+            "6": "2 tablespoons white sugar"
+        },
+        {
+            "7": "1 cup mayonnaise"
+        },
+        {
+            "8": "1 cup sunflower seeds"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside."
+        },
+        {
+            "2": "In a medium bowl, combine the broccoli, onion and raisins. In a small bowl, whisk together the vinegar, sugar and mayonnaise. Pour over broccoli mixture, and toss until well mixed. Refrigerate for at least two hours."
+        },
+        {
+            "3": "Before serving, toss salad with crumbled bacon and sunflower seeds."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "559"
+        },
+        {
+            "Fat": "48g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9226919.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9119647.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8649340.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8194463.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/w0Vj_cZ4pjCq7kpkoWDbb5p8Yvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/503913-fd89ba5796774baebc24d7568bc722e7.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,129 @@
+{
+    "title": "Chicken Parmesan",
+    "Category": "Dinner Recipes",
+    "Ingredients": [
+        {
+            "1": "4  skinless, boneless chicken breast halves"
+        },
+        {
+            "2": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "3": "2 large eggs"
+        },
+        {
+            "4": "1 cup panko bread crumbs, or more as needed"
+        },
+        {
+            "5": "0.75 cup grated Parmesan cheese, divided"
+        },
+        {
+            "6": "2 tablespoons all-purpose flour, or more if needed"
+        },
+        {
+            "7": "0.5 cup olive oil for frying, or as needed"
+        },
+        {
+            "8": "0.5 cup prepared tomato sauce"
+        },
+        {
+            "9": "0.25 cup fresh mozzarella, cut into small cubes"
+        },
+        {
+            "10": "0.25 cup chopped fresh basil"
+        },
+        {
+            "11": "0.5 cup grated provolone cheese"
+        },
+        {
+            "12": "2 teaspoons olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "2": "Place chicken breasts between two sheets of heavy plastic (resealable freezer bags work well) on a solid, level surface. Firmly pound chicken with the smooth side of a meat mallet to a thickness of 1/2-inch. Season chicken thoroughly with salt and pepper."
+        },
+        {
+            "3": "Beat eggs in a shallow bowl and set aside."
+        },
+        {
+            "4": "Mix bread crumbs and 1/2 cup Parmesan cheese in a separate bowl, set aside."
+        },
+        {
+            "5": "Place flour in a sifter or strainer; sprinkle over chicken breasts, evenly coating both sides."
+        },
+        {
+            "6": "Dip a flour-coated chicken breast in beaten eggs. Transfer breast to the bread crumb mixture, pressing crumbs into both sides. Repeat for each breast. Let chicken rest for 10 to 15 minutes."
+        },
+        {
+            "7": "Heat 1/2 inch olive oil in a large skillet on medium-high heat until it begins to shimmer. Cook chicken in the hot oil until golden, about 2 minutes per side. The chicken will finish cooking in the oven."
+        },
+        {
+            "8": "Transfer chicken to a baking dish. Top each breast with 2 tablespoons tomato sauce. Layer each chicken breast with equal amounts of mozzarella cheese, fresh basil, and provolone cheese. Sprinkle remaining Parmesan over top and drizzle each with 1/2 teaspoon olive oil."
+        },
+        {
+            "9": "Bake in the preheated oven until cheese is browned and bubbly and chicken breasts are no longer pink in the center, 15 to 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "471"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "42g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4b067cd907c6d86384b336405a8c505e%2F1669095263592IMG_7903.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4b067cd907c6d86384b336405a8c505e%2F1668114906122PXL_20221110_202844744.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb61fb5972a6ab100483cdc8722face4d%2F166234486800E9F58A-356F-4240-A4D0-EDEFEA592C56.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb61fb5972a6ab100483cdc8722face4d%2F16620925984FA8C358-D139-406B-B89D-995AADB23601.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/jNERHFIH0FtYN03t-uEO0OVtano=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/223042-Chicken-Parmesan-mfs_001-b5a42a1bd4564f0a880b9030a33e24d3.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/FepnQbutuVPAOSqTGOext-Ur_nY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ycct-chicken-parmesan-photo-by-allrecipes-2000-374340580006476b8dc4755a3d5b01b0.jpeg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/7Sbe3pf2RAfJ-mD4MzPVRQo85HA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/223042-Chicken-Parmesan-mfs_003-915dc0e0523e4a0cacaef7821dcd1e63.jpg"
+        }
+    ],
+    "main category": "dinner"
+}

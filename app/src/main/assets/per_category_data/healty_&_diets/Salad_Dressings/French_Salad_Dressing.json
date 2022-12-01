@@ -1,0 +1,78 @@
+{
+    "title": "French Salad Dressing",
+    "Category": "Salad Dressings",
+    "Ingredients": [
+        {
+            "1": "0.5 cups vegetable oil"
+        },
+        {
+            "2": "1 cup ketchup"
+        },
+        {
+            "3": "0.75 cup white sugar"
+        },
+        {
+            "4": "0.5 cup vinegar"
+        },
+        {
+            "5": "1 small onion, chopped"
+        },
+        {
+            "6": "1 teaspoon lemon juice"
+        },
+        {
+            "7": "1 teaspoon paprika"
+        },
+        {
+            "8": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place oil, ketchup, sugar, vinegar, onion, lemon juice, paprika, and salt into a blender; cover and puree until smooth. Store in refrigerator."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "26 "
+        },
+        {
+            "Yield": "26 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "144"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9066832.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6889615.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5406365.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F26fd19440d8a25d99ffe033bb8661527%2F4463157.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

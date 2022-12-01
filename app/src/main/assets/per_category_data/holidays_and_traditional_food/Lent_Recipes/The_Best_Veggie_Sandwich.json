@@ -1,0 +1,87 @@
+{
+    "title": "The Best Veggie Sandwich",
+    "Category": "Lent Recipes",
+    "Ingredients": [
+        {
+            "1": "4  English muffins, split and toasted"
+        },
+        {
+            "2": "1  avocado, mashed"
+        },
+        {
+            "3": "1 cup alfalfa sprouts"
+        },
+        {
+            "4": "1 small tomato, chopped"
+        },
+        {
+            "5": "1 small sweet onion, chopped"
+        },
+        {
+            "6": "4 tablespoons Ranch-style salad dressing"
+        },
+        {
+            "7": "4 tablespoons toasted sesame seeds"
+        },
+        {
+            "8": "1 cup shredded smoked Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to broil."
+        },
+        {
+            "2": "Place each muffin open-faced on a cookie sheet. Spread each half with mashed avocado; place halves close together. Distributing ingredients evenly, cover each half with sprouts, tomatoes, onion, dressing, sesame seeds and cheese."
+        },
+        {
+            "3": "Place under broiler for about 5 minutes, or until cheese is melted and bubbly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "470"
+        },
+        {
+            "Fat": "30g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4501974.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd32e2592e88e15a00e08d8becb65dd1e%2F2165348.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc9a8d52cfe489eb83d6d2cb5a79acb70%2F2165370.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6b9049d237b3f5e46004249c24b5de49%2F831439.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

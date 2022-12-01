@@ -1,0 +1,99 @@
+{
+    "title": "Philly Cheese Steak Sloppy Joes",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "0.5  red bell pepper, thinly sliced"
+        },
+        {
+            "3": "0.5  green bell pepper, thinly sliced"
+        },
+        {
+            "4": "0.5  yellow onion, thinly sliced"
+        },
+        {
+            "5": "1 clove garlic, minced"
+        },
+        {
+            "6": "1 cup cold water"
+        },
+        {
+            "7": "1 tablespoon cornstarch"
+        },
+        {
+            "8": "2 teaspoons beef bouillon granules"
+        },
+        {
+            "9": "1 teaspoon Worcestershire sauce"
+        },
+        {
+            "10": "1 salt and ground black pepper to taste"
+        },
+        {
+            "11": "0.75 cup shredded mozzarella cheese"
+        },
+        {
+            "12": "4  whole wheat hamburger buns, split"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Add bell peppers, onion, and garlic; saute until beginning to tenderize, about 5 minutes more."
+        },
+        {
+            "2": "Stir water, cornstarch, bouillon, and Worcestershire sauce together in a bowl. Add to beef mixture in skillet. Cover with a lid and reduce heat to low. Simmer until sauce thickens and veggies are tender, 7 to 10 minutes. Season with salt and pepper. Add mozzarella cheese; cover until melted, about 2 minutes. Stir to combine."
+        },
+        {
+            "3": "Serve beef mixture on buns, Sloppy Joe-style."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 sloppy joes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "747"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "82g"
+        },
+        {
+            "Protein": "44g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9302749.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7907979.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7872317.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7811777.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

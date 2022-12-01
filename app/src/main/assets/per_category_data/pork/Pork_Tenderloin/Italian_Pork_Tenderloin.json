@@ -1,0 +1,93 @@
+{
+    "title": "Italian Pork Tenderloin",
+    "Category": "Pork Tenderloin",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil"
+        },
+        {
+            "2": "0.25 cup chopped prosciutto"
+        },
+        {
+            "3": "2 tablespoons chopped fresh sage"
+        },
+        {
+            "4": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "5": "2 tablespoons chopped oil-packed sun-dried tomatoes"
+        },
+        {
+            "6": "0.25 cup chopped onion"
+        },
+        {
+            "7": "0.5 pounds pork tenderloin, cut into 1/2 inch strips"
+        },
+        {
+            "8": "0.5 cup chicken broth"
+        },
+        {
+            "9": "0.5 cup heavy cream"
+        },
+        {
+            "10": "0.25 teaspoon salt"
+        },
+        {
+            "11": "0.5 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat the oil in a skillet over medium-high heat. Saute the prosciutto, sage, parsley, sun-dried tomatoes, and onion 5 minutes, until onion is tender. Mix the pork strips into the skillet, and brown about 10 minutes, turning once."
+        },
+        {
+            "2": "Stir the broth and heavy cream into the skillet, and season with salt and pepper. Bring to a boil. Reduce heat to low, and simmer 20 minutes, stirring occasionally, until pork reaches a minimum temperature of 145 degrees F (63 degrees C) and sauce is thickened."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "356"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9392654.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9392658.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9392657.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9392660.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Chakin Sushi",
+    "Category": "Sushi",
+    "Ingredients": [
+        {
+            "1": "1 cup sushi rice, or Japanese short-grain white rice"
+        },
+        {
+            "2": "3  eggs, beaten"
+        },
+        {
+            "3": "0.25 teaspoon salt"
+        },
+        {
+            "4": "1 tablespoon vegetable oil"
+        },
+        {
+            "5": "3 tablespoons rice vinegar"
+        },
+        {
+            "6": "2 tablespoons white sugar"
+        },
+        {
+            "7": "1 teaspoon salt"
+        },
+        {
+            "8": "2 tablespoons black sesame seeds"
+        },
+        {
+            "9": "6 sprigs Italian parsley with long stems"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a saucepan bring water to a boil. Add rice and stir. Reduce heat, cover and simmer for 20 minutes. Once cooked, spoon rice into a large bowl and allow to cool until it is cool enough to handle."
+        },
+        {
+            "2": "Meanwhile, beat eggs together with 1/4 teaspoon salt. Brush the bottom of a skillet with vegetable oil, and place over medium heat. Once hot, pour in 1/6 of the egg mixture and spread evenly over the bottom of the pan. Cook until the egg has just firmed, then carefully flip over and cook for a few more seconds to firm the other side. Repeat with remaining egg to create 6 thin sheets."
+        },
+        {
+            "3": "Stir together vinegar, sugar, and 1 teaspoon salt in a small bowl. Microwave for a few seconds until the mixture is hot; stir until the sugar has dissolved. Fold vinegar and sesame seeds into warm rice."
+        },
+        {
+            "4": "To assemble, place a large spoonful of rice into the center of each egg sheet. Fold into a square, and tie with a sprig of Italian parsley to secure."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 pieces"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "218"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F84882.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

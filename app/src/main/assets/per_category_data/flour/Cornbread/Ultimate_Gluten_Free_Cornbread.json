@@ -1,0 +1,93 @@
+{
+    "title": "Ultimate Gluten-Free Cornbread",
+    "Category": "Cornbread",
+    "Ingredients": [
+        {
+            "1": "3  eggs"
+        },
+        {
+            "2": "0.5 cups milk"
+        },
+        {
+            "3": "0.5 cup butter, melted"
+        },
+        {
+            "4": "1 tablespoon white vinegar"
+        },
+        {
+            "5": "2 cups cornmeal"
+        },
+        {
+            "6": "1 cup millet flour"
+        },
+        {
+            "7": "0.25 cup white sugar"
+        },
+        {
+            "8": "1 tablespoon baking powder"
+        },
+        {
+            "9": "1 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Grease a 9x13-inch baking dish."
+        },
+        {
+            "2": "Beat eggs in a bowl; stir in milk, butter, and vinegar. Stir cornmeal, millet flour, sugar, baking powder, and salt into egg mixture until combined; spread batter into prepared baking dish."
+        },
+        {
+            "3": "Bake in preheated oven until golden brown, 16 to 20 minutes. Cool on wire rack for 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "16 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "36 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "233"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9437884.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3645656.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2287463.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2274981.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

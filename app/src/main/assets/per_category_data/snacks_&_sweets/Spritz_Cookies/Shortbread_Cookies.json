@@ -1,0 +1,84 @@
+{
+    "title": "Shortbread Cookies",
+    "Category": "Spritz Cookies",
+    "Ingredients": [
+        {
+            "1": "2 cups butter, softened"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "2 teaspoons vanilla extract"
+        },
+        {
+            "4": "4 cups all-purpose flour"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (180 degrees C)."
+        },
+        {
+            "2": "Cream softened butter and sugar until light and fluffy. Stir in vanilla; add flour and mix well until combined."
+        },
+        {
+            "3": "Fill cookie press with the dough and form cookies onto two ungreased cookie sheets, spacing them about 1 1/2 inches apart. Bake for 10 - 12 minutes, or until the edges of the cookies are just starting to turn golden brown."
+        },
+        {
+            "4": "Remove the cookie sheets from the oven, and set them on a wire cooling rack for 2 minutes. Then transfer the shortbread cookies to the rack to cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "2 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "490"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8992302.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8885222.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8882736.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8880135.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Fjn3Pn5Gj2lcb-u7iw4QasZKcL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4308764_Shortbread-Cookies-II-4x3-1-4ce7a349f02b4ccdb3dbd3795c269332.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/z_I9lcAeN_jsJiOLuptZqWWlLZ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3013176_original-6ce8262a75ef49168c80549d206de669.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

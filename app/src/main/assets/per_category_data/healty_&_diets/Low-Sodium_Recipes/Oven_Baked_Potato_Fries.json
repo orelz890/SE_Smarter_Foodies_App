@@ -1,0 +1,81 @@
+{
+    "title": "Oven-Baked Potato Fries",
+    "Category": "Low-Sodium Recipes",
+    "Ingredients": [
+        {
+            "1": "2 pounds baking potatoes, each cut into six wedges"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "0.5 teaspoon dried thyme leaves"
+        },
+        {
+            "4": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "5": "1 salt to taste"
+        },
+        {
+            "6": "0.25 cup shredded Cheddar cheese (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "2": "Arrange potato wedges on a baking sheet; drizzle with olive oil and season with thyme, pepper, and salt. Toss wedges with a spatula to coat evenly."
+        },
+        {
+            "3": "Roast potato wedges in the preheated oven for 15 minutes; flip and continue roasting until soft in the center, about 15 minutes more. Transfer wedges to a platter and sprinkle with cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "264"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8498275.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6344446.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6231966.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5079489.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/svp3lVNa237NA_GvERpzRxlYO7w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1408015-79c25db02c7c4966b0021721ca422e5b.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

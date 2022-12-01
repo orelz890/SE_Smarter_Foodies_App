@@ -1,0 +1,93 @@
+{
+    "title": "Chocolate Popcorn",
+    "Category": "Popcorn",
+    "Ingredients": [
+        {
+            "1": "1 nonstick cooking spray"
+        },
+        {
+            "2": "2 quarts popped popcorn"
+        },
+        {
+            "3": "1 cup peanuts (Optional)"
+        },
+        {
+            "4": "0.75 cup sugar"
+        },
+        {
+            "5": "0.5 cup butter"
+        },
+        {
+            "6": "0.25 cup corn syrup"
+        },
+        {
+            "7": "0.25 cup cocoa powder"
+        },
+        {
+            "8": "1 teaspoon vanilla"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 250 degrees F (120 degrees C). Spray a 10x15-inch baking pan with nonstick spray. Place popcorn and peanuts into a large metal bowl; set aside."
+        },
+        {
+            "2": "Combine sugar, butter, corn syrup, and cocoa together in a saucepan over medium-high heat; bring to a boil, stirring continuously, and cook for 2 minutes. Stir in vanilla, then pour over popcorn in the bowl. Stir until popcorn is well-coated; spread on the prepared pan."
+        },
+        {
+            "3": "Bake in the preheated oven, stirring several times, for 30 minutes."
+        },
+        {
+            "4": "Remove popcorn from the oven; allow to cool to room temperature to crisp up. Break into small clumps and store in an airtight container."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 45 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 quarts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "186"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7710254.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcbe927adc41b9f155b51c6e6e4c8344e%2F6141702.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4102527.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4039737.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

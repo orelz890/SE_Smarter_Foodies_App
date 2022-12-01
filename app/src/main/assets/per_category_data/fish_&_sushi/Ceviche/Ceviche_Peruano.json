@@ -1,0 +1,108 @@
+{
+    "title": "Ceviche Peruano",
+    "Category": "Ceviche",
+    "Ingredients": [
+        {
+            "1": "2  potatoes"
+        },
+        {
+            "2": "2  sweet potatoes"
+        },
+        {
+            "3": "1  red onion, cut into thin strips"
+        },
+        {
+            "4": "1 cup fresh lime juice"
+        },
+        {
+            "5": "0.5 stalk celery, sliced"
+        },
+        {
+            "6": "0.25 cup lightly packed cilantro leaves"
+        },
+        {
+            "7": "1 pinch ground cumin"
+        },
+        {
+            "8": "1 clove garlic, minced"
+        },
+        {
+            "9": "1  habanero pepper, seeded and minced"
+        },
+        {
+            "10": "1 Salt and freshly ground pepper to taste"
+        },
+        {
+            "11": "1 pound fresh tilapia, cut into 1/2-inch pieces"
+        },
+        {
+            "12": "1 pound medium shrimp - peeled, deveined, and cut into 1/2-inch pieces"
+        },
+        {
+            "13": "1  bibb or Boston lettuce, separated into leaves"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the potatoes and sweet potatoes in a saucepan and cover with water. Simmer until the potatoes are easily pierced with a fork, then drain, and set aside to cool to room temperature. Place the sliced onion in a bowl of warm water, let stand 10 minutes, then drain and set aside."
+        },
+        {
+            "2": "Meanwhile, place the lime juice, celery, cilantro, and cumin into the bowl of a blender, and puree until smooth. Pour this mixture into a large glass bowl, and stir in the garlic and habanero pepper. Season with salt and pepper, then stir in the diced tilapia and shrimp."
+        },
+        {
+            "3": "Set aside to marinate for an hour, stirring occasionally. The seafood is done once it turns firm and opaque."
+        },
+        {
+            "4": "To serve, peel the potatoes and cut into slices. Stir the onions into the fish mixture. Line serving bowls with lettuce leaves. Spoon the ceviche with its juice into the bowls and garnish with slices of potato."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "237"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffe36e5e36637d578b5e0895f97027333%2F1984651.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa6016db2ca386ecaa5664895ae19089b%2F1138804.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F494279.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F247441.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

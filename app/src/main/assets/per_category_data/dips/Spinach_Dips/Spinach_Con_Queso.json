@@ -1,0 +1,87 @@
+{
+    "title": "Spinach Con Queso",
+    "Category": "Spinach Dips",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "1 tablespoon butter"
+        },
+        {
+            "3": "0.5 cup chopped onion"
+        },
+        {
+            "4": "1 clove garlic, minced"
+        },
+        {
+            "5": "1 cup chopped red bell pepper"
+        },
+        {
+            "6": "1  jalapeno pepper - seeded, membranes discarded, and pepper chopped"
+        },
+        {
+            "7": "0.5 pounds pepperjack cheese, cut into cubes"
+        },
+        {
+            "8": "1 (10 ounce) package frozen chopped spinach - thawed, drained, and squeezed dry"
+        },
+        {
+            "9": "2 (12 fluid ounce) cans evaporated milk"
+        },
+        {
+            "10": "0.25 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil and butter together in a 3-quart saucepan over medium heat; cook and stir onion until translucent, about 10 minutes. Add garlic and cook until fragrant, about 1 minute. Stir red bell pepper and jalapeno pepper into onion mixture; cook until softened, about 5 minutes."
+        },
+        {
+            "2": "Reduce heat to low and mix pepperjack cheese and spinach into onion mixture; cook, stirring constantly, until cheese is melted and mixture is thick, 5 to 10 minutes. Slowly pour enough evaporated milk into the cheese mixture, stirring constantly, until desired consistency is reached; season with salt. Continue to cook and stir over low heat until warmed through, at least 5 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 quarts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "255"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9332886.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4529129.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2921607.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

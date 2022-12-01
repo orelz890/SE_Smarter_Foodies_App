@@ -1,0 +1,90 @@
+{
+    "title": "My Grandma's Shoofly Pie",
+    "Category": "Pie Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup molasses"
+        },
+        {
+            "2": "0.75 cup hot water"
+        },
+        {
+            "3": "0.75 teaspoon baking soda"
+        },
+        {
+            "4": "1  egg, beaten"
+        },
+        {
+            "5": "1 (9 inch) pie shell"
+        },
+        {
+            "6": "0.5 cups all-purpose flour"
+        },
+        {
+            "7": "1 cup packed brown sugar"
+        },
+        {
+            "8": "0.25 cup shortening"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Combine molasses, hot water, and baking soda together in a medium bowl; whisk in beaten egg until well combined. Pour mixture into pie shell."
+        },
+        {
+            "3": "Combine flour and brown sugar in a separate medium bowl; cut in shortening until mixture resembles coarse crumbs. Sprinkle on top of pie filling."
+        },
+        {
+            "4": "Bake in the preheated oven for 15 minutes. Lower temperature to 350 degrees F (175 degrees C); bake for an additional 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "455"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "83g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9204346.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7392978.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F457f067a20d2f3fc13f522323865157e%2F7273279.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2813bdcc622822fbb140a2e4686a0623%2F6590985.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

@@ -1,0 +1,105 @@
+{
+    "title": "Shrimp Corn Chowder",
+    "Category": "Chowder",
+    "Ingredients": [
+        {
+            "1": "6 slices bacon"
+        },
+        {
+            "2": "1 cup chopped onion"
+        },
+        {
+            "3": "0.5 cup chopped celery"
+        },
+        {
+            "4": "1 teaspoon minced garlic"
+        },
+        {
+            "5": "1 teaspoon fresh thyme"
+        },
+        {
+            "6": "4 cups frozen corn kernels, thawed"
+        },
+        {
+            "7": "2 cups chicken broth"
+        },
+        {
+            "8": "0.5 cup half-and-half"
+        },
+        {
+            "9": "0.5 teaspoon black pepper"
+        },
+        {
+            "10": "0.5 teaspoon salt"
+        },
+        {
+            "11": "1 pound fresh peeled and deveined shrimp"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Transfer bacon slices to paper towels. Drain excess grease from the skillet."
+        },
+        {
+            "2": "Crumble 4 slices bacon into the skillet. Add onion, celery, garlic, and thyme; cook and stir over medium heat until soft, about 5 minutes."
+        },
+        {
+            "3": "Transfer bacon mixture to a large pot. Add corn and chicken broth. Bring soup to a boil; cook until flavors combine, about 5 minutes."
+        },
+        {
+            "4": "Pour 2 cups of soup into a blender. Cover and hold lid down; puree until smooth."
+        },
+        {
+            "5": "Return pureed soup to the pot. Stir in half-and-half, pepper, and salt. Bring to a boil. Stir in shrimp; cook until shrimp are opaque, 3 to 4 minutes."
+        },
+        {
+            "6": "Ladle soup into bowls. Crumble remaining 2 slices bacon on top."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "33 mins"
+        },
+        {
+            "Total Time": "53 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "366"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429651.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7923068.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6930486.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6930501.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dairy"
+}

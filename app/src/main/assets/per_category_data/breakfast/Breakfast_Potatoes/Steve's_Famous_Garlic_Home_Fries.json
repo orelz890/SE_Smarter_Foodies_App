@@ -1,0 +1,81 @@
+{
+    "title": "Steve's Famous Garlic Home Fries",
+    "Category": "Breakfast Potatoes",
+    "Ingredients": [
+        {
+            "1": "0.25 cup butter or margarine"
+        },
+        {
+            "2": "4 (8 ounce) russet potatoes, quartered and sliced"
+        },
+        {
+            "3": "1 clove garlic, minced"
+        },
+        {
+            "4": "0.25 teaspoon paprika"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "7": "2 teaspoons chopped fresh chives"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt the butter or margarine in a large skillet over medium heat. Add the potatoes and spread out in an even layer. Cover and cook for about 5 minutes. Season with garlic, paprika, salt and pepper; stir to coat potatoes evenly."
+        },
+        {
+            "2": "Cover and cook for another 15 minutes, turning potatoes occasionally. Remove cover, and mix in chives. Increase heat to medium-high and cook for another 10 minutes, stirring frequently, or until potatoes are tender."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "139"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7233078.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6822792.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff2157aecc7acfd2211d7ed34f709fa11%2F6796818.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6407553.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

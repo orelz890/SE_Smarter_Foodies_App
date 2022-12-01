@@ -1,0 +1,93 @@
+{
+    "title": "Cottage Pie",
+    "Category": "Shepherd's Pie",
+    "Ingredients": [
+        {
+            "1": "4 large Yukon Gold potatoes, quartered"
+        },
+        {
+            "2": "6 tablespoons butter, divided"
+        },
+        {
+            "3": "1 clove garlic, minced"
+        },
+        {
+            "4": "1 salt and pepper to taste"
+        },
+        {
+            "5": "1 tablespoon olive oil"
+        },
+        {
+            "6": "1 pound lean ground beef"
+        },
+        {
+            "7": "1 tablespoon herbes de Provence"
+        },
+        {
+            "8": "1 teaspoon ground nutmeg"
+        },
+        {
+            "9": "0.5 cups frozen peas"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9 inch deep-dish pie plate."
+        },
+        {
+            "2": "Place potatoes into a pot; cover with salted water, and bring to a boil over high heat. Reduce heat to medium-low, cover; simmer until tender, about 20 minutes. Drain; mash with 2 tablespoons of the butter and the garlic. Season to taste with salt and pepper; set aside."
+        },
+        {
+            "3": "Meanwhile, heat the olive oil in a skillet over medium heat. Add ground beef, herbes de Provence, and nutmeg; cook and stir until beef is lightly brown and crumbly, about 10 minutes. Spread the beef evenly in the prepared pie plate. Cover evenly with the peas; spread the mashed potatoes over the peas. Dot the casserole with the remaining butter."
+        },
+        {
+            "4": "Bake, uncovered, in the preheated oven until heated through and bubbly, about 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 to 9 - inch deep dish pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "401"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa01bdb45301ee483ba3693f7c28aea89%2F164927974620220403_180551.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9154326.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8852406.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8650729.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

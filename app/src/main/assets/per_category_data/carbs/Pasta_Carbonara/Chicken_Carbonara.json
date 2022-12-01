@@ -1,0 +1,93 @@
+{
+    "title": "Chicken Carbonara",
+    "Category": "Pasta Carbonara",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package spaghetti"
+        },
+        {
+            "2": "2 teaspoons olive oil"
+        },
+        {
+            "3": "1 (4 ounce) package pancetta bacon, diced"
+        },
+        {
+            "4": "2 cloves garlic, minced"
+        },
+        {
+            "5": "1.0 cups whipping cream"
+        },
+        {
+            "6": "1 cup freshly grated Parmesan cheese"
+        },
+        {
+            "7": "8 large egg yolks"
+        },
+        {
+            "8": "0.25 cup chopped fresh basil"
+        },
+        {
+            "9": "0.25 cup chopped fresh Italian parsley"
+        },
+        {
+            "10": "4 cups shredded cooked chicken"
+        },
+        {
+            "11": "1 salt and freshly ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain."
+        },
+        {
+            "2": "Meanwhile, heat olive oil in a large, heavy frying pan over medium heat. Add pancetta and garlic; saute until brown and crisp, about 8 minutes. Remove from the heat and cool slightly."
+        },
+        {
+            "3": "Whisk cream, Parmesan, egg yolks, basil, and parsley together in a large bowl until well blended."
+        },
+        {
+            "4": "Stir chicken into the pancetta mixture until combined. Add cooked spaghetti and cream mixture. Toss over medium-low heat until chicken is heated through and sauce forms a thick coating over the spaghetti, about 4 minutes. Do not boil or the eggs will scramble. Season with salt and pepper and transfer to a large, wide serving bowl."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "715"
+        },
+        {
+            "Fat": "43g"
+        },
+        {
+            "Carbs": "45g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8def04de24c4ab505a2f8715681f9824%2F1651668091IMG_20220504_204102_398.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F461249.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

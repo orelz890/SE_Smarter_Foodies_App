@@ -1,0 +1,72 @@
+{
+    "title": "Easy Breaded Shrimp",
+    "Category": "Quick and Easy Recipes",
+    "Ingredients": [
+        {
+            "1": "1 quart vegetable oil for frying"
+        },
+        {
+            "2": "4 cups shrimp, peeled and deveined"
+        },
+        {
+            "3": "1 large egg, beaten"
+        },
+        {
+            "4": "2 cups dry bread crumbs"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a deep fryer or large saucepan to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Working one at a time, dip shrimp into beaten egg, allowing any excess egg to drip back into the bowl. Press into bread crumbs to coat both sides. Place the breaded shrimp, unstacked, onto a plate. Repeat with remaining shrimp."
+        },
+        {
+            "3": "Lower breaded shrimp carefully into preheated oil in batches. Fry until crispy and golden brown, about 4 to 5 minutes. Transfer to a paper towel-lined plate to drain. Repeat with remaining breaded shrimp."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "281"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F89b4d0659abe6780621f19f94a3eeccf%2F1669085266861Fried-Shrimp.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7785339.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0a35c696ed78f0cb9f525476516bff01%2F6362177.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6089859.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "easy_recipies_&_leftovers"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Perfect Flat Iron Steak",
+    "Category": "Flat Iron Steak",
+    "Ingredients": [
+        {
+            "1": "1 (2 pound) flat iron steak"
+        },
+        {
+            "2": "1.0 tablespoons olive oil"
+        },
+        {
+            "3": "2 cloves garlic, minced"
+        },
+        {
+            "4": "1 teaspoon chopped fresh parsley"
+        },
+        {
+            "5": "0.25 teaspoon chopped fresh rosemary"
+        },
+        {
+            "6": "0.5 teaspoon chopped fresh chives"
+        },
+        {
+            "7": "0.25 cup Cabernet Sauvignon (or other dry red wine)"
+        },
+        {
+            "8": "0.5 teaspoon salt"
+        },
+        {
+            "9": "0.75 teaspoon ground black pepper"
+        },
+        {
+            "10": "0.25 teaspoon dry mustard powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the steak inside of a large resealable bag. In a small bowl, stir together the olive oil, garlic, parsley, rosemary, chives, red wine, salt, pepper and mustard powder. Pour over the steak in the bag. Press out as much air as you can and seal the bag. Marinate in the refrigerator for 2 to 3 hours."
+        },
+        {
+            "2": "Heat a nonstick skillet over medium-high heat. Sear and cook the steak in the hot skillet for 3 to 4 minutes on each side for medium rare, or to your desired degree of doneness. Discard the marinade. Allow the steaks to rest for about 5 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "7 mins"
+        },
+        {
+            "Cook Time": "8 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "345"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9348518.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F05521701ed0eb3b3a87e377635582657%2F5030729.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4544031.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5f6e1142483599e69b1e7297fd9a64a7%2F2331798.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Southern Fried Chicken Livers",
+    "Category": "Low-Sodium Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound chicken livers"
+        },
+        {
+            "2": "1  egg"
+        },
+        {
+            "3": "0.5 cup milk"
+        },
+        {
+            "4": "1 cup all-purpose flour"
+        },
+        {
+            "5": "1 tablespoon garlic powder"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        },
+        {
+            "7": "1 quart vegetable oil for frying"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place chicken livers in a colander; rinse with cold water and drain well. Blot dry with paper towels."
+        },
+        {
+            "2": "Whisk egg and milk together in a shallow dish until blended."
+        },
+        {
+            "3": "Place flour, garlic powder, salt, and pepper into a zip-top bag; shake to combine."
+        },
+        {
+            "4": "Heat oil in a deep fryer or large saucepan to 375 degrees F (190 degrees C)."
+        },
+        {
+            "5": "Dip chicken livers in egg mixture to coat, then transfer, one at a time, into flour mixture, shaking the bag to coat completely."
+        },
+        {
+            "6": "Gently place coated livers, a few at a time, into hot oil; cover with a splatter screen and cook until crisp and golden brown, 5 to 6 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "470"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F86c64149a55aaeb8b0e3b5af18f029df%2F165386090316538608759904079676842078885147.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8168894.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F201ecfc9d7b8679dd96afa5510b7958a%2F7650353.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7420843.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Cape Codder Cocktail",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "0.5 fluid ounces vodka"
+        },
+        {
+            "2": "5 fluid ounces cranberry juice"
+        },
+        {
+            "3": "1 cup ice cubes"
+        },
+        {
+            "4": "1  lime wedge for garnish"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour vodka and cranberry juice into a highball glass filled with ice; stir well."
+        },
+        {
+            "2": "Garnish with a lime wedge."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 cocktail"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "202"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1246603.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F398c93d9a4618c770cf245032f890054%2F1081155.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffbad2d1668b8ab3d41ed4e8b20077b04%2F879757.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F879875.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/wY-Cgm9FJpqewmQTer8leb3hQfQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1081155-2f2db68e1f874d8c802faff2c0ef004f.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

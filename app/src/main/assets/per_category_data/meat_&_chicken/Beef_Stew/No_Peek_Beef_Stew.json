@@ -1,0 +1,60 @@
+{
+    "title": "No-Peek Beef Stew",
+    "Category": "Beef Stew",
+    "Ingredients": [
+        {
+            "1": "2 pounds beef stew meat, cut into 1 inch cubes"
+        },
+        {
+            "2": "1 (10.5 ounce) can condensed French onion soup"
+        },
+        {
+            "3": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "4": "1 (4.5 ounce) can mushrooms, drained"
+        },
+        {
+            "5": "0.5 cup dry red wine"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place beef stew meat, condensed French onion soup, condensed cream of mushroom soup, mushrooms, and dry red wine into a slow cooker. Cover and cook on Low for 8 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "28 mins"
+        },
+        {
+            "Cook Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 28 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "382"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F771001.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

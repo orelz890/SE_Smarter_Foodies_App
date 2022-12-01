@@ -1,0 +1,87 @@
+{
+    "title": "Quinoa Side Dish",
+    "Category": "Seder Recipes",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon butter"
+        },
+        {
+            "2": "1 cup uncooked quinoa"
+        },
+        {
+            "3": "2 cups vegetable broth"
+        },
+        {
+            "4": "2 teaspoons chopped garlic"
+        },
+        {
+            "5": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "6": "0.5 tablespoon chopped fresh thyme"
+        },
+        {
+            "7": "0.25 teaspoon salt"
+        },
+        {
+            "8": "1 small onion, finely chopped"
+        },
+        {
+            "9": "1 dash fresh lemon juice (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a saucepan over medium heat. Add the quinoa, and toast, stirring occasionally, until lightly browned, about 5 minutes. Stir in broth, and bring to a boil. Reduce to a simmer, cover, and cook for 15 minutes, or until quinoa is tender."
+        },
+        {
+            "2": "In a bowl, toss quinoa together with garlic, parsley, thyme, salt, and onion. Sprinkle with lemon juice, and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "207"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8982697.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8708034.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7949316.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fff255f9077c1625c148e182b447d7d98%2F6189587.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/XavYCmuLQMj_Y1RCnZJIFme4tqI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/363608-f8f5d586620640e6b5c42119eecf83af.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

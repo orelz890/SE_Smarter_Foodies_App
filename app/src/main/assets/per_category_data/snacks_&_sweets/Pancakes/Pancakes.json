@@ -1,0 +1,63 @@
+{
+    "title": "Pancakes",
+    "Category": "Pancakes",
+    "Ingredients": [
+        {
+            "1": "1 cup sifted self-rising flour"
+        },
+        {
+            "2": "1 cup milk"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "2 tablespoons vegetable oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Beat eggs, oil, and milk together, and add to flour. Stir until combined."
+        },
+        {
+            "2": "Heat a greased griddle until drops of water sprinkled on it evaporate noisily. Pour 1/8 to 1/4 cup batter onto the griddle. Turn over with a metal spatula when bubbles begin to form on top. Cook second side to a golden brown color."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "10 to 4 - inch round pancakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "176"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc98789657e4a593d7357399feebcf1e2%2F1644673358EE4F66E3-87C3-4387-9878-E799821A1144.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc98789657e4a593d7357399feebcf1e2%2F164406649116440664773454801926760401397191.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9347288.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9110627.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

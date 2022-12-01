@@ -1,0 +1,81 @@
+{
+    "title": "Basic Fondue",
+    "Category": "Cheese Fondue",
+    "Ingredients": [
+        {
+            "1": "2 cups milk"
+        },
+        {
+            "2": "3 tablespoons all-purpose flour"
+        },
+        {
+            "3": "1 tablespoon Worcestershire sauce"
+        },
+        {
+            "4": "2 teaspoons ground dry mustard"
+        },
+        {
+            "5": "1 clove garlic, peeled and crushed"
+        },
+        {
+            "6": "6 cups shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix together milk, flour, Worcestershire sauce, mustard, and garlic in a medium saucepan over low heat. Heat until almost boiling."
+        },
+        {
+            "2": "Gradually stir in Cheddar cheese. Continue heating until all the cheese has melted."
+        },
+        {
+            "3": "Keep the mixture warm and melted in a fondue dish."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "64 "
+        },
+        {
+            "Yield": "8 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "49"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9109882.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8191086.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1893964.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1893962.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

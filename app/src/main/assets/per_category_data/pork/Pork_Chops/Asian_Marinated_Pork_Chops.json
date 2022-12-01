@@ -1,0 +1,90 @@
+{
+    "title": "Asian Marinated Pork Chops",
+    "Category": "Pork Chops",
+    "Ingredients": [
+        {
+            "1": "1 cup soy sauce"
+        },
+        {
+            "2": "0.5 cup brown sugar"
+        },
+        {
+            "3": "2 cloves garlic, crushed"
+        },
+        {
+            "4": "1 tablespoon ground ginger"
+        },
+        {
+            "5": "1 tablespoon ground cumin"
+        },
+        {
+            "6": "1 tablespoon roasted red chili paste"
+        },
+        {
+            "7": "6 (1-inch thick) pork chops"
+        },
+        {
+            "8": "1 cooking spray"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place soy sauce, brown sugar, garlic, ginger, cumin, and red chili paste in a large, heavy resealable plastic bag. Smash the bag a few times with your fingers to mix all the ingredients thoroughly and dissolve the brown sugar."
+        },
+        {
+            "2": "Place pork chops into the marinade and seal the bag. Allow to marinate for 30 to 45 minutes."
+        },
+        {
+            "3": "Preheat an outdoor grill for medium heat and lightly oil the grate."
+        },
+        {
+            "4": "Remove pork chops from marinade; discard marinade. Shake off excess marinade and grill pork chops until browned and no longer pink inside, 5 to 7 minutes per side. The chops should show good grill marks and an instant-read meat thermometer inserted into the thickest part of a chop should read at least 145 degrees F (63 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "448"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "57g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8795960.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8680168.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8713965.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8632501.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

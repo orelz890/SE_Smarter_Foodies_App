@@ -1,0 +1,105 @@
+{
+    "title": "Garlic Shrimp and Cheesy Grits",
+    "Category": "Grits",
+    "Ingredients": [
+        {
+            "1": "2 cups chicken broth"
+        },
+        {
+            "2": "1 cup milk"
+        },
+        {
+            "3": "1 teaspoon minced garlic"
+        },
+        {
+            "4": "1 cup quick-cooking grits"
+        },
+        {
+            "5": "6 ounces shredded Cheddar cheese"
+        },
+        {
+            "6": "1 salt and ground black pepper to taste"
+        },
+        {
+            "7": "1 tablespoon butter"
+        },
+        {
+            "8": "1 tablespoon olive oil"
+        },
+        {
+            "9": "1  onion, chopped"
+        },
+        {
+            "10": "2 teaspoons minced garlic"
+        },
+        {
+            "11": "1 pound uncooked shrimp, peeled and deveined"
+        },
+        {
+            "12": "1 dash hot pepper sauce, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring chicken broth, milk, and 1 teaspoon garlic to a boil in a saucepan. Stir in grits, reduce heat to low, and simmer until thickened, about 5 minutes."
+        },
+        {
+            "2": "Remove from heat and thoroughly mix in Cheddar cheese; season with salt and black pepper. Set grits aside and keep warm."
+        },
+        {
+            "3": "Heat butter and olive oil in a skillet over medium heat. Cook and stir onion and 2 teaspoons garlic until softened and beginning to brown, about 5 minutes."
+        },
+        {
+            "4": "Stir shrimp into onion mixture and cook until shrimp are pink and no longer translucent in the center, about 5 more minutes. Stir in hot pepper sauce."
+        },
+        {
+            "5": "Serve grits in a large serving bowl topped with shrimp mixture."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "268"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7705517.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6960689.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6690572.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6636916.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

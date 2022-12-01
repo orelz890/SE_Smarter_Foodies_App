@@ -1,0 +1,90 @@
+{
+    "title": "Cinnamon Pancakes",
+    "Category": "Pancakes",
+    "Ingredients": [
+        {
+            "1": "1 cup all-purpose flour"
+        },
+        {
+            "2": "1.0 tablespoons white sugar"
+        },
+        {
+            "3": "2 teaspoons baking powder"
+        },
+        {
+            "4": "2 teaspoons ground cinnamon"
+        },
+        {
+            "5": "1 teaspoon baking soda"
+        },
+        {
+            "6": "1 cup milk"
+        },
+        {
+            "7": "0.25 cup butter, melted"
+        },
+        {
+            "8": "2 large eggs"
+        },
+        {
+            "9": "1 tablespoon vegetable oil, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix flour, sugar, baking powder, cinnamon, and baking soda together in a bowl."
+        },
+        {
+            "2": "Whisk milk, melted butter, and eggs together in a separate bowl. Pour milk mixture into flour mixture; whisk until well blended."
+        },
+        {
+            "3": "Heat oil on a griddle over medium heat. Drop batter in 1/4-cup scoops onto the hot griddle. Cook until bubbles form and the edges are dry, 3 to 4 minutes. Flip and cook until browned on the other side, 2 to 3 minutes. Remove to a plate and keep warm while you cook the remaining pancakes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 pancakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "139"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5945713decbea1747c36778c2e107f2c%2F16643024784031EB3F-A3DA-468D-B149-094331D4E338.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9313211.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9037742.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8994951.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

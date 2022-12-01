@@ -1,0 +1,93 @@
+{
+    "title": "Easy Chicken Posole",
+    "Category": "Mexican Recipes",
+    "Ingredients": [
+        {
+            "1": "4 tablespoons vegetable oil, divided"
+        },
+        {
+            "2": "1.0 pounds skinless, boneless chicken breast halves"
+        },
+        {
+            "3": "1  onion, chopped"
+        },
+        {
+            "4": "3 cloves garlic, minced"
+        },
+        {
+            "5": "1.0 quarts chicken broth"
+        },
+        {
+            "6": "3 cups water"
+        },
+        {
+            "7": "4 tablespoons chili powder, or to taste"
+        },
+        {
+            "8": "2 teaspoons salt, or to taste"
+        },
+        {
+            "9": "1 teaspoon crumbled dried oregano"
+        },
+        {
+            "10": "3 cups white hominy, rinsed and drained"
+        },
+        {
+            "11": "10  tostada shells"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat 2 tablespoons vegetable oil in a deep skillet over medium-high heat. Add chicken breasts and cook until no longer pink and juices run clear, about 20 minutes; remove from skillet, drain, and cool. When completely cooled, shred chicken with a fork."
+        },
+        {
+            "2": "Heat remaining 2 tablespoons vegetable oil in the same skillet over medium-high heat. Add onion and garlic; cook and stir until soft and transparent, about 5 minutes. Return shredded chicken to the skillet. Stir in chicken broth, water, chili powder, salt, and oregano. Reduce heat to low, cover, and cook for about 90 minutes."
+        },
+        {
+            "3": "Stir in hominy and cook until tender, about 15 minutes more. Taste to adjust seasonings, adding more salt and chili powder, if desired. Serve in soup bowls with a tostada shell. Garnish as desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 2 hrs 10 mins"
+        },
+        {
+            "Total Time": " 2 hrs 30 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "226"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8024518.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7951279.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7010863.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6189345.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

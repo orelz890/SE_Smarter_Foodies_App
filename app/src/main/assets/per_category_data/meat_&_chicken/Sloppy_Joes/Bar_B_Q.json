@@ -1,0 +1,78 @@
+{
+    "title": "Bar-B-Q",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "3 pounds lean ground beef"
+        },
+        {
+            "2": "1 (10.75 ounce) can  condensed tomato soup"
+        },
+        {
+            "3": "1 (10.5 ounce) can condensed French onion soup"
+        },
+        {
+            "4": "0.5 cup ketchup"
+        },
+        {
+            "5": "0.5 cup packed brown sugar"
+        },
+        {
+            "6": "10  hamburger buns"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large skillet over medium heat, brown the ground beef; drain fat."
+        },
+        {
+            "2": "Pour in tomato and French onion soups. Fill each can a quarter full with water to rinse the cans out. Pour into meat mixture. Add ketchup and brown sugar. Mix thoroughly."
+        },
+        {
+            "3": "Let simmer for 30 minutes. Serve on hamburger buns."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "480"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F808351.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F42737.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6840.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

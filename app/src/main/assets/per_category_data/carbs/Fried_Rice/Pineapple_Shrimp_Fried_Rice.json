@@ -1,0 +1,90 @@
+{
+    "title": "Pineapple-Shrimp Fried Rice",
+    "Category": "Fried Rice",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons coconut oil (such as British Class\u00ae)"
+        },
+        {
+            "2": "1 medium onion, diced"
+        },
+        {
+            "3": "1 small carrot, diced"
+        },
+        {
+            "4": "2 cloves garlic, minced"
+        },
+        {
+            "5": "0.5 cup uncooked medium shrimp, peeled and deveined"
+        },
+        {
+            "6": "0.5 cup diced ham"
+        },
+        {
+            "7": "4 cups cooked jasmine rice"
+        },
+        {
+            "8": "1 tablespoon soy sauce (such as Chinatown)"
+        },
+        {
+            "9": "1 salt and ground black pepper to taste"
+        },
+        {
+            "10": "0.5 cups diced pineapple"
+        },
+        {
+            "11": "1 small tomato, diced"
+        },
+        {
+            "12": "3  green onions, thinly sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt coconut oil over medium-high heat in a large frying pan. Add onion, carrot, and garlic; stir-fry until tender, about 3 minutes. Add shrimp and ham; stir-fry until shrimp are almost cooked through, about 2 minutes. Add rice and soy sauce and continue to cook and stir for 1 minute. Season with salt and pepper and remove from heat."
+        },
+        {
+            "2": "Stir pineapple, tomato, and green onions into fried rice mixture until thoroughly combined."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "569"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "112g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8832149.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6069873.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

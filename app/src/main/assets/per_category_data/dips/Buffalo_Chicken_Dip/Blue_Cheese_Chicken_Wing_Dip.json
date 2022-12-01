@@ -1,0 +1,78 @@
+{
+    "title": "Blue Cheese Chicken Wing Dip",
+    "Category": "Buffalo Chicken Dip",
+    "Ingredients": [
+        {
+            "1": "2  skinless, boneless chicken breast halves"
+        },
+        {
+            "2": "1 (12 fluid ounce) can or bottle hot chicken wing sauce"
+        },
+        {
+            "3": "6 tablespoons butter"
+        },
+        {
+            "4": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "5": "1 (16 ounce) bottle blue cheese dressing"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Place chicken in a pot with enough water to cover. Bring to a boil and cook 25 minutes, until chicken juices run clear. Drain liquid from pot and shred chicken. Mix wing sauce and butter into pot. Bring to a boil, reduce heat to low and simmer 10 minutes."
+        },
+        {
+            "3": "Spread cream cheese over the bottom of an 8x8 inch baking dish. Pour chicken mixture over cream cheese. Top with dressing."
+        },
+        {
+            "4": "Bake 15 minutes in the preheated oven, until hot and bubbly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "263"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F361580.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F65502.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F31158.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

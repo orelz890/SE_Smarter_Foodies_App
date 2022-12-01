@@ -1,0 +1,81 @@
+{
+    "title": "Butternut Squash Cajun Fries",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "1 pound butternut squash - peeled, seeded, and cut into thick French fries"
+        },
+        {
+            "3": "1 pinch salt to taste"
+        },
+        {
+            "4": "0.25 teaspoon ground black pepper, or to taste"
+        },
+        {
+            "5": "0.5 teaspoon Cajun seasoning, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 450 degrees F (230 degrees C). Spray a baking sheet with cooking spray."
+        },
+        {
+            "2": "Blot any moisture from the butternut squash fries with paper towels, and place on the prepared baking sheet. Sprinkle with salt, black pepper, and Cajun seasoning."
+        },
+        {
+            "3": "Bake in the preheated oven until lightly browned and tender, 15 to 20 minutes, turning once."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "52"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8212640.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7790401.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7543743.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7253804.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/LzrXOyLGwHIqfBqptlgkVGZ4nbI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/717440-f9d9eb1cb8af40eeb86fb03e3636fc43.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

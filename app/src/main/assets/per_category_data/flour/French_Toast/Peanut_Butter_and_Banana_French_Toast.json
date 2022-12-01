@@ -1,0 +1,81 @@
+{
+    "title": "Peanut Butter and Banana French Toast",
+    "Category": "French Toast",
+    "Ingredients": [
+        {
+            "1": "1  egg"
+        },
+        {
+            "2": "1 dash vanilla extract"
+        },
+        {
+            "3": "2 tablespoons creamy peanut butter"
+        },
+        {
+            "4": "2 slices bread"
+        },
+        {
+            "5": "1 small banana, sliced"
+        },
+        {
+            "6": "2 tablespoons butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Lightly beat egg and vanilla together in a shallow bowl."
+        },
+        {
+            "2": "Spread 1 tablespoon of peanut butter on top of each slice of bread. Arrange banana slices on top of peanut butter on one slice of bread; place the other slice of bread, peanut butter-side down, on top of the banana to make a sandwich."
+        },
+        {
+            "3": "Melt butter in a skillet over medium heat. Dip sandwich into egg mixture until well coated; transfer into the heated skillet. Cook until golden brown on one side, about 2 to 3 minutes; flip and continue cooking until other side is browned, about 2 minutes more. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "346"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8247941.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7974588.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7915449.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7874865.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/3kYC0JdpdgRX3NcF8m1EE7eZZRw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/129012-ff79e2a63ce74ae6861e6f98176a9ced.jpg"
+        }
+    ],
+    "main category": "flour"
+}

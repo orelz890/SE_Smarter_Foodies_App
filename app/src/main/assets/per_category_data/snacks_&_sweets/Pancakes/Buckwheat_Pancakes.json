@@ -1,0 +1,96 @@
+{
+    "title": "Buckwheat Pancakes",
+    "Category": "Pancakes",
+    "Ingredients": [
+        {
+            "1": "1 cup buckwheat flour"
+        },
+        {
+            "2": "0.5 teaspoons white sugar"
+        },
+        {
+            "3": "1 teaspoon baking powder"
+        },
+        {
+            "4": "0.25 teaspoon baking soda"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "0.25 cups buttermilk"
+        },
+        {
+            "7": "1  large egg, beaten"
+        },
+        {
+            "8": "0.25 teaspoon vanilla extract"
+        },
+        {
+            "9": "1 tablespoon unsalted butter, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk buckwheat flour, sugar, baking powder, baking soda, and salt together in a medium bowl."
+        },
+        {
+            "2": "Beat buttermilk, egg, and vanilla together in a large bowl. Pour flour mixture into buttermilk mixture; whisk until batter is thick and smooth. Let batter rest until bubbles form and batter relaxes, about 5 minutes"
+        },
+        {
+            "3": "Melt butter on a griddle over medium heat."
+        },
+        {
+            "4": "Drop batter by large spoonfuls onto the hot griddle and cook until bubbles form and the edges dry, 3 to 4 minutes. Flip and cook until browned on the other side, 2 to 3 minutes. Repeat with remaining batter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "196"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4cbb96ef80f6b5d4c2db480d33b84740%2F166101740820220820_092948.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4cbb96ef80f6b5d4c2db480d33b84740%2F1646147491image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9173532.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9173757.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/S2Gyvo-t-3m4XjNkuF-cQ8b65_0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/241553-buckwheat-pancakes-ddmfs-1x1-1-fcf84b399c7f40da8d0045caca5aa4b0.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

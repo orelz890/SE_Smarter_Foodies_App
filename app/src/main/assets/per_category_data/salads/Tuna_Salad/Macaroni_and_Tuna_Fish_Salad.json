@@ -1,0 +1,81 @@
+{
+    "title": "Macaroni and Tuna Fish Salad",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package macaroni"
+        },
+        {
+            "2": "2 (5 ounce) cans tuna, drained"
+        },
+        {
+            "3": "3 tablespoons mayonnaise, or to taste"
+        },
+        {
+            "4": "1  onion, finely chopped (Optional)"
+        },
+        {
+            "5": "1 salt and ground black pepper to taste"
+        },
+        {
+            "6": "1 pinch garlic powder, or to taste"
+        },
+        {
+            "7": "1 pinch dried oregano, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add macaroni and cook for 8 to 10 minutes or until al dente; drain and cool under running water."
+        },
+        {
+            "2": "Mix both cans of tuna into the cooled pasta. Add the mayonnaise. Stir in onion, salt, pepper, garlic powder, and oregano."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "13 mins"
+        },
+        {
+            "Total Time": "23 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "301"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "45g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9191862.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7279030.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1838852.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F128251.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

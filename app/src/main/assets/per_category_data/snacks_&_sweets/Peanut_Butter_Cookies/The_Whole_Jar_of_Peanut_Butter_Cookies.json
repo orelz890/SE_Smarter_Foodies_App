@@ -1,0 +1,87 @@
+{
+    "title": "The Whole Jar of Peanut Butter Cookies",
+    "Category": "Peanut Butter Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup butter, softened"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "1 cup packed brown sugar"
+        },
+        {
+            "4": "2  eggs"
+        },
+        {
+            "5": "1  egg yolk"
+        },
+        {
+            "6": "2 teaspoons vanilla extract"
+        },
+        {
+            "7": "1 (18 ounce) jar peanut butter"
+        },
+        {
+            "8": "2 cups all-purpose flour"
+        },
+        {
+            "9": "1 teaspoon baking soda"
+        },
+        {
+            "10": "0.5 teaspoon salt"
+        },
+        {
+            "11": "1 cup chopped peanuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, cream butter, white sugar, and brown sugar until smooth. Add the eggs, yolks, and vanilla; mix until fluffy. Stir in peanut butter. Sift together the flour, baking soda, and salt; stir into the peanut butter mixture. Finally, stir in the peanuts. Refrigerate the dough for at least 2 hours."
+        },
+        {
+            "2": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a cookie sheet."
+        },
+        {
+            "3": "Roll dough into walnut sized balls. Place on the prepared cookie sheet and flatten slightly with a fork. Bake for 12 to 15 minutes in the preheated oven. Cookies should look dry on top. Allow to cool for a few minutes on the cookie sheet before removing to cool completely on a rack. These cookies taste great when slightly undercooked."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "30 "
+        },
+        {
+            "Yield": "5 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "272"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9164541.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8082762.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9115030.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9074684.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

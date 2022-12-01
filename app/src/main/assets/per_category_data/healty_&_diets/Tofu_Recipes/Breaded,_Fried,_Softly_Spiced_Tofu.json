@@ -1,0 +1,96 @@
+{
+    "title": "Breaded, Fried, Softly Spiced Tofu",
+    "Category": "Tofu Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package extra-firm tofu, drained and pressed"
+        },
+        {
+            "2": "2 cups vegetable broth"
+        },
+        {
+            "3": "3 tablespoons vegetable oil"
+        },
+        {
+            "4": "0.5 cup all-purpose flour"
+        },
+        {
+            "5": "3 tablespoons nutritional yeast"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "0.5 teaspoon freshly ground black pepper"
+        },
+        {
+            "8": "1 teaspoon sage"
+        },
+        {
+            "9": "0.5 teaspoon cayenne pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cut pressed tofu into 1/2-inch thick slices; then cut again into 1/2-inch wide sticks. Place tofu in a bowl, and pour broth over the top. Set aside to soak."
+        },
+        {
+            "2": "In a separate bowl, stir together flour, yeast, salt, pepper, sage, and cayenne."
+        },
+        {
+            "3": "Warm oil in a large skillet over medium-high heat."
+        },
+        {
+            "4": "Remove tofu sticks from broth, and squeeze most (but not all) of the liquid from them. Roll sticks in breading. (You may have to roll sticks twice to end up with a fairly dry outer layer of breading.) Place tofu in hot oil; fry until crisp and browned on all sides. Add more oil if necessary."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "285"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7652949.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7628685.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff16b94013883f5857ae62d6b4da7bf23%2F5920019.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5733925.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/6weirt0BgS2Ue61h8kRe_BsotDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5215504-2db4e63883b84ad2935b7a456ad3363b.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

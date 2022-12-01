@@ -1,0 +1,84 @@
+{
+    "title": "Whole Lime Margarita",
+    "Category": "Margaritas",
+    "Ingredients": [
+        {
+            "1": "2 medium thin-skinned limes"
+        },
+        {
+            "2": "2 cups ice cold water"
+        },
+        {
+            "3": "1 cup tequila"
+        },
+        {
+            "4": "0.5 cup white sugar"
+        },
+        {
+            "5": "0.25 cup orange-flavored liqueur (such as Cointreau)"
+        },
+        {
+            "6": "0.25 teaspoon kosher salt"
+        },
+        {
+            "7": "3 cups ice, or as needed"
+        },
+        {
+            "8": "6 slices  lime"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cut limes into quarters; remove and discard the center part of the rinds. Transfer lime quarters to a blender with cold water, tequila, sugar, orange-flavored liqueur, and salt. Blend until completely smooth, about 1 minute."
+        },
+        {
+            "2": "Strain mixture into a large measuring cup or small pitcher. Serve over ice and garnish with lime slices."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 margaritas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "189"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F22559c029546e7d55e284d990231654a%2F166233736320220904_191707.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F22559c029546e7d55e284d990231654a%2F166043340620220731_115721.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F22559c029546e7d55e284d990231654a%2F165801029020220716_175612.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9178272.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/LKvbvGmpdPjs9J5e7tU9jT69d4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR_GC_LimeMargarita-STILL-DSC00240-1-2000-c644e670b2044e978060375a90c35ff1.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/LKvbvGmpdPjs9J5e7tU9jT69d4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR_GC_LimeMargarita-STILL-DSC00240-1-2000-c644e670b2044e978060375a90c35ff1.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

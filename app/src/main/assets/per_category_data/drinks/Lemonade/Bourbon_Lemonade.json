@@ -1,0 +1,65 @@
+{
+    "title": "Bourbon Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "0.25 cup hot water"
+        },
+        {
+            "2": "2 tablespoons brown sugar"
+        },
+        {
+            "3": "0.5 fluid ounces freshly squeezed lemon juice"
+        },
+        {
+            "4": "0.5 fluid ounces bourbon whiskey"
+        },
+        {
+            "5": "0.5 fluid ounce triple sec"
+        },
+        {
+            "6": "3 cups ice, divided, or as needed"
+        },
+        {
+            "7": "2 fluid ounces club soda"
+        },
+        {
+            "8": "1  lemon slice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine hot water and brown sugar in a cocktail shaker. Stir until sugar is dissolved. Add lemon juice, bourbon, triple sec, and 1 cup of ice. Cover and shake until chilled, 15 to 20 seconds."
+        },
+        {
+            "2": "Fill a highball glass with ice. Strain cocktail over ice and top with club soda. Stir to combine. Garnish with a lemon slice."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "272"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [],
+    "main category": "drinks"
+}

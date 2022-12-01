@@ -1,0 +1,72 @@
+{
+    "title": "Polynesian Watermelon Drink ('Otai)",
+    "Category": "Punch",
+    "Ingredients": [
+        {
+            "1": "1  seedless watermelon, halved and sliced"
+        },
+        {
+            "2": "3 cups water"
+        },
+        {
+            "3": "1 (15.25 ounce) can crushed pineapple"
+        },
+        {
+            "4": "1 (12 fluid ounce) can evaporated milk"
+        },
+        {
+            "5": "0.5 cup shredded coconut"
+        },
+        {
+            "6": "2 tablespoons white sugar, or to taste"
+        },
+        {
+            "7": "0.5  lime, juiced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Grate watermelon with a fork from the rind into a large bowl, leaving no large chunks. Stir water, pineapple, evaporated milk, and coconut into the grated watermelon. Add sugar; stir until dissolved. Squeeze lime juice into the watermelon mixture."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "199"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8236535.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1228621.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff30941f488705dd53ad697028f35632e%2F1126969.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

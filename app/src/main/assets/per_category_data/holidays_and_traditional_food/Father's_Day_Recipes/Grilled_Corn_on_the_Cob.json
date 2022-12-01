@@ -1,0 +1,81 @@
+{
+    "title": "Grilled Corn on the Cob",
+    "Category": "Father's Day Recipes",
+    "Ingredients": [
+        {
+            "1": "6 ears corn"
+        },
+        {
+            "2": "6 tablespoons butter, softened"
+        },
+        {
+            "3": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for high heat and lightly oil grate."
+        },
+        {
+            "2": "Peel back corn husks and remove silk. Place 1 tablespoon butter, salt and pepper on each piece of corn. Close husks."
+        },
+        {
+            "3": "Wrap each ear of corn tightly in aluminum foil."
+        },
+        {
+            "4": "Cook on the preheated grill, turning occasionally, until tender, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 ears of corn"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "179"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9215136.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8530468.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8302123.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7011355.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Hnt8bkIyTvTSnqAwUe0F869B4oM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20724-grilled-corn-on-the-cob-ddmfs-1x1-0042-4ab07e8ac4c5442e94470253ebe78527.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/Hnt8bkIyTvTSnqAwUe0F869B4oM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20724-grilled-corn-on-the-cob-ddmfs-1x1-0042-4ab07e8ac4c5442e94470253ebe78527.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

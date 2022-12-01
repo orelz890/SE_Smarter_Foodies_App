@@ -1,0 +1,72 @@
+{
+    "title": "Quick and Easy Home Fries",
+    "Category": "Breakfast and Brunch",
+    "Ingredients": [
+        {
+            "1": "3 medium russet potatoes, cubed"
+        },
+        {
+            "2": "3 tablespoons butter or margarine"
+        },
+        {
+            "3": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Rinse potato cubes with cold water and drain well."
+        },
+        {
+            "2": "Melt butter in a large skillet over medium heat. Place potatoes in the skillet and season with salt and pepper; mix well. Cover and cook for 10 minutes."
+        },
+        {
+            "3": "Remove the lid and cook, turning frequently, until brown and crisp on all sides, about 10 more minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "199"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fad800e5bb0123383fe98682716bb7d69%2F1661515558Screenshot_2022-08-26-08-04-19-00_92460851df6f172a4592fca41cc2d2e6.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fad800e5bb0123383fe98682716bb7d69%2F1658463173IMG_20220721_211217.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fad800e5bb0123383fe98682716bb7d69%2F1658410671PXL_20220721_133630881.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9417387.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/3p5AKpnCXdsB7G-CuNrs1F8DS4Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2130027-quick-and-easy-home-fries-kenzi-1x1-1-5fa38d001133419c857ef40bb720454d.jpg"
+        }
+    ],
+    "main category": "breakfast"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Dump Cake",
+    "Category": "Cake Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (21 ounce) can cherry pie filling"
+        },
+        {
+            "2": "1 (15 ounce) can crushed pineapple"
+        },
+        {
+            "3": "1 (15.25 ounce) package yellow cake mix"
+        },
+        {
+            "4": "8 ounces chopped walnuts"
+        },
+        {
+            "5": "0.5 cup butter, melted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Mix cherries and pineapple in a 9x13-inch pan. Sprinkle dry cake mix over pineapple and cherry mixture; stir until just combined. Sprinkle walnuts over the top and drizzle with melted butter."
+        },
+        {
+            "3": "Bake in the preheated oven until golden brown on top, about 35 to 40 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "1 9x13-inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "228"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fba87b35bf7c1dcc301a2b5cdcd7e2afb%2F164980993720220412_192326.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8635168.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8248498.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7390602.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/rXnYjpUOddNwKxn0Jsq3ZjPb8Xg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216873-e45acf34ff1344269de0b422c07a3e7e.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "My Favorite Sloppy Joes",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "1 cup ketchup"
+        },
+        {
+            "3": "0.25 cup dried minced onion"
+        },
+        {
+            "4": "3 tablespoons brown sugar, or to taste"
+        },
+        {
+            "5": "2 tablespoons spicy brown mustard"
+        },
+        {
+            "6": "1 tablespoon Worcestershire sauce, or more to taste"
+        },
+        {
+            "7": "1 tablespoon liquid smoke flavoring"
+        },
+        {
+            "8": "1 teaspoon minced garlic"
+        },
+        {
+            "9": "1 cup beef broth"
+        },
+        {
+            "10": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook and stir ground beef in a skillet over medium heat until meat is browned and crumbly, about 10 minutes; drain excess grease. Mix ketchup, dried onion, brown sugar, mustard, Worcestershire sauce, smoke flavoring, and garlic into beef, stirring until brown sugar has dissolved."
+        },
+        {
+            "2": "Stir beef broth into beef mixture and bring to a boil; reduce heat to low and simmer until thick, about 30 minutes. Season with salt and black pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "248"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8614fcbee763e231e600eca1e22321f2%2F1657159516image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8614fcbee763e231e600eca1e22321f2%2F16554228484C98EA3C-10CB-491F-86C6-9B7013657F5B.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8614fcbee763e231e600eca1e22321f2%2F1655422078image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9292902.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

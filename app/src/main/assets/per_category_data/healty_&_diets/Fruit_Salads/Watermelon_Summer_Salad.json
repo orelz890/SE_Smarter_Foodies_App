@@ -1,0 +1,78 @@
+{
+    "title": "Watermelon Summer Salad",
+    "Category": "Fruit Salads",
+    "Ingredients": [
+        {
+            "1": "0.75 cup halved, thinly sliced red onion"
+        },
+        {
+            "2": "1 tablespoon fresh lime juice"
+        },
+        {
+            "3": "0.5 quarts seeded, cubed watermelon"
+        },
+        {
+            "4": "0.75 cup crumbled feta cheese"
+        },
+        {
+            "5": "0.5 cup pitted black olive halves"
+        },
+        {
+            "6": "1 cup chopped fresh mint"
+        },
+        {
+            "7": "2 tablespoons olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the onion slices in a small bowl with the lime juice. The acid of the lime will mellow the flavor of the raw onion. Let stand for 10 minutes."
+        },
+        {
+            "2": "In a large bowl, combine the watermelon cubes, feta cheese, black olives, onions with the lime juice, and mint. Drizzle olive oil over it all, and toss to blend. Dig in and be prepared for a pleasant surprise!"
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "157"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9291781.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6792402.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6777271.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5524580.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

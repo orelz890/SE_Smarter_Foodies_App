@@ -1,0 +1,81 @@
+{
+    "title": "Low-Fat Taco Salad",
+    "Category": "Taco Salad",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon light olive oil"
+        },
+        {
+            "2": "2 cloves garlic, minced"
+        },
+        {
+            "3": "1 (14.5 ounce) can diced tomatoes"
+        },
+        {
+            "4": "1 (12 ounce) package vegetarian ground beef crumbles (such as MorningStar Farms\u00ae Griller's Recipe Crumbles\u00ae)"
+        },
+        {
+            "5": "1 (1 ounce) package taco seasoning"
+        },
+        {
+            "6": "6 cups shredded lettuce"
+        },
+        {
+            "7": "2 cups non-fat cottage cheese"
+        },
+        {
+            "8": "1 cup shredded non-fat cheddar cheese"
+        },
+        {
+            "9": "2 tablespoons taco sauce, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a skillet over medium-high heat. Saute garlic in hot oil until fragrant and slightly softened, about 2 minutes. Add diced tomatoes, vegetarian ground beef crumbles, and taco seasoning; cook and stir until tomatoes are soft, about 10 minutes."
+        },
+        {
+            "2": "Divide lettuce between two bowls and top each with half the tomato mixture. Surround tomato mixture with cottage cheese and sprinkle Cheddar cheese over the top; season with taco sauce."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "687"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "80g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffe06ab387186c764e209bef8d829d20c%2F6417044.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4541802.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

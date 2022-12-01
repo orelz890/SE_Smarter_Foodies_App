@@ -1,0 +1,87 @@
+{
+    "title": "Scotch Scones",
+    "Category": "Scones",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "0.75 cup white sugar"
+        },
+        {
+            "3": "1 tablespoon baking powder"
+        },
+        {
+            "4": "1 salt"
+        },
+        {
+            "5": "0.75 cup butter"
+        },
+        {
+            "6": "0.5 cup raisins"
+        },
+        {
+            "7": "1  egg"
+        },
+        {
+            "8": "0.25 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, stir together the flour, sugar, baking powder, and salt. Cut in butter by rubbing the mixture between your fingers until the mixture is fine and crumbly; stir in the raisins. In a small bowl, mix together the egg and milk; mix with dry ingredients to form a soft dough."
+        },
+        {
+            "2": "On a lightly floured surface, roll the dough out to 1/4 inch in thickness. Dip cutter into flour, and stamp out scones. You may need to re roll the dough to get 12."
+        },
+        {
+            "3": "Heat dry non-stick griddle over medium heat. Cook each side of the scone until slightly raised and golden brown in color. Transfer to a wire rack to cool."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 scones"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "255"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9141412.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8832321.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8832345.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6796847.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

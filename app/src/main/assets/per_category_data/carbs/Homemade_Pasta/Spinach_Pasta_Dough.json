@@ -1,0 +1,81 @@
+{
+    "title": "Spinach Pasta Dough",
+    "Category": "Homemade Pasta",
+    "Ingredients": [
+        {
+            "1": "1.0 cups spinach, washed and stemmed"
+        },
+        {
+            "2": "2 tablespoons water, or more as needed"
+        },
+        {
+            "3": "1.0 cups Italian-style tipo 00 flour"
+        },
+        {
+            "4": "3 large eggs"
+        },
+        {
+            "5": "1 pinch salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place spinach and water in a skillet over medium-low heat. Cover and simmer, stirring once, until spinach is wilted, about 10 minutes. Drain and let cool, about 10 minutes. Squeeze out as much water as possible, getting the spinach very dry. Chop spinach very finely."
+        },
+        {
+            "2": "Place flour on a marble or wooden work surface. Make a well in the center and crack in the eggs; add the salt and finely chopped spinach. Gently beat eggs with a fork, incorporating the surrounding flour and spinach, until batter is runny. Bring remaining flour into the batter using a bench scraper until dough forms a ball. Mix in water, 1 tablespoon at a time, if dough feels too stiff."
+        },
+        {
+            "3": "Knead dough with your hands by flattening the ball, stretching it and folding the top towards the center. Turn 45 degrees and repeat until dough is soft and smooth, about 10 minutes."
+        },
+        {
+            "4": "Shape dough into a ball. Place in a bowl and cover with plastic wrap. Refrigerate until firm, at least 1 hour."
+        },
+        {
+            "5": "Roll out the dough with pasta machine or with a rolling pin and turn into your favorite pasta shape."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "1 pound of pasta dough"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "329"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "55g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5333146.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://www.allrecipes.com/thmb/ZuWP8EBcv-2MsnnF0wzzUcL-ryk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5333146-7b7f3641de7a4d3b828007fb7f016eb9.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

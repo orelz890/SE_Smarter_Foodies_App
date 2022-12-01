@@ -1,0 +1,96 @@
+{
+    "title": "Old Fashioned Raisin Pie",
+    "Category": "Pie Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups raisins"
+        },
+        {
+            "2": "2 cups water"
+        },
+        {
+            "3": "0.5 cup packed brown sugar"
+        },
+        {
+            "4": "2 tablespoons cornstarch"
+        },
+        {
+            "5": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "6": "0.25 teaspoon salt"
+        },
+        {
+            "7": "1 tablespoon distilled white vinegar"
+        },
+        {
+            "8": "1 tablespoon butter"
+        },
+        {
+            "9": "1 (14.1 ounce) package double-crust pie pastry, thawed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "2": "Combine raisins and water in a small saucepan. Boil 5 minutes."
+        },
+        {
+            "3": "Mix brown sugar, cornstarch, cinnamon, and salt together; add to hot raisins. Cook and stir until syrup is clear. Remove from heat, and stir in vinegar and butter. Cool slightly."
+        },
+        {
+            "4": "Turn filling into a pastry-lined pie dish. Cover with top crust. Seal edges and cut slits in the top crust."
+        },
+        {
+            "5": "Bake in the preheated oven for 30 to 35 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "409"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "65g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2f39c53df854ae76a43191f4ec1ff97e%2F164803866816480386524565576540284572663557.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8629067.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8476054.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc068b4a7dacc0a3ce96492c27ce8198d%2F7360272.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

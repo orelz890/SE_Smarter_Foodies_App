@@ -1,0 +1,84 @@
+{
+    "title": "Cream Cheese-Filled Cupcakes",
+    "Category": "Cupcakes",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "1 cup semisweet chocolate chips"
+        },
+        {
+            "5": "1 (18.25 ounce) package chocolate cake mix"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C) or the temperature recommended on the cake mix package. Line a 12-cup muffin tin with paper liners."
+        },
+        {
+            "2": "Cream together cream cheese and sugar in a mixing bowl until smooth. Beat in egg until well blended, then stir in chocolate chips."
+        },
+        {
+            "3": "Prepare chocolate cake mix according to package directions, but do not bake."
+        },
+        {
+            "4": "Fill the prepared muffin cups 2/3 full with chocolate cake batter. Add 1 teaspoon cream cheese mixture to the center, then top with more chocolate cake batter."
+        },
+        {
+            "5": "Bake in the preheated oven according to package directions for cupcakes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 cupcakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "355"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7160431.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6333647.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2e7db3fc65fdfdd6052c0bc9b170f00f%2F6332798.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5997531.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

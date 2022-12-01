@@ -1,0 +1,111 @@
+{
+    "title": "Slow Cooker Oxtail Stew",
+    "Category": "Beef Stew",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon vegetable oil"
+        },
+        {
+            "2": "3 pounds beef oxtail, cut into pieces"
+        },
+        {
+            "3": "0.5 pounds russet potatoes, peeled and cut into chunks"
+        },
+        {
+            "4": "4  carrots, peeled and cut into large chunks"
+        },
+        {
+            "5": "3 stalks celery, cut into large chunks"
+        },
+        {
+            "6": "1  onion, chopped"
+        },
+        {
+            "7": "1 (15 ounce) can tomato sauce"
+        },
+        {
+            "8": "1 cup beef broth"
+        },
+        {
+            "9": "0.5 cup dry red wine"
+        },
+        {
+            "10": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "11": "1 tablespoon Worcestershire sauce"
+        },
+        {
+            "12": "1 teaspoon dried thyme"
+        },
+        {
+            "13": "0.5 teaspoon smoked paprika"
+        },
+        {
+            "14": "1 (8 ounce) package sliced mushrooms"
+        },
+        {
+            "15": "1 cup frozen peas"
+        },
+        {
+            "16": "1 pinch salt and freshly ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large skillet over medium-high heat. Sear oxtail for 4 minutes. Flip and continue cooking until browned on all sides, about 4 minutes. Transfer oxtail to a slow cooker."
+        },
+        {
+            "2": "Add potatoes, carrots, celery, onion, tomato sauce, beef broth, red wine, parsley, Worcestershire sauce, thyme, and paprika."
+        },
+        {
+            "3": "Cook on Low for 7 hours. Add mushrooms and peas. Cook for 1 additional hour."
+        },
+        {
+            "4": "Ladle into bowls and season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 8 hrs 10 mins"
+        },
+        {
+            "Total Time": " 8 hrs 30 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "241"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8395538.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7619339.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7593532.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6715210.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

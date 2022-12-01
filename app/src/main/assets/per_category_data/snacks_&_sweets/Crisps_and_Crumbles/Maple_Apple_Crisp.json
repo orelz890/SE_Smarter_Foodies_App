@@ -1,0 +1,84 @@
+{
+    "title": "Maple Apple Crisp",
+    "Category": "Crisps and Crumbles",
+    "Ingredients": [
+        {
+            "1": "5  apples - peeled, cored, and sliced"
+        },
+        {
+            "2": "0.75 cup maple syrup"
+        },
+        {
+            "3": "0.5 cup all-purpose flour"
+        },
+        {
+            "4": "0.5 cup rolled oats"
+        },
+        {
+            "5": "0.5 cup brown sugar"
+        },
+        {
+            "6": "1 pinch salt"
+        },
+        {
+            "7": "0.5 cup butter, softened"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Place apples in an 8x8 inch baking dish. Toss apples with syrup. In a separate bowl, mix together flour, oats, sugar, and salt. Cut in butter until mixture is crumbly. Sprinkle mixture evenly over apples."
+        },
+        {
+            "3": "Bake in the preheated oven for 35 minutes, until topping is golden brown. Serve warm or at room temperature."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "317"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8986090.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8645550.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7935274.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7730578.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

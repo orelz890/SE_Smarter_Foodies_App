@@ -1,0 +1,90 @@
+{
+    "title": "Minestrone Soup",
+    "Category": "Minestrone Soup",
+    "Ingredients": [
+        {
+            "1": "4 cups vegetable stock"
+        },
+        {
+            "2": "2 (14.5 ounce) cans stewed tomatoes"
+        },
+        {
+            "3": "1 large potato, cubed"
+        },
+        {
+            "4": "1  onion, chopped"
+        },
+        {
+            "5": "2 stalks celery, chopped"
+        },
+        {
+            "6": "2  carrots, chopped"
+        },
+        {
+            "7": "1 large head cabbage, finely chopped"
+        },
+        {
+            "8": "2 tablespoons Italian seasoning"
+        },
+        {
+            "9": "1 (15 ounce) can kidney beans"
+        },
+        {
+            "10": "3 cups fresh corn kernels"
+        },
+        {
+            "11": "1 large zucchini, sliced"
+        },
+        {
+            "12": "1 cup uncooked orzo pasta"
+        },
+        {
+            "13": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large soup pot combine the vegetable stock, the undrained tomatoes, potato, onion, celery, carrot, cabbage and Italian seasoning. Bring to a boil and reduce heat. Simmer for about 15 minutes."
+        },
+        {
+            "2": "Stir in the beans, corn, zucchini and pasta; simmer for 10 to 15 more minutes until the vegetables are tender. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "9 "
+        },
+        {
+            "Yield": "8 to 10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "399"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "81g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7670735.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7633031.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7314776.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7314771.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

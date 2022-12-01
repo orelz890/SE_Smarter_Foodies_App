@@ -1,0 +1,96 @@
+{
+    "title": "Spinach Brownies",
+    "Category": "Road Trip Snacks",
+    "Ingredients": [
+        {
+            "1": "1 (10 ounce) package spinach, rinsed and chopped"
+        },
+        {
+            "2": "1 cup all-purpose flour"
+        },
+        {
+            "3": "1 teaspoon salt"
+        },
+        {
+            "4": "1 teaspoon baking powder"
+        },
+        {
+            "5": "2  eggs"
+        },
+        {
+            "6": "1 cup milk"
+        },
+        {
+            "7": "0.5 cup butter, melted"
+        },
+        {
+            "8": "1  onion, chopped"
+        },
+        {
+            "9": "1 (8 ounce) package shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C). Lightly grease a 9x13 inch baking dish."
+        },
+        {
+            "2": "Place spinach in a medium saucepan with enough water to cover. Bring to a boil. Lower heat to simmer and cook until spinach is limp, about 3 minutes. Remove from heat, drain, and set aside."
+        },
+        {
+            "3": "In a large bowl, mix flour, salt and baking powder. Stir in eggs, milk and butter. Mix in spinach, onion and mozzarella cheese."
+        },
+        {
+            "4": "Transfer the mixture to the prepared baking dish. Bake in the preheated oven 30 to 35 minutes, or until a toothpick inserted in the center comes out clean. Cool before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "92"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9204262.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9183373.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8932609.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8835092.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/nqgZvvhKfQyavkjE6eP50QoEC6g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-157-52bb8be715d1464eb2b18c8b2dd15dd5.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

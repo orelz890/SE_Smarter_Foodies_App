@@ -1,0 +1,84 @@
+{
+    "title": "The Best Banana Pudding",
+    "Category": "Thanksgiving Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups cold milk"
+        },
+        {
+            "2": "1 (5 ounce) package instant vanilla pudding mix"
+        },
+        {
+            "3": "1 (14 ounce) can sweetened condensed milk"
+        },
+        {
+            "4": "1 tablespoon vanilla extract"
+        },
+        {
+            "5": "1 (12 ounce) container frozen whipped topping, thawed"
+        },
+        {
+            "6": "1 (16 ounce) package vanilla wafers"
+        },
+        {
+            "7": "14  bananas, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place milk and pudding mix in a large bowl; beat with a whisk for 2 minutes. Blend in condensed milk until smooth. Stir in vanilla, then fold in whipped topping."
+        },
+        {
+            "2": "Layer wafers, banana slices, and pudding mixture in a glass serving bowl. Chill until serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "20 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "329"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0360509ae92705204b3973cd12d44ae5%2F166623148126120221019_163024.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F607dd1b808c985db6cd65c30f560f5c4%2F1663204575FF38DBAB-2645-43FE-88EC-C12CF3339F14.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F607dd1b808c985db6cd65c30f560f5c4%2F166277311916627729562234294120044710243286.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F607dd1b808c985db6cd65c30f560f5c4%2F1662178213AF57F7DC-46E6-4098-B6C8-2EF66EA2F0E1.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/JOa6DCQtEJiRtYcFC0F98-9q5tE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22749-the-best-banana-pudding-mfs-365-64102345d4884380aa2dcaf0e2042f48.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/DIeBEypOju7w86nfRPiOkp1zsRo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/771986-daafa15bee484e5896705c6bb9ed3a6b.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/sabiTRBOwretZcpEEhqTQTPlhQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22749-the-best-banana-pudding-mfs-366-1x1-1-bb516f0ff14249e4ba0b220cb12eb30c.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

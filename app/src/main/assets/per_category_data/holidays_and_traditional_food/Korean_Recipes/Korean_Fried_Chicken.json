@@ -1,0 +1,120 @@
+{
+    "title": "Korean Fried Chicken",
+    "Category": "Korean Recipes",
+    "Ingredients": [
+        {
+            "1": "1 Marinade-"
+        },
+        {
+            "2": "1 pound skinless, boneless chicken thighs, quartered"
+        },
+        {
+            "3": "0.5  yellow onion, grated"
+        },
+        {
+            "4": "4 cloves garlic, minced"
+        },
+        {
+            "5": "1 teaspoon fine salt"
+        },
+        {
+            "6": "0.5 teaspoon freshly ground black pepper"
+        },
+        {
+            "7": "1 Other-"
+        },
+        {
+            "8": "4 cups oil for frying, or as needed"
+        },
+        {
+            "9": "1 Batter-"
+        },
+        {
+            "10": "0.75 cup cornstarch"
+        },
+        {
+            "11": "0.5 cup self-rising flour"
+        },
+        {
+            "12": "1 teaspoon white sugar"
+        },
+        {
+            "13": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "14": "0.25 teaspoon salt"
+        },
+        {
+            "15": "1 cup very cold water, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Make marinade: Stir together chicken, onion, garlic, salt, and pepper in a medium bowl until chicken is coated. Cover the bowl with plastic wrap and refrigerate, 4 hours to overnight."
+        },
+        {
+            "2": "Heat oil in a deep fryer or large saucepan to 340 degrees F (171 degrees C)."
+        },
+        {
+            "3": "While oil is heating, make batter: Whisk together cornstarch, flour, sugar, pepper, and salt in a large bowl. Gradually whisk in cold water until mixture resembles smooth pancake batter. Use tongs to remove chicken from marinade to batter; stir to coat chicken completely. Discard marinade."
+        },
+        {
+            "4": "Working in batches, fry chicken in hot oil for 4 minutes. Transfer chicken to a cooling rack."
+        },
+        {
+            "5": "Increase oil temperature to 375 degrees F (190 degrees C)."
+        },
+        {
+            "6": "Working in batches, fry chicken again in hot oil until golden brown and crispy, 3 to 4 minutes. Transfer to a wire rack to drain."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "472"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F63e487c4bbb20d01a5c7b60769b4ad43%2F165480768620220609_161428.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9329581.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9317730.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9306552.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/PL1QU40yo8g3jiNp4UyxdjX6RhA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3548113-27ff7c80bbe04d63b5ea5a3dd76d271d.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

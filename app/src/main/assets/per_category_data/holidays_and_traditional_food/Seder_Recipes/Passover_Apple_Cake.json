@@ -1,0 +1,96 @@
+{
+    "title": "Passover Apple Cake",
+    "Category": "Seder Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup vegetable oil"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "2 large eggs"
+        },
+        {
+            "4": "0.5 cups matzo meal"
+        },
+        {
+            "5": "0.5 cup potato starch"
+        },
+        {
+            "6": "2 teaspoons ground cinnamon, divided"
+        },
+        {
+            "7": "8 large apples - peeled, cored and sliced"
+        },
+        {
+            "8": "0.5 cup brown sugar, or more as needed"
+        },
+        {
+            "9": "0.5 teaspoon ground nutmeg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C ). Grease a 9x13-inch glass baking dish."
+        },
+        {
+            "2": "Beat oil, sugar, and eggs in a large bowl with an electric mixer until well combined. Stir in matzo meal, potato starch, and 1 teaspoon cinnamon until incorporated. Set aside."
+        },
+        {
+            "3": "Toss apples with brown sugar, remaining 1 teaspoon cinnamon, and nutmeg in a separate large bowl."
+        },
+        {
+            "4": "Layer 1/2 of the dough into the prepared baking dish. Pour apple mixture on top, then pat remaining dough over apples. Sprinkle with some brown sugar, if desired."
+        },
+        {
+            "5": "Bake in the preheated oven for 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "426"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "64g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7942020.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2188265.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F204888.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6dcedab84db26c6e790b39996a9bcc19%2F72559.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ubPJUFEkVYyrQICpIwSqj_5RRlE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/204888-ef59da44c77b415794a7c7b01be9691d.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Slippery Nipples",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "0.75 fluid ounce butterscotch schnapps"
+        },
+        {
+            "2": "0.75 fluid ounce Irish cream liqueur"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour butterscotch schnapps into a shot glass, then top with Irish cream liqueur."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "1 mins"
+        },
+        {
+            "Total Time": "1 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F01baa71621b7e9e938e1fd8c1e48651f%2F6609990.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F31b1922fc9183ed4fec592a98371ac74%2F613969.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F613969.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

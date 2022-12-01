@@ -1,0 +1,99 @@
+{
+    "title": "Black Bean Tacos",
+    "Category": "Tacos",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "1 small onion, chopped"
+        },
+        {
+            "3": "1 (15 ounce) can black beans, rinsed and drained"
+        },
+        {
+            "4": "1 (7 ounce) can green salsa (salsa verde)"
+        },
+        {
+            "5": "0.5 teaspoon garlic powder"
+        },
+        {
+            "6": "0.5 teaspoon chili powder"
+        },
+        {
+            "7": "0.5 teaspoon ground cumin"
+        },
+        {
+            "8": "6  taco shells (Optional)"
+        },
+        {
+            "9": "2 ounces shredded Mexican cheese blend (Optional)"
+        },
+        {
+            "10": "1  tomato, diced (Optional)"
+        },
+        {
+            "11": "1  avocado, sliced (Optional)"
+        },
+        {
+            "12": "1 cup shredded lettuce (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a saucepan over medium-low heat; cook onion in hot oil until tender, about 5 minutes. Stir black beans, green salsa, garlic powder, chili powder, and cumin with the onion. Reduce heat to low and cook the mixture at a simmer until it thickens, 5 to 10 minutes."
+        },
+        {
+            "2": "Serve with taco shells, Mexican cheese blend, tomato, avocado, and shredded lettuce."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "402"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7782789.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5368123.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa417288155d72d6747e4aa4e3f00472f%2F5298355.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4472548.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/_lVJCrXRGgJgjT8QSJWSTWM3s2c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5368123-black-bean-tacos-Buckwheat-Queen-1x1-1-2126c468b2c2405c9f2d690d00d7a754.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

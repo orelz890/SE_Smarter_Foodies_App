@@ -1,0 +1,75 @@
+{
+    "title": "Twisted Chicken Salad with Tostadas",
+    "Category": "Tostadas",
+    "Ingredients": [
+        {
+            "1": "1 vegetable oil for frying"
+        },
+        {
+            "2": "10  corn tortillas"
+        },
+        {
+            "3": "1 (10 ounce) can chunk chicken, drained and flaked"
+        },
+        {
+            "4": "0.5 cup mayonnaise"
+        },
+        {
+            "5": "1.0 tablespoons canned jalapeno pepper slices, undrained"
+        },
+        {
+            "6": "1 tablespoon pickled jalapeno pepper juice"
+        },
+        {
+            "7": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large heavy skillet over medium-high heat. One at a time, slip a tortilla into the hot oil. If the tortilla starts to puff up, press it down with a fork. When crisp and brown, remove to paper towels. Repeat with remaining tortillas."
+        },
+        {
+            "2": "Place the chicken in a bowl, and separate with a fork. Stir in the mayonnaise. Dice the jalapenos (reserving the liquid), and stir them into chicken salad. Pour in 1 tablespoon jalapeno juice, season with salt and pepper, and stir well. To serve, spread the chicken salad on the tostadas."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "369"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5374563.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F870741.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

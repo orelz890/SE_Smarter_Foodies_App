@@ -1,0 +1,81 @@
+{
+    "title": "Vitamix\u00ae Eggnog",
+    "Category": "Eggnog",
+    "Ingredients": [
+        {
+            "1": "4  eggs"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "0.5 cup rum, or to taste"
+        },
+        {
+            "4": "4 cups milk"
+        },
+        {
+            "5": "1 tablespoon ground nutmeg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whip eggs, sugar, and rum in high-powered blender on High until a thick custard forms, about 4 minutes."
+        },
+        {
+            "2": "Pour milk and add nutmeg to the custard; blend on Medium until well-mixed, about 2 minutes. Increase the speed to High for 1 minute."
+        },
+        {
+            "3": "Chill for 4 hours before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "7 mins"
+        },
+        {
+            "Additional Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 12 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "5 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "293"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8906085.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2ebb37c612d4fec664efda890e767c1c%2F7537522.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2785306.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2749289.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

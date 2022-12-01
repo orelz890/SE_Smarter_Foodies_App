@@ -1,0 +1,99 @@
+{
+    "title": "Chef John's Waldorf Salad",
+    "Category": "Waldorf Salad",
+    "Ingredients": [
+        {
+            "1": "1 Dressing-"
+        },
+        {
+            "2": "0.75 cup mayonnaise"
+        },
+        {
+            "3": "0.25 cup creme fraiche"
+        },
+        {
+            "4": "0.5  lemon, juiced"
+        },
+        {
+            "5": "1 tablespoon finely chopped tarragon"
+        },
+        {
+            "6": "0.5 teaspoon white sugar"
+        },
+        {
+            "7": "0.25 teaspoon salt"
+        },
+        {
+            "8": "1 pinch freshly ground black pepper"
+        },
+        {
+            "9": "1 pinch cayenne pepper"
+        },
+        {
+            "10": "1 Salad-"
+        },
+        {
+            "11": "2 large crisp, sweet apples, cut into 1/2-inch cubes"
+        },
+        {
+            "12": "1 cup cubed (1/4 inch) celery root, soaked briefly in cold water, drained well"
+        },
+        {
+            "13": "1 cup quartered seedless green grapes"
+        },
+        {
+            "14": "0.5 cup toasted walnut pieces"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk mayonnaise, creme fraiche, lemon juice, tarragon, sugar, salt, black pepper, and cayenne together in a bowl."
+        },
+        {
+            "2": "Place apples, celery root, grapes, and walnut pieces in a large bowl. Toss with about 1/2 cup of dressing. Add more dressing until salad components are well coated but not swimming in dressing. You might not need all the dressing."
+        },
+        {
+            "3": "Serve immediately or cover and refrigerate for up to 24 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "547"
+        },
+        {
+            "Fat": "49g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4349204.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3282037.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://www.allrecipes.com/thmb/wl9Js3pnlDEwEVQZwgW-LpKBZpM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3282037-2498cebf67aa46feb64ceada055b63e6.jpg"
+        }
+    ],
+    "main category": "salads"
+}

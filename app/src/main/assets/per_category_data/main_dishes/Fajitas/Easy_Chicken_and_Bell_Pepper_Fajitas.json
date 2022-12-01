@@ -1,0 +1,87 @@
+{
+    "title": "Easy Chicken and Bell Pepper Fajitas",
+    "Category": "Fajitas",
+    "Ingredients": [
+        {
+            "1": "0.5 teaspoons garlic powder"
+        },
+        {
+            "2": "0.5 teaspoons chili powder"
+        },
+        {
+            "3": "0.5 teaspoon paprika"
+        },
+        {
+            "4": "0.5 teaspoon dried basil"
+        },
+        {
+            "5": "10 ounces chicken tenderloins, sliced into strips"
+        },
+        {
+            "6": "2 tablespoons vegetable oil"
+        },
+        {
+            "7": "1 cup chopped onion"
+        },
+        {
+            "8": "0.5 cup chopped green bell pepper"
+        },
+        {
+            "9": "0.5 cup chopped red bell pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix garlic powder, chili powder, paprika, and basil in a large bowl. Add chicken strips; stir to coat with garlic powder mixture."
+        },
+        {
+            "2": "Heat oil in a large skillet over medium heat. Add chicken, onion, green bell pepper, and red bell pepper; cook and stir until chicken is no longer pink and vegetables are tender, 7 to 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "7 mins"
+        },
+        {
+            "Total Time": "27 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "173"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9358704.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8591361.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8269270.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8197121.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

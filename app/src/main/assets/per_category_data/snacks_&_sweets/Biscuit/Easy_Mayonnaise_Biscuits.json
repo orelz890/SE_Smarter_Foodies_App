@@ -1,0 +1,72 @@
+{
+    "title": "Easy Mayonnaise Biscuits",
+    "Category": "Biscuit",
+    "Ingredients": [
+        {
+            "1": "1 cup self-rising flour"
+        },
+        {
+            "2": "0.5 cup milk"
+        },
+        {
+            "3": "0.25 cup mayonnaise"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C). Grease 6 large muffin cups."
+        },
+        {
+            "2": "Stir flour, milk, and mayonnaise together in a bowl until smooth. Pour flour mixture into prepared muffin cups."
+        },
+        {
+            "3": "Bake until golden brown, about 30 minutes ."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "150"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2ff9df1d8a60d3f047ede107f2652e7d%2F1661979272image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2ff9df1d8a60d3f047ede107f2652e7d%2F1661180655image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2ff9df1d8a60d3f047ede107f2652e7d%2F1660242614Biscuits.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2ff9df1d8a60d3f047ede107f2652e7d%2F1660178809IMG_0916.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

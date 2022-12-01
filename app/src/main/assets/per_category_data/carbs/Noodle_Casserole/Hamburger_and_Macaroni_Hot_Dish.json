@@ -1,0 +1,90 @@
+{
+    "title": "Hamburger and Macaroni Hot Dish",
+    "Category": "Noodle Casserole",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package elbow macaroni"
+        },
+        {
+            "2": "1 pound ground beef"
+        },
+        {
+            "3": "0.5 teaspoons dried minced onion"
+        },
+        {
+            "4": "1  garlic clove, pressed"
+        },
+        {
+            "5": "2 (10.75 ounce) cans  tomato soup"
+        },
+        {
+            "6": "1 (15 ounce) can corn, drained"
+        },
+        {
+            "7": "1 pinch Italian seasoning, or to taste"
+        },
+        {
+            "8": "1 pinch seasoned salt, or to taste"
+        },
+        {
+            "9": "3 slices fat-free American cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally, until cooked through but firm to the bite, 8 minutes; drain."
+        },
+        {
+            "2": "Heat a large skillet over medium-high heat. Cook and stir ground beef and minced onion in the hot skillet until almost browned and crumbly, 5 to 7 minutes. Add garlic to ground beef mixture and cook until beef is browned, 2 to 3 more minutes; drain and discard excess grease."
+        },
+        {
+            "3": "Stir macaroni, tomato soup, corn, Italian seasoning, and seasoned salt into ground beef mixture; top with American cheese slices. Cover skillet until cheese is melted, 2 to 3 minutes; stir well."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "565"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "65g"
+        },
+        {
+            "Protein": "33g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9394044.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9190531.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9098426.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8746750.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

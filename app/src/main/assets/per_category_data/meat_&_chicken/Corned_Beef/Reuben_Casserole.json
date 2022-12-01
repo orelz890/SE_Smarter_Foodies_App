@@ -1,0 +1,78 @@
+{
+    "title": "Reuben Casserole",
+    "Category": "Corned Beef",
+    "Ingredients": [
+        {
+            "1": "6 slices rye bread, cubed"
+        },
+        {
+            "2": "1 (16 ounce) can sauerkraut, drained and rinsed"
+        },
+        {
+            "3": "1 pound deli sliced corned beef, cut into strips"
+        },
+        {
+            "4": "0.75 cup Russian-style salad dressing"
+        },
+        {
+            "5": "1 cooking spray"
+        },
+        {
+            "6": "2 cups shredded Swiss cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C). Spray a 9x13-inch baking dish with cooking spray. Spray one sheet of aluminum foil with cooking spray."
+        },
+        {
+            "2": "Spread bread cubes in the bottom of the prepared baking dish. Layer bread cubes with sauerkraut and beef strips, then pour dressing over top. Cover with the aluminum foil, sprayed-side down."
+        },
+        {
+            "3": "Bake in the preheated oven for 20 minutes. Remove and discard foil; sprinkle Swiss cheese over casserole. Continue baking until cheese is melted and bubbly, about 10 more minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "450"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F843be348a6b5c0ff349dccefcf767033%2F164868164316486816292588731371056456877691.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F843be348a6b5c0ff349dccefcf767033%2F1648270588image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9346180.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8989100.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

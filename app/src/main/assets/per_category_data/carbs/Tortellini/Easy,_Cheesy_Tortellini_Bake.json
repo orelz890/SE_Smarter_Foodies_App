@@ -1,0 +1,93 @@
+{
+    "title": "Easy, Cheesy Tortellini Bake",
+    "Category": "Tortellini",
+    "Ingredients": [
+        {
+            "1": "2 (9 ounce) packages cheese tortellini"
+        },
+        {
+            "2": "1 (24 ounce) jar marinara sauce"
+        },
+        {
+            "3": "1 (16 ounce) jar Alfredo sauce"
+        },
+        {
+            "4": "1 (10 ounce) box frozen chopped spinach, thawed and squeezed dry"
+        },
+        {
+            "5": "1 tablespoon dried Italian seasoning"
+        },
+        {
+            "6": "1 (8 ounce) package shredded Mozzarella cheese"
+        },
+        {
+            "7": "0.25 cup freshly grated Parmesan cheese"
+        },
+        {
+            "8": "1 teaspoon dried Italian seasoning"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven broiler; adjust an oven rack to the highest position. Generously butter or grease an 8x8-inch baking dish."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Add tortellini and cook according to package directions; drain and set aside."
+        },
+        {
+            "3": "Bring marinara and Alfredo sauces, spinach, and 1 tablespoon Italian seasoning to a simmer in a large saucepan over medium-high heat. Reduce heat to medium-low and simmer for 10 minutes."
+        },
+        {
+            "4": "Stir tortellini into sauce, then pour into the prepared baking dish. Sprinkle with mozzarella cheese, Parmesan cheese, and 1 teaspoon Italian seasoning."
+        },
+        {
+            "5": "Broil until cheese has melted and turned golden brown, 1 to 2 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 8x8-inch dish"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "711"
+        },
+        {
+            "Fat": "40g"
+        },
+        {
+            "Carbs": "63g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9101569.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7765999.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6856035.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6840804.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

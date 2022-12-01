@@ -1,0 +1,84 @@
+{
+    "title": "Slow Cooker Mashed Potatoes",
+    "Category": "Mashed Potatoes",
+    "Ingredients": [
+        {
+            "1": "5 pounds red potatoes, cut into chunks"
+        },
+        {
+            "2": "3 cubes  chicken bouillon"
+        },
+        {
+            "3": "1 tablespoon minced garlic, or to taste"
+        },
+        {
+            "4": "1 (8 ounce) container sour cream"
+        },
+        {
+            "5": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "6": "0.5 cup butter"
+        },
+        {
+            "7": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place potatoes, bouillon, and garlic in a large pot and cover with water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 15 minutes. Drain in a colander over a large bowl, reserving cooking water."
+        },
+        {
+            "2": "Mash potatoes with sour cream and cream cheese, adding reserved water as needed to reach desired consistency."
+        },
+        {
+            "3": "Transfer mashed potato mixture to a slow cooker, cover, and cook on Low for 2 to 3 hours. Just before serving, stir in butter and season with salt and pepper to taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 2 hrs 15 mins"
+        },
+        {
+            "Total Time": " 2 hrs 30 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "470"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9212525.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8666231.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8610689.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8582795.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/FvAMnzb31DdkqmokQGYR7z01aI8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25895-slow-cooker-mashed-potatoes-1x1-ddmfs-0156-c56b51b3184b4254b5bc14878b65a511.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

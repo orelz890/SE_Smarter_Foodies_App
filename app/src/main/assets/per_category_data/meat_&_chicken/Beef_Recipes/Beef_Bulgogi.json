@@ -1,0 +1,99 @@
+{
+    "title": "Beef Bulgogi",
+    "Category": "Beef Recipes",
+    "Ingredients": [
+        {
+            "1": "5 tablespoons soy sauce"
+        },
+        {
+            "2": "0.25 cup chopped green onion"
+        },
+        {
+            "3": "1.0 tablespoons white sugar"
+        },
+        {
+            "4": "2 tablespoons minced garlic"
+        },
+        {
+            "5": "2 tablespoons sesame seeds"
+        },
+        {
+            "6": "2 tablespoons sesame oil"
+        },
+        {
+            "7": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "8": "1 pound flank steak, thinly sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk soy sauce, green onion, sugar, garlic, sesame seeds, sesame oil, and pepper together in a bowl."
+        },
+        {
+            "2": "Place flank steak slices in a shallow dish. Pour marinade over top. Cover and refrigerate for at least 1 hour or overnight."
+        },
+        {
+            "3": "Preheat an outdoor grill for high heat, and lightly oil the grate."
+        },
+        {
+            "4": "Quickly grill flank steak slices on the preheated grill until slightly charred and cooked through, 1 to 2 minutes per side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "232"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fecc54ae9f4fb8f59f781a3956916783b%2F1648214553IMG_2681.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9261868.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9261866.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9219872.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/fJYZbvA94PDDnEM7ktrplM_zOvQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100606-beef-bulgogi-3x2-264-0435817888b24507bd86c8a6cdc4dd7f.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/BOnUOcI8lJUJX39GjSu4hgzQo6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100606-beef-bulgogi-2x3-266-403b320112314e8cab39c9bcc64f522d.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Seafood Pasta Salad",
+    "Category": "Pasta Salad",
+    "Ingredients": [
+        {
+            "1": "0.5 (8 ounce) packages tri-color pasta"
+        },
+        {
+            "2": "3 stalks celery"
+        },
+        {
+            "3": "1 pound imitation crabmeat"
+        },
+        {
+            "4": "1 cup frozen green peas"
+        },
+        {
+            "5": "1 cup mayonnaise"
+        },
+        {
+            "6": "0.5 tablespoons white sugar"
+        },
+        {
+            "7": "2 tablespoons white vinegar"
+        },
+        {
+            "8": "3 tablespoons milk"
+        },
+        {
+            "9": "1 teaspoon salt"
+        },
+        {
+            "10": "0.25 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; rinse under cold water until cool and drain."
+        },
+        {
+            "2": "While pasta is cooking, chop celery and crabmeat. Run hot water over peas to defrost."
+        },
+        {
+            "3": "In a large bowl, whisk together the mayonnaise, sugar, vinegar, milk, salt and pepper. Add the pasta, celery and crabmeat and stir until evenly coated. Adjust the salt, sugar or mayonnaise to suit your taste. Chill several hours before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 5 hrs"
+        },
+        {
+            "Total Time": " 5 hrs 35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "436"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9188240.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8494445.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8469479.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8002081.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

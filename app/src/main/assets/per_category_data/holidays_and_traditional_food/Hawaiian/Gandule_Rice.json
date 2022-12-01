@@ -1,0 +1,93 @@
+{
+    "title": "Gandule Rice",
+    "Category": "Hawaiian",
+    "Ingredients": [
+        {
+            "1": "1 cup vegetable oil"
+        },
+        {
+            "2": "3 pounds pork shoulder, cubed"
+        },
+        {
+            "3": "3 tablespoons achiote (annatto) seeds"
+        },
+        {
+            "4": "2 cups chopped onion"
+        },
+        {
+            "5": "2 cups chopped fresh cilantro"
+        },
+        {
+            "6": "12 cloves garlic, crushed"
+        },
+        {
+            "7": "2 tablespoons salt"
+        },
+        {
+            "8": "1 teaspoon ground black pepper"
+        },
+        {
+            "9": "2 (8 ounce) cans tomato sauce"
+        },
+        {
+            "10": "1 (15 ounce) can pigeon peas, drained"
+        },
+        {
+            "11": "15 ounces black olives, pitted and halved"
+        },
+        {
+            "12": "8 cups uncooked calrose rice, rinsed"
+        },
+        {
+            "13": "9 cups water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat 2 tablespoons of the oil in a large saucepan over medium high heat. Add pork and brown in oil. Meanwhile, place remaining oil in a small saucepan over medium heat and add achiote seeds. Heat until oil becomes very dark orange/red. Remove from heat and set aside."
+        },
+        {
+            "2": "To the browned pork add the onion, cilantro, garlic, salt and pepper. Cook to reduce veggies, then add the tomato sauce, pigeon peas and olives. Mix well. Strain achiote/oil mixture into pork mixture and stir together. Reduce heat to low and let simmer for 10 minutes."
+        },
+        {
+            "3": "Add uncooked rice and water to pork mixture; stir well. Raise temperature to high, cover saucepan and bring all to a boil. Stir again, reduce heat to low and cover; let cook on low about 10 minutes. Remove cover, stir again, replace cover and cook another 10 minutes; stir again. Remove from heat and allow to stand 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "20 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "615"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "72g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdf74c09f247f9b666140fcc0489c5174%2F6915193.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6779240.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9dab77c6a4d7c33e9973b438bff24fef%2F5101610.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4523468.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

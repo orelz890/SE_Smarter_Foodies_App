@@ -1,0 +1,87 @@
+{
+    "title": "Cheesy Meatloaf",
+    "Category": "Meatloaf",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1 pound ground pork"
+        },
+        {
+            "3": "1 (1 ounce) envelope dry onion soup mix"
+        },
+        {
+            "4": "2  eggs, beaten"
+        },
+        {
+            "5": "0.5 cups dry bread crumbs"
+        },
+        {
+            "6": "1 ground black pepper to taste"
+        },
+        {
+            "7": "0.75 cup water"
+        },
+        {
+            "8": "2 cups shredded mozzarella cheese, divided"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "In a large bowl combine the beef, pork, soup mix, eggs, bread crumbs, pepper and water. Stir in 1/2 cup of the cheese. Mix well and spread half of mixture into a 9x5 inch loaf pan. Spread remaining 1 1/2 cups cheese over meat loaf mixture. Top with remaining half of meat loaf mixture."
+        },
+        {
+            "3": "Bake in preheated oven for 60 minutes. Let cool 10 to 15 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "408"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9244194.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8934992.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8848268.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8841784.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Cucumber Watermelon Salad",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "1 large cucumber, halved lengthwise and thinly sliced crosswise"
+        },
+        {
+            "2": "2 medium tomatoes, diced"
+        },
+        {
+            "3": "1 small onion, thinly sliced"
+        },
+        {
+            "4": "2 cups cubed seedless watermelon"
+        },
+        {
+            "5": "3 tablespoons red wine vinegar"
+        },
+        {
+            "6": "2 tablespoons olive oil"
+        },
+        {
+            "7": "1 teaspoon sea salt"
+        },
+        {
+            "8": "1 teaspoon white sugar"
+        },
+        {
+            "9": "0.5 teaspoon dried oregano"
+        },
+        {
+            "10": "0.5 teaspoon dried basil"
+        },
+        {
+            "11": "0.5 teaspoon ground thyme"
+        },
+        {
+            "12": "0.5 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine cucumber, tomatoes, onion, and watermelon in a large bowl."
+        },
+        {
+            "2": "Mix vinegar, olive oil, salt, sugar, oregano, basil, thyme, and pepper together in a separate, smaller bowl and pour over salad. Stir to coat well."
+        },
+        {
+            "3": "Cover and refrigerate for 20 minutes. Serve chilled."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "120"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1414502.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Spicy Deviled Eggs",
+    "Category": "Deviled Eggs",
+    "Ingredients": [
+        {
+            "1": "12  eggs"
+        },
+        {
+            "2": "0.5 tablespoons Dijon mustard"
+        },
+        {
+            "3": "0.5 tablespoons mayonnaise"
+        },
+        {
+            "4": "0.5 teaspoon Worcestershire sauce"
+        },
+        {
+            "5": "0.5 teaspoon hot pepper sauce, or to taste"
+        },
+        {
+            "6": "1 pinch salt and black pepper"
+        },
+        {
+            "7": "0.25 teaspoon ground paprika, for dusting (divided)"
+        },
+        {
+            "8": "1 (6 ounce) can black olives, drained and cut in half horizontally"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place eggs in a saucepan with a lid, pour in water to cover, bring to a boil, and remove from the heat. Cover and let stand for 10 to 12 minutes. Remove eggs from hot water and let cool. Peel the eggs."
+        },
+        {
+            "2": "Cut each egg in half lengthwise, remove the yolks, and place the yolks in a bowl with the mustard, mayonnaise, Worcestershire sauce, hot pepper sauce, and salt and pepper. Mash the yolks, and stir the mixture until smooth and thoroughly combined."
+        },
+        {
+            "3": "Fill each egg half with the deviled yolk mixture, using a spoon, piping bag, or a sturdy plastic bag with a corner cut off. Dust each egg with a pinch of paprika, and place an olive half, round side up, in the center of each. Refrigerate until chilled, 20 to 30 minutes, and serve cold."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 deviled egg halves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "51"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6810080.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6793705.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6719418.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F82b897102e97874e1abb960c954b0980%2F5205776.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

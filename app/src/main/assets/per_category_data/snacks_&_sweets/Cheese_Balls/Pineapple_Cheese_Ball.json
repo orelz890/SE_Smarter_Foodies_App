@@ -1,0 +1,78 @@
+{
+    "title": "Pineapple Cheese Ball",
+    "Category": "Cheese Balls",
+    "Ingredients": [
+        {
+            "1": "1 (20 ounce) can crushed pineapple, drained"
+        },
+        {
+            "2": "2 (8 ounce) packages cream cheese, softened"
+        },
+        {
+            "3": "1 cup minced celery"
+        },
+        {
+            "4": "0.5 cup chopped green bell pepper"
+        },
+        {
+            "5": "1 teaspoon minced onion"
+        },
+        {
+            "6": "1 cup chopped pecans"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix drained pineapple, cream cheese, celery, bell pepper, and onion together in a medium bowl until well combined; divide mixture in half and form two balls."
+        },
+        {
+            "2": "Place chopped pecans in a shallow dish; roll each ball in pecans. Chill until ready to serve, at least 2 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 15 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 cheese balls"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "168"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F089858e492ae6463739b6f53aac716a6%2F2870639.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F539305dc6ba66eb79b2c15f34b054c13%2F2870612.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1749222.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1712029.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

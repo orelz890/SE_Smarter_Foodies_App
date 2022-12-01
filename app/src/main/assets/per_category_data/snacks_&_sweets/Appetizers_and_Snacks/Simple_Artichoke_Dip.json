@@ -1,0 +1,72 @@
+{
+    "title": "Simple Artichoke Dip",
+    "Category": "Appetizers and Snacks",
+    "Ingredients": [
+        {
+            "1": "1 (14 ounce) can artichoke hearts, drained and chopped"
+        },
+        {
+            "2": "1 cup mayonnaise"
+        },
+        {
+            "3": "1 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Mix artichoke hearts, mayonnaise, and Parmesan cheese together in a bowl until well combined. Spread mixture in a 9x13-inch baking dish."
+        },
+        {
+            "3": "Bake in the preheated oven until bubbly and golden brown, about 15 to 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "7 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "293"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9137137.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7827402.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7557119.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7240847.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Rk0peql0zU-DWAPSH-20DhSro7w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7557119-a4968cd279d944aabbedbbfcf9fa5065.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

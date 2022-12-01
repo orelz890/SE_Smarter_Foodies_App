@@ -1,0 +1,99 @@
+{
+    "title": "Cranberry Coffee Cake",
+    "Category": "Coffee Cake",
+    "Ingredients": [
+        {
+            "1": "1 cup all-purpose flour"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "0.25 teaspoon salt"
+        },
+        {
+            "4": "2 cups fresh cranberries, at room temperature"
+        },
+        {
+            "5": "0.5 cup chopped walnuts"
+        },
+        {
+            "6": "0.5 cup butter, melted"
+        },
+        {
+            "7": "2  eggs, beaten"
+        },
+        {
+            "8": "1 teaspoon almond extract"
+        },
+        {
+            "9": "1 Streusel Topping-"
+        },
+        {
+            "10": "0.25 cup chopped walnuts"
+        },
+        {
+            "11": "0.25 cup brown sugar"
+        },
+        {
+            "12": "2 tablespoons butter, melted"
+        },
+        {
+            "13": "2 tablespoons all-purpose flour"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9-inch square baking pan."
+        },
+        {
+            "2": "Combine flour, sugar, and salt in a bowl. Stir in cranberries and walnuts; toss to coat. Stir in butter, eggs, and almond extract. Spread batter into the prepared pan."
+        },
+        {
+            "3": "Combine walnuts, brown sugar, butter, and flour for streusel in a small bowl. Crumble streusel on top of cranberry mixture."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 45 minutes. Serve warm or cold."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "1 9x9-inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "210"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd97cd66b479bfe9a264b325fd5fc43be%2F7627794.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2570064.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

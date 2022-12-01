@@ -1,0 +1,81 @@
+{
+    "title": "Chef John's Best Mushroom Gravy",
+    "Category": "Gravy",
+    "Ingredients": [
+        {
+            "1": "0.25 cup butter"
+        },
+        {
+            "2": "1 (16 ounce) package sliced mushrooms"
+        },
+        {
+            "3": "1 salt to taste"
+        },
+        {
+            "4": "0.25 cup all-purpose flour, or as needed"
+        },
+        {
+            "5": "1 quart beef stock"
+        },
+        {
+            "6": "1 pinch ground black pepper to taste"
+        },
+        {
+            "7": "1 pinch fresh thyme leaves, to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat butter in a saucepan over medium heat until it foams. Stir in mushrooms and season with salt. Simmer until liquid evaporates, about 20 minutes."
+        },
+        {
+            "2": "Stir in flour; cook and stir for 5 minutes. Add 1 cup of beef stock, stirring briskly until incorporated, then pour in the remaining stock and mix thoroughly. Season with black pepper and thyme. Reduce heat to medium-low and simmer until thickened, stirring often, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "133"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9396447.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9315918.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9312700.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9223389.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/7TJF4g5URTiFtFFZSESdrpMB7AY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/787887-016e4d0045fe47a39202759f6cc66ad2.jpg"
+        }
+    ],
+    "main category": "dips"
+}

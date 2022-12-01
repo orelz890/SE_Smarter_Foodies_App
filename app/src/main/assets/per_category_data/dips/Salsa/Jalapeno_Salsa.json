@@ -1,0 +1,84 @@
+{
+    "title": "Jalapeno Salsa",
+    "Category": "Salsa",
+    "Ingredients": [
+        {
+            "1": "10  fresh jalapeno peppers"
+        },
+        {
+            "2": "2  tomatoes"
+        },
+        {
+            "3": "1  white onion, quartered"
+        },
+        {
+            "4": "0.25 cup chopped fresh cilantro, or more to taste"
+        },
+        {
+            "5": "2 cloves garlic, smashed"
+        },
+        {
+            "6": "1  lime, juiced"
+        },
+        {
+            "7": "1 teaspoon salt"
+        },
+        {
+            "8": "1 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place jalapenos in a saucepan with enough water to cover. Bring to a boil. Simmer until jalapenos soften and begin to lose their shine, about 10 to 12 minutes. Remove the jalapenos with a slotted spoon, chop off the stem, and place them in a blender. Add the tomatoes and boil for 2 to 3 minutes to loosen the skin. Peel the skin from the tomatoes and add tomatoes to the blender."
+        },
+        {
+            "2": "Place the onion, cilantro, garlic, lime juice, salt, and black pepper in the blender with the jalapenos and tomatoes. Blend to desired consistency."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "12 mins"
+        },
+        {
+            "Total Time": "27 mins"
+        },
+        {
+            "Servings": "25 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "7"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcd6f674e2963eb75360445b2b186a915%2F5566553.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4562834.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4539996.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3692270.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

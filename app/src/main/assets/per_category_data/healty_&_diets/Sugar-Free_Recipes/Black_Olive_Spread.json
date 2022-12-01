@@ -1,0 +1,57 @@
+{
+    "title": "Black Olive Spread",
+    "Category": "Sugar-Free Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (10 ounce) can black olives"
+        },
+        {
+            "2": "3 tablespoons freshly grated Parmesan cheese"
+        },
+        {
+            "3": "1 clove garlic, chopped"
+        },
+        {
+            "4": "1 tablespoon extra virgin olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place olives, Parmesan cheese, and garlic (if using) in a food processor. Add olive oil slowly while running. Process until smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "64"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5dc66c945c7de2f27eadb461959a66ad%2F4425863.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

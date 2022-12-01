@@ -1,0 +1,111 @@
+{
+    "title": "Breakfast Kolaches",
+    "Category": "Kolache",
+    "Ingredients": [
+        {
+            "1": "1 Dough-"
+        },
+        {
+            "2": "1 cup warm milk"
+        },
+        {
+            "3": "1 large egg, lightly beaten"
+        },
+        {
+            "4": "1 large egg yolk, beaten"
+        },
+        {
+            "5": "3 tablespoons butter"
+        },
+        {
+            "6": "3 cups bread flour"
+        },
+        {
+            "7": "0.5 tablespoon salt"
+        },
+        {
+            "8": "0.25 cup white sugar"
+        },
+        {
+            "9": "3 teaspoons bread machine yeast"
+        },
+        {
+            "10": "1 Filling-"
+        },
+        {
+            "11": "18  2-inch sausages, cut in half"
+        },
+        {
+            "12": "1 (16 ounce) package frozen hash brown potatoes"
+        },
+        {
+            "13": "9 slices Cheddar cheese, each cut into 4 squares"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Make the dough: Place milk, egg, egg yolk, butter, flour, salt, sugar, and yeast into a bread machine in the order listed, or follow the order recommended by your manufacturer if different. Run the Dough cycle, about 1 1/2 hours."
+        },
+        {
+            "2": "When the cycle is finished, preheat the oven to 375 degrees F (190 degrees C). Lightly grease a large baking sheet."
+        },
+        {
+            "3": "Punch down dough on a lightly floured surface and divide into 36 pieces. Roll pieces into balls. Arrange balls in a single layer on the prepared baking sheet, about 2 inches apart. Allow balls to rise, 15 to 20 minutes."
+        },
+        {
+            "4": "Flatten balls, and make a depression in the center of each. Fill each with 1 piece sausage, about 1 tablespoon potatoes, and 1 square Cheddar."
+        },
+        {
+            "5": "Bake in the preheated oven until lightly browned, 15 to 18 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 45 mins"
+        },
+        {
+            "Total Time": " 2 hrs 30 mins"
+        },
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "36 kolaches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "176"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9426347.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9074071.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd15dc25d072d8fe7676d31535e9fc249%2F3412070.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1643730.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

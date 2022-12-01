@@ -1,0 +1,90 @@
+{
+    "title": "Lazy Man's Pierogi",
+    "Category": "Pierogi",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package rotelle pasta"
+        },
+        {
+            "2": "0.5 pound bacon, chopped"
+        },
+        {
+            "3": "2  onions, chopped"
+        },
+        {
+            "4": "0.5 pound mushrooms, quartered"
+        },
+        {
+            "5": "1 tablespoon butter"
+        },
+        {
+            "6": "1 (16 ounce) can sauerkraut - rinsed and drained"
+        },
+        {
+            "7": "2 (10.75 ounce) cans  condensed cream of mushroom soup"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain. Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Stir in onions, and cook until translucent. In a separate pan, saute the mushrooms in butter."
+        },
+        {
+            "3": "In a large bowl, combine pasta, bacon, onion, mushrooms, sauerkraut and condensed soup. Season with salt and pepper. Pour into a 9x13 inch baking dish."
+        },
+        {
+            "4": "Bake in preheated oven for 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "356"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "52g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8197552.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9437620.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7343456.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6287443.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

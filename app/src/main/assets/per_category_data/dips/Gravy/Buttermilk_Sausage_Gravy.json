@@ -1,0 +1,66 @@
+{
+    "title": "Buttermilk Sausage Gravy",
+    "Category": "Gravy",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package pork link sausages (such as Farmer John(R))"
+        },
+        {
+            "2": "0.25 cup bacon drippings"
+        },
+        {
+            "3": "0.25 cup all-purpose flour"
+        },
+        {
+            "4": "1.0 cups buttermilk"
+        },
+        {
+            "5": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place sausages and bacon drippings in a skillet and cook over medium heat, breaking up sausage into bite-sized pieces, until golden brown, 4 to 6 minutes. Add flour, stirring constantly. Slowly add buttermilk and cook and stir until gravy has thickened, 3 to 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "365"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9377459.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8765485.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

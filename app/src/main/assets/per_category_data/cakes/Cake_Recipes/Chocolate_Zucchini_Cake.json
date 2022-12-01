@@ -1,0 +1,99 @@
+{
+    "title": "Chocolate Zucchini Cake",
+    "Category": "Cake Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "2 cups white sugar"
+        },
+        {
+            "3": "0.75 cup unsweetened cocoa powder"
+        },
+        {
+            "4": "2 teaspoons baking soda"
+        },
+        {
+            "5": "1 teaspoon baking powder"
+        },
+        {
+            "6": "1 teaspoon ground cinnamon"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "0.5 cups vegetable oil"
+        },
+        {
+            "9": "4  eggs"
+        },
+        {
+            "10": "3 cups grated zucchini"
+        },
+        {
+            "11": "0.75 cup chopped walnuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch baking pan."
+        },
+        {
+            "2": "Mix flour, sugar, cocoa, baking soda, baking powder, cinnamon, and salt together in a medium bowl. Add oil and eggs; mix well until just combined. Fold in zucchini and walnuts until they are evenly distributed; pour cake batter into the prepared pan."
+        },
+        {
+            "3": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 50 to 60 minutes. Cool cake completely before frosting with your favorite frosting."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "1 9x13-inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "269"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb31dd6c11da88a162b1657cf47b36322%2F1656860205SAM_0854.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9419830.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9377621.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9369500.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/OKm314sYXAZWyXoMxf4LUzQLHHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/969089-chocolate-zucchini-cake-Carla-1x1-1-065f2ffd344d4cf7a76844d256664d0b.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Kristen's Awesome Oatmeal Cookies",
+    "Category": "Oatmeal Cookies",
+    "Ingredients": [
+        {
+            "1": "0.75 cup shortening"
+        },
+        {
+            "2": "1 cup packed brown sugar"
+        },
+        {
+            "3": "0.5 cup white sugar"
+        },
+        {
+            "4": "1  egg"
+        },
+        {
+            "5": "0.25 cup water"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "1 cup all-purpose flour"
+        },
+        {
+            "8": "1 teaspoon salt"
+        },
+        {
+            "9": "0.5 teaspoon baking soda"
+        },
+        {
+            "10": "1 tablespoon ground cinnamon"
+        },
+        {
+            "11": "3 cups rolled oats"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease cookie sheets."
+        },
+        {
+            "2": "In a medium bowl, cream together the shortening, brown sugar and white sugar. Stir in the egg, water and vanilla. Combine the flour, salt, baking soda and cinnamon, stir into the creamed mixture. Finally, stir in the rolled oats. Drop by rounded spoonfuls onto the prepared cookie sheets."
+        },
+        {
+            "3": "Bake for 12 to 15 minutes in the preheated oven. Cool on baking sheets for a couple of minutes before removing to cool on wire racks."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "30 "
+        },
+        {
+            "Yield": "5 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "135"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9436847.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8209881.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8040981.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8026470.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

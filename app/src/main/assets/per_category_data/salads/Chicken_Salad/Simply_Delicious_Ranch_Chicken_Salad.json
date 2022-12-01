@@ -1,0 +1,69 @@
+{
+    "title": "Simply Delicious Ranch Chicken Salad",
+    "Category": "Chicken Salad",
+    "Ingredients": [
+        {
+            "1": "1 pound skinless, boneless chicken breast halves"
+        },
+        {
+            "2": "0.5 large red onion, chopped"
+        },
+        {
+            "3": "1  cucumber - peeled, seeded, and diced"
+        },
+        {
+            "4": "2 cloves garlic, minced"
+        },
+        {
+            "5": "1 cup ranch dressing"
+        },
+        {
+            "6": "1 pinch ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place chicken in a saucepan; add water to cover. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer until chicken is tender and no longer pink in the center, about 15 minutes. Remove chicken, let cool, and shred or cut into bite size pieces."
+        },
+        {
+            "2": "Combine the chicken, red onion, cucumber, garlic, and ranch dressing in a large bowl. Season with pepper to taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "214"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F18f46b11446d049a9e1b426cc5e0f8d7%2F647763.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

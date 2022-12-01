@@ -1,0 +1,105 @@
+{
+    "title": "Mom's Pumpkin Pie",
+    "Category": "Pumpkin Pie",
+    "Ingredients": [
+        {
+            "1": "1 recipe pastry for a 9 inch single crust pie"
+        },
+        {
+            "2": "3  eggs"
+        },
+        {
+            "3": "1  egg yolk"
+        },
+        {
+            "4": "0.5 cup white sugar"
+        },
+        {
+            "5": "0.5 cup packed brown sugar"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "8": "0.5 teaspoon ground nutmeg"
+        },
+        {
+            "9": "0.5 teaspoon ground ginger"
+        },
+        {
+            "10": "0.25 teaspoon ground cloves"
+        },
+        {
+            "11": "0.5 cups milk"
+        },
+        {
+            "12": "0.5 cup heavy whipping cream"
+        },
+        {
+            "13": "2 cups pumpkin puree"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 425 degrees F (220 degrees C.)"
+        },
+        {
+            "2": "In a large bowl, combine eggs, egg yolk, white sugar and brown sugar. Add salt, cinnamon, nutmeg, ginger and cloves. Gradually stir in milk and cream. Stir in pumpkin. Pour filling into pie shell."
+        },
+        {
+            "3": "Bake for ten minutes in preheated oven. Reduce heat to 350 degrees F (175 degrees C), and bake for an additional 40 to 45 minutes, or until filling is set."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "345"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8782c2b965ba2c0ddddcdc6805883d8a%2F1669257615435IMG_20221123_163341966.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7ff5d3038211d61c4ad8c13db4e54f63%2F5967377.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3aac364663f830dc8305fa6146c34e73%2F5967374.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5834161.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/r4YlwlV6b9va3_a0dSWYdP6FGyo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1054478-1e6b568086ba44bfa03e2cf41d49822a.jpg"
+        }
+    ],
+    "main category": "pies"
+}

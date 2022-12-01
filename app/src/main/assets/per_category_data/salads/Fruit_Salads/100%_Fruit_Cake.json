@@ -1,0 +1,72 @@
+{
+    "title": "100% Fruit Cake",
+    "Category": "Fruit Salads",
+    "Ingredients": [
+        {
+            "1": "1  seedless watermelon"
+        },
+        {
+            "2": "2 cups strawberries, hulled and sliced"
+        },
+        {
+            "3": "1  cantaloupe - seeded, peeled, and sliced (Optional)"
+        },
+        {
+            "4": "1  fresh pineapple - peeled, cored, and sliced (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "To create the base tier of the cake, cut 3 slices of watermelon, 1 to 2 inches thick, crossways through the center of the melon. Trim the rind from the watermelon slices, and place the largest slice onto a cake plate. Alternate layering sliced strawberries, slices of cantaloupe, and slices of fresh pineapple; follow with the second-largest watermelon slice. Repeat once more to make a layered fruit stack that looks like a cake."
+        },
+        {
+            "2": "Thinly slice a few pieces of remaining melon and pineapple. With cookie cutters or a sharp knife, cut remaining fruit slices into decorative shapes. Decorate the cake tiers with the cut fruit shapes and remaining berries."
+        },
+        {
+            "3": "Refrigerate until serving time. To serve, slice the cake with a sharp knife, one wedge at a time, and set the wedge onto a plate."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "233"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "59g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7c8a3231733c5280ffcc41ab600c66be%2F6448629.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1032830.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb8c86ea7fc79b75299dec8dc6e2a2472%2F1031133.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F702856.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

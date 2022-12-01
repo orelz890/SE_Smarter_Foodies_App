@@ -1,0 +1,84 @@
+{
+    "title": "Colorful Broccoli Salad",
+    "Category": "Broccoli Salad",
+    "Ingredients": [
+        {
+            "1": "0.5 cup mayonnaise"
+        },
+        {
+            "2": "0.25 cup white sugar"
+        },
+        {
+            "3": "1 teaspoon vinegar"
+        },
+        {
+            "4": "0.5 pound bacon, cut into 1-inch square pieces"
+        },
+        {
+            "5": "1 bunch broccoli, cut into florets"
+        },
+        {
+            "6": "1  red onion, chopped"
+        },
+        {
+            "7": "1 cup shredded sharp Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk mayonnaise, sugar, and vinegar together in a bowl."
+        },
+        {
+            "2": "Place bacon in a large skillet; cook and stir over medium-high heat until evenly browned, about 10 minutes. Drain bacon on paper towels."
+        },
+        {
+            "3": "Mix broccoli, bacon, onion, and Cheddar cheese in a large bowl. Pour dressing over broccoli mixture; toss to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "348"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6765929.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4516805.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3969229.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2292337.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

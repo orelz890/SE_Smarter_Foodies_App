@@ -1,0 +1,75 @@
+{
+    "title": "Almond Jelly",
+    "Category": "Jell-O\u00ae Salad",
+    "Ingredients": [
+        {
+            "1": "1 cup water"
+        },
+        {
+            "2": "2 (.25 ounce) envelopes unflavored gelatin powder"
+        },
+        {
+            "3": "1 cup water"
+        },
+        {
+            "4": "2 cups milk"
+        },
+        {
+            "5": "0.75 cup sugar"
+        },
+        {
+            "6": "0.5 teaspoons almond extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour 1 cup water in a bowl; sprinkle the gelatin over the water; stir until the gelatin is partially dissolved. Set aside."
+        },
+        {
+            "2": "Bring 1 cup water to a boil in a large saucepan. Reduce heat to medium-low and slowly pour in the gelatin mixture. Add the milk, sugar, and almond extract; stir until the sugar and gelatin are completely dissolved; pour mixture into a large, shallow container. Refrigerate until firm, 3 to 4 hours. Cut into small squares to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "148"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbce0ed38f0132cd8b85597a47d9480a7%2F601672.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F536050.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

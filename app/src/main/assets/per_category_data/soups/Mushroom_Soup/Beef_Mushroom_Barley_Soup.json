@@ -1,0 +1,96 @@
+{
+    "title": "Beef Mushroom Barley Soup",
+    "Category": "Mushroom Soup",
+    "Ingredients": [
+        {
+            "1": "2 pounds beef stew meat, cut into small pieces"
+        },
+        {
+            "2": "1 tablespoon vegetable oil"
+        },
+        {
+            "3": "0.5  onion, chopped"
+        },
+        {
+            "4": "3 stalks celery, chopped"
+        },
+        {
+            "5": "3  carrots, chopped"
+        },
+        {
+            "6": "3.5 cups beef stock"
+        },
+        {
+            "7": "8 ounces pearl barley"
+        },
+        {
+            "8": "1 pound mushrooms, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook beef stew meat in a large skillet over medium heat until completely browned, 5 to 7 minutes; transfer to a large soup pot."
+        },
+        {
+            "2": "Heat vegetable oil in the same skillet over medium heat; cook and stir onion, celery, and carrot in the hot oil until the onions are tender, about 5 minutes. Add the vegetable mixture to the beef in the pot."
+        },
+        {
+            "3": "Pour beef stock into the pot."
+        },
+        {
+            "4": "Stir pearl barley into the stock."
+        },
+        {
+            "5": "Place soup over medium-low heat, bring to a simmer, and cook, stirring occasionally, until the beef is completely tender, about 2 hours."
+        },
+        {
+            "6": "Stir mushrooms through the soup; cook 1 hour more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 3 hrs 10 mins"
+        },
+        {
+            "Total Time": " 3 hrs 25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "554"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "38g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9159186.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8870204.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8553457.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8348768.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

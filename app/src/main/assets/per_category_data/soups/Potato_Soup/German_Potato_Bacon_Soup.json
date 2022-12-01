@@ -1,0 +1,93 @@
+{
+    "title": "German Potato Bacon Soup",
+    "Category": "Potato Soup",
+    "Ingredients": [
+        {
+            "1": "0.25 cup butter"
+        },
+        {
+            "2": "2  yellow onions, diced small"
+        },
+        {
+            "3": "4 slices bacon, diced small"
+        },
+        {
+            "4": "1  bay leaf"
+        },
+        {
+            "5": "2 quarts chicken broth"
+        },
+        {
+            "6": "4  russet potatoes, diced"
+        },
+        {
+            "7": "2 tablespoons flour"
+        },
+        {
+            "8": "1 teaspoon dried marjoram"
+        },
+        {
+            "9": "1 teaspoon caraway seed"
+        },
+        {
+            "10": "1 salt and ground black pepper to taste"
+        },
+        {
+            "11": "3 ounces sour cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a stockpot over medium heat; add onions, bacon, and bay leaf. Cook and stir until onions are nearly transparent, 5 to 7 minutes."
+        },
+        {
+            "2": "Pour chicken broth into the pot; add potatoes, flour, marjoram, caraway seed, salt, and pepper. Bring to a boil, reduce heat to medium-low, and simmer until potatoes are tender, about 20 minutes."
+        },
+        {
+            "3": "Stir sour cream into soup; cook another 1 to 2 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "226"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffbd4daf1a3c16708d9123c4abb03c6e1%2F1666916996839EFA310F7-1328-49BB-A36D-CC06E253403F.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4582727.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4582726.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1e3657c0cfe4413e51aa8a094581de09%2F1949063.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

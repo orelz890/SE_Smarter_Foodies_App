@@ -1,0 +1,56 @@
+{
+    "title": "Honey Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "1.5 cups water, divided"
+        },
+        {
+            "2": "1 cup honey"
+        },
+        {
+            "3": "0.5 cups lemon juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine 1 cup water and honey in a pot over medium heat. Cook, stirring constantly, until well combined. Remove from heat and let cool, 15 to 20 minutes."
+        },
+        {
+            "2": "Transfer cooled honey syrup to a pitcher and add remaining 2 1/2 cups water and lemon juice; stir to combine. Taste and adjust accordingly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "187"
+        },
+        {
+            "Carbs": "52g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [],
+    "main category": "drinks"
+}

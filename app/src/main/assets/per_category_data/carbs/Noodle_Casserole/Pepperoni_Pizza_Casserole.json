@@ -1,0 +1,90 @@
+{
+    "title": "Pepperoni Pizza Casserole",
+    "Category": "Noodle Casserole",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1 (8 ounce) package uncooked egg noodles"
+        },
+        {
+            "3": "1 (16 ounce) jar spaghetti sauce, or as needed"
+        },
+        {
+            "4": "1 (2.25 ounce) can sliced black olives, drained"
+        },
+        {
+            "5": "1 (2.5 ounce) can sliced mushrooms, drained"
+        },
+        {
+            "6": "1 (8 ounce) package sliced pepperoni, coarsely chopped"
+        },
+        {
+            "7": "20 ounces shredded mozzarella cheese, divided"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Cook the ground beef in a skillet over medium heat until no longer pink, breaking the meat apart into crumbles as it cooks, about 10 minutes."
+        },
+        {
+            "3": "Bring a large pot of lightly salted water to a rolling boil. Cook the egg noodles in the boiling water until cooked through yet slightly firm, about 5 minutes; drain."
+        },
+        {
+            "4": "Mix the noodles with the cooked ground beef, spaghetti sauce, black olives, mushrooms, pepperoni, and 1/2 of the mozzarella cheese in a large mixing bowl. Spoon the mixture into a 9x13-inch baking dish and top with remaining cheese. Cover the dish with foil."
+        },
+        {
+            "5": "Bake in the preheated oven until the casserole is bubbling, 30 to 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "586"
+        },
+        {
+            "Fat": "34g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "38g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9046350.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9046342.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8884552.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8905136.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Chef John's Homemade Chicken Noodle Soup",
+    "Category": "Lunch Recipes",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon butter"
+        },
+        {
+            "2": "0.5 cup diced carrot"
+        },
+        {
+            "3": "0.5 cup diced onion"
+        },
+        {
+            "4": "0.5 cup diced celery"
+        },
+        {
+            "5": "0.25 teaspoon fresh thyme leaves"
+        },
+        {
+            "6": "1 pinch salt"
+        },
+        {
+            "7": "2 tablespoons melted chicken fat"
+        },
+        {
+            "8": "2 quarts roasted chicken broth (see footnote for recipe link)"
+        },
+        {
+            "9": "4 ounces uncooked wide egg noodles"
+        },
+        {
+            "10": "2  cooked boneless chicken breast halves, cubed"
+        },
+        {
+            "11": "1 pinch cayenne pepper (Optional)"
+        },
+        {
+            "12": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a large soup pot over medium heat. Stir in carrot, onion, celery, thyme, and salt. Add chicken fat; cook and stir until onions turn soft and translucent, 5 to 6 minutes."
+        },
+        {
+            "2": "Stir in roasted chicken broth and bring to a boil. Season with salt, if necessary."
+        },
+        {
+            "3": "Stir in egg noodles; cook until tender, about 5 minutes."
+        },
+        {
+            "4": "Add cooked chicken breast meat; simmer until heated through, about 5 minutes. Season with cayenne pepper, salt, and black pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "149"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9441269.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9062802.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8939719.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8831210.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/XTNlq7ytP8pM9UbeYj4yfL5nigE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220416-chef-johns-hamemade-chicken-noodle-soup-mfs-1-75ce3e8c9df14ded83d48cb255a0fa12.jpg"
+        }
+    ],
+    "main category": "lunch"
+}

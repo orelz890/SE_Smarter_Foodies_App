@@ -1,0 +1,84 @@
+{
+    "title": "Curry Mashed Potatoes",
+    "Category": "Mashed Potatoes",
+    "Ingredients": [
+        {
+            "1": "5 cups baking potatoes, peeled and cubed"
+        },
+        {
+            "2": "0.75 cup milk"
+        },
+        {
+            "3": "2 tablespoons unsalted butter"
+        },
+        {
+            "4": "2 teaspoons curry powder"
+        },
+        {
+            "5": "1 teaspoon salt"
+        },
+        {
+            "6": "0.5 teaspoon ground turmeric"
+        },
+        {
+            "7": "0.5 teaspoon garlic powder"
+        },
+        {
+            "8": "0.5 teaspoon onion powder"
+        },
+        {
+            "9": "0.25 teaspoon ground coriander"
+        },
+        {
+            "10": "0.25 teaspoon cayenne pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place potatoes into a pot and cover with salted water. Bring to a boil at medium-high heat and cook until tender, about 10 minutes."
+        },
+        {
+            "2": "Remove potatoes from heat and drain. Place potatoes back in the hot pot. Add milk, butter, curry powder, salt, turmeric, garlic powder, onion powder, coriander, and cayenne pepper."
+        },
+        {
+            "3": "Using a potato masher, mash potatoes until smooth and seasoning is evenly distributed."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "230"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8807838.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

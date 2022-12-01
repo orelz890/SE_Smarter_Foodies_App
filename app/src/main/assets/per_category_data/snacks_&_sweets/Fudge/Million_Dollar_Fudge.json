@@ -1,0 +1,81 @@
+{
+    "title": "Million Dollar Fudge",
+    "Category": "Fudge",
+    "Ingredients": [
+        {
+            "1": "2.0 cups white sugar"
+        },
+        {
+            "2": "1 pinch salt"
+        },
+        {
+            "3": "2 tablespoons butter"
+        },
+        {
+            "4": "1 (12 fluid ounce) can evaporated milk"
+        },
+        {
+            "5": "2 cups chopped nuts"
+        },
+        {
+            "6": "1 (12 ounce) package semisweet chocolate chips"
+        },
+        {
+            "7": "12 (1 ounce) squares German sweet chocolate"
+        },
+        {
+            "8": "2 cups marshmallow creme"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Butter two 9x9 inch baking pans and set aside."
+        },
+        {
+            "2": "Place chocolate chips, German chocolate, marshmallow creme, and nuts into a large mixing bowl. Set aside."
+        },
+        {
+            "3": "In a 4 quart saucepan, combine sugar, salt, butter, and evaporated milk. Stir over low heat until the sugar dissolves. Bring to a boil, and cook for 6 minutes."
+        },
+        {
+            "4": "Pour boiling syrup over ingredients in bowl, beat until all chocolate is melted. Pour into prepared pans. Let stand a few hours before cutting."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "48 "
+        },
+        {
+            "Yield": "2 9x9 inch pans"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "206"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6100764.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2d990202239f6a09b2a262c0eef017cf%2F1067990.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1068365.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1068359.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

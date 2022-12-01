@@ -1,0 +1,72 @@
+{
+    "title": "Broccoli Strawberry Salad",
+    "Category": "Broccoli Salad",
+    "Ingredients": [
+        {
+            "1": "8 cups fresh broccoli florets"
+        },
+        {
+            "2": "2 cups fresh strawberries, quartered"
+        },
+        {
+            "3": "1 (8 ounce) package Colby-Monterey Jack cheese, cut into 1/2-cubes"
+        },
+        {
+            "4": "1 cup mayonnaise"
+        },
+        {
+            "5": "2 tablespoons white sugar"
+        },
+        {
+            "6": "1 teaspoon cider vinegar"
+        },
+        {
+            "7": "0.25 cup sliced almonds, toasted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine broccoli, strawberries, and Colby-Monterey Jack cheese in a large bowl. Whisk mayonnaise, sugar, and vinegar together in another bowl until blended; pour over broccoli mixture. Sprinkle almonds over broccoli salad and gently toss to coat. Cover with plastic wrap and refrigerate until chilled, 1 to 2 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "257"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6576375.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3321919.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

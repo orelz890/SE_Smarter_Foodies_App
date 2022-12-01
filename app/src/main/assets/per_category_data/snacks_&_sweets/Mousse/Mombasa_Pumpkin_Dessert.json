@@ -1,0 +1,54 @@
+{
+    "title": "Mombasa Pumpkin Dessert",
+    "Category": "Mousse",
+    "Ingredients": [
+        {
+            "1": "1 medium sugar pumpkin, seeded and cubed"
+        },
+        {
+            "2": "2 cups white sugar"
+        },
+        {
+            "3": "1 cup coconut milk"
+        },
+        {
+            "4": "1 teaspoon ground cardamom"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Steam the pumpkin pieces for 5 to 10 minutes. Scoop flesh from skins."
+        },
+        {
+            "2": "In a medium saucepan, combine the pumpkin flesh and sugar. Heat over medium-low temperature until sugar dissolves into the pumpkin. Add coconut and cardamom. Stir often. Cook until the mixture has thickened to thick pudding-like consistency."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "210"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "43g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F600feb15a6de939c924132b0295c57d5%2F44510.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

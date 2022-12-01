@@ -1,0 +1,93 @@
+{
+    "title": "Vegetable Quesadillas",
+    "Category": "Quesadillas",
+    "Ingredients": [
+        {
+            "1": "1  zucchini, cubed"
+        },
+        {
+            "2": "1 head fresh broccoli, chopped"
+        },
+        {
+            "3": "1  red bell pepper, chopped"
+        },
+        {
+            "4": "1  carrot, chopped"
+        },
+        {
+            "5": "1  yellow onion, chopped"
+        },
+        {
+            "6": "4 small button mushrooms, chopped"
+        },
+        {
+            "7": "4 (10 inch) flour tortillas"
+        },
+        {
+            "8": "0.5 cup shredded sharp Cheddar cheese"
+        },
+        {
+            "9": "0.5 cup shredded Monterey Jack cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to broil. Line a baking sheet with aluminum foil."
+        },
+        {
+            "2": "Place zucchini, broccoli, bell pepper, carrot, onion and mushrooms in a steamer over 1 inch of boiling water, and cover. Cook until tender but still firm, about 2 to 6 minutes. Drain."
+        },
+        {
+            "3": "Place two tortillas, side by side, on the prepared baking sheet. On each tortilla layer cheddar cheese, vegetables, then Monterey jack cheese. Top each with another tortilla."
+        },
+        {
+            "4": "Place under the broiler and cook until lightly browned. Carefully turn tortillas and cook on the other side until lightly browned."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "787"
+        },
+        {
+            "Fat": "30g"
+        },
+        {
+            "Carbs": "100g"
+        },
+        {
+            "Protein": "33g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F41fce9e7212ab715e5e2d9b11b8c5061%2F1646056859ques1.PNG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F41fce9e7212ab715e5e2d9b11b8c5061%2F1643727161Vegetable-Quesadillas-Recipe.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7857481.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F23da5659bafe455b0a71ecb684994764%2F609198.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Grandma's Sloppy Joes",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1 cup chopped onion"
+        },
+        {
+            "3": "1 cup chopped green bell pepper"
+        },
+        {
+            "4": "1 tablespoon brown sugar"
+        },
+        {
+            "5": "1 tablespoon vinegar"
+        },
+        {
+            "6": "1 cup ketchup"
+        },
+        {
+            "7": "2 tablespoons prepared mustard"
+        },
+        {
+            "8": "0.5 teaspoon ground cloves"
+        },
+        {
+            "9": "1 teaspoon salt"
+        },
+        {
+            "10": "4  hamburger buns, split"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large skillet over medium heat, combine the ground beef, onion, and green pepper. Cook until beef is browned, and drain off excess grease. Stir in the brown sugar, vinegar, ketchup and mustard, and season with cloves and salt. Simmer for 30 minutes on low. Serve on hamburger buns."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "429"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8978418.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9237018.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5898980.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F4f02e34fb83819a44f798b302109e4ba%2F5629062.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

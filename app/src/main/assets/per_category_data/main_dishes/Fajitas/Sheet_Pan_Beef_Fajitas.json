@@ -1,0 +1,105 @@
+{
+    "title": "Sheet Pan Beef Fajitas",
+    "Category": "Fajitas",
+    "Ingredients": [
+        {
+            "1": "2 medium bell peppers, sliced"
+        },
+        {
+            "2": "1 medium onion, sliced"
+        },
+        {
+            "3": "1 tablespoon olive oil, divided"
+        },
+        {
+            "4": "0.5 teaspoons salt, divided"
+        },
+        {
+            "5": "1 teaspoon chili powder, divided"
+        },
+        {
+            "6": "0.75 teaspoon garlic powder"
+        },
+        {
+            "7": "0.75 teaspoon ground black pepper, divided"
+        },
+        {
+            "8": "0.5 teaspoon ground cumin, divided"
+        },
+        {
+            "9": "1 (1 1/2-pound) flank steak"
+        },
+        {
+            "10": "2 medium limes, quartered"
+        },
+        {
+            "11": "6 (6 inch) flour tortillas, warmed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 450 degrees F (230 degrees C). Line a sheet pan with foil."
+        },
+        {
+            "2": "Combine bell peppers, onion, 2 teaspoons oil, 3/4 teaspoon salt, 1/2 teaspoon chili powder, garlic powder, 1/4 teaspoon pepper, and 1/4 teaspoon cumin on the prepared pan; toss to coat. Spread veggie mixture around the sides of the pan creating a space in the center."
+        },
+        {
+            "3": "Place flank steak in center of pan and brush with remaining 1 teaspoon oil. Sprinkle steak with remaining salt, chili powder, pepper, and cumin and rub to evenly coat."
+        },
+        {
+            "4": "Bake in the preheated oven until veggies are tender and browned around the edges and steak is beginning to firm and is hot and slightly pink in the center, 12 to 14 minutes, or to desired degree of doneness. An instant-read thermometer inserted into the center of the steak should read 140 degrees F (60 degrees C) for medium."
+        },
+        {
+            "5": "Transfer steak to a cutting board and rest, 5 to 10 minutes."
+        },
+        {
+            "6": "Thinly slice steak and return to the sheet pan. Add lime wedges and serve with tortillas."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "240"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9053353.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9053355.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://www.allrecipes.com/thmb/rITWPBYdQBLtLPh9U3BxiRnYW5o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9053355_sheet-pan-beef-fajitas_allrecipes-37d056e6320f4768b7e6e0c699675354.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

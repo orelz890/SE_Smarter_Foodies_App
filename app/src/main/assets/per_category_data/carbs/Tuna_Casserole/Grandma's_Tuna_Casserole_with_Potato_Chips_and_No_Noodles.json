@@ -1,0 +1,69 @@
+{
+    "title": "Grandma's Tuna Casserole with Potato Chips and No Noodles",
+    "Category": "Tuna Casserole",
+    "Ingredients": [
+        {
+            "1": "2 (13.5 ounce) bags large, ridged potato chips (such as Ruffles\u00ae)"
+        },
+        {
+            "2": "2 (15 ounce) cans green beans, drained"
+        },
+        {
+            "3": "2 (10.5 ounce) cans condensed cream of mushroom soup"
+        },
+        {
+            "4": "2 (5 ounce) cans water-packed tuna, drained and flaked"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Crush potato chips into a large bowl. Add green beans, condensed soup, and tuna and mix until well combined. Pack into a 10x14-inch casserole dish."
+        },
+        {
+            "3": "Bake in the preheated oven until the top is crispy, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 10x14-inch casserole"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "511"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fbfa49211401bc38b4fe84772ed745cbc%2F16663682442566682A390-EA66-4CDB-86CD-D6EA624A39DC.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F898259.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

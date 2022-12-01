@@ -1,0 +1,66 @@
+{
+    "title": "Easiest Salad Dressing",
+    "Category": "Salad Dressings",
+    "Ingredients": [
+        {
+            "1": "0.5 cup mayonnaise"
+        },
+        {
+            "2": "3 teaspoons milk"
+        },
+        {
+            "3": "0.25 teaspoon salt"
+        },
+        {
+            "4": "1 pinch ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine the mayonnaise, milk, salt and pepper in a jar with a tight fitting lid. Shake vigorously to mix, then pour over your salad."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "198"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5078786.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4532909.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3ab39bf622e52f0141b02e054219356d%2F4518907.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fba1527c3ab60dcc06a03dd2e749fffe5%2F608418.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

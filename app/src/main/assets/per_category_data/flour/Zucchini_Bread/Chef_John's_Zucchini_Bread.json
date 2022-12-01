@@ -1,0 +1,123 @@
+{
+    "title": "Chef John's Zucchini Bread",
+    "Category": "Zucchini Bread",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon kosher salt"
+        },
+        {
+            "2": "4 cups grated zucchini"
+        },
+        {
+            "3": "3 cups all-purpose flour"
+        },
+        {
+            "4": "1 teaspoon baking powder"
+        },
+        {
+            "5": "1 teaspoon baking soda"
+        },
+        {
+            "6": "1 teaspoon ground cinnamon"
+        },
+        {
+            "7": "0.5 teaspoon ground ginger"
+        },
+        {
+            "8": "1 pinch cayenne pepper"
+        },
+        {
+            "9": "1 pinch freshly grated nutmeg"
+        },
+        {
+            "10": "2 large eggs"
+        },
+        {
+            "11": "0.5 cups white sugar"
+        },
+        {
+            "12": "0.5 teaspoons vanilla extract"
+        },
+        {
+            "13": "0.75 cup unsalted butter, melted"
+        },
+        {
+            "14": "1 cup chopped walnuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Generously butter two loaf pans."
+        },
+        {
+            "2": "Mix kosher salt into zucchini and let sit for 10 minutes. Transfer to a strainer and rinse very thoroughly under cold water to remove salt. Let drain for 15 to 20 minutes before using."
+        },
+        {
+            "3": "Whisk flour, baking powder, baking soda, cinnamon, ginger, cayenne, and nutmeg together in a mixing bowl. Reserve until needed."
+        },
+        {
+            "4": "Combine eggs, sugar, and vanilla in another large mixing bowl, and whisk until mixture is smooth and turns a pale yellow, about 1 minute. Grab a handful of the drained zucchini with both hands and squeeze out any excess water before transferring into the egg-sugar mixture. Repeat until all the zucchini has been transferred in."
+        },
+        {
+            "5": "Pour in melted butter and stir until combined. Stir walnuts into the batter, followed by the flour mixture. Use a spatula to mix until the flour disappears."
+        },
+        {
+            "6": "Transfer into the prepared loaf pans. Tap pans on the countertop to settle the batter."
+        },
+        {
+            "7": "Bake in the center of the preheated oven until golden brown on top and a skewer poked in the center comes out clean, about 50 minutes. Let cool for 10 minutes in the pan, and then turn out on to a cooling rack. Let cool completely before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Additional Time": "35 mins"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 loaves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "298"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1419fccb6e9a803890cb154e20d49407%2F1661713818E9379CEC-ECB4-47C4-8BAD-842A4221D182.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9398296.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9383023.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9383016.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/scnufgbySh6FcVFMS-9tZphkZuI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9383016-443316ddd0a346fa87fadba8d8c49de9.jpg"
+        }
+    ],
+    "main category": "flour"
+}

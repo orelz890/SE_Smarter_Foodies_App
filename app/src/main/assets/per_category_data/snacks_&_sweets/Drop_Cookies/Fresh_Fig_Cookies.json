@@ -1,0 +1,87 @@
+{
+    "title": "Fresh Fig Cookies",
+    "Category": "Drop Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup white sugar"
+        },
+        {
+            "2": "0.5 cup shortening"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "2 cups all-purpose flour"
+        },
+        {
+            "5": "1 teaspoon baking soda"
+        },
+        {
+            "6": "1 teaspoon baking powder"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "0.5 teaspoon ground cloves"
+        },
+        {
+            "9": "1 cup chopped fresh figs"
+        },
+        {
+            "10": "0.5 cup chopped walnuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (180 degrees C)."
+        },
+        {
+            "2": "Cream sugar and shortening and add beaten egg."
+        },
+        {
+            "3": "Sift dry ingredients and blend with creamed mixture. Fold in figs and nuts."
+        },
+        {
+            "4": "Drop by spoonfuls on greased sheet. Bake for 15 to 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "3 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "176"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8344443.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F65184382f647c4e89c3f67ca396be3d6%2F4557965.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb2e77c8fbb7f5eb001e444d4af45b5a4%2F2507656.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff64314074aa55c2ef6ba5c90c39f3b77%2F1363577.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

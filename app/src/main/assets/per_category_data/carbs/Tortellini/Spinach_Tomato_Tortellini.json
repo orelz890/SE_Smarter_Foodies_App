@@ -1,0 +1,102 @@
+{
+    "title": "Spinach Tomato Tortellini",
+    "Category": "Tortellini",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package cheese tortellini"
+        },
+        {
+            "2": "1 (14.5 ounce) can diced tomatoes with garlic and onion"
+        },
+        {
+            "3": "1 cup chopped fresh spinach"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.25 teaspoon pepper"
+        },
+        {
+            "6": "0.5 teaspoons dried basil"
+        },
+        {
+            "7": "1 teaspoon minced garlic"
+        },
+        {
+            "8": "2 tablespoons all-purpose flour"
+        },
+        {
+            "9": "0.75 cup milk"
+        },
+        {
+            "10": "0.75 cup heavy cream"
+        },
+        {
+            "11": "0.25 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of water to a boil. Add the tortellini, and cook until tender, about 10 minutes."
+        },
+        {
+            "2": "While you get the tortellini going, combine the tomatoes, spinach, salt, pepper, basil and garlic in a large saucepan over medium heat. Cook and stir until the mixture begins to bubble."
+        },
+        {
+            "3": "In a medium bowl, whisk together the flour, milk and cream. Stir this mixture into the saucepan along with the Parmesan cheese. Heat through, then reduce heat to low, and simmer until thick, about 2 minutes."
+        },
+        {
+            "4": "Drain the tortellini, but do not rinse, then pour them into the saucepan with the sauce. Stir to coat, and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "400"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429521.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9396584.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9372517.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9326040.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/02sTjeYmyxL8SAXFORxa93gH18M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/76129_SpinachTomatoTortellini_MelissaGoff-19dec3f8103a4a85af8ca0f2f8f1eaca.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

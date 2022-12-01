@@ -1,0 +1,66 @@
+{
+    "title": "Slow Cooker BBQ Pork Chops",
+    "Category": "Pork Chops",
+    "Ingredients": [
+        {
+            "1": "1 (18 ounce) bottle barbecue sauce"
+        },
+        {
+            "2": "8  pork chops"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Spread a thin layer of barbeque sauce on the bottom of a slow cooker. Alternately layer pork chops with barbeque sauce. Pour any remaining sauce over the top of the final layer of chops."
+        },
+        {
+            "2": "Cook on Low for 6 hours or High for 3 to 4 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 5 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "544"
+        },
+        {
+            "Fat": "36g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdf89495543e02f967ab5967a711d2e43%2F6176283.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4567764.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4115517.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3450751.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/xD9giuZHC_TAZiQwCxsbuOxbCOw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18397-slow-cooker-bbq-pork-chops-1x1-1-b0a6ee15738d4479b95e67dbe3d56e66.jpg"
+        }
+    ],
+    "main category": "pork"
+}

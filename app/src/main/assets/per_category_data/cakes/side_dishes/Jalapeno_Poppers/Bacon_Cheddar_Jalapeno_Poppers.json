@@ -1,0 +1,66 @@
+{
+    "title": "Bacon Cheddar Jalapeno Poppers",
+    "Category": "Jalapeno Poppers",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package Cheddar cheese"
+        },
+        {
+            "2": "6  jalapeno peppers, seeded and halved"
+        },
+        {
+            "3": "12 slices bacon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the broiler."
+        },
+        {
+            "2": "Cut Cheddar cheese into 12 slices long enough to fit inside the jalapeno halves. Insert cheese slices into the halves. Wrap the jalapeno halves with the bacon slices, securing with a toothpick, if necessary. Place on a medium baking sheet."
+        },
+        {
+            "3": "Broil 5 to 10 minutes, or until the bacon is evenly brown."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "281"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F791447.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F114596.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

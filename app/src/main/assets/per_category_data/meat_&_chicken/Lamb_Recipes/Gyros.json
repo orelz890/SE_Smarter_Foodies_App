@@ -1,0 +1,99 @@
+{
+    "title": "Gyros",
+    "Category": "Lamb Recipes",
+    "Ingredients": [
+        {
+            "1": "0.25 cup chopped red onion"
+        },
+        {
+            "2": "1 tablespoon minced garlic"
+        },
+        {
+            "3": "1 tablespoon dried marjoram"
+        },
+        {
+            "4": "1 tablespoon ground dried rosemary"
+        },
+        {
+            "5": "2 teaspoons kosher salt"
+        },
+        {
+            "6": "0.5 teaspoon freshly ground black pepper"
+        },
+        {
+            "7": "1 pound 93%-lean ground beef"
+        },
+        {
+            "8": "1 pound ground lamb"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Process red onion in a food processor until finely minced. Scoop onion into a piece of cheesecloth and squeeze it to release as much moisture as possible."
+        },
+        {
+            "3": "Return onion to the food processor. Add garlic and process until the garlic is well integrated. Blend in marjoram, rosemary, salt, and pepper."
+        },
+        {
+            "4": "Gradually blend ground beef and ground lamb with the onion and seasoning mixture by alternately adding small amounts of each meat to the mixture and processing until well incorporated before adding the next batch."
+        },
+        {
+            "5": "Firmly pack the meat mixture into a 9x5-inch loaf pan, assuring no air pockets are trapped in the meat."
+        },
+        {
+            "6": "Bake in the preheated oven until no longer pink in the center, about 1 hour 15 minutes. An instant-read thermometer inserted into the center should read at least 175 degrees F (80 degrees C)."
+        },
+        {
+            "7": "Drain grease and slice thinly to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9x5-inch loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "224"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8750049.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8261034.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8360527.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7577189.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

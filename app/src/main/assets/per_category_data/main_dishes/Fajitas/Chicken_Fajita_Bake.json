@@ -1,0 +1,102 @@
+{
+    "title": "Chicken Fajita Bake",
+    "Category": "Fajitas",
+    "Ingredients": [
+        {
+            "1": "2 pounds boneless chicken breasts, diced"
+        },
+        {
+            "2": "1 tablespoon vegetable oil"
+        },
+        {
+            "3": "1 large tomato, diced"
+        },
+        {
+            "4": "1  green bell pepper, cut into strips"
+        },
+        {
+            "5": "0.5 large onion, cut into strips"
+        },
+        {
+            "6": "0.75 cup water"
+        },
+        {
+            "7": "2 (1.27 ounce) packets fajita seasoning"
+        },
+        {
+            "8": "10 (6 inch) corn tortillas, cut in quarters"
+        },
+        {
+            "9": "1 (16 ounce) can pinto beans, rinsed and drained"
+        },
+        {
+            "10": "2 cups shredded Cheddar cheese"
+        },
+        {
+            "11": "1 (16 ounce) can black beans, rinsed and drained"
+        },
+        {
+            "12": "0.25 cup green onions, chopped"
+        },
+        {
+            "13": "0.25 cup chopped cilantro"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 450 degrees F (230 degrees C). Grease a 9x13-inch baking pan."
+        },
+        {
+            "2": "Heat a skillet over medium heat. Add chicken; cook and stir until browned on all sides, about 6 minutes. Transfer chicken to a plate."
+        },
+        {
+            "3": "Heat oil in the hot skillet. Add tomato, bell pepper, and onion; cook and stir until softened, 5 to 7 minutes. Mix in cooked chicken, water, and fajita seasoning."
+        },
+        {
+            "4": "Line the bottom of the prepared pan with 5 tortillas; pour pinto beans on top. Spread 1/2 of the chicken mixture over the beans; cover with Cheddar cheese. Layer the remaining tortillas, black beans, and chicken mixture on top. Cover with aluminum foil."
+        },
+        {
+            "5": "Bake in the preheated oven until tortillas are lightly browned and chicken juices run clear, 25 to 30 minutes. Top with green onions and cilantro."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "36 mins"
+        },
+        {
+            "Total Time": " 1 hrs 6 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "449"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "38g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6274487.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F067936913d4f1a82f0453a390127b154%2F4561940.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

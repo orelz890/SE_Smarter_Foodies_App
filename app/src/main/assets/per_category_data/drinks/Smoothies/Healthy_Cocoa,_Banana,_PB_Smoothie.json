@@ -1,0 +1,69 @@
+{
+    "title": "Healthy Cocoa, Banana, PB Smoothie",
+    "Category": "Smoothies",
+    "Ingredients": [
+        {
+            "1": "1 cup milk"
+        },
+        {
+            "2": "0.5  chopped frozen banana, or more to taste"
+        },
+        {
+            "3": "2 tablespoons peanut butter"
+        },
+        {
+            "4": "2 teaspoons unsweetened cocoa powder"
+        },
+        {
+            "5": "1 teaspoon honey"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Blend milk, banana, peanut butter, cocoa powder, and honey together in a blender until smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 serving"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "397"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9057494.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6972466.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6773117.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff0fb32fbb5d619fa112c800f9ebfc086%2F4027513.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

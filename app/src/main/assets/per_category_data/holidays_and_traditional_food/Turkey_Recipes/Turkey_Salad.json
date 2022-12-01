@@ -1,0 +1,87 @@
+{
+    "title": "Turkey Salad",
+    "Category": "Turkey Recipes",
+    "Ingredients": [
+        {
+            "1": "0.75 pound cooked turkey meat"
+        },
+        {
+            "2": "2 stalks celery"
+        },
+        {
+            "3": "2  green onions"
+        },
+        {
+            "4": "0.5  red bell pepper"
+        },
+        {
+            "5": "3 tablespoons mayonnaise"
+        },
+        {
+            "6": "2 tablespoons prepared Dijon-style mustard"
+        },
+        {
+            "7": "1 tablespoon cider vinegar"
+        },
+        {
+            "8": "1 teaspoon white sugar"
+        },
+        {
+            "9": "0.25 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place cooked turkey meat, celery, green onions, and red bell pepper in a blender or food processor. Pulse until finely chopped."
+        },
+        {
+            "2": "Transfer turkey mixture to a medium bowl. Mix in mayonnaise, prepared Dijon-style mustard, cider vinegar, white sugar, and salt until well combined. Cover and refrigerate, 8 hours to overnight, before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Additional Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 20 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "40"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8917897.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8792427.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8494307.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8012268.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

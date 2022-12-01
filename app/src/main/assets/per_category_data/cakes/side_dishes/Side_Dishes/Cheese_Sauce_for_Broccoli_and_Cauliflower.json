@@ -1,0 +1,75 @@
+{
+    "title": "Cheese Sauce for Broccoli and Cauliflower",
+    "Category": "Side Dishes",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons butter"
+        },
+        {
+            "2": "2 tablespoons all-purpose flour"
+        },
+        {
+            "3": "1 cup milk"
+        },
+        {
+            "4": "0.5 cups shredded Cheddar cheese"
+        },
+        {
+            "5": "1 pinch salt and freshly ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a saucepan over medium heat; add flour and whisk continuously until mixture turns golden and forms a smooth paste. Add milk and stir with a wooden spoon until mixture thickens, about 3 to 5 minutes."
+        },
+        {
+            "2": "Add Cheddar cheese and stir until cheese is melted, about 2 to 3 minutes more. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "178"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5d3e89b657b16349e901d470462376df%2F166717945486252C2B6CF-490C-483F-ABA9-AD261A52DE90.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1060f300927579c7acf0e26df37f9114%2F1660354954image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1060f300927579c7acf0e26df37f9114%2F1659570604E98EE625-1018-40FC-A4FB-13EBDA7E8D33.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1060f300927579c7acf0e26df37f9114%2F1648083554image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/zWlHDFpGBxexoQ6BeAChbeS2fK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5541328-62238e2ae45b48f698c4b3de3c68b82a.jpg"
+        }
+    ],
+    "main category": "side_dishes"
+}

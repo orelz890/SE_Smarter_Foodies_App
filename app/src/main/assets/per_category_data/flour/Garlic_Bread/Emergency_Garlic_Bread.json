@@ -1,0 +1,69 @@
+{
+    "title": "Emergency Garlic Bread",
+    "Category": "Garlic Bread",
+    "Ingredients": [
+        {
+            "1": "4  hot dog buns"
+        },
+        {
+            "2": "4 teaspoons butter, softened, or as needed"
+        },
+        {
+            "3": "2 teaspoons garlic powder, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler."
+        },
+        {
+            "2": "Separate buns and spread butter onto the cut side of each one. Sprinkle with garlic powder. Place on a baking tray."
+        },
+        {
+            "3": "Toast under the preheated broiler until golden brown, about 4 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "160"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6789716.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3863962.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9094b6a68c84a7d66d0ec1f433dd936c%2F805899.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffc247a88214300d76dfca34ae756316c%2F656584.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

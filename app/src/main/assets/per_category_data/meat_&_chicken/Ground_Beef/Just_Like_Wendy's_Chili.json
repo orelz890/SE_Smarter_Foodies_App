@@ -1,0 +1,114 @@
+{
+    "title": "Just Like Wendy's Chili",
+    "Category": "Ground Beef",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil"
+        },
+        {
+            "2": "2 pounds ground beef"
+        },
+        {
+            "3": "2 stalks celery, chopped"
+        },
+        {
+            "4": "1  onion, chopped"
+        },
+        {
+            "5": "1  green bell pepper, chopped"
+        },
+        {
+            "6": "3 (14 ounce) cans stewed tomatoes"
+        },
+        {
+            "7": "1 (14 ounce) can tomato sauce"
+        },
+        {
+            "8": "1 (10 ounce) can diced tomatoes with green chiles (such as RO*TEL)"
+        },
+        {
+            "9": "1 cup water"
+        },
+        {
+            "10": "2 (1.25 ounce) packages chili seasoning (such as McCormick\u00ae Mild Chili Seasoning Mix)"
+        },
+        {
+            "11": "1 (14 ounce) can kidney beans, undrained"
+        },
+        {
+            "12": "1 (14 ounce) can pinto beans, undrained"
+        },
+        {
+            "13": "1 salt and ground black pepper to taste"
+        },
+        {
+            "14": "1 tablespoon white vinegar, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a large pot over medium-high heat. Press ground beef into the hot oil to form one large patty; let the bottom brown, 8 to 10 minutes."
+        },
+        {
+            "2": "Stir and break browned beef into crumbles. Continue to cook until no longer pink, about 5 minutes longer."
+        },
+        {
+            "3": "Stir celery, onion, and bell pepper into beef and cook until onion is translucent, about 5 minutes."
+        },
+        {
+            "4": "Pour in stewed tomatoes, tomato sauce, diced tomatoes with green chiles, and water. Break apart large chunks of stewed tomatoes. Stir in chili seasoning. Stir in kidney and pinto beans. Season with salt and pepper."
+        },
+        {
+            "5": "Bring to a boil, then reduce heat to low, and simmer for 1 hour."
+        },
+        {
+            "6": "Mix vinegar into chili just before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "10 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "326"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fff8f4d1d5de54107e0180584fe352ec3%2F16640269006288A50B-EED8-4DF2-9185-CE34CDD758F8.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fff8f4d1d5de54107e0180584fe352ec3%2F1662518642ED3355CB-18EA-4394-9D6F-C49C19BDF95B.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fff8f4d1d5de54107e0180584fe352ec3%2F164643284716464328343512672409290119197485.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9408888.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/UEbt7Glw8QL7uiEcTsWV17yzZfE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6278897_just-like-wendys-chili_photo-by-lutzflcat-10abf73908a4421c864d83bbb5f223ce.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

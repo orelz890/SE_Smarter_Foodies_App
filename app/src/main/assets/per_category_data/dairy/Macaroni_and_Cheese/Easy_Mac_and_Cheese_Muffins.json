@@ -1,0 +1,90 @@
+{
+    "title": "Easy Mac and Cheese Muffins",
+    "Category": "Macaroni and Cheese",
+    "Ingredients": [
+        {
+            "1": "2 cups uncooked elbow macaroni"
+        },
+        {
+            "2": "1 tablespoon butter"
+        },
+        {
+            "3": "1  egg, beaten"
+        },
+        {
+            "4": "1 cup milk"
+        },
+        {
+            "5": "0.5 cups shredded sharp Cheddar cheese"
+        },
+        {
+            "6": "0.5 cups shredded mozzarella cheese"
+        },
+        {
+            "7": "0.5 cup seasoned dry bread crumbs"
+        },
+        {
+            "8": "2 teaspoons olive oil"
+        },
+        {
+            "9": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a muffin tin with nonstick cooking spray. In a small bowl, stir together the bread crumbs, olive oil and salt; set aside."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Add the macaroni and cook for about 8 minutes, it should still be a little bit firm. Remove from the heat, drain and return to the pan; stir in the butter and egg until pasta is evenly coated. Reserve 1/2 cup of sharp Cheddar cheese and stir the remaining Cheddar cheese, milk and mozzarella cheese into the pasta. Spoon into the prepared muffin tin. Sprinkle the reserved cheese and the bread crumb mixture over the tops."
+        },
+        {
+            "3": "Bake for 30 minutes in the preheated oven, or until the topping is nicely browned. Allow the muffins to cool for a few minutes before removing from the pan. This will allow the cheese to set and they will hold their muffin shape."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "209"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9015097.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8586458.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7001080.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F81b2444268701ee625c90bf91e6c3607%2F6876338.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dairy"
+}

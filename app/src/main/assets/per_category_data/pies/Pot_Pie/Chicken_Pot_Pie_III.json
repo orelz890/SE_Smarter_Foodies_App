@@ -1,0 +1,78 @@
+{
+    "title": "Chicken Pot Pie III",
+    "Category": "Pot Pie",
+    "Ingredients": [
+        {
+            "1": "1 recipe pastry for a 9 inch double crust pie"
+        },
+        {
+            "2": "2 cups frozen mixed vegetables"
+        },
+        {
+            "3": "2  boneless, skinless chicken breast halves, boiled"
+        },
+        {
+            "4": "1 teaspoon dried thyme"
+        },
+        {
+            "5": "0.5 (10.75 ounce) can  condensed cream of celery soup"
+        },
+        {
+            "6": "1 (10.75 ounce) can  condensed cream of potato soup"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C). Line a 9 inch pie dish with pastry."
+        },
+        {
+            "2": "Blanch frozen mixed vegetables for 3 to 4 minutes. Drain."
+        },
+        {
+            "3": "Dice chicken and place in a large bowl. Add vegetables, thyme, celery soup and potato soup. Stir together."
+        },
+        {
+            "4": "Pour filling into pastry lined pie dish. Arrange top layer of pie crust, seal and flute the edges. Cut slits in the top of the crust to allow for steam to escape."
+        },
+        {
+            "5": "Place pie on cookie sheet. Put aluminum foil around the pie crust edges. Bake at 400 degrees F (200 degrees C) for 30 minutes. Remove foil and continue to bake for an additional 30 minutes until golden brown. Remove from oven and let stand for 5 minutes and then serve."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "346"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F009fdd1b3e531abfefb236de107064b8%2F1645493128CE558488-E01C-4B5B-9DC4-63D3BA792A11.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9329617.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9328948.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8859230.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Spritz Orange Crisps",
+    "Category": "Spritz Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup shortening"
+        },
+        {
+            "2": "0.5 cup white sugar"
+        },
+        {
+            "3": "0.5 cup packed brown sugar"
+        },
+        {
+            "4": "1 tablespoon orange juice"
+        },
+        {
+            "5": "1  egg"
+        },
+        {
+            "6": "1 teaspoon orange zest"
+        },
+        {
+            "7": "1.0 cups sifted all-purpose flour"
+        },
+        {
+            "8": "0.25 teaspoon salt"
+        },
+        {
+            "9": "0.25 teaspoon baking soda"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Cream the shortening. Gradually add the sugar and the orange juice. Cream well. Beat in the egg and the orange rind."
+        },
+        {
+            "3": "Sift the flour, salt and baking soda. Add the flour mixture to the creamed mixture a little at a time. Fill cookie press and form cookies onto an ungreased cookie sheet."
+        },
+        {
+            "4": "Bake at 375 degrees F (190 degrees C) for 10 to 12 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "42 "
+        },
+        {
+            "Yield": "7 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "91"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F541958.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F398963.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F256402.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

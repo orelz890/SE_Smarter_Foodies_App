@@ -1,0 +1,81 @@
+{
+    "title": "Easy Guacamole",
+    "Category": "Paleo Diet",
+    "Ingredients": [
+        {
+            "1": "2  ripe avocados, peeled and pitted"
+        },
+        {
+            "2": "1 small onion, finely chopped"
+        },
+        {
+            "3": "1  ripe tomato, chopped"
+        },
+        {
+            "4": "1 clove garlic, minced"
+        },
+        {
+            "5": "1  lime, juiced"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mash avocado in a medium serving bowl. Stir in onion, tomato, and garlic. Season with lime juice, salt, and pepper."
+        },
+        {
+            "2": "Cover and chill guacamole for 30 minutes to allow flavors to blend."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "45"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4221f2a28b47328e6c4d96c267d764f9%2F1660250142Screenshot_2022-08-11-16-34-42-11_40deb401b9ffe8e1df2f1cc5ba480b12.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4221f2a28b47328e6c4d96c267d764f9%2F16582667297991DAB9-E461-47BF-B3F0-9399D3F69A5B.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9277946.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9184948.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/OuxDTJlGzXcHtKQMX495Iko23Jw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5369662-f97d20d3db444be49227420ee0c40b77.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

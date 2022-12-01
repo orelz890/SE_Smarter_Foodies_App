@@ -1,0 +1,96 @@
+{
+    "title": "Chicken Soba Noodle Soup",
+    "Category": "Chicken Noodle Soup",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil"
+        },
+        {
+            "2": "0.25 medium onion, diced"
+        },
+        {
+            "3": "4 cloves garlic, minced"
+        },
+        {
+            "4": "3 medium carrots, chopped"
+        },
+        {
+            "5": "2 stalks celery, chopped"
+        },
+        {
+            "6": "2 (32 fluid ounce) containers chicken broth"
+        },
+        {
+            "7": "1 tablespoon curry powder"
+        },
+        {
+            "8": "1 teaspoon salt, or more to taste"
+        },
+        {
+            "9": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "10": "0.5 teaspoon ground white pepper"
+        },
+        {
+            "11": "1 tablespoon butter"
+        },
+        {
+            "12": "3 (5 ounce) skinless, boneless chicken breasts, cubed"
+        },
+        {
+            "13": "4 (8 ounce) packages dried soba noodles"
+        },
+        {
+            "14": "0.5 cup frozen peas"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a stockpot over medium heat. Add onion and garlic and saute for 2 minutes. Add carrots and celery and saute for 2 more minutes. Add chicken broth and bring to a boil. Stir in curry powder, salt, and both peppers. Reduce heat to a simmer."
+        },
+        {
+            "2": "At the same time, melt butter in a skillet over medium-high heat. Add chicken and saute until golden brown and the juices run clear, 5 to 7 minutes."
+        },
+        {
+            "3": "Add cooked chicken to the simmering broth and return to a boil. Add soba noodles and peas; cook, stirring occasionally, until noodles are tender yet firm to the bite, about 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "524"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "91g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F68b0d0ed3015540244dc1072564e2e41%2F1654564992soba%2520soup.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

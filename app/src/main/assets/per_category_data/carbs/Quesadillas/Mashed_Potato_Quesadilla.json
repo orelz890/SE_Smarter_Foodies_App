@@ -1,0 +1,87 @@
+{
+    "title": "Mashed Potato Quesadilla",
+    "Category": "Quesadillas",
+    "Ingredients": [
+        {
+            "1": "2 cups mashed potatoes"
+        },
+        {
+            "2": "6 slices cooked bacon, crumbled"
+        },
+        {
+            "3": "0.25 cup sliced green onions"
+        },
+        {
+            "4": "8  flour tortillas"
+        },
+        {
+            "5": "2 cups shredded Cheddar cheese"
+        },
+        {
+            "6": "2 tablespoons softened butter"
+        },
+        {
+            "7": "1 cup salsa"
+        },
+        {
+            "8": "0.25 cup sour cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir together mashed potatoes, bacon, and green onions. Spread mashed potato mixture onto 4 tortillas, spreading to within 1/2 inch of the edges. Sprinkle shredded Cheddar cheese on top of mashed potatoes and top with remaining tortillas. Lightly butter each side of quesadilla."
+        },
+        {
+            "2": "Preheat a large skillet over medium heat."
+        },
+        {
+            "3": "Place a quesadilla into the preheated pan; cook until golden brown and crispy, 2 to 3 minutes per side. Repeat with remaining quesadillas. Serve with salsa and sour cream."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 quesadillas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "766"
+        },
+        {
+            "Fat": "39g"
+        },
+        {
+            "Carbs": "78g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F298a1507f4347f04d31e16bda1fdc762%2F6049852.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Faf9cc39cf26708a9521d89d789539668%2F4263321.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F851567.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1f2209663bec758657b80a102abfeacb%2F837278.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

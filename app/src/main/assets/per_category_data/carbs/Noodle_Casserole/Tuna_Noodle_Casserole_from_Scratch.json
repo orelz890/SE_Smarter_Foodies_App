@@ -1,0 +1,111 @@
+{
+    "title": "Tuna Noodle Casserole from Scratch",
+    "Category": "Noodle Casserole",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter, divided"
+        },
+        {
+            "2": "1 (8 ounce) package uncooked medium egg noodles"
+        },
+        {
+            "3": "0.5 medium onion, finely chopped"
+        },
+        {
+            "4": "1 stalk celery, finely chopped"
+        },
+        {
+            "5": "1 clove garlic, minced"
+        },
+        {
+            "6": "8 ounces button mushrooms, sliced"
+        },
+        {
+            "7": "0.25 cup all-purpose flour"
+        },
+        {
+            "8": "2 cups milk"
+        },
+        {
+            "9": "1 salt and pepper to taste"
+        },
+        {
+            "10": "2 (5 ounce) cans tuna, drained and flaked"
+        },
+        {
+            "11": "1 cup frozen peas, thawed"
+        },
+        {
+            "12": "3 tablespoons bread crumbs"
+        },
+        {
+            "13": "1 cup shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C). Butter a medium baking dish with 1 tablespoon butter."
+        },
+        {
+            "2": "Fill a large pot with lightly salted water and bring to a rapid boil. Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes. Drain and set aside."
+        },
+        {
+            "3": "Melt 1 tablespoon butter in a skillet over medium-low heat. Stir in onion, celery, and garlic; cook and stir until tender, about 5 minutes. Increase heat to medium-high and mix in mushrooms. Continue to cook and stir until most of the liquid has evaporated, about 5 more minutes. Remove from heat and set aside."
+        },
+        {
+            "4": "Melt 4 tablespoons butter in a medium saucepan; whisk in flour until smooth. Gradually whisk in milk and cook until sauce is smooth and slightly thickened, about 5 minutes. Season with salt and pepper. Stir in tuna, peas, mushroom mixture, and cooked noodles. Transfer to the prepared baking dish."
+        },
+        {
+            "5": "Place remaining 2 tablespoons butter in a microwave-safe bowl; cook in the microwave until melted, about 10 seconds. Mix in bread crumbs until combined and sprinkle over casserole. Top with Cheddar cheese."
+        },
+        {
+            "6": "Bake in the preheated oven until bubbly and lightly browned, about 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "546"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F36e6f4b98bb912a7d4017a0f317b0f4d%2F1667091727528463B5E53-ADA8-475F-BCC1-26F4108AED84.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9399503.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9184586.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9022204.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/F7h9Tk6JzDgpdSu1ecf6IpT50ro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2612540-d17a414f837c41f0a41fbc31f6b43736.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

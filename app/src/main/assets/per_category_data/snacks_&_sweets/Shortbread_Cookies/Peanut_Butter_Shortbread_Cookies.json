@@ -1,0 +1,63 @@
+{
+    "title": "Peanut Butter Shortbread Cookies",
+    "Category": "Shortbread Cookies",
+    "Ingredients": [
+        {
+            "1": "2 cups natural peanut butter"
+        },
+        {
+            "2": "2 cups packed brown sugar"
+        },
+        {
+            "3": "2  eggs"
+        },
+        {
+            "4": "2 teaspoons vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F."
+        },
+        {
+            "2": "Mix in the order given. Spoon onto cookie sheet and gently press into cookie shape. Bake for 10 to 15 minutes until golden. NOTE: You can add choclate chips to half the recipe for an awesome taste."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "2 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "418"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9438181.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9374630.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9325899.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F576809dcc2a087b84f00567d61fdf400%2F515508.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

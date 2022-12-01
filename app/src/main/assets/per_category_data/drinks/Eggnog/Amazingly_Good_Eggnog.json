@@ -1,0 +1,105 @@
+{
+    "title": "Amazingly Good Eggnog",
+    "Category": "Eggnog",
+    "Ingredients": [
+        {
+            "1": "4 cups milk"
+        },
+        {
+            "2": "1 teaspoon ground cinnamon"
+        },
+        {
+            "3": "5  whole cloves"
+        },
+        {
+            "4": "1.0 teaspoons vanilla extract, divided"
+        },
+        {
+            "5": "12 large egg yolks"
+        },
+        {
+            "6": "0.5 cups white sugar"
+        },
+        {
+            "7": "4 cups light cream"
+        },
+        {
+            "8": "1.0 cups light rum (Optional)"
+        },
+        {
+            "9": "0.5 teaspoon ground nutmeg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine milk, cinnamon, 1/2 teaspoon vanilla, and cloves in a saucepan over the lowest heat setting; stir and heat for 5 minutes. Increase heat to medium-low and slowly bring to a boil. Remove from the heat."
+        },
+        {
+            "2": "Whisk egg yolks in a large bowl until light yellow in color. Add sugar and whisk until light and fluffy."
+        },
+        {
+            "3": "Pour some of the hot milk mixture into the egg yolk mixture, whisking quickly to avoid scrambling the eggs. Continue adding hot milk and whisking to combine until all milk is incorporated."
+        },
+        {
+            "4": "Pour the mixture back into the saucepan. Cook over medium heat, stirring constantly, until thick, about 3 minutes; do not allow the mixture to boil. Strain to remove cloves and let cool for about 1 hour."
+        },
+        {
+            "5": "Stir in cream, rum, remaining 2 teaspoons vanilla, and nutmeg. Refrigerate before serving, 8 hours to overnight."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 9 hrs"
+        },
+        {
+            "Total Time": " 9 hrs 25 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "349"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F803202d396d46009ef39d7029638386e%2F1667846462947IMG_2924.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2826338.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9004632.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8909698.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/rRx6UuWYt1WaD7O5mIAGGrWNGsg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/57028-amazingly-good-eggnog-mfs304-ac946b3e89aa416f8bdd3171fdd69cab.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/g0vnBGtkBQwkO1duTOZ9vXwWWp4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/eggnog-2000-98fb38a109f6486bbceab60689a923de.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/9Ou-5dnVn2i5jNRlT0dhtgGjlYI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/57028_Amazingly-Good-Eggnog_LZakaria_5911445_original-1x1-1-2f8ec7871db844b49c55e490482b8c8c.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Zucchini-Chocolate Chip Muffins",
+    "Category": "Muffins",
+    "Ingredients": [
+        {
+            "1": "0.5 cups all-purpose flour"
+        },
+        {
+            "2": "0.75 cup white sugar"
+        },
+        {
+            "3": "1 teaspoon baking soda"
+        },
+        {
+            "4": "1 teaspoon ground cinnamon"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "1  egg, lightly beaten"
+        },
+        {
+            "7": "0.5 cup vegetable oil"
+        },
+        {
+            "8": "0.25 cup milk"
+        },
+        {
+            "9": "1 tablespoon lemon juice"
+        },
+        {
+            "10": "1 teaspoon vanilla extract"
+        },
+        {
+            "11": "1 cup shredded zucchini"
+        },
+        {
+            "12": "0.5 cup miniature semisweet chocolate chips"
+        },
+        {
+            "13": "0.5 cup chopped walnuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease 12 muffin cups, or line with paper muffin liners."
+        },
+        {
+            "2": "Combine flour, sugar, baking soda, cinnamon, and salt in a large bowl. Mix egg, oil, milk, lemon juice, and vanilla extract in a bowl. Stir wet ingredients into dry ingredients until just moistened. Fold in zucchini, chocolate chips, and walnuts."
+        },
+        {
+            "3": "Fill prepared muffin cups 2/3 full with batter."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted into the center of a muffin comes out clean, 20 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 muffins"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "265"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F35bda8a99d5a2a431cf374d22acdb9b9%2F1661302311IMG_20220823_153813913.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F35bda8a99d5a2a431cf374d22acdb9b9%2F166030964220220811_191439.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3abc2c7f2fa3c8f7f0f75797b4493178%2F5582134.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F35bda8a99d5a2a431cf374d22acdb9b9%2F1658864725D028DEDD-AE24-477A-839D-83357E7D0E48.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/2eWCLxEUowQUfZYT2jkMFuLh_jA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9081018-zucchini-chocolate-chip-muffins-Stefanie-1x1-1-802aa995fe6d4117b3cc9d4fca32c6ad.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

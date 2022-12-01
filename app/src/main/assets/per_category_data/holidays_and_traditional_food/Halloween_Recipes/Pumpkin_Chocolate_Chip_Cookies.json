@@ -1,0 +1,108 @@
+{
+    "title": "Pumpkin Chocolate Chip Cookies",
+    "Category": "Halloween Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup canned pumpkin"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "0.5 cup vegetable oil"
+        },
+        {
+            "4": "1 large egg"
+        },
+        {
+            "5": "1 teaspoon baking soda"
+        },
+        {
+            "6": "1 teaspoon milk"
+        },
+        {
+            "7": "2 cups all-purpose flour"
+        },
+        {
+            "8": "2 teaspoons baking powder"
+        },
+        {
+            "9": "2 teaspoons ground cinnamon"
+        },
+        {
+            "10": "0.5 teaspoon salt"
+        },
+        {
+            "11": "2 cups semisweet chocolate chips"
+        },
+        {
+            "12": "0.5 cup chopped walnuts (Optional)"
+        },
+        {
+            "13": "1 tablespoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a baking sheet."
+        },
+        {
+            "2": "Combine pumpkin, sugar, oil, and egg in a large bowl. Dissolve baking soda into milk in a small bowl and stir in."
+        },
+        {
+            "3": "Stir together flour, baking powder, cinnamon, and salt in a separate bowl. Add flour mixture to pumpkin mixture and mix well. Add chocolate chips, walnuts, and vanilla; stir just to combine."
+        },
+        {
+            "4": "Drop by spoonful on the prepared cookie sheet and bake in the preheated oven until lightly brown and firm, approximately 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "2 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "202"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe3f51c244306e6b3592623fd4115245f%2F1668995224863PXL_20221121_014653200.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa6224d7255c0defdfc40174b5b096d6d%2F166412006816641200505402449763379509935962.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9413305.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9406279.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/dFZwT9mziizGD4e4eq4XtNDiOaU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/473562-7348f5a7383840d48446c5dbadc4cefd.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

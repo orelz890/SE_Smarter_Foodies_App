@@ -1,0 +1,87 @@
+{
+    "title": "Caprese Panini",
+    "Category": "Panini",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil, divided"
+        },
+        {
+            "2": "0.75 cup diced tomato"
+        },
+        {
+            "3": "1 tablespoon drained capers"
+        },
+        {
+            "4": "1 pinch red pepper flakes"
+        },
+        {
+            "5": "0.5 teaspoon balsamic vinegar"
+        },
+        {
+            "6": "4 slices  sourdough bread"
+        },
+        {
+            "7": "0.25 cup prepared pesto"
+        },
+        {
+            "8": "1 (6 ounce) package sliced mozzarella cheese"
+        },
+        {
+            "9": "1 sea salt and coarsely ground pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat 1 tablespoon oil in a nonstick skillet over medium-high heat. Add tomato, capers, and pepper flakes; saute until tomatoes just start to break down, about 3 minutes. Remove from the heat and stir in vinegar."
+        },
+        {
+            "2": "Brush one side of each bread slice with remaining oil. Spread the other sides with pesto. Place 2 slices of bread, pesto sides up, on a work surface. Layer with mozzarella cheese and then tomato mixture. Sprinkle with salt and pepper and top with remaining bread, oiled sides up."
+        },
+        {
+            "3": "Toast sandwiches in a large skillet over medium heat until golden, 5 to 7 minutes per side. Use a heavy skillet on top of the sandwiches to weigh them down as they cook."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 sandwiches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "648"
+        },
+        {
+            "Fat": "42g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "33g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9404161.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9404352.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9404276.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

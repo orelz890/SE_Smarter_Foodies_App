@@ -1,0 +1,75 @@
+{
+    "title": "Honey Mustard Chicken Salad",
+    "Category": "Chicken Salad",
+    "Ingredients": [
+        {
+            "1": "2  chicken breasts, cooked and chopped"
+        },
+        {
+            "2": "2 cups seedless red grapes, halved"
+        },
+        {
+            "3": "2 cups diced apples"
+        },
+        {
+            "4": "0.5 cup chopped celery"
+        },
+        {
+            "5": "0.5 cup chopped walnuts"
+        },
+        {
+            "6": "0.5 cup mayonnaise"
+        },
+        {
+            "7": "0.25 cup honey"
+        },
+        {
+            "8": "3 tablespoons Dijon mustard"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine chicken, grapes, apples, celery, and walnuts in a large bowl. Combine mayonnaise, honey, and Dijon mustard in a small bowl, stirring well. Gently stir into chicken mixture. Cover and chill."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "534"
+        },
+        {
+            "Fat": "34g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd6c81e9ca8f5e901d2d4519497ea0802%2F166645981070290EB6B5F-53FE-46C1-B85C-4C341EB32FE9.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9439235.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

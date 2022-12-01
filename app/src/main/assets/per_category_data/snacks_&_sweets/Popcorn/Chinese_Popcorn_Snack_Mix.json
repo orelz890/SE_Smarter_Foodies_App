@@ -1,0 +1,84 @@
+{
+    "title": "Chinese Popcorn Snack Mix",
+    "Category": "Popcorn",
+    "Ingredients": [
+        {
+            "1": "10 cups plain popped popcorn, unsalted"
+        },
+        {
+            "2": "0.5 cups chow mein noodles"
+        },
+        {
+            "3": "1 cup honey roasted peanuts"
+        },
+        {
+            "4": "3 tablespoons unsalted butter, melted"
+        },
+        {
+            "5": "2 tablespoons low-sodium soy sauce"
+        },
+        {
+            "6": "1 tablespoon freshly squeezed lime juice"
+        },
+        {
+            "7": "0.5 teaspoons sesame oil"
+        },
+        {
+            "8": "1 teaspoon Sriracha sauce, or to taste"
+        },
+        {
+            "9": "1 teaspoon ground ginger"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 250 degrees F (120 degrees C). Line a large baking sheet with aluminum foil or parchment paper."
+        },
+        {
+            "2": "Combine popcorn, chow mein noodles, and peanuts in a large bowl."
+        },
+        {
+            "3": "Whisk butter, soy sauce, lime juice, sesame oil, Sriracha, and ginger together in a small bowl. Drizzle the butter mixture over the popcorn, tossing to evenly coat. Distribute evenly on the prepared baking sheet."
+        },
+        {
+            "4": "Bake in the preheated oven for 30 minutes, stirring halfway through. Remove baking sheet from oven. Set aside to cool before storing in an airtight container."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "732"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "130g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9166225.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

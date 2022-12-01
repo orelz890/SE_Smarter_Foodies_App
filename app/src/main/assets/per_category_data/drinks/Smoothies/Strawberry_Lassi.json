@@ -1,0 +1,72 @@
+{
+    "title": "Strawberry Lassi",
+    "Category": "Smoothies",
+    "Ingredients": [
+        {
+            "1": "9   ripe strawberries, rinsed"
+        },
+        {
+            "2": "2 tablespoons white sugar"
+        },
+        {
+            "3": "0.25 cup whole milk"
+        },
+        {
+            "4": "1 cup low-fat yogurt"
+        },
+        {
+            "5": "3  ice cubes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cut 3 strawberries into small pieces and set aside. In a blender, place the remaining strawberries and sugar; blend on high speed for 30 seconds. Pour in the milk and blend another 30 seconds. Add the yogurt and blend on high speed for 1 minute."
+        },
+        {
+            "2": "To serve, place 1 ice cube in each of 3 glasses and pour in the lassi. Top with the strawberry pieces and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "3 "
+        },
+        {
+            "Yield": "3 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "111"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9233710.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdfab74790bca5bb24b8d02c4f0b65a65%2F5258939.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Facd981392e71fbc2c63df8ff1b811738%2F5258943.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F324c310bbb4176cfe08fcda9c31c804e%2F4470571.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

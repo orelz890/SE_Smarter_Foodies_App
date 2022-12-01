@@ -1,0 +1,93 @@
+{
+    "title": "Baked Homemade Macaroni and Cheese",
+    "Category": "Macaroni and Cheese",
+    "Ingredients": [
+        {
+            "1": "1.0 cups elbow macaroni"
+        },
+        {
+            "2": "0.25 cup butter"
+        },
+        {
+            "3": "0.25 cup all-purpose flour"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "4 cups milk"
+        },
+        {
+            "6": "1 pound shredded Cheddar cheese"
+        },
+        {
+            "7": "0.25 cup butter, melted"
+        },
+        {
+            "8": "1 sleeve buttery round crackers, crushed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally, until tender yet firm to the bite, about 8 minutes; drain well."
+        },
+        {
+            "3": "Melt 1/4 cup butter in a large saucepan over medium heat. Stir in flour and salt; cook, stirring constantly, for 2 minutes. Whisk in milk and simmer, stirring frequently, until mixture thickens slightly, about 5 minutes."
+        },
+        {
+            "4": "Turn off the heat and stir in Cheddar cheese until cheese is melted. Add macaroni and stir to coat; pour into a 9x13-inch baking dish. Mix the remaining 1/4 cup of melted butter and crushed crackers together in a bowl; scatter evenly over macaroni mixture."
+        },
+        {
+            "5": "Bake in the preheated oven until golden brown on top, about 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "810"
+        },
+        {
+            "Fat": "50g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdfd3fb2f5cfa586158d4e36abf3e5186%2F1654460556291486CE-777D-405B-B890-F7653B502774.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdfd3fb2f5cfa586158d4e36abf3e5186%2F1648733454658A55C6-B975-424A-A26F-C2F093645A9F.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdfd3fb2f5cfa586158d4e36abf3e5186%2F164394478920220203_203157.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9390886.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/S3swP43dnQKqppT5hQVy8OBAdwM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8708248-baked-homemade-macaroni-and-cheese-Photowench-1x1-1-eca6761995dc458ab9270fa04538aeb2.jpg"
+        }
+    ],
+    "main category": "dairy"
+}

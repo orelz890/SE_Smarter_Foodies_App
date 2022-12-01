@@ -1,0 +1,57 @@
+{
+    "title": "Whipped Banana Ice Cream",
+    "Category": "Ice Cream",
+    "Ingredients": [
+        {
+            "1": "2  bananas, peeled and sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place sliced bananas in an airtight container and freeze until solid, about 1 1/2 hours."
+        },
+        {
+            "2": "Blend frozen bananas in a blender until whipped and smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "210"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "54g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa03bee0b2e9a0d73e92f5ba89a4903ae%2F5666416.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fc7f5fd5f4830eefce5894910f69570f6%2F2358966.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6522d83381e68485a7da89336e727863%2F2351020.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

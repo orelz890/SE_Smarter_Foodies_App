@@ -1,0 +1,90 @@
+{
+    "title": "Tater Tot Bake",
+    "Category": "Shepherd's Pie",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "1 salt and pepper to taste"
+        },
+        {
+            "4": "0.5 (32 ounce) package tater tots"
+        },
+        {
+            "5": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "6": "0.5 cup milk"
+        },
+        {
+            "7": "0.5 cups shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "In a large skillet over medium-high heat, brown the ground beef with the onions. Drain excess fat, and season with salt and pepper to taste."
+        },
+        {
+            "3": "Spread the beef mixture evenly over the bottom of a 2 quart casserole dish. Arrange tater tots evenly over beef layer. In a small bowl, stir the soup into the milk until smooth; pour over tater tot and beef layers. Sprinkle Cheddar cheese evenly over the top."
+        },
+        {
+            "4": "Bake in preheated oven for 30 to 40 minutes, until cheese is bubbly and slightly brown."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "557"
+        },
+        {
+            "Fat": "42g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8943888.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8364547.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8305222.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8047275.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/-mWbcV-5xOwhrLotpojwVe4oyuo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2612247-1393e70421de4e30b81cac3e83572c0a.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

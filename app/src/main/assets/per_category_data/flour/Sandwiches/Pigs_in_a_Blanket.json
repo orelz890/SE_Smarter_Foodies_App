@@ -1,0 +1,72 @@
+{
+    "title": "Pigs in a Blanket",
+    "Category": "Sandwiches",
+    "Ingredients": [
+        {
+            "1": "1 (10 ounce) package refrigerated biscuit dough"
+        },
+        {
+            "2": "8 slices American processed cheese (Optional)"
+        },
+        {
+            "3": "8  frankfurters"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Shape a section of biscuit dough into a 3-inch diameter circle. Lay a slice of cheese on dough; place a frankfurter in the center and roll it up. Place roll on a cookie sheet seam-side down. Repeat with remaining sections of dough."
+        },
+        {
+            "3": "Bake in the preheated oven until biscuits are golden brown, about 10 to 15 minutes. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "458"
+        },
+        {
+            "Fat": "32g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9096072.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8797547.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8371440.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8139060.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/gJUK40CeNhW_gSHRcCsn3NV6iXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21780-pigs-in-a-blanket-ddmfs-1X1-5237-1d9bbf13120c4f29ae146e4f9d0dc4e4.jpg"
+        }
+    ],
+    "main category": "flour"
+}

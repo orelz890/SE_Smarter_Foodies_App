@@ -1,0 +1,90 @@
+{
+    "title": "Tin Foil Stew",
+    "Category": "Camping Recipes",
+    "Ingredients": [
+        {
+            "1": "6 ounces blade roast, trimmed and cut into 1 inch cubes"
+        },
+        {
+            "2": "1  potato, cubed"
+        },
+        {
+            "3": "2  carrots, sliced"
+        },
+        {
+            "4": "1  onion, chopped"
+        },
+        {
+            "5": "1 clove crushed garlic"
+        },
+        {
+            "6": "1 pinch salt"
+        },
+        {
+            "7": "1 pinch ground black pepper"
+        },
+        {
+            "8": "1 tablespoon butter"
+        },
+        {
+            "9": "1 tablespoon water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "On a large square sheet of foil, layer beef, potato cubes, carrots, onion and garlic. Sprinkle with salt and pepper, top with butter and a tablespoon of water."
+        },
+        {
+            "2": "Roll edges of tin foil together and seal tightly."
+        },
+        {
+            "3": "Bury it in campfire coals or put in a preheated oven at 375 degrees F (190 degrees C). For either cooking method, cooking time is about 1 hour. You can eat it right out of the foil, or empty it into a dish."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 serving"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "776"
+        },
+        {
+            "Fat": "43g"
+        },
+        {
+            "Carbs": "63g"
+        },
+        {
+            "Protein": "37g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbdcfa94ca57afdd1f70a25e8614d04e8%2F5520412.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbee7a2fe48fa0bde4aa326c5a160e0be%2F5520410.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5520414.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2466448.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

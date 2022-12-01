@@ -1,0 +1,87 @@
+{
+    "title": "Chef John's Corned Beef Hash",
+    "Category": "Breakfast Potatoes",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds potatoes, peeled and quartered"
+        },
+        {
+            "2": "0.5 pounds cooked corned beef, finely chopped"
+        },
+        {
+            "3": "1 bunch green onions, chopped"
+        },
+        {
+            "4": "1 salt and ground black pepper to taste"
+        },
+        {
+            "5": "2 cloves garlic, crushed"
+        },
+        {
+            "6": "1 tablespoon butter"
+        },
+        {
+            "7": "0.25 cup roasted tomato salsa"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place potatoes in a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until almost tender but still firm, about 15 minutes. Drain and finely chop."
+        },
+        {
+            "2": "Cook beef in a large cast iron or nonstick skillet over medium heat until fat begins to render. Stir green onions, salt, and pepper into beef. Add garlic and butter; cook and stir until butter is melted and garlic is fragrant, 1 to 2 minutes."
+        },
+        {
+            "3": "Stir potatoes, salsa, and a pinch of salt into beef mixture. Pat mixture down in the skillet with a spatula and divide hash into 4 sections."
+        },
+        {
+            "4": "Cook, without stirring, until a crust forms on the bottom, about 5 minutes. Flip sections and cook until a crust forms on the bottom, about 5 minutes more. Repeat cooking and flipping process, flipping every 5 minutes, until hash stays together and has a golden crust, 10 to 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "609"
+        },
+        {
+            "Fat": "36g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "36g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9152423.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd242f9fa04861df1754f5bdb105ea9e1%2F164794882359D50A93-3D47-403E-A3C2-FC185F550DC7_1_105_c.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9111794.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9107145.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/4BlWhhwbmWxVVoAkbz15DpZcnZA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1111656-bfde9ffb2dc44b03839f104ff305ba59.jpg"
+        }
+    ],
+    "main category": "breakfast"
+}

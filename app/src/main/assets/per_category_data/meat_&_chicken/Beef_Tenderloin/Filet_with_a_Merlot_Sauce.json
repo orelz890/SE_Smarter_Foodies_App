@@ -1,0 +1,93 @@
+{
+    "title": "Filet with a Merlot Sauce",
+    "Category": "Beef Tenderloin",
+    "Ingredients": [
+        {
+            "1": "1 (750 milliliter) bottle Merlot wine"
+        },
+        {
+            "2": "2 (14.5 ounce) cans low-sodium chicken broth"
+        },
+        {
+            "3": "1 (14.5 ounce) can beef broth"
+        },
+        {
+            "4": "2 tablespoons unsalted butter, softened"
+        },
+        {
+            "5": "1 tablespoon all-purpose flour"
+        },
+        {
+            "6": "1 tablespoon olive oil"
+        },
+        {
+            "7": "6 (6 ounce) fillets beef tenderloin"
+        },
+        {
+            "8": "1 freshly ground black pepper to taste"
+        },
+        {
+            "9": "0.25 cup chopped shallots"
+        },
+        {
+            "10": "1 tablespoon chopped garlic"
+        },
+        {
+            "11": "1 teaspoon fresh thyme"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a heavy saucepan over high heat, combine wine, chicken broth, and beef broth. Bring to a boil; reduce heat and simmer until mixture is reduced to 2 cups, about an hour. (This can be prepared a day ahead \u2014 cover and refrigerate)."
+        },
+        {
+            "2": "In a small bowl, mix butter and flour. Heat 1 tablespoon olive oil in a large skillet over medium heat. Sprinkle steaks with salt and pepper; cook in hot oil until medium-rare, about 4 minutes per side. Transfer steaks to a plate."
+        },
+        {
+            "3": "Stir shallots, garlic, and thyme into the skillet. Add 2 cups reduced wine mixture; bring to a boil, scraping up any browned bits. Whisk in butter mixture until smooth. Boil sauce until thick enough to coat a spoon, about 2 to 3 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 45 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "398"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7deb415823583952adf57a54cb7b259d%2F6271188.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5396225.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5161884.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4943754.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

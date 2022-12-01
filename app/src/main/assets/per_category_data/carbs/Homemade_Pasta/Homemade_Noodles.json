@@ -1,0 +1,60 @@
+{
+    "title": "Homemade Noodles",
+    "Category": "Homemade Pasta",
+    "Ingredients": [
+        {
+            "1": "1 cup all-purpose flour"
+        },
+        {
+            "2": "1  egg"
+        },
+        {
+            "3": "1 pinch salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix all ingredients. Roll thin with flour, then roll like a jelly roll. Cut into 1/2 inch strips. Let dry."
+        },
+        {
+            "2": "Drop into hot chicken broth. Boil for 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "263"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8091907.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb226e5f1b789915a4c5bed0f1c7bc4e9%2F7269836.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7264866.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7a18d41d675621b72a8eec74605766fa%2F6122164.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

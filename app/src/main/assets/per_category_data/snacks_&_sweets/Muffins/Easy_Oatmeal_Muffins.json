@@ -1,0 +1,93 @@
+{
+    "title": "Easy Oatmeal Muffins",
+    "Category": "Muffins",
+    "Ingredients": [
+        {
+            "1": "1 cup milk"
+        },
+        {
+            "2": "1 cup quick cooking oats"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "0.25 cup vegetable oil"
+        },
+        {
+            "5": "1 cup all-purpose flour"
+        },
+        {
+            "6": "0.25 cup white sugar"
+        },
+        {
+            "7": "2 teaspoons baking powder"
+        },
+        {
+            "8": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 425 degrees F (220 degrees C). Grease 12 standard muffin cups or line with paper muffin liners."
+        },
+        {
+            "2": "Combine milk and oats in a small bowl; let soak for 15 minutes."
+        },
+        {
+            "3": "Beat together egg and oil in a large bowl; stir in oat mixture. Sift together flour, sugar, baking powder, and salt in a separate bowl. Stir flour mixture into wet ingredients until just combined. Spoon batter into the prepared muffin cups until 2/3 full."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted into the center of a muffin comes out clean, 20 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 muffins"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "136"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff9ee930065e964b1faf388787accc297%2F1662930276image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff9ee930065e964b1faf388787accc297%2F16543792421CEA7C0A-A07F-48A9-B5F9-05D97660A2F9.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff9ee930065e964b1faf388787accc297%2F164843830916484382944974990277552739342372.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff9ee930065e964b1faf388787accc297%2F1647483576DSC08579.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

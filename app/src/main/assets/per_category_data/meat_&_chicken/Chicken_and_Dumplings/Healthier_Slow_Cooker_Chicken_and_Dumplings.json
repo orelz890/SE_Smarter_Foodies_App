@@ -1,0 +1,78 @@
+{
+    "title": "Healthier Slow Cooker Chicken and Dumplings",
+    "Category": "Chicken and Dumplings",
+    "Ingredients": [
+        {
+            "1": "4  skinless, boneless chicken breast halves"
+        },
+        {
+            "2": "2 tablespoons butter"
+        },
+        {
+            "3": "2 cups natural cream of chicken soup"
+        },
+        {
+            "4": "1  onion, finely diced"
+        },
+        {
+            "5": "3  carrots, sliced"
+        },
+        {
+            "6": "10 ounces refrigerated reduced-fat biscuit dough, torn into pieces"
+        },
+        {
+            "7": "1 cup frozen peas"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place chicken, butter, cream of chicken soup, and onion in a slow cooker. Cover and cook on High for 5 to 6 hours. Stir in carrots after 5 hours of cooking."
+        },
+        {
+            "2": "Place torn biscuit dough on top of chicken mixture 30 minutes before serving. Cover and cook until dough is no longer raw in the center, about 25 minutes. Lift edges of biscuits and stir in peas. Let stand until warm before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 5 hrs 35 mins"
+        },
+        {
+            "Total Time": " 5 hrs 45 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "248"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8803545.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6280612.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4549356.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3877423.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

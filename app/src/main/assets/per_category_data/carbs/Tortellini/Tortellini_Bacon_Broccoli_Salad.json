@@ -1,0 +1,87 @@
+{
+    "title": "Tortellini Bacon Broccoli Salad",
+    "Category": "Tortellini",
+    "Ingredients": [
+        {
+            "1": "2 (9 ounce) packages refrigerated three-cheese tortellini"
+        },
+        {
+            "2": "1 pound bacon"
+        },
+        {
+            "3": "4 cups chopped broccoli"
+        },
+        {
+            "4": "1 pint grape tomatoes, halved"
+        },
+        {
+            "5": "2  green onions, finely chopped"
+        },
+        {
+            "6": "1 cup bottled coleslaw dressing"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook the tortellini according to the package directions, drain, rinse with cold water, and refrigerate until cool, about 30 minutes."
+        },
+        {
+            "2": "Place the bacon in a large, deep skillet, and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain the bacon slices on a paper towel-lined plate. Chop the bacon into 1/2-inch pieces while still a little warm."
+        },
+        {
+            "3": "Place the tortellini, bacon, broccoli, grape tomatoes, and green onions into a salad bowl. Pour the dressing over the ingredients, and toss lightly to coat. Chill in refrigerator before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "349"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe7c50dc42e85d6e0c16743ee18ac78af%2F16570593265C404F66-20CB-4D38-BA7F-34EFC56B3606.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9062115.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8425554.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7218288.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/PiPCHLv8Iq9JpKO4Q3RjmYHzRJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/866251-0e3abb20c4664b2b9b416bfb02f8f36b.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

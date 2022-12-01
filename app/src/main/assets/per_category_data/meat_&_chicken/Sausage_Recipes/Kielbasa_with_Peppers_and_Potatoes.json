@@ -1,0 +1,75 @@
+{
+    "title": "Kielbasa with Peppers and Potatoes",
+    "Category": "Sausage Recipes",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon vegetable oil"
+        },
+        {
+            "2": "1 (16 ounce) package smoked kielbasa sausage, diced"
+        },
+        {
+            "3": "6 medium red potatoes, diced"
+        },
+        {
+            "4": "1  red bell pepper, sliced"
+        },
+        {
+            "5": "1  yellow bell pepper, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a pan over medium heat. Place kielbasa and potatoes in the pan. Cover and cook, stirring occasionally, until potatoes are tender, about 25 minutes."
+        },
+        {
+            "2": "Mix bell peppers into the pan, and continue cooking until peppers are just tender, 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "404"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0f98fa9e8789ca061017e599f5e60693%2F1653484341FC08E526-8BA2-4767-A939-CCF37FBBA1FA.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9443342.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7805053.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9404298.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/b7DuIIxoTC9-PcS8saSOHxihH5g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/677450-2ca7195fd1f348b2b37d1676364f26f0.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Spinach and Strawberry Salad",
+    "Category": "Low-Sodium Recipes",
+    "Ingredients": [
+        {
+            "1": "2 bunches spinach, rinsed and torn into bite-size pieces"
+        },
+        {
+            "2": "4 cups sliced strawberries"
+        },
+        {
+            "3": "0.5 cup vegetable oil"
+        },
+        {
+            "4": "0.5 cup white sugar"
+        },
+        {
+            "5": "0.25 cup white wine vinegar"
+        },
+        {
+            "6": "2 tablespoons sesame seeds"
+        },
+        {
+            "7": "1 tablespoon poppy seeds"
+        },
+        {
+            "8": "0.25 teaspoon paprika"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Toss together spinach and strawberries in a large bowl."
+        },
+        {
+            "2": "Whisk oil, sugar, vinegar, sesame seeds, poppy seeds, and paprika together in a medium bowl. Pour over the spinach and strawberries, and toss to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "235"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9120227.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8632850.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8263889.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8217746.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/7OjjcmRQC8Sb236VtRX5YljlaIQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4535439-564adcef998c47bebfcb6d9c5aa2a3df.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

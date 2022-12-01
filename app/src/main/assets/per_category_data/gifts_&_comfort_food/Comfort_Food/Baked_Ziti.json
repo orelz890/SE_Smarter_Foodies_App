@@ -1,0 +1,96 @@
+{
+    "title": "Baked Ziti",
+    "Category": "Comfort Food",
+    "Ingredients": [
+        {
+            "1": "1 pound dry ziti pasta"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "1 pound lean ground beef"
+        },
+        {
+            "4": "2 (26 ounce) jars spaghetti sauce"
+        },
+        {
+            "5": "6 ounces provolone cheese, sliced"
+        },
+        {
+            "6": "0.5 cups sour cream"
+        },
+        {
+            "7": "6 ounces mozzarella cheese, shredded"
+        },
+        {
+            "8": "2 tablespoons grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add ziti pasta, and cook until al dente, about 8 minutes; drain."
+        },
+        {
+            "2": "Meanwhile, brown ground beef and onion in a large skillet over medium heat; stir in spaghetti sauce and simmer for 15 minutes."
+        },
+        {
+            "3": "Preheat the oven to 350 degrees F (175 degrees C). Butter a 9x13-inch baking dish."
+        },
+        {
+            "4": "Spread 1/2 of the ziti in the bottom of the prepared dish; top with Provolone cheese, sour cream, 1/2 of the meat sauce, remaining ziti, mozzarella cheese, and remaining meat sauce. Top with grated Parmesan cheese."
+        },
+        {
+            "5": "Bake in the preheated oven until heated through and cheeses have melted, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 9x13-inch casserole"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "578"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "58g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5d9bec18861d5f69f44ac090d2bb5d04%2F16637594968B717929-50AD-458D-AF51-04A43CA3ED58.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5d9bec18861d5f69f44ac090d2bb5d04%2F1661808676image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5d9bec18861d5f69f44ac090d2bb5d04%2F1661734047E5A39300-F48B-4719-92E0-FD273BE7F79D.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5d9bec18861d5f69f44ac090d2bb5d04%2F16515311406CA9C48A-22B9-48E6-944D-27B4588FECF2.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/uJocCYfLL1gMCsbj79tY7hKilWw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4557541-21604073f2774e89b532193821d6cd9c.jpg"
+        }
+    ],
+    "main category": "gifts_&_comfort_food"
+}

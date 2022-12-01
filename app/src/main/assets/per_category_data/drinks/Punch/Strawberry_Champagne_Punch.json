@@ -1,0 +1,57 @@
+{
+    "title": "Strawberry Champagne Punch",
+    "Category": "Punch",
+    "Ingredients": [
+        {
+            "1": "1 (750 milliliter) bottle champagne"
+        },
+        {
+            "2": "1 (2 liter) bottle ginger ale, chilled"
+        },
+        {
+            "3": "2 (10 ounce) packages frozen strawberries, partially thawed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large punch bowl, combine champagne, ginger ale and strawberries. Gently stir and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "14 "
+        },
+        {
+            "Yield": "14 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "108"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F569381.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F564829.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffa7133efcf381ee42dd3ab48203efb47%2F549686.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Sweet Sweet Tuna Salad",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "1 (5 ounce) can chunk light tuna in water"
+        },
+        {
+            "2": "4 teaspoons creamy salad dressing (such as Miracle Whip\u00ae)"
+        },
+        {
+            "3": "2 tablespoons honey mustard"
+        },
+        {
+            "4": "2 tablespoons sweet pickle relish"
+        },
+        {
+            "5": "2 tablespoons minced celery"
+        },
+        {
+            "6": "1 tablespoon minced carrot"
+        },
+        {
+            "7": "2 teaspoons white sugar, or more to taste"
+        },
+        {
+            "8": "0.5 teaspoon salt, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Drain the tuna, reserving 1 tablespoon of the liquid."
+        },
+        {
+            "2": "Put the tuna in a serving bowl and mash with a fork until it's as mushy as you can get it. Stir the reserved liquid, the salad dressing, honey mustard, relish, celery, carrot, sugar, and salt into the tuna. Adjust seasoning to taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 serving"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "349"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F517236.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

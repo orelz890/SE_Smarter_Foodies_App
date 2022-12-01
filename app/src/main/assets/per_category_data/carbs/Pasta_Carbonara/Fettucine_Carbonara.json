@@ -1,0 +1,87 @@
+{
+    "title": "Fettucine Carbonara",
+    "Category": "Pasta Carbonara",
+    "Ingredients": [
+        {
+            "1": "1 pound dry fettuccini noodles"
+        },
+        {
+            "2": "8 slices bacon"
+        },
+        {
+            "3": "4  eggs"
+        },
+        {
+            "4": "0.5 cup grated Parmesan cheese"
+        },
+        {
+            "5": "0.25 cups heavy cream"
+        },
+        {
+            "6": "1 pinch ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add fettuccini and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+            "2": "Fry bacon in skillet over medium heat until crispy, remove and drain on paper towel. Chop with knife into bits."
+        },
+        {
+            "3": "Beat the eggs, cheese and cream in a bowl, then add the bacon. Pour over the pasta in the pan and toss gently using tongs."
+        },
+        {
+            "4": "Return the pan to a very low heat and cook for 1 to 2 minutes, or until slightly thickened. Don't overheat or the eggs will scramble. Season well with black pepper and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "2 mins"
+        },
+        {
+            "Additional Time": "3 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "439"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "43g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8456784.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8337746.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7633039.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffbc2a48c737332f63339b2ad9a3c7a5e%2F7425063.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

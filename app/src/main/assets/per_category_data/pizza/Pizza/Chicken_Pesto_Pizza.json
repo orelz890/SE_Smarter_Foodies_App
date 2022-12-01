@@ -1,0 +1,78 @@
+{
+    "title": "Chicken Pesto Pizza",
+    "Category": "Pizza",
+    "Ingredients": [
+        {
+            "1": "0.5 cup pesto basil sauce"
+        },
+        {
+            "2": "1 (12 inch) pre-baked pizza crust"
+        },
+        {
+            "3": "2 cups cooked chicken breast strips"
+        },
+        {
+            "4": "1 (6 ounce) jar artichoke hearts, drained"
+        },
+        {
+            "5": "0.5 cup shredded fontina cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "2": "Spread pesto sauce over the pizza crust. Arrange chicken pieces and artichoke hearts over the sauce, and sprinkle with cheese."
+        },
+        {
+            "3": "Bake for 8 to 10 minutes in the preheated oven, until cheese is melted and lightly browned at the edges."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "457"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9b61c5089fe5d976e73f6754fd154916%2F1658445255C487EE45-99E1-4831-A70E-B643EC246E9A.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8790468.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9014656.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8698131.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pizza"
+}

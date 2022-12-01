@@ -1,0 +1,102 @@
+{
+    "title": "Mom's Cajun Hush Puppies",
+    "Category": "Hushpuppies",
+    "Ingredients": [
+        {
+            "1": "6 cups all-purpose flour"
+        },
+        {
+            "2": "3 cups cornmeal"
+        },
+        {
+            "3": "1 cup white sugar"
+        },
+        {
+            "4": "1 cup grated Parmesan cheese"
+        },
+        {
+            "5": "0.25 cup baking powder"
+        },
+        {
+            "6": "1 salt and ground black pepper to taste"
+        },
+        {
+            "7": "5  eggs"
+        },
+        {
+            "8": "3  bell peppers, minced"
+        },
+        {
+            "9": "3  onions, minced"
+        },
+        {
+            "10": "1 (14 ounce) can cream-style corn"
+        },
+        {
+            "11": "1 (14 ounce) can whole kernel corn"
+        },
+        {
+            "12": "1 cup chopped pimento peppers"
+        },
+        {
+            "13": "2 quarts vegetable oil for frying"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix flour, cornmeal, sugar, Parmesan cheese, baking powder, salt, black pepper, eggs, bell peppers, onions, cream-style corn, whole kernel corn, and pimento peppers in a large bowl."
+        },
+        {
+            "2": "Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C)."
+        },
+        {
+            "3": "Drop 6 to 8 tablespoon-sized balls of batter into the hot oil; fry until each hush puppy is golden brown, about 5 minutes. Remove hush puppies with a slotted spoon and place on a paper towel-lined plate to drain. Repeat with any remaining batter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "348"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F40819c16b65776e9316730355120eca5%2F165991850216599184877961846650064598251326.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7941953.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6536668.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1226473.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

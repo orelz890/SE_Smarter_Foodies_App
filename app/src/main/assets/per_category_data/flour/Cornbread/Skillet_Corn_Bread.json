@@ -1,0 +1,99 @@
+{
+    "title": "Skillet Corn Bread",
+    "Category": "Cornbread",
+    "Ingredients": [
+        {
+            "1": "0.25 cups milk"
+        },
+        {
+            "2": "1 cup cornmeal"
+        },
+        {
+            "3": "1 cup all-purpose flour"
+        },
+        {
+            "4": "4 teaspoons baking powder"
+        },
+        {
+            "5": "0.75 teaspoon kosher salt"
+        },
+        {
+            "6": "2  eggs, beaten"
+        },
+        {
+            "7": "0.25 cup unsalted butter, melted"
+        },
+        {
+            "8": "1 tablespoon vegetable oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 425 degrees F (220 degrees C). Place 9-inch cast-iron skillet in oven to warm it."
+        },
+        {
+            "2": "Mix milk and cornmeal together in small bowl and let soak for 10 minutes."
+        },
+        {
+            "3": "Sift flour, baking powder, and salt together in a mixing bowl. Beat cornmeal mixture, eggs, and butter into the flour mixture until you have a smooth batter, about 1 minute."
+        },
+        {
+            "4": "Remove skillet from oven. Swish vegetable oil in the skillet to coat; pour off excess."
+        },
+        {
+            "5": "Pour batter into the skillet."
+        },
+        {
+            "6": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 18 to 23 minutes. Cut into wedges to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "225"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F197f11445b49c909b7a52e9648b79413%2F166301440120220912_160039.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F197f11445b49c909b7a52e9648b79413%2F1652994946PXL_20220516_180312241%7E2.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9388618.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9139481.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

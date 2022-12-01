@@ -1,0 +1,84 @@
+{
+    "title": "Hot Chicken Wing Dip",
+    "Category": "Buffalo Chicken Dip",
+    "Ingredients": [
+        {
+            "1": "1 pound skinless boneless chicken breasts"
+        },
+        {
+            "2": "1 (8 ounce) bottle ranch dressing"
+        },
+        {
+            "3": "2 (8 ounce) packages cream cheese, softened"
+        },
+        {
+            "4": "1 (12 ounce) bottle hot pepper sauce"
+        },
+        {
+            "5": "1 (16 ounce) package shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Heat a non-stick skillet over medium heat. Add chicken breasts and cook until juices run clear, about 4 minutes per side. Remove to a cutting board to cool completely. Use a fork to shred the meat into strands."
+        },
+        {
+            "3": "Pour the ranch dressing, cream cheese, and wing sauce into a bowl and mix until combined. Add the shredded chicken and mix well. Spread the mixture into a 9x13 inch baking dish. Sprinkle the Cheddar cheese over top of the chicken mixture."
+        },
+        {
+            "4": "Bake in the preheated oven until the cheese is bubbling, about 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "32 "
+        },
+        {
+            "Yield": "8 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "161"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7621507.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5236307.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4557344.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4529229.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

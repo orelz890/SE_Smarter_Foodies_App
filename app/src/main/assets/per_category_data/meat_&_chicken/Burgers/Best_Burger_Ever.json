@@ -1,0 +1,84 @@
+{
+    "title": "Best Burger Ever",
+    "Category": "Burgers",
+    "Ingredients": [
+        {
+            "1": "2 pounds extra-lean ground beef"
+        },
+        {
+            "2": "1 (1 ounce) package dry onion soup mix"
+        },
+        {
+            "3": "1  egg, lightly beaten"
+        },
+        {
+            "4": "2 teaspoons hot pepper sauce"
+        },
+        {
+            "5": "2 teaspoons Worcestershire sauce"
+        },
+        {
+            "6": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "7": "0.75 cup rolled oats"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for medium high heat and lightly oil grate."
+        },
+        {
+            "2": "In a large bowl, combine the beef, onion soup mix, egg, hot sauce and oats. Shape into 6 patties."
+        },
+        {
+            "3": "Grill patties over medium high heat for 10 to 20 minutes, or to desired doneness."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 burgers"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "323"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F207795.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F126805.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F97510.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe8af392eabee371902dd89fdfda9acc6%2F81615.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

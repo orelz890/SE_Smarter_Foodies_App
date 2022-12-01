@@ -1,0 +1,87 @@
+{
+    "title": "Maple Breakfast Sausage",
+    "Category": "Ground Pork",
+    "Ingredients": [
+        {
+            "1": "1.0 pounds ground pork"
+        },
+        {
+            "2": "0.25 cup maple syrup"
+        },
+        {
+            "3": "0.5 tablespoons chopped fresh sage"
+        },
+        {
+            "4": "1 tablespoon salt"
+        },
+        {
+            "5": "1.0 teaspoons fennel seed"
+        },
+        {
+            "6": "1.0 teaspoons red pepper flakes"
+        },
+        {
+            "7": "1.0 teaspoons garlic powder"
+        },
+        {
+            "8": "1.0 teaspoons onion powder"
+        },
+        {
+            "9": "1 teaspoon anise seed"
+        },
+        {
+            "10": "1 tablespoon olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix pork, maple syrup, sage, salt, fennel seed, red pepper flakes, garlic powder, onion powder, and anise seed in a large bowl until evenly blended. Shape pork mixture into small patties."
+        },
+        {
+            "2": "Heat olive oil in a large skillet over medium heat; fry patties in batches until pork is browned and no longer pink in the center, 4 to 5 minutes per side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "229"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8604531.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8039382.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7535279.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1132872.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Mama Kathy's Minestrone",
+    "Category": "Minestrone Soup",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds ground beef"
+        },
+        {
+            "2": "1  onion, finely chopped"
+        },
+        {
+            "3": "1 tablespoon chopped garlic"
+        },
+        {
+            "4": "2 (14 ounce) cans stewed tomatoes"
+        },
+        {
+            "5": "1 (15 ounce) can tomato sauce"
+        },
+        {
+            "6": "2 cups water"
+        },
+        {
+            "7": "1 (15 ounce) can baby peas"
+        },
+        {
+            "8": "1 cup finely chopped carrots"
+        },
+        {
+            "9": "1 (14 ounce) can chopped spinach, drained"
+        },
+        {
+            "10": "1  beef bouillon cube"
+        },
+        {
+            "11": "1 teaspoon ground black pepper"
+        },
+        {
+            "12": "1 cup uncooked elbow macaroni"
+        },
+        {
+            "13": "2 tablespoons Italian seasoning"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the beef, onion, and garlic in a skillet over medium heat. Cook until beef is evenly brown and onion is tender. Drain grease."
+        },
+        {
+            "2": "Transfer beef, onion, and garlic to a large pot. Mix in tomatoes, tomato sauce, water, peas, carrots, spinach, bouillon cube, and pepper. Bring to a boil. Reduce heat to low, and cook 1 hour, stirring occasionally. Add more water or tomato sauce as needed."
+        },
+        {
+            "3": "Stir macaroni into the soup. Season with Italian seasoning. Continue cooking 10 minutes, or until macaroni is tender."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 25 mins"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "402"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8995919.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8941741.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F48706.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

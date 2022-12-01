@@ -1,0 +1,87 @@
+{
+    "title": "Garlicky Appetizer Shrimp Scampi",
+    "Category": "Shrimp Scampi",
+    "Ingredients": [
+        {
+            "1": "6 tablespoons unsalted butter, softened"
+        },
+        {
+            "2": "0.25 cup olive oil"
+        },
+        {
+            "3": "1 tablespoon minced garlic"
+        },
+        {
+            "4": "1 tablespoon minced shallots"
+        },
+        {
+            "5": "2 tablespoons minced fresh chives"
+        },
+        {
+            "6": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "7": "0.5 teaspoon paprika"
+        },
+        {
+            "8": "2 pounds large shrimp - peeled and deveined"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat grill for high heat."
+        },
+        {
+            "2": "In a large bowl, mix together softened butter, olive oil, garlic, shallots, chives, salt, pepper, and paprika; add the shrimp, and toss to coat."
+        },
+        {
+            "3": "Lightly oil grill grate. Cook the shrimp as close to the flame as possible for 2 to 3 minutes per side, or until opaque."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "6 mins"
+        },
+        {
+            "Total Time": "21 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "303"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5298998.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2615831.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1055844.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F945189.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "sea_fruit"
+}

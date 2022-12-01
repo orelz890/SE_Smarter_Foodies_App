@@ -1,0 +1,75 @@
+{
+    "title": "Egg Salad III",
+    "Category": "Egg Salad",
+    "Ingredients": [
+        {
+            "1": "8  eggs"
+        },
+        {
+            "2": "0.5 cup mayonnaise"
+        },
+        {
+            "3": "1 teaspoon ground black pepper"
+        },
+        {
+            "4": "0.25 teaspoon paprika"
+        },
+        {
+            "5": "2 tablespoons chopped pimento-stuffed green olives"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place eggs in a medium saucepan with enough cold water to cover, and bring to a boil. Cover saucepan, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel, and chop."
+        },
+        {
+            "2": "In a large bowl, mix eggs, mayonnaise, pepper, and paprika. Mash with a potato masher or fork until smooth. Gently stir in the olives. Refrigerate until serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "349"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4540732.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3896583.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3627874.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3275381.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

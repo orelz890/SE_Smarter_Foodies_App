@@ -1,0 +1,66 @@
+{
+    "title": "Not Yo Momma's Egg Salad",
+    "Category": "Egg Salad",
+    "Ingredients": [
+        {
+            "1": "4  hard-boiled eggs, chopped"
+        },
+        {
+            "2": "4  pitted green olives, chopped"
+        },
+        {
+            "3": "1 tablespoon jarred roasted red peppers, chopped"
+        },
+        {
+            "4": "1 teaspoon capers"
+        },
+        {
+            "5": "2 tablespoons mayonnaise"
+        },
+        {
+            "6": "0.25 teaspoon curry powder"
+        },
+        {
+            "7": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine eggs, olives, roasted red peppers, and capers in a bowl. Stir mayonnaise and curry powder into egg mixture; season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "266"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2106748.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

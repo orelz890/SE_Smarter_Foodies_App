@@ -1,0 +1,87 @@
+{
+    "title": "Pup-Cakes",
+    "Category": "Pet Food",
+    "Ingredients": [
+        {
+            "1": "1 medium apple - peeled, cored and shredded"
+        },
+        {
+            "2": "0.5 cup shredded Cheddar cheese"
+        },
+        {
+            "3": "0.5 cup applesauce"
+        },
+        {
+            "4": "2 large eggs"
+        },
+        {
+            "5": "1 tablespoon olive oil"
+        },
+        {
+            "6": "1 cup whole wheat flour"
+        },
+        {
+            "7": "1 cup rolled oats"
+        },
+        {
+            "8": "1 teaspoon baking powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Line a 12-cup muffin pan with paper liners."
+        },
+        {
+            "2": "Mix together apple, cheese, applesauce, eggs and olive oil in a bowl. Combine whole wheat flour, oats, and baking powder in a separate bowl; stir by hand into the wet ingredients until well blended. Spoon into the prepared muffin cups."
+        },
+        {
+            "3": "Bake for 15 minutes in the preheated oven, or until the tops of the muffins spring back when lightly pressed. Cool completely before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 pupcakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "115"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc5f79160640a11a0e29473e3b2838d04%2F1666848475655IMG_20221027_151905.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9395726.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9328072.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8214950.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "animals"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Easy Toffee",
+    "Category": "Toffee",
+    "Ingredients": [
+        {
+            "1": "1 (10 ounce) package saltine crackers"
+        },
+        {
+            "2": "1 cup butter"
+        },
+        {
+            "3": "1 cup light brown sugar"
+        },
+        {
+            "4": "1 (12 ounce) package semisweet chocolate chips"
+        },
+        {
+            "5": "1 cup slivered almonds"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 325 degrees F (165 degrees C). Grease a baking sheet. Line baking sheet with saltine crackers, edges touching."
+        },
+        {
+            "2": "In a medium saucepan, combine butter and brown sugar and cook until mixture reaches 235 degrees F (112 degrees C) or a small amount of mixture dropped into cold water forms a small ball that flattens when placed on a flat surface. Pour mixture over crackers and spread evenly."
+        },
+        {
+            "3": "Bake in preheated oven 15 minutes. Sprinkle chocolate chips over hot toffee. When chips turn glossy, spread evenly with spatula. Sprinkle with almonds. Freeze 20 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "25 "
+        },
+        {
+            "Yield": "1 to 15 x pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "236"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6872194.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4703361.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb0deceb06e6af8b9e3be8d52a9f1da1f%2F4335466.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F83dc48beb74a17b506863b200dec44ed%2F3031909.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

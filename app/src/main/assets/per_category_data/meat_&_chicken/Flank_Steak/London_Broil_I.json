@@ -1,0 +1,87 @@
+{
+    "title": "London Broil I",
+    "Category": "Flank Steak",
+    "Ingredients": [
+        {
+            "1": "3 cloves garlic, minced"
+        },
+        {
+            "2": "0.5 cup soy sauce"
+        },
+        {
+            "3": "2 tablespoons vegetable oil"
+        },
+        {
+            "4": "2 tablespoons ketchup"
+        },
+        {
+            "5": "1 teaspoon dried oregano"
+        },
+        {
+            "6": "1 teaspoon ground black pepper"
+        },
+        {
+            "7": "1 (2 pound) flank steak or round steak"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a small bowl, mix together garlic, soy sauce, oil, ketchup, oregano, and black pepper. Pierce meat with a fork on both sides. Place meat and marinade in a large resealable plastic bag. Refrigerate 8 hours, or overnight."
+        },
+        {
+            "2": "Preheat grill for medium-high heat."
+        },
+        {
+            "3": "Lightly oil the grill grate. Place steak on the grill, and discard marinade. Cook for 5 to 8 minutes per side, depending on thickness. Do not overcook, as it is better on the rare side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "222"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7761178.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7136189.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6966493.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6725832.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

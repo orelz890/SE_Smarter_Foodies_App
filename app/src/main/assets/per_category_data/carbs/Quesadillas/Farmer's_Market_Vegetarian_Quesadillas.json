@@ -1,0 +1,87 @@
+{
+    "title": "Farmer's Market Vegetarian Quesadillas",
+    "Category": "Quesadillas",
+    "Ingredients": [
+        {
+            "1": "0.5 cup chopped red bell pepper"
+        },
+        {
+            "2": "0.5 cup chopped zucchini"
+        },
+        {
+            "3": "0.5 cup chopped yellow squash"
+        },
+        {
+            "4": "0.5 cup chopped red onion"
+        },
+        {
+            "5": "0.5 cup chopped mushrooms"
+        },
+        {
+            "6": "1 tablespoon olive oil"
+        },
+        {
+            "7": "1 cooking spray"
+        },
+        {
+            "8": "6 (9 inch)  whole wheat tortillas"
+        },
+        {
+            "9": "0.25 cups shredded reduced-fat sharp Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large nonstick pan, cook red pepper, zucchini, yellow squash, onion, and mushrooms in olive oil over medium to medium-high heat for about 7 minutes, or until just tender. Remove vegetables from pan."
+        },
+        {
+            "2": "Coat the same pan with cooking spray, and place one tortilla in pan. Sprinkle 1/4 cup of cheese evenly over tortilla, and layer 3/4 cup of the vegetable mixture over the cheese. Sprinkle another 1/8 cup of cheese on the vegetables, and top with a second tortilla. Cook until golden on both sides, for approximately 2 to 3 minutes per side. Remove quesadilla from pan, and repeat with remaining ingredients. Cut each quesadilla into 8 triangles with a pizza cutter. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "3 quesadillas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "209"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7918078.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7411422.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7158911.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6837943.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

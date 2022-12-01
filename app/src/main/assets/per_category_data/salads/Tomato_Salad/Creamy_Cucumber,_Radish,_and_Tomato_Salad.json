@@ -1,0 +1,87 @@
+{
+    "title": "Creamy Cucumber, Radish, and Tomato Salad",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "0.5 cup mayonnaise"
+        },
+        {
+            "2": "0.5 cup crumbled feta cheese"
+        },
+        {
+            "3": "1 tablespoon chopped fresh chives"
+        },
+        {
+            "4": "1 tablespoon chopped fresh dill"
+        },
+        {
+            "5": "1 tablespoon fresh lemon juice"
+        },
+        {
+            "6": "0.25 teaspoon salt"
+        },
+        {
+            "7": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "8": "1 bunch radishes, diced"
+        },
+        {
+            "9": "1 pint cherry tomatoes, quartered"
+        },
+        {
+            "10": "1 large English cucumber, diced"
+        },
+        {
+            "11": "0.25 medium red onion, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine mayonnaise, feta, chives, dill, lemon juice, salt, and pepper in a large bowl. Add radishes, tomatoes, cucumber, and onion and toss together."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "239"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F39f6c9e58209d6018d21d7ef7465e4ab%2F1660077586WendysFreshStuffedPitaCloseup.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F39f6c9e58209d6018d21d7ef7465e4ab%2F16539564842022_Cucumber%2520radish%2520and%2520tomato%2520salad.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6823952.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://www.allrecipes.com/thmb/OUeyHeXh8RQ-fGZIFZ2dKcLFAK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6823952-6088216fc7c044c2a756f46b47a056bc.jpg"
+        }
+    ],
+    "main category": "salads"
+}

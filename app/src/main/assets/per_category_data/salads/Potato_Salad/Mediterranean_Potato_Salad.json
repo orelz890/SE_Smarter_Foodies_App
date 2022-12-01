@@ -1,0 +1,93 @@
+{
+    "title": "Mediterranean Potato Salad",
+    "Category": "Potato Salad",
+    "Ingredients": [
+        {
+            "1": "2 pounds potatoes"
+        },
+        {
+            "2": "1  green bell pepper, minced"
+        },
+        {
+            "3": "1  cucumber, sliced and quartered"
+        },
+        {
+            "4": "0.5 cup sliced red onion"
+        },
+        {
+            "5": "8 ounces crumbled feta cheese"
+        },
+        {
+            "6": "1  lemon, juiced"
+        },
+        {
+            "7": "0.5 cup Italian-style salad dressing"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        },
+        {
+            "9": "3  pita breads, cut into wedges"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes. Drain, cool, and chop."
+        },
+        {
+            "2": "In a large bowl, combine potatoes, green peppers, cucumbers, red onion, and cheese."
+        },
+        {
+            "3": "Whisk together lemon juice, salad dressing, salt, and pepper. Pour over salad and toss to coat. Serve with pita bread wedges, if desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "1 salad"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "139"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6962906.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2748467.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2305469.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3e637b13b5884eb1c8453a5fd09a84bb%2F1131531.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/-PQ_sdEcqnzZkVnPJDT3BKJwbLk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215510-16d289dc19fa4db6accce46bb5a94a4b.jpg"
+        }
+    ],
+    "main category": "salads"
+}

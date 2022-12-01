@@ -1,0 +1,114 @@
+{
+    "title": "Taco Bean Salad",
+    "Category": "Taco Salad",
+    "Ingredients": [
+        {
+            "1": "1 teaspoon olive oil"
+        },
+        {
+            "2": "1 large onion, chopped"
+        },
+        {
+            "3": "2 pounds ground beef"
+        },
+        {
+            "4": "0.5 cup chili powder"
+        },
+        {
+            "5": "1 tablespoon dried oregano"
+        },
+        {
+            "6": "2 tablespoons ground cumin"
+        },
+        {
+            "7": "0.75 cup sliced black olives"
+        },
+        {
+            "8": "2 (14 ounce) cans light red kidney beans, drained and rinsed"
+        },
+        {
+            "9": "1 (16 ounce) garbanzo beans, drained and rinsed"
+        },
+        {
+            "10": "1 (16 ounce) can pinto beans, drained and rinsed"
+        },
+        {
+            "11": "1 (16 ounce) can black beans, drained and rinsed"
+        },
+        {
+            "12": "1 salt and ground black pepper to taste"
+        },
+        {
+            "13": "4 cups mayonnaise"
+        },
+        {
+            "14": "1 cup taco sauce"
+        },
+        {
+            "15": "2 teaspoons hot pepper sauce"
+        },
+        {
+            "16": "1 head iceberg lettuce, shredded"
+        },
+        {
+            "17": "1  tomato, chopped"
+        },
+        {
+            "18": "2 cups shredded Cheddar cheese"
+        },
+        {
+            "19": "2 cups crumbled tortilla chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a skillet over medium heat. Cook and stir onion until it has softened and turned translucent, about 5 minutes. Reduce heat to medium-low, and continue cooking and stirring until the onion is very tender and dark brown, 15 to 20 minutes more."
+        },
+        {
+            "2": "Cook and stir ground beef into onion until the beef is crumbly, evenly browned, and no longer pink, about 10 minutes. Drain and discard any excess grease. Stir in chili powder, oregano, and cumin until incorporated, 1 minute. Remove from heat. Stir in olives, kidney beans, garbanzo beans, pinto beans, and black beans; cool."
+        },
+        {
+            "3": "Mix together mayonnaise, taco sauce, and hot pepper sauce in a bowl. Refrigerate until ready to serve. Layer lettuce with tomatoes, Cheddar cheese, bean mixture, tortilla chips, and dressing to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "986"
+        },
+        {
+            "Fat": "80g"
+        },
+        {
+            "Carbs": "43g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3108635.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F880508.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

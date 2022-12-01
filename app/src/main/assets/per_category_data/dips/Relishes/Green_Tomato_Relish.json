@@ -1,0 +1,105 @@
+{
+    "title": "Green Tomato Relish",
+    "Category": "Relishes",
+    "Ingredients": [
+        {
+            "1": "24 large green tomatoes"
+        },
+        {
+            "2": "12 large onions"
+        },
+        {
+            "3": "3  red bell peppers, halved and seeded"
+        },
+        {
+            "4": "3  green bell peppers, halved and seeded"
+        },
+        {
+            "5": "1 cheesecloth"
+        },
+        {
+            "6": "5 cups white sugar"
+        },
+        {
+            "7": "2 cups cider vinegar"
+        },
+        {
+            "8": "3 tablespoons celery seed"
+        },
+        {
+            "9": "3 tablespoons mustard seed"
+        },
+        {
+            "10": "1 tablespoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Working in batches, coarsely grind tomatoes, onions, red bell peppers, and green bell peppers in a grinder or food processor. Line a large colander with cheesecloth and place in the sink or a large bowl. Pour in tomato mixture to drain for 1 hour."
+        },
+        {
+            "2": "Combine drained tomato mixture, sugar, vinegar, celery seed, mustard seed, and salt in a large, non-aluminum stockpot over high heat; bring to a boil. Reduce heat to low and simmer, stirring frequently, for 5 minutes."
+        },
+        {
+            "3": "Sterilize enough jars and lids to hold relish (twelve 1-pint jars or six 1-quart jars). Pack relish into the sterilized jars, ensuring no spaces or air pockets. Fill the jars to the top; screw on the lids."
+        },
+        {
+            "4": "Place a rack in the bottom of a large stockpot and fill halfway with boiling water. Carefully lower the jars into the pot using a holder. Leave a 2-inch space between the jars. If necessary, pour in more boiling water until the tops of the jars are covered by 2 inches of water. Bring water to a full boil, then cover and process for 30 minutes."
+        },
+        {
+            "5": "Remove the jars from the pot and place them on a cloth-covered or wood surface, several inches apart, until cool. Once cool, press the top of each lid with a finger, ensuring that the seal is tight (the lid does not move up or down at all). Relish can be stored for up to a year."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 55 mins"
+        },
+        {
+            "Servings": "192 "
+        },
+        {
+            "Yield": "12 pints"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "32"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fce8ddc4c39fe27062adde3da7a46dfaa%2F1660947108image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8729687.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8640660.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8606439.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/xPwwMo-tqcyWd8wkEXzs-rz6H8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4554361-green-tomato-relish-photo-by-aseret-edited-901ce54944c94187ac50c6f77875f840.jpg"
+        }
+    ],
+    "main category": "dips"
+}

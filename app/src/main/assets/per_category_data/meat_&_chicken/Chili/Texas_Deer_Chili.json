@@ -1,0 +1,84 @@
+{
+    "title": "Texas Deer Chili",
+    "Category": "Chili",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons vegetable oil"
+        },
+        {
+            "2": "1.0 pounds venison, cut into cubes"
+        },
+        {
+            "3": "1 large onion, chopped"
+        },
+        {
+            "4": "1 clove garlic, minced"
+        },
+        {
+            "5": "1 (4 ounce) can diced green chile peppers"
+        },
+        {
+            "6": "2 (15 ounce) cans kidney beans, drained and rinsed"
+        },
+        {
+            "7": "2 (10.5 ounce) cans beef broth"
+        },
+        {
+            "8": "2 teaspoons dried oregano"
+        },
+        {
+            "9": "2 teaspoons ground cumin"
+        },
+        {
+            "10": "0.5 teaspoon salt"
+        },
+        {
+            "11": "0.5 teaspoons paprika"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large skillet over medium heat, cook venison, onion and garlic in oil until meat is browned. Transfer to a slow cooker and stir together with chiles, beans, broth oregano, cumin, salt and paprika. Cook on medium 4 to 5 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "291"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "36g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F496092.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F29148.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

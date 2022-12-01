@@ -1,0 +1,60 @@
+{
+    "title": "Wine Jelly",
+    "Category": "Jams and Jellies",
+    "Ingredients": [
+        {
+            "1": "1.5 cups wine"
+        },
+        {
+            "2": "0.5 cup fresh lemon juice"
+        },
+        {
+            "3": "1 (2 ounce) package dry pectin"
+        },
+        {
+            "4": "2.0 cups white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine wine, lemon juice, and pectin in a large saucepot. Bring to a boil, stirring frequently. Add sugar, stirring until dissolved. Return to a rolling boil. Boil hard 1 minute, stirring constantly. Remove from heat. Skim foam off top, if necessary."
+        },
+        {
+            "2": "Ladle hot jelly into hot, sterilized jars, leaving 1/2 inch headspace. Tighten 2 piece lids. Process for 5 minutes in boiling water bath."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "40 "
+        },
+        {
+            "Yield": "5 half-pint jars"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "106"
+        },
+        {
+            "Carbs": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9178356.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9148745.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8856028.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8301068.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/MrY5iG3zoIXMEZGk7DCj_vSAFjs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/464065-cd82ac24c148428e9afd744a7918eaae.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Artichoke Crab Dip",
+    "Category": "Artichoke Dip",
+    "Ingredients": [
+        {
+            "1": "2 (8 ounce) packages cream cheese, softened"
+        },
+        {
+            "2": "1 (14 ounce) can artichoke hearts in water, drained"
+        },
+        {
+            "3": "0.5 teaspoon Old Bay (tm) Seasoning"
+        },
+        {
+            "4": "0.5 pound fresh crabmeat, picked over for cartilage and shell fragments"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Place cream cheese in a medium baking dish with 3/4 of the artichoke hearts and Old Bay Seasoning TM. Blend until smooth. Gently fold in crabmeat, taking care not to break up lumps."
+        },
+        {
+            "3": "Bake in the preheated oven 30 minutes, or until surface is golden brown. Remove from heat and garnish with remaining artichoke hearts."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "85"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7481819.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6339506.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "The Best Vegetable Salad",
+    "Category": "Lunch Recipes",
+    "Ingredients": [
+        {
+            "1": "5  romaine lettuce leaves, torn into bite size pieces"
+        },
+        {
+            "2": "5  radishes, chopped"
+        },
+        {
+            "3": "2  fresh tomatoes, chopped"
+        },
+        {
+            "4": "2  green onion, minced"
+        },
+        {
+            "5": "1 small jicama, peeled and julienned"
+        },
+        {
+            "6": "1  cucumber, peeled and chopped"
+        },
+        {
+            "7": "1  red bell pepper, chopped"
+        },
+        {
+            "8": "2 tablespoons olive oil"
+        },
+        {
+            "9": "0.5 tablespoons lemon juice"
+        },
+        {
+            "10": "1 tablespoon pomegranate juice"
+        },
+        {
+            "11": "0.5 teaspoons water"
+        },
+        {
+            "12": "1 clove garlic, minced"
+        },
+        {
+            "13": "1 teaspoon chopped fresh dill"
+        },
+        {
+            "14": "1 teaspoon chopped fresh basil"
+        },
+        {
+            "15": "1 teaspoon salt"
+        },
+        {
+            "16": "1 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place lettuce, radishes, tomatoes, green onion, jicama, cucumber, and bell pepper in a large salad bowl."
+        },
+        {
+            "2": "Whisk olive oil, lemon juice, pomegranate juice, water, garlic, dill, basil, salt, and black pepper in a small bowl. Drizzle dressing over the salad just before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "88"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F952228.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F152240.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "lunch"
+}

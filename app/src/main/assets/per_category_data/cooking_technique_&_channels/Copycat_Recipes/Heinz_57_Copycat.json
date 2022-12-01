@@ -1,0 +1,69 @@
+{
+    "title": "Heinz 57 Copycat",
+    "Category": "Copycat Recipes",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon ketchup"
+        },
+        {
+            "2": "0.25 teaspoons Worcestershire sauce"
+        },
+        {
+            "3": "0.5 teaspoon yellow mustard"
+        },
+        {
+            "4": "0.25 teaspoon lemon juice"
+        },
+        {
+            "5": "1 drop hot pepper sauce (such as Tabasco\u00ae)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk ketchup, Worcestershire sauce, mustard, lemon juice, and hot sauce together in a small bowl until smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 serving"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "22"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8094214.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F72b45f2ef89f641d0142ff98f174c28e%2F6411001.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2212590.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1131777.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

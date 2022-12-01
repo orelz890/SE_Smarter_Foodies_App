@@ -1,0 +1,75 @@
+{
+    "title": "Garlic-Herb Linguine",
+    "Category": "Linguine",
+    "Ingredients": [
+        {
+            "1": "4 ounces dried linguine"
+        },
+        {
+            "2": "0.25 cup butter, melted"
+        },
+        {
+            "3": "1 teaspoon minced garlic"
+        },
+        {
+            "4": "1 teaspoon dried parsley"
+        },
+        {
+            "5": "1 teaspoon seasoned salt, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook linguine at a boil until tender yet firm to the bite, about 11 minutes; drain and transfer pasta to a large bowl."
+        },
+        {
+            "2": "Mix melted butter, garlic, and parsley in a small bowl; drizzle over the linguine and toss to coat. Season pasta with seasoned salt."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "11 mins"
+        },
+        {
+            "Total Time": "21 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "409"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9233266.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8791315.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6702864.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F94736ee000a6f7ef0730412e94d1c9df%2F4470021.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

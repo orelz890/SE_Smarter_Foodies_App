@@ -1,0 +1,102 @@
+{
+    "title": "Biscuits and Gravy Casserole",
+    "Category": "Casseroles",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "1 (10 ounce) can refrigerated biscuit dough (such as Pillsbury Grands!\u00ae)"
+        },
+        {
+            "3": "1 (1 pound) bulk pork sausage"
+        },
+        {
+            "4": "0.5 cups shredded Cheddar cheese, divided"
+        },
+        {
+            "5": "6 large eggs"
+        },
+        {
+            "6": "0.5 cup milk"
+        },
+        {
+            "7": "1 salt and ground black pepper to taste"
+        },
+        {
+            "8": "0.5 cups cold water, or more as needed"
+        },
+        {
+            "9": "1 (1.5 ounce) package pork gravy mix"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish."
+        },
+        {
+            "2": "Line the bottom of the prepared baking dish with biscuits."
+        },
+        {
+            "3": "Heat a large skillet over medium-high heat. Cook and stir sausage in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. Scatter sausage over biscuit layer and top with 1 cup Cheddar cheese."
+        },
+        {
+            "4": "Whisk eggs, milk, salt, and pepper together in a bowl and pour over cheese layer."
+        },
+        {
+            "5": "Mix water and gravy mix together in a saucepan; bring to a boil. Reduce heat and simmer until gravy is thickened, 1 to 2 minutes, adding more water for a thinner gravy. Pour gravy over egg layer. Sprinkle remaining 1/2 cup Cheddar cheese over casserole."
+        },
+        {
+            "6": "Bake in the preheated oven until eggs are fluffy and cheese is bubbling, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 9x13-inch casserole"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "688"
+        },
+        {
+            "Fat": "52g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8a416f6b8249d374ceec86d54e80b383%2F1659975911image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9411435.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9344942.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9314100.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/V05xInWfS-lTzcDbHuSGAmEFjw0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245119-biscuit-and-gravy-casserole-MFS-364-ca5bf31eac5749b9b1766b70091328a5.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

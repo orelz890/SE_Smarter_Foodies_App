@@ -1,0 +1,84 @@
+{
+    "title": "Lemon Pie Bars",
+    "Category": "Lemon Bars",
+    "Ingredients": [
+        {
+            "1": "0.5 cups all-purpose flour"
+        },
+        {
+            "2": "0.5 cup confectioners' sugar"
+        },
+        {
+            "3": "1 cup butter, softened"
+        },
+        {
+            "4": "4  eggs"
+        },
+        {
+            "5": "0.5 cups white sugar"
+        },
+        {
+            "6": "0.5 cup lemon juice"
+        },
+        {
+            "7": "1 tablespoon lemon zest"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Mix 2 cups of flour and confectioner's sugar together. Cut in the butter or margarine. Mix well until the dough resembles pie dough consistency. Press the dough into a 9x13 inch baking pan."
+        },
+        {
+            "3": "Bake 15 to 20 minutes or until golden brown."
+        },
+        {
+            "4": "Beat together eggs, sugar, 4 tablespoons flour, lemon juice and lemon rind for at least 1 minute. Pour the mixture over the baked crust."
+        },
+        {
+            "5": "Bake the bars another 20 minutes, or until the lemon topping has set. Sprinkle with confectioner's sugar when cooled."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "32 "
+        },
+        {
+            "Yield": "32 bars"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "136"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9315588.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9135845.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9109158.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8878717.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/S6AglGStgm-fLH9VvTSX0qQohTw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1035626-lemon-pie-bars-photo-by-kgora-5cd04052086a449cabcdfd858e4c95b2.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

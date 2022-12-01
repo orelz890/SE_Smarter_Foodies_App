@@ -1,0 +1,90 @@
+{
+    "title": "New England Clam Chowder",
+    "Category": "Chowder",
+    "Ingredients": [
+        {
+            "1": "4 slices bacon, diced"
+        },
+        {
+            "2": "0.5 cups chopped onion"
+        },
+        {
+            "3": "4 cups peeled and cubed potatoes"
+        },
+        {
+            "4": "0.5 cups water"
+        },
+        {
+            "5": "0.5 teaspoons salt"
+        },
+        {
+            "6": "0.5 teaspoon ground black pepper to taste"
+        },
+        {
+            "7": "3 cups half-and-half"
+        },
+        {
+            "8": "3 tablespoons butter"
+        },
+        {
+            "9": "2 (10 ounce) cans minced clams"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place diced bacon in a large stockpot over medium-high heat; cook and stir until almost crisp. Add onion; cook and stir until tender, about 5 minutes."
+        },
+        {
+            "2": "Stir in potatoes and add water; season with salt and pepper and bring to a boil. Reduce heat to low and simmer, uncovered, until potatoes are tender, about 15 minutes."
+        },
+        {
+            "3": "Pour in half-and-half and add butter. Drain clams, reserving clam liquid; stir clams and 1/2 of the clam liquid into the soup. Cook until heated through, without boiling, about 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "396"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Feb94660ca8305fd0aca9b6efe469fd4f%2F165999078420220808_163159.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Feb94660ca8305fd0aca9b6efe469fd4f%2F16525692232B4E7A7A-C882-4F23-9619-8D712C40B866.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9408775.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9029282.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/I8rrGko0pJP223wjjkZwYpldv1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4487717-new-england-clam-chowder-Solmari-1x1-1-f10e13140fa14c99b639e12012e5bcb8.jpg"
+        }
+    ],
+    "main category": "dairy"
+}

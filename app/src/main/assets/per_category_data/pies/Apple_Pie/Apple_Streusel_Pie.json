@@ -1,0 +1,87 @@
+{
+    "title": "Apple Streusel Pie",
+    "Category": "Apple Pie",
+    "Ingredients": [
+        {
+            "1": "2 ounces butter"
+        },
+        {
+            "2": "0.5 cup packed brown sugar"
+        },
+        {
+            "3": "0.5 cup all-purpose flour"
+        },
+        {
+            "4": "1 cup chopped pecans"
+        },
+        {
+            "5": "9  apple - peeled, cored and sliced"
+        },
+        {
+            "6": "0.25 cup white sugar"
+        },
+        {
+            "7": "1 tablespoon all-purpose flour"
+        },
+        {
+            "8": "1 teaspoon ground cinnamon"
+        },
+        {
+            "9": "2 recipes unbaked pie shells"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 C)."
+        },
+        {
+            "2": "Prepare the topping by combining the butter, brown sugar, flour and chopped pecans. Cut in all ingredients with pastry cutter until pea-sized. Set aside"
+        },
+        {
+            "3": "Combine the apples, sugar, flour and cinnamon. Toss gently together and set aside."
+        },
+        {
+            "4": "Place apple mixture in unbaked pie shells. Heap the apples up high in each shell and fill completely. Sprinkle topping on top of each."
+        },
+        {
+            "5": "Bake at 350 degrees F (175 degrees C) for 50 minutes. Do not allow topping to get too dark."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 slices"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "778"
+        },
+        {
+            "Fat": "44g"
+        },
+        {
+            "Carbs": "93g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1eff4378dba7e5e0b9cb5f1438121b19%2F166397440120220923_184559.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9397122.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5785586.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fca3404cbe22e72be022d265012a5f74b%2F4588878.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

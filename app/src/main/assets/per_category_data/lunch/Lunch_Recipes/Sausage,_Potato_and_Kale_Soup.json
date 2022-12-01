@@ -1,0 +1,93 @@
+{
+    "title": "Sausage, Potato and Kale Soup",
+    "Category": "Lunch Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound bulk Italian sausage"
+        },
+        {
+            "2": "4 cups half-and-half"
+        },
+        {
+            "3": "3 cups cubed potatoes"
+        },
+        {
+            "4": "2 cups low-sodium chicken broth"
+        },
+        {
+            "5": "2 cups whole milk"
+        },
+        {
+            "6": "1  onion, chopped"
+        },
+        {
+            "7": "0.5 teaspoon dried oregano"
+        },
+        {
+            "8": "0.5 teaspoon red pepper flakes, or more to taste"
+        },
+        {
+            "9": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "10": "2 cups kale, torn into bite-sized pieces"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large soup pot over medium-high heat. Crumble sausage into the pot; cook and stir until browned, about 10 minutes. Drain and discard grease."
+        },
+        {
+            "2": "Stir half-and-half, potatoes, chicken broth, milk, onion, oregano, and pepper flakes into sausage, and bring to a boil. Reduce heat to low and simmer until potatoes are tender, about 30 minutes."
+        },
+        {
+            "3": "Season with black pepper. Stir in kale; simmer until kale is tender, 10 to 15 more minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "266"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fbed7557e0311f64ff7a8ce0167cf06c2%2F164911757320220404_120105.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9166935.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9164597.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9164574.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/wTr5zG3vAJuX8UGL1k16jdTmLTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7844203-sausage-potato-and-kale-soup-Lena-Hilton-1x1-1-6fd3c60d802c4e8d9d6eb057ce48006c.jpg"
+        }
+    ],
+    "main category": "lunch"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Sloppy Joe with Ground Turkey",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "1 teaspoon extra-virgin olive oil"
+        },
+        {
+            "2": "2 cloves garlic, minced"
+        },
+        {
+            "3": "0.5 pounds ground turkey"
+        },
+        {
+            "4": "1  tomato, chopped"
+        },
+        {
+            "5": "1 small onion, chopped"
+        },
+        {
+            "6": "0.75  green bell pepper, chopped"
+        },
+        {
+            "7": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "8": "1 pinch red pepper flakes"
+        },
+        {
+            "9": "1 salt and ground black pepper to taste"
+        },
+        {
+            "10": "4 ounces tomato paste"
+        },
+        {
+            "11": "1  lemon, juiced"
+        },
+        {
+            "12": "6  hamburger buns, split and toasted"
+        },
+        {
+            "13": "6 slices American cheese (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a pot over medium heat. Cook and stir garlic in hot oil until fragrant, about 2 minutes. Break ground turkey into the pot. Cover pot with lid and cook meat until browned on the outside, 2 to 3 minutes. With a slivered wooden spoon, break meat up into very small pieces; continue to cook and stir until nearly completely browned, 3 to 5 minutes."
+        },
+        {
+            "2": "Stir tomato, onion, green bell pepper, parsley, and red pepper flakes into the turkey mixture; season with salt and black pepper; cook until the tomato softens, 3 to 4 minutes. Add tomato past and lemon juice; stir to coat vegetables with tomato paste. Cover pot with lid, reduce heat to low, and cook until the vegetables are tender, 7 to 10 minutes. Serve on toasted hamburger buns topped with cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "435"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9171070.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9049499.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7725409.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6844284.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

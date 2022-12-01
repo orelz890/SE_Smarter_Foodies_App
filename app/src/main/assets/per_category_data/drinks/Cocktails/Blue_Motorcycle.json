@@ -1,0 +1,72 @@
+{
+    "title": "Blue Motorcycle",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "2 cups ice cubes"
+        },
+        {
+            "2": "0.75 fluid ounce vodka"
+        },
+        {
+            "3": "0.75 fluid ounce tequila"
+        },
+        {
+            "4": "0.75 fluid ounce rum"
+        },
+        {
+            "5": "0.75 fluid ounce gin"
+        },
+        {
+            "6": "0.75 fluid ounce Blue Curacao"
+        },
+        {
+            "7": "1 dash sour mix"
+        },
+        {
+            "8": "2 fluid ounces lemon-lime flavored carbonated beverage"
+        },
+        {
+            "9": "1 slice fresh lemon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a cocktail shaker with ice. Combine vodka, tequila, rum, gin, Blue Curacao, sour mix, and lemon-lime soda in the cocktail shaker. Shake vigorously to get a frothy head on the drink."
+        },
+        {
+            "2": "Pour the contents of the shaker, including ice, into a tall bar glass and garnish with slice of lemon."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "311"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F174103.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

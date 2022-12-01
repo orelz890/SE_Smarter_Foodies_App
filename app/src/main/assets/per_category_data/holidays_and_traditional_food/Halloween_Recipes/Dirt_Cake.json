@@ -1,0 +1,87 @@
+{
+    "title": "Dirt Cake",
+    "Category": "Halloween Recipes",
+    "Ingredients": [
+        {
+            "1": "32 ounces chocolate sandwich cookies with creme filling"
+        },
+        {
+            "2": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "3": "0.5 cup butter, softened"
+        },
+        {
+            "4": "0.5 cup confectioners' sugar"
+        },
+        {
+            "5": "1.5 cups milk"
+        },
+        {
+            "6": "1 (12 ounce) container frozen whipped topping, thawed"
+        },
+        {
+            "7": "2 (3.5 ounce) packages instant vanilla pudding mix"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Finely crush chocolate cookies in a food processor; set crumbs aside."
+        },
+        {
+            "2": "Combine cream cheese, butter, and confectioner's sugar in a large bowl; beat with an electric mixer until smooth."
+        },
+        {
+            "3": "Whisk milk, whipped topping, and pudding together in a separate large bowl; fold in cream cheese mixture until well combined."
+        },
+        {
+            "4": "Alternately layer crushed cookies and pudding mixture in a medium flower pot, starting and ending with cookies. Chill dirt cake in the refrigerator until ready to serve; garnish as desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 medium flower pot"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "827"
+        },
+        {
+            "Fat": "45g"
+        },
+        {
+            "Carbs": "102g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff2e0d48919b4ceb725e08fce3baea9df%2F1658503421image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9229136.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9224377.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8112016.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/kvP7fT9sWypWMoUbXGPM0eVuHlM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7255_Dirt-Cake-I_footballgrl16_SERP_1073531_original-1x1-1-85b80952518e4f739df7825126e14b36.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

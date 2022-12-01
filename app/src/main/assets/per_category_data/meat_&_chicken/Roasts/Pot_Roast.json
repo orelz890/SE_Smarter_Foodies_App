@@ -1,0 +1,99 @@
+{
+    "title": "Pot Roast",
+    "Category": "Roasts",
+    "Ingredients": [
+        {
+            "1": "2 pounds beef pot roast, fat trimmed and discarded"
+        },
+        {
+            "2": "3  potatoes, peeled and cut into 6 pieces"
+        },
+        {
+            "3": "1 large onion, cut into 8 pieces"
+        },
+        {
+            "4": "2  carrots, cut into 1-inch pieces"
+        },
+        {
+            "5": "2 stalks celery, cut into 1-inch pieces"
+        },
+        {
+            "6": "1.5 cups water, divided"
+        },
+        {
+            "7": "1 salt and ground black pepper to taste"
+        },
+        {
+            "8": "1 pinch garlic salt, or to taste"
+        },
+        {
+            "9": "0.5 cup water"
+        },
+        {
+            "10": "3 tablespoons cornstarch"
+        },
+        {
+            "11": "0.5 teaspoon browning sauce (such as Gravy Master\u00ae) (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 300 degrees F (150 degrees C)."
+        },
+        {
+            "2": "Place roast in a large baking pan; arrange potatoes, onion, carrots, and celery around roast. Pour 3 cups water into the baking pan. Season roast with salt, pepper, and garlic salt. Cover pan with aluminum foil."
+        },
+        {
+            "3": "Bake in the preheated oven until roast is browned and cooked through, about 3 hours. An instant-read thermometer inserted in the thickest part of the roast should read 145 degrees F (65 degrees C). Transfer roast to an oven-safe platter. Remove vegetables using a slotted spoon and arrange them around roast."
+        },
+        {
+            "4": "Reduce oven temperature to 200 degrees F (95 degrees C). Place the platter with roast and vegetables in the oven to keep warm."
+        },
+        {
+            "5": "Pour remaining pan juices into a saucepan; bring to a boil. Stir together remaining 1/2 cup water and cornstarch in a bowl until smooth; pour into boiling pan juices. Reduce heat to medium; cook, stirring constantly, until gravy is thick, about 5 minutes; season with salt and pepper. Stir in browning sauce."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 3 hrs 5 mins"
+        },
+        {
+            "Total Time": " 3 hrs 25 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "508"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9356105.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9121563.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9106701.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9102925.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

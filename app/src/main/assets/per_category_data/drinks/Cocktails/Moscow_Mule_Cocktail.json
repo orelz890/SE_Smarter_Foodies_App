@@ -1,0 +1,75 @@
+{
+    "title": "Moscow Mule Cocktail",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "0.5 fluid ounces vodka"
+        },
+        {
+            "2": "0.5 fluid ounce lime juice"
+        },
+        {
+            "3": "1 ice cubes"
+        },
+        {
+            "4": "0.5 cup ginger beer"
+        },
+        {
+            "5": "1  lime wedge for garnish"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour vodka and lime juice into a mug; add ice cubes and ginger beer. Stir to combine."
+        },
+        {
+            "2": "Drop a lime wedge into the mug for garnish."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "153"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9176772.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8315830.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8304263.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7542421.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/s9_b_F_rvQSC4-bMsVIGfJBWbDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/221310-moscow-mule-mfs334-8bf4beb9200a48f1b7b8edf8153f7273.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/VLV1H6cy9LDBsFE-e79ROHHSa58=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6440296-0c0edd5a70374f39b8c20fe743858117.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/ZaoCRDFfVTGp7c1q8bXBktAiuo8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/221310-moscow-mule-mfs334-1-09fd8c2d5a5041239b79e3f8c8c32479.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

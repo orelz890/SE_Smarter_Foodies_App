@@ -1,0 +1,60 @@
+{
+    "title": "Coconut Coffee Mousse",
+    "Category": "Mousse",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) container frozen whipped topping, thawed"
+        },
+        {
+            "2": "2 tablespoons coffee flavored liqueur"
+        },
+        {
+            "3": "0.25 cup flaked coconut"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fold coffee liqueur and coconut into whipped topping until well combined. Pour into 8x8 inch baking dish and freeze 4 hours, until firm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": " 3 hrs 50 mins"
+        },
+        {
+            "Total Time": " 4 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "3 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "110"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8023489.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F29c1d56c0df1bc162f634ba2ecd0eb9c%2F2349483.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

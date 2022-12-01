@@ -1,0 +1,87 @@
+{
+    "title": "Shrimp and Pineapple Ceviche",
+    "Category": "Ceviche",
+    "Ingredients": [
+        {
+            "1": "2 cups chopped cooked shrimp meat"
+        },
+        {
+            "2": "1 cup chopped red bell pepper"
+        },
+        {
+            "3": "1 cup chopped fresh pineapple"
+        },
+        {
+            "4": "1  avocado, peeled, pitted and chopped"
+        },
+        {
+            "5": "0.5  red onion, finely chopped"
+        },
+        {
+            "6": "0.5 bunch cilantro, chopped"
+        },
+        {
+            "7": "1 clove garlic, minced"
+        },
+        {
+            "8": "1  serrano pepper, minced, or to taste"
+        },
+        {
+            "9": "2  limes, juiced"
+        },
+        {
+            "10": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir the shrimp, bell pepper, pineapple, avocado, onion, cilantro, garlic, serrano pepper, lime juice, salt, and pepper together in a glass or ceramic mixing bowl until evenly combined. Cover, and refrigerate 1 hour before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "195"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8197252.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8197186.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7778346.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7778347.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

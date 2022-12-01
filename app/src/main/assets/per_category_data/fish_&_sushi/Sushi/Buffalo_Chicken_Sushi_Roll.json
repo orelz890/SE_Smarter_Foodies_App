@@ -1,0 +1,78 @@
+{
+    "title": "Buffalo Chicken Sushi Roll",
+    "Category": "Sushi",
+    "Ingredients": [
+        {
+            "1": "0.5 pound fully cooked breaded chicken breast tenderloins"
+        },
+        {
+            "2": "0.25 cup hot pepper sauce"
+        },
+        {
+            "3": "4 sheets nori (dry seaweed)"
+        },
+        {
+            "4": "4 cups cooked sushi rice"
+        },
+        {
+            "5": "1  carrot, peeled and cut into 4-inch matchsticks"
+        },
+        {
+            "6": "1  celery stalk, cut into 4-inch matchsticks"
+        },
+        {
+            "7": "0.25 cup spicy mayonnaise"
+        },
+        {
+            "8": "0.25 cup French-fried onions (such as French's\u00ae)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix chicken and hot sauce in a bowl and toss to coat."
+        },
+        {
+            "2": "Place 1 nori sheet onto a bamboo sushi rolling mat. Spread 1 cup rice onto the nori, leaving a 1/2-inch strip along one edge. Arrange 1/4 each of the chicken, carrot, and celery in a line near one edge of the rice. Use the mat to carefully lift the edge near the filling and roll tightly around the ingredients. Moisten the remaining edge of the nori with a finger dipped in water and press to seal; repeat with remaining ingredients."
+        },
+        {
+            "3": "Cut each roll into 8 slices using a sharp, wet knife. Top each piece with a dollop of mayonnaise and a small amount of French-fried onion."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 rolls"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "522"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "55g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F4de282414a94c1b0876d1526331523b8%2F4461788.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3792008.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

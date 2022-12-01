@@ -1,0 +1,75 @@
+{
+    "title": "Old Fashioned Cocktail",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "1  sugar cube"
+        },
+        {
+            "2": "1 teaspoon water"
+        },
+        {
+            "3": "1 dash bitters"
+        },
+        {
+            "4": "2 fluid ounces whiskey (rye or bourbon)"
+        },
+        {
+            "5": "1  lemon twist"
+        },
+        {
+            "6": "0.5 cup ice cubes, or as needed"
+        },
+        {
+            "7": "1  orange slice, for garnish"
+        },
+        {
+            "8": "1  maraschino cherry, for garnish"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Muddle sugar cube, water, and bitters in an old fashioned glass for 1 minute. Pour in whiskey; stir for 1 minute."
+        },
+        {
+            "2": "Squeeze lemon twist over the glass and drop it in. Add ice cubes. Garnish with orange slice and maraschino cherry; serve with a swizzle stick."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "168"
+        },
+        {
+            "Carbs": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8417399.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8226721.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7833709.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7710162.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/5aNNk0uzLsz1PmkScs397gd67JY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8226721-7a2d83baddc84cc6837c28164c116fc8.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

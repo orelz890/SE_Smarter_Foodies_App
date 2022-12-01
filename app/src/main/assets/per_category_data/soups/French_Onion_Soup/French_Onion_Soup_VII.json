@@ -1,0 +1,72 @@
+{
+    "title": "French Onion Soup VII",
+    "Category": "French Onion Soup",
+    "Ingredients": [
+        {
+            "1": "0.25 cup butter"
+        },
+        {
+            "2": "8  onions, sliced"
+        },
+        {
+            "3": "1 quart vegetable broth"
+        },
+        {
+            "4": "0.5 cups white wine"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        },
+        {
+            "6": "6 slices baguette"
+        },
+        {
+            "7": "2 cups shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a large pot over medium heat. Saute onions until deep brown, about 20 minutes. Stir in broth and wine, using a wooden spoon to scrape the bottom of the pot. Season with salt and pepper. Cook until heated through."
+        },
+        {
+            "2": "Preheat oven on broiler setting. Ladle soup into heatproof serving bowls. Top each bowl with a slice of bread, and sprinkle with cheese. Place under a hot broiler until cheese is melted and slightly browned."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "343"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F556420.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

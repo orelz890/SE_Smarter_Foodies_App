@@ -1,0 +1,96 @@
+{
+    "title": "Loaded Baked Potato Soup",
+    "Category": "Potato Soup",
+    "Ingredients": [
+        {
+            "1": "8 large red potatoes"
+        },
+        {
+            "2": "1 (12 ounce) package bacon"
+        },
+        {
+            "3": "0.5 gallon milk"
+        },
+        {
+            "4": "1 cup heavy whipping cream"
+        },
+        {
+            "5": "1 (8 ounce) container sour cream"
+        },
+        {
+            "6": "1 (8 ounce) package processed cheese (such as Velveeta\u00ae), cubed"
+        },
+        {
+            "7": "1 (8 ounce) package shredded Cheddar cheese"
+        },
+        {
+            "8": "1 teaspoon onion salt"
+        },
+        {
+            "9": "1 ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Wrap potatoes in aluminum foil."
+        },
+        {
+            "3": "Bake in the preheated oven until potatoes are tender, 45 minutes to 1 hour. Cool potatoes until easy to handle, cut into cubes, and set aside."
+        },
+        {
+            "4": "Place bacon in a large skillet over medium-high heat; cook, turning occasionally, until evenly browned, about 10 minutes. Drain bacon on a paper towel-lined plate. Crumble and set aside."
+        },
+        {
+            "5": "Combine milk, cream, sour cream, processed cheese, and Cheddar cheese in a large pot over medium heat; cook, stirring frequently, until cheeses are melted, about 10 minutes."
+        },
+        {
+            "6": "Add potatoes and bacon to milk mixture and simmer over medium heat, stirring frequently, until potatoes begin to dissolve into soup, about 20 minutes. Season with onion salt and black pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 25 mins"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "550"
+        },
+        {
+            "Fat": "30g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8987422.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8893808.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8648902.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8559762.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

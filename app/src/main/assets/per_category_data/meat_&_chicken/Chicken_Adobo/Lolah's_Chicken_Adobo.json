@@ -1,0 +1,81 @@
+{
+    "title": "Lolah's Chicken Adobo",
+    "Category": "Chicken Adobo",
+    "Ingredients": [
+        {
+            "1": "3 tablespoons vegetable oil"
+        },
+        {
+            "2": "3 pounds boneless, skinless chicken thighs, rinsed and patted dry"
+        },
+        {
+            "3": "6 cloves garlic, peeled and thinly sliced"
+        },
+        {
+            "4": "0.5 cup soy sauce"
+        },
+        {
+            "5": "0.5 cup apple cider vinegar"
+        },
+        {
+            "6": "0.5 cup water"
+        },
+        {
+            "7": "2 tablespoons pickling spice, wrapped in cheesecloth"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large pot over medium heat until oil is shimmering. Cook garlic in oil for no more than 30 seconds. Add all of the chicken to the pot; cook, stirring frequently, until chicken is white all over. Do not brown."
+        },
+        {
+            "2": "Pour in soy sauce, vinegar, and water, and add the pickling spice. Make sure the spice ball is submerged. Bring to a boil, reduce heat to simmer, and place lid on pot so that some steam can escape. Simmer for 1 hour, or until chicken is very tender."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "265"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9308151.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8520938.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7900119.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7693369.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

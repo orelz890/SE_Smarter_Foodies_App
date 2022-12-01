@@ -1,0 +1,90 @@
+{
+    "title": "Instant Pot Potato Salad",
+    "Category": "Potato Salad",
+    "Ingredients": [
+        {
+            "1": "0.5 cups water"
+        },
+        {
+            "2": "2 pounds red potatoes, scrubbed and cubed"
+        },
+        {
+            "3": "3 large eggs"
+        },
+        {
+            "4": "2 stalks celery, chopped"
+        },
+        {
+            "5": "0.25 cup mayonnaise"
+        },
+        {
+            "6": "2  green onions, chopped"
+        },
+        {
+            "7": "3 tablespoons yellow mustard"
+        },
+        {
+            "8": "1 tablespoon dill pickle relish"
+        },
+        {
+            "9": "1 teaspoon paprika"
+        },
+        {
+            "10": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour water into the pot of a multi-functional pressure cooker (such as an Instant Pot) and place a steamer basket inside. Place potatoes in the steamer basket. Arrange eggs on top of the potatoes."
+        },
+        {
+            "2": "Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 4 minutes. Allow 15 minutes for pressure to build."
+        },
+        {
+            "3": "Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid. Use tongs to transfer eggs to an ice bath and let cool for 10 minutes."
+        },
+        {
+            "4": "Meanwhile, combine celery, mayonnaise, green onion, mustard, relish, and paprika in a large bowl. Stir until evenly combined."
+        },
+        {
+            "5": "Peel and chop the eggs. Stir eggs and potatoes into the dressing. Season with salt and pepper. Cover and refrigerate for 1 hour before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 45 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "163"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8101390.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

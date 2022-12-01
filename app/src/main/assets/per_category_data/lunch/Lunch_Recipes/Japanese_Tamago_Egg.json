@@ -1,0 +1,81 @@
+{
+    "title": "Japanese Tamago Egg",
+    "Category": "Lunch Recipes",
+    "Ingredients": [
+        {
+            "1": "4  eggs"
+        },
+        {
+            "2": "0.25 cup prepared dashi stock"
+        },
+        {
+            "3": "1 tablespoon white sugar"
+        },
+        {
+            "4": "1 teaspoon mirin (Japanese sweet wine)"
+        },
+        {
+            "5": "0.5 teaspoon soy sauce"
+        },
+        {
+            "6": "0.5 teaspoon vegetable oil, or more as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Beat eggs thoroughly in a bowl; whisk in dashi stock, sugar, mirin, and soy sauce until sugar has dissolved."
+        },
+        {
+            "2": "Lightly grease a nonstick skillet and heat over medium heat."
+        },
+        {
+            "3": "Pour a thin layer of egg mixture into the hot pan and swirl to coat the pan. Cook until egg layer is firm on the bottom but still slightly liquid on top, about 1 minute. Then lift up one edge using a spatula and roll up the egg layer. Push omelet roll to one side of the skillet. Oil the skillet again and pour in another thin layer of egg, lifting the first omelet roll up slightly to allow the egg to flow underneath; roll up the first omelet in the new layer of egg and push omelet to the edge of the skillet as before. Repeat the process with the remaining egg mixture, oiling the pan each time if needed."
+        },
+        {
+            "4": "Remove rolled omelet to a serving platter and cut into 6 equal pieces to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "63"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9170797.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8540171.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8305013.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F962c93fe6855d203c0235b422cdf3e27%2F7317637.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "lunch"
+}

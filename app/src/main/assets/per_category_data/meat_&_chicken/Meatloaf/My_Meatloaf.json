@@ -1,0 +1,87 @@
+{
+    "title": "My Meatloaf",
+    "Category": "Meatloaf",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "0.25 cup ketchup"
+        },
+        {
+            "3": "0.5 packet dry onion soup mix"
+        },
+        {
+            "4": "3 slices leftover bread (heels are great), torn into bite-size pieces"
+        },
+        {
+            "5": "1 teaspoon Italian-style seasoning"
+        },
+        {
+            "6": "1 tablespoon water"
+        },
+        {
+            "7": "1 water as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "2": "In a large bowl, combine the beef, ketchup, soup mix, bread, Italian-style seasoning and water. Mix well. Shape into a loaf and place into a 9 inch pie pan OR a 9x13 inch baking dish. Baste the top of the meatloaf with ketchup."
+        },
+        {
+            "3": "Bake at 425 degrees F (220 degrees C) for one hour, or until the edges are just crispy and the top has a crust."
+        },
+        {
+            "4": "Cool for 15 to 20 minutes before cutting."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "420"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5300750.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F08c6e26bd803ff64b2343e9ad9f6a6a7%2F3648339.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F717931.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F236ca43b555c831a6061f05cc92ee559%2F644938.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

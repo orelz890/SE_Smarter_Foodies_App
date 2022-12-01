@@ -1,0 +1,99 @@
+{
+    "title": "Baked Ziti Casserole",
+    "Category": "Noodle Casserole",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package ziti"
+        },
+        {
+            "2": "1 (15 ounce) container ricotta cheese"
+        },
+        {
+            "3": "0.5 cups tomato sauce"
+        },
+        {
+            "4": "1 (8 ounce) package shredded mozzarella cheese"
+        },
+        {
+            "5": "1  egg, slightly beaten"
+        },
+        {
+            "6": "1 teaspoon salt, or to taste"
+        },
+        {
+            "7": "0.5 teaspoon ground black pepper, or to taste"
+        },
+        {
+            "8": "2 cups tomato sauce, divided"
+        },
+        {
+            "9": "0.25 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook ziti in boiling water until cooked through but firm to the bite, about 13 minutes; drain. Rinse ziti with cold water until cool; drain."
+        },
+        {
+            "2": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "3": "Mix ziti, ricotta cheese, 1 1/2 cups tomato sauce, mozzarella cheese, egg, salt, and pepper in a large bowl."
+        },
+        {
+            "4": "Spread 1/2 cup tomato sauce into the bottom of a 2 1/2-quart shallow baking dish. Pour ziti mixture into the dish. Top with remaining 1 1/2 cup tomato sauce and Parmesan cheese."
+        },
+        {
+            "5": "Bake in preheated oven until sauce and cheese layer is bubbly and lightly browned, about 30 minutes. Let cool 10 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "415"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9416776.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9367004.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9138895.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8832023.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

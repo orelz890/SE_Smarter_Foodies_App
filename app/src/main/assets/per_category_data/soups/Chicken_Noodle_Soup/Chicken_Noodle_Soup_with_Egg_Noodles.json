@@ -1,0 +1,87 @@
+{
+    "title": "Chicken Noodle Soup with Egg Noodles",
+    "Category": "Chicken Noodle Soup",
+    "Ingredients": [
+        {
+            "1": "1 (3 1/2) pound chicken, cut into 8 pieces"
+        },
+        {
+            "2": "4 (16 ounce) cans low-sodium chicken broth"
+        },
+        {
+            "3": "2  carrots, peeled and thinly sliced"
+        },
+        {
+            "4": "2 stalks celery, sliced"
+        },
+        {
+            "5": "0.5 cup chopped onion"
+        },
+        {
+            "6": "1 (8 ounce) package dried egg noodles"
+        },
+        {
+            "7": "0.5 cup finely chopped fresh parsley"
+        },
+        {
+            "8": "1 tablespoon freshly squeezed lemon juice"
+        },
+        {
+            "9": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine chicken and chicken broth in a large, heavy pot over medium-high heat; bring to a boil. Reduce heat, cover partially, and simmer until chicken is no longer pink at the bone and the juices run clear, about 20 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C). Remove chicken with tongs and transfer to a large bowl. Allow chicken and broth to cool slightly."
+        },
+        {
+            "2": "Remove skin and bones from cooled chicken and discard. Cut chicken meat into bite-sized pieces. Skim fat off the top of the cooled broth and discard."
+        },
+        {
+            "3": "Return chicken broth to a simmer. Add carrots, celery, and onion to the broth and simmer until vegetables soften, about 8 minutes. Stir in chicken, egg noodles, parsley, and lemon juice and simmer until noodles are tender, about 5 minutes. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "335"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7821902.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7813297.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F469628.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

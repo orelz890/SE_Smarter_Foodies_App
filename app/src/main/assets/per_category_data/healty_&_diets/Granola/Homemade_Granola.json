@@ -1,0 +1,93 @@
+{
+    "title": "Homemade Granola",
+    "Category": "Granola",
+    "Ingredients": [
+        {
+            "1": "5 cups old-fashioned oats"
+        },
+        {
+            "2": "1 cup brown sugar"
+        },
+        {
+            "3": "1 cup flaked coconut"
+        },
+        {
+            "4": "1 cup wheat germ"
+        },
+        {
+            "5": "1 tablespoon ground cinnamon"
+        },
+        {
+            "6": "1 teaspoon ground nutmeg"
+        },
+        {
+            "7": "0.5 cup water"
+        },
+        {
+            "8": "0.5 cup vegetable oil"
+        },
+        {
+            "9": "1 tablespoon vanilla extract"
+        },
+        {
+            "10": "0.5 cup raisins"
+        },
+        {
+            "11": "0.5 cup sliced almonds"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 325 degrees F (165 degrees C)."
+        },
+        {
+            "2": "Mix oats, brown sugar, coconut, wheat germ, cinnamon, and nutmeg together in a large bowl. Stir water, oil, and vanilla extract into oat mixture; spread onto a baking sheet."
+        },
+        {
+            "3": "Bake in the preheated oven, stirring every 15 minutes, until golden brown and crunchy, about 1 hour; transfer to a bowl. Stir raisins and almonds through granola."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "367"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7987950.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6956122.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6202684.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5258631.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

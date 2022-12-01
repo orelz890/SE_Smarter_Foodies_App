@@ -1,0 +1,78 @@
+{
+    "title": "Watermelon Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "0.5 cup white sugar"
+        },
+        {
+            "2": "0.5 cup water"
+        },
+        {
+            "3": "4 cups cubed watermelon"
+        },
+        {
+            "4": "3 cups cold water"
+        },
+        {
+            "5": "0.5 cup fresh lemon juice"
+        },
+        {
+            "6": "6 cups ice cubes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the watermelon into a blender. Cover, and puree until smooth. Strain through a fine mesh sieve."
+        },
+        {
+            "2": "Bring sugar and 1/2 cup water to a boil in a saucepan over medium-high heat until sugar dissolves, about 5 minutes. Remove from heat. Stir in 3 cups of cold water and the lemon juice. Divide the ice into 12 glasses, and scoop 2 to 3 tablespoons of watermelon puree over the ice, then top with the lemonade. Gently stir before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "6 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "50"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9180248.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8277251.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8258104.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6732788.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

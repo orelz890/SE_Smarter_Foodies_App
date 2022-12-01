@@ -1,0 +1,69 @@
+{
+    "title": "Garlic Scape Pesto",
+    "Category": "Pesto Sauce",
+    "Ingredients": [
+        {
+            "1": "1 pound garlic scapes, cut into 2-inch pieces"
+        },
+        {
+            "2": "0.25 cups grated Parmesan cheese"
+        },
+        {
+            "3": "1 cup olive oil"
+        },
+        {
+            "4": "1 tablespoon lemon juice"
+        },
+        {
+            "5": "1 ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Blend garlic scapes, Parmesan cheese, olive oil, lemon juice, and pepper together in a food processor until smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "28 "
+        },
+        {
+            "Yield": "3 1/2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "108"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9261594.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9261591.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F59ebaaf6f3551f7bb105e988e6f43468%2F6780456.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5535575.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

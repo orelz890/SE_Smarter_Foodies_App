@@ -1,0 +1,81 @@
+{
+    "title": "Savory Rice and Quinoa Pilaf",
+    "Category": "Rice Pilaf",
+    "Ingredients": [
+        {
+            "1": "6 cups vegetable broth"
+        },
+        {
+            "2": "2 cups basmati rice"
+        },
+        {
+            "3": "1 cup quinoa"
+        },
+        {
+            "4": "2  tomatoes, chopped (Optional)"
+        },
+        {
+            "5": "0.25 cup raisins (Optional)"
+        },
+        {
+            "6": "1 tablespoon chopped fresh parsley"
+        },
+        {
+            "7": "1 teaspoon salt"
+        },
+        {
+            "8": "1 teaspoon ground black pepper"
+        },
+        {
+            "9": "0.5 teaspoon ground allspice"
+        },
+        {
+            "10": "0.5 teaspoon dried sage"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring vegetable broth to a boil in a large saucepan. Stir in basmati rice, quinoa, tomatoes, raisins, parsley, salt, pepper, allspice, and sage. Reduce heat and simmer until broth is absorbed and quinoa is tender, about 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "386"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "80g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6797064.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0e88d5c1152b9cf875df30a04d575288%2F4554826.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

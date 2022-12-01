@@ -1,0 +1,63 @@
+{
+    "title": "Peppermint Coffee Creamer",
+    "Category": "Allrecipes Allstars",
+    "Ingredients": [
+        {
+            "1": "0.75 cup milk"
+        },
+        {
+            "2": "0.25 cup heavy whipping cream"
+        },
+        {
+            "3": "2 tablespoons stevia powder, or to taste"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "0.5 teaspoon peppermint extract, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine milk, whipping cream, and stevia in a saucepan over medium-low heat. Heat until bubbles start to appear on the outer edges of the saucepan, 5 to 7 minutes; do not boil. Remove from the heat and stir in vanilla and peppermint extracts."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "42"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8858874.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

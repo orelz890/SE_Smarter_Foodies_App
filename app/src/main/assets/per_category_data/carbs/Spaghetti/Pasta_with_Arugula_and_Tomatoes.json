@@ -1,0 +1,81 @@
+{
+    "title": "Pasta with Arugula and Tomatoes",
+    "Category": "Spaghetti",
+    "Ingredients": [
+        {
+            "1": "10 ounces spaghetti"
+        },
+        {
+            "2": "4 tablespoons olive oil"
+        },
+        {
+            "3": "2 cloves garlic, minced"
+        },
+        {
+            "4": "1 pint cherry tomatoes, halved"
+        },
+        {
+            "5": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "6": "1 (5 ounce) package arugula, torn"
+        },
+        {
+            "7": "2 tablespoons shaved Parmesan cheese, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain."
+        },
+        {
+            "2": "Meanwhile, heat olive oil in a skillet over medium-low heat and cook garlic until translucent and fragrant, about 2 minutes. Add cherry tomatoes. Increase heat, cook, and stir until lightly browned, 5 to 7 minutes. Season with salt and pepper."
+        },
+        {
+            "3": "Remove skillet from heat and mix in arugula. Mix in cooked spaghetti and drizzle with olive oil. Serve immediately with Parmesan cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "3 "
+        },
+        {
+            "Yield": "3 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "555"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "77g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8150233.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7725414.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F77d461c6bdb584e4b6b83ddb19c3fdd1%2F5607317.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Super Simple Salmon",
+    "Category": "Salmon Recipes",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon garlic powder"
+        },
+        {
+            "2": "1 tablespoon dried basil"
+        },
+        {
+            "3": "0.5 teaspoon salt"
+        },
+        {
+            "4": "4 (6 ounce) fillets salmon"
+        },
+        {
+            "5": "2 tablespoons butter"
+        },
+        {
+            "6": "4  lemon wedges"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir garlic powder, basil, and salt together in a small bowl. Rub the mixture evenly over salmon."
+        },
+        {
+            "2": "Melt butter in a large skillet over medium heat. Add salmon and cook until browned and flaky, about 5 minutes per side."
+        },
+        {
+            "3": "Serve salmon with lemon wedges."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "304"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "37g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8eb6f438f711108786a60cf41f6789f6%2F1646847164IMG_0017.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9418627.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9373887.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9299924.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/28U7ZII1HUlohOlgBWnso50_rS4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3561232-8dd64059424a490aa619a249437f18c9.jpg"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

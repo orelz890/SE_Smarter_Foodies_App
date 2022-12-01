@@ -1,0 +1,87 @@
+{
+    "title": "Super Moist Meatloaf",
+    "Category": "Meatloaf",
+    "Ingredients": [
+        {
+            "1": "2 pounds ground beef"
+        },
+        {
+            "2": "0.5  onion, chopped"
+        },
+        {
+            "3": "2  eggs, beaten"
+        },
+        {
+            "4": "0.75 cup small chunks of bread"
+        },
+        {
+            "5": "0.5 cup milk"
+        },
+        {
+            "6": "0.5 cup chopped green bell pepper"
+        },
+        {
+            "7": "0.5 teaspoons salt"
+        },
+        {
+            "8": "0.25 teaspoon sage"
+        },
+        {
+            "9": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "10": "0.5 cup ketchup, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Thoroughly mix ground beef, onion, eggs, bread, milk, green bell pepper, salt, sage, and black pepper together in a bowl. Press into a loaf pan. Spread ketchup over the top of the loaf."
+        },
+        {
+            "3": "Bake in the preheated oven until no longer pink in the center, about 45 minutes. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 meatloaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "262"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3963381.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1261441.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

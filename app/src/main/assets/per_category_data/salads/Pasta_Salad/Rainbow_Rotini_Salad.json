@@ -1,0 +1,84 @@
+{
+    "title": "Rainbow Rotini Salad",
+    "Category": "Pasta Salad",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package colored rotini pasta"
+        },
+        {
+            "2": "2  tomatoes, chopped"
+        },
+        {
+            "3": "1  green bell pepper, chopped"
+        },
+        {
+            "4": "1  onion, chopped"
+        },
+        {
+            "5": "1 large cucumber, chopped"
+        },
+        {
+            "6": "1 cup broccoli florets"
+        },
+        {
+            "7": "1 cup fresh sliced mushrooms"
+        },
+        {
+            "8": "1 cup black olives, pitted and sliced"
+        },
+        {
+            "9": "1 (8 ounce) bottle Italian-style salad dressing"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil; cook rotini at a boil until tender yet firm to the bite, about 8 to 10 minutes. Drain and rinse in cold water."
+        },
+        {
+            "2": "Combine cooked pasta, tomatoes, green bell pepper, onion, cucumber, broccoli, mushrooms, and olives in a large bowl. Add Italian salad dressing; toss to coat. For best results, cover and chill to let the flavors blend before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "327"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9219260.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9079763.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb383d014b5213228ef3400e6f061a8d7%2F6697065.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F163caa785f5360ec0bfa234d554e59d8%2F6267059.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

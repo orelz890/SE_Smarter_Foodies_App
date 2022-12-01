@@ -1,0 +1,93 @@
+{
+    "title": "Meat Filled Manicotti",
+    "Category": "Manicotti",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package manicotti pasta"
+        },
+        {
+            "2": "1 pound lean ground beef"
+        },
+        {
+            "3": "0.5 cups cottage cheese"
+        },
+        {
+            "4": "2 cups shredded mozzarella cheese"
+        },
+        {
+            "5": "0.5 cup grated Parmesan cheese"
+        },
+        {
+            "6": "2  egg whites"
+        },
+        {
+            "7": "0.5 teaspoon dried oregano"
+        },
+        {
+            "8": "1 (32 ounce) jar spaghetti sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente. Drain and cool. Reserve."
+        },
+        {
+            "2": "Meanwhile, in a large skillet brown beef on medium heat. Drain and cool."
+        },
+        {
+            "3": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "4": "Combine beef, cottage cheese, 1 cup mozzarella cheese, Parmesan cheese, egg whites and oregano. Mix well. Stuff shells with mixture."
+        },
+        {
+            "5": "Lightly grease a 9x13 inch baking dish. Pour enough spaghetti sauce in dish to cover the bottom. Place stuffed noodles in the dish. Cover with spaghetti sauce and top with the remaining 1 cup mozzarella cheese. Bake in preheated oven for 50 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "668"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "51g"
+        },
+        {
+            "Protein": "40g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7547890.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7131044.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7088310.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6084752.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

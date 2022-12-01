@@ -1,0 +1,117 @@
+{
+    "title": "Korean Hot Wings",
+    "Category": "Korean Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup low-sodium soy sauce"
+        },
+        {
+            "2": "0.75 cup dark brown sugar"
+        },
+        {
+            "3": "0.25 cup ketchup"
+        },
+        {
+            "4": "3 tablespoons barbeque sauce"
+        },
+        {
+            "5": "2 tablespoons minced garlic"
+        },
+        {
+            "6": "1 tablespoon rice wine vinegar"
+        },
+        {
+            "7": "1 tablespoon chile-garlic sauce (such as Sriracha) (Optional)"
+        },
+        {
+            "8": "0.5 teaspoons ground black pepper"
+        },
+        {
+            "9": "1 teaspoon Asian (toasted) sesame oil"
+        },
+        {
+            "10": "1 teaspoon grated fresh ginger"
+        },
+        {
+            "11": "1 tablespoon cornstarch"
+        },
+        {
+            "12": "1 tablespoon water"
+        },
+        {
+            "13": "1 quart peanut oil for frying, or as needed"
+        },
+        {
+            "14": "4 pounds chicken wings"
+        },
+        {
+            "15": "2 tablespoons lemon-pepper seasoning, or to taste (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir soy sauce, brown sugar, ketchup, barbeque sauce, garlic, vinegar, chile-garlic sauce, pepper, sesame oil, and ginger together in a saucepan; bring to a boil."
+        },
+        {
+            "2": "Whisk cornstarch and water together in a small bowl; stir into sauce. Remove from heat and set aside to cool and thicken."
+        },
+        {
+            "3": "Heat oil in a deep-fryer or large saucepan to 360 degrees F (182 degrees C)."
+        },
+        {
+            "4": "Season chicken wings with lemon-pepper seasoning."
+        },
+        {
+            "5": "Fry chicken wings in batches of 6 to 8 at a time in hot oil until no longer pink at the bone and the juices run clear, 6 to 8 minutes per batch. An instant-read thermometer inserted into the meatiest part of the wing, near the bone, should read 165 degrees F (74 degrees C)."
+        },
+        {
+            "6": "Place cooked wings into a large mixing bowl. Ladle sauce over the wings and toss to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "459"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc6727d0f6a509e7cf757c9af3b1abde4%2F1646060429937616EE-25C5-4E64-8C89-3B7173AA569C.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7933445.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F868e4c843647d6ca56f2ad346374eed7%2F4542589.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6351805.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/DLndcUkuXnFXr-Ta7VHPxRE_LHM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1963809-fcef09e2da644fbc96a61f0224c19f1d.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

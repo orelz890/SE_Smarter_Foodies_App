@@ -1,0 +1,75 @@
+{
+    "title": "Mexican-Style Sweet Cornbread",
+    "Category": "Cornbread",
+    "Ingredients": [
+        {
+            "1": "1 (8.5 ounce) package dry corn muffin mix (such as Jiffy\u00ae)"
+        },
+        {
+            "2": "1 (14.25 ounce) can sweet cream-style corn"
+        },
+        {
+            "3": "0.25 cup butter, melted"
+        },
+        {
+            "4": "0.25 cup white sugar"
+        },
+        {
+            "5": "0.25 cup water"
+        },
+        {
+            "6": "0.25 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x5-inch loaf pan."
+        },
+        {
+            "2": "Combine corn muffin mix, corn, butter, sugar, water, and salt in a bowl. Pour into the greased loaf pan."
+        },
+        {
+            "3": "Bake in the preheated oven until all the liquid is absorbed, 45 to 50 minutes. Scoop onto serving dishes with an ice cream scoop."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "237"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9245488.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7906123.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Breakfast Quesadillas",
+    "Category": "Quesadillas",
+    "Ingredients": [
+        {
+            "1": "1 pound bulk pork breakfast sausage (such as Jimmy Dean\u00ae)"
+        },
+        {
+            "2": "1 cooking spray"
+        },
+        {
+            "3": "6  eggs"
+        },
+        {
+            "4": "0.25 cup milk"
+        },
+        {
+            "5": "0.5 pound shredded Cheddar cheese (such as Kraft\u00ae)"
+        },
+        {
+            "6": "0.25 cup butter"
+        },
+        {
+            "7": "24  flour tortillas, at room temperature"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large skillet over medium-high heat. Cook and stir sausage in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease. Let sausage cool."
+        },
+        {
+            "2": "Spray a large skillet with cooking spray; warm over medium-high heat. Beat eggs with milk in a bowl. Pour into the skillet; cook and stir until eggs are set, about 5 minutes. Set aside to cool."
+        },
+        {
+            "3": "Spread butter over 1 side of each tortilla. Heat a skillet over medium heat. Place a tortilla, buttered-side down, in the skillet. Top with a layer each of the sausage, eggs, then cheese. Top with another tortilla, buttered-side up. Cook until golden brown on both sides, 2 to 3 minutes per side. Transfer to a plate. Repeat with remaining tortillas and filling."
+        },
+        {
+            "4": "Slice quesadillas into quarters. Serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "12 quesadillas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "345"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffc25bb2415c977c0e74fe81290cdf0a6%2F16486625936899B84C-5007-4368-B8AC-06CC8F5BA5EA.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffc25bb2415c977c0e74fe81290cdf0a6%2F1647960450Breakfast%2520Quesadillas%2520Recipe-March%2520%281%29.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffc25bb2415c977c0e74fe81290cdf0a6%2F16470570962022-03-08%252020.34.52.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Classic Macaroni and Cheese",
+    "Category": "Macaroni and Cheese",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package macaroni"
+        },
+        {
+            "2": "1 pound sharp Cheddar cheese, sliced"
+        },
+        {
+            "3": "1 tablespoon butter"
+        },
+        {
+            "4": "1 salt and pepper to taste"
+        },
+        {
+            "5": "1 (12 fluid ounce) can evaporated milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C). Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+            "2": "Grease a 2 quart casserole dish. Place a quarter of the macaroni in the bottom, followed by an even layer of one-quarter of the cheese slices. Dot with butter and season with salt and pepper. Repeat layering three times. Pour evaporated milk evenly over the top of all."
+        },
+        {
+            "3": "Bake, uncovered, for one hour, or until top is golden brown."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 to 2 - quart casserole"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "701"
+        },
+        {
+            "Fat": "34g"
+        },
+        {
+            "Carbs": "65g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F957cc9da2901bd4c3c69b70a3a22abdf%2F5839653.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe0db72c869e33f109ed23c08eee412ef%2F5839655.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4589544.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4531562.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/cJ1mrgnfT78ciBQTEQKrBHIKevo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/386175-classic-macaroni-and-cheese-My4boys-1x1-1-e2a3639e2d6d4757be863c21afd761d9.jpg"
+        }
+    ],
+    "main category": "dairy"
+}

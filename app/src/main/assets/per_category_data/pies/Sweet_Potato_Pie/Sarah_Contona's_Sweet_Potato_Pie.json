@@ -1,0 +1,99 @@
+{
+    "title": "Sarah Contona's Sweet Potato Pie",
+    "Category": "Sweet Potato Pie",
+    "Ingredients": [
+        {
+            "1": "0.5 cups crushed graham crackers"
+        },
+        {
+            "2": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "3": "2 tablespoons brown sugar"
+        },
+        {
+            "4": "0.5 cup butter, melted"
+        },
+        {
+            "5": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "6": "1 (29 ounce) can sweet potatoes, drained and mashed"
+        },
+        {
+            "7": "0.25 cup packed brown sugar"
+        },
+        {
+            "8": "0.25 cup light cream"
+        },
+        {
+            "9": "2  eggs, lightly beaten"
+        },
+        {
+            "10": "2 tablespoons vanilla"
+        },
+        {
+            "11": "1 (10.5 ounce) package miniature marshmallows"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9 inch springform pan."
+        },
+        {
+            "2": "In a medium bowl, mix graham crackers, cinnamon, 2 tablespoons brown sugar, and butter. Press mixture into the prepared springform pan to form a crust. Bake 10 minutes in the preheated oven, until lightly browned."
+        },
+        {
+            "3": "In a large bowl, blend cream cheese, sweet potatoes, 1/4 cup brown sugar, light cream, eggs, and vanilla. Pour into the baked crust."
+        },
+        {
+            "4": "Bake pie 1 hour in the preheated oven, placing marshmallows on top to melt during the last 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "558"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "76g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbcd04a249c25c23598aabf5affaa1c3d%2F4588597.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb40d030e8e0fea587906036083c8d472%2F925551.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F168068.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F168072.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

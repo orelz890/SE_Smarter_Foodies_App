@@ -1,0 +1,105 @@
+{
+    "title": "Johnny Marzetti Casserole",
+    "Category": "Noodle Casserole",
+    "Ingredients": [
+        {
+            "1": "8 ounces rotini pasta"
+        },
+        {
+            "2": "1 pound ground beef"
+        },
+        {
+            "3": "0.5 pound bulk mild Italian sausage"
+        },
+        {
+            "4": "0.75 cup chopped onion"
+        },
+        {
+            "5": "0.25 cup chopped celery"
+        },
+        {
+            "6": "1 clove garlic, minced"
+        },
+        {
+            "7": "1 tablespoon minced green bell pepper"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        },
+        {
+            "9": "1 (14.4 ounce) can diced tomatoes"
+        },
+        {
+            "10": "1 (15 ounce) can tomato sauce"
+        },
+        {
+            "11": "2 cups shredded Italian cheese blend"
+        },
+        {
+            "12": "0.5 cups shredded sharp Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Add pasta and cook until just al dente, 6 to 8 minutes; drain. Run cold water over the pasta to stop pasta from cooking further. Set aside."
+        },
+        {
+            "3": "Meanwhile, cook the ground beef and sausage until completely browned and crumbled, 7 to 10 minutes. Mix in the onion, celery, garlic, and pepper; continue to cook and stir another 5 minutes. Season with salt and pepper. Remove from heat and stir in tomatoes and tomato sauce. Allow to cool five minutes."
+        },
+        {
+            "4": "Lightly grease a large casserole dish. Spread the pasta over the bottom of the dish. Sprinkle the Italian cheese blend over the pasta. Pour the meat mixture over the pasta and cheese. Cover dish with heavy aluminum foil. Bake in preheated oven for 45 minutes; remove foil and sprinkle Cheddar cheese evenly over the casserole. Continue baking until Cheddar cheese has melted, about 5 minutes. Rest for 10 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 10 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "648"
+        },
+        {
+            "Fat": "37g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "40g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fbc90969ed61bf96d602ecd4dd33b3a4f%2F166734220378920221101_182912.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7f44016003a0222996e413a32193cd18%2F1662579792Resized_20220904_180520.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7f44016003a0222996e413a32193cd18%2F16617416931999E1A8-EAB4-47AB-8D07-B9386226AB81.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7f44016003a0222996e413a32193cd18%2F1660605349image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

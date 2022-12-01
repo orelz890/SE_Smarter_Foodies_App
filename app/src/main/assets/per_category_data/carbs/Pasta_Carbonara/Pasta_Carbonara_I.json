@@ -1,0 +1,87 @@
+{
+    "title": "Pasta Carbonara I",
+    "Category": "Pasta Carbonara",
+    "Ingredients": [
+        {
+            "1": "0.5 pound bacon, cut into small pieces"
+        },
+        {
+            "2": "4  eggs, room temperature"
+        },
+        {
+            "3": "0.25 cup heavy cream at room temperature"
+        },
+        {
+            "4": "1 cup grated Parmesan cheese"
+        },
+        {
+            "5": "16 ounces dry fettuccine pasta"
+        },
+        {
+            "6": "0.25 cup butter, softened"
+        },
+        {
+            "7": "0.25 cup chopped parsley"
+        },
+        {
+            "8": "1 ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook bacon until crisp. Drain on paper towels."
+        },
+        {
+            "2": "In medium bowl beat together eggs and cream just until blended. Stir in cheese and set aside."
+        },
+        {
+            "3": "Cook pasta according to package directions. Drain and return to pan. Toss with butter until it is melted. Add bacon and cheese mixture and toss gently until mixed."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "395"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9061416.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8261084.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8137490.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5842739.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

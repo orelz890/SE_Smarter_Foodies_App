@@ -1,0 +1,87 @@
+{
+    "title": "Everybody Loves Pilaf",
+    "Category": "Rice Pilaf",
+    "Ingredients": [
+        {
+            "1": "0.5 cup pine nuts"
+        },
+        {
+            "2": "0.25 cup butter"
+        },
+        {
+            "3": "2 ounces spaghetti, broken into small pieces"
+        },
+        {
+            "4": "0.25 cup minced onion"
+        },
+        {
+            "5": "0.5 teaspoon minced garlic"
+        },
+        {
+            "6": "0.25 cups uncooked jasmine rice"
+        },
+        {
+            "7": "0.5 cups chicken broth"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        },
+        {
+            "9": "2 tablespoons chopped fresh parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Spread pine nuts on a baking sheet."
+        },
+        {
+            "2": "Toast in the preheated oven until golden brown, about 12 minutes."
+        },
+        {
+            "3": "Melt butter in a saucepan over medium-low heat. Increase heat to medium and stir in spaghetti; cook until coated with melted butter and lightly browned, 3 to 5 minutes. Add onion and garlic; cook until tender, about 2 minutes. Stir in rice; cook for 5 minutes."
+        },
+        {
+            "4": "Pour broth into the saucepan. Bring to a boil; cover and cook until rice is tender until liquid has been absorbed, about 20 minutes. Season with salt and pepper."
+        },
+        {
+            "5": "Mix toasted pine nuts and parsley into the rice mixture."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "47 mins"
+        },
+        {
+            "Total Time": "57 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "312"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F05bb32dfeb72f6ae81ff46afec3ce37e%2F4578779.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

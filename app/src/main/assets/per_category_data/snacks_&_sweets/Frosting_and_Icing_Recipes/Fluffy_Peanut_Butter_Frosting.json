@@ -1,0 +1,75 @@
+{
+    "title": "Fluffy Peanut Butter Frosting",
+    "Category": "Frosting and Icing Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup creamy peanut butter"
+        },
+        {
+            "2": "0.5 cup butter, softened"
+        },
+        {
+            "3": "2 cups confectioners' sugar"
+        },
+        {
+            "4": "3 tablespoons milk, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Beat peanut butter and butter in a medium bowl until creamy and combined."
+        },
+        {
+            "2": "Gradually blend in sugar; when the mixture thickens, begin incorporating milk, 1 tablespoon at a time, until frosting is thick and spreadable."
+        },
+        {
+            "3": "Beat on high speed until light and fluffy, about 3 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "208"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5f44590b851e9bcbe75d8a3da53c5b9a%2F1664216415DE36926C-B565-41B0-9B6B-B8D2AF36ECC2.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5f44590b851e9bcbe75d8a3da53c5b9a%2F16642145262-20220925_205832.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5f44590b851e9bcbe75d8a3da53c5b9a%2F1663997720image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5f44590b851e9bcbe75d8a3da53c5b9a%2F1654038154cake.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/aVFnFoP86Izukxo5-e4lbxMxW6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3156506-df28eb2508094e48b450058200ada986.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

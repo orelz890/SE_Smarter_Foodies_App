@@ -1,0 +1,87 @@
+{
+    "title": "Balsamic Pasta Primavera",
+    "Category": "Pasta Primavera",
+    "Ingredients": [
+        {
+            "1": "8 ounces whole grain spaghetti"
+        },
+        {
+            "2": "0.25 cup balsamic vinegar"
+        },
+        {
+            "3": "0.25 cup extra-virgin olive oil"
+        },
+        {
+            "4": "1 large clove garlic, minced"
+        },
+        {
+            "5": "1 teaspoon Dijon mustard"
+        },
+        {
+            "6": "1 freshly ground black pepper to taste"
+        },
+        {
+            "7": "2 tablespoons extra-virgin olive oil"
+        },
+        {
+            "8": "0.5 cups cremini mushrooms, quartered"
+        },
+        {
+            "9": "1 large yellow squash, halved and sliced"
+        },
+        {
+            "10": "0.25  red onion, coarsely chopped"
+        },
+        {
+            "11": "2 tablespoons chopped fresh parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, 7 to 9 minutes."
+        },
+        {
+            "2": "Meanwhile, combine balsamic vinegar, 1/4 cup oil, garlic, Dijon mustard, and pepper in a small bowl. Set sauce aside."
+        },
+        {
+            "3": "Heat 2 tablespoons oil in a large pan over medium-high heat. Add mushrooms, squash, and onion. Cook for 3 minutes; stir in balsamic sauce mixture. Continue cooking until vegetables are tender, about 3 minutes more, adding parsley during the last minute of cooking. Drain cooked pasta, add to the pan, and toss to coat with sauce. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "428"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F444117.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

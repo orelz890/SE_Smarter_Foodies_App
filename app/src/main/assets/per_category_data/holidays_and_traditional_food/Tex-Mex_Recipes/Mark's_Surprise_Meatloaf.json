@@ -1,0 +1,96 @@
+{
+    "title": "Mark's Surprise Meatloaf",
+    "Category": "Tex-Mex Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds ground beef"
+        },
+        {
+            "2": "0.5 cup minced onion"
+        },
+        {
+            "3": "0.5 cup minced green bell pepper"
+        },
+        {
+            "4": "2 cloves garlic, minced"
+        },
+        {
+            "5": "1 cup seasoned bread crumbs"
+        },
+        {
+            "6": "1  egg, lightly beaten"
+        },
+        {
+            "7": "1 teaspoon cayenne pepper"
+        },
+        {
+            "8": "0.5 teaspoons salt"
+        },
+        {
+            "9": "0.5 teaspoon freshly ground black pepper"
+        },
+        {
+            "10": "2 tablespoons Dijon mustard"
+        },
+        {
+            "11": "2 tablespoons Worcestershire sauce"
+        },
+        {
+            "12": "2 tablespoons olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Mix ground beef, onion, bell pepper, and garlic together in a large bowl; add bread crumbs, egg, cayenne pepper, salt, and black pepper and mix."
+        },
+        {
+            "3": "Stir mustard and Worcestershire sauce together in a small bowl; add to meat mixture and mix. Shape the meat mixture into an 8x4-inch loaf and place on a rimmed baking sheet. Spread olive oil over the top and sides of the loaf."
+        },
+        {
+            "4": "Bake in the preheated oven until no longer pink in the center, about 1 hour. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C). Transfer meatloaf to a platter and cut into 8 slices."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 slices"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "261"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F295176c868ede445641e76ed7d3bc712%2F2194473.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2194078.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Blueberry or Cherry Dessert",
+    "Category": "Cherry Pie",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter"
+        },
+        {
+            "2": "2 cups white sugar"
+        },
+        {
+            "3": "36  graham crackers, crushed"
+        },
+        {
+            "4": "4  eggs"
+        },
+        {
+            "5": "2 (8 ounce) packages cream cheese, softened"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "2 (21 ounce) cans blueberry pie filling"
+        },
+        {
+            "8": "1 (16 ounce) package frozen whipped topping, thawed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt the butter or margarine, and add 1 cup sugar and the graham crackers. Press this mixture into a 9x13 pan."
+        },
+        {
+            "2": "Beat the eggs. Gradually beat cream cheese, sugar, and vanilla into the eggs."
+        },
+        {
+            "3": "Pour egg and cream cheese mixture over the graham cracker crust. Bake at 325 degrees F (165 degrees C) for 15-20 minutes. Cool."
+        },
+        {
+            "4": "Pour blueberry or cherry pie filling over the top of the baked dessert. Spread nondairy whipped topping on top of fruit. Refrigerate until ready to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 50 mins"
+        },
+        {
+            "Servings": "28 "
+        },
+        {
+            "Yield": "1 to 9 x 13-inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "354"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "51g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4484724.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9e9bebc24d46b8b6e75de6917ff933d4%2F1133133.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1129106.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa16d29dc8adcd916052a8e6102a42a39%2F191843.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

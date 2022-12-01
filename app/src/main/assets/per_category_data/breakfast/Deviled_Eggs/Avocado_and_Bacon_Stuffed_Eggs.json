@@ -1,0 +1,78 @@
+{
+    "title": "Avocado and Bacon-Stuffed Eggs",
+    "Category": "Deviled Eggs",
+    "Ingredients": [
+        {
+            "1": "4 slices bacon, trimmed of fat and cut into small pieces"
+        },
+        {
+            "2": "1  avocado, halved and pitted"
+        },
+        {
+            "3": "6  hard-boiled eggs, halved"
+        },
+        {
+            "4": "1 tablespoon mayonnaise"
+        },
+        {
+            "5": "2 teaspoons prepared yellow mustard"
+        },
+        {
+            "6": "1 splash lime juice"
+        },
+        {
+            "7": "1 pinch red pepper flakes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 5 minutes. Drain on paper towels."
+        },
+        {
+            "2": "Mash avocado in a large bowl with a fork. Mix in bacon, yolks from the hard-boiled eggs, mayonnaise, mustard, and lime juice."
+        },
+        {
+            "3": "Spoon avocado mixture into the egg whites. Garnish eggs with red pepper flakes. Chill until ready to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "12 egg halves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "182"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7525968.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4480835.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

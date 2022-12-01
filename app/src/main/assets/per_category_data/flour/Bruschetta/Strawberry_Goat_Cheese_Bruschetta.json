@@ -1,0 +1,93 @@
+{
+    "title": "Strawberry Goat Cheese Bruschetta",
+    "Category": "Bruschetta",
+    "Ingredients": [
+        {
+            "1": "0.5 cup balsamic vinegar"
+        },
+        {
+            "2": "12 slices Italian bread"
+        },
+        {
+            "3": "1 tablespoon olive oil"
+        },
+        {
+            "4": "1 pound strawberries, washed and diced"
+        },
+        {
+            "5": "2 teaspoons fresh thyme leaves, plus more for serving"
+        },
+        {
+            "6": "1 cup goat cheese, room temperature"
+        },
+        {
+            "7": "1 salt and freshly ground pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat vinegar in a small skillet over medium-low heat. Simmer until reduced by about half, 8 to 10 minutes. Remove from heat and allow to cool to room temperature."
+        },
+        {
+            "2": "Prepare a grill for high heat. Place bread slices on a foil-lined baking sheet and drizzle with olive oil."
+        },
+        {
+            "3": "Combine strawberries and thyme in a small bowl and set aside."
+        },
+        {
+            "4": "Grill bread on the preheated grill until browned, about 3 minutes per side."
+        },
+        {
+            "5": "Spread goat cheese on toasted bread. Add black pepper, salt, and reduced vinegar to the strawberry mixture. Spoon over the goat cheese topped bruschetta. Garnish with additional thyme."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "12 slices"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "303"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9248114.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9089675.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8915774.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8314924.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/LoZHgtwn5FlrzEgv9pbJeUtHFvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1022906-3f98eb59da56479baa7a62eea73a5c09.jpg"
+        }
+    ],
+    "main category": "flour"
+}

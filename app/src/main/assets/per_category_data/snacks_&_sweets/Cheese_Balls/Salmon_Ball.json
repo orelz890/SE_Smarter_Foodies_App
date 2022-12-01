@@ -1,0 +1,69 @@
+{
+    "title": "Salmon Ball",
+    "Category": "Cheese Balls",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "2": "1 tablespoon finely chopped onion"
+        },
+        {
+            "3": "1 teaspoon prepared horseradish"
+        },
+        {
+            "4": "0.25 teaspoon salt"
+        },
+        {
+            "5": "1 tablespoon lemon juice"
+        },
+        {
+            "6": "1 (16 ounce) can salmon, drained and flaked"
+        },
+        {
+            "7": "1 bunch chopped parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium bowl, thoroughly mix cream cheese, onion, horseradish, salt and lemon juice. Mix in the salmon, distributing it evenly throughout. Form mixture into a ball and roll in the parsley. Wrap in plastic and chill in the refrigerator until serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "1 ball"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "97"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F14d268a025c752a5ab5bd5fbfdf50430%2F1900151.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F860755.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

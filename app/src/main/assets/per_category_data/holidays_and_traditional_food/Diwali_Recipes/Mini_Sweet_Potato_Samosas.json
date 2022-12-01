@@ -1,0 +1,81 @@
+{
+    "title": "Mini Sweet Potato Samosas",
+    "Category": "Diwali Recipes",
+    "Ingredients": [
+        {
+            "1": "1  sweet potato, peeled and diced"
+        },
+        {
+            "2": "1 teaspoon butter"
+        },
+        {
+            "3": "1 tablespoon milk"
+        },
+        {
+            "4": "1 tablespoon dry onion soup mix"
+        },
+        {
+            "5": "1 curry powder to taste"
+        },
+        {
+            "6": "20  wonton wrappers"
+        },
+        {
+            "7": "1 sesame oil for brushing"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Simmer sweet potatoes with a little water until very soft. Drain, and mash with butter, milk, onion soup mix, and curry powder."
+        },
+        {
+            "2": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "3": "Place about 1 teaspoon of the sweet potato mixture into the center of each wonton wrapper. Brush two adjacent edges of wrapper with water, fold into a triangle, and press the edges together to seal. Brush both sides with sesame oil. Place the samosas on a baking sheet."
+        },
+        {
+            "4": "Bake in preheated oven for 10 minutes, then turn over, and bake for 5 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "20 samosas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "169"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F36144ddbcd482e578e30c0f747c2ce26%2F33359.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff1b5814622784b898e69554cbda81494%2F33360.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Ground Beef Jerky",
+    "Category": "Jerky",
+    "Ingredients": [
+        {
+            "1": "2 teaspoons canning salt"
+        },
+        {
+            "2": "1 teaspoon chili powder"
+        },
+        {
+            "3": "1 teaspoon garlic powder"
+        },
+        {
+            "4": "1 teaspoon onion powder"
+        },
+        {
+            "5": "0.25 teaspoon ground ginger"
+        },
+        {
+            "6": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "7": "1 pinch cayenne pepper, or to taste (Optional)"
+        },
+        {
+            "8": "1 pound extra lean ground beef"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir salt, chili powder, garlic powder, onion powder, ginger, black pepper, and cayenne pepper together in a large bowl; add ground beef and mix well."
+        },
+        {
+            "2": "Pass beef mixture through a meat grinder set with the finest blade."
+        },
+        {
+            "3": "Preheat oven to 250 degrees F (120 degrees C). Place wire-racks onto baking sheets."
+        },
+        {
+            "4": "Place 1/2 ground beef mixture between two sheets of heavy plastic on a solid, level surface. Firmly roll beef mixture to a thickness of 1/8 inch. Remove the top layer of plastic wrap, invert beef mixture onto prepared baking sheet, and remove the bottom layer of plastic wrap. Repeat for remaining beef mixture."
+        },
+        {
+            "5": "Bake beef mixture in the preheated oven with the oven door slightly ajar for 2 1/2 hours. Rotate the baking sheet. Bake until jerky is cooked through, another 3 hours. Remove jerky from oven and cut into strips while warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 5 hrs 30 mins"
+        },
+        {
+            "Total Time": " 5 hrs 45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "126"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8215152.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3c1d2ffab416338ac80de72ca70f211c%2F2484314.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2394978.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

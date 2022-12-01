@@ -1,0 +1,138 @@
+{
+    "title": "Chef John's Chicken Satay Burger",
+    "Category": "Ground Chicken",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons peanut butter"
+        },
+        {
+            "2": "1 teaspoon lime juice"
+        },
+        {
+            "3": "1 teaspoon Asian chile pepper sauce (such as sambal oelek), or to taste"
+        },
+        {
+            "4": "0.5 cup carrots cut into thin matchsticks"
+        },
+        {
+            "5": "0.5 cup cucumber cut into thin matchsticks"
+        },
+        {
+            "6": "2 tablespoons jalapeno peppers cut into thin matchsticks"
+        },
+        {
+            "7": "1 tablespoon seasoned rice vinegar"
+        },
+        {
+            "8": "2 teaspoons fish sauce"
+        },
+        {
+            "9": "3 cloves garlic, minced"
+        },
+        {
+            "10": "0.5 tablespoons coconut milk"
+        },
+        {
+            "11": "0.5 teaspoon ground cumin"
+        },
+        {
+            "12": "0.25 teaspoon ground turmeric"
+        },
+        {
+            "13": "1 teaspoon Asian chile pepper sauce (such as sambal oelek)"
+        },
+        {
+            "14": "1 tablespoon dry bread crumbs"
+        },
+        {
+            "15": "2 teaspoons soy sauce"
+        },
+        {
+            "16": "1 pound ground chicken"
+        },
+        {
+            "17": "2 tablespoons chopped fresh basil"
+        },
+        {
+            "18": "1 salt"
+        },
+        {
+            "19": "1 pinch cayenne pepper, or to taste"
+        },
+        {
+            "20": "0.25 cup cilantro leaves"
+        },
+        {
+            "21": "4  hamburger buns"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine peanut butter, lime juice, and 1 teaspoon Asian chile pepper sauce in a small bowl; stir until thoroughly combined."
+        },
+        {
+            "2": "Mix carrot, cucumber, and jalapeno pepper in a bowl; stir in fish sauce and rice vinegar. Set aside."
+        },
+        {
+            "3": "Mix garlic, coconut milk, cumin, turmeric, and 1 teaspoon Asian chile pepper sauce in a bowl. Add bread crumbs and soy sauce to the mixture. Stir in ground chicken and basil until thoroughly combined. Mixture will be soft."
+        },
+        {
+            "4": "Break off a small piece of chicken mixture and fry in a nonstick skillet over medium heat until chicken is browned and no longer pink. Taste the little cooked piece and season the raw chicken mixture to taste with salt and cayenne pepper. Do not eat raw chicken mix."
+        },
+        {
+            "5": "Spoon 1/4 the chicken mixture into skillet, forming it into a patty shape, and cook until bottom of patty is browned, about 5 minutes. Flip patty and cook until other side is browned and chicken mixture is no longer pink inside, about 5 more minutes. Repeat with remaining chicken to make 3 more patties."
+        },
+        {
+            "6": "Spread about 1 teaspoon of peanut spread onto each bun half; top bun bottoms with a chicken patty, about 1/4 cup of the carrot slaw, and 1 tablespoon of cilantro leaves. Place tops of buns on burgers to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 sandwiches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "330"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8987014.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8987698.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6176128.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5345944.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/yk8Iw_2cnplzCnzOo03hz5EPb_U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1091561-714c1c9d865040959246cee4d58ab73a.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,59 @@
+{
+    "title": "Vodka Paralyzer",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "1 cup ice cubes"
+        },
+        {
+            "2": "4 fluid ounces cola"
+        },
+        {
+            "3": "1 fluid ounce coffee flavored liqueur"
+        },
+        {
+            "4": "1 (1.5 fluid ounce) jigger vodka"
+        },
+        {
+            "5": "2 fluid ounces milk"
+        },
+        {
+            "6": "1  maraschino cherry"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a highball glass with ice."
+        },
+        {
+            "2": "In the order listed, pour in cola, coffee liqueur, vodka, then milk. Stir briefly and top with a maraschino cherry."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8146791.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7549381.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6103688.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5223183.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

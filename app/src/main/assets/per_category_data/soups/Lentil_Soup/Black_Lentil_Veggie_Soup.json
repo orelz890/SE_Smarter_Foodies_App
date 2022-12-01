@@ -1,0 +1,93 @@
+{
+    "title": "Black Lentil Veggie Soup",
+    "Category": "Lentil Soup",
+    "Ingredients": [
+        {
+            "1": "0.5 cups black lentils"
+        },
+        {
+            "2": "2 quarts vegetable broth"
+        },
+        {
+            "3": "3 cups diced tomatoes"
+        },
+        {
+            "4": "10  carrots, peeled and diced"
+        },
+        {
+            "5": "1  onion, cut into 1/2-inch dice"
+        },
+        {
+            "6": "2 small turnips, peeled and diced"
+        },
+        {
+            "7": "1  green bell pepper, diced"
+        },
+        {
+            "8": "3 tablespoons unsalted butter"
+        },
+        {
+            "9": "2 tablespoons minced ginger"
+        },
+        {
+            "10": "2 cloves garlic, minced"
+        },
+        {
+            "11": "0.5 teaspoon ground coriander"
+        },
+        {
+            "12": "0.5 teaspoon ground cumin"
+        },
+        {
+            "13": "1 salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place black lentils in a microwave-safe bowl and cover with 4 cups water. Microwave until softened, about 5 minutes. Stir and add more water if needed. Microwave for 5 minutes more. Drain and rinse."
+        },
+        {
+            "2": "Combine vegetable broth, tomatoes, carrots, onion, turnips, green bell pepper, butter, ginger, garlic, coriander, cumin, and salt in a large slow cooker. Stir in lentils."
+        },
+        {
+            "3": "Cook on High until carrots are tender, 4 to 6 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": " 4 hrs 10 mins"
+        },
+        {
+            "Total Time": " 4 hrs 35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "145"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7c624ac899cbe60d4097c4389af3039f%2F4043648.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

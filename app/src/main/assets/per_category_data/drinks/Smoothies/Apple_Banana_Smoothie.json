@@ -1,0 +1,66 @@
+{
+    "title": "Apple Banana Smoothie",
+    "Category": "Smoothies",
+    "Ingredients": [
+        {
+            "1": "1  frozen bananas, peeled and chopped"
+        },
+        {
+            "2": "0.5 cup orange juice"
+        },
+        {
+            "3": "1  Gala apple, peeled, cored and chopped"
+        },
+        {
+            "4": "0.25 cup milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a blender combine frozen banana, orange juice, apple and milk. Blend until smooth. pour into glasses and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "132"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5e201941373ffc147b4009932f368300%2F5636566.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7a097354e10d790747f7da7686281781%2F5614655.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F600104a9144027cab5266b2c86f2d376%2F5614656.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4465947.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

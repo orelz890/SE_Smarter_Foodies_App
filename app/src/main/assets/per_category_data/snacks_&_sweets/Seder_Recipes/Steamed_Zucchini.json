@@ -1,0 +1,72 @@
+{
+    "title": "Steamed Zucchini",
+    "Category": "Seder Recipes",
+    "Ingredients": [
+        {
+            "1": "4  zucchini"
+        },
+        {
+            "2": "2 cloves garlic"
+        },
+        {
+            "3": "1 tablespoon olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of water to a boil. Trim ends from zucchini. Cut each one in half, then cut each half lengthwise into quarters."
+        },
+        {
+            "2": "Place zucchini and garlic into a steamer basket, then place the steamer basket into the pot. Steam for 10 to 15 minutes, or until the zucchini are tender."
+        },
+        {
+            "3": "Transfer zucchini to a large bowl. Mash the garlic and put it in the bowl with the zucchini. Drizzle the olive oil into the bowl and toss until the vegetables are coated with oil and garlic."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "60"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9411906.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4480836.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0a35dfb374cbb443efa691f527d57356%2F1085285.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F872386.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

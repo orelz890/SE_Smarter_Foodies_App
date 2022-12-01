@@ -1,0 +1,75 @@
+{
+    "title": "Red, White, and Blueberry Fruit Salad",
+    "Category": "Fruit Salads",
+    "Ingredients": [
+        {
+            "1": "1 pint strawberries, hulled and quartered"
+        },
+        {
+            "2": "1 pint blueberries"
+        },
+        {
+            "3": "0.5 cup white sugar"
+        },
+        {
+            "4": "2 tablespoons lemon juice"
+        },
+        {
+            "5": "4  bananas"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix strawberries and blueberries together in a bowl, sprinkle with sugar and lemon juice; toss lightly. Refrigerate until cold, at least 30 minutes."
+        },
+        {
+            "2": "About 30 minutes before serving, cut bananas into 3/4-inch thick slices; toss with berries."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "140"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9369758.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9282047.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8306369.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8293540.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/sUhCJ0RyR6MhoXs_3Z3qT5qtuTQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/428409-0f22f525b4a8454baeffe6e5a20c77d2.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

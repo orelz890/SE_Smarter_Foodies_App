@@ -1,0 +1,81 @@
+{
+    "title": "Chocolate Roll I",
+    "Category": "Chocolate Cake",
+    "Ingredients": [
+        {
+            "1": "5  eggs"
+        },
+        {
+            "2": "0.5 teaspoon cream of tartar"
+        },
+        {
+            "3": "1 cup white sugar"
+        },
+        {
+            "4": "3 tablespoons unsweetened cocoa powder"
+        },
+        {
+            "5": "1 teaspoon vanilla extract"
+        },
+        {
+            "6": "1 pint heavy whipping cream, whipped"
+        },
+        {
+            "7": "0.25 cup confectioners' sugar for dusting"
+        },
+        {
+            "8": "0.25 cup all-purpose flour"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 325 degrees F (165 degrees C). Line one 15 1/2 x 10 1/2 inch jelly roll pan with parchment paper and grease and flour lightly."
+        },
+        {
+            "2": "Separate the eggs. Beat the whites with the cream of tartar until stiff. Gradually beat in 1/2 cup of the sugar."
+        },
+        {
+            "3": "Sift the remaining sugar, cocoa, and flour together. Beat the egg yolks until thick and fold the flour mixture into them. Stir in vanilla. (The egg yolk mixture will be very stiff). Carefully fold the egg yolk mixture into the beaten egg whites. Evenly spread the batter into the prepared pan."
+        },
+        {
+            "4": "Bake at 325 degrees F (165 degrees C) for 20 minutes. Let cake cool for 5 minutes. Turn cake onto a towel sprinkled with confectioner's sugar, peel off parchment paper and roll cake up with the towel. Let cake cool completely. Unroll cake and spread with the whipped cream. Roll again. Serve with Foamy Butter Sauce or Fudge Sauce. For variation, you can add 2 tablespoons of rum or your favorite liqueur to the whipped cream. Serves 8."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "1 to 15 - inch jelly roll"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "128"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F11f3f81b31a40fad89f0beda0886f7df%2F165686292020220703_073015.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8899567.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8052415.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5088169.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Taco Lettuce Wraps",
+    "Category": "Ground Turkey",
+    "Ingredients": [
+        {
+            "1": "1 pound ground turkey"
+        },
+        {
+            "2": "1 (16 ounce) package frozen corn"
+        },
+        {
+            "3": "1 (15 ounce) can black beans"
+        },
+        {
+            "4": "1 (14.5 ounce) can diced tomatoes"
+        },
+        {
+            "5": "1 (1 ounce) package taco seasoning mix"
+        },
+        {
+            "6": "1 romaine leaves, rinsed and dried"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large nonstick skillet over medium-high heat. Cook and stir ground turkey in the hot skillet until browned and crumbly, 5 to 7 minutes. Stir in corn, black beans, diced tomatoes, and taco seasoning. Bring to a simmer and cook until heated through, 10 to 12 minutes."
+        },
+        {
+            "2": "Lay lettuce leaves on a flat surface and fill with turkey and bean mixture."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "275"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F429810a5650fe7828a204c643f40615e%2F1662035551IMG_6481.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9389891.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9179604.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9176189.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/p-BDOt-xRaZo-BchqJgZJd9IkzE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5013718-06c1e3422d26495eb54d9ccf79bfbccb.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

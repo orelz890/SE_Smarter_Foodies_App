@@ -1,0 +1,81 @@
+{
+    "title": "Hillshire Farm\u00ae Sausage Alfredo",
+    "Category": "Fettuccini",
+    "Ingredients": [
+        {
+            "1": "1 (14 ounce) package Hillshire Farm\u00ae Smoked Sausage, diagonally cut into 1/4-inch slices"
+        },
+        {
+            "2": "8 ounces pasta, cooked, drained"
+        },
+        {
+            "3": "2 cups heavy cream"
+        },
+        {
+            "4": "2 teaspoons Cajun seasoning"
+        },
+        {
+            "5": "0.5 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Prepare pasta according to package directions; drain and set aside."
+        },
+        {
+            "2": "Saute sausage in a large skillet over medium-high heat for 5 minutes, turning occasionally."
+        },
+        {
+            "3": "Add cream and Cajun seasoning; bring to a boil. Reduce heat; simmer gently for 3-4 minutes or until mixture begins to thicken. Remove from heat, stir in Parmesan cheese. Add pasta to sauce and toss."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "3 mins"
+        },
+        {
+            "Cook Time": "12 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "663"
+        },
+        {
+            "Fat": "51g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9235360.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9214095.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9174772.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9174765.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/muMouR44XwndIYJlAbbfWQYs8p8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1386926-8f6323c86aa64fda929ce22d5261b25c.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

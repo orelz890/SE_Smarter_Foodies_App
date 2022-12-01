@@ -1,0 +1,102 @@
+{
+    "title": "Low Carb Jambalaya",
+    "Category": "Jambalaya",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "1 tablespoon butter"
+        },
+        {
+            "3": "1 large onion, diced"
+        },
+        {
+            "4": "2  andouille sausage, halved lengthwise and cut into 1/4-inch half-moons"
+        },
+        {
+            "5": "6 cloves garlic, finely chopped"
+        },
+        {
+            "6": "1 (14 ounce) can crushed tomatoes"
+        },
+        {
+            "7": "3  green bell peppers, seeded and diced"
+        },
+        {
+            "8": "2  zucchinis, diced"
+        },
+        {
+            "9": "2 tablespoons Cajun seasoning"
+        },
+        {
+            "10": "1 teaspoon hot sauce, or to taste"
+        },
+        {
+            "11": "1 cup chicken broth"
+        },
+        {
+            "12": "1 pound chicken breast, cooked, cooled, and chopped"
+        },
+        {
+            "13": "1 pound cooked, peeled, and deveined shrimp"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil and butter in a large saucepan over medium heat. Add the onion and andouille sausage and cook and stir until the onion starts to brown, about 10 minutes. Stir in garlic and cook until fragrant, 1 to 2 minutes."
+        },
+        {
+            "2": "Mix in crushed tomatoes, green bell peppers, zucchinis, Cajun seasoning, hot sauce, and chicken broth; bring mixture to a boil, reduce to a simmer, and cook uncovered until the liquid cooks off and the mixture is thick, about 15 minutes. Stir in chicken and shrimp and simmer until heated through, 1 to 2 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "260"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9075047.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8797586.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8544229.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8501636.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/D4tmlpbQMm9Rcb6GN4RPisBiBfI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5751794-7dbb1d026248436992f77b73d6f89481.jpg"
+        }
+    ],
+    "main category": "sea_fruit"
+}

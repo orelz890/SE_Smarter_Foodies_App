@@ -1,0 +1,69 @@
+{
+    "title": "Barm Brack",
+    "Category": "Fruitcake",
+    "Ingredients": [
+        {
+            "1": "1.7999999523163 cups brewed black tea, cold"
+        },
+        {
+            "2": "1 cup packed light brown sugar"
+        },
+        {
+            "3": "0.25 cups golden raisins"
+        },
+        {
+            "4": "0.25 cup chopped candied citron"
+        },
+        {
+            "5": "0.25 cups self-rising flour"
+        },
+        {
+            "6": "1  egg, beaten"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Put the tea, sugar, raisins and peel into a bowl, cover and leave to soak overnight."
+        },
+        {
+            "2": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour an 8 inch round pan."
+        },
+        {
+            "3": "Sift the flour into the fruit mixture, add the egg and beat well."
+        },
+        {
+            "4": "Pour into the cake pan and bake at 350 degrees F (175 degrees C) for 1 hour and 45 minutes, or until toothpick inserted into center of cake comes out clean. Leave in the pan for 5 minutes, then turn out onto a wire rack."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 to 8 - inch round cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "220"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F259911.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F66575.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Vinagrete (Brazilian Tomato Slaw)",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "5  tomatoes, diced"
+        },
+        {
+            "2": "0.5  English cucumber, quartered and thinly sliced"
+        },
+        {
+            "3": "1  red bell pepper, seeded and diced"
+        },
+        {
+            "4": "0.5 cup diced onion"
+        },
+        {
+            "5": "0.5 cup finely chopped fresh parsley"
+        },
+        {
+            "6": "0.25 cup lime juice"
+        },
+        {
+            "7": "0.25 cup olive oil"
+        },
+        {
+            "8": "0.25 cup diced green onions"
+        },
+        {
+            "9": "0.25 cup finely chopped fresh cilantro"
+        },
+        {
+            "10": "2 tablespoons cider vinegar"
+        },
+        {
+            "11": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix tomatoes, cucumber, red bell pepper, onion, parsley, lime juice, olive oil, green onions, cilantro, vinegar, salt, and pepper in a large bowl. Let stand at room temperature until flavors combine, about 3 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "35 mins"
+        },
+        {
+            "Additional Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "93"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcf10c22f627e2781e01c5112504c3214%2F4005969.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

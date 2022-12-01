@@ -1,0 +1,90 @@
+{
+    "title": "Chilaquiles",
+    "Category": "Chilaquiles",
+    "Ingredients": [
+        {
+            "1": "2  tomatoes, chopped"
+        },
+        {
+            "2": "6  dried chile de arbol peppers"
+        },
+        {
+            "3": "1  onion, sliced"
+        },
+        {
+            "4": "2 cloves garlic, minced"
+        },
+        {
+            "5": "1 teaspoon chicken bouillon granules"
+        },
+        {
+            "6": "1 salt to taste"
+        },
+        {
+            "7": "1 water to cover"
+        },
+        {
+            "8": "2 tablespoons vegetable oil, or to taste"
+        },
+        {
+            "9": "2 (6 inch) corn tortillas, cut into strips"
+        },
+        {
+            "10": "4  eggs"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine tomatoes, chile de arbol peppers, onion, garlic, chicken bouillon, and salt in a saucepan; add enough water to cover. Bring to a boil; reduce heat and cook, stirring occasionally, until tomatoes and peppers soften, 5 to 10 minutes."
+        },
+        {
+            "2": "Transfer chile peppers to a blender using a slotted spoon; blend until smooth. Pour in tomato mixture; blend until smooth."
+        },
+        {
+            "3": "Heat oil in a large skillet over medium heat. Cook and stir corn tortillas in the hot oil until crispy, 3 to 5 minutes. Crack in eggs; stir until scrambled and set, about 5 minutes. Strain blended sauce over tortillas and eggs; mix well."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "18 mins"
+        },
+        {
+            "Total Time": "33 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "329"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4571726.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4525296.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4509683.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

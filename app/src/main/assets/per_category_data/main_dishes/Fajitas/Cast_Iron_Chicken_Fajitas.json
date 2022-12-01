@@ -1,0 +1,105 @@
+{
+    "title": "Cast Iron Chicken Fajitas",
+    "Category": "Fajitas",
+    "Ingredients": [
+        {
+            "1": "1 Marinade-"
+        },
+        {
+            "2": "0.25 cup olive oil"
+        },
+        {
+            "3": "2 tablespoons freshly squeezed lime juice"
+        },
+        {
+            "4": "1 tablespoon chili powder"
+        },
+        {
+            "5": "2 teaspoons ground cumin"
+        },
+        {
+            "6": "2 teaspoons garlic powder"
+        },
+        {
+            "7": "1 teaspoon salt"
+        },
+        {
+            "8": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "9": "1 pound skinless, boneless chicken breasts"
+        },
+        {
+            "10": "1 Vegetables-"
+        },
+        {
+            "11": "1 tablespoon olive oil"
+        },
+        {
+            "12": "1 large onion, sliced"
+        },
+        {
+            "13": "1 large red bell pepper, sliced"
+        },
+        {
+            "14": "1 large green bell pepper, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine olive oil, lime juice, chili powder, cumin, garlic powder, salt, and pepper in a bowl. Add chicken breast and toss until well coated. Cover bowl and refrigerate, 4 hours to overnight."
+        },
+        {
+            "2": "Heat a cast iron skillet over medium-high heat. Add chicken breasts to the hot skillet, reserving the marinade. Cook until browned, 6 to 8 minutes. Remove chicken from skillet, slice, and set aside."
+        },
+        {
+            "3": "Heat 1 tablespoon olive oil in the same skillet and add onion, bell peppers, and reserved marinade. Cook until vegetables are soft and tender, 5 to 7 minutes. Add chicken back to the skillet, stir, and cook until warmed through, 2 to 4 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "330"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F876d986ddf4623d68c5cafce13d9f6ac%2F166200071320220831_170523.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9448054.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8921396.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

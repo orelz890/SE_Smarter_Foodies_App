@@ -1,0 +1,90 @@
+{
+    "title": "Crunchy Romaine Toss",
+    "Category": "Broccoli Salad",
+    "Ingredients": [
+        {
+            "1": "0.25 cup unsalted butter"
+        },
+        {
+            "2": "1 (3 ounce) package uncooked ramen noodles, crushed"
+        },
+        {
+            "3": "1 cup chopped walnuts"
+        },
+        {
+            "4": "1 cup vegetable oil"
+        },
+        {
+            "5": "1 cup white sugar"
+        },
+        {
+            "6": "0.5 cup red wine vinegar"
+        },
+        {
+            "7": "3 teaspoons soy sauce"
+        },
+        {
+            "8": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "9": "2 heads romaine lettuce, chopped"
+        },
+        {
+            "10": "1 bunch broccoli, coarsely chopped"
+        },
+        {
+            "11": "4  green onions, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a large skillet over medium heat. Cook and stir ramen noodles and walnuts until toasted, about 5 minutes. Transfer mixture to a plate lined with paper towels and set aside until cooled."
+        },
+        {
+            "2": "Whisk together vegetable oil, sugar, vinegar, soy sauce, salt, and pepper in a small bowl."
+        },
+        {
+            "3": "Combine ramen noodle and walnut mixture with lettuce, broccoli, and green onions in a large serving bowl. Pour in the dressing and toss to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "557"
+        },
+        {
+            "Fat": "43g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F93ed17600326a1667f0988a701b2ba8b%2F878534.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

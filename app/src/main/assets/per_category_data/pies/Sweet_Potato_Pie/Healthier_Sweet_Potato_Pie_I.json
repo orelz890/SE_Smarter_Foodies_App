@@ -1,0 +1,87 @@
+{
+    "title": "Healthier Sweet Potato Pie I",
+    "Category": "Sweet Potato Pie",
+    "Ingredients": [
+        {
+            "1": "1 (1 pound) sweet potato"
+        },
+        {
+            "2": "0.5 cup butter, softened"
+        },
+        {
+            "3": "0.5 cup white sugar"
+        },
+        {
+            "4": "1 cup low-fat milk"
+        },
+        {
+            "5": "2  eggs"
+        },
+        {
+            "6": "0.5 teaspoon ground nutmeg"
+        },
+        {
+            "7": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "8": "1 teaspoon vanilla extract"
+        },
+        {
+            "9": "1 (9 inch) unbaked whole wheat pie crust"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Boil sweet potato whole in skin in a small pot until done, 40 to 50 minutes. Drain, cool sweet potato with cold water, and remove skin."
+        },
+        {
+            "2": "Break sweet potato apart in a large bowl. Mix in butter and beat well with an electric mixer. Beat in sugar, milk, eggs, nutmeg, cinnamon, and vanilla extract on medium speed until mixture is smooth. Pour filling into unbaked pie crust."
+        },
+        {
+            "3": "Bake in preheated oven until knife inserted in center comes out clean, 45 to 55 minutes. Pie will puff up like a souffle, then sink down as it cools."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 20 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "316"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9431180.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8884611.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

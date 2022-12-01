@@ -1,0 +1,99 @@
+{
+    "title": "Cauliflower Rice (Biryani-Style)",
+    "Category": "Indian Recipes",
+    "Ingredients": [
+        {
+            "1": "1 head cauliflower, broken into florets"
+        },
+        {
+            "2": "3 tablespoons butter"
+        },
+        {
+            "3": "1 clove garlic, minced, or to taste"
+        },
+        {
+            "4": "0.5 teaspoon cumin"
+        },
+        {
+            "5": "0.5 teaspoon ground coriander"
+        },
+        {
+            "6": "0.5 teaspoon garam masala"
+        },
+        {
+            "7": "0.5 teaspoon ground turmeric"
+        },
+        {
+            "8": "0.25 teaspoon minced fresh ginger, or to taste"
+        },
+        {
+            "9": "1 pinch cayenne pepper, or more to taste"
+        },
+        {
+            "10": "1 salt and ground black pepper to taste"
+        },
+        {
+            "11": "1  lime, cut into wedges"
+        },
+        {
+            "12": "0.25 cup chopped fresh cilantro, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Process cauliflower florets in a blender or food processor until broken into small pieces about the size of rice."
+        },
+        {
+            "2": "Heat butter in a skillet over medium-high heat; add cauliflower rice, garlic, cumin, coriander, garam masala, turmeric, ginger, cayenne pepper, salt, and black pepper. Cook, stirring occasionally, until cauliflower is softened, about 10 minutes."
+        },
+        {
+            "3": "Remove skillet from heat and add lime wedges and cilantro."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "123"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9160361.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8990991.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8333593.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6637359.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

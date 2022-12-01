@@ -1,0 +1,87 @@
+{
+    "title": "One Bowl Brownies",
+    "Category": "Brownies",
+    "Ingredients": [
+        {
+            "1": "4 (1 ounce) squares unsweetened chocolate, chopped"
+        },
+        {
+            "2": "0.75 cup butter"
+        },
+        {
+            "3": "2 cups white sugar"
+        },
+        {
+            "4": "3  eggs"
+        },
+        {
+            "5": "1 teaspoon vanilla extract"
+        },
+        {
+            "6": "1 cup all-purpose flour"
+        },
+        {
+            "7": "1 cup chopped walnuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (180 degrees C). Grease a 13x9-inch pan."
+        },
+        {
+            "2": "Microwave chocolate and butter in large bowl at HIGH for 2 minutes or until butter is melted. Alternately, melt butter and chocolate in a double boiler over simmering water."
+        },
+        {
+            "3": "Remove bowl from microwave and stir until chocolate is melted. Stir in sugar. Mix in eggs and vanilla. Stir in flour and nuts."
+        },
+        {
+            "4": "Spread batter into prepared pan. Bake for 35 minutes (do not overbake)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "2 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "398"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8290865.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7221220.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4487733.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd959a3b0ecf2cdf8fbe0f16fbd4e1eeb%2F2533736.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

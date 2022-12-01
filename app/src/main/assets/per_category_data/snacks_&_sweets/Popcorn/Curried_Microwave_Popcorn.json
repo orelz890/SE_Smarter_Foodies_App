@@ -1,0 +1,63 @@
+{
+    "title": "Curried Microwave Popcorn",
+    "Category": "Popcorn",
+    "Ingredients": [
+        {
+            "1": "0.25 cup unpopped popcorn"
+        },
+        {
+            "2": "1 brown paper bag"
+        },
+        {
+            "3": "0.5 teaspoon salt, or to taste"
+        },
+        {
+            "4": "0.5 teaspoon curry powder, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour popcorn into the paper bag; fold top over several times to seal."
+        },
+        {
+            "2": "Heat in microwave until popping slows, about 2 minutes. Season popcorn with salt and curry powder; close bag and shake to evenly coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "2 mins"
+        },
+        {
+            "Total Time": "7 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 serving"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "189"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1935674.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

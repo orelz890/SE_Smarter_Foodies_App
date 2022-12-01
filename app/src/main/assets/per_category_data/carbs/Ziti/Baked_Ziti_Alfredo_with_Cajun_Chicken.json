@@ -1,0 +1,114 @@
+{
+    "title": "Baked Ziti Alfredo with Cajun Chicken",
+    "Category": "Ziti",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package ziti pasta"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "4 (5 ounce) skinless, boneless chicken breasts, cut into bite-sized pieces"
+        },
+        {
+            "4": "2 tablespoons Cajun seasoning, or to taste"
+        },
+        {
+            "5": "0.5 teaspoon salt"
+        },
+        {
+            "6": "1 large green bell pepper, cut into bite-sized pieces"
+        },
+        {
+            "7": "1 large red bell pepper, cut into bite-sized pieces"
+        },
+        {
+            "8": "1 large onion, chopped"
+        },
+        {
+            "9": "4 cloves garlic, minced, divided"
+        },
+        {
+            "10": "6 medium Roma tomatoes, diced"
+        },
+        {
+            "11": "2 tablespoons butter"
+        },
+        {
+            "12": "1 tablespoon all-purpose flour, or more as needed"
+        },
+        {
+            "13": "0.5 cups whole milk, or more to taste"
+        },
+        {
+            "14": "0.5 cup grated Parmesan cheese, or more to taste"
+        },
+        {
+            "15": "1 salt and ground black pepper to taste"
+        },
+        {
+            "16": "0.5 cups shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Add ziti and cook, stirring occasionally, until tender yet firm to the bite, about 10 minutes. Drain."
+        },
+        {
+            "3": "While the pasta is cooking, heat oil in a large skillet over medium to medium-high heat. Add chicken, Cajun seasoning, and salt. Saute until chicken is cooked through and beginning to caramelize, about 10 minutes. Add bell peppers, onion, and 1/2 of the garlic; cook until tender, 5 to 7 minutes. Add tomatoes and bring to a simmer."
+        },
+        {
+            "4": "Meanwhile, melt butter in a saucepan over medium heat. Add remaining garlic and saute until fragrant, about 1 minute. Add flour; cook and stir for 1 minute. Slowly whisk in 1 1/2 cups milk and bring to a gentle boil. Stir in 1/2 cup Parmesan cheese, salt, and pepper. Add more Parmesan to thicken or more milk to thin to your liking."
+        },
+        {
+            "5": "Add cooked pasta to the chicken mixture; toss to coat. Transfer to a deep casserole dish. Pour cheese sauce over the pasta mixture and top with mozzarella cheese."
+        },
+        {
+            "6": "Bake in the preheated oven until the top is golden and bubbly, about 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "484"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F73de477a8191cc09dbf461430f848158%2F1665841711472A6BF9A55-C85A-4E1F-BBDC-33A71A4B9C4A.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6df19e296004a814d2b86c0cb4ece2e8%2F1663798316A2CE2C56-C2E7-41B3-A321-DCBB86855970.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,123 @@
+{
+    "title": "Chef John's Chicken and Dumplings",
+    "Category": "Chicken and Dumplings",
+    "Ingredients": [
+        {
+            "1": "1 (3 to 3 1/2 pound) whole chicken"
+        },
+        {
+            "2": "1.0 quarts cold water"
+        },
+        {
+            "3": "1 large carrot, cubed"
+        },
+        {
+            "4": "1 stalk celery, chopped"
+        },
+        {
+            "5": "1  onion, chopped"
+        },
+        {
+            "6": "3 sprigs fresh thyme"
+        },
+        {
+            "7": "1  bay leaf"
+        },
+        {
+            "8": "2 tablespoons all-purpose flour, or as needed"
+        },
+        {
+            "9": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "10": "0.5 teaspoon cayenne pepper, or more to taste"
+        },
+        {
+            "11": "0.5 cup creme fraiche"
+        },
+        {
+            "12": "0.5 cup milk"
+        },
+        {
+            "13": "2 teaspoons chopped fresh thyme leaves"
+        },
+        {
+            "14": "2  eggs"
+        },
+        {
+            "15": "2 cups self-rising flour"
+        },
+        {
+            "16": "4 sprigs thyme, for garnish"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place chicken in a Dutch oven. Add water, carrot, celery, onion, 3 sprigs of thyme, and bay leaf. Bring to a boil, cover, reduce heat to low, and simmer for 1 hour. Remove chicken from dutch oven and transfer to a bowl; set aside to cool."
+        },
+        {
+            "2": "Increase heat and bring the stock to a simmer. Skim off any chicken fat that appears on top of the stock and reserve in a bowl. Combine 2 to 3 tablespoons of the reserved fat with flour in a small bowl; stir to make a paste, adding more flour if needed. Add the chicken fat and flour mixture to the stock. Reduce heat and simmer for 15 minutes."
+        },
+        {
+            "3": "Remove chicken meat from the carcass and add to the stock. Season with salt, black pepper, and cayenne pepper to taste. Continue simmering for 10 to 15 minutes."
+        },
+        {
+            "4": "Whisk creme fraiche, milk, 2 teaspoons of thyme leaves, and eggs together in a large bowl. Stir in self-rising flour until almost entirely incorporated; do not overmix."
+        },
+        {
+            "5": "Scoop large dollops of dumpling mixture on top of the chicken stock. Increase heat slightly to medium-high. Cover and simmer until dumplings appear light and fluffy, and a toothpick inserted into the center comes out clean, 10 to 15 minutes. Serve garnish with thyme sprigs."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 45 mins"
+        },
+        {
+            "Total Time": " 2 hrs"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "750"
+        },
+        {
+            "Fat": "37g"
+        },
+        {
+            "Carbs": "60g"
+        },
+        {
+            "Protein": "44g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff90bbb8e28c5741c6dc698513d2b513b%2F166027183120220811_193202.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9105271.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8716635.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9105274.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/20_tuAuXyE6-fFt6vWgXWK74kQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2432924-7c986b1bcd4d4049bbd3d84a8451233d.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/CZHsRjbJIJDcIuMGAB5TA1WhLxs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3548087-9121975e30804e8ea9dff8c780dc38a1.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

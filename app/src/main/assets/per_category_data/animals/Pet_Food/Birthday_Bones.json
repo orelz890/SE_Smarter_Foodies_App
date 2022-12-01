@@ -1,0 +1,62 @@
+{
+    "title": "Birthday Bones",
+    "Category": "Pet Food",
+    "Ingredients": [
+        {
+            "1": "2 cups whole wheat flour"
+        },
+        {
+            "2": "1 tablespoon baking powder"
+        },
+        {
+            "3": "1 cup unsalted natural peanut butter"
+        },
+        {
+            "4": "1 cup skim milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C). Grease cookie sheets. Stir together the flour and baking powder; set aside."
+        },
+        {
+            "2": "In a medium bowl, mix together the peanut butter and milk. Stir in the flour mixture until well blended. Turn out dough onto a lightly floured surface and knead until smooth. Roll out to 1/4 inch thickness and cut into shapes using cookie cutters. Place 2 inches apart onto the prepared cookie sheets."
+        },
+        {
+            "3": "Bake for 20 minutes in the preheated oven, or until lightly brown. Remove from cookie sheets to cool on wire racks."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "18 treats"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8248385.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8194249.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8111139.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff7635d7c2d27560b0d5d266b28780cd6%2F6870999.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "animals"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Air Fryer Salt and Vinegar Fries for One",
+    "Category": "Fries",
+    "Ingredients": [
+        {
+            "1": "1 large Yukon Gold potato"
+        },
+        {
+            "2": "1 cup distilled white vinegar"
+        },
+        {
+            "3": "0.5 tablespoon light vegetable oil"
+        },
+        {
+            "4": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Peel potato and cut lengthwise into 1/2-inch sticks. Rinse potato sticks under cold running water for a few seconds. Transfer to a large bowl. Add vinegar and just enough water to cover the potatoes. Let soak for 30 minutes."
+        },
+        {
+            "2": "Preheat the air fryer to 320 degrees F (160 degrees C)."
+        },
+        {
+            "3": "Drain and pat the potatoes dry. Toss with oil, salt, and pepper in a bowl and transfer to the air fryer basket."
+        },
+        {
+            "4": "Cook in the preheated air fryer until soft but not browned, about 16 minutes. Shake the basket and raise the temperature to 355 degrees F (180 degrees C). Air fry for 6 minutes, shake, and check for doneness. Cook until outsides of fries are crispy and browned, about 6 minutes more. Taste and adjust salt before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 serving"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "150"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8096625.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8096544.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7945791.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

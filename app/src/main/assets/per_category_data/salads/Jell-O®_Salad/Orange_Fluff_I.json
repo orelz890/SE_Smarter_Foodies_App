@@ -1,0 +1,72 @@
+{
+    "title": "Orange Fluff I",
+    "Category": "Jell-O\u00ae Salad",
+    "Ingredients": [
+        {
+            "1": "2 (11 ounce) cans mandarin oranges, drained"
+        },
+        {
+            "2": "1 (15 ounce) can crushed pineapple"
+        },
+        {
+            "3": "1 pound cottage cheese"
+        },
+        {
+            "4": "2 (3 ounce) packages orange flavored Jell-O\u00ae mix"
+        },
+        {
+            "5": "1 (16 ounce) package frozen whipped topping, thawed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine the well drained oranges and pineapple in a large bowl and mix together with the cottage cheese. Add the dry orange flavored gelatin powder and stir until well blended. Fold in the thawed frozen whipped topping and refrigerate for at least one hour."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "393"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "52g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F644d143a866d47bd4d803eabedc1277b%2F3613172.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2199604.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2208482.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdbc2a37778e0f0b6aa43357015649b21%2F459042.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

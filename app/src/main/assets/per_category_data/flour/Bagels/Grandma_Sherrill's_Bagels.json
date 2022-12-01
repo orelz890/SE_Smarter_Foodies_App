@@ -1,0 +1,87 @@
+{
+    "title": "Grandma Sherrill's Bagels",
+    "Category": "Bagels",
+    "Ingredients": [
+        {
+            "1": "9 cups all-purpose flour"
+        },
+        {
+            "2": "3 cups hot water"
+        },
+        {
+            "3": "0.25 cup white sugar"
+        },
+        {
+            "4": "1 tablespoon dry yeast"
+        },
+        {
+            "5": "1 tablespoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix flour, hot water, sugar, yeast, and salt in a large bowl; transfer dough to a work surface and knead for 10 minutes. Place dough in a bowl and let rise for 15 minutes."
+        },
+        {
+            "2": "Preheat oven to 375 degrees F (190 degrees C). Grease a baking sheet."
+        },
+        {
+            "3": "Form dough into 24 balls; punch a hole in the middle of each ball with a finger, creating a bagel shape. Place bagels on the prepared baking sheet; let rise for 20 minutes."
+        },
+        {
+            "4": "Bring a large pot of water to a boil; cook bagels, working in batches, in the boiling water, about 45 seconds per side. Place boiled bagels on a clean towel to drain. Return bagels to the baking sheet."
+        },
+        {
+            "5": "Bake in the preheated oven until cooked through and lightly browned, 30 to 35 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Additional Time": "35 mins"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "2 dozen bagels"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "180"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8943184.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7961573.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6358416.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd55dd2cd0e78eb0eb53de1a46238308a%2F6112328.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

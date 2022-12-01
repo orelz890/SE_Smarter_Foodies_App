@@ -1,0 +1,90 @@
+{
+    "title": "Norwegian Waffles",
+    "Category": "Waffles",
+    "Ingredients": [
+        {
+            "1": "0.5 cups all-purpose flour"
+        },
+        {
+            "2": "1.5 teaspoons baking powder"
+        },
+        {
+            "3": "2 large eggs"
+        },
+        {
+            "4": "2 tablespoons white sugar"
+        },
+        {
+            "5": "0.75 cups milk"
+        },
+        {
+            "6": "3 tablespoons melted shortening"
+        },
+        {
+            "7": "1 teaspoon salt"
+        },
+        {
+            "8": "1 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat a waffle iron according to manufacturer's instructions."
+        },
+        {
+            "2": "Sift flour and baking powder together into a bowl."
+        },
+        {
+            "3": "Beat eggs and sugar in a separate bowl with an electric mixer until fluffy. Add milk, melted shortening, salt, and vanilla; mix until well blended. Mix in flour mixture."
+        },
+        {
+            "4": "Spoon 2/3 cup batter onto the preheated waffle iron. Close the iron and cook until waffle is golden brown and the iron stops steaming, about 5 minutes. Repeat to cook remaining waffles."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 waffles"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "374"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8975940.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8323297.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7384469.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7384464.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

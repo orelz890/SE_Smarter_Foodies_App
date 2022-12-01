@@ -1,0 +1,81 @@
+{
+    "title": "Hibachi-Style Fried Rice",
+    "Category": "Fried Rice",
+    "Ingredients": [
+        {
+            "1": "0.25 cup olive oil"
+        },
+        {
+            "2": "2  eggs, beaten"
+        },
+        {
+            "3": "1 cup chopped grilled chicken (Optional)"
+        },
+        {
+            "4": "0.5 cup chopped green onion"
+        },
+        {
+            "5": "2 tablespoons chopped garlic"
+        },
+        {
+            "6": "2 cups cooked white rice"
+        },
+        {
+            "7": "3 tablespoons soy sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a wok or non-stick skillet over medium-high heat; add olive oil. Cook and stir eggs in the hot oil until cooked through, 2 to 3 minutes. Add chicken, green onion, and garlic to scrambled eggs; cook and stir until heated through, about 2 minutes."
+        },
+        {
+            "2": "Mix rice into egg mixture; cook and stir until rice is warmed, about 2 minutes. Add soy sauce; cook and stir until rice mixture is evenly coated, about 3 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "226"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9344511.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9301222.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9273298.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9111185.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

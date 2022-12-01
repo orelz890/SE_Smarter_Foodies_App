@@ -1,0 +1,93 @@
+{
+    "title": "Cabbage Jambalaya",
+    "Category": "Jambalaya",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1 pound smoked sausage, cut into 1/4-inch slices"
+        },
+        {
+            "3": "1  onion, chopped"
+        },
+        {
+            "4": "3 stalks celery, chopped"
+        },
+        {
+            "5": "1 clove garlic, chopped"
+        },
+        {
+            "6": "1 medium head cabbage, chopped"
+        },
+        {
+            "7": "1 (14.5 ounce) can stewed tomatoes"
+        },
+        {
+            "8": "7.0 fluid ounces water"
+        },
+        {
+            "9": "1 cup uncooked rice"
+        },
+        {
+            "10": "1 pinch garlic salt, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine ground beef, smoked sausage, onion, celery, and garlic in a large stock pot over medium-high heat. Cook and stir until beef is evenly browned, about 5 minutes. Stir in cabbage, tomatoes, water, and rice. Season with garlic salt."
+        },
+        {
+            "2": "Bring to a boil; reduce heat to low. Cover and cook, stirring once, until rice is tender, 35 to 40 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "550"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "45g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9370031.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8935254.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8866722.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8484271.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/v9DclGFWnKe6M7WuMxPIwgRKC30=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/900365-cabbage-jambalaya-Rock_lobster-1x1-1-9e37a564576d406b8a9145d9528ded9b.jpg"
+        }
+    ],
+    "main category": "sea_fruit"
+}

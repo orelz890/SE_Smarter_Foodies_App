@@ -1,0 +1,69 @@
+{
+    "title": "Blue Monday Dip",
+    "Category": "Spinach Dips",
+    "Ingredients": [
+        {
+            "1": "1 cup sour cream"
+        },
+        {
+            "2": "1 cup yogurt"
+        },
+        {
+            "3": "1 (10 ounce) package frozen chopped spinach, thawed and drained"
+        },
+        {
+            "4": "1 tablespoon dried minced onion flakes"
+        },
+        {
+            "5": "1 tablespoon Beau Monde \u2122 seasoning"
+        },
+        {
+            "6": "1 teaspoon garlic salt"
+        },
+        {
+            "7": "1 dash hot pepper sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a mixing bowl, combine the sour cream, yogurt, spinach, onion flakes, Beau Monde seasoning \u2122, garlic salt and hot pepper sauce. Chill until ready to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "30"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F613044.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

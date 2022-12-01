@@ -1,0 +1,81 @@
+{
+    "title": "Apple Cider Cranberry Sauce",
+    "Category": "Cranberry Sauce",
+    "Ingredients": [
+        {
+            "1": "3 cups apple cider"
+        },
+        {
+            "2": "0.75 cup white sugar"
+        },
+        {
+            "3": "4  cinnamon sticks"
+        },
+        {
+            "4": "1 tablespoon grated orange zest"
+        },
+        {
+            "5": "12  whole cloves"
+        },
+        {
+            "6": "1.0 cups fresh cranberries"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine the apple cider, sugar, cinnamon sticks, orange zest, and cloves in a large saucepan. Bring to a boil over high heat. Turn heat to low; simmer until sugar is dissolved and the flavors are blended, 10 to 15 minutes."
+        },
+        {
+            "2": "Stir cranberries into the saucepan, turn heat to high, and bring to a boil. Cook, stirring constantly, until cranberries begin to pop, 5 to 10 minutes. Reduce heat to low, and cook until sauce begins to thicken, about 5 minutes. Remove cinnamon sticks and cloves. Pour into shallow dish to cool and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "97"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9425587.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffdd31252fd730cb5cd13bc760861361c%2F4586373.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4586078.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4586076.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Mom's Stovetop Pork Ribs",
+    "Category": "Pork Ribs",
+    "Ingredients": [
+        {
+            "1": "10  pork spareribs"
+        },
+        {
+            "2": "0.5 cup soy sauce"
+        },
+        {
+            "3": "10 cloves garlic, crushed"
+        },
+        {
+            "4": "1 tablespoon dried rosemary"
+        },
+        {
+            "5": "1 tablespoon dried oregano"
+        },
+        {
+            "6": "2  bay leaves"
+        },
+        {
+            "7": "1  lime, juiced"
+        },
+        {
+            "8": "10 sprigs fresh parsley"
+        },
+        {
+            "9": "1 ground black pepper to taste"
+        },
+        {
+            "10": "2  limes, cut into wedges"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the spareribs into a large pot, and fill with just enough water to cover. Add the soy sauce, garlic, rosemary, oregano, bay leaves, lime juice and 3/4 of the parsley. Bring to a boil, then simmer uncovered over medium heat until the water has completely evaporated, about 25 minutes."
+        },
+        {
+            "2": "When all of the water is gone, remove the bay leaves, and allow meat to brown, turning occasionally. Use a spatula to scrape up browned bits and softened garlic from the bottom of the pot, and toss them with the pork. The garlic will dissolve onto the meat. Remove the meat, and drain on paper towels. Season with black pepper and garnish with lime wedges and remaining parsley."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "461"
+        },
+        {
+            "Fat": "32g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd255e07be2923943dc689e2363096b89%2F164470213154F3FCCA-93C3-4387-ACD3-958E12635946.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9302485.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9139214.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8951593.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

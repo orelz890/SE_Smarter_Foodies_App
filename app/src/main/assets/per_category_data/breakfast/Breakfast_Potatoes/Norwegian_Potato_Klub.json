@@ -1,0 +1,72 @@
+{
+    "title": "Norwegian Potato Klub",
+    "Category": "Breakfast Potatoes",
+    "Ingredients": [
+        {
+            "1": "6 slices bacon"
+        },
+        {
+            "2": "2 cups all-purpose flour"
+        },
+        {
+            "3": "0.5 teaspoon baking powder"
+        },
+        {
+            "4": "10 medium potatoes, peeled and shredded"
+        },
+        {
+            "5": "2 teaspoons salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large skillet over medium-high heat to cook. Remove bacon from the pan and reserve the grease."
+        },
+        {
+            "2": "Stir together flour and baking powder in a medium bowl. Stir in potatoes to make a sticky dough."
+        },
+        {
+            "3": "Bring a large pot of water to a boil and add salt. Shape potato mixture into 6 or 7 dumplings, or your desired size. Drop carefully into the boiling water. Simmer for 45 to 60 minutes. Remove to a platter with a slotted spoon."
+        },
+        {
+            "4": "Serve with bacon grease brushed over the top and crumbled bacon."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "554"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "94g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3281535.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F44517.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

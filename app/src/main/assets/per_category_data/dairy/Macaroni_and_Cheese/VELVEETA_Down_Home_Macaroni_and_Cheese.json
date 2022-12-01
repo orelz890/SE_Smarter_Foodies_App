@@ -1,0 +1,90 @@
+{
+    "title": "VELVEETA Down-Home Macaroni and Cheese",
+    "Category": "Macaroni and Cheese",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "3 tablespoons butter"
+        },
+        {
+            "3": "0.25 cup flour"
+        },
+        {
+            "4": "1 cup milk"
+        },
+        {
+            "5": "0.5 pound VELVEETA\u00ae, cut into 1/2-inch cubes"
+        },
+        {
+            "6": "2 cups elbow macaroni, cooked and drained"
+        },
+        {
+            "7": "0.5 cup KRAFT Shredded Cheddar Cheese"
+        },
+        {
+            "8": "6  RITZ Crackers, crushed"
+        },
+        {
+            "9": "5 tablespoons butter, melted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 2-quart casserole dish with cooking spray."
+        },
+        {
+            "2": "Melt 3 tablespoons butter in a medium saucepan over medium heat. Whisk in flour; cook and stir for 2 minutes. Gradually stir in milk and bring to boil; cook and stir until thickened, 3 to 5 minutes. Add Velveeta; cook and stir until melted, about 3 minutes. Stir in cooked macaroni."
+        },
+        {
+            "3": "Spoon mixture into the prepared dish; sprinkle with Cheddar cheese. Mix melted butter and cracker crumbs until combined; sprinkle over casserole."
+        },
+        {
+            "4": "Bake in the preheated oven until heated through, about 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "5 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "497"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb7fc920d69aab3987fea6b23e28c265a%2F16682205666963BB6BA44-A2BE-472D-B311-18FDC65DAEF1.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb7fc920d69aab3987fea6b23e28c265a%2F1666227658274IMG_20221019_175919.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9052050.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8761186.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dairy"
+}

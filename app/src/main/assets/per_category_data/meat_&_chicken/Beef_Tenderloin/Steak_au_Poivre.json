@@ -1,0 +1,87 @@
+{
+    "title": "Steak au Poivre",
+    "Category": "Beef Tenderloin",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon whole black peppercorns, or more to taste"
+        },
+        {
+            "2": "2 (6 ounce) (1 1/4-inch-thick) tenderloin steaks"
+        },
+        {
+            "3": "2 tablespoons butter"
+        },
+        {
+            "4": "1 tablespoon minced shallot"
+        },
+        {
+            "5": "2 tablespoons cognac"
+        },
+        {
+            "6": "2 tablespoons red wine"
+        },
+        {
+            "7": "0.25 cup beef broth"
+        },
+        {
+            "8": "2 tablespoons heavy whipping cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Crack peppercorns in a mortar or pestle or with a rolling pin. Press cracked peppercorns into steaks."
+        },
+        {
+            "2": "Heat butter in a heavy skillet over medium-high heat. Add steaks; cook, turning with tongs, until browned, about 2 minutes per side. Reduce heat to medium and cook steaks, turning often, until they begin to firm up and are hot and slightly pink in the center, about 5 minutes per side. Transfer steaks to a plate and cover to keep warm."
+        },
+        {
+            "3": "Stir shallot into the skillet. Pour in cognac and red wine; simmer, stirring constantly, until reduced, about 2 minutes. Pour in beef broth and simmer, scraping browned bits off the bottom of the skillet, until sauce is smooth, about 2 minutes. Stir in cream; cook until heated through, 1 to 2 minutes."
+        },
+        {
+            "4": "Pour cream sauce over steaks."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "19 mins"
+        },
+        {
+            "Total Time": "29 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "561"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "50g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8813975.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8077734.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7985004.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcd8103448fab59fba954ec447219f8f6%2F7523153.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

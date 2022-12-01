@@ -1,0 +1,75 @@
+{
+    "title": "Instant Pot Dr Pepper Pulled Pork",
+    "Category": "Pulled Pork",
+    "Ingredients": [
+        {
+            "1": "4 cups caffeinated pepper-type soda (such as Dr Pepper\u00ae)"
+        },
+        {
+            "2": "2 cups barbeque sauce (such as Sweet Baby Ray's\u00ae), divided"
+        },
+        {
+            "3": "1 pound pork tenderloin"
+        },
+        {
+            "4": "4  hamburger buns"
+        },
+        {
+            "5": "2 cups prepared coleslaw (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine soda and 1/2 cup barbeque sauce in a multi-functional pressure cooker (such as Instant Pot). Add pork tenderloin. Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 50 minutes. Allow 10 to 15 minutes for pressure to build."
+        },
+        {
+            "2": "Release pressure using the natural-release method according to manufacturer's instructions, 10 to 40 minutes."
+        },
+        {
+            "3": "Remove pork loin and drain liquid from the pot. Shred pork using 2 forks. Return to the pot and mix in remaining 1 1/2 cups barbeque sauce."
+        },
+        {
+            "4": "Serve on hamburger buns and top with coleslaw."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "627"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "106g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F186403b01c99d2e038e817bd932d7ffe%2F1643589782IMG_20220130_164202996.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6303983.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Grandma's Gingerbread Pancakes",
+    "Category": "Pancakes",
+    "Ingredients": [
+        {
+            "1": "0.5 cups all-purpose flour"
+        },
+        {
+            "2": "1 teaspoon baking powder"
+        },
+        {
+            "3": "0.25 teaspoon baking soda"
+        },
+        {
+            "4": "0.25 teaspoon salt"
+        },
+        {
+            "5": "0.5 teaspoon ground dried ginger"
+        },
+        {
+            "6": "1 teaspoon ground cinnamon"
+        },
+        {
+            "7": "1  egg"
+        },
+        {
+            "8": "0.5 teaspoon vanilla extract"
+        },
+        {
+            "9": "0.25 cup molasses"
+        },
+        {
+            "10": "0.5 cups water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk the flour, baking powder, baking soda, salt, ginger, and cinnamon in a bowl; set aside. Beat the egg in a separate mixing bowl with the vanilla and molasses until smooth. Whisk in the water until completely incorporated. Stir the flour mixture into the molasses mixture until just combined -- a few lumps are okay."
+        },
+        {
+            "2": "Heat a lightly oiled griddle over medium-high heat. Drop batter by large spoonfuls onto the griddle, and cook until bubbles form and the edges are dry. Flip, and cook until browned on the other side. Repeat with remaining batter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 pancakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "101"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F653dbce23a7bff7dc262e8d9a98c0e89%2F164442295220220209_090755.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9428708.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8862574.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8833735.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

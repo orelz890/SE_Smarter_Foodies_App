@@ -1,0 +1,87 @@
+{
+    "title": "Pasta Salad Dressing",
+    "Category": "Salad Dressings",
+    "Ingredients": [
+        {
+            "1": "0.5 cup mayonnaise"
+        },
+        {
+            "2": "0.5 cup olive oil"
+        },
+        {
+            "3": "0.25 cup red wine vinegar"
+        },
+        {
+            "4": "0.5 teaspoons Dijon mustard"
+        },
+        {
+            "5": "1 clove garlic, minced"
+        },
+        {
+            "6": "1 teaspoon white sugar"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "0.5 teaspoon freshly ground black pepper"
+        },
+        {
+            "9": "0.25 teaspoon dried oregano"
+        },
+        {
+            "10": "0.25 teaspoon ground thyme"
+        },
+        {
+            "11": "0.25 teaspoon dried basil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Beat mayonnaise, olive oil, vinegar, mustard, garlic, sugar, salt, pepper, oregano, thyme, and basil together in a bowl with a whisk until smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 serving"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "224"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8331100.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8331078.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8289423.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6791894.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

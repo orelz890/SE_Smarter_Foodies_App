@@ -1,0 +1,108 @@
+{
+    "title": "New Mexico Green Chile Stew",
+    "Category": "Beef Tenderloin",
+    "Ingredients": [
+        {
+            "1": "1 pound beef tenderloin, cubed"
+        },
+        {
+            "2": "1 pound boneless pork loin, cubed"
+        },
+        {
+            "3": "0.25 cup masa harina"
+        },
+        {
+            "4": "1 tablespoon olive oil"
+        },
+        {
+            "5": "1  red onion, chopped"
+        },
+        {
+            "6": "3 cups chopped fresh tomatoes"
+        },
+        {
+            "7": "2 cups diced green chile peppers"
+        },
+        {
+            "8": "2 cups low-sodium beef broth"
+        },
+        {
+            "9": "1 tablespoon ground cumin"
+        },
+        {
+            "10": "1 large potato, cubed"
+        },
+        {
+            "11": "3 cloves garlic, minced"
+        },
+        {
+            "12": "2 teaspoons chopped fresh oregano"
+        },
+        {
+            "13": "2 teaspoons chopped fresh cilantro"
+        },
+        {
+            "14": "1 dash cayenne pepper (Optional)"
+        },
+        {
+            "15": "1 salt to taste"
+        },
+        {
+            "16": "1 ground white pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the beef tenderloin cubes, pork loin cubes, and masa harina in a plastic bag, and shake to coat the meat. Heat the olive oil in a large skillet over medium-high heat, and cook and stir the meat cubes until evenly browned, about 10 minutes."
+        },
+        {
+            "2": "Place the meat, red onion, tomatoes, green chile peppers, beef broth, cumin, potato, garlic, oregano, cilantro, cayenne pepper, salt and white pepper in a slow cooker. Cook on Low until the meat is tender, about 8 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 8 hrs 15 mins"
+        },
+        {
+            "Total Time": " 8 hrs 45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "10 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "295"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6068380.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5865082.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4970698.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3204102.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

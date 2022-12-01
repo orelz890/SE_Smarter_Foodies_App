@@ -1,0 +1,72 @@
+{
+    "title": "Sarah's Homemade Applesauce",
+    "Category": "Low-Calorie Recipes",
+    "Ingredients": [
+        {
+            "1": "4  apples - peeled, cored and chopped"
+        },
+        {
+            "2": "0.75 cup water"
+        },
+        {
+            "3": "0.25 cup white sugar"
+        },
+        {
+            "4": "0.5 teaspoon ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine apples, water, sugar, and cinnamon in a saucepan; cover and cook over medium heat until apples are soft, about 15 to 20 minutes."
+        },
+        {
+            "2": "Allow apple mixture to cool, then mash with a fork or potato masher until it is the consistency you like."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "121"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F21da1e73962a6f07185bc661eb4f6732%2F1666730405892sarahs-applesauce.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffca427a39008b7b6863699a322320cca%2F1664140408image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffca427a39008b7b6863699a322320cca%2F1662687810image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9417144.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/VY5d0tZHB8xz6y-ef586jR050FE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25840-Sarahs-Applesauce-2000-56080bc8aac64df59aeec895f1875fc0.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

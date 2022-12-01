@@ -1,0 +1,78 @@
+{
+    "title": "Easy Swedish Pancakes",
+    "Category": "Pancakes",
+    "Ingredients": [
+        {
+            "1": "4  eggs"
+        },
+        {
+            "2": "2 cups milk"
+        },
+        {
+            "3": "0.5 cup all-purpose flour"
+        },
+        {
+            "4": "1 tablespoon sugar"
+        },
+        {
+            "5": "1 pinch salt"
+        },
+        {
+            "6": "2 tablespoons melted butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, beat eggs with a wire whisk. Mix in milk, flour, sugar, salt, and melted butter."
+        },
+        {
+            "2": "Preheat a non-stick electric skillet to medium heat. Pour a thin layer of batter on skillet, and spread to edges. Cook until top surface appears dry. Cut into 2 or 4 sections, and flip with a spatula. Cook for another 2 minutes, or until golden brown. Roll each pancake up, and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "252"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8281213.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6835803.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbef997c0e87f08fc01499241937801e0%2F6349243.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fce79c67cd1316038300acef962829acf%2F6339985.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

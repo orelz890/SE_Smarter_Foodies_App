@@ -1,0 +1,105 @@
+{
+    "title": "Shoyu Chicken",
+    "Category": "Hawaiian",
+    "Ingredients": [
+        {
+            "1": "1 cup soy sauce"
+        },
+        {
+            "2": "1 cup brown sugar"
+        },
+        {
+            "3": "1 cup water"
+        },
+        {
+            "4": "1  onion, chopped"
+        },
+        {
+            "5": "4 cloves garlic, minced"
+        },
+        {
+            "6": "1 tablespoon grated fresh ginger root"
+        },
+        {
+            "7": "1 tablespoon ground black pepper"
+        },
+        {
+            "8": "1 tablespoon dried oregano"
+        },
+        {
+            "9": "1 teaspoon crushed red pepper flakes (Optional)"
+        },
+        {
+            "10": "1 teaspoon ground cayenne pepper (Optional)"
+        },
+        {
+            "11": "1 teaspoon ground paprika (Optional)"
+        },
+        {
+            "12": "5 pounds skinless chicken thighs"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk together soy sauce, brown sugar, water, onion, garlic, ginger, black pepper, oregano, red pepper flakes, cayenne pepper, and paprika in a large glass or ceramic bowl. Add chicken thighs and toss to coat evenly. Cover the bowl with plastic wrap; marinate chicken in the refrigerator for at least 1 hour."
+        },
+        {
+            "2": "Preheat an outdoor grill to medium heat. Lightly oil the grate."
+        },
+        {
+            "3": "Remove chicken thighs from marinade; discard remaining marinade."
+        },
+        {
+            "4": "Grill chicken thighs on the preheated grill until no longer pink in the center and the juices run clear, about 15 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "338"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "33g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F84a332a5f0908f72c563247e8893dbbb%2F1649649110C33B6878-819C-468C-9E6B-1CFE71E97A78.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9406319.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9400925.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9372295.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ANAJ3VE5W6EKH6cXAM1Wo94zEpA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5216379-6bdd6fd1b5b84c759d573baff46e4552.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

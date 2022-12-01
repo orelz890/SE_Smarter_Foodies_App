@@ -1,0 +1,81 @@
+{
+    "title": "Best Baconless Broccoli Salad",
+    "Category": "Broccoli Salad",
+    "Ingredients": [
+        {
+            "1": "6 cups chopped fresh broccoli"
+        },
+        {
+            "2": "0.75 cup dried cranberries"
+        },
+        {
+            "3": "0.5 cup pumpkin seeds"
+        },
+        {
+            "4": "0.25 cup chopped red onion"
+        },
+        {
+            "5": "2 tablespoons flax seeds"
+        },
+        {
+            "6": "0.5 cup mayonnaise"
+        },
+        {
+            "7": "2 tablespoons raspberry vinegar"
+        },
+        {
+            "8": "2 tablespoons white sugar"
+        },
+        {
+            "9": "0.5 cup chopped pecans"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Toss broccoli, cranberries, pumpkin seeds, red onion, and flax seeds together in a large bowl."
+        },
+        {
+            "2": "Whisk together mayonnaise, vinegar, and sugar in a small bowl. Pour over salad and toss until ingredients are evenly coated. Cover and refrigerate for at least 30 minutes."
+        },
+        {
+            "3": "Sprinkle pecans over salad before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "190"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fba3a47a4ec3601c1ccb498ca3a6ede06%2F1209754.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd4b17e465a9f22f0f8fee03bd6c3d8d9%2F950750.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

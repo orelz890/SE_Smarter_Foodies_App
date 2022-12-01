@@ -1,0 +1,90 @@
+{
+    "title": "Bananas Foster Monkey Bread",
+    "Category": "Monkey Bread",
+    "Ingredients": [
+        {
+            "1": "0.5 cup white sugar"
+        },
+        {
+            "2": "1 tablespoon ground cinnamon"
+        },
+        {
+            "3": "2 (7.5 ounce) packages buttermilk biscuit dough, cut into quarters"
+        },
+        {
+            "4": "2  ripe bananas, coarsely chopped"
+        },
+        {
+            "5": "0.25 cup chopped pecans"
+        },
+        {
+            "6": "0.5 cup butter"
+        },
+        {
+            "7": "0.5 cup packed light brown sugar"
+        },
+        {
+            "8": "1 teaspoon vanilla"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 400 degrees F (200 degrees C). Grease a loaf pan."
+        },
+        {
+            "2": "Shake the sugar and cinnamon together in a large plastic bag; add the biscuit dough, bananas, and pecans to the bag and shake to coat evenly. Pour the mixture into the prepared loaf pan."
+        },
+        {
+            "3": "Melt the butter in a saucepan over medium heat. Stir the brown sugar into the melted butter until completely dissolved. Add the vanilla and stir well. Pour the mixture over the biscuit dough."
+        },
+        {
+            "4": "Bake in the preheated oven until golden brown, 30 to 40 minutes. Allow to cool about 10 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "427"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa39b1bed7deb72db3d1759515a821643%2F165634444220220626_164440.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8120893.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6718737.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd15c4b28c7b25cb8c37a63b8e7ae20ec%2F6673327.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Funnel Cakes",
+    "Category": "Doughnuts",
+    "Ingredients": [
+        {
+            "1": "1 quart vegetable oil for frying, or as needed"
+        },
+        {
+            "2": "0.5 cups milk"
+        },
+        {
+            "3": "2 large eggs"
+        },
+        {
+            "4": "2 cups all-purpose flour"
+        },
+        {
+            "5": "1 teaspoon baking powder"
+        },
+        {
+            "6": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "0.75 cup confectioners' sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil to 375 degrees F (190 degrees C) in a heavy skillet."
+        },
+        {
+            "2": "Beat milk and eggs together in a large bowl. Combine flour, baking powder, cinnamon, and salt in a separate bowl; stir into egg mixture until smooth."
+        },
+        {
+            "3": "Use your finger to cover the funnel hole; pour in 1 cup of batter. Starting in the center of the skillet, remove your finger and move the funnel in a swirling motion to make a 6- or 7-inch round. Fry in hot oil until bottom is golden brown; flip and continue cooking until golden brown all over, about 1 minute per side. Drain on paper towels. Continue cooking remaining batter."
+        },
+        {
+            "4": "Sprinkle with confectioners' sugar and serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "524"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F24afd26eadc2aee070c45e427d1e780f%2F165387975116538797219101450232940739845662.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F24afd26eadc2aee070c45e427d1e780f%2F164895892620220403_000555.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9047886.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9408974.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/2qugXgbiYDS3qldc1vC4TU3NbqE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8992532-funnel-cakes-Beth-K-1x1-1-8d702ac352244dd7b3b83fa72cb61fbd.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

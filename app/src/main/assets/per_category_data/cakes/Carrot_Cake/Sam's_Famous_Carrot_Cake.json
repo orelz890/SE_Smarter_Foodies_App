@@ -1,0 +1,117 @@
+{
+    "title": "Sam's Famous Carrot Cake",
+    "Category": "Carrot Cake",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "2 teaspoons baking soda"
+        },
+        {
+            "3": "2 teaspoons ground cinnamon"
+        },
+        {
+            "4": "0.25 teaspoon salt"
+        },
+        {
+            "5": "0.5 cups white sugar"
+        },
+        {
+            "6": "3 large eggs"
+        },
+        {
+            "7": "0.75 cup buttermilk"
+        },
+        {
+            "8": "0.75 cup vegetable oil"
+        },
+        {
+            "9": "2 teaspoons vanilla extract"
+        },
+        {
+            "10": "2 cups shredded carrots"
+        },
+        {
+            "11": "1 (8 ounce) can crushed pineapple with juice"
+        },
+        {
+            "12": "1 cup flaked coconut"
+        },
+        {
+            "13": "1 cup chopped walnuts"
+        },
+        {
+            "14": "1 cup raisins"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour an 8x12-inch pan."
+        },
+        {
+            "2": "Sift flour, baking soda, cinnamon, and salt together in a medium bowl; set aside."
+        },
+        {
+            "3": "Mix sugar, eggs, buttermilk, oil, and vanilla together in a large bowl; gradually add flour mixture until just combined."
+        },
+        {
+            "4": "Combine shredded carrots, pineapple, coconut, walnuts, and raisins in a separate bowl; stir into cake batter using a large wooden spoon until combined. Pour batter into the prepared pan."
+        },
+        {
+            "5": "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, about 1 hour. Allow cake to cool for at least 20 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 40 mins"
+        },
+        {
+            "Servings": "15 "
+        },
+        {
+            "Yield": "1 8x12-inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "374"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F40a7bdf6fba6f666e40a6d2ceadadbe7%2F1669471412433IMG-20221123-WA0000-2.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1ad03698badff399bf2fd28cdaa55161%2F1645295320IMG_0106.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1ad03698badff399bf2fd28cdaa55161%2F16452912116D31B999-B4E7-4B57-8004-FB383276CC8C.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9441816.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/e1P54YKqMPdz1Qyn3gpobZSgx3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2228327_original-d815b922303f4e6d8deedce9b1d4366c.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

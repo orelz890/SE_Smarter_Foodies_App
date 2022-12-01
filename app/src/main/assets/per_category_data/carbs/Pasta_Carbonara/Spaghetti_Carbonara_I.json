@@ -1,0 +1,81 @@
+{
+    "title": "Spaghetti Carbonara I",
+    "Category": "Pasta Carbonara",
+    "Ingredients": [
+        {
+            "1": "1 pound spaghetti"
+        },
+        {
+            "2": "1 pound bacon, chopped"
+        },
+        {
+            "3": "4  eggs, well beaten"
+        },
+        {
+            "4": "1 cup grated Parmesan cheese"
+        },
+        {
+            "5": "0.25 cup olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+            "2": "Meanwhile, place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, reserving some of the drippings, crumble and set aside."
+        },
+        {
+            "3": "Scramble eggs in bacon drippings."
+        },
+        {
+            "4": "Place spaghetti in a large bowl. Pour in olive oil, and mix well; use enough to just moisten spaghetti. Stir in bacon, eggs, and Parmesan cheese. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "601"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "58g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8415510.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7577252.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7226697.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6961339.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

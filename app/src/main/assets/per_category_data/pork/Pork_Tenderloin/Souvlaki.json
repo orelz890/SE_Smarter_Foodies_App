@@ -1,0 +1,93 @@
+{
+    "title": "Souvlaki",
+    "Category": "Pork Tenderloin",
+    "Ingredients": [
+        {
+            "1": "1  lemon, juiced"
+        },
+        {
+            "2": "0.25 cup olive oil"
+        },
+        {
+            "3": "0.25 cup soy sauce"
+        },
+        {
+            "4": "1 teaspoon dried oregano"
+        },
+        {
+            "5": "3 cloves garlic, crushed"
+        },
+        {
+            "6": "4 pounds pork tenderloin, cut into 1 inch cubes"
+        },
+        {
+            "7": "2 medium yellow onions, cut into 1 inch pieces"
+        },
+        {
+            "8": "2  green bell peppers, cut into 1 inch pieces"
+        },
+        {
+            "9": "1 skewers"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large glass bowl, mix together lemon juice, olive oil, soy sauce, oregano, and garlic; add pork, onions, and green peppers, and stir to coat. Cover, and refrigerate for 2 to 3 hours."
+        },
+        {
+            "2": "Preheat grill for medium-high heat. Thread pork, peppers, and onions onto skewers."
+        },
+        {
+            "3": "Lightly oil grate. Cook for 10 to 15 minutes, or to desired doneness, turning skewers frequently for even cooking."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 45 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "189"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8733307.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8492094.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8490146.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8303926.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

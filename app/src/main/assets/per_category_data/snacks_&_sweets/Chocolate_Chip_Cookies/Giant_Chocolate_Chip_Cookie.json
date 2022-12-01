@@ -1,0 +1,99 @@
+{
+    "title": "Giant Chocolate Chip Cookie",
+    "Category": "Chocolate Chip Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup butter, softened"
+        },
+        {
+            "2": "0.75 cup white sugar"
+        },
+        {
+            "3": "0.75 cup packed brown sugar"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "2 large eggs"
+        },
+        {
+            "6": "0.5 cups all-purpose flour"
+        },
+        {
+            "7": "1 teaspoon salt"
+        },
+        {
+            "8": "1 teaspoon baking soda"
+        },
+        {
+            "9": "2 cups semisweet chocolate chips"
+        },
+        {
+            "10": "1 cup chopped walnuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C). Grease a 14-inch round pizza pan."
+        },
+        {
+            "2": "Beat butter, white sugar, brown sugar, and vanilla in a large bowl with an electric mixer on medium speed until light and fluffy. Beat in eggs, one at a time, mixing well after each addition."
+        },
+        {
+            "3": "Gradually add flour, salt, and baking soda, beating until well blended. Stir in chocolate chips and nuts. Spread dough evenly into the prepared pan."
+        },
+        {
+            "4": "Bake in the preheated oven until golden brown, 20 to 25 minutes. Cool cookie in the pan on a cooling rack. Decorate as desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "1 14-inch cookie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "399"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc9229e70842edbb20a50f6a78f68104c%2F165126798812B7358F-8A5C-46DA-B05C-5DC3FFCB206C.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9350450.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9307772.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9223964.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/UftMeKRG6ETHpgwBQjQS17TELYU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/967510-5cd9fdea0a8b4503975a3cd32e7ff2eb.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

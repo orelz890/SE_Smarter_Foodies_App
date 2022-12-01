@@ -1,0 +1,72 @@
+{
+    "title": "Christmas Cranberry Salad",
+    "Category": "Fruit Salads",
+    "Ingredients": [
+        {
+            "1": "1 pound cranberries, finely ground"
+        },
+        {
+            "2": "2 cups white sugar"
+        },
+        {
+            "3": "1 (20 ounce) can crushed pineapple, drained"
+        },
+        {
+            "4": "1 (16 ounce) package miniature marshmallows"
+        },
+        {
+            "5": "1 cup chopped pecans (Optional)"
+        },
+        {
+            "6": "1 pint whipped cream, beaten stiff"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix together the cranberries and sugar; cover and refrigerate overnight."
+        },
+        {
+            "2": "The next day, combine the cranberry mixture with the pineapple, marshmallows, pecans and whipped cream. Mix well."
+        },
+        {
+            "3": "Pour into a 3 quart dish, cover and refrigerate or freeze until ready to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 to 8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "771"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "157g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8876157.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4239031.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4239031.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3029480.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

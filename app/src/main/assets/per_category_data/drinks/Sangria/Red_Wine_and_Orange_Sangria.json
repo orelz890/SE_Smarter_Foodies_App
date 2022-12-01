@@ -1,0 +1,84 @@
+{
+    "title": "Red Wine and Orange Sangria",
+    "Category": "Sangria",
+    "Ingredients": [
+        {
+            "1": "0.5 cup orange juice"
+        },
+        {
+            "2": "3 tablespoons white sugar"
+        },
+        {
+            "3": "1 (750 milliliter) bottle red wine"
+        },
+        {
+            "4": "1 cup orange slices"
+        },
+        {
+            "5": "0.5 cup sliced plums"
+        },
+        {
+            "6": "0.5 cup sliced fresh strawberries"
+        },
+        {
+            "7": "0.25 cup brandy"
+        },
+        {
+            "8": "0.5 cups club soda"
+        },
+        {
+            "9": "3 cups ice, or as needed"
+        },
+        {
+            "10": "8 sprigs fresh mint"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir orange juice and sugar together in a pitcher until sugar dissolves. Add wine, oranges, plums, strawberries, and brandy."
+        },
+        {
+            "2": "Cover and chill until ready to serve, 1 to 24 hours."
+        },
+        {
+            "3": "Gently stir in club soda before serving over ice. Garnish with fresh mint sprigs."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "5 1/2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "146"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9314813.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

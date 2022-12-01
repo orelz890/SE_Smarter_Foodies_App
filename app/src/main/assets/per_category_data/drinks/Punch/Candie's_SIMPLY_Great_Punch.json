@@ -1,0 +1,51 @@
+{
+    "title": "Candie's SIMPLY Great Punch",
+    "Category": "Punch",
+    "Ingredients": [
+        {
+            "1": "2 (46 fluid ounce) cans fruit punch"
+        },
+        {
+            "2": "1 (2 liter) bottle lemon-lime flavored carbonated beverage"
+        },
+        {
+            "3": "0.5 gallon French vanilla ice cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour chilled punch and soda into a punch bowl. Scoop out an entire half-gallon of ice cream and carefully slide into punch."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "2 mins"
+        },
+        {
+            "Total Time": "2 mins"
+        },
+        {
+            "Servings": "80 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "80"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1002162.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

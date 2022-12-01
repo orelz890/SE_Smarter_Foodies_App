@@ -1,0 +1,75 @@
+{
+    "title": "Pumpkin Pie for Dieters",
+    "Category": "Pumpkin Pie",
+    "Ingredients": [
+        {
+            "1": "1 (15 ounce) can pumpkin puree"
+        },
+        {
+            "2": "0.5 cup skim milk"
+        },
+        {
+            "3": "1 (1 ounce) package instant sugar-free vanilla pudding mix"
+        },
+        {
+            "4": "1 teaspoon pumpkin pie spice"
+        },
+        {
+            "5": "1 (8 ounce) container fat free frozen whipped topping"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium bowl, mix together the pumpkin, milk, and instant pudding mix. Stir in the pumpkin pie spice, and fold in half of the whipped topping."
+        },
+        {
+            "2": "Pour into an 8-inch pie plate, and spread remaining whipped topping over the top. Chill for 1 hour, or until set."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "110"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7728829.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7015633.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2534052.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F813317.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

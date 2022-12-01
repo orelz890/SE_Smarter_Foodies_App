@@ -1,0 +1,102 @@
+{
+    "title": "Tofu Lasagna",
+    "Category": "Tofu Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 (12 ounce) package uncooked lasagna noodles"
+        },
+        {
+            "2": "1 (12 ounce) package firm tofu, crumbled"
+        },
+        {
+            "3": "2  eggs"
+        },
+        {
+            "4": "0.25 teaspoon salt"
+        },
+        {
+            "5": "0.25 teaspoon black pepper"
+        },
+        {
+            "6": "0.25 teaspoon ground nutmeg"
+        },
+        {
+            "7": "2 tablespoons milk"
+        },
+        {
+            "8": "1 cup spaghetti sauce"
+        },
+        {
+            "9": "1 tablespoon dried parsley"
+        },
+        {
+            "10": "2 cups shredded mozzarella cheese, divided"
+        },
+        {
+            "11": "0.5 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Add lasagna and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+            "3": "In a medium bowl combine tofu, eggs, salt, pepper, nutmeg, milk, spaghetti sauce, parsley and 1 cup of mozzarella cheese. Spread a layer in the bottom of a 9x13 inch baking dish."
+        },
+        {
+            "4": "Layer lasagna noodles with the sauce mixture, ending with sauce. Sprinkle with remaining mozzarella and Parmesan cheese."
+        },
+        {
+            "5": "Bake in preheated oven for 25 to 35 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "7 "
+        },
+        {
+            "Yield": "6 to 8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "324"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7956754.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7807386.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7717364.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F52142865c458f1cab7c6ac4ebbb9ac54%2F6515109.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

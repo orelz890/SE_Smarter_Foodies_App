@@ -1,0 +1,84 @@
+{
+    "title": "Vegetarian Mushroom-Lentil Soup",
+    "Category": "Lentil Soup",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "1  shallot, thinly sliced"
+        },
+        {
+            "3": "3 cloves garlic, minced"
+        },
+        {
+            "4": "3 cups shiitake mushrooms, sliced"
+        },
+        {
+            "5": "6 cups vegetable stock"
+        },
+        {
+            "6": "1 teaspoon ground thyme"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "1 cup green lentils, rinsed and drained"
+        },
+        {
+            "9": "2 teaspoons sesame oil"
+        },
+        {
+            "10": "2  green onions, finely chopped, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a pot or Dutch oven over medium-high heat. Add shallot slices and saute for 1 minute, then add garlic and mushrooms. Saute until mushrooms start to soften, about 3 minutes, stirring frequently so garlic doesn't burn. Add vegetable stock, thyme, and salt and increase heat to high. Bring to a boil, stirring occasionally."
+        },
+        {
+            "2": "Stir in lentils and sesame oil, and reduce heat to a simmer. Simmer, stirring occasionally, until lentils are tender, about 20 minutes."
+        },
+        {
+            "3": "Divide soup between 4 bowls and garnish with sliced green onions."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "304"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6181023.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

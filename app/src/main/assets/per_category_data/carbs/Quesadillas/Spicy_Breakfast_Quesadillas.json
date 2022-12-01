@@ -1,0 +1,81 @@
+{
+    "title": "Spicy Breakfast Quesadillas",
+    "Category": "Quesadillas",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "2 (4 ounce) links spicy pork breakfast sausage"
+        },
+        {
+            "3": "3 large eggs"
+        },
+        {
+            "4": "2 tablespoons milk"
+        },
+        {
+            "5": "3 tablespoons chopped green onions"
+        },
+        {
+            "6": "1 salt and ground black pepper to taste"
+        },
+        {
+            "7": "4 (6 inch) flour tortillas"
+        },
+        {
+            "8": "2 tablespoons nacho cheese sauce, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Spray a skillet with cooking spray and heat over medium-low heat. Add sausages and cook, turning often, until cooked through and browned, 12 to 16 minutes. An instant-read thermometer inserted into the center should read 160 degrees F (70 degrees C). Remove sausages from the skillet and chop when cool enough to handle."
+        },
+        {
+            "2": "Beat eggs in a small bowl with milk."
+        },
+        {
+            "3": "Spray a small skillet with cooking spray and set over low heat. Add the beaten eggs, green onions, salt, and pepper; cook until edges are set, then gently turn with a spatula until scrambled, 3 to 5 minutes. Remove eggs to a plate and wipe out the skillet with a paper towel."
+        },
+        {
+            "4": "Place 1 tortilla in the skillet over low heat. Top with 1/2 of the nacho cheese sauce, 1/2 of the chopped sausage, and 1/2 of the scrambled eggs. Top with another tortilla and cook, carefully turning once, just until lightly browned on both sides, about 5 minutes. Remove to a plate and repeat to cook remaining quesadilla."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 quesadillas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "630"
+        },
+        {
+            "Fat": "39g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9378393.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

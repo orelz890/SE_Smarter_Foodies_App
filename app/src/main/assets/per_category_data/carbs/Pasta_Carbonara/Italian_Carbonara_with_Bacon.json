@@ -1,0 +1,96 @@
+{
+    "title": "Italian Carbonara with Bacon",
+    "Category": "Pasta Carbonara",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package spaghetti"
+        },
+        {
+            "2": "12 slices thick-cut, applewood-smoked bacon"
+        },
+        {
+            "3": "2 tablespoons olive oil, divided"
+        },
+        {
+            "4": "1  onion, finely chopped"
+        },
+        {
+            "5": "2 large cloves garlic, minced"
+        },
+        {
+            "6": "0.25 cup dry vermouth"
+        },
+        {
+            "7": "1 cup shredded Parmesan cheese"
+        },
+        {
+            "8": "0.5 cup whipping cream (Optional)"
+        },
+        {
+            "9": "4  eggs, beaten"
+        },
+        {
+            "10": "1 tablespoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes."
+        },
+        {
+            "2": "Meanwhile, place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels. Reserve 2 tablespoons bacon fat in the skillet and discard the rest. Chop bacon when cool enough to handle."
+        },
+        {
+            "3": "Add 1 tablespoon olive oil and onion to reserved bacon fat in the skillet. Cook over medium-high heat until the onion has softened and turned translucent, about 5 minutes. Add garlic and cook until fragrant, about 1 minute. Pour vermouth into the pan and bring to a boil while scraping the browned bits of food off the bottom of the pan with a wooden spoon, about 1 minute. Mix in chopped bacon."
+        },
+        {
+            "4": "Drain spaghetti, transfer to a large serving bowl, and mix in remaining 1 tablespoon oil. Add bacon-onion mixture, Parmesan cheese, cream, eggs, and pepper to the hot pasta; stir until spaghetti is well coated and sauce is creamy."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "512"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5b28103cc16126169b247bab365dbbc3%2F1653771551image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8594407.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8572693.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8509882.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

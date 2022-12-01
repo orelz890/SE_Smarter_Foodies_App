@@ -1,0 +1,93 @@
+{
+    "title": "Delicious Spaghetti Bread",
+    "Category": "Calzones",
+    "Ingredients": [
+        {
+            "1": "0.5 pound ground beef"
+        },
+        {
+            "2": "1 (8 ounce) package spaghetti"
+        },
+        {
+            "3": "1 (28 ounce) jar spaghetti sauce"
+        },
+        {
+            "4": "0.5 cup grated Parmesan cheese"
+        },
+        {
+            "5": "1 (13.8 ounce) can refrigerated pizza dough (such as Pillsbury\u00ae)"
+        },
+        {
+            "6": "2 cups shredded mozzarella cheese"
+        },
+        {
+            "7": "3 tablespoons olive oil"
+        },
+        {
+            "8": "1 clove garlic, minced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. Transfer ground beef to a large bowl."
+        },
+        {
+            "3": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in boiling water, stirring occasionally, until cooked through but firm to the bite, about 12 minutes. Drain. Transfer spaghetti to the bowl with ground beef; mix in spaghetti sauce and Parmesan cheese until well combined."
+        },
+        {
+            "4": "Unroll pizza dough onto a baking sheet. Starting with a long edge, cut the 2 outer thirds of the crust into 1-inch horizontal strips, leaving the center third uncut. Spoon spaghetti mixture onto the center third from top to bottom. Sprinkle mozzarella cheese over spaghetti mixture."
+        },
+        {
+            "5": "Begin braiding by pulling a dough strip across the filling, then pulling another strip from the opposite side over the first strip. Pinch strips together and continue to braid until the filling is covered with braided dough."
+        },
+        {
+            "6": "Mix olive oil and garlic in a small bowl. Brush olive oil mixture over braid."
+        },
+        {
+            "7": "Bake in the preheated oven until the filling is hot and crust is golden brown, 25 to 30 minutes. Cut into slices to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "675"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "78g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F15c2bc349a60f380315e082de45a6527%2F2143720.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1115239.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Instant Pot\u00ae Polenta",
+    "Category": "Polenta",
+    "Ingredients": [
+        {
+            "1": "2.25 cups water"
+        },
+        {
+            "2": "1 cup polenta"
+        },
+        {
+            "3": "0.5 teaspoon salt"
+        },
+        {
+            "4": "3 tablespoons butter"
+        },
+        {
+            "5": "2 tablespoons heavy cream"
+        },
+        {
+            "6": "0.5 cup grated Parmigiano-Reggiano cheese"
+        },
+        {
+            "7": "0.5 cup grated Pecorino Romano cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk water, polenta, and salt together in a multi-functional pressure cooker (such as Instant Pot\u00ae). Close and lock the lid. Select Porridge setting according to manufacturer's instructions; set timer for 10 minutes. Allow 5 to 10 minutes for pressure to build."
+        },
+        {
+            "2": "Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid. Add butter and cream. Whisk until polenta is smooth and lump-free. Stir in Parmigiano-Reggiano and Pecorino Romano cheeses and whisk until melted and well combined."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "376"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7010593.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6993697.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

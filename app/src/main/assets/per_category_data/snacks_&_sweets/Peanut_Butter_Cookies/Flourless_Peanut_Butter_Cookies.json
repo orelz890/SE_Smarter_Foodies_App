@@ -1,0 +1,63 @@
+{
+    "title": "Flourless Peanut Butter Cookies",
+    "Category": "Peanut Butter Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup peanut butter"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "1  egg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (180 degrees C)."
+        },
+        {
+            "2": "Combine ingredients and drop by teaspoonfuls on cookie sheet. Bake for 8 minutes. Let cool. Recipe doesn't make very many, so you could double recipe as you desire."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "394"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1eaa91377545beaf9aaa281157bf127b%2F1643393932image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9241445.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9207566.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8877463.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/UGwNRq_nxXjLJAr1cVsDtOGd81w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/695277-700493b59ce24d92a8f79eb8496de32c.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

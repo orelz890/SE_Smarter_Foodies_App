@@ -1,0 +1,90 @@
+{
+    "title": "Byrdhouse Spinach Soup",
+    "Category": "Mushroom Soup",
+    "Ingredients": [
+        {
+            "1": "0.25 cup butter"
+        },
+        {
+            "2": "0.25 cup flour"
+        },
+        {
+            "3": "1 (8 ounce) package sliced mushrooms"
+        },
+        {
+            "4": "0.5 cup dry sherry"
+        },
+        {
+            "5": "1 (14.5 ounce) can chicken broth"
+        },
+        {
+            "6": "1 quart milk"
+        },
+        {
+            "7": "2 bunches fresh spinach, cleaned and chopped"
+        },
+        {
+            "8": "4  green onions, chopped"
+        },
+        {
+            "9": "0.5 teaspoon ground nutmeg"
+        },
+        {
+            "10": "1 salt and pepper to taste"
+        },
+        {
+            "11": "8 ounces cooked small shrimp"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a large saucepan over medium heat. Whisk in flour, and cook until the mixture turns a darker yellow color, about 5 minutes. Stir in the mushrooms, and cook for 2 minutes."
+        },
+        {
+            "2": "Whisk in the sherry, chicken broth, and milk, then add the spinach, green onion, nutmeg, salt, and pepper. Bring to a boil over high heat, whisking constantly, then reduce heat to medium low, and simmer until the spinach is tender, 15 to 20 minutes. Garnish with shrimp to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "267"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7694559.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F405338.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F66248.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

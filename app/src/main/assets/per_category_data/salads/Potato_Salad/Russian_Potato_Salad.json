@@ -1,0 +1,75 @@
+{
+    "title": "Russian Potato Salad",
+    "Category": "Potato Salad",
+    "Ingredients": [
+        {
+            "1": "5 large potatoes"
+        },
+        {
+            "2": "1 (16 ounce) package turkey hot dogs"
+        },
+        {
+            "3": "5  eggs"
+        },
+        {
+            "4": "5 large dill pickles, chopped"
+        },
+        {
+            "5": "1 bunch green onions, chopped"
+        },
+        {
+            "6": "1 (15 ounce) can baby peas, drained"
+        },
+        {
+            "7": "1 salt to taste"
+        },
+        {
+            "8": "1 cup mayonnaise"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the potatoes in a large pot, and fill with enough water to cover. Bring to a boil, and cook until a fork can be easily inserted and removed, about 20 minutes. Drain and cool slightly. During the last 10 minutes, boil the hot dogs and eggs. Drain everything, and set aside to cool."
+        },
+        {
+            "2": "Peel the potatoes, and cut into cubes. Chop hot dogs. Place everything in a large bowl, and mix in the pickles, onions and peas. Peel the eggs, and grate them on top of the salad. Add mayonnaise and salt to individual servings."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "478"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "43g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6378d236cb454236403ee1a0514e8f3a%2F2278114.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

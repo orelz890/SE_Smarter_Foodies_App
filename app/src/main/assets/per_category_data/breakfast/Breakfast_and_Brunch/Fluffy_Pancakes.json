@@ -1,0 +1,99 @@
+{
+    "title": "Fluffy Pancakes",
+    "Category": "Breakfast and Brunch",
+    "Ingredients": [
+        {
+            "1": "0.75 cup milk"
+        },
+        {
+            "2": "2 tablespoons white vinegar"
+        },
+        {
+            "3": "1 cup all-purpose flour"
+        },
+        {
+            "4": "2 tablespoons white sugar"
+        },
+        {
+            "5": "1 teaspoon baking powder"
+        },
+        {
+            "6": "0.5 teaspoon baking soda"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "1  egg"
+        },
+        {
+            "9": "2 tablespoons butter, melted"
+        },
+        {
+            "10": "1 cooking spray"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine milk with vinegar in a medium bowl and set aside for 5 minutes to sour."
+        },
+        {
+            "2": "Combine flour, sugar, baking powder, baking soda, and salt in a large mixing bowl. Whisk egg and butter into soured milk. Pour the flour mixture into the milk mixture and whisk until lumps are gone."
+        },
+        {
+            "3": "Heat a large skillet over medium heat, and coat it with cooking spray. Pour 1/4 cupfuls of batter onto the skillet, and cook until bubbles form and the edges are dry, about 2 to 3 minutes. Flip with a spatula, and cook until browned on the other side. Repeat with remaining batter."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "8 pancakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "230"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa00858d7699f407658c53b0eceb97bd6%2F1667665604415IMG_4480.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa729352a4acaa8bf4ccdbcf64bc2b0c6%2F1664220004E6D6BA32-6F31-4D0E-A450-8205C6792933.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa729352a4acaa8bf4ccdbcf64bc2b0c6%2F166205372216620537063087010762153419675578.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa729352a4acaa8bf4ccdbcf64bc2b0c6%2F1660483805A68F3749-5A76-4CEE-84C3-E6DC8951DBA9.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/-sJA-wD73BFTzei2azbuX1H1qhY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8238127-fdc1472b72764a0ba8e20193916187ec.jpg"
+        }
+    ],
+    "main category": "breakfast"
+}

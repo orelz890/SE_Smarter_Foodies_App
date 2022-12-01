@@ -1,0 +1,99 @@
+{
+    "title": "Grilled BBQ Meatloaf",
+    "Category": "Meatloaf",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds ground beef"
+        },
+        {
+            "2": "0.5 pounds ground pork"
+        },
+        {
+            "3": "2 cups dry bread crumbs"
+        },
+        {
+            "4": "1 cup finely chopped sweet onion (such as Vidalia\u00ae)"
+        },
+        {
+            "5": "1  egg, beaten"
+        },
+        {
+            "6": "1 teaspoon Worcestershire sauce"
+        },
+        {
+            "7": "1 teaspoon minced garlic"
+        },
+        {
+            "8": "1 teaspoon dried tarragon"
+        },
+        {
+            "9": "1 teaspoon sea salt"
+        },
+        {
+            "10": "1 teaspoon ground black pepper"
+        },
+        {
+            "11": "0.5 cup barbeque sauce"
+        },
+        {
+            "12": "0.5 cup ketchup"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for medium heat, and scrape the grates clean. Spray grates with nonstick cooking spray."
+        },
+        {
+            "2": "In a bowl, mix together the ground beef, ground pork, bread crumbs, onion, egg, Worcestershire sauce, garlic, tarragon, sea salt, and black pepper. Divide the mixture in half, and form 2 loaves, each about 4 inches in diameter and 6 inches long. In a small bowl, mix the barbecue sauce with ketchup until well combined."
+        },
+        {
+            "3": "Place each meatloaf directly on the prepared grill grates, then spread each with about 3 tablespoons of barbecue sauce mixture; grill until the loaves reach an internal temperature of at least 160 degrees F (73 degrees C), about 1 hour."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "2 meatloaves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "656"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "42g"
+        },
+        {
+            "Protein": "46g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F86f544080711ff10cd5b1a71a49ff6fb%2F1659398091IMG_20220801_195234597_HDR.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8360928.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8320940.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8001668.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

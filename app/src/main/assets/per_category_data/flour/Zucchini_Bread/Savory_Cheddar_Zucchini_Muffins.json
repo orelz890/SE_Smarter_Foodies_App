@@ -1,0 +1,105 @@
+{
+    "title": "Savory Cheddar Zucchini Muffins",
+    "Category": "Zucchini Bread",
+    "Ingredients": [
+        {
+            "1": "0.75 cups all-purpose flour"
+        },
+        {
+            "2": "0.5 teaspoons baking powder"
+        },
+        {
+            "3": "1 teaspoon baking soda"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.25 cup butter, melted"
+        },
+        {
+            "6": "1  egg, lightly beaten"
+        },
+        {
+            "7": "1 cup milk"
+        },
+        {
+            "8": "1 cup shredded unpeeled zucchini"
+        },
+        {
+            "9": "1 clove garlic, minced"
+        },
+        {
+            "10": "0.75 cup shredded Cheddar cheese"
+        },
+        {
+            "11": "0.25 cup freshly grated Parmesan cheese"
+        },
+        {
+            "12": "4 slices bacon, cooked crisp and crumbled"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Spray 12 muffin cups with cooking spray."
+        },
+        {
+            "2": "Mix the flour, baking powder, baking soda, and salt in a bowl."
+        },
+        {
+            "3": "In another bowl, stir together the butter, egg, milk, zucchini, and garlic until well blended. Mix the flour mixture into the milk mixture, about 1/2 cup at a time, stirring between additions, until the flour mixture is incorporated. Fold in the Cheddar cheese, Parmesan cheese, and crumbled bacon, and pour the batter into the prepared muffin cups."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted into the center of a muffin comes out clean, 30 to 35 minutes. Allow muffins to cool slightly before removing from muffin cups; serve warm. Refrigerate leftovers."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 muffins"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "171"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9350582.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8245026.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6951552.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4510246.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

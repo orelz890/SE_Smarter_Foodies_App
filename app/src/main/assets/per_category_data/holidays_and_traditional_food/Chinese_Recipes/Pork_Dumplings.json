@@ -1,0 +1,93 @@
+{
+    "title": "Pork Dumplings",
+    "Category": "Chinese Recipes",
+    "Ingredients": [
+        {
+            "1": "100  (3.5 inch square) wonton wrappers"
+        },
+        {
+            "2": "0.75 pounds ground pork"
+        },
+        {
+            "3": "1 tablespoon minced fresh ginger root"
+        },
+        {
+            "4": "4 cloves garlic, minced"
+        },
+        {
+            "5": "2 tablespoons thinly sliced green onion"
+        },
+        {
+            "6": "4 tablespoons soy sauce"
+        },
+        {
+            "7": "3 tablespoons sesame oil"
+        },
+        {
+            "8": "1  egg, beaten"
+        },
+        {
+            "9": "5 cups finely shredded Chinese cabbage"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, combine the pork, ginger, garlic, green onion, soy sauce, sesame oil, egg and cabbage. Stir until well mixed."
+        },
+        {
+            "2": "Place 1 heaping teaspoon of pork filling onto each wonton skin. Moisten edges with water and fold edges over to form a triangle shape. Roll edges slightly to seal in filling. Set dumplings aside on a lightly floured surface until ready to cook."
+        },
+        {
+            "3": "Arrange dumplings in a covered bamboo or metal steamer so they don't touch to prevent them from sticking together; steam for 15 minutes, or until pork is cooked through."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "45 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "100 dumplings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "752"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "81g"
+        },
+        {
+            "Protein": "39g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7f69ee4611e7dba7c60fe416932029c6%2F166431866020220927_131749.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9178704.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9090489.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9090493.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/BYt7P6GSs792uB2ynitRxfTQ3qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/102329015-Pork-Dumplings-resize-916b0027f8e64f94b28bef36fbff9cfe.png"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

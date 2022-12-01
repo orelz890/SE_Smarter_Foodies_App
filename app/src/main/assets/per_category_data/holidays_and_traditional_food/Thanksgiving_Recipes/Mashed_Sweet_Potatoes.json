@@ -1,0 +1,78 @@
+{
+    "title": "Mashed Sweet Potatoes",
+    "Category": "Thanksgiving Recipes",
+    "Ingredients": [
+        {
+            "1": "6 medium sweet potatoes, peeled and cubed"
+        },
+        {
+            "2": "0.75 cup warm 2% milk, or as needed"
+        },
+        {
+            "3": "0.5 cup softened butter, cut into chunks"
+        },
+        {
+            "4": "0.75 cup maple syrup, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of salted water to a boil. Add sweet potatoes, reduce the heat to medium-low, and simmer until tender, 20 to 30 minutes. Drain and transfer to a bowl."
+        },
+        {
+            "2": "Mash potatoes with a potato masher. Slowly mix in 1/2 cup warm milk at a time until desired consistency is reached. Stir in butter and maple syrup until well blended and butter is melted. Serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "353"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "51g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9420984.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9165668.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9133566.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8981344.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/HhxHZjzmTx--LZQ2cI6RdbdRy_4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21220-smashed-sweet-potatoes-mfs362-feb1bfc9aa4c40109ee7716f7c324eaa.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/XFQqvNE6ga-8iI-bEr6Sa2sMA6g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/102393161-Mashed-Sweet-Potatoes-Photo-by-Meredith-415b9ae9f09a44f3b88c7a6b55544bd5.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/0y9J3G8B0UhYJaOrDx5AHjmEhAk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21220_Mashed-Sweet-Potatoes_hungryallweighs_4576638_original-1x1-1-c642295fab21453184f91a00092efc4d.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

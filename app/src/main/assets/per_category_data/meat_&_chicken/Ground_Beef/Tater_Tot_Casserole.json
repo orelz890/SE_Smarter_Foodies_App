@@ -1,0 +1,81 @@
+{
+    "title": "Tater Tot Casserole",
+    "Category": "Ground Beef",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1 (10.5 ounce) can condensed cream of mushroom soup"
+        },
+        {
+            "3": "1 salt and ground black pepper to taste"
+        },
+        {
+            "4": "1 (16 ounce) package frozen tater tots"
+        },
+        {
+            "5": "2 cups shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until completely browned and crumbly, 7 to 10 minutes. Stir in condensed soup; season with salt and black pepper."
+        },
+        {
+            "3": "Transfer beef mixture to a 9x13-inch baking dish; layer tater tots evenly on top and sprinkle with Cheddar cheese."
+        },
+        {
+            "4": "Bake in the preheated oven until tater tots are golden brown and hot, 30 to 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "345"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F77cb0bc010354953721c82a52464496e%2F1665728365361IMG_20221014_021837569.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5c482eff1ab81ad7e17223f7a3f8ef85%2F166416767620220925_223212.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5c482eff1ab81ad7e17223f7a3f8ef85%2F166338720016633871694463269449428632972427.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5c482eff1ab81ad7e17223f7a3f8ef85%2F1663286306image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/dDOvm6tWSWem701GfPbzglYL9Uc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7665864-b47330e1504c49c291b33d2217c4ddae.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

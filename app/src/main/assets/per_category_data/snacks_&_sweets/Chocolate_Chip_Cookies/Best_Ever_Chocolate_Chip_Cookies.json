@@ -1,0 +1,99 @@
+{
+    "title": "Best Ever Chocolate Chip Cookies",
+    "Category": "Chocolate Chip Cookies",
+    "Ingredients": [
+        {
+            "1": "0.5 cups all-purpose flour"
+        },
+        {
+            "2": "1 teaspoon baking soda"
+        },
+        {
+            "3": "0.5 teaspoon salt"
+        },
+        {
+            "4": "1 cup unsalted butter, softened"
+        },
+        {
+            "5": "0.75 cup white sugar"
+        },
+        {
+            "6": "2 large eggs"
+        },
+        {
+            "7": "2 teaspoons vanilla extract"
+        },
+        {
+            "8": "2 cups jumbo semisweet chocolate chips"
+        },
+        {
+            "9": "1 cup white chocolate chips"
+        },
+        {
+            "10": "0.5 cups chopped walnuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Sift flour, baking soda, and salt together into a bowl."
+        },
+        {
+            "3": "Cream butter and sugar with an electric mixer in a large bowl until smooth. Add eggs, one at a time, mixing well after each addition. Stir in vanilla. Gradually mix in dry ingredients until a soft dough forms. Stir in chocolate chips, white chocolate chips, and walnuts until incorporated. Drop dough by spoonfuls onto ungreased baking sheets, spacing about 2 inches apart."
+        },
+        {
+            "4": "Bake in the preheated oven until light golden brown, 8 to 11 minutes. Remove from the oven and cool on the baking sheets for 5 minutes before removing to a wire rack to cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "42 "
+        },
+        {
+            "Yield": "42 cookies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "174"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F48e7df4acf55036c77db9aed56cdbb32%2F165344490920220524_114345.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9039687.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8190799.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8026110.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Frijoles Refritos (Refried Beans)",
+    "Category": "Refried Beans",
+    "Ingredients": [
+        {
+            "1": "5 quarts water, or as needed"
+        },
+        {
+            "2": "1 pound pinto beans, washed"
+        },
+        {
+            "3": "2 cloves garlic, peeled and smashed"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "1 canola oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine water, pinto beans, and garlic into a large pot and cover; Cook over low heat for 5 1/2 hours; stir salt into beans and continue cooking until beans are very soft, about 30 minutes more."
+        },
+        {
+            "2": "Heat canola oil in a skillet over high heat. Spoon the beans into the skillet without draining excess water; mash beans using a potato masher until they begin to lose their shape, about 3 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 6 hrs 3 mins"
+        },
+        {
+            "Total Time": " 6 hrs 18 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "215"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8084727.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa867ffb82f40cd170adebcd69e2817a4%2F6253240.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9b43bd43d8900cbb983e5afd45e5332c%2F5439506.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4289533.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

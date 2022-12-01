@@ -1,0 +1,84 @@
+{
+    "title": "Gumdrop Cake",
+    "Category": "Fruitcake",
+    "Ingredients": [
+        {
+            "1": "1 cup butter"
+        },
+        {
+            "2": "2 cups white sugar"
+        },
+        {
+            "3": "3  eggs"
+        },
+        {
+            "4": "1 cup warm water (110 degrees F/45 degrees C)"
+        },
+        {
+            "5": "1.5 cups all-purpose flour"
+        },
+        {
+            "6": "0.5 teaspoons baking powder"
+        },
+        {
+            "7": "0.5 teaspoons salt"
+        },
+        {
+            "8": "1 teaspoon lemon extract"
+        },
+        {
+            "9": "1 teaspoon vanilla extract"
+        },
+        {
+            "10": "1 cup gumdrops, chopped"
+        },
+        {
+            "11": "1 cup raisins"
+        },
+        {
+            "12": "0.25 cup all-purpose flour for coating"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees (175 degrees C). Grease and flour 10 inch tube pan. Set aside."
+        },
+        {
+            "2": "In a large mixing bowl, cream butter and sugar until light and fluffy. Beat in the eggs, one at a time."
+        },
+        {
+            "3": "In a separate bowl, sift dry ingredients together and fold into creamed mixture alternately with water. Coat raisins and gumdrops with flour. Stir flavorings, gumdrops and raisins into creamed mixture."
+        },
+        {
+            "4": "Mix well and pour into prepared pan. Bake for 1 1/2 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "626"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "106g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F132493.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Easy Shredded Pork",
+    "Category": "Pulled Pork",
+    "Ingredients": [
+        {
+            "1": "3 tablespoons paprika"
+        },
+        {
+            "2": "1 tablespoon garlic powder"
+        },
+        {
+            "3": "1 tablespoon brown sugar"
+        },
+        {
+            "4": "1 tablespoon dry mustard"
+        },
+        {
+            "5": "3 tablespoons kosher salt"
+        },
+        {
+            "6": "2 (7 pound) pork shoulder roasts"
+        },
+        {
+            "7": "4 (20 ounce) bottles barbeque sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix paprika, garlic powder, brown sugar, dry mustard, and kosher salt together in a small bowl; spread evenly over the pork roasts. Refrigerate the seasoned roasts at least 3 hours."
+        },
+        {
+            "2": "Preheat the oven to 300 degrees F (150 degrees C). Place pork roasts into a large roasting pan."
+        },
+        {
+            "3": "Bake the roasts in the preheated oven until pork is tender and shreds easily with two forks, 4 to 6 hours."
+        },
+        {
+            "4": "Shred the pork and place into a large pot over medium heat. Mix the meat with barbeque sauce. Bring the mixture to a simmer and cook until the flavors have blended, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 4 hrs 30 mins"
+        },
+        {
+            "Additional Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 7 hrs 45 mins"
+        },
+        {
+            "Servings": "28 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "418"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8116986.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F9db215e37ddeba5ac6bc81f44d07872f%2F3198295.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3198163.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1040537.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Rouxless Gumbo",
+    "Category": "Gumbo",
+    "Ingredients": [
+        {
+            "1": "1 (2 to 3 pound) whole chicken"
+        },
+        {
+            "2": "1 tablespoon butter"
+        },
+        {
+            "3": "1 large onion, chopped"
+        },
+        {
+            "4": "1  green bell pepper, chopped"
+        },
+        {
+            "5": "2 stalks celery, chopped"
+        },
+        {
+            "6": "3 cloves garlic, minced"
+        },
+        {
+            "7": "1 (14.5 ounce) can diced tomatoes"
+        },
+        {
+            "8": "0.5 (10 ounce) can diced tomatoes with green chilies, undrained"
+        },
+        {
+            "9": "2 cups sliced andouille sausage"
+        },
+        {
+            "10": "2 cups okra"
+        },
+        {
+            "11": "0.75 cup frozen corn"
+        },
+        {
+            "12": "1 salt to taste"
+        },
+        {
+            "13": "1 ground black pepper to taste"
+        },
+        {
+            "14": "0.5 teaspoon cayenne pepper"
+        },
+        {
+            "15": "1 cup uncooked medium shrimp, peeled and deveined (Optional)"
+        },
+        {
+            "16": "2 teaspoons file powder"
+        },
+        {
+            "17": "4 cups cooked rice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place chicken in a large pot; add enough water to cover. Cover the pot and bring to a boil; reduce heat to medium-low and simmer until meat falls off the bone, about 90 minutes. Remove chicken, let cool, and shred meat; skim broth and reserve."
+        },
+        {
+            "2": "Melt butter in a large skillet over medium heat; cook and stir onions, bell pepper, and celery until tender, about 5 minutes. Stir in garlic and cook until fragrant, about 1 minute. Add diced tomatoes, tomatoes with green chilies, andouille sausage, okra, corn, salt, pepper, cayenne pepper, and reserved broth; bring to a gentle boil over medium-high heat. Simmer until liquid is reduced by half, about 30 minutes."
+        },
+        {
+            "3": "Mix shredded chicken and shrimp into the skillet; simmer until shrimp turns bright pink and okra is tender, 5 to 7 minutes. Remove the skillet from heat and stir in file powder. Serve with rice."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 2 hrs 10 mins"
+        },
+        {
+            "Total Time": " 2 hrs 25 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "432"
+        },
+        {
+            "Fat": "30g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8619951.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8627102.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8512127.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7905738.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

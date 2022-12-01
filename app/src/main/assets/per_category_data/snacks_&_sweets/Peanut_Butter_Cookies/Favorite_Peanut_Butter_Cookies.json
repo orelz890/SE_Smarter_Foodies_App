@@ -1,0 +1,90 @@
+{
+    "title": "Favorite Peanut Butter Cookies",
+    "Category": "Peanut Butter Cookies",
+    "Ingredients": [
+        {
+            "1": "0.25 cups creamy peanut butter"
+        },
+        {
+            "2": "1 cup margarine"
+        },
+        {
+            "3": "0.75 cup white sugar"
+        },
+        {
+            "4": "0.75 cup packed light brown sugar"
+        },
+        {
+            "5": "2  eggs"
+        },
+        {
+            "6": "0.5 teaspoon vanilla extract"
+        },
+        {
+            "7": "0.5 cups all-purpose flour"
+        },
+        {
+            "8": "1 teaspoon baking powder"
+        },
+        {
+            "9": "1 teaspoon baking soda"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "In a large bowl, cream together the peanut butter, margarine, brown sugar and white sugar. Beat in the eggs and vanilla. Combine the flour, baking powder and baking soda; stir into the peanut butter mixture. Form dough into walnut sized balls and place them 2 inches apart onto ungreased cookie sheets. Dip a fork into flour and criss cross each cookie to flatten slightly."
+        },
+        {
+            "3": "Bake for 12 to 15 minutes in the preheated oven, until just lightly browned. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "54 "
+        },
+        {
+            "Yield": "4 1/2 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "109"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9439055.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8876725.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8218495.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8117152.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

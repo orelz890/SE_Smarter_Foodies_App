@@ -1,0 +1,87 @@
+{
+    "title": "Apple Oatmeal Crisp",
+    "Category": "Crisps and Crumbles",
+    "Ingredients": [
+        {
+            "1": "1 cup brown sugar"
+        },
+        {
+            "2": "1 cup rolled oats"
+        },
+        {
+            "3": "1 cup all-purpose flour"
+        },
+        {
+            "4": "0.5 cup butter, melted"
+        },
+        {
+            "5": "3 cups apples - peeled, cored and chopped"
+        },
+        {
+            "6": "0.5 cup white sugar"
+        },
+        {
+            "7": "2 teaspoons ground cinnamon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease an 8-inch square pan."
+        },
+        {
+            "2": "Place brown sugar, oats, flour, and butter in a large bowl; mix until crumbly. Place 1/2 of the crumb mixture in the bottom of the prepared pan. Spread apples evenly over crumb mixture. Sprinkle with sugar and cinnamon; top with remaining crumb mixture."
+        },
+        {
+            "3": "Bake in the preheated oven until golden brown, 40 to 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 8-inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "376"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "65g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0c1fad7bbb7c9831c7bafe8e48b1a65f%2F1668279101250Raspberry-oatmeal-crisp-bars-after-cooking-11-12-2022.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0c1fad7bbb7c9831c7bafe8e48b1a65f%2F1666722471086309E6B0C-222F-4A95-99B7-83B7517135C1.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9012724.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8994049.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/YxiEQAiG-Nv15_82F_OHX4DDU2k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7891959-b79ce5eee76a47e9b321b5219d42c566.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

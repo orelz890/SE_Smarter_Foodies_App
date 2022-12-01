@@ -1,0 +1,99 @@
+{
+    "title": "Sloppy Joe Sandwiches",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "0.5 pound ground beef"
+        },
+        {
+            "2": "0.5  onion, chopped"
+        },
+        {
+            "3": "0.5 cup ketchup"
+        },
+        {
+            "4": "2 tablespoons water"
+        },
+        {
+            "5": "1 tablespoon brown sugar"
+        },
+        {
+            "6": "1 teaspoon Worcestershire sauce"
+        },
+        {
+            "7": "1 teaspoon prepared mustard"
+        },
+        {
+            "8": "1 teaspoon white vinegar"
+        },
+        {
+            "9": "1 teaspoon chili powder"
+        },
+        {
+            "10": "0.25 teaspoon garlic powder"
+        },
+        {
+            "11": "0.25 teaspoon onion powder"
+        },
+        {
+            "12": "0.25 teaspoon salt"
+        },
+        {
+            "13": "2  hamburger buns, split"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large skillet over medium-high heat and stir in ground beef and onion. Cook and stir until beef is crumbly, evenly browned, and no longer pink, about 10 minutes. Drain and discard any excess grease. Stir in ketchup, water, brown sugar, Worcestershire sauce, mustard, vinegar, chili powder, garlic powder, onion powder, and salt."
+        },
+        {
+            "2": "Bring beef mixture to a boil over high heat. Reduce heat to low; cover and simmer until sauce has thickened, 30 to 40 minutes. Serve on buns."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "467"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9383284.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8655404.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8390310.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8207395.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Robin's Blond Brownies",
+    "Category": "Blondies",
+    "Ingredients": [
+        {
+            "1": "6 tablespoons butter, softened"
+        },
+        {
+            "2": "1 cup packed brown sugar"
+        },
+        {
+            "3": "2  eggs"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "0.25 cups all-purpose flour"
+        },
+        {
+            "6": "1 teaspoon baking powder"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "1 cup semisweet chocolate chips"
+        },
+        {
+            "9": "1 cup butterscotch chips"
+        },
+        {
+            "10": "0.5 cup chopped pecans"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease a 11x7x2-inch baking pan."
+        },
+        {
+            "2": "Beat the butter and brown sugar with an electric mixer in a large bowl until smooth. Beat the first egg into the butter until completely blended, then beat in the vanilla with the last egg."
+        },
+        {
+            "3": "Mix flour, baking powder, and salt together in a separate bowl; add to the butter mixture and stir until just incorporated into a batter. Fold chocolate chips, butterscotch chips, and pecans into the batter; spread into the prepared baking dish."
+        },
+        {
+            "4": "Bake in the preheated oven until the top is dry and the edges have started to pull away from the sides of the pan, 25 to 30 minutes. Cool brownies in pan for 10 minutes before moving to a wire rack to cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "180"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8726913.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8727059.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7924479.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe0b3eac213e3b327b2b1cd5b972c6e87%2F6283943.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

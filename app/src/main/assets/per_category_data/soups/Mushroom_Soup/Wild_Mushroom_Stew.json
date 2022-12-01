@@ -1,0 +1,89 @@
+{
+    "title": "Wild Mushroom Stew",
+    "Category": "Mushroom Soup",
+    "Ingredients": [
+        {
+            "1": "3 tablespoons vegetable oil"
+        },
+        {
+            "2": "2 cups beech mushrooms"
+        },
+        {
+            "3": "2 cups oyster mushrooms, sliced"
+        },
+        {
+            "4": "1 cup shiitake mushrooms, chopped"
+        },
+        {
+            "5": "0.5 cup chicken stock"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "1 tablespoon water"
+        },
+        {
+            "8": "1 teaspoon cornstarch"
+        },
+        {
+            "9": "2 tablespoons diced red bell pepper"
+        },
+        {
+            "10": "2 tablespoons sliced green onions"
+        },
+        {
+            "11": "1 teaspoon ground white pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Put a clay pot into a cold oven. Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Heat oil in a wok until shimmering. Add beech, oyster, and shiitake mushrooms. Cook and stir until mushrooms soften and volume is reduced, 3 to 5 minutes. Add chicken stock and salt. Increase heat and bring to a boil. Remove from the heat and transfer mushroom mixture to the preheated clay pot."
+        },
+        {
+            "3": "Turn the oven to 300 degrees F (150 degrees C) and bake the mushrooms for 10 minutes."
+        },
+        {
+            "4": "Stir water and cornstarch together in a small bowl. Remove mushrooms from the oven, add cornstarch mixture, and stir everything evenly. Cover, increase oven to 375 degrees F (190 degrees C), and bake for another 10 minutes."
+        },
+        {
+            "5": "Stir in bell pepper, green onions, and white pepper. Bake for 5 minutes and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "279"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [],
+    "main category": "soups"
+}

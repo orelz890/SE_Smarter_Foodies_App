@@ -1,0 +1,99 @@
+{
+    "title": "Oven Baked BBQ Ribs",
+    "Category": "Pork Ribs",
+    "Ingredients": [
+        {
+            "1": "2 cups sliced onions"
+        },
+        {
+            "2": "2 cups ketchup"
+        },
+        {
+            "3": "2 cups water"
+        },
+        {
+            "4": "4 teaspoons salt"
+        },
+        {
+            "5": "0.25 cup Worcestershire sauce"
+        },
+        {
+            "6": "0.5 cup white vinegar"
+        },
+        {
+            "7": "0.5 cup dark brown sugar"
+        },
+        {
+            "8": "4 teaspoons dry mustard"
+        },
+        {
+            "9": "4 pounds pork spareribs"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "In a large bowl, combine onions, ketchup, water, salt, Worcestershire sauce, vinegar, brown sugar, and mustard. Split ribs down the center between the bones."
+        },
+        {
+            "3": "Heat a large lightly oiled skillet over medium-high heat. Add ribs and sear until browned. This may have to be done in several batches."
+        },
+        {
+            "4": "Place ribs in a single layer in two baking pans or casserole dishes. Pour half of the sauce over the ribs, reserve remainder."
+        },
+        {
+            "5": "Bake ribs in preheated oven for 3 hours. Turn and baste meat every twenty minutes with remaining sauce, using all sauce by two hours. Continue turning and basting ribs using sauce in the pan during the last hour of baking."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "4 to 8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "685"
+        },
+        {
+            "Fat": "41g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "41g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9019941.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8654061.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8519472.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8360707.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/5HD3NW54YiZ4VUtxuSZZC4-CMDg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2143920-oven-baked-bbq-ribs-Dan-DangerMan-Resch-1x1-1-8b4fdb531c144b4987a6a1863a2ffb7b.jpg"
+        }
+    ],
+    "main category": "pork"
+}

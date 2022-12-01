@@ -1,0 +1,84 @@
+{
+    "title": "Rice Cooker Oats",
+    "Category": "Oatmeal",
+    "Ingredients": [
+        {
+            "1": "1 cup quick-cooking oats"
+        },
+        {
+            "2": "1 cup water"
+        },
+        {
+            "3": "1 cup milk"
+        },
+        {
+            "4": "2 tablespoons honey"
+        },
+        {
+            "5": "1 tablespoon white sugar"
+        },
+        {
+            "6": "1 teaspoon vanilla extract"
+        },
+        {
+            "7": "1 pinch salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix oats, water, milk, honey, sugar, vanilla extract, and salt together in a rice cooker."
+        },
+        {
+            "2": "Cook oats in rice cooker until desired consistency is reached, 10 to 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "309"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8999317.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8699790.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3191bcfe1ed4443faf0c492ba3b15dc5%2F7443820.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F97edcfe12660af5dc622c9c4fcae4f66%2F6764388.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/QOXbgoTTaPpW3qw-PRdaHUASdSw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7443820-rice-cooker-oats-Alexis-Stoner-1x1-1-fae0019866c34d63b9131367a6a5e7af.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

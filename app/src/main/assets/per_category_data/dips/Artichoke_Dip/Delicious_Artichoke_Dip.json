@@ -1,0 +1,87 @@
+{
+    "title": "Delicious Artichoke Dip",
+    "Category": "Artichoke Dip",
+    "Ingredients": [
+        {
+            "1": "0.5 cup mayonnaise"
+        },
+        {
+            "2": "0.5 cup sour cream"
+        },
+        {
+            "3": "1 cup grated Parmesan cheese"
+        },
+        {
+            "4": "1 (14 ounce) can artichoke hearts, drained"
+        },
+        {
+            "5": "0.5 cup minced red onion"
+        },
+        {
+            "6": "1 tablespoon lemon juice"
+        },
+        {
+            "7": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion. When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper. Transfer mixture to a shallow baking dish."
+        },
+        {
+            "3": "Bake at 400 degrees F (200 degrees C) for 20 minutes, or until light brown on top."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "7 "
+        },
+        {
+            "Yield": "5 to 8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "221"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fcee40bbf2edc3298721512d52a5cfab7%2F1669186424390delicious-artichoke-dip.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7712607.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4480485.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3092551.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/R3-zd1bIuQHyR2nWExwNjiGzUYI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7712607-dd81270e85184cd987aed1d479b9a07a.jpg"
+        }
+    ],
+    "main category": "dips"
+}

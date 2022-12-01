@@ -1,0 +1,126 @@
+{
+    "title": "Manicotti Alla Romana",
+    "Category": "Manicotti",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil"
+        },
+        {
+            "2": "0.5 cup chopped onion"
+        },
+        {
+            "3": "6 cloves garlic, finely chopped"
+        },
+        {
+            "4": "1 pound ground beef"
+        },
+        {
+            "5": "1 salt to taste"
+        },
+        {
+            "6": "1 (10 ounce) package frozen chopped spinach, thawed and drained"
+        },
+        {
+            "7": "1 (12 ounce) package manicotti shells"
+        },
+        {
+            "8": "2 cups ricotta cheese"
+        },
+        {
+            "9": "2  eggs, beaten"
+        },
+        {
+            "10": "3 cups spaghetti sauce, divided"
+        },
+        {
+            "11": "2 tablespoons butter"
+        },
+        {
+            "12": "2 tablespoons all-purpose flour"
+        },
+        {
+            "13": "2 tablespoons chicken bouillon granules"
+        },
+        {
+            "14": "2 cups half-and-half"
+        },
+        {
+            "15": "0.25 cup chopped fresh parsley"
+        },
+        {
+            "16": "1 tablespoon chopped fresh basil"
+        },
+        {
+            "17": "0.5 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large skillet over medium heat. Saute onions until translucent. Saute garlic for 1 minute and stir in ground beef. Cook until well browned and crumbled. Season with salt and set aside to cool."
+        },
+        {
+            "2": "Cook spinach according to package directions. Meanwhile, bring a large pot of lightly salted water to a boil. Add manicotti shells and parboil for half of the time recommended on the package. Drain and cover with cool water to stop the cooking process and prevent the shells from cracking."
+        },
+        {
+            "3": "To the ground beef mixture add the cooked spinach and ricotta cheese. When the mixture is cool, add the beaten eggs. Spread 1/4 cup spaghetti sauce in the bottom of a 9x13 inch baking dish. Gently drain the manicotti shells and carefully stuff each one with the meat and cheese mixture; place shells in prepared dish. Lightly cover the dish with plastic wrap or a clean, damp towel to prevent shells from cracking."
+        },
+        {
+            "4": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "5": "Prepare the white sauce by melting the butter in a small saucepan over medium heat. Stir in flour and chicken bouillon. Increase heat to medium-high and cook, stirring constantly, until it begins to bubble. Stir in half and half and bring to a boil, stirring frequently. Cook for 1 minute, stirring constantly. Remove from heat and stir in parsley. Pour or ladle the sauce evenly over the stuffed shells."
+        },
+        {
+            "6": "Stir the basil into the remaining spaghetti sauce. Carefully pour or ladle spaghetti sauce over the white sauce, trying to layer the sauces without mixing."
+        },
+        {
+            "7": "Cover and bake for 40 minutes. Remove from oven, uncover and sprinkle with Parmesan cheese. Bake, uncovered, for 10 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": " 1 hrs"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 50 mins"
+        },
+        {
+            "Servings": "7 "
+        },
+        {
+            "Yield": "6 to 8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "612"
+        },
+        {
+            "Fat": "30g"
+        },
+        {
+            "Carbs": "59g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe795c980844fba505619adba0465c124%2F1649125513IMG_20220403_194237.png&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9394101.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8934947.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8777777.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

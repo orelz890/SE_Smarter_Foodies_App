@@ -1,0 +1,96 @@
+{
+    "title": "Kuku Sabzi",
+    "Category": "Omelets",
+    "Ingredients": [
+        {
+            "1": "1 large leek"
+        },
+        {
+            "2": "3 tablespoons extra-virgin olive oil, divided"
+        },
+        {
+            "3": "4 large eggs"
+        },
+        {
+            "4": "1 teaspoon baking powder"
+        },
+        {
+            "5": "1 teaspoon ground fenugreek"
+        },
+        {
+            "6": "0.75 teaspoon kosher salt"
+        },
+        {
+            "7": "0.5 teaspoon ground turmeric"
+        },
+        {
+            "8": "0.5 cups finely chopped fresh parsley"
+        },
+        {
+            "9": "1 cup finely chopped fresh cilantro"
+        },
+        {
+            "10": "0.75 cup finely chopped fresh dill"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Slice leek in half lengthwise, then thinly slice crosswise."
+        },
+        {
+            "2": "Heat 1 tablespoon oil in a 10-inch, nonstick, broiler-safe skillet over medium heat. Add leek and cook, stirring occasionally, until softened and cooked through, 8 to 10 minutes. Remove from heat."
+        },
+        {
+            "3": "Preheat the oven's broiler with the rack in the upper third position."
+        },
+        {
+            "4": "Whisk eggs in a large bowl. Add baking powder, fenugreek, salt, and turmeric, and whisk to thoroughly combine. Fold parsley, cilantro, dill, and leeks into eggs. Gently stir to combine; the mixture will be mostly herbs, with just enough egg to wet the mixture through."
+        },
+        {
+            "5": "Heat remaining 2 tablespoons oil in the same skillet over medium heat. Add herb mixture and distribute evenly in the pan, smoothing the top. Cover and cook, undisturbed, until the bottom and edges are just set, about 8 minutes."
+        },
+        {
+            "6": "Remove cover and transfer to the preheated oven. Cook until the top and middle is cooked through, 1 to 2 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "203"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8932071.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8932070.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

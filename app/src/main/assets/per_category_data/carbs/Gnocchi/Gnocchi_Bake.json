@@ -1,0 +1,78 @@
+{
+    "title": "Gnocchi Bake",
+    "Category": "Gnocchi",
+    "Ingredients": [
+        {
+            "1": "1 (18 ounce) package frozen or fresh gnocchi"
+        },
+        {
+            "2": "1 pound bulk Italian sausage"
+        },
+        {
+            "3": "1 (14 ounce) jar spaghetti sauce"
+        },
+        {
+            "4": "0.5 cups shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Add gnocchi, and cook until tender, 5 to 8 minutes."
+        },
+        {
+            "3": "Meanwhile, crumble the sausage into a skillet over medium-high heat. Cook and stir until evenly browned. Drain grease, and stir in the spaghetti sauce. Remove from heat, and carefully mix in the cooked gnocchi and half of the mozzarella cheese. Transfer to a casserole dish. Sprinkle the remaining cheese on top."
+        },
+        {
+            "4": "Bake for 15 to 20 minutes in the preheated oven, until the cheese is melted and the sauce is bubbly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "321"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9179146.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9064216.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8717951.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8490574.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Easy Oven-Baked Real Polenta (Not Instant)",
+    "Category": "Polenta",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "3 cups water"
+        },
+        {
+            "3": "1 cup polenta"
+        },
+        {
+            "4": "1 salt to taste"
+        },
+        {
+            "5": "1 cup mashed butternut squash"
+        },
+        {
+            "6": "0.5 cup sour cream (Optional)"
+        },
+        {
+            "7": "0.5 cup grated Cheddar cheese (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease a 2-quart casserole dish with cooking spray."
+        },
+        {
+            "2": "Pour water into the prepared dish; stir in polenta and salt."
+        },
+        {
+            "3": "Bake in the preheated oven until polenta is thickened, about 40 minutes. Stir in squash, sour cream, and Cheddar cheese. Continue baking until cheese is melted, about 10 minutes more. Let stand for 10 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "305"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8272585.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7939522.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4533948.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

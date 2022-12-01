@@ -1,0 +1,84 @@
+{
+    "title": "Rye Bread Party Pizzas",
+    "Category": "Ground Pork",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1 pound ground pork sausage"
+        },
+        {
+            "3": "1 pound processed cheese food"
+        },
+        {
+            "4": "1 teaspoon Worcestershire sauce"
+        },
+        {
+            "5": "1 tablespoon ketchup"
+        },
+        {
+            "6": "1 (1 pound) loaf cocktail rye bread, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Line a rimmed baking sheet with aluminum foil."
+        },
+        {
+            "2": "Cook beef and sausage in a large, deep skillet over medium-high heat until browned and crumbly, 5 to 7 minutes."
+        },
+        {
+            "3": "Meanwhile, microwave processed cheese food in a large microwave-safe bowl on high until melted, 3 to 4 minutes."
+        },
+        {
+            "4": "Stir Worcestershire sauce and ketchup into melted cheese, then stir in cooked meat until thoroughly combined."
+        },
+        {
+            "5": "Spoon about 2 tablespoons meat and cheese mixture onto each bread slice. Arrange bread in a single layer on the prepared baking sheet."
+        },
+        {
+            "6": "Bake in the preheated oven, in batches if necessary, until lightly browned and crisp, 10 to 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "32 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "193"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8582917.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F821bbb1124ab0cfa8c1fde72921fad73%2F4462182.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F846608.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

@@ -1,0 +1,132 @@
+{
+    "title": "Carrot Cake",
+    "Category": "Fruitcake",
+    "Ingredients": [
+        {
+            "1": "1 Cake-"
+        },
+        {
+            "2": "2 cups white sugar"
+        },
+        {
+            "3": "0.25 cups vegetable oil"
+        },
+        {
+            "4": "4  eggs"
+        },
+        {
+            "5": "2 teaspoons vanilla extract"
+        },
+        {
+            "6": "2 cups all-purpose flour"
+        },
+        {
+            "7": "2 teaspoons baking soda"
+        },
+        {
+            "8": "2 teaspoons baking powder"
+        },
+        {
+            "9": "2 teaspoons ground cinnamon"
+        },
+        {
+            "10": "0.5 teaspoon salt"
+        },
+        {
+            "11": "3 cups grated carrots"
+        },
+        {
+            "12": "1 cup chopped pecans"
+        },
+        {
+            "13": "1 Frosting-"
+        },
+        {
+            "14": "0.5 cup butter, softened"
+        },
+        {
+            "15": "8 ounces cream cheese, softened"
+        },
+        {
+            "16": "4 cups confectioners' sugar"
+        },
+        {
+            "17": "1 teaspoon vanilla extract"
+        },
+        {
+            "18": "1 cup chopped pecans"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch pan."
+        },
+        {
+            "2": "Beat sugar, oil, eggs, and 2 teaspoons vanilla together in a large bowl with an electric mixer until well combined. Mix in flour, baking soda, baking powder, cinnamon, and salt. Stir in carrots. Fold in pecans. Pour into the prepared pan."
+        },
+        {
+            "3": "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, about 40 minutes. Let cool in the pan for 10 minutes, then turn out onto a wire rack and cool completely."
+        },
+        {
+            "4": "To make the frosting: Beat butter, cream cheese, confectioners' sugar, and 1 teaspoon vanilla together in a large bowl with an electric mixer until smooth and creamy. Stir in chopped pecans. Frost the cooled cake."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "1 9x13-inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "575"
+        },
+        {
+            "Fat": "35g"
+        },
+        {
+            "Carbs": "64g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F881c39dd0b0972816f2eee7c32afe028%2F1669297648775Screenshot_20221116-000332_Gallery.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F818428.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd46096af5949a7c9a30b9d505f0fb6ab%2F16574074691F6E345B-A780-4DB2-89AA-7DDB8FEEEF64.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd46096af5949a7c9a30b9d505f0fb6ab%2F1656082056image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/CMnzDixhUPbYNKtPKx25LbI27N0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7402-carrot-cake-iii-sarah-dipity-1x1-1-2e7c90d8c07c47039b4906ec01911015.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/nMm-v4vObPCKPZIBgqmFCezHjJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-6-c9d839ab9b604b58a22857e9e38f7d94.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/0ek8zBaPmq8_fQ3ACfruD1k72bs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easter_carrotCake_012_cce0f25e6b74e5f3e1cbd10e7c22c1f7e21ff267-copy-2000-b3264dad1fdc41a291a820794db8d4db.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

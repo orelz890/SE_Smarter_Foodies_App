@@ -1,0 +1,84 @@
+{
+    "title": "Porcupine Meatballs II",
+    "Category": "Meatballs",
+    "Ingredients": [
+        {
+            "1": "1 (10.75 ounce) can  condensed tomato soup"
+        },
+        {
+            "2": "0.5 cup water"
+        },
+        {
+            "3": "0.5 pounds ground beef"
+        },
+        {
+            "4": "1 cup uncooked instant rice"
+        },
+        {
+            "5": "1 tablespoon minced onion"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "1 dash ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium mixing bowl, combine the tomato soup and the water. Mix thoroughly and set aside."
+        },
+        {
+            "2": "In a large mixing bowl, combine the ground beef, instant rice, onion, salt, pepper and 1/2 cup of the soup mixture. Mix thoroughly, and shape into 1 inch balls."
+        },
+        {
+            "3": "Place meatballs in a large skillet over medium heat. Pour in the remaining soup mixture and bring to a boil. Simmer for 15 to 20 minutes or until meatballs are thoroughly browned and rice is cooked."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "462"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "52g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1a9126bd0029d8e6fd982771c356fdda%2F4061565.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F423450.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F421892.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F401496.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

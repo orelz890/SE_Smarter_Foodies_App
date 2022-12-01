@@ -1,0 +1,96 @@
+{
+    "title": "Broccoli Buffet Salad",
+    "Category": "Broccoli Salad",
+    "Ingredients": [
+        {
+            "1": "1 Dressing-"
+        },
+        {
+            "2": "0.5 cup plain low-fat yogurt"
+        },
+        {
+            "3": "0.25 cup light mayonnaise"
+        },
+        {
+            "4": "2 tablespoons white sugar"
+        },
+        {
+            "5": "1 tablespoon lemon juice"
+        },
+        {
+            "6": "1 Salad-"
+        },
+        {
+            "7": "3 cups broccoli florets"
+        },
+        {
+            "8": "0.5 cup chopped red onion"
+        },
+        {
+            "9": "0.5 cup chopped raisins"
+        },
+        {
+            "10": "0.5 cup crumbled feta cheese"
+        },
+        {
+            "11": "0.25 cup sunflower seeds"
+        },
+        {
+            "12": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Make the dressing: Mix yogurt, mayonnaise, sugar, and lemon juice together in a 2-cup liquid measure."
+        },
+        {
+            "2": "Make the salad: Stir broccoli, onion, raisins, sunflower seeds, and feta together in a salad bowl."
+        },
+        {
+            "3": "Pour dressing over salad and toss to coat. Season with salt and pepper. Cover and refrigerate for 2 hours before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 25 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "119"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9387585.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd974dc520a5482c9e5c8f27be44d38fc%2F5588331.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5590281.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2634227.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

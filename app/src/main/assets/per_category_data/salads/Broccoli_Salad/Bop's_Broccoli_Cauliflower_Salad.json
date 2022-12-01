@@ -1,0 +1,90 @@
+{
+    "title": "Bop's Broccoli Cauliflower Salad",
+    "Category": "Broccoli Salad",
+    "Ingredients": [
+        {
+            "1": "5 slices bacon, or more to taste"
+        },
+        {
+            "2": "1 head fresh broccoli, diced"
+        },
+        {
+            "3": "1 head cauliflower, chopped"
+        },
+        {
+            "4": "0.75 cup shredded sharp Cheddar cheese"
+        },
+        {
+            "5": "0.25  red onion, chopped"
+        },
+        {
+            "6": "0.5 cup creamy salad dressing (such as Miracle Whip\u00ae)"
+        },
+        {
+            "7": "0.5 cup white sugar"
+        },
+        {
+            "8": "2 tablespoons white vinegar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels and crumble."
+        },
+        {
+            "2": "Stir broccoli, cauliflower, Cheddar cheese, and onion together in a large bowl."
+        },
+        {
+            "3": "Whisk creamy salad dressing, sugar, and vinegar together in a separate bowl until sugar is dissolved; pour over broccoli mixture and toss to coat. Refrigerate salad for at least 30 minutes. Stir crumbled bacon into salad just before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "199"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "21g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbfa641735518d5ba7dae23eb4abeac5b%2F5512877.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3cd0934b279f469eef043e89247eb208%2F5455168.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4545628.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1a9c008adc55b700cb3bb01b08a52119%2F1123730.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

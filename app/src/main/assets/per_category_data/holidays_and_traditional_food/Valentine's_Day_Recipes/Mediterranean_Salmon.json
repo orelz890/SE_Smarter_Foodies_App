@@ -1,0 +1,90 @@
+{
+    "title": "Mediterranean Salmon",
+    "Category": "Valentine's Day Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 cup olive oil"
+        },
+        {
+            "2": "0.25 cup balsamic vinegar"
+        },
+        {
+            "3": "4 cloves garlic, pressed"
+        },
+        {
+            "4": "4 (4 ounce) fillets salmon"
+        },
+        {
+            "5": "0.5 teaspoons garlic salt"
+        },
+        {
+            "6": "1 tablespoon chopped fresh cilantro"
+        },
+        {
+            "7": "1 tablespoon chopped fresh basil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix oil and vinegar together in a small bowl."
+        },
+        {
+            "2": "Arrange salmon fillets in a shallow baking dish. Rub garlic over salmon, then pour oil and vinegar mixture over top, turning once to coat. Season with garlic salt, then scatter cilantro and basil over top. Let sit for 10 minutes."
+        },
+        {
+            "3": "Meanwhile, set an oven rack about 6 inches from the heat source and preheat the oven's broiler."
+        },
+        {
+            "4": "Remove salmon from marinade and shake off excess. Discard all but a few tablespoons remaining marinade."
+        },
+        {
+            "5": "Broil salmon in the preheated oven, turning once and brushing occasionally with reserved marinade up until the last 4 minutes, until fish is browned on both sides and flakes easily with a fork, 10 to 12 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "391"
+        },
+        {
+            "Fat": "35g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9312414.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9297938.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9209830.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9209837.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,135 @@
+{
+    "title": "My Chicken Parmesan",
+    "Category": "Chicken Parmesan",
+    "Ingredients": [
+        {
+            "1": "0.5 cup all-purpose flour"
+        },
+        {
+            "2": "0.5 teaspoon salt"
+        },
+        {
+            "3": "0.5 teaspoon garlic powder"
+        },
+        {
+            "4": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "5": "0.25 teaspoon ground cayenne pepper"
+        },
+        {
+            "6": "6  chicken breast tenderloins"
+        },
+        {
+            "7": "1  egg"
+        },
+        {
+            "8": "1 tablespoon half-and-half"
+        },
+        {
+            "9": "1 cup seasoned bread crumbs"
+        },
+        {
+            "10": "0.5 cup panko bread crumbs"
+        },
+        {
+            "11": "0.5 cup grated Parmesan cheese"
+        },
+        {
+            "12": "1 tablespoon minced fresh flat-leaf parsley"
+        },
+        {
+            "13": "2 tablespoons olive oil"
+        },
+        {
+            "14": "3 quarts water"
+        },
+        {
+            "15": "1 tablespoon salt"
+        },
+        {
+            "16": "6 ounces angel hair pasta"
+        },
+        {
+            "17": "0.5 cups prepared marinara sauce, divided"
+        },
+        {
+            "18": "3 ounces shredded Italian cheese blend"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C). Lightly grease a baking dish."
+        },
+        {
+            "2": "Combine flour, 1/2 teaspoon salt, garlic powder, black pepper, and cayenne pepper in a resealable plastic bag. Place chicken tenderloins into flour mixture, seal the bag, and shake to coat."
+        },
+        {
+            "3": "Beat egg and half-and-half thoroughly in a shallow bowl. Mix seasoned break crumbs, panko crumbs, Parmesan cheese, and parsley in another bowl. Dip floured chicken tenderloins into beaten egg, let excess egg drip off, then press chicken into crumb mixture to coat. Let chicken stand for 10 minutes to set coating."
+        },
+        {
+            "4": "Heat olive oil in a large skillet over medium heat; cook chicken tenderloins until the juices run clear, chicken is no longer pink inside, and coating is golden brown, about 5 minutes per side."
+        },
+        {
+            "5": "Bring water and 1 tablespoon salt to a boil in a large pot; stir angel hair pasta into boiling water. Cook pasta, stirring occasionally, until cooked through, about 5 minutes. Drain."
+        },
+        {
+            "6": "Pour 3/4 cup marinara sauce into prepared baking dish; top sauce with cooked angel hair pasta. Pour remaining 3/4 cup sauce over pasta and arrange chicken tenderloins over sauce. Sprinkle Italian cheese blend over chicken."
+        },
+        {
+            "7": "Bake in the preheated oven until cheese topping is melted and bubbling, about 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "695"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "80g"
+        },
+        {
+            "Protein": "41g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8572417.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6929662.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F53f89aa75bf202716813f26b5d953f36%2F5789313.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5648095.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/2YOuKv7kKu-ycTxoFxGMW5PvBSw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-107-5046ed59a27943589ab97f09fd10d9f3.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

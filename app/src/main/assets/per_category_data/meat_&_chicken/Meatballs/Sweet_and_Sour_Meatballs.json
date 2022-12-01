@@ -1,0 +1,102 @@
+{
+    "title": "Sweet and Sour Meatballs",
+    "Category": "Meatballs",
+    "Ingredients": [
+        {
+            "1": "1 Meatballs-"
+        },
+        {
+            "2": "1 pound ground beef"
+        },
+        {
+            "3": "1 cup dry bread crumbs"
+        },
+        {
+            "4": "1  onion, chopped"
+        },
+        {
+            "5": "1  egg"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        },
+        {
+            "7": "1 Sweet and Sour Sauce-"
+        },
+        {
+            "8": "1 cup brown sugar"
+        },
+        {
+            "9": "1 cup water"
+        },
+        {
+            "10": "0.5 cup ketchup"
+        },
+        {
+            "11": "0.5 cup cider vinegar"
+        },
+        {
+            "12": "2 tablespoons soy sauce"
+        },
+        {
+            "13": "2 tablespoons cornstarch"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Make meatballs: Mix beef, bread crumbs, onion, egg, salt, and pepper together in a large bowl until well combined; shape into 1 1/2-inch diameter balls."
+        },
+        {
+            "2": "Cook meatballs in a large nonstick skillet over medium heat until evenly browned and cooked through."
+        },
+        {
+            "3": "Make sauce: Mix brown sugar, water, ketchup, vinegar, soy sauce, and cornstarch together in a medium bowl until smooth."
+        },
+        {
+            "4": "Pour sauce over meatballs. Reduce heat to low and simmer until sauce is thick, 3 to 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "5 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "601"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "71g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc0a000f06d1215d24bc0de926d1f4a76%2F16686487123995753DDF4-2462-4CB4-BA81-980E5690A647.png&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9428330.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8076698.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7768076.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

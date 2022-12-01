@@ -1,0 +1,60 @@
+{
+    "title": "Sugar Free Eggnog",
+    "Category": "Eggnog",
+    "Ingredients": [
+        {
+            "1": "1 (1 ounce) package sugar-free instant vanilla pudding mix"
+        },
+        {
+            "2": "5 cups nonfat milk"
+        },
+        {
+            "3": "1 packet aspartame sweetener"
+        },
+        {
+            "4": "0.25 teaspoon ground cinnamon"
+        },
+        {
+            "5": "1 pinch ground nutmeg"
+        },
+        {
+            "6": "1 teaspoon rum flavored extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large mixing bowl, mix together sugar free vanilla pudding mix, nonfat milk, sweetener, ground cinnamon, dash of nutmeg , and rum extract. Mix these very well with a wire whisk for at least 2 minutes. If this is too thick, add more milk and sweetener."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "5 to 6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "106"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb4ffc083aa97405d3ed93507533af990%2F618413.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2de140f3c94554db3525a88e15655a09%2F618410.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

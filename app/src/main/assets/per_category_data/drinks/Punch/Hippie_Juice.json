@@ -1,0 +1,60 @@
+{
+    "title": "Hippie Juice",
+    "Category": "Punch",
+    "Ingredients": [
+        {
+            "1": "1 (1.75 liter) bottle raspberry lemonade (such as Simply Lemonade\u00ae)"
+        },
+        {
+            "2": "0.5 cups watermelon vodka"
+        },
+        {
+            "3": "0.5 cup coconut-flavored rum (such as Malibu\u00ae)"
+        },
+        {
+            "4": "0.5 cup triple sec"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Pour 2 1/2 cups raspberry lemonade out of the bottle into a glass measuring cup."
+        },
+        {
+            "2": "Pour watermelon vodka, coconut-flavored rum, and triple sec into the bottle; stir to combine. Fill bottle back to the top with raspberry lemonade from the measuring cup. Refrigerate until serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "7 "
+        },
+        {
+            "Yield": "7 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "336"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6995978.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

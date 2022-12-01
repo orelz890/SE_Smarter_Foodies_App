@@ -1,0 +1,81 @@
+{
+    "title": "Peanut Butter Cookie in a Mug",
+    "Category": "Peanut Butter Cookies",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon butter"
+        },
+        {
+            "2": "1 tablespoon peanut butter"
+        },
+        {
+            "3": "1 tablespoon brown sugar"
+        },
+        {
+            "4": "1 tablespoon white sugar"
+        },
+        {
+            "5": "1 pinch salt"
+        },
+        {
+            "6": "1  egg"
+        },
+        {
+            "7": "3 tablespoons all-purpose flour"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place butter and peanut butter in a microwave-safe mug. Microwave until butter and peanut butter are melted, about 30 seconds. Stir brown sugar, white sugar, and salt into butter mixture. Add egg; stir flour into mixture."
+        },
+        {
+            "2": "Cook in the microwave until cookie is set, 2 to 4 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "227"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429719.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8082812.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F17ad74fed6c8290534645e948b5eb60c%2F4471163.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3957436.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Potato and Zucchini Frittata",
+    "Category": "Omelets",
+    "Ingredients": [
+        {
+            "1": "2 large potatoes, peeled and sliced"
+        },
+        {
+            "2": "1 tablespoon olive oil"
+        },
+        {
+            "3": "2  zucchini, sliced"
+        },
+        {
+            "4": "1 large onion, finely chopped"
+        },
+        {
+            "5": "8  eggs"
+        },
+        {
+            "6": "1 teaspoon dried oregano"
+        },
+        {
+            "7": "1 teaspoon cayenne pepper"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of water to a boil. Add potatoes and boil for 5 minutes. Drain and set aside."
+        },
+        {
+            "2": "Heat oil in a deep cast iron skillet over medium heat. Add zucchini and onion; saute until golden, 5 to 7 minutes. Add drained potatoes and stir gently to incorporate."
+        },
+        {
+            "3": "Beat eggs in a bowl with oregano, cayenne pepper, salt, and pepper. Pour egg mixture into the skillet until evenly distributed; stir gently with a fork. Cook until eggs are set, 5 to 10 minutes."
+        },
+        {
+            "4": "Meanwhile, set an oven rack about 6 inches from the heat source and preheat the oven's broiler. Transfer skillet into the broiler and cook until golden brown, about 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "325"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F317867.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

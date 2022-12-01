@@ -1,0 +1,93 @@
+{
+    "title": "Best Ever Irish Soda Bread",
+    "Category": "Irish Soda Bread",
+    "Ingredients": [
+        {
+            "1": "4 cups all-purpose flour"
+        },
+        {
+            "2": "0.75 cup white sugar"
+        },
+        {
+            "3": "1 teaspoon salt"
+        },
+        {
+            "4": "1 teaspoon baking powder"
+        },
+        {
+            "5": "1 teaspoon baking soda"
+        },
+        {
+            "6": "0.5 cup butter, at room temperature"
+        },
+        {
+            "7": "0.5 cups raisins"
+        },
+        {
+            "8": "0.5 cups buttermilk, at room temperature"
+        },
+        {
+            "9": "3  eggs, at room temperature"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch cake pan."
+        },
+        {
+            "2": "Stir together the flour, sugar, salt, baking powder, and baking soda in a large bowl. Using a pastry cutter, cut the butter gently into the flour mixture until well combined, and stir in the raisins. In another bowl, whisk the buttermilk and eggs together; lightly beat the buttermilk mixture into the flour mixture. Place the dough into the prepared cake pan."
+        },
+        {
+            "3": "Bake in the preheated oven until the bread has risen and the top is golden brown, 45 minutes to 1 hour. A knife inserted into the center of the bread should come out clean. Cool the bread in the pan on a wire rack for 10 minutes before removing. Serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9-inch round loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "360"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "62g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5425e847a3935e3c75b3b6dffd9f758b%2F1648819773irish%2520soda%2520bread.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5425e847a3935e3c75b3b6dffd9f758b%2F1647812012Irish%2520Soda%2520Bread.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9101445.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9099658.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,114 @@
+{
+    "title": "Chef John's Shakshuka",
+    "Category": "Vegetable Recipes",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil"
+        },
+        {
+            "2": "1 large onion, diced"
+        },
+        {
+            "3": "0.5 cup sliced fresh mushrooms"
+        },
+        {
+            "4": "1 teaspoon salt, or more to taste"
+        },
+        {
+            "5": "1 cup diced red bell pepper"
+        },
+        {
+            "6": "1  jalapeno pepper, seeded and sliced"
+        },
+        {
+            "7": "1 teaspoon cumin"
+        },
+        {
+            "8": "0.5 teaspoon paprika"
+        },
+        {
+            "9": "0.5 teaspoon ground turmeric"
+        },
+        {
+            "10": "0.5 teaspoon freshly ground black pepper, plus more to taste"
+        },
+        {
+            "11": "0.25 teaspoon cayenne pepper"
+        },
+        {
+            "12": "1 (28 ounce) can crushed San Marzano tomatoes, or other high-quality plum tomatoes"
+        },
+        {
+            "13": "0.5 cup water, or more as needed"
+        },
+        {
+            "14": "6  large eggs"
+        },
+        {
+            "15": "2 tablespoons crumbled feta cheese"
+        },
+        {
+            "16": "2 tablespoons chopped fresh parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a large, heavy skillet over medium-high heat. Add onions and mushrooms. Sprinkle with salt. Cook and stir until mushrooms release all of their liquid and start to brown, about 10 minutes. Stir in bell peppers and jalapeno pepper. Cook and stir until peppers begin to soften up, about 5 minutes. Season with cumin, paprika, turmeric, black pepper, and cayenne. Stir and cook to wake up the flavors, about 1 minute. Pour in crushed tomatoes and water. Adjust heat to medium and simmer uncovered until veggies are softened and sweet, stirring occasionally, 15 to 20 minutes. Add more water if sauce becomes too thick."
+        },
+        {
+            "2": "Make a depression in the sauce for each egg with a large spoon. Crack egg into a small ramekin and slide gently into each indentation; repeat with the rest of the eggs. Season with salt and pepper. Cover and cook until eggs are to your desired doneness."
+        },
+        {
+            "3": "Top with feta cheese and parsley."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "185"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F988905fbc00c682680c6204e8cb24b8e%2F1669292452147IMG_20221117_142623917.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F988905fbc00c682680c6204e8cb24b8e%2F16647852251692022-08-18-Shakshuka-2.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb776b4d1916474b2d24b769e3d879fbc%2F1655138136724A5AD1-2990-46EE-AD71-E2AD0306401B.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9428312.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/34V2oRs9SeuyXv_uV_4SjekGi2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245362-Chef-Johns-Shakshukai-DDMFS-1x1-1-9b8332eb939f40dea0c7739c5d1c44c4.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

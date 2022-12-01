@@ -1,0 +1,81 @@
+{
+    "title": "Bread Machine Almond Bread",
+    "Category": "Wheat Bread",
+    "Ingredients": [
+        {
+            "1": "0.25 cups water"
+        },
+        {
+            "2": "4 teaspoons almond oil"
+        },
+        {
+            "3": "1 teaspoon salt"
+        },
+        {
+            "4": "0.25 cup honey"
+        },
+        {
+            "5": "1 cup almond flour"
+        },
+        {
+            "6": "2 cups whole wheat flour"
+        },
+        {
+            "7": "0.25 cup vital wheat gluten"
+        },
+        {
+            "8": "1 teaspoon xanthan gum"
+        },
+        {
+            "9": "1 (.25 ounce) package dry yeast"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine water, almond oil, salt, honey, almond flour, whole wheat flour, vital wheat gluten, xanthan gum, and yeast, respectively in a bread machine. Follow manufacturers' instructions for a 2-pound loaf."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 10 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 pound loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "117"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5898114.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1dcb233b4a460760863402a5cae315ae%2F4478723.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2139556.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

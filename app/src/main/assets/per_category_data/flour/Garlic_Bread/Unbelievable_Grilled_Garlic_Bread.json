@@ -1,0 +1,81 @@
+{
+    "title": "Unbelievable Grilled Garlic Bread",
+    "Category": "Garlic Bread",
+    "Ingredients": [
+        {
+            "1": "1 cup mayonnaise"
+        },
+        {
+            "2": "6 cloves garlic, peeled and minced"
+        },
+        {
+            "3": "0.75 cup grated Parmesan cheese"
+        },
+        {
+            "4": "0.5 cup shredded Cheddar cheese"
+        },
+        {
+            "5": "1 tablespoon half-and-half"
+        },
+        {
+            "6": "0.25 teaspoon paprika"
+        },
+        {
+            "7": "1 (1 pound) loaf French bread, halved lengthwise"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat grill for medium heat."
+        },
+        {
+            "2": "In a medium bowl, mix the mayonnaise, garlic, and Parmesan cheese. In a saucepan over medium-low heat, mix the Cheddar cheese, half-and-half, and paprika. Stir constantly until melted and smooth. Pour into the bowl with mayonnaise mixture, stirring until well blended."
+        },
+        {
+            "3": "Place the French bread on the grill cut side down, and let it toast for a few minutes. Remove from the grill, and spread the cheese mixture on each side. Place the halves back together, and wrap the loaf in aluminum foil. Return to the grill for about 15 minutes, turning occasionally, until the loaf is heated through and the cheese mixture is hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "289"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F44feff1b18775cc962a0634b1ca94f82%2F1030105.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa99de9a5bfa4acf67a39e00db1e51443%2F1017456.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F272899.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

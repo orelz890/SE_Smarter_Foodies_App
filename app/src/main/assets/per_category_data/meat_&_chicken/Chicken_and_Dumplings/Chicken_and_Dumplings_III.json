@@ -1,0 +1,72 @@
+{
+    "title": "Chicken and Dumplings III",
+    "Category": "Chicken and Dumplings",
+    "Ingredients": [
+        {
+            "1": "6  boneless chicken thighs"
+        },
+        {
+            "2": "2 (10.75 ounce) cans  condensed cream of celery soup"
+        },
+        {
+            "3": "1 salt and pepper to taste"
+        },
+        {
+            "4": "1 (12 ounce) package refrigerated biscuit dough"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large pot over high heat, combine the chicken with enough water to cover, and boil for 15 to 20 minutes. Drain some of the water from the pot, reserving 3 cups in the pot. Remove chicken and allow it to cool, then pull it apart into bite size pieces; return to pot."
+        },
+        {
+            "2": "Reduce heat to medium, and add the cans of condensed soup. Season with salt and pepper. Pull the biscuit dough into pieces, and add to the soup. Simmer over medium heat for 7 to 8 minutes, or until the dough is cooked through."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "376"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9300410.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9018556.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8962421.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8736230.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

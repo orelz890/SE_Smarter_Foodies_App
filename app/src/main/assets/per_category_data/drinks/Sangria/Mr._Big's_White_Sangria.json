@@ -1,0 +1,81 @@
+{
+    "title": "Mr. Big's White Sangria",
+    "Category": "Sangria",
+    "Ingredients": [
+        {
+            "1": "3  oranges, thinly sliced"
+        },
+        {
+            "2": "4  lemons, thinly sliced"
+        },
+        {
+            "3": "4  limes, thinly sliced"
+        },
+        {
+            "4": "0.5 cups white sugar"
+        },
+        {
+            "5": "0.5 cup tequila"
+        },
+        {
+            "6": "2 trays ice cubes, or as needed"
+        },
+        {
+            "7": "1 (750 milliliter) bottle dry white wine"
+        },
+        {
+            "8": "1 (750 milliliter) bottle champagne"
+        },
+        {
+            "9": "2 cups club soda"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Put orange slices, lemon slices, and lime slices in a large punch bowl. Pour sugar over the fruit; add tequila and mix gently with a wooden spoon. Let soak 6 hours to overnight."
+        },
+        {
+            "2": "Put plenty of ice in the punch bowl. Pour white wine, champagne, and club soda over the ice. Stir and serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": " 6 hrs"
+        },
+        {
+            "Total Time": " 6 hrs 15 mins"
+        },
+        {
+            "Servings": "13 "
+        },
+        {
+            "Yield": "13 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "218"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7d75f8e8e57c34f09175d8fd775fd37e%2F7381930.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd08d72ee8857d8ab26dd8089631a6f28%2F2293024.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

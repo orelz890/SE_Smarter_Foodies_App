@@ -1,0 +1,105 @@
+{
+    "title": "Steak, Onion, and Pepper Fajitas",
+    "Category": "Fajitas",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds beef round steak"
+        },
+        {
+            "2": "0.5 cup fresh lime juice"
+        },
+        {
+            "3": "0.25 cup tequila"
+        },
+        {
+            "4": "0.5 cup cooking oil"
+        },
+        {
+            "5": "2 tablespoons liquid smoke"
+        },
+        {
+            "6": "1 teaspoon Worcestershire sauce"
+        },
+        {
+            "7": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "8": "0.5 teaspoon salt"
+        },
+        {
+            "9": "0.75 teaspoon paprika"
+        },
+        {
+            "10": "0.75 cup bell peppers, sliced into thin strips"
+        },
+        {
+            "11": "0.5 cup sliced onions"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine steak, lime juice, and tequila in a plastic bag; marinate in the refrigerator for 2 hours."
+        },
+        {
+            "2": "When ready to cook, preheat an outdoor grill for high heat and lightly oil grate."
+        },
+        {
+            "3": "Remove steak from marinade and shake off excess. Discard remaining marinade."
+        },
+        {
+            "4": "Grill steak on the preheated grill until no longer pink on the inside, about 8 minutes per side. Remove from the grill and slice into 1/4-inch strips. Arrange strips on a serving plate."
+        },
+        {
+            "5": "Heat oil in a skillet over medium heat. Add liquid smoke, Worcestershire sauce, paprika, salt, and pepper; stir to combine. When the mixture is hot, add bell peppers and onions; cook until peppers are tender."
+        },
+        {
+            "6": "Pour pepper and onion mixture over steak strips and serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 50 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "357"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8848587.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8285871.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8128799.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F32f4b84fdb809fd9b7c000f8da0987da%2F670455.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

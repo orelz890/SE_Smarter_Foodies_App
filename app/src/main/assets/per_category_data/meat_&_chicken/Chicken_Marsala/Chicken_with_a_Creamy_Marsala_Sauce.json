@@ -1,0 +1,93 @@
+{
+    "title": "Chicken with a Creamy Marsala Sauce",
+    "Category": "Chicken Marsala",
+    "Ingredients": [
+        {
+            "1": "0.25 cup all-purpose flour"
+        },
+        {
+            "2": "1 salt and ground black pepper to taste"
+        },
+        {
+            "3": "2 pounds chicken tenders"
+        },
+        {
+            "4": "2 tablespoons olive oil"
+        },
+        {
+            "5": "2 tablespoons butter"
+        },
+        {
+            "6": "0.5 cup Marsala wine"
+        },
+        {
+            "7": "0.5 cup chicken stock"
+        },
+        {
+            "8": "1 cup heavy whipping cream"
+        },
+        {
+            "9": "1 teaspoon ground mustard"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix flour, salt, and pepper in a shallow dish. Press chicken tenders in the flour to coat completely; shake gently to remove any excess flour."
+        },
+        {
+            "2": "Heat olive oil in a large skillet over medium, tilting the pan to coat the cooking surface in oil. Melt the butter in the skillet. Cook the chicken tenders in the hot butter until evenly browned, 7 to 8 minutes."
+        },
+        {
+            "3": "Pour the Marsala wine into the skillet and bring to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon; cook until the wine is hot, about 30 seconds. Pour chicken stock into the skillet."
+        },
+        {
+            "4": "Stir heavy cream and mustard together in a bowl; add to the skillet. Bring the mixture to a simmer and cook another 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "825"
+        },
+        {
+            "Fat": "46g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "79g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8358238.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7776500.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7713721.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F169c830c300238c0510d659ace202554%2F7543483.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

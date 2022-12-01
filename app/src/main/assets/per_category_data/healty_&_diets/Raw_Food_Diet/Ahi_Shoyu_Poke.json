@@ -1,0 +1,84 @@
+{
+    "title": "Ahi Shoyu Poke",
+    "Category": "Raw Food Diet",
+    "Ingredients": [
+        {
+            "1": "1 pound fresh ahi steaks, cut into small cubes"
+        },
+        {
+            "2": "0.25 cup soy sauce"
+        },
+        {
+            "3": "0.25 cup chopped Maui onion"
+        },
+        {
+            "4": "0.25 cup chopped green onion"
+        },
+        {
+            "5": "1  chile pepper, seeded and diced (Optional)"
+        },
+        {
+            "6": "2 teaspoons sesame oil"
+        },
+        {
+            "7": "2 teaspoons toasted sesame seeds (Optional)"
+        },
+        {
+            "8": "2 teaspoons finely chopped toasted macadamia nuts (Optional)"
+        },
+        {
+            "9": "1 teaspoon grated fresh ginger"
+        },
+        {
+            "10": "1 sea salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine ahi cubes, soy sauce, Maui onion, green onion, chile pepper, sesame oil, sesame seeds, macadamia nuts, ginger, and sea salt in a large bowl."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "1 pound"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "191"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8c65243f234f7782dd390e0dce29a14e%2F1662690537image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9234064.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9158802.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8466863.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

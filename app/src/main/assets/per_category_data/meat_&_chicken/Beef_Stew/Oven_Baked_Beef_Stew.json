@@ -1,0 +1,87 @@
+{
+    "title": "Oven-Baked Beef Stew",
+    "Category": "Beef Stew",
+    "Ingredients": [
+        {
+            "1": "0.25 cup flour, or as needed"
+        },
+        {
+            "2": "0.75 pound cubed beef stew meat"
+        },
+        {
+            "3": "2 tablespoons olive oil"
+        },
+        {
+            "4": "1  onion, chopped"
+        },
+        {
+            "5": "1 stalk celery, chopped"
+        },
+        {
+            "6": "4  carrots, peeled and chopped"
+        },
+        {
+            "7": "4 cloves garlic, minced"
+        },
+        {
+            "8": "2 cups beef broth"
+        },
+        {
+            "9": "2  bay leaves"
+        },
+        {
+            "10": "1 salt and freshly ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 300 degrees F (150 degrees C)."
+        },
+        {
+            "2": "Pour flour into a shallow bowl and turn beef in flour, shaking meat to remove excess flour. Heat oil in an ovenproof casserole dish over high heat. Brown beef cubes in hot oil in batches on all sides, about 5 minutes per batch. Transfer beef to a plate."
+        },
+        {
+            "3": "Add onion, celery, and carrots to the casserole dish, reduce heat to medium, and cook until softened, about 5 minutes. Add garlic and cook for 1 minute. Pour in broth. Return beef to the casserole dish and stir in bay leaves. Cover casserole."
+        },
+        {
+            "4": "Bake in the preheated oven until beef is tender, 1 1/2 to 2 hours. Remove bay leaves before serving and season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 50 mins"
+        },
+        {
+            "Total Time": " 2 hrs 10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "254"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5867047.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

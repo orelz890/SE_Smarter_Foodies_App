@@ -1,0 +1,96 @@
+{
+    "title": "Best Brioche French Toast",
+    "Category": "French Toast",
+    "Ingredients": [
+        {
+            "1": "0.5 cups milk"
+        },
+        {
+            "2": "4 large eggs"
+        },
+        {
+            "3": "1 teaspoon vanilla extract"
+        },
+        {
+            "4": "1 teaspoon white sugar"
+        },
+        {
+            "5": "0.5 teaspoon ground nutmeg"
+        },
+        {
+            "6": "1 pinch salt"
+        },
+        {
+            "7": "1 tablespoon butter, divided, or more as needed"
+        },
+        {
+            "8": "6 (1 inch) thick slices dry brioche bread"
+        },
+        {
+            "9": "0.25 cup butter"
+        },
+        {
+            "10": "6 tablespoons maple syrup, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Whisk milk, eggs, vanilla, sugar, nutmeg, and salt together in a bowl."
+        },
+        {
+            "3": "Heat 1 1/2 teaspoons butter in a skillet over medium heat. Working in batches, dip each slice of brioche bread in the egg mixture and cook in the hot butter until golden, 2 to 3 minutes per side, adding more butter as needed. Transfer French toast to a baking sheet."
+        },
+        {
+            "4": "Bake in the preheated oven until puffed, 8 to 10 minutes."
+        },
+        {
+            "5": "Cook and stir 1/4 cup butter in a skillet over medium-low heat until browned and toasty, 3 to 5 minutes. Transfer browned butter to a cold dish. Drizzle browned butter over baked French toast and top each slice with 1 tablespoon maple syrup."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "732"
+        },
+        {
+            "Fat": "37g"
+        },
+        {
+            "Carbs": "80g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8232265.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8037178.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7679367.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F842416bd36270059b99f76d807522898%2F7534693.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

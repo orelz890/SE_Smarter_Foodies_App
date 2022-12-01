@@ -1,0 +1,105 @@
+{
+    "title": "Unsloppy Joes",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "0.5 cup chopped onion"
+        },
+        {
+            "3": "0.5 cup chopped celery"
+        },
+        {
+            "4": "0.5 cup chopped carrots"
+        },
+        {
+            "5": "0.5 cup chopped green bell pepper"
+        },
+        {
+            "6": "1 clove garlic, minced"
+        },
+        {
+            "7": "1 (14.5 ounce) can diced tomatoes"
+        },
+        {
+            "8": "0.5 tablespoons chili powder"
+        },
+        {
+            "9": "1 tablespoon tomato paste"
+        },
+        {
+            "10": "1 tablespoon distilled white vinegar"
+        },
+        {
+            "11": "1 teaspoon ground black pepper"
+        },
+        {
+            "12": "1 (15 ounce) can kidney beans, drained and rinsed"
+        },
+        {
+            "13": "8  kaiser rolls"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a large skillet over medium heat. Add onion, celery, carrot, green pepper, and garlic: saute until tender. Stir in tomatoes, chili powder, tomato paste, vinegar, and pepper. Cover, reduce heat, and simmer 10 minutes."
+        },
+        {
+            "2": "Stir in kidney beans, and cook an additional 5 minutes."
+        },
+        {
+            "3": "Cut a 1/4 inch slice off the top of each kaiser roll; set aside. Hollow out the center of each roll, leaving about 1/2 inch thick shells; reserve the inside of rolls for other uses."
+        },
+        {
+            "4": "Spoon bean mixture evenly into rolls and replace tops. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "204"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3379581.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F615477.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F615476.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F170222.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

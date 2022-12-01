@@ -1,0 +1,90 @@
+{
+    "title": "Oyakodon (Japanese Chicken and Egg Rice Bowl)",
+    "Category": "Lunch Recipes",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "4  skinless, boneless chicken thighs, cut into small pieces"
+        },
+        {
+            "3": "1  onion, cut in half and sliced"
+        },
+        {
+            "4": "2 cups dashi stock, made with dashi powder"
+        },
+        {
+            "5": "0.25 cup soy sauce"
+        },
+        {
+            "6": "3 tablespoons mirin (Japanese rice wine)"
+        },
+        {
+            "7": "3 tablespoons brown sugar"
+        },
+        {
+            "8": "4 large eggs"
+        },
+        {
+            "9": "4 cups hot cooked white rice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large skillet over medium heat. Add chicken and cook until beginning to brown, about 5 minutes. Add onion; cook and stir until onion is translucent, about 5 minutes."
+        },
+        {
+            "2": "Pour in stock, then whisk in soy sauce, mirin, and brown sugar; stir until sugar dissolves. Bring to a boil, then lower heat and simmer until slightly reduced, about 10 minutes."
+        },
+        {
+            "3": "Whisk eggs in a bowl until well-beaten, then pour into the hot stock mixture. Cover the skillet, reduce the heat, and steam until egg is cooked, about 5 minutes. Remove from the heat."
+        },
+        {
+            "4": "Divide rice among 4 deep soup bowls and top with equal amounts of the soup mixture."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "688"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "98g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9187722.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7947979.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbfa3c8d2e08f9b14b3792117668adc9c%2F6502146.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5831348.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "lunch"
+}

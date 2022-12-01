@@ -1,0 +1,99 @@
+{
+    "title": "Grandma's Crispy Pork Wontons",
+    "Category": "Ground Pork",
+    "Ingredients": [
+        {
+            "1": "1 pound ground pork"
+        },
+        {
+            "2": "1 cup diced celery"
+        },
+        {
+            "3": "1 cup shredded carrot"
+        },
+        {
+            "4": "1 cup diced onion"
+        },
+        {
+            "5": "3 cloves garlic, minced"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "1 tablespoon ground black pepper"
+        },
+        {
+            "8": "0.25 cup soy sauce"
+        },
+        {
+            "9": "1 (14 ounce) package wonton wrappers"
+        },
+        {
+            "10": "2  eggs, beaten"
+        },
+        {
+            "11": "1 quart canola oil for frying"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix together the ground pork, celery, carrot, onion, and garlic in a bowl. Season with salt, pepper, and soy sauce; mix with your hands until well blended."
+        },
+        {
+            "2": "Separate the wonton wrappers and lay them out on a clean surface. Spoon 1 teaspoon of the pork mixture into the center of each wrapper. Moisten the edges of the wonton wrappers with beaten egg, fold over the filling to form a triangle, and press together to seal. Place the finished wontons on a baking sheet."
+        },
+        {
+            "3": "Heat the canola oil in a deep fryer or large saucepan to 365 degrees F (180 degrees C)."
+        },
+        {
+            "4": "Fry the wontons, about 6 at a time, until they turn golden brown and float to the top, 3 to 4 minutes. Remove, and drain on a paper towel-lined plate."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": " 1 hrs"
+        },
+        {
+            "Cook Time": "24 mins"
+        },
+        {
+            "Total Time": " 1 hrs 24 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "4 dozen wontons"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "266"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9037609.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fccc2e0507e534883ea1c8b3812167648%2F7663490.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5477135.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4565281.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

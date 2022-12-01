@@ -1,0 +1,87 @@
+{
+    "title": "Simple Roasted Butternut Squash",
+    "Category": "Winter Squash Recipes",
+    "Ingredients": [
+        {
+            "1": "1 medium butternut squash"
+        },
+        {
+            "2": "2 tablespoons olive oil"
+        },
+        {
+            "3": "2 cloves garlic, minced"
+        },
+        {
+            "4": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Peel butternut squash with a sharp vegetable peeler. Cut in half lengthwise; scoop out and discard seeds. Cut halves into 1-inch slices, then cut slices into 1-inch cubes."
+        },
+        {
+            "3": "Combine butternut squash cubes, olive oil, and garlic in a large bowl and toss until well coated. Season with salt and pepper. Arrange in a single layer on a baking sheet."
+        },
+        {
+            "4": "Roast in the preheated oven until squash is lightly browned and tender when pierced with a fork, 25 to 35 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "177"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd2df0e757c856fb4d8f9db4dda9bde8a%2F164869498816486949730765440947160419398184.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd2df0e757c856fb4d8f9db4dda9bde8a%2F16441475614EF02BF9-4A39-4E7C-AE05-0EC1BC753BE5.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429335.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9425512.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/_F-00nXj5qp6hICLiMM5aB5XqPU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229733_simple-roasted-butternut-squash_1x1-Rita-6cec93e777d047b4858aabdfa46fdf26.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/-ncnFjRmZoXU-jteVakSMwB_J1k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229733-simple-roasted-butternut-squash-sunnydaysnora-2x1-1-2000-de82865976104cd58c3dac44dfce1c1f.jpg"
+        },
+        {
+            "img7": "https://www.allrecipes.com/thmb/iXzUMkH3wE0pieU0-tb8gnKVXXA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/457357220Simple20Roasted20Butternut20Squash20Photo20by20Billie20Holiday20650x465-867b28d30ed04457861392c876e380e0.jpg"
+        },
+        {
+            "img8": "https://www.allrecipes.com/thmb/_F-00nXj5qp6hICLiMM5aB5XqPU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229733_simple-roasted-butternut-squash_1x1-Rita-6cec93e777d047b4858aabdfa46fdf26.jpg"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}

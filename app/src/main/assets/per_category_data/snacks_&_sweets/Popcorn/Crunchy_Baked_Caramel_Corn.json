@@ -1,0 +1,87 @@
+{
+    "title": "Crunchy Baked Caramel Corn",
+    "Category": "Popcorn",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons vegetable oil"
+        },
+        {
+            "2": "0.5 cup unpopped popcorn"
+        },
+        {
+            "3": "2 cups dark brown sugar"
+        },
+        {
+            "4": "1 cup butter"
+        },
+        {
+            "5": "0.5 cup white corn syrup"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "0.5 teaspoon vanilla extract"
+        },
+        {
+            "8": "0.5 teaspoon baking soda"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 250 degrees F (120 degrees C)."
+        },
+        {
+            "2": "Heat oil in a large saucepan over medium-high heat. Put 4 popcorn kernels into the oil and cover until popped; add remaining kernels to the saucepan in an even layer. Cover and remove from heat, about 30 seconds. Return to heat and gently shake pan back and forth over the burner until popping slows to several seconds between pops, 1 to 2 minutes. Remove from heat and transfer to a large bowl."
+        },
+        {
+            "3": "Combine brown sugar, butter, corn syrup, and salt in a 2-quart saucepan. Bring to a boil, stirring constantly. Let boil for 5 minutes more without stirring. Remove from heat and stir in vanilla extract and baking soda. Stir well. Pour over the popcorn; mix until evenly coated. Transfer to a shallow oven-safe pan."
+        },
+        {
+            "4": "Bake in the preheated oven, stirring every 15 minutes, until a cooled piece of popcorn is crunchy, about 1 hour."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 12 mins"
+        },
+        {
+            "Total Time": " 1 hrs 22 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "439"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "63g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9009715.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd37ff883086038a9df370ee6e3856f1f%2F7467060.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8413c7ebba684bc9a080cc93a13a8eac%2F4567275.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

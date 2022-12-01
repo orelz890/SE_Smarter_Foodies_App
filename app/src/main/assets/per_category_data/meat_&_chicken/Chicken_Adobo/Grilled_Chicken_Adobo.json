@@ -1,0 +1,90 @@
+{
+    "title": "Grilled Chicken Adobo",
+    "Category": "Chicken Adobo",
+    "Ingredients": [
+        {
+            "1": "0.5 cups soy sauce"
+        },
+        {
+            "2": "0.5 cups water"
+        },
+        {
+            "3": "0.75 cup vinegar"
+        },
+        {
+            "4": "3 tablespoons honey"
+        },
+        {
+            "5": "0.5 tablespoons minced garlic"
+        },
+        {
+            "6": "3  bay leaves"
+        },
+        {
+            "7": "0.5 teaspoon black pepper"
+        },
+        {
+            "8": "3 pounds skinless, boneless chicken thighs"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for high heat, and lightly oil grate."
+        },
+        {
+            "2": "In a large pot, mix soy sauce, water, vinegar, honey, garlic, bay leaves, and pepper. Bring the mixture to a boil, and place the chicken into the pot. Reduce heat, cover, and cook 35 to 40 minutes."
+        },
+        {
+            "3": "Remove chicken, drain on paper towels, and set aside. Discard bay leaves. Return the mixture to a boil, and cook until reduced to about 1 1/2 cups."
+        },
+        {
+            "4": "Place chicken on the prepared grill, about 5 minutes on each side, until browned and crisp. Serve with the remaining soy sauce mixture."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "255"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "37g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8770935.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5626910.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4519165.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4508035.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

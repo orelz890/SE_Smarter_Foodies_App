@@ -1,0 +1,102 @@
+{
+    "title": "Gingersnap Cookies",
+    "Category": "Gingersnaps",
+    "Ingredients": [
+        {
+            "1": "1 cup butter, softened"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "0.25 cup molasses"
+        },
+        {
+            "5": "1.0 cups all-purpose flour"
+        },
+        {
+            "6": "2 teaspoons baking soda"
+        },
+        {
+            "7": "1 teaspoon ground ginger"
+        },
+        {
+            "8": "1 teaspoon ground cinnamon"
+        },
+        {
+            "9": "0.5 teaspoon salt"
+        },
+        {
+            "10": "0.25 teaspoon ground cloves"
+        },
+        {
+            "11": "0.5 cup white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Beat butter and 1 cup sugar together with an electric mixer in a large bowl until creamy. Add egg and beat until smooth. Stir molasses into the butter mixture until completely integrated."
+        },
+        {
+            "3": "Sift flour, baking soda, ginger, cinnamon, salt, and cloves together in a separate bowl; add to the butter mixture and mix until you have a dough. Divide and shape the dough into 36 balls."
+        },
+        {
+            "4": "Put 1/2 cup sugar in a wide, shallow bowl. Roll dough balls in sugar to coat and arrange onto a baking sheet."
+        },
+        {
+            "5": "Bake in preheated oven until beginning to crisp around the edges, 13 to 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "36 "
+        },
+        {
+            "Yield": "36 cookies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "118"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8049484.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6421031.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8881123.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7469608.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

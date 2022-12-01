@@ -1,0 +1,99 @@
+{
+    "title": "Mad Hatter Salad",
+    "Category": "Coleslaw",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package coleslaw mix"
+        },
+        {
+            "2": "1 head fresh broccoli, cut into florets"
+        },
+        {
+            "3": "8  green onions, chopped"
+        },
+        {
+            "4": "0.5 cup butter or margarine"
+        },
+        {
+            "5": "2 (3 ounce) packages chicken flavored ramen noodles"
+        },
+        {
+            "6": "1 cup slivered almonds"
+        },
+        {
+            "7": "1 cup unsalted sunflower seeds"
+        },
+        {
+            "8": "0.5 cup white sugar"
+        },
+        {
+            "9": "0.5 cup vegetable oil"
+        },
+        {
+            "10": "0.25 cup apple cider vinegar"
+        },
+        {
+            "11": "1 teaspoon soy sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Toss together coleslaw mix, broccoli, and green onions in a large bowl. Set aside."
+        },
+        {
+            "2": "Melt butter in a large skillet over medium heat. Crumble ramen noodles into a bowl, and mix with almonds and sunflower seeds. Sprinkle ramen seasoning packets over top. Add to the skillet; cook and stir until noodles and nuts are toasted, about 8 minutes."
+        },
+        {
+            "3": "Combine sugar, oil, vinegar, and soy sauce in a jar with a tight-fitting lid. Seal, and shake vigorously to blend."
+        },
+        {
+            "4": "Just before serving, combine the slaw mixture with the nuts and noodles. Pour the dressing over all, and stir briefly to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "395"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4570135.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3920381.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa4572fc52d42963cf5b33e9b79fff556%2F1341196.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd01edf494f479e2fdd7d39403fc11c28%2F1025505.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/7CLUYw91cDR3fb-7IajS16zhyzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1025505-c134a49a38104a25ac138c09f80468a4.jpg"
+        }
+    ],
+    "main category": "salads"
+}

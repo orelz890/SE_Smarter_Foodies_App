@@ -1,0 +1,105 @@
+{
+    "title": "Amazing Pecan Coffee Cake",
+    "Category": "Coffee Cake",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "0.25 teaspoon salt"
+        },
+        {
+            "3": "1 tablespoon baking powder"
+        },
+        {
+            "4": "1 cup butter, softened"
+        },
+        {
+            "5": "1 cup sour cream"
+        },
+        {
+            "6": "0.5 cups white sugar"
+        },
+        {
+            "7": "2  eggs"
+        },
+        {
+            "8": "1 tablespoon vanilla extract"
+        },
+        {
+            "9": "0.5 cup brown sugar"
+        },
+        {
+            "10": "1 cup chopped pecans"
+        },
+        {
+            "11": "1 teaspoon ground cinnamon"
+        },
+        {
+            "12": "2 tablespoons butter, melted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Line a 9x13 inch pan with aluminum foil, and lightly grease with vegetable oil or cooking spray. Sift together the flour, baking powder, and salt; set aside."
+        },
+        {
+            "2": "In a large bowl, cream the butter until light and fluffy. Gradually beat in sour cream, then beat in sugar. Beat in the eggs one at a time, then stir in the vanilla. By hand, fold in the flour mixture, mixing just until incorporated. Spread batter into prepared pan."
+        },
+        {
+            "3": "To make the Pecan Topping: In a medium bowl, mix together brown sugar, pecans and cinnamon. Stir in melted butter until crumbly. Sprinkle over cake batter in pan."
+        },
+        {
+            "4": "Bake in the preheated oven for 30 to 35 minutes, or until a toothpick inserted into the center of the cake comes out clean. Let cool in pan for 10 minutes, then turn out onto a wire rack, and remove foil."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 - 9x13 inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "486"
+        },
+        {
+            "Fat": "30g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9135591.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9061445.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9059608.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9047769.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/B-GYujOomp3d8E58srj76s_7_48=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5763458-46bbc18f3e174b7cbb7fde69bad73570.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

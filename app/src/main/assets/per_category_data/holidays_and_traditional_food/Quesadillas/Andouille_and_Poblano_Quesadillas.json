@@ -1,0 +1,90 @@
+{
+    "title": "Andouille and Poblano Quesadillas",
+    "Category": "Quesadillas",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon canola oil"
+        },
+        {
+            "2": "2  andouille sausage links, finely diced"
+        },
+        {
+            "3": "1  poblano chile, finely diced"
+        },
+        {
+            "4": "0.5  red bell pepper, finely diced"
+        },
+        {
+            "5": "0.5 large red onion, finely diced"
+        },
+        {
+            "6": "0.5 cup frozen corn kernels"
+        },
+        {
+            "7": "4  flour tortillas"
+        },
+        {
+            "8": "2 cups shredded Colby cheese"
+        },
+        {
+            "9": "1 tablespoon canola oil"
+        },
+        {
+            "10": "0.25 cup sour cream (Optional)"
+        },
+        {
+            "11": "0.25 cup salsa (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat 1 tablespoon of canola oil in a large skillet over medium heat. Stir in the diced sausage, poblano pepper, red pepper, red onion, and corn. Cook until soft, about 15 minutes."
+        },
+        {
+            "2": "Spoon 1/4 of the sausage mixture on one half of each tortilla; top each with 1/2 cup cheese. Fold over tortillas to make a half moon shapes. Repeat with remaining ingredients."
+        },
+        {
+            "3": "Heat the remaining 1 tablespoon of canola oil in large skillet over medium heat. Cook quesadillas until the cheese is melted and the tortilla is brown and crispy, about 5 minutes per side. Cut each quesadilla into 4 wedges, and top with sour cream and salsa, if desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 quesadillas"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "598"
+        },
+        {
+            "Fat": "36g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2a338a5081a2d318ca60cb3ff2016733%2F1668776301726andouille-and-poblano-quesadillas.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F386086.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Fried Rice with Tofu",
+    "Category": "Fried Rice",
+    "Ingredients": [
+        {
+            "1": "0.5 cup tofu"
+        },
+        {
+            "2": "3 tablespoons soy sauce, divided, or to taste"
+        },
+        {
+            "3": "2 tablespoons vegetable oil"
+        },
+        {
+            "4": "0.5  onion, finely chopped"
+        },
+        {
+            "5": "1  carrot, peeled and finely chopped"
+        },
+        {
+            "6": "1.0 cups cooked rice, or to taste"
+        },
+        {
+            "7": "3  eggs"
+        },
+        {
+            "8": "1  tomato, chopped"
+        },
+        {
+            "9": "1 teaspoon white sugar"
+        },
+        {
+            "10": "1 salt to taste"
+        },
+        {
+            "11": "1 ground white pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine tofu and 2 tablespoons soy sauce in a bowl and marinate while you prepare the rest of the ingredients."
+        },
+        {
+            "2": "Heat oil in a skillet over medium heat. Add onions and carrot; cook until lightly browned, about 5 minutes. Add tofu and marinade and cook for 2 to 3 minutes, stirring occasionally. Stir in rice and cook for 3 minutes while stirring."
+        },
+        {
+            "3": "Move all ingredients to one half of the skillet and crack eggs into the empty half. Cook for 2 minutes until eggs start to set. Mix eggs and the rest of the ingredients until well combined. Season with remaining soy sauce and sugar; mix well."
+        },
+        {
+            "4": "Stir tomato into the skillet; cook and mix for 1 minute. Season with salt, white pepper, and more soy sauce if desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "313"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6237705.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

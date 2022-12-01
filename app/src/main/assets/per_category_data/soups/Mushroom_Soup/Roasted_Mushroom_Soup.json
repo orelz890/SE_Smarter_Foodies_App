@@ -1,0 +1,108 @@
+{
+    "title": "Roasted Mushroom Soup",
+    "Category": "Mushroom Soup",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package fresh mushrooms, halved"
+        },
+        {
+            "2": "1 clove garlic, minced"
+        },
+        {
+            "3": "1 teaspoon rosemary"
+        },
+        {
+            "4": "0.25 teaspoon salt"
+        },
+        {
+            "5": "3 tablespoons olive oil"
+        },
+        {
+            "6": "2 tablespoons butter"
+        },
+        {
+            "7": "2  onions, sliced"
+        },
+        {
+            "8": "2 cloves garlic, minced"
+        },
+        {
+            "9": "1 teaspoon chopped fresh thyme"
+        },
+        {
+            "10": "0.5 cup heavy cream, divided"
+        },
+        {
+            "11": "1 (14.5 ounce) can chicken broth"
+        },
+        {
+            "12": "0.5 cup milk"
+        },
+        {
+            "13": "0.25 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Mix the mushrooms, 1 minced clove garlic, rosemary, and salt together in a bowl. Drizzle the olive oil over the mushroom mixture, and toss to coat evenly; transfer to a baking sheet."
+        },
+        {
+            "3": "Roast the mushrooms in the preheated oven until golden brown, about 15 minutes."
+        },
+        {
+            "4": "Melt the butter in a large saucepan over medium heat. Stir the onions, 2 minced cloves garlic, and the thyme into the melted butter; cook and stir until the onions are completely soft, 7 to 10 minutes."
+        },
+        {
+            "5": "Combine the mushroom mixture and the onion mixture in the bowl of a blender or food processor with about half of the heavy cream; blend on low until combined yet slightly chunky. Return the blended mixture to the stockpot. Stir the remaining heavy cream, the chicken broth, milk, and black pepper through the blended mixture; bring the resulting soup to a simmer, and cook until the flavors are thoroughly combined, at least 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "304"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9398174.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9356164.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9071981.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8362478.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "soups"
+}

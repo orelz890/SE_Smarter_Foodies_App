@@ -1,0 +1,84 @@
+{
+    "title": "Gluten-Free Sausage Gravy",
+    "Category": "Gravy",
+    "Ingredients": [
+        {
+            "1": "1 pound bulk pork sausage"
+        },
+        {
+            "2": "1 cup unsalted butter"
+        },
+        {
+            "3": "10 tablespoons gluten-free all purpose baking flour"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "60 grinds black pepper, divided"
+        },
+        {
+            "6": "6 cups milk, divided"
+        },
+        {
+            "7": "1 pinch salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large skillet over medium-high heat. Cook and stir sausage in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. Reduce heat to low."
+        },
+        {
+            "2": "Stir butter into cooked sausage until melted; whisk in flour. Cook, whisking constantly, until mixture is the color of peanut butter, 5 to 10 minutes. Season with 1 teaspoon salt and 30 grinds of black pepper."
+        },
+        {
+            "3": "Increase heat to medium and pour in 3 cups milk. Bring to a simmer, stirring constantly. Stir in remaining 3 cups milk, 1/4 cup at time, allowing mixture to return to a simmer after each addition, 10 to 15 minutes. Continue cooking and stirring until desired thickness is reached, 5 to 10 minutes. Season with 30 grinds of black pepper and salt to taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "247"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcec3685b679a7ed1520a41d6aab5e7d5%2F5577483.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffc8d0484ad3d0e803c02ebbaec71aca4%2F4644951.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F929ef077706d1a4f880efe2d701413ae%2F4195645.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3964872.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

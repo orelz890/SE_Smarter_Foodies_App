@@ -1,0 +1,93 @@
+{
+    "title": "Thai Red Chicken Curry",
+    "Category": "Stir-Fries",
+    "Ingredients": [
+        {
+            "1": "2 teaspoons olive oil"
+        },
+        {
+            "2": "1 pound skinless, boneless chicken breast halves - cut into thin strips"
+        },
+        {
+            "3": "1 tablespoon Thai red curry paste"
+        },
+        {
+            "4": "1 cup sliced halved zucchini"
+        },
+        {
+            "5": "1  red bell pepper, seeded and sliced into strips"
+        },
+        {
+            "6": "0.5 cup sliced carrots"
+        },
+        {
+            "7": "1  onion, quartered then halved"
+        },
+        {
+            "8": "1 tablespoon cornstarch"
+        },
+        {
+            "9": "1 (14 ounce) can light coconut milk"
+        },
+        {
+            "10": "2 tablespoons chopped fresh cilantro"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat the oil in a large skillet over medium-high heat. Add the chicken pieces; cook and stir for about 3 minutes. Mix in the curry paste, zucchini, bell pepper, carrot and onion. Cook and stir for a few minutes."
+        },
+        {
+            "2": "Dissolve the cornstarch in the coconut milk, then pour into the skillet. Bring to a boil, then simmer over medium heat for 1 minutes. Right before serving, stir in the cilantro."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "271"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9262333.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9262416.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8989379.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8250312.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/32uXYH1e_pyiyaVfyc5qK34k5bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/796526-thai-red-chicken-curry-RaniSyn-1x1-1-ca9188fa9d2b499cb6ef70651cfaffac.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

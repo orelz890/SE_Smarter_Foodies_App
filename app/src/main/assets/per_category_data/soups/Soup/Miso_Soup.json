@@ -1,0 +1,72 @@
+{
+    "title": "Miso Soup",
+    "Category": "Soup",
+    "Ingredients": [
+        {
+            "1": "4 cups water"
+        },
+        {
+            "2": "2 teaspoons dashi granules"
+        },
+        {
+            "3": "3 tablespoons miso paste"
+        },
+        {
+            "4": "1 (8 ounce) package silken tofu, diced"
+        },
+        {
+            "5": "2  green onions, sliced diagonally into 1/2 inch pieces"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine water and dashi granules in a medium saucepan over medium-high heat; bring to a boil. Reduce heat to medium and whisk in miso paste. Stir in tofu. Separate the layers of green onions, and add them to the soup. Simmer gently for 2 to 3 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "63"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9189000.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9164445.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9065443.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9025691.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/T7eho8sl1fY9jPYYxarvQ4DG1Ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13107-miso-soup-Melissa-Goff-1x1-1-2962011c74e340fd8afbfaf43ac4b6f2.jpg"
+        }
+    ],
+    "main category": "soups"
+}

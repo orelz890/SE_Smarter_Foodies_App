@@ -1,0 +1,129 @@
+{
+    "title": "Loaded Chicken Potato Soup",
+    "Category": "Potato Soup",
+    "Ingredients": [
+        {
+            "1": "1.0 pounds russet potatoes"
+        },
+        {
+            "2": "2 tablespoons olive oil, divided"
+        },
+        {
+            "3": "1  onion, diced"
+        },
+        {
+            "4": "1 cup diced carrots"
+        },
+        {
+            "5": "2 stalks celery, diced"
+        },
+        {
+            "6": "1 pound skinless, boneless chicken breast halves, cut into chunks"
+        },
+        {
+            "7": "1 teaspoon salt, plus more to taste"
+        },
+        {
+            "8": "0.5 teaspoon ground black pepper, plus more to taste"
+        },
+        {
+            "9": "6 tablespoons butter"
+        },
+        {
+            "10": "2 tablespoons all-purpose flour"
+        },
+        {
+            "11": "3 cups milk"
+        },
+        {
+            "12": "1 cup chicken stock"
+        },
+        {
+            "13": "1 cup bite-size broccoli florets"
+        },
+        {
+            "14": "5 ounces shredded sharp Cheddar cheese, divided"
+        },
+        {
+            "15": "0.5 cup bacon bits, divided"
+        },
+        {
+            "16": "2  green onions, chopped, divided"
+        },
+        {
+            "17": "1 cup sour cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Prick potatoes with a fork, then wrap each potato in aluminum foil."
+        },
+        {
+            "3": "Bake in the preheated oven until potatoes are tender, 1 1/2 to 2 hours. Cool potatoes until easily handled; scoop flesh into a bowl and set aside. Discard skins."
+        },
+        {
+            "4": "Heat 1 tablespoon oil in a large skillet over medium-low heat; cook and stir onion, carrots, and celery in hot oil until tender, 5 to 10 minutes. Remove vegetables to a plate and set aside."
+        },
+        {
+            "5": "Heat remaining 1 tablespoon oil in the same skillet over medium-high heat. Add chicken, 1 teaspoon salt, and 1/2 teaspoon pepper; cook and stir chicken in hot oil until no longer pink in the center and the juices run clear, 5 to 10 minutes. Remove chicken to a plate and set aside."
+        },
+        {
+            "6": "Melt butter in a large saucepan over medium-heat. Stir flour into melted butter and cook until lightly browned, 1 to 2 minutes. Pour milk, about 1/4 cup at a time, into butter-flour mixture; cook, stirring constantly, until sauce is thickened, about 10 minutes."
+        },
+        {
+            "7": "Stir potatoes, onion mixture, chicken, chicken stock, broccoli, most of the Cheddar cheese, 1/2 of the bacon bits, and 1/2 of the green onions into sauce. Cook soup until heated through and broccoli is tender, about 10 minutes; season with salt and pepper. Stir sour cream into soup and cook until heated through, about 5 minutes."
+        },
+        {
+            "8": "Ladle soup into serving bowls and top with remaining bacon bits, Cheddar cheese, and green onions."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 2 hrs 10 mins"
+        },
+        {
+            "Total Time": " 2 hrs 40 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "510"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9019324.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9008321.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7981112.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8326126.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/lLo67nkba0bg7NQKxS5LLjhPBg8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3135382-04057635d9c84269b26e1837c5fe2069.jpg"
+        }
+    ],
+    "main category": "soups"
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Bethy's Cucumber Basil Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "8 cups cold water, divided"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "0.5 cups lemon juice"
+        },
+        {
+            "4": "0.5  cucumber, thinly sliced"
+        },
+        {
+            "5": "10  fresh basil leaves, torn"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine 1 cup water and sugar together in a small saucepan; bring to a boil. Cook and stir until sugar is dissolved, about 5 minutes. Remove saucepan from heat and cool syrup to room temperature."
+        },
+        {
+            "2": "Stir syrup, remaining water, lemon juice, cucumber, and basil together in a pitcher; chill in the refrigerator for at least 2 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "110"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2414519.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

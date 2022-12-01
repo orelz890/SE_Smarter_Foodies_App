@@ -1,0 +1,84 @@
+{
+    "title": "Pressure Cooker Mashed Potatoes",
+    "Category": "Mashed Potatoes",
+    "Ingredients": [
+        {
+            "1": "3 cups cold water, or as needed"
+        },
+        {
+            "2": "1.5 pounds russet potatoes, peeled and sliced 3/4 inch thick"
+        },
+        {
+            "3": "0.25 cup butter"
+        },
+        {
+            "4": "0.5 cup whole milk"
+        },
+        {
+            "5": "2 teaspoons kosher salt"
+        },
+        {
+            "6": "0.5 teaspoon white pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring water to a boil in a pressure cooker over high heat. When water is boiling, add potatoes. Seal lid and bring cooker up to high pressure. Reduce heat to low, maintaining high pressure, and cook for 30 minutes."
+        },
+        {
+            "2": "Use quick-release method to lower the pressure. Drain potatoes and return them to pressure cooker. Add butter and milk and cover pressure cooker with lid for 5 minutes, allowing the heat from the potatoes to melt the butter and warm the milk."
+        },
+        {
+            "3": "Remove lid. Season with kosher salt and white pepper, and use a hand masher to mash potatoes until lumps are mostly gone. Transfer to a bowl and serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "290"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "49g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8632325.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8617340.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F70d9b82efe29e9d25ca6efefbcce5da8%2F1538563.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F909339.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

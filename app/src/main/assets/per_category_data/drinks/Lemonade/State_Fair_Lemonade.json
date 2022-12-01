@@ -1,0 +1,81 @@
+{
+    "title": "State Fair Lemonade",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "6  lemons"
+        },
+        {
+            "2": "0.25 cups white sugar"
+        },
+        {
+            "3": "5 cups cold water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Wash lemons and peel off all the zest using a vegetable peeler; set peeled lemons aside. Add lemon zest to a bowl and cover with sugar; toss to combine. Cover and let sit for a minimum of 2 hours, or up to overnight."
+        },
+        {
+            "2": "Bring water to a boil in a pot over high heat; turn off heat and pour in lemon-sugar mixture. Stir and let sit until sugar is completely dissolved, about 5 minutes."
+        },
+        {
+            "3": "Pour through a mesh strainer back into the same bowl and discard the zest. Let cool to room temperature, 20 to 30 minutes."
+        },
+        {
+            "4": "Cut lemons in half and squeeze juice into the bowl. Pour lemonade into a serving pitcher; cover and chill thoroughly before serving over ice, at least 2 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": " 4 hrs 25 mins"
+        },
+        {
+            "Total Time": " 4 hrs 45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 1/2 quarts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "183"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe489247b9aa1c886d51aa2ed69bf23c4%2F16524084705CFB176F-288F-458F-82DD-87979939D512.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9422799.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8994102.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8561577.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/VsRxCSXiaXuNDXFVLTLb5y1hC30=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8427971-8a7832ba78d54c6398b5a6a116b020c1.jpg"
+        }
+    ],
+    "main category": "drinks"
+}

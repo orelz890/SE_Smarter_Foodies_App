@@ -1,0 +1,81 @@
+{
+    "title": "Tomato Watermelon Salad",
+    "Category": "Fruit Salads",
+    "Ingredients": [
+        {
+            "1": "1 large seedless watermelon, cut into 1-inch cubes"
+        },
+        {
+            "2": "4  tomatoes, cut into 1-inch dice"
+        },
+        {
+            "3": "1 cup crumbled feta cheese"
+        },
+        {
+            "4": "1 large sweet onion, thinly sliced"
+        },
+        {
+            "5": "12  mint leaves, sliced thinly"
+        },
+        {
+            "6": "0.25 cup olive oil"
+        },
+        {
+            "7": "2 tablespoons white balsamic vinegar"
+        },
+        {
+            "8": "1 pinch coarse salt, or to taste"
+        },
+        {
+            "9": "1 pinch ground black pepper, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Gently mix watermelon, tomatoes, feta cheese, onion, and mint in a large bowl."
+        },
+        {
+            "2": "Whisk olive oil, vinegar, salt, and pepper together in a small bowl; drizzle over salad and gently toss to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "314"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "61g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8098703.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8f9f34e366e1a7c33297c9f3a06963c3%2F5555845.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5468352.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4546602.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

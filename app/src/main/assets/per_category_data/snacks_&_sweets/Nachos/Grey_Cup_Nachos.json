@@ -1,0 +1,87 @@
+{
+    "title": "Grey Cup Nachos",
+    "Category": "Nachos",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds ground beef"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "1 (1 ounce) package taco seasoning mix"
+        },
+        {
+            "4": "1  green bell pepper, seeded and chopped"
+        },
+        {
+            "5": "1  jalapeno pepper, seeded and chopped"
+        },
+        {
+            "6": "1 (4 ounce) can sliced mushrooms, drained"
+        },
+        {
+            "7": "1 cup process cheese sauce"
+        },
+        {
+            "8": "2 (13.5 ounce) packages corn tortilla chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the ground beef in a large skillet over medium-high heat. Cook, stirring to crumble, until no longer pink. Add onion and cook until tender. Drain off grease. Stir in the contents of the seasoning packet and any water if needed in order to prepare according to package directions."
+        },
+        {
+            "2": "When the meat is done cooking, add the bell pepper, jalapeno pepper and sliced mushrooms to the skillet, and lower heat to medium. Cook and stir until vegetables are about halfway cooked, 3 to 4 minutes. Stir in the cheese sauce until everything is evenly coated."
+        },
+        {
+            "3": "Serve tortilla chips topped with the meat and cheese sauce, or serve buffet style where each person can top their own nachos."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "967"
+        },
+        {
+            "Fat": "52g"
+        },
+        {
+            "Carbs": "93g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F39a2971e83988613e803898b13e2da27%2F1666757.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff4eac168f9a1d46012a38a5f97fa0043%2F1666783.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F76021f032261c71839abce0c453b6b11%2F1666774.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1993961.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

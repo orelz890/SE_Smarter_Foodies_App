@@ -1,0 +1,93 @@
+{
+    "title": "St. Louis Toasted Ravioli",
+    "Category": "Ravioli",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons whole milk"
+        },
+        {
+            "2": "1  egg"
+        },
+        {
+            "3": "0.75 cup Italian seasoned bread crumbs"
+        },
+        {
+            "4": "0.5 teaspoon salt (Optional)"
+        },
+        {
+            "5": "0.5 (25 ounce) package frozen cheese ravioli, thawed"
+        },
+        {
+            "6": "3 cups vegetable oil for frying"
+        },
+        {
+            "7": "1 tablespoon grated Parmesan cheese"
+        },
+        {
+            "8": "1 (16 ounce) jar spaghetti sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine milk and egg in a small bowl. Place breadcrumbs and if desired, salt in a shallow bowl. Dip ravioli in milk mixture, and coat with breadcrumbs."
+        },
+        {
+            "2": "In a large saucepan, heat marinara sauce over medium heat until bubbling. Reduce the heat to simmer."
+        },
+        {
+            "3": "In a large heavy pan, pour oil to depth of 2 inches. Heat oil over medium heat until a small amount of breading sizzles and turns brown. Fry ravioli, a few at a time, 1 minute on each side or until golden. Drain on paper towels. Sprinkle with Parmesan cheese and serve immediately with hot marinara sauce."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "2 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "374"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "39g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9379309.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9361876.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9290495.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9239496.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/A3dvk8dJy0b9czXUkl7J99mHhgY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16907-st-louis-toasted-ravioli-trusted-brands-0b2f45f61b884412bc790a10e9383c43.jpeg"
+        }
+    ],
+    "main category": "carbs"
+}

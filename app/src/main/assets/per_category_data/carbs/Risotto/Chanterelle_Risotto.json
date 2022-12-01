@@ -1,0 +1,81 @@
+{
+    "title": "Chanterelle Risotto",
+    "Category": "Risotto",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons butter"
+        },
+        {
+            "2": "2 cloves chopped fresh garlic"
+        },
+        {
+            "3": "2 cups sliced chanterelle mushrooms"
+        },
+        {
+            "4": "2 tablespoons butter"
+        },
+        {
+            "5": "2 cups Arborio rice"
+        },
+        {
+            "6": "5 cups vegetable broth"
+        },
+        {
+            "7": "2 cups freshly grated Parmesan cheese"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt 2 tablespoons butter in a large skillet over medium-high heat. Cook and stir garlic and mushrooms in melted butter until mushrooms are slightly browned, about 3 minutes. Set aside."
+        },
+        {
+            "2": "Melt 2 tablespoons butter in a large saucepan over medium heat. Stir in rice; cook for 1 to 2 minutes. Slowly add vegetable broth 1/2 cup at a time, stirring frequently and allowing liquid to be absorbed completely before adding more broth. Continue cooking until rice is tender to the tooth."
+        },
+        {
+            "3": "Stir in mushroom mixture and cook until heated through, about 1 minute. Stir in Parmesan cheese; season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "528"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "69g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9098200.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fe38bad22d8dfd98ef351d63105777542%2F483244.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7e01fcbd822b76289b470ca2c6a4c1e5%2F4103.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

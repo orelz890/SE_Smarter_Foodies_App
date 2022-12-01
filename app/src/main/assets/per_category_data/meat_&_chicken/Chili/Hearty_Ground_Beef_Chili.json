@@ -1,0 +1,99 @@
+{
+    "title": "Hearty Ground Beef Chili",
+    "Category": "Chili",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "0.5 pounds ground beef"
+        },
+        {
+            "3": "1 small onion, chopped"
+        },
+        {
+            "4": "1 stalk celery, chopped"
+        },
+        {
+            "5": "0.5  green bell pepper, chopped"
+        },
+        {
+            "6": "1 (28 ounce) can diced tomatoes"
+        },
+        {
+            "7": "1 (15.5 ounce) can light red beans, drained"
+        },
+        {
+            "8": "1 (15.5 ounce) can dark red beans, drained"
+        },
+        {
+            "9": "1 (15.5 ounce) can black beans, drained"
+        },
+        {
+            "10": "1 (14.5 ounce) can diced tomatoes with green chile peppers"
+        },
+        {
+            "11": "3 tablespoons chili powder, or to taste"
+        },
+        {
+            "12": "2 teaspoons white vinegar"
+        },
+        {
+            "13": "1 sea salt and ground black pepper to taste"
+        },
+        {
+            "14": "1 shredded Cheddar cheese, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a large pot over medium heat. Cook and stir ground beef in the hot pot until browned and crumbly, about 10 minutes. Add onion, celery, and green bell pepper. Cook until onion is translucent, about 5 minutes."
+        },
+        {
+            "2": "Stir diced tomatoes, light red beans, dark red beans, black beans, diced tomatoes with chile peppers, and chili powder into the meat mixture. Bring to a boil. Reduce heat to low and let simmer until chili has started to thicken, about 1 hour. Season with vinegar, salt, and pepper. Garnish with Cheddar cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "353"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9168114.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8864843.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8864746.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

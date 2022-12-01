@@ -1,0 +1,75 @@
+{
+    "title": "Pesto Sauce",
+    "Category": "Pesto Sauce",
+    "Ingredients": [
+        {
+            "1": "3 cups fresh basil leaves"
+        },
+        {
+            "2": "0.5 cups chopped walnuts"
+        },
+        {
+            "3": "4 cloves garlic, peeled"
+        },
+        {
+            "4": "0.25 cup grated Parmesan cheese"
+        },
+        {
+            "5": "1 cup olive oil"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Blend together basil leaves, nuts, garlic, and cheese in a food processor until finely chopped."
+        },
+        {
+            "2": "Pour in oil slowly with the processor running. Season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "16 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "199"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9087265.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8621925.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8568068.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8375117.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/nDinTG6kPcL0IfEJwsWvW44GVKE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/409147-pesto-sauce-5boys2cook4-1x1-1-83f5261499c24532a4913d552bc8d48a.jpg"
+        }
+    ],
+    "main category": "dips"
+}

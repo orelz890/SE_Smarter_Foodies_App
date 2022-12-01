@@ -1,0 +1,87 @@
+{
+    "title": "Shrimp Scampi",
+    "Category": "Shrimp Scampi",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package angel hair pasta"
+        },
+        {
+            "2": "0.5 cup butter"
+        },
+        {
+            "3": "1 pound shrimp, peeled and deveined"
+        },
+        {
+            "4": "4 cloves minced garlic"
+        },
+        {
+            "5": "1 cup dry white wine"
+        },
+        {
+            "6": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "7": "0.75 cup grated Parmesan cheese"
+        },
+        {
+            "8": "1 tablespoon chopped fresh parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook angel hair pasta in the boiling water, stirring occasionally, until tender yet firm to the bite, 4 to 5 minutes. Drain; transfer to a serving bowl and keep warm."
+        },
+        {
+            "2": "Melt butter in a large saucepan over medium heat. Stir in shrimp and garlic. Cook and stir until shrimp turns pink, 3 to 5 minutes. Stir in wine and pepper; bring to a boil. Cook and stir for 30 seconds."
+        },
+        {
+            "3": "Pour shrimp with sauce over pasta in the serving bowl; toss well. Sprinkle with Parmesan cheese and parsley."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "606"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "35g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9395544.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9379311.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9351040.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9270474.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/BTw0lLAKDIME51Y__GfPHojPXkg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/734514-beea29a391854e9d8790a1394662f46d.jpg"
+        }
+    ],
+    "main category": "sea_fruit"
+}

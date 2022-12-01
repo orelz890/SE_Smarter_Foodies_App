@@ -1,0 +1,93 @@
+{
+    "title": "Italian Baked Meatballs",
+    "Category": "Italian Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup Italian-seasoned bread crumbs"
+        },
+        {
+            "2": "0.25 cup grated Romano cheese"
+        },
+        {
+            "3": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "6": "0.5 teaspoon garlic powder"
+        },
+        {
+            "7": "0.5 teaspoon onion powder"
+        },
+        {
+            "8": "0.5 cup water"
+        },
+        {
+            "9": "2  eggs, beaten"
+        },
+        {
+            "10": "0.5 pounds ground beef"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Mix bread crumbs, Romano cheese, parsley, salt, pepper, garlic powder, and onion powder together in a large bowl; stir in water and eggs. Add ground beef and mix until well combined. Form mixture into balls and place on a nonstick baking sheet."
+        },
+        {
+            "3": "Bake in the preheated oven cooked through and evenly browned, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "343"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ffac5cd09b57a957e422d389fbb3dfe9f%2F1666707515556meatballs-.PNG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa5cadfffd8480dc11de203bbd09ee112%2F165912108020220729_113902.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa5cadfffd8480dc11de203bbd09ee112%2F1653919213spagetclose.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa5cadfffd8480dc11de203bbd09ee112%2F165152557820220502_162642.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/F6xI3iTMP-AkccRI936lLguoOlM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5834922-italian-baked-meatballs-kim-1x1-1-c680b12cfaa441d39c517757aa382a39.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

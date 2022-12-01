@@ -1,0 +1,72 @@
+{
+    "title": "Cola-Glazed Ham",
+    "Category": "Main Dishes",
+    "Ingredients": [
+        {
+            "1": "1 cup brown sugar"
+        },
+        {
+            "2": "2 (12 fluid ounce) cans or bottles cola-flavored carbonated beverage"
+        },
+        {
+            "3": "1 (8 pound) baked ham"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 300 degrees F (150 degrees C). Line a 9x13-inch baking dish with aluminum foil."
+        },
+        {
+            "2": "Place brown sugar in a bowl; whisk in just enough cola to dissolve sugar and form a thick glaze. Place ham in baking dish and pour glaze over ham. Add remaining cola to bottom of baking dish."
+        },
+        {
+            "3": "Bake ham in the preheated oven, basting with the glaze occasionally, for 2 hours."
+        },
+        {
+            "4": "Transfer ham to a serving platter; tent with foil for up to 30 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 2 hrs"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 2 hrs 35 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "1 8-pound ham"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "420"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3575389.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3038609.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

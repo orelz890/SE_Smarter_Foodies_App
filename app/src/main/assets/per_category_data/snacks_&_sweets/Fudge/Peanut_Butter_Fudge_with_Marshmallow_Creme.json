@@ -1,0 +1,78 @@
+{
+    "title": "Peanut Butter Fudge with Marshmallow Creme",
+    "Category": "Fudge",
+    "Ingredients": [
+        {
+            "1": "4 cups white sugar"
+        },
+        {
+            "2": "1 cup evaporated milk"
+        },
+        {
+            "3": "0.5 cup margarine"
+        },
+        {
+            "4": "1 cup peanut butter"
+        },
+        {
+            "5": "1 cup marshmallow creme"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Line a 9x13 inch pan with foil or parchment paper."
+        },
+        {
+            "2": "In a medium saucepan, combine the sugar, evaporated milk and butter. Cook over medium heat stirring frequently until it comes to a boil. Boil for 10 minutes, remove from heat and stir in peanut butter and marshmallow creme. Pour into the prepared pan and chill until set. Cut into squares and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "1 9x13 inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "254"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdee9b5f867d583360d2696d4d825450a%2F166318179616631817654008559762178115577266.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8943290.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8882335.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8764195.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

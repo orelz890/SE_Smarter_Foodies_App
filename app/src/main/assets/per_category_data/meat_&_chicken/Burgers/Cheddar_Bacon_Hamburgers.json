@@ -1,0 +1,87 @@
+{
+    "title": "Cheddar Bacon Hamburgers",
+    "Category": "Burgers",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "0.5 cup shredded Cheddar cheese"
+        },
+        {
+            "3": "2 tablespoons prepared horseradish"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.5 teaspoon pepper"
+        },
+        {
+            "6": "0.5 teaspoon garlic powder"
+        },
+        {
+            "7": "0.5 cup real bacon bits"
+        },
+        {
+            "8": "4  hamburger buns"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat grill for high heat."
+        },
+        {
+            "2": "In a large bowl, mix together the ground beef, Cheddar cheese, horseradish, salt, pepper, garlic powder, and bacon bits using your hands. Shape the mixture into 4 hamburger patties."
+        },
+        {
+            "3": "Lightly oil the grill grate. Place hamburger patties on the grill, and cook for 5 minutes per side, or until well done. Serve on buns."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 burgers"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "446"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "34g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9390027.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8246682.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8228532.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7901058.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

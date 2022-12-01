@@ -1,0 +1,66 @@
+{
+    "title": "Chili Taco Popcorn",
+    "Category": "Popcorn",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter, melted"
+        },
+        {
+            "2": "0.5 (1 ounce) package taco seasoning mix"
+        },
+        {
+            "3": "1 dash hot pepper sauce (such as Tabasco\u00ae)"
+        },
+        {
+            "4": "0.5 teaspoon chili powder"
+        },
+        {
+            "5": "1 teaspoon seasoned salt"
+        },
+        {
+            "6": "5 cups popped popcorn"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix butter, taco seasoning, hot pepper sauce, chili powder, and seasoned salt in a large bowl. Stir in popcorn and mix well. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "764"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "125g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F318375.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

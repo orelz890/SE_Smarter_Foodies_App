@@ -1,0 +1,84 @@
+{
+    "title": "Cheese Crackers",
+    "Category": "Crackers",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "1 pinch salt"
+        },
+        {
+            "3": "0.5 teaspoons red pepper flakes"
+        },
+        {
+            "4": "1 pound Cheddar cheese, grated and room temperature"
+        },
+        {
+            "5": "1 cup unsalted butter, melted"
+        },
+        {
+            "6": "2 cups crispy rice cereal (such as Rice Krispies\u00ae)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 300 degrees F (150 degrees C)."
+        },
+        {
+            "2": "Combine flour, salt, and red pepper flakes in a large bowl; add Cheddar cheese and toss until cheese is coated. Pour in melted butter; stir until mixture is moist and crumbly. Add rice cereal and knead by hand until dough is well-blended."
+        },
+        {
+            "3": "Roll dough into 1/2-inch balls; arrange on a baking sheet. Flatten each ball with a fork."
+        },
+        {
+            "4": "Bake in the preheated oven until light and crispy, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "150 "
+        },
+        {
+            "Yield": "150 crackers"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "31"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8986295.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8908225.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2948419.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F0ea34abed00455da663f219db52934cd%2F1648206.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

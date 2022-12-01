@@ -1,0 +1,153 @@
+{
+    "title": "Chicken Biryani",
+    "Category": "Indian Recipes",
+    "Ingredients": [
+        {
+            "1": "4 tablespoons vegetable oil, divided"
+        },
+        {
+            "2": "4 small potatoes, peeled and halved"
+        },
+        {
+            "3": "2 large onions, finely chopped"
+        },
+        {
+            "4": "2 cloves garlic, minced"
+        },
+        {
+            "5": "1 tablespoon minced fresh ginger root"
+        },
+        {
+            "6": "2  medium tomatoes, peeled and chopped"
+        },
+        {
+            "7": "1 teaspoon salt"
+        },
+        {
+            "8": "1 teaspoon ground cumin"
+        },
+        {
+            "9": "0.5 teaspoon chili powder"
+        },
+        {
+            "10": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "11": "0.5 teaspoon ground turmeric"
+        },
+        {
+            "12": "2 tablespoons plain yogurt"
+        },
+        {
+            "13": "2 tablespoons chopped fresh mint leaves"
+        },
+        {
+            "14": "0.5 teaspoon ground cardamom"
+        },
+        {
+            "15": "1 (2 inch) piece cinnamon stick"
+        },
+        {
+            "16": "3 pounds boneless, skinless chicken pieces cut into chunks"
+        },
+        {
+            "17": "1 Rice-"
+        },
+        {
+            "18": "1 pound basmati rice"
+        },
+        {
+            "19": "1.0 tablespoons vegetable oil"
+        },
+        {
+            "20": "1 large onion, diced"
+        },
+        {
+            "21": "5 pods cardamom"
+        },
+        {
+            "22": "3  whole cloves"
+        },
+        {
+            "23": "1 (1 inch) piece cinnamon stick"
+        },
+        {
+            "24": "0.5 teaspoon ground ginger"
+        },
+        {
+            "25": "1 pinch powdered saffron"
+        },
+        {
+            "26": "4 cups chicken stock"
+        },
+        {
+            "27": "0.5 teaspoons salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat 2 tablespoons of oil in a large skillet. Fry potatoes in hot oil until lightly browned, about 3 to 5 minutes. Remove to a paper towel-lined plate to drain; set aside."
+        },
+        {
+            "2": "Add remaining 2 tablespoons of oil to the skillet. Add onions, garlic, and fresh ginger; cook and stir until onion is soft and golden. Add tomatoes, salt, cumin, chili powder, pepper, and turmeric; cook, stirring constantly, for 5 minutes. Stir in yogurt, mint, ground cardamom, and cinnamon stick. Cover and cook over low heat, stirring occasionally, until tomatoes are cooked to a pulp. It may be necessary to add a little hot water if mixture becomes too dry and starts to stick to the pan."
+        },
+        {
+            "3": "Add chicken and stir well to coat. Cover and cook over very low heat until chicken is tender, 35 to 45 minutes. There should only be a little very thick gravy left when chicken is finished cooking. If necessary cook uncovered for a few minutes to reduce the gravy."
+        },
+        {
+            "4": "Meanwhile, make the rice: Wash rice well and drain in a colander for at least 30 minutes."
+        },
+        {
+            "5": "Heat oil in a large skillet. Add onion; cook and stir until golden. Add cardamom pods, cloves, cinnamon stick, ground ginger, and saffron; stir in rice until coated with spices."
+        },
+        {
+            "6": "Heat stock and salt in a medium pot until hot; pour over rice and stir well. Add chicken mixture and potatoes; stir gently to combine. Bring to a boil. Reduce heat to very low, cover with a tight-fitting lid, and steam for 20 minutes without lifting the lid or stirring. Spoon biryani onto a warm serving dish."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 50 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "832"
+        },
+        {
+            "Fat": "35g"
+        },
+        {
+            "Carbs": "79g"
+        },
+        {
+            "Protein": "48g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9307736.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8426316.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8283521.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8124782.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/4AT6ruhq4dPKpPmK_3BGcTqd1vs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1932914-9afbbe1d33a24aef9598f8c8f76bc4a9.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

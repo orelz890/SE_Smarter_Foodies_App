@@ -1,0 +1,84 @@
+{
+    "title": "Proper Pesto",
+    "Category": "Pesto Sauce",
+    "Ingredients": [
+        {
+            "1": "4 cloves garlic, peeled"
+        },
+        {
+            "2": "0.25 teaspoon kosher salt"
+        },
+        {
+            "3": "1 large bunch fresh basil"
+        },
+        {
+            "4": "3 tablespoons pine nuts"
+        },
+        {
+            "5": "2 ounces finely grated Parmigiano-Reggiano cheese"
+        },
+        {
+            "6": "0.5 cup mild extra-virgin olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Crush garlic and pinch of kosher salt in a mortar with the pestle until garlic is mashed and paste-like, 1 or 2 minutes. Add basil in 3 or 4 additions, crushing and pounding down the leaves until they form a fairly fine paste, about 8 minutes or more depending on size of leaves and thickness of stems. Add and pound in pine nuts."
+        },
+        {
+            "2": "Transfer a handful of grated cheese to mortar and pound into the sauce. Add another handful of cheese and incorporate into the mixture. Continue adding cheese a handful at a time until completely incorporated, about 5 minutes."
+        },
+        {
+            "3": "Drizzle in olive oil 1 tablespoon at a time, pounding it into the sauce. When all the olive oil has been added and emulsified into the mixture, transfer pesto to a bowl and drizzle surface with olive oil."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "181"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4ca95a340d11e556b86645dcf1cf54c9%2F1666454391416185DFBFA-8DC5-4FCA-A3E5-DE6B4CFC0FCE.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fca151c1514e5dc0a2dc4fb28b405c504%2F166424702320220926_175212.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fca151c1514e5dc0a2dc4fb28b405c504%2F1651590651ProperPesto.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9269500.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/VoO8EY2Q0SeRfuXO-m4AEOi66eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4517170-cd64b5b696f046edbabb0a47f6148132.jpg"
+        }
+    ],
+    "main category": "dips"
+}

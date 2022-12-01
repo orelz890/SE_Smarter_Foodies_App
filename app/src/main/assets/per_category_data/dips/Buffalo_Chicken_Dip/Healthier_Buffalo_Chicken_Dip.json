@@ -1,0 +1,84 @@
+{
+    "title": "Healthier Buffalo Chicken Dip",
+    "Category": "Buffalo Chicken Dip",
+    "Ingredients": [
+        {
+            "1": "2 (10 ounce) cans natural chunk chicken, drained"
+        },
+        {
+            "2": "0.75 cup hot pepper sauce (such as Frank's RedHot\u00ae)"
+        },
+        {
+            "3": "2 (8 ounce) packages reduced-fat cream cheese, softened"
+        },
+        {
+            "4": "1 cup light ranch dressing"
+        },
+        {
+            "5": "1 cup shredded reduced-fat Cheddar cheese, divided"
+        },
+        {
+            "6": "1 bunch celery, cleaned and cut into 4 inch pieces"
+        },
+        {
+            "7": "8 ounces multigrain crackers"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat chicken and hot pepper sauce in a skillet over medium heat until heated through, about 5 minutes. Stir in cream cheese and ranch dressing; cook and stir until well blended and warm, 5 to 7 minutes. Mix in 1/2 of the Cheddar cheese, then transfer mixture to a slow cooker."
+        },
+        {
+            "2": "Sprinkle remaining Cheddar cheese over top, cover, and cook on Low until hot and bubbly, about 30 minutes."
+        },
+        {
+            "3": "Serve with celery sticks and crackers."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "5 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "231"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F376bb30007bbf430761c2659eb38bc48%2F166587662737916658765877579129096763595204462.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F16c742655d7834a80aacc3133a915e89%2F3236864.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2114043.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbfb81883293b940c674910c699dc573f%2F2018468.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

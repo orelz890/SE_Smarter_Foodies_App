@@ -1,0 +1,96 @@
+{
+    "title": "Bacon Risotto",
+    "Category": "Risotto",
+    "Ingredients": [
+        {
+            "1": "0.5 pound bacon, diced"
+        },
+        {
+            "2": "5 cups chicken stock"
+        },
+        {
+            "3": "2 tablespoons butter"
+        },
+        {
+            "4": "0.5  onion, diced"
+        },
+        {
+            "5": "4 cloves garlic, minced"
+        },
+        {
+            "6": "0.5 cups Arborio rice"
+        },
+        {
+            "7": "2 tablespoons butter"
+        },
+        {
+            "8": "0.25 cup grated Parmesan cheese"
+        },
+        {
+            "9": "1 salt and black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook and stir the diced bacon in a large skillet over medium heat until browned, about 10 minutes. Drain the bacon and reserve."
+        },
+        {
+            "2": "Bring the chicken stock to a boil in a saucepan over high heat; reduce heat to low to keep the chicken stock hot."
+        },
+        {
+            "3": "Heat 2 tablespoons butter in a large, heavy-bottomed saucepan over medium-high heat. Add the onion and garlic; cook and stir until the onion begins to turn golden brown at the edges, about 2 minutes. Pour in the rice and stir until the rice is coated in butter and has started to toast, 2 to 3 minutes. Reduce heat to medium; stir in one-third of the hot chicken stock and continue stirring until the rice has absorbed the liquid and turned creamy. Repeat this process twice more, stirring constantly. Stirring in the broth should take 15 to 20 minutes in all. When finished, the rice should be tender, yet slightly firm."
+        },
+        {
+            "4": "Remove the risotto from the heat and stir in the remaining 2 tablespoons of butter, the Parmesan cheese, and the reserved bacon. Season to taste with salt and pepper before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "557"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "74g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9438461.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9391102.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9312495.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9261001.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/19ss9Gx-B9jXYtTLBIcpyc_KDTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5881711-9453a2d153c044f2976b59a8ad44e70f.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

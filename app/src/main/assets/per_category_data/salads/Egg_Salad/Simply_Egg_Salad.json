@@ -1,0 +1,93 @@
+{
+    "title": "Simply Egg Salad",
+    "Category": "Egg Salad",
+    "Ingredients": [
+        {
+            "1": "4  eggs"
+        },
+        {
+            "2": "2 tablespoons plain nonfat yogurt"
+        },
+        {
+            "3": "2 tablespoons light mayonnaise"
+        },
+        {
+            "4": "1 teaspoon Dijon mustard"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "7": "0.25 cup diced celery"
+        },
+        {
+            "8": "1  green onion, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place eggs in saucepan and fill with cold water to cover. Bring to a boil over medium high heat. Cover, remove from heat and let stand for 15 to 20 minutes. Drain and run under cold water until chilled. Refrigerate for at least 2 hours or up to 7 days."
+        },
+        {
+            "2": "Place peeled, hard cooked eggs in a bowl and using a fork or potato masher, mash eggs until finely chopped."
+        },
+        {
+            "3": "Stir in yogurt, mayonnaise, Dijon mustard, salt and pepper until smooth. Add celery and green onion (if using) and stir to combine."
+        },
+        {
+            "4": "Spread over your favourite bread, stuff into pita halves or scoop some onto your favourite salad greens."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 20 mins"
+        },
+        {
+            "Servings": "3 "
+        },
+        {
+            "Yield": "1 1/2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "123"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8485346.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8485332.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8460347.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7637867.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

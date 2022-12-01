@@ -1,0 +1,60 @@
+{
+    "title": "Patron Mojito",
+    "Category": "Mojitos",
+    "Ingredients": [
+        {
+            "1": "2 fluid ounces silver tequila (such as Patron\u00ae)"
+        },
+        {
+            "2": "12 leaves mint"
+        },
+        {
+            "3": "1 tablespoon white sugar"
+        },
+        {
+            "4": "3  lime wedges"
+        },
+        {
+            "5": "0.25 cup club soda, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine tequila, mint, sugar, and lime in a tall glass; mash mint and lime well with a cocktail muddler. Top with club soda and stir gently to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "184"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9298201.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8626530.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F679c4fba2f43ff4693c0e028a414b710%2F994184.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

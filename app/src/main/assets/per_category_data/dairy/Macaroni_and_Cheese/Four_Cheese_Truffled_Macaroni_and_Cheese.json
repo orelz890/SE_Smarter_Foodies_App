@@ -1,0 +1,105 @@
+{
+    "title": "Four-Cheese Truffled Macaroni and Cheese",
+    "Category": "Macaroni and Cheese",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package cavatappi (corkscrew macaroni)"
+        },
+        {
+            "2": "6 tablespoons butter"
+        },
+        {
+            "3": "0.5 cup flour"
+        },
+        {
+            "4": "2.5 cups milk, divided"
+        },
+        {
+            "5": "1.0 cups shredded smoked Gouda cheese"
+        },
+        {
+            "6": "2 cups shredded sharp Cheddar cheese"
+        },
+        {
+            "7": "0.5 cups shredded Swiss cheese"
+        },
+        {
+            "8": "0.5 cups grated Parmesan cheese, divided"
+        },
+        {
+            "9": "0.5 cup dry bread crumbs"
+        },
+        {
+            "10": "1 tablespoon truffle oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Butter a 9x13-inch baking dish."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Cook cavatappi in boiling water, stirring occasionally, until cooked through but firm to the bite, about 8 minutes. Drain."
+        },
+        {
+            "3": "Melt butter in a large pot over medium-low heat. Whisk flour into butter until mixture has a thick, paste-like consistency, about 30 seconds. Slowly whisk 2 cups milk into butter-flour mixture until smooth. Stir in remaining milk, increase heat to medium high, and cook, whisking constantly, until mixture is thick and almost boiling, 5 to 10 minutes."
+        },
+        {
+            "4": "Stir Gouda cheese, Cheddar cheese, Swiss cheese, and 1 cup Parmesan cheese into milk mixture until cheese melts and cheese sauce is smooth. Fold cavatappi into cheese sauce; pour mixture into prepared baking dish."
+        },
+        {
+            "5": "Stir remaining Parmesan cheese and bread crumbs together in a small bowl. Sprinkle bread crumbs mixture over cavatappi mixture and drizzle truffle oil over the top."
+        },
+        {
+            "6": "Bake in the preheated oven until golden and bubbling, about 30 minutes. Cool for 10 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "565"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "43g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7568537.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7468317.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7405834.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F91d2a19fcf943a5c4e6295f6b0e768a3%2F6348257.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dairy"
+}

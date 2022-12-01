@@ -1,0 +1,90 @@
+{
+    "title": "Mom's Peach Crisp",
+    "Category": "Crisps and Crumbles",
+    "Ingredients": [
+        {
+            "1": "4 cups sliced fresh peaches"
+        },
+        {
+            "2": "0.5 cup all-purpose flour"
+        },
+        {
+            "3": "0.5 cup brown sugar"
+        },
+        {
+            "4": "0.5 cup cold butter"
+        },
+        {
+            "5": "1 teaspoon ground cinnamon"
+        },
+        {
+            "6": "0.25 teaspoon salt"
+        },
+        {
+            "7": "1 cup rolled oats"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Arrange sliced peaches evenly in an 8x8-inch baking dish."
+        },
+        {
+            "3": "Mix flour, brown sugar, butter, cinnamon, and salt in a bowl using a pastry cutter until crumbly. Fold oats into flour mixture; sprinkle mixture evenly over peaches, pressing down lightly."
+        },
+        {
+            "4": "Bake in the preheated oven until crispy and golden brown on top, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "238"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fab1f5db9ac07e7bc1129a81b10f52003%2F166345018916634501797208076181277778054701.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fab1f5db9ac07e7bc1129a81b10f52003%2F1662410211Peach%2520crisp%2520for%2520Jen.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fab1f5db9ac07e7bc1129a81b10f52003%2F1661511709image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fab1f5db9ac07e7bc1129a81b10f52003%2F1660161855B1EEEEA5-4BFD-423D-873F-2249D8D25318.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/TgffdoX8XKS7-fUd979DGWF3sNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/231532-Moms-Peach-Crisp-MFS_015_1-X-1-e88a744b8add48d99a270734fb53c3f9.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

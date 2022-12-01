@@ -1,0 +1,90 @@
+{
+    "title": "Emma's Belgian Waffles",
+    "Category": "Waffles",
+    "Ingredients": [
+        {
+            "1": "2  egg yolks"
+        },
+        {
+            "2": "5 tablespoons white sugar"
+        },
+        {
+            "3": "0.5 teaspoons vanilla extract"
+        },
+        {
+            "4": "0.5 cup butter, melted"
+        },
+        {
+            "5": "1 teaspoon salt"
+        },
+        {
+            "6": "1.5 cups self-rising flour"
+        },
+        {
+            "7": "2 cups warm milk"
+        },
+        {
+            "8": "2  egg whites"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, beat together egg yolks and sugar. Beat in vanilla extract, butter and salt. Alternately mix in flour and milk until blended well."
+        },
+        {
+            "2": "In a separate bowl, beat egg whites until they have formed soft peaks. Fold egg whites into batter and let stand for 40 minutes."
+        },
+        {
+            "3": "Spray preheated waffle iron with non-stick cooking spray. Pour mix onto hot waffle iron. Cook until golden brown and fluffy."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "445"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9374078.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9324237.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9177589.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8920477.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "My Mom's Sausage and Rice Casserole",
+    "Category": "Rice Casserole",
+    "Ingredients": [
+        {
+            "1": "1 pound fresh, ground pork sausage"
+        },
+        {
+            "2": "1  onion, finely chopped"
+        },
+        {
+            "3": "1 cup chopped celery"
+        },
+        {
+            "4": "1  green bell pepper, chopped"
+        },
+        {
+            "5": "0.5 cup uncooked long-grain rice"
+        },
+        {
+            "6": "1.0 cups hot water"
+        },
+        {
+            "7": "1 envelope chicken noodle mix -dry"
+        },
+        {
+            "8": "2 tablespoons sliced almonds"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "In a Dutch-oven over medium heat, brown the sausage with the onion, celery and bell pepper; drain. Pour in rice, hot water, and soup mix. Stir until any lumps of soup have melted. Top with almonds. Cover and bake in a preheated oven for 1 1/2 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 55 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "414"
+        },
+        {
+            "Fat": "32g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8026424.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6414174.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3566233.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

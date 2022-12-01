@@ -1,0 +1,96 @@
+{
+    "title": "Green Tomato Mock Mincemeat Pie",
+    "Category": "Mincemeat Pie",
+    "Ingredients": [
+        {
+            "1": "2 cups chopped green tomato"
+        },
+        {
+            "2": "2 cups peeled and chopped tart green apples"
+        },
+        {
+            "3": "1 cup firmly packed brown sugar"
+        },
+        {
+            "4": "0.5 cup chopped raisins"
+        },
+        {
+            "5": "3 tablespoons cider vinegar"
+        },
+        {
+            "6": "1 tablespoon butter"
+        },
+        {
+            "7": "1 teaspoon ground cinnamon"
+        },
+        {
+            "8": "0.5 teaspoon salt"
+        },
+        {
+            "9": "0.25 teaspoon ground nutmeg"
+        },
+        {
+            "10": "0.25 teaspoon ground cloves"
+        },
+        {
+            "11": "1  pastry for a 9-inch double-crust pie"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine tomatoes, apples, brown sugar, raisins, vinegar, butter, cinnamon, salt, nutmeg, and cloves together in a large saucepan; cook and stir over medium-low heat until bubbling and slightly reduced in volume, about 25 minutes. Remove saucepan from heat and cool slightly, about 15 minutes."
+        },
+        {
+            "2": "Preheat oven to 450 degrees F (230 degrees C). Press 1 pie crust into a 9-inch pie dish."
+        },
+        {
+            "3": "Pour green tomato filling into the pie crust; top with the second pie crust, crimping the edges together to seal."
+        },
+        {
+            "4": "Bake in the preheated oven for 15 minutes. Decrease oven temperature to 375 degrees F (190 degrees C) and continue baking until golden brown, 20 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "402"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "62g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4585575.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4550937.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

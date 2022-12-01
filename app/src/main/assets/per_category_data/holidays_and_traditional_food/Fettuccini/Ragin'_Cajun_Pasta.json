@@ -1,0 +1,123 @@
+{
+    "title": "Ragin' Cajun Pasta",
+    "Category": "Fettuccini",
+    "Ingredients": [
+        {
+            "1": "0.5 pound fettuccine"
+        },
+        {
+            "2": "0.25 cup butter"
+        },
+        {
+            "3": "2 cloves garlic, minced"
+        },
+        {
+            "4": "0.25 cup sliced smoked sausage"
+        },
+        {
+            "5": "2  roma tomatoes, diced"
+        },
+        {
+            "6": "1 cup broccoli florets"
+        },
+        {
+            "7": "0.5  green bell pepper, chopped"
+        },
+        {
+            "8": "4  mushrooms, sliced"
+        },
+        {
+            "9": "3  green onions, chopped"
+        },
+        {
+            "10": "1 cup cubed cooked chicken breast"
+        },
+        {
+            "11": "0.5 pound medium shrimp, peeled and deveined"
+        },
+        {
+            "12": "0.25 cup white wine"
+        },
+        {
+            "13": "2 teaspoons Cajun seasoning"
+        },
+        {
+            "14": "0.75 cup milk"
+        },
+        {
+            "15": "0.25 cup grated Parmesan cheese"
+        },
+        {
+            "16": "1 fresh ground black pepper to taste"
+        },
+        {
+            "17": "2 tablespoons grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a rolling boil."
+        },
+        {
+            "2": "Boil the fettuccine until cooked through yet firm to the bite, about 8 minutes; drain and transfer pasta to a large serving bowl."
+        },
+        {
+            "3": "Heat the butter and garlic in a large skillet over medium-high heat; stir in the sausage, tomatoes, broccoli, bell pepper, mushrooms and green onion."
+        },
+        {
+            "4": "Cook and stir until the sausage is browned and vegetables are tender."
+        },
+        {
+            "5": "Stir in chicken, shrimp, white wine, cajun seasoning, milk, and 1/4 cup Parmesan cheese. Cook and stir until shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 3 to 5 minutes."
+        },
+        {
+            "6": "Serve over pasta and sprinkle with pepper and 2 tablespoons Parmesan cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "565"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "36g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F703f66bb5f405ea1499ba8cb028b59ae%2F1648767772Ragin%2520Cajun%2520Pasta%25202.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9287498.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8790927.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8790778.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

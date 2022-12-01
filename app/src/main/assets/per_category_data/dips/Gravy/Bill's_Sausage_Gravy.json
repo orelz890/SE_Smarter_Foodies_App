@@ -1,0 +1,78 @@
+{
+    "title": "Bill's Sausage Gravy",
+    "Category": "Gravy",
+    "Ingredients": [
+        {
+            "1": "1 (12 ounce) package maple flavored sausage"
+        },
+        {
+            "2": "3 tablespoons butter"
+        },
+        {
+            "3": "0.25 cup all-purpose flour"
+        },
+        {
+            "4": "3 cups whole milk"
+        },
+        {
+            "5": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place sausage in a large, deep skillet. Cook and crumble over medium-high heat until evenly brown."
+        },
+        {
+            "2": "Remove sausage with a slotted spoon, leaving the drippings in the pan. Stir butter into the pan until melted. Add flour and stir until smooth. Reduce heat to medium and cook until light brown. Gradually whisk in milk and cook until thickened. Season with salt and pepper."
+        },
+        {
+            "3": "Add cooked sausage back to the skillet. Reduce heat and simmer for 12 to 15 minutes. If gravy becomes too thick, stir in a little more milk."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "353"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "12g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe39ac65a000c93b8f17d26baa3742710%2F166896432735816689643152992494574133372388029.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F833d9781d6ac2113d666c90d2258dcd6%2F1659202908C8CDC1EF-C51D-4523-8FEC-E666CE65976A.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F833d9781d6ac2113d666c90d2258dcd6%2F165262362632D6FF31-0F8D-4BA1-9D9A-FC85E68C503F.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9395796.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/e8_n41Cx8KWnGh00Qk2VOGxV17E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4563149-bills-sausage-gravy-bachelorGoodman-1x1-1-4ea0e5734a0144b9b32b75aeb890df98.jpg"
+        }
+    ],
+    "main category": "dips"
+}

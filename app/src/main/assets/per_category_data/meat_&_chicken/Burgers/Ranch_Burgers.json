@@ -1,0 +1,78 @@
+{
+    "title": "Ranch Burgers",
+    "Category": "Burgers",
+    "Ingredients": [
+        {
+            "1": "2 pounds lean ground beef"
+        },
+        {
+            "2": "1 (1 ounce) package ranch dressing mix"
+        },
+        {
+            "3": "1  egg, lightly beaten"
+        },
+        {
+            "4": "0.75 cup crushed saltine crackers"
+        },
+        {
+            "5": "1  onion, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the grill for high heat."
+        },
+        {
+            "2": "In a bowl, mix the ground beef, ranch dressing mix, egg, crushed crackers, and onion. Form into hamburger patties."
+        },
+        {
+            "3": "Lightly oil the grill grate. Place patties on the grill, and cook 5 minutes per side, or until well done."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "268"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7899345.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5427722.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5426912.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F34f7a4d7151a6f9405b23c0fcb9a2902%2F4503770.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

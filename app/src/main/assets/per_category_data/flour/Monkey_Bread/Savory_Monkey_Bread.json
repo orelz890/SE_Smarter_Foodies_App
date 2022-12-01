@@ -1,0 +1,69 @@
+{
+    "title": "Savory Monkey Bread",
+    "Category": "Monkey Bread",
+    "Ingredients": [
+        {
+            "1": "1 cup butter, melted"
+        },
+        {
+            "2": "0.25 cup chopped fresh parsley"
+        },
+        {
+            "3": "2 tablespoons finely chopped onion"
+        },
+        {
+            "4": "1 tablespoon chopped fresh dill"
+        },
+        {
+            "5": "2 (7.5 ounce) cans refrigerated buttermilk biscuit dough (such as Pillsbury\u00ae)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Stir melted butter, parsley, onion, and dill together in a bowl. Dunk biscuit halves into the butter mixture to coat; arrange into a tube-cake pan."
+        },
+        {
+            "3": "Bake in preheated oven until dough is cooked through and golden brown on top, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "301"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fcfe1bcf0c8156030bcb013b0b7513922%2F1003883.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

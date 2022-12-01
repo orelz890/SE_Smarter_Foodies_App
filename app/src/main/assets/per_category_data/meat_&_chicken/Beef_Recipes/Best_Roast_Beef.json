@@ -1,0 +1,90 @@
+{
+    "title": "Best Roast Beef",
+    "Category": "Beef Recipes",
+    "Ingredients": [
+        {
+            "1": "3 pounds beef eye of round roast, at room temperature"
+        },
+        {
+            "2": "0.5 teaspoon kosher salt, or more to taste"
+        },
+        {
+            "3": "0.5 teaspoon garlic powder, or more to taste"
+        },
+        {
+            "4": "0.25 teaspoon freshly ground black pepper, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Make sure roast is at room temperature. Tie roast at 3-inch intervals with cotton twine; this helps it from drying out and allows it to cook more evenly. Place roast on a rack in a baking pan."
+        },
+        {
+            "3": "Mix together salt, garlic powder, and pepper in a small bowl. Rub seasoning mixture into the meat."
+        },
+        {
+            "4": "Place in the preheated oven and roast for 60 minutes, or 20 minutes per pound if your roast is larger or smaller. An instant-read thermometer inserted into the center should read 120 to 125 degrees F (49 to 52 degrees C)."
+        },
+        {
+            "5": "Remove from the oven and transfer to a cutting board. Cover loosely with foil, and let rest so juices can redistribute, 15 to 20 minutes."
+        },
+        {
+            "6": "Slice and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "484"
+        },
+        {
+            "Fat": "32g"
+        },
+        {
+            "Carbs": "0g"
+        },
+        {
+            "Protein": "45g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9383773.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9116943.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8846575.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8733883.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/PHKVSDN-UfGqE1bCldqEkILdwMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/42176-AllAmericanRoastBeef-mfs-2X3--159fdd65ddd44eada297da5b9864f48e.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/Rg_PZODKJpozbBLCs-p-CXRdcgw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/42176-all-american-roast-beef-ddmfs-1x1-1-fc93acf04eac4181bf6c248df20fdb3d.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

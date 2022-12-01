@@ -1,0 +1,66 @@
+{
+    "title": "Gingerbread Cookie Frosting",
+    "Category": "Frosting and Icing Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup confectioners' sugar"
+        },
+        {
+            "2": "0.25 cup milk, or as needed"
+        },
+        {
+            "3": "10 drops food coloring"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Sift confectioners' sugar into a small bowl. Stir in enough milk to make a smooth but not too runny consistency."
+        },
+        {
+            "2": "Divide mixture into small containers, depending on how many colors you want. Drop food coloring into each container, using as much food coloring as needed to create desired hues."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "1/2 cup"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "126"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8866307.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7520035221469145eb103f71d3ac48e3%2F6132319.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ffbd76137aab14381df84c80fbf422598%2F5975896.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F937865.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Banana Pancakes",
+    "Category": "Pancakes",
+    "Ingredients": [
+        {
+            "1": "1 cup all-purpose flour"
+        },
+        {
+            "2": "1 tablespoon white sugar"
+        },
+        {
+            "3": "2 teaspoons baking powder"
+        },
+        {
+            "4": "0.25 teaspoon salt"
+        },
+        {
+            "5": "1  egg, beaten"
+        },
+        {
+            "6": "1 cup milk"
+        },
+        {
+            "7": "2 tablespoons vegetable oil"
+        },
+        {
+            "8": "2  ripe bananas, mashed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine flour, white sugar, baking powder, and salt in a bowl. Mix together egg, milk, vegetable oil, and bananas in a second bowl."
+        },
+        {
+            "2": "Stir flour mixture into banana mixture; batter will be slightly lumpy."
+        },
+        {
+            "3": "Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Cook until pancakes are golden brown, 3 to 5 minutes per side. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "12 pancakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "193"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb7251b8655f0522fa5b0f7b1219ca1bf%2F1667171747407451AB962-2109-49E5-8939-5133FE4D28CA.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9c233170b40ee642fbea779fa60ce655%2F16590095710F8C8F7E-EC07-4011-BB61-78BA29A4DD94.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9c233170b40ee642fbea779fa60ce655%2F165867025847E14B1B-41DF-4D63-A85D-27F5EE0EA10C.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9c233170b40ee642fbea779fa60ce655%2F165323515220220522_100618.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/3uPX0T-lD38fbTLJtKqOR359qpc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20334-Banana-Pancakes-mfs__2x3-21fe4c9bcb35452dacd21d2f76639e13.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/huSzPzJg2alZVJTgOBa5WLsZZF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20334-Banana-Pancakes-mfs_01_1x1-8d5c030cd6054657bd90f37eb5ffde42.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Old-Fashioned Lemon Pound Cake",
+    "Category": "Pound Cake",
+    "Ingredients": [
+        {
+            "1": "2 cups white sugar"
+        },
+        {
+            "2": "2 cups all-purpose flour"
+        },
+        {
+            "3": "5  eggs"
+        },
+        {
+            "4": "1 cup shortening (such as Crisco\u00ae)"
+        },
+        {
+            "5": "5 tablespoons whole milk"
+        },
+        {
+            "6": "1 tablespoon vanilla extract"
+        },
+        {
+            "7": "2 teaspoons lemon extract"
+        },
+        {
+            "8": "0.25 teaspoon baking powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 325 degrees F (165 degrees C). Grease two 9x5-inch loaf pans."
+        },
+        {
+            "2": "Combine sugar, flour, eggs, shortening, whole milk, vanilla extract, lemon extract, and baking powder in a large bowl; pour into the prepared pans."
+        },
+        {
+            "3": "Bake in the preheated oven until a toothpick inserted in the center of the cake comes out clean, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "2 loaves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "391"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8602609.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6968899.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6334055.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6208865.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

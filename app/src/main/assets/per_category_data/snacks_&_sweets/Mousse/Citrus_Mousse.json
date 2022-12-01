@@ -1,0 +1,69 @@
+{
+    "title": "Citrus Mousse",
+    "Category": "Mousse",
+    "Ingredients": [
+        {
+            "1": "2 (12 ounce) containers frozen whipped topping, thawed"
+        },
+        {
+            "2": "1 (14 ounce) can sweetened condensed milk"
+        },
+        {
+            "3": "0.5 cup lemon juice"
+        },
+        {
+            "4": "0.5 cup grapefruit juice"
+        },
+        {
+            "5": "1 (15 ounce) can mandarin oranges, drained (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, beat together whipped topping and condensed milk. Gradually beat in lemon and grapefruit juices, until evenly blended."
+        },
+        {
+            "2": "Pour the mousse into one bowl or divide it into individual serving dishes. Garnish with fruit, if desired."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "420"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "53g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1010355.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1010353.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F921231.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

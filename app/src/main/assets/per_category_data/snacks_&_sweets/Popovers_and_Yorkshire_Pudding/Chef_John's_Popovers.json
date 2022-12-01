@@ -1,0 +1,90 @@
+{
+    "title": "Chef John's Popovers",
+    "Category": "Popovers and Yorkshire Pudding",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon butter"
+        },
+        {
+            "2": "1 cooking spray"
+        },
+        {
+            "3": "2  large eggs"
+        },
+        {
+            "4": "1 cup milk"
+        },
+        {
+            "5": "1 cup all-purpose flour"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "1 pinch cayenne pepper"
+        },
+        {
+            "8": "2 tablespoons shredded Cheddar cheese (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Grease a 6-tin muffin pan with butter and cooking spray."
+        },
+        {
+            "2": "Whisk eggs, milk, flour, salt, and cayenne pepper together in a small bowl until smooth. Pour batter into each muffin tin, filling to about 3/4 of the way up the sides. Sprinkle about 1 teaspoon of grated Cheddar cheese atop each popover."
+        },
+        {
+            "3": "Place pan in a cold oven. Heat to 450 degrees F (230 degrees C) and bake until puffed and well-browned, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 popovers"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "112"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F64ee1ee081d2f0ed39b85e4f56ec4440%2F1668729065897york.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7d33ea9c5b58118c33dca383329c47d2%2F164505721920220216_171928.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9218466.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9144088.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/5RZsVAsJktG2Rw8D3BkVL8au3AA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1600997-8ca0c91ffd7b4ea695ed9ff905b9896b.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

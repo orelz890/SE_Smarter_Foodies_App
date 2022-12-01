@@ -1,0 +1,87 @@
+{
+    "title": "Bruschetta Salad",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "6  Roma tomatoes, sliced into rounds"
+        },
+        {
+            "2": "0.5 pound mozzarella cheese, cut into bite-size cubes"
+        },
+        {
+            "3": "1 cup crushed garlic-flavored bagel chips"
+        },
+        {
+            "4": "0.5 cup torn fresh basil leaves"
+        },
+        {
+            "5": "0.5  red onion, chopped"
+        },
+        {
+            "6": "0.25 cup light olive oil"
+        },
+        {
+            "7": "3 tablespoons red wine vinegar"
+        },
+        {
+            "8": "2 large cloves garlic, minced"
+        },
+        {
+            "9": "1 tablespoon dried basil"
+        },
+        {
+            "10": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine tomatoes, mozzarella cheese, bagel chips, basil, red onion, olive oil, red wine vinegar, garlic, basil, salt, and black pepper together in a bowl; toss until evenly combined. Refrigerate until chilled, 15 to 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "434"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7732859.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6872080.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5600554.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5600553.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

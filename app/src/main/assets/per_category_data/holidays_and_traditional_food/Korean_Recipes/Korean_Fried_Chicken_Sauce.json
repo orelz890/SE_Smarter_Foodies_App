@@ -1,0 +1,93 @@
+{
+    "title": "Korean Fried Chicken Sauce",
+    "Category": "Korean Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 cup ketchup"
+        },
+        {
+            "2": "2  green onions, minced"
+        },
+        {
+            "3": "4 cloves garlic, minced"
+        },
+        {
+            "4": "1  lemon, juiced, or more to taste"
+        },
+        {
+            "5": "2 tablespoons honey"
+        },
+        {
+            "6": "1 tablespoon chile-garlic sauce (such as sambal), or to taste"
+        },
+        {
+            "7": "1 teaspoon red pepper flakes, or to taste"
+        },
+        {
+            "8": "0.5 teaspoon freshly ground black pepper, or to taste"
+        },
+        {
+            "9": "0.25 cup water, or as needed"
+        },
+        {
+            "10": "1 pinch salt, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk ketchup, green onion, garlic, lemon juice, honey, chile-garlic sauce, red pepper flakes, and black pepper together in a saucepan over medium-high heat; add enough water to reach desired sauce consistency. Bring sauce to a simmer; reduce heat to medium-low, and simmer until thick and flavors blend, about 5 minutes. Cool to room temperature and season with salt."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "50"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "13g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3782091f2af1a10d4a9d3c410675cfbb%2F166311728416631172693825072034088491902074.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8014129.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6259688.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F631c963938f17cc8d84c967e260a1a17%2F2251169.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/TMRnSyxo2POcdglYynVnv7y2MwA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3548115-korean-fried-chicken-sauce-Chef-John-1x1-1-dab6e6af1c8f49719a62ef291108a7d9.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

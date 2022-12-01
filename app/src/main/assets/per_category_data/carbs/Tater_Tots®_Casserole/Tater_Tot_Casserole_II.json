@@ -1,0 +1,81 @@
+{
+    "title": "Tater Tot Casserole II",
+    "Category": "Tater Tots\u00ae Casserole",
+    "Ingredients": [
+        {
+            "1": "1 (32 ounce) package frozen potato rounds"
+        },
+        {
+            "2": "1 (16 ounce) container sour cream"
+        },
+        {
+            "3": "1 cup shredded Cheddar cheese"
+        },
+        {
+            "4": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "5": "1 (6 ounce) can French-fried onions"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking dish."
+        },
+        {
+            "2": "Arrange tater tots in the prepared baking dish."
+        },
+        {
+            "3": "In a mixing bowl, combine sour cream, cheese, and mushroom soup. Pour this mixture over the tater tots. Sprinkle onions over the top of the casserole."
+        },
+        {
+            "4": "Bake in the 350 degrees F (175 degrees C) oven for 45 to 60 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "718"
+        },
+        {
+            "Fat": "53g"
+        },
+        {
+            "Carbs": "56g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb0e577d0c24e136a6f374983d56988c6%2F16689905799190867FC76-2D0D-4BC3-94CF-F2387DCE75B1.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8158304.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8120603.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fae3e46b133cf4421f7e7e216c8b6b6a0%2F7494370.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

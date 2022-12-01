@@ -1,0 +1,63 @@
+{
+    "title": "Pop Mix",
+    "Category": "Popcorn",
+    "Ingredients": [
+        {
+            "1": "1 (2.9 ounce) bag microwave popcorn"
+        },
+        {
+            "2": "1 tablespoon grated Parmesan cheese"
+        },
+        {
+            "3": "0.25 cup melted butter"
+        },
+        {
+            "4": "1 cup savory baked cereal snack mix (such as Bits & Bites)"
+        },
+        {
+            "5": "1 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place packaged popcorn in the microwave; cook on high until popping begins to slow down, about 2 1/2 minutes. Mix in Parmesan cheese. Drizzle melted butter over popcorn. Mix in savory snack mix and salt."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "2 mins"
+        },
+        {
+            "Total Time": "7 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "193"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4578162.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

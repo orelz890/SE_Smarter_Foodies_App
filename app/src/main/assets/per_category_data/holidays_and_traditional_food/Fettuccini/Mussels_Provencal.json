@@ -1,0 +1,105 @@
+{
+    "title": "Mussels Provencal",
+    "Category": "Fettuccini",
+    "Ingredients": [
+        {
+            "1": "1 (12 ounce) package fettuccini pasta"
+        },
+        {
+            "2": "1 tablespoon olive oil"
+        },
+        {
+            "3": "1  onion, chopped"
+        },
+        {
+            "4": "2 cloves garlic, minced"
+        },
+        {
+            "5": "1 (16 ounce) can diced tomatoes"
+        },
+        {
+            "6": "1 teaspoon tomato paste"
+        },
+        {
+            "7": "5  fresh mushrooms, chopped"
+        },
+        {
+            "8": "1 teaspoon dried basil"
+        },
+        {
+            "9": "0.5 teaspoon dried oregano"
+        },
+        {
+            "10": "1 teaspoon dried tarragon"
+        },
+        {
+            "11": "36  raw green-lipped mussels"
+        },
+        {
+            "12": "0.5 cup olives (Optional)"
+        },
+        {
+            "13": "2  fresh tomatoes, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of water to boiling. Cook pasta in boiling water until al dente, about 8 to 10 minutes. Drain."
+        },
+        {
+            "2": "Meanwhile, heat olive oil in a large saucepan over medium heat. Cook onion and garlic in oil until soft. Stir in diced tomatoes, tomato paste, and mushrooms, and add the mussels. Season with basil, oregano, and tarragon. Cover, and simmer for 10 minutes."
+        },
+        {
+            "3": "Stir in olives and fresh tomatoes. Cover, and simmer 5 minutes."
+        },
+        {
+            "4": "Serve mussels and sauce over pasta."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "310"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F46855e0278f10755b8b4626ea3893979%2F2319293.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2228981.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1905225.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1905230.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

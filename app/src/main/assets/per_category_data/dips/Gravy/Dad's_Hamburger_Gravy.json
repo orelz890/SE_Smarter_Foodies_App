@@ -1,0 +1,87 @@
+{
+    "title": "Dad's Hamburger Gravy",
+    "Category": "Gravy",
+    "Ingredients": [
+        {
+            "1": "2 pounds lean ground beef"
+        },
+        {
+            "2": "0.5  onion, finely chopped"
+        },
+        {
+            "3": "5 cups milk"
+        },
+        {
+            "4": "2 tablespoons chicken bouillon granules"
+        },
+        {
+            "5": "2 tablespoons butter or margarine"
+        },
+        {
+            "6": "1 teaspoon ground sage"
+        },
+        {
+            "7": "1 salt and pepper to taste"
+        },
+        {
+            "8": "0.5 cup all-purpose flour"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Crumble the ground beef into a large deep skillet over medium-high heat. Cook and stir until evenly browned. Drain most of the grease, leaving just enough to coat the pan. Add the onions, and cook for a few more minutes."
+        },
+        {
+            "2": "Pour 4 cups of the milk into the pan, and stir to scrape up any bits of food that could burn on the bottom of the pan. Mix in the bouillon, butter, sage, salt and pepper. Bring to a boil, and cook for 5 minutes, stirring frequently."
+        },
+        {
+            "3": "Mix the flour into the last cup of milk until smooth. Slowly pour into the skillet, stirring constantly. Simmer for a few minutes to thicken. If the gravy is too thick, thin with a little bit of milk. If it is too thin, simmer longer, or add more flour. Taste and adjust seasonings before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "488"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "39g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F42b41c4ea5b3274d02a7b5c421104ac7%2F1668786193811IMG_20221118_091920_hdr.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9195168.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9052016.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8925246.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

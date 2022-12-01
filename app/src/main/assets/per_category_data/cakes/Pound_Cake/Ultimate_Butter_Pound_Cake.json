@@ -1,0 +1,93 @@
+{
+    "title": "Ultimate Butter Pound Cake",
+    "Category": "Pound Cake",
+    "Ingredients": [
+        {
+            "1": "1 cup unsalted butter, softened"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "3 tablespoons packed light brown sugar"
+        },
+        {
+            "4": "1 tablespoon vanilla extract"
+        },
+        {
+            "5": "1 teaspoon baking powder"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "0.75 cups all-purpose flour"
+        },
+        {
+            "8": "4  eggs"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Line a 9x5-inch loaf pan with parchment paper, leaving an overhang over 2 sides."
+        },
+        {
+            "2": "Combine butter, white sugar, brown sugar, vanilla extract, baking powder, and salt in a large bowl; beat with an electric mixer until fluffy. Beat in flour. Beat in eggs one at a time, scraping the bowl after each addition. Pour batter into a 9x5-inch loaf pan."
+        },
+        {
+            "3": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 45 minutes."
+        },
+        {
+            "4": "Lift cake out of the loaf pan using the overhanging parchment paper. Place on a wire rack and cool completely before slicing, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "460"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "51g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdad22982f913f04cd04e3e128de838c7%2F165990908720220807_174715.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7468340.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6743067.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fccb70ae090d6fe8f5d622668dcce2e12%2F6527006.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

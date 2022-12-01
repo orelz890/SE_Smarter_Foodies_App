@@ -1,0 +1,126 @@
+{
+    "title": "Cream Cheese Banana Bread",
+    "Category": "Picnic Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "1 Banana Bread-"
+        },
+        {
+            "3": "0.5 cup unsalted butter, melted"
+        },
+        {
+            "4": "0.5 cup light brown sugar"
+        },
+        {
+            "5": "1  egg"
+        },
+        {
+            "6": "0.25 cup sour cream"
+        },
+        {
+            "7": "0.25 cup white sugar"
+        },
+        {
+            "8": "1 teaspoon vanilla extract"
+        },
+        {
+            "9": "2  ripe bananas"
+        },
+        {
+            "10": "1 cup all-purpose flour"
+        },
+        {
+            "11": "0.5 teaspoon baking soda"
+        },
+        {
+            "12": "0.5 teaspoon baking powder"
+        },
+        {
+            "13": "0.5 teaspoon salt"
+        },
+        {
+            "14": "1 Cream Cheese Filling-"
+        },
+        {
+            "15": "1 (4 ounce) package cream cheese, softened"
+        },
+        {
+            "16": "1  egg"
+        },
+        {
+            "17": "0.25 cup white sugar"
+        },
+        {
+            "18": "3 tablespoons all-purpose flour"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x5-inch loaf pan with cooking spray."
+        },
+        {
+            "2": "Combine butter, brown sugar, 1 egg, sour cream, 1/4 cup white sugar, and vanilla extract in a large bowl; whisk until smooth. Mash in bananas using a fork. Whisk in 1 cup flour, baking soda, baking powder, and salt until just combined."
+        },
+        {
+            "3": "Whisk cream cheese, 1 egg, 1/4 cup white sugar, and 3 tablespoons flour together in a separate bowl."
+        },
+        {
+            "4": "Pour half of the banana mixture into the prepared loaf pan. Spread cream cheese mixture evenly on top. Pour remaining banana mixture over cream cheese mixture."
+        },
+        {
+            "5": "Bake in the preheated oven until top is firm, about 50 minutes. Cool in the pan, about 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9x5-inch loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "381"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "48g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Faca073e99ea820be6b94e0414fcbda61%2F1665549837460576AA379-3BBD-4F8B-B524-D05E2534318A.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F12f29ebc2d570f5493398f80e612fd2b%2F165177912720220505_143050.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F12f29ebc2d570f5493398f80e612fd2b%2F16497961641649796148020238579819693519333.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9396226.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

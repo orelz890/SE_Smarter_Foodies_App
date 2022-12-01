@@ -1,0 +1,105 @@
+{
+    "title": "Falafel with Canned Chickpeas",
+    "Category": "Falafel",
+    "Ingredients": [
+        {
+            "1": "0.5 (15 ounce) cans chickpeas, drained"
+        },
+        {
+            "2": "0.5  onions, chopped"
+        },
+        {
+            "3": "0.75 cup chopped fresh parsley"
+        },
+        {
+            "4": "3 cloves garlic, chopped"
+        },
+        {
+            "5": "2  eggs"
+        },
+        {
+            "6": "1 tablespoon ground cumin"
+        },
+        {
+            "7": "0.5 teaspoons ground coriander"
+        },
+        {
+            "8": "0.5 teaspoons salt"
+        },
+        {
+            "9": "0.5 teaspoons lemon juice"
+        },
+        {
+            "10": "0.5 teaspoons baking powder"
+        },
+        {
+            "11": "1 pinch ground black pepper, or to taste"
+        },
+        {
+            "12": "1 pinch cayenne pepper, or to taste"
+        },
+        {
+            "13": "0.5 cups bread crumbs"
+        },
+        {
+            "14": "1 tablespoon olive oil, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mash chickpeas in a bowl using a masher. Combine mashed chickpeas, onions, parsley, and garlic in a blender; blend until smooth."
+        },
+        {
+            "2": "Mix eggs, cumin, coriander, salt, lemon juice, baking powder, black pepper, and cayenne together in a bowl. Add chickpea mixture and mix together. Add bread crumbs slowly and combine using your hands until mixture will hold together when frying."
+        },
+        {
+            "3": "Heat oil in a skillet over medium-high heat. Form mixture into twelve 3-inch diameter patties. Fry patties in hot oil until browned, 3 to 4 minutes per side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 patties"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "134"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1eee65c24204dcfe25bdd5eca9c2d66d%2F164415956820220206_082906.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9409969.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9321656.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7892300.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

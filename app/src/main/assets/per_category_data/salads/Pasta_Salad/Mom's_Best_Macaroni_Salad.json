@@ -1,0 +1,93 @@
+{
+    "title": "Mom's Best Macaroni Salad",
+    "Category": "Pasta Salad",
+    "Ingredients": [
+        {
+            "1": "16 ounces uncooked elbow macaroni"
+        },
+        {
+            "2": "4  carrots, shredded"
+        },
+        {
+            "3": "1 large red onion, chopped"
+        },
+        {
+            "4": "0.5  green bell pepper, seeded and chopped"
+        },
+        {
+            "5": "0.5  red bell pepper, seeded and chopped"
+        },
+        {
+            "6": "1 cup chopped celery"
+        },
+        {
+            "7": "2 cups mayonnaise"
+        },
+        {
+            "8": "1 (14 ounce) can sweetened condensed milk"
+        },
+        {
+            "9": "0.5 cup white sugar"
+        },
+        {
+            "10": "0.5 cup white vinegar"
+        },
+        {
+            "11": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add macaroni, and cook until tender, about 8 minutes. Rinse under cold water, and drain."
+        },
+        {
+            "2": "In a large bowl, stir together the carrots, red onion, green pepper, red pepper and celery. Mix in the mayonnaise, condensed milk, sugar, vinegar, salt and pepper. Add the macaroni, toss gently, cover and refrigerate for at least 8 hours. I usually make this a day ahead of time, and stir it occasionally to blend the flavors. The macaroni will absorb some of the liquid."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "424"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "45g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9241079.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9104797.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8256388.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8038837.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/jZU2AqTD_RP5AMujbRAkxOyUse0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/714651-042c09df2a864839bfb7dd7ea79f3841.jpg"
+        }
+    ],
+    "main category": "salads"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Real Sopapillas",
+    "Category": "Appetizers and Snacks",
+    "Ingredients": [
+        {
+            "1": "4 cups all-purpose flour"
+        },
+        {
+            "2": "4 tablespoons shortening"
+        },
+        {
+            "3": "2 teaspoons baking powder"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "0.5 cups warm water"
+        },
+        {
+            "6": "2 quarts oil for frying"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir together flour, shortening, baking powder, and salt in a large bowl. Stir in water; mix until dough is smooth. Cover and let stand for 20 minutes."
+        },
+        {
+            "2": "Heat oil in a deep fryer to 375 degrees F (190 degrees C)."
+        },
+        {
+            "3": "Roll dough out on a floured board until 1/8- to 1/4-inch thick. Cut into 3-inch squares."
+        },
+        {
+            "4": "Fry dough squares in the preheated oil until golden brown on both sides. Drain on paper towels and serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "2 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "160"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F62fbdaa01eb4727c369907cda20623a9%2F166553295419020221009_161714.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff36e6788e70bf4c7ce96c79d45428860%2F166294580916629457936904820636160422027973.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9354869.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9106213.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/0FpSxI2FUP4GUa_H2oK404ITl70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Real-Sopapillas-222240be5b304134b56aa7202d2dc88c.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

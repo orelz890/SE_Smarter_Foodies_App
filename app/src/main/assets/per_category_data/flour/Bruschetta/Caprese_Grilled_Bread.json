@@ -1,0 +1,84 @@
+{
+    "title": "Caprese Grilled Bread",
+    "Category": "Bruschetta",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil, or to taste"
+        },
+        {
+            "2": "0.5  French baguette, halved lengthwise"
+        },
+        {
+            "3": "1 clove garlic, minced"
+        },
+        {
+            "4": "1 salt and ground black pepper to taste"
+        },
+        {
+            "5": "1  tomato, thinly sliced"
+        },
+        {
+            "6": "1 teaspoon dried parsley"
+        },
+        {
+            "7": "1 teaspoon dried basil"
+        },
+        {
+            "8": "0.5 (8 ounce) package mozzarella cheese, thinly sliced"
+        },
+        {
+            "9": "6  fresh basil leaves"
+        },
+        {
+            "10": "1 sprig fresh parsley (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for low heat and lightly oil the grate."
+        },
+        {
+            "2": "Drizzle olive oil over baguette halves. Add minced garlic and season with salt and pepper. Layer tomato on top; season tomato with salt, pepper, dried parsley, and dried basil. Top tomato with mozzarella cheese."
+        },
+        {
+            "3": "Place baguette halves on foil and grill until cheese starts to melt, 5 to 8 minutes. Garnish with fresh basil and parsley. Cut into slices and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "265"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2544817.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Southern Style Chicken and Dumplings",
+    "Category": "Chicken and Dumplings",
+    "Ingredients": [
+        {
+            "1": "1 (3 pound) whole chicken"
+        },
+        {
+            "2": "1  onion, quartered"
+        },
+        {
+            "3": "2 slices  lemon"
+        },
+        {
+            "4": "1 salt and pepper to taste"
+        },
+        {
+            "5": "3 cups water"
+        },
+        {
+            "6": "1  bay leaf"
+        },
+        {
+            "7": "0.5 teaspoon dried thyme"
+        },
+        {
+            "8": "2 cups all-purpose flour"
+        },
+        {
+            "9": "3 tablespoons shortening"
+        },
+        {
+            "10": "1 teaspoon salt"
+        },
+        {
+            "11": "0.25 cup water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a heavy pot with a lid place the chicken, onion, lemon, salt, pepper, water, bay leaf and thyme. Simmer all over low heat until tender, about 1 hour."
+        },
+        {
+            "2": "Let chicken cool slightly in pot, then remove and take the meat off of the bones. Discard the bones and skin and skim excess fat off the broth if desired. Discard the onion, lemon and bay leaf. If desired, wash out pot well. Return broth and chicken pieces to the pot. Simmer over low heat while making the dumplings."
+        },
+        {
+            "3": "To Make Dumplings: In a medium mixing bowl, cut shortening into the flour and salt. Stir in 1/4 cup water (more if needed) to form a soft dough. Roll out dough on a floured surface, with a rolling pin, until very thin. Cut into 1 inch wide strips using a pizza cutter or knife. Tear off 1 inch long pieces from these strips and drop into simmering broth and chicken meat. Simmer for 10 minutes with the lid off, then 10 minutes more with the lid on. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "4 to 6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "846"
+        },
+        {
+            "Fat": "49g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "56g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6880334.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3839607.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1719505.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6aa286e8ccb89b8fcf58acad2bd93f1e%2F1087712.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

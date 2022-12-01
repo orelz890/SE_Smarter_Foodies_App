@@ -1,0 +1,93 @@
+{
+    "title": "Summer Fruit Tart from Almond Breeze\u00ae",
+    "Category": "Strawberry Pie",
+    "Ingredients": [
+        {
+            "1": "1  egg"
+        },
+        {
+            "2": "1 tablespoon cornstarch"
+        },
+        {
+            "3": "1 tablespoon maple syrup"
+        },
+        {
+            "4": "1 cup Unsweetened Vanilla Almond Breeze Almondmilk"
+        },
+        {
+            "5": "1  prepared tart shell"
+        },
+        {
+            "6": "0.5 cup sliced fresh strawberries"
+        },
+        {
+            "7": "0.5 cup fresh raspberries"
+        },
+        {
+            "8": "0.5 cup fresh blueberries"
+        },
+        {
+            "9": "0.5 cup fresh blackberries"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "To make custard whisk egg, corn starch and maple syrup together in a pan. Slowly whisk in almond milk over medium heat. Bring to a boil, whisking continuously, remove from heat and cool 5 minutes."
+        },
+        {
+            "2": "Pour custard into tart crust and top with fruit."
+        },
+        {
+            "3": "Refrigerate 30 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "96"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8685384.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd8afee73d759ab7ecc13de0cbb6d3502%2F8499683.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8417613.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6640650.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

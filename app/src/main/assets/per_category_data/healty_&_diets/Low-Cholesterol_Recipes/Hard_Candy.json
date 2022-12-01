@@ -1,0 +1,81 @@
+{
+    "title": "Hard Candy",
+    "Category": "Low-Cholesterol Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "2.25 cups white sugar"
+        },
+        {
+            "3": "0.5 cups light corn syrup"
+        },
+        {
+            "4": "1 cup water"
+        },
+        {
+            "5": "1 tablespoon orange, or other flavored extract"
+        },
+        {
+            "6": "0.5 teaspoon food coloring (Optional)"
+        },
+        {
+            "7": "0.25 cup confectioners' sugar for dusting"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Grease a cookie sheet with cooking spray."
+        },
+        {
+            "2": "Stir together white sugar, corn syrup, and water in a medium saucepan. Cook, stirring, over medium heat until sugar dissolves, then bring to a boil. Without stirring, heat to 300 to 310 degrees F (149 to 154 degrees C), or until a small amount of syrup dropped into cold water forms hard, brittle threads."
+        },
+        {
+            "3": "Remove from the heat and stir in flavored extract and food coloring. Pour onto the prepared cookie sheet. Dust top with confectioners' sugar."
+        },
+        {
+            "4": "Let cool until hardened, about 15 minutes. Break into about 36 pieces and store in an airtight container."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "36 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "124"
+        },
+        {
+            "Carbs": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8991790.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8886929.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8834229.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8827441.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

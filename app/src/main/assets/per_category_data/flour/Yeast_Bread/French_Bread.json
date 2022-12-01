@@ -1,0 +1,108 @@
+{
+    "title": "French Bread",
+    "Category": "Yeast Bread",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon cornmeal"
+        },
+        {
+            "2": "6 cups all-purpose flour"
+        },
+        {
+            "3": "1.0 (.25 ounce) packages active dry yeast"
+        },
+        {
+            "4": "0.5 teaspoons salt"
+        },
+        {
+            "5": "2 cups warm water (110 degrees F/45 degrees C)"
+        },
+        {
+            "6": "1  egg white"
+        },
+        {
+            "7": "1 tablespoon water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Grease a large baking sheet and sprinkle with cornmeal. Set aside."
+        },
+        {
+            "2": "Combine 2 cups flour, yeast, and salt in the bowl of a stand mixer. Stir in 2 cups warm water; beat with the dough hook attachment until blended. Continue adding remaining flour, a little at a time, until incorporated."
+        },
+        {
+            "3": "Knead dough on a lightly floured surface until smooth and elastic, 8 to 10 minutes. Shape into a ball, place in a greased bowl, and turn once. Cover and let rise in a warm place until doubled in size, about 1 hour."
+        },
+        {
+            "4": "Punch dough down and divide in half. Turn out onto a lightly floured surface. Cover and let rest for 10 minutes."
+        },
+        {
+            "5": "Roll each half into a large rectangle. Roll up, starting from a long side. Moisten edge with water and seal. Taper ends."
+        },
+        {
+            "6": "Place loaves, seam-side down, on the prepared baking sheet. Lightly beat egg white with 1 tablespoon water and brush over loaves. Cover with a damp cloth and let rise until nearly doubled, 35 to 40 minutes."
+        },
+        {
+            "7": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "8": "Use a sharp knife to make 3 or 4 diagonal cuts, about 1/4-inch deep, across top of each loaf. Bake in the preheated oven for 20 minutes. Brush loaves with egg white mixture. Continue baking until an instant-read thermometer inserted into the center reads 190 degrees F (88 degrees C) or loaves sound hollow when tapped, 15 to 20 minutes more. If necessary, cover loosely with foil to prevent over-browning."
+        },
+        {
+            "9": "Remove loaves from the baking sheet and cool on a wire rack."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 45 mins"
+        },
+        {
+            "Total Time": " 2 hrs 45 mins"
+        },
+        {
+            "Servings": "30 "
+        },
+        {
+            "Yield": "2 large loaves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "94"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F533b0cb88d1a52652e040c14f188fa90%2F16535988958C51E847-B130-4619-A65A-39728960D191.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F533b0cb88d1a52652e040c14f188fa90%2F1646613798A04313FF-8A10-46E0-8938-E652D2DBD897.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9443527.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9438637.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/M0iNATBS1yb9_MOu5oaGEEcpHBY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9173908-cfa41aa5667d40428557c782afbdf445.jpg"
+        }
+    ],
+    "main category": "flour"
+}

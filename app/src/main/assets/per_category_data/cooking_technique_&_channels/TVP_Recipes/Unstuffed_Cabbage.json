@@ -1,0 +1,84 @@
+{
+    "title": "Unstuffed Cabbage",
+    "Category": "TVP Recipes",
+    "Ingredients": [
+        {
+            "1": "5 cups shredded cabbage"
+        },
+        {
+            "2": "1 (12 ounce) package vegetarian burger crumbles"
+        },
+        {
+            "3": "2 (14.5 ounce) cans Italian-style stewed tomatoes"
+        },
+        {
+            "4": "0.5 tablespoon lemon juice"
+        },
+        {
+            "5": "1 tablespoon brown sugar"
+        },
+        {
+            "6": "0.5 cup chopped fresh dill"
+        },
+        {
+            "7": "0.5 teaspoon ground allspice"
+        },
+        {
+            "8": "1 freshly ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large skillet over a medium heat. Stir in cabbage and let it cook 4 minutes; or until wilted and lightly browned."
+        },
+        {
+            "2": "Stir vegetarian burger crumbles, tomatoes, lemon juice, brown sugar, dill, allspice, and pepper into the mixture. Bring the mixture to a boil, cover and reduce the heat to low. Let the mixture simmer 5 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "5 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "182"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9397030.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8790377.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3785989.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1111573.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

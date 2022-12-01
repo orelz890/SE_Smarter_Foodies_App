@@ -1,0 +1,99 @@
+{
+    "title": "Indian Dahl with Spinach",
+    "Category": "Indian Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 cups red lentils"
+        },
+        {
+            "2": "1.5 cups water"
+        },
+        {
+            "3": "0.5 teaspoon salt"
+        },
+        {
+            "4": "0.5 teaspoon ground turmeric"
+        },
+        {
+            "5": "0.5 teaspoon chili powder"
+        },
+        {
+            "6": "1 pound spinach, rinsed and chopped"
+        },
+        {
+            "7": "2 tablespoons butter"
+        },
+        {
+            "8": "1  onion, chopped"
+        },
+        {
+            "9": "1 teaspoon ground cumin"
+        },
+        {
+            "10": "1 teaspoon mustard seed"
+        },
+        {
+            "11": "1 teaspoon garam masala"
+        },
+        {
+            "12": "0.5 cup coconut milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Rinse lentils and soak for 20 minutes."
+        },
+        {
+            "2": "In a large saucepan, bring water to a boil and stir in salt, lentils, turmeric and chili powder. Cover and return to a boil, then reduce heat to low and simmer for 15 minutes. Stir in the spinach and cook 5 minutes, or until lentils are soft. Add more water if necessary."
+        },
+        {
+            "3": "In a small saucepan over medium heat, melt butter and saute onions with cumin and mustard seeds, stirring often. Cook until onions are transparent, and then combine with lentils. Stir in garam masala and coconut milk and cook until heated through."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "362"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "45g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8989236.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6840795.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F75ff8918b4a252809bc8ba402cc453d1%2F5647004.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff2d56d98e93abffcfa0c84db255a87ae%2F5342433.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

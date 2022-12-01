@@ -1,0 +1,81 @@
+{
+    "title": "Soft Peanut Butter Cookies",
+    "Category": "Peanut Butter Cookies",
+    "Ingredients": [
+        {
+            "1": "0.5 cup margarine, softened"
+        },
+        {
+            "2": "0.5 cup peanut butter"
+        },
+        {
+            "3": "0.5 cup white sugar"
+        },
+        {
+            "4": "0.5 cup packed brown sugar"
+        },
+        {
+            "5": "1  egg"
+        },
+        {
+            "6": "0.5 teaspoon vanilla extract"
+        },
+        {
+            "7": "0.75 teaspoon baking soda"
+        },
+        {
+            "8": "0.25 teaspoon salt"
+        },
+        {
+            "9": "0.75 cups all-purpose flour"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine margarine, peanut butter, sugars, egg, and vanilla. Blend together very well."
+        },
+        {
+            "2": "Add flour, baking soda and salt with mixer. Chill dough 15 minutes in the refrigerator. Roll into balls by hand."
+        },
+        {
+            "3": "Place on sprayed cookie sheet and bake in a preheated 350 degrees F (175 degrees C) oven until edges very lightly browning (about 7 to 10 minutes). Don't overcook. We store them in a plastic storage containers, and they stay soft!"
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "2 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "270"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc22e16a5bc8892d164eadbb072323b5a%2F164680039120220308_221611.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc22e16a5bc8892d164eadbb072323b5a%2F164575603016457560050525338700302024237640.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9293868.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9282759.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

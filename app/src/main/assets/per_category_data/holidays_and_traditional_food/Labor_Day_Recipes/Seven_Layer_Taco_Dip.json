@@ -1,0 +1,96 @@
+{
+    "title": "Seven-Layer Taco Dip",
+    "Category": "Labor Day Recipes",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) can refried beans"
+        },
+        {
+            "2": "1 (1 ounce) package taco seasoning mix"
+        },
+        {
+            "3": "1 (16 ounce) container sour cream"
+        },
+        {
+            "4": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "5": "1 (16 ounce) jar salsa"
+        },
+        {
+            "6": "1 large tomato, chopped"
+        },
+        {
+            "7": "1 medium green bell pepper, chopped"
+        },
+        {
+            "8": "1 bunch chopped green onions"
+        },
+        {
+            "9": "1 small head iceberg lettuce, shredded"
+        },
+        {
+            "10": "2 cups shredded Cheddar cheese"
+        },
+        {
+            "11": "1 (6 ounce) can sliced black olives, drained"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Blend refried beans and taco seasoning in a medium bowl; spread mixture onto a large serving platter."
+        },
+        {
+            "2": "Mix sour cream and cream cheese in a medium bowl; spread over refried beans."
+        },
+        {
+            "3": "Top with salsa. Layer tomato, bell pepper, green onions, and lettuce over top."
+        },
+        {
+            "4": "Sprinkle over Cheddar cheese and garnish with black olives."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "56 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "66"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9170021.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9115989.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9090745.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9068363.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/VKVJPbIS_rkXM64YWMdGlxX_yUM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/246196-3be08f1e81124898a785c8a66588ea93.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

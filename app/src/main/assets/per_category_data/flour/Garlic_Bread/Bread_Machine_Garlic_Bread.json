@@ -1,0 +1,87 @@
+{
+    "title": "Bread Machine Garlic Bread",
+    "Category": "Garlic Bread",
+    "Ingredients": [
+        {
+            "1": "1 cup warm water (110 degrees F)"
+        },
+        {
+            "2": "1 tablespoon butter"
+        },
+        {
+            "3": "1 tablespoon dry milk powder"
+        },
+        {
+            "4": "1 tablespoon white sugar"
+        },
+        {
+            "5": "0.5 teaspoons salt"
+        },
+        {
+            "6": "0.5 tablespoons dried parsley"
+        },
+        {
+            "7": "2 teaspoons garlic powder"
+        },
+        {
+            "8": "3 cups bread flour"
+        },
+        {
+            "9": "2 teaspoons active dry yeast"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select Basic Bread cycle; press Start."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": " 2 hrs 30 mins"
+        },
+        {
+            "Total Time": " 3 hrs 10 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 - 1 1/2 pound loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "142"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8385678.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5058261.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd58743f3ee2539ee86d1075270c703bd%2F925899.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F61879.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

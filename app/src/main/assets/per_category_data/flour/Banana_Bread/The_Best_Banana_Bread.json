@@ -1,0 +1,87 @@
+{
+    "title": "The Best Banana Bread",
+    "Category": "Banana Bread",
+    "Ingredients": [
+        {
+            "1": "1 cup white sugar"
+        },
+        {
+            "2": "0.5 cup margarine, softened"
+        },
+        {
+            "3": "2  eggs"
+        },
+        {
+            "4": "0.5 cups mashed banana"
+        },
+        {
+            "5": "2 cups all-purpose flour"
+        },
+        {
+            "6": "1 teaspoon baking soda"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x5-inch loaf pan."
+        },
+        {
+            "2": "Beat sugar and margarine in a bowl until smooth. Beat in eggs, then bananas. Add flour and baking soda, stirring just until combined. Pour into the prepared pan."
+        },
+        {
+            "3": "Bake in the preheated oven until a toothpick in the center comes out clean, about 1 hour. Remove from the pan and let cool."
+        },
+        {
+            "4": "Store in the refrigerator or freeze."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "15 "
+        },
+        {
+            "Yield": "1 9x5-inch loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "196"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1d3a8d17465bb1c506e889ec385aae17%2F1662151201469AA826-7AE7-401C-A4F1-3F344F7EC2F9.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1d3a8d17465bb1c506e889ec385aae17%2F1656989043image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1d3a8d17465bb1c506e889ec385aae17%2F1655393210E01D7CA6-51CA-4C84-AFA7-C9EC46BE3B32.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1d3a8d17465bb1c506e889ec385aae17%2F164627510320220302_162542.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/v0epISNRlsWblEVU1iZHO9f_Pm8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1769978-4cef92ab451d4d6f933c355281f0f4b2.jpg"
+        }
+    ],
+    "main category": "flour"
+}

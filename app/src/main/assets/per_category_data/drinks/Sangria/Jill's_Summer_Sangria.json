@@ -1,0 +1,74 @@
+{
+    "title": "Jill's Summer Sangria",
+    "Category": "Sangria",
+    "Ingredients": [
+        {
+            "1": "2 (750 milliliter) bottles red wine"
+        },
+        {
+            "2": "2 cups rum"
+        },
+        {
+            "3": "2 cups orange juice"
+        },
+        {
+            "4": "1 cup white sugar"
+        },
+        {
+            "5": "1 pint fresh strawberries, sliced"
+        },
+        {
+            "6": "1 (20 ounce) can pineapple chunks in juice"
+        },
+        {
+            "7": "1 (10 ounce) jar maraschino cherries, drained"
+        },
+        {
+            "8": "2 cups rum"
+        },
+        {
+            "9": "2 cups orange juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large pitcher, mix the red wine, 2 cups rum, 2 cups orange juice, and sugar. Refrigerate 8 hours, or overnight."
+        },
+        {
+            "2": "In a large bowl, mix the strawberries, pineapple chunks, and maraschino cherries. Cover with 2 cups rum and 2 cups orange juice. Refrigerate 8 hours, or overnight."
+        },
+        {
+            "3": "Drain the fruit (reserve the liquid if desired). Mix the fruit into the pitcher with the sangria to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 15 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "20 servings"
+        }
+    ],
+    "Nutrition Facts": [],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8232837.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F493f4c83dba67956c46caae1b3307929%2F1023913.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1023912.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

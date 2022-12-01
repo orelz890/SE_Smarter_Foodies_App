@@ -1,0 +1,93 @@
+{
+    "title": "Fluffy Japanese Pancakes",
+    "Category": "Pancakes",
+    "Ingredients": [
+        {
+            "1": "2  eggs, separated"
+        },
+        {
+            "2": "0.5 cups all-purpose flour"
+        },
+        {
+            "3": "0.25 cup white sugar"
+        },
+        {
+            "4": "2 teaspoons baking powder"
+        },
+        {
+            "5": "0.5 teaspoon baking soda"
+        },
+        {
+            "6": "0.25 cups buttermilk"
+        },
+        {
+            "7": "0.25 cup melted butter"
+        },
+        {
+            "8": "0.5 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Beat egg whites in a glass, metal, or ceramic bowl until stiff peaks form."
+        },
+        {
+            "2": "Butter enough 3 1/2-inch ring molds to fill your frying pan. Place molds in the pan over low heat. Cover."
+        },
+        {
+            "3": "Mix flour, sugar, baking powder, and baking soda in a bowl."
+        },
+        {
+            "4": "Combine buttermilk, egg yolks, butter, and vanilla extract in a separate bowl. Add the flour mixture and stir until batter is fairly smooth."
+        },
+        {
+            "5": "Fold egg whites into the batter until combined. Small bits of egg whites still showing is ok."
+        },
+        {
+            "6": "Pour about 1/2 cup of batter into each mold and cover the pan. Cook until bubbles start forming at the top, about 5 minutes. Flip pancakes in their molds and cook until set, 3 to 4 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 pancakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "195"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8208832.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F51d7661d54b112784bfdd801f8e561a6%2F6677388.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5411056.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,147 @@
+{
+    "title": "A Scotsman's Shepherd Pie",
+    "Category": "Shepherd's Pie",
+    "Ingredients": [
+        {
+            "1": "5 cups mashed, boiled potatoes"
+        },
+        {
+            "2": "0.5 cup sour cream"
+        },
+        {
+            "3": "2 ounces cream cheese"
+        },
+        {
+            "4": "2 tablespoons butter, softened, divided"
+        },
+        {
+            "5": "1  egg yolk"
+        },
+        {
+            "6": "0.5 teaspoon kosher salt"
+        },
+        {
+            "7": "0.5 teaspoon freshly ground black pepper"
+        },
+        {
+            "8": "0.5 teaspoons olive oil"
+        },
+        {
+            "9": "1 pound ground lamb"
+        },
+        {
+            "10": "1 pinch salt and ground black pepper to taste"
+        },
+        {
+            "11": "1 (16 ounce) can stewed tomatoes with juice, chopped"
+        },
+        {
+            "12": "1 small onion, chopped"
+        },
+        {
+            "13": "1 small carrot, peeled and chopped"
+        },
+        {
+            "14": "0.5 cup peas"
+        },
+        {
+            "15": "1 cup Irish stout beer (such as Guinness\u00ae)"
+        },
+        {
+            "16": "1 cube beef bouillon"
+        },
+        {
+            "17": "1 tablespoon all-purpose flour"
+        },
+        {
+            "18": "1 tablespoon Worcestershire sauce"
+        },
+        {
+            "19": "0.75 cup shredded sharp Cheddar cheese"
+        },
+        {
+            "20": "2 teaspoons chopped fresh parsley"
+        },
+        {
+            "21": "2 teaspoons smoked paprika"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Stir potatoes, sour cream, cream cheese, 1 tablespoon butter, egg yolk, 1/2 teaspoon salt, and 1/2 teaspoon black pepper together in a bowl until smooth."
+        },
+        {
+            "2": "Heat olive oil in a cast iron skillet or nonstick pan over medium-high heat. Add ground lamb, reduce heat to medium, and cook, stirring frequently, until browned and crumbly, 4 to 5 minutes. Pour off excess grease and season lamb with salt and black pepper to taste."
+        },
+        {
+            "3": "Stir tomatoes with juice, onion, and carrot into ground lamb; simmer until vegetables are tender, 5 to 10 minutes. Add peas, reduce heat to low, and cook, stirring frequently, until peas are warmed, 2 to 3 minutes."
+        },
+        {
+            "4": "Heat beer in a saucepan over medium heat; add beef bouillon. Cook and stir beer mixture until bouillon is dissolved, about 5 minutes."
+        },
+        {
+            "5": "Heat remaining 1 tablespoon butter in a separate pan over medium-low heat until sizzling. Whisk flour into butter until thick and paste-like, about 1 minute. Stir beer mixture and Worcestershire sauce into flour mixture until gravy is smooth and thickened, 2 to 3 minutes. Stir gravy into lamb mixture and simmer until mixture is thickened, at least 5 minutes."
+        },
+        {
+            "6": "Set oven rack about 6 inches from the heat source and preheat the oven's broiler. Grease a 9x12-inch baking dish."
+        },
+        {
+            "7": "Pour lamb mixture into the prepared baking dish. Carefully spoon mashed potatoes over lamb mixture, covering like a crust. Sprinkle Cheddar cheese, parsley, and paprika over mashed potatoes."
+        },
+        {
+            "8": "Broil in the preheated oven until crust is browned and cheese is melted, 4 to 5 minutes. Cool for about 5 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "45 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "386"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F85bdd4ca5c52983c7b0e1c00907d2a5f%2F1659715939715B13E2-1B59-4A72-826A-CA24977EDE2E.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9395265.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9391204.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9342862.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/cPCyEaHi8JBHQ6HInU_AuPP450I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-535-4f0ac56861ad4aaabb0b6370cb784873.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

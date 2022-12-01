@@ -1,0 +1,75 @@
+{
+    "title": "Deconstructed California Roll Sushi",
+    "Category": "Sushi",
+    "Ingredients": [
+        {
+            "1": "1 cup uncooked medium grain white rice"
+        },
+        {
+            "2": "2 cups water"
+        },
+        {
+            "3": "1 cup imitation crabmeat, shredded"
+        },
+        {
+            "4": "1 cup peeled, thinly sliced cucumbers"
+        },
+        {
+            "5": "2 medium avocados, thinly sliced"
+        },
+        {
+            "6": "2 tablespoons teriyaki sauce, or more to taste"
+        },
+        {
+            "7": "1 tablespoon black sesame seeds, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Rinse rice 3 times. Place in a saucepan and add water; bring to a boil. Reduce heat to medium-low, cover, and simmer until rice is tender and water has been absorbed, 20 to 25 minutes. Remove from the heat and cool to room temperature, 15 to 20 minutes."
+        },
+        {
+            "2": "Divide ingredients evenly and layer onto 4 plates as follows: rice, crab, cucumber slices, and avocado slices. Drizzle teriyaki over each plate and sprinkle with sesame seeds."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "392"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "55g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6769925.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "fish_&_sushi"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Air Fryer Roasted Garlic",
+    "Category": "Air Fryer Recipes",
+    "Ingredients": [
+        {
+            "1": "1 head garlic"
+        },
+        {
+            "2": "1 aluminum foil"
+        },
+        {
+            "3": "1 teaspoon extra-virgin olive oil"
+        },
+        {
+            "4": "0.25 teaspoon salt"
+        },
+        {
+            "5": "0.25 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the air fryer to 380 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Cut the top off the head of garlic and place on a square piece of aluminum foil. Bring the foil up and around garlic. Pour olive oil on top and season with salt and pepper. Close ends of foil over garlic, creating a pouch."
+        },
+        {
+            "3": "Air fry until garlic is soft, 16 to 20 minutes. Open the foil pouch very carefully, as hot steam will escape."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "32"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc40582f83bc45c92348d6c8f9206a32f%2F164634724296FA5F13-F5CF-4956-9147-2529EC0D457C.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9280059.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7878941.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9367697.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/j-JZzKNhE-RZJZoL8xEuF-FBhMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7878941-b73a399a350c406086160646953cc0c5.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

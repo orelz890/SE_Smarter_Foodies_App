@@ -1,0 +1,69 @@
+{
+    "title": "Scottish Shortbread IV",
+    "Category": "Shortbread Cookies",
+    "Ingredients": [
+        {
+            "1": "2 cups butter"
+        },
+        {
+            "2": "1 cup packed brown sugar"
+        },
+        {
+            "3": "2.0 cups all-purpose flour"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 325 degrees F (165 degrees C)."
+        },
+        {
+            "2": "Cream butter and brown sugar. Add 3 to 3 3/4 cups flour. Mix well."
+        },
+        {
+            "3": "Sprinkle board with the remaining flour. Knead for 5 minutes, adding enough flour to make a soft dough. Roll to 1/2 inch thickness. Cut into 3x1 inch strips. Prick with fork and place on ungreased baking sheets."
+        },
+        {
+            "4": "Bake at 325 degrees F (165 degrees C) for 20 to 25 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "4 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "256"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9329044.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9167372.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8906748.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8889210.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/ONDQGQWTFJN8SIPZZEyJQgHdpJI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-134-35efe0d72c314c6ea263b1b5a0cf2a97.jpg"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

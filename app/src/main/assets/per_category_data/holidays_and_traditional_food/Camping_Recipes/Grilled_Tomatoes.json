@@ -1,0 +1,75 @@
+{
+    "title": "Grilled Tomatoes",
+    "Category": "Camping Recipes",
+    "Ingredients": [
+        {
+            "1": "8  tomatoes, halved lengthwise"
+        },
+        {
+            "2": "1 tablespoon olive oil"
+        },
+        {
+            "3": "2 cloves garlic, minced, or to taste"
+        },
+        {
+            "4": "1 teaspoon salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for medium-high heat, and lightly oil the grate."
+        },
+        {
+            "2": "Drizzle the olive oil over the cut sides of the tomatoes, and sprinkle with garlic, salt, and black pepper."
+        },
+        {
+            "3": "Place tomatoes, cut sides up, onto the preheated grill, and grill until the tomatoes start to sizzle and show blackened grill marks, about 4 minutes. Flip the tomatoes over and grill until the garlic turns golden brown, about 3 more minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "16 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "21"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9241228.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F974363.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Feb435f8e74680a3a27d911b3c583029b%2F708641.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2e43e2d74265681cbcef956b32c4e455%2F681316.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

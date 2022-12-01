@@ -1,0 +1,102 @@
+{
+    "title": "Personal Shepherd's Pies",
+    "Category": "Shepherd's Pie",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "4": "1 cup frozen corn"
+        },
+        {
+            "5": "1 tablespoon ketchup"
+        },
+        {
+            "6": "0.25 teaspoon black pepper"
+        },
+        {
+            "7": "2 cups prepared instant mashed potatoes"
+        },
+        {
+            "8": "0.75 cup shredded Cheddar cheese (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook and stir beef and onion in a skillet over medium-high heat until beef is browned and crumbly, about 5 minutes; drain and discard grease."
+        },
+        {
+            "2": "Reduce heat to low. Stir mushroom soup, corn, ketchup, and pepper into beef mixture; cook until heated through, about 2 minutes. Divide beef mixture into four 4-inch round baking pans; spread prepared mashed potatoes over beef mixture."
+        },
+        {
+            "3": "Bake in the preheated oven until potatoes are lightly browned, about 15 minutes."
+        },
+        {
+            "4": "Set oven rack about 6 inches from the heat source and preheat the oven's broiler."
+        },
+        {
+            "5": "Sprinkle Cheddar cheese evenly over pies. Place pies on a baking sheet."
+        },
+        {
+            "6": "Broil until cheese is melted, about 2 minutes. Allow to cool for 5 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 4-inch pies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "574"
+        },
+        {
+            "Fat": "35g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9096224.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8102805.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7159631.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6765530.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/jC7Wuj0MDA6sbqSaDzb7yP3anVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ea001146-cbe7-4172-adfd-7cc5bdea7865-662c74e45c4546548b6b8d71ebbd4ed9.png"
+        }
+    ],
+    "main category": "carbs"
+}

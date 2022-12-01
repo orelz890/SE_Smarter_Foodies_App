@@ -1,0 +1,96 @@
+{
+    "title": "Slow Cooker Mac and Cheese",
+    "Category": "Macaroni and Cheese",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package elbow macaroni"
+        },
+        {
+            "2": "0.5 cup butter"
+        },
+        {
+            "3": "1 salt and ground black pepper to taste"
+        },
+        {
+            "4": "1 (16 ounce) package shredded Cheddar cheese, divided"
+        },
+        {
+            "5": "1 (5 ounce) can evaporated milk"
+        },
+        {
+            "6": "2  eggs, well beaten"
+        },
+        {
+            "7": "2 cups whole milk"
+        },
+        {
+            "8": "1 (10.5 ounce) can condensed Cheddar cheese soup (such as Campbell's\u00ae)"
+        },
+        {
+            "9": "1 pinch paprika, or as desired (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in macaroni and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 8 minutes. Drain and transfer pasta to a slow cooker."
+        },
+        {
+            "2": "Add butter to pasta and stir until melted; season with salt and pepper. Sprinkle about 1/2 of the Cheddar cheese over pasta and stir."
+        },
+        {
+            "3": "Whisk evaporated milk and eggs together in a bowl until smooth; stir into pasta mixture."
+        },
+        {
+            "4": "Whisk milk and condensed soup together in a bowl until smooth; stir into pasta mixture. Sprinkle remaining cheese over pasta mixture; garnish with paprika."
+        },
+        {
+            "5": "Cook on Low for 3 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 3 hrs 15 mins"
+        },
+        {
+            "Total Time": " 3 hrs 30 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "432"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429606.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9319221.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9312547.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8780663.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/4h5yzzM5u5_Pgx6zoazspPPCZJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/237311-Slow-cooker-mac-and-cheese-ddmfs-1X1-1297-1-d5968b9dc757411fb6a973d37b311166.jpg"
+        }
+    ],
+    "main category": "dairy"
+}

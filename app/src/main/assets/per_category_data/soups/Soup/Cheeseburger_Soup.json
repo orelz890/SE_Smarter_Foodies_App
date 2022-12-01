@@ -1,0 +1,105 @@
+{
+    "title": "Cheeseburger Soup",
+    "Category": "Soup",
+    "Ingredients": [
+        {
+            "1": "4 tablespoons butter, divided"
+        },
+        {
+            "2": "0.5 pound ground beef"
+        },
+        {
+            "3": "0.75 cup chopped onion"
+        },
+        {
+            "4": "0.75 cup shredded carrots"
+        },
+        {
+            "5": "0.75 cup chopped celery"
+        },
+        {
+            "6": "1 teaspoon dried basil"
+        },
+        {
+            "7": "1 teaspoon dried parsley"
+        },
+        {
+            "8": "4 cups cubed potatoes"
+        },
+        {
+            "9": "3 cups chicken broth"
+        },
+        {
+            "10": "0.25 cup all-purpose flour"
+        },
+        {
+            "11": "0.5 cups milk"
+        },
+        {
+            "12": "2 cups cubed Cheddar cheese"
+        },
+        {
+            "13": "0.25 cup sour cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt 1 tablespoon butter in a large pot over medium heat; add ground beef, onion, carrots, and celery. Cook and stir until beef is browned and crumbly, 5 to 7 minutes."
+        },
+        {
+            "2": "Stir in basil and parsley. Add potatoes and broth and bring to a boil; reduce heat to low and simmer until potatoes are tender, 10 to12 minutes."
+        },
+        {
+            "3": "Melt remaining 3 tablespoons butter in a small saucepan over medium heat. Add flour and whisk until smooth, about 1 minute. Gradually whisk in milk; simmer and stir until sauce is thick and smooth."
+        },
+        {
+            "4": "Stir sauce into soup, stirring constantly. Bring to a boil; reduce heat to low and stir in cheese until melted. Add sour cream; stir until just heated through."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "411"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F85a1a990670a6e55fa5aa746a8737bed%2F1663522350E0606810-7C51-40DB-8383-9D78315D4917.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F85a1a990670a6e55fa5aa746a8737bed%2F164687528016468752690222672365164001455692.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F85a1a990670a6e55fa5aa746a8737bed%2F1643938697image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F85a1a990670a6e55fa5aa746a8737bed%2F1643676608image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/TrEhqR3DOSIko6nv6xySuJ8l8k8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13062-cheeseburger-soup-1x1-640-copy-048b6df1313b4dbe8d94df2f66ed5dbe.jpg"
+        }
+    ],
+    "main category": "soups"
+}

@@ -1,0 +1,108 @@
+{
+    "title": "Pineapple Zucchini Loaf",
+    "Category": "Zucchini Bread",
+    "Ingredients": [
+        {
+            "1": "3  eggs"
+        },
+        {
+            "2": "1 cup vegetable oil"
+        },
+        {
+            "3": "2 cups white sugar"
+        },
+        {
+            "4": "2 teaspoons vanilla extract"
+        },
+        {
+            "5": "2 cups grated zucchini"
+        },
+        {
+            "6": "1 cup crushed pineapple"
+        },
+        {
+            "7": "3 cups all-purpose flour"
+        },
+        {
+            "8": "2 teaspoons baking soda"
+        },
+        {
+            "9": "1 teaspoon salt"
+        },
+        {
+            "10": "0.25 teaspoon baking powder"
+        },
+        {
+            "11": "0.5 teaspoons ground cinnamon"
+        },
+        {
+            "12": "0.75 teaspoon ground nutmeg"
+        },
+        {
+            "13": "1 cup raisins"
+        },
+        {
+            "14": "1 cup chopped walnuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Beat eggs, oil, sugar, and vanilla together until thick."
+        },
+        {
+            "3": "Stir zucchini, pineapple, flour, soda, salt, baking powder, spices, raisins, and walnuts into the egg mixture; blend well."
+        },
+        {
+            "4": "Pour batter into two 9x5 inch greased loaf pans. Bake in preheated oven for 1 hour, or until a toothpick inserted into the center of the cake comes out clean. Cool in the pan for 10 minutes then turn out onto a wire rack."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "2 loaves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "271"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F71689f95ef1b4ba98f5068f953b7f123%2F7248147.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7231588.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6956558.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6956572.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

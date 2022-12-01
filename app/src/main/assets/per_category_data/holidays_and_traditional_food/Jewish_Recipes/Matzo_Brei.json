@@ -1,0 +1,66 @@
+{
+    "title": "Matzo Brei",
+    "Category": "Jewish Recipes",
+    "Ingredients": [
+        {
+            "1": "1  matzo cracker"
+        },
+        {
+            "2": "1  egg"
+        },
+        {
+            "3": "1 salt and pepper to taste"
+        },
+        {
+            "4": "1 teaspoon vegetable oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Take the matzo and break into small pieces into a bowl. Cover with hot water for a minute. Then squeeze out the water."
+        },
+        {
+            "2": "In a small bowl, beat one egg with salt and pepper to taste and add to matzo. Mix well."
+        },
+        {
+            "3": "Heat frying pan with a little oil. Pour mixture into the pan. Brown one side and turn over."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 serving"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "222"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "24g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3522531.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1121935.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2197559.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1120494.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

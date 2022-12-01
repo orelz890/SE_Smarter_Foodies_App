@@ -1,0 +1,60 @@
+{
+    "title": "World's Best Key Lime Pie",
+    "Category": "Key Lime Pie",
+    "Ingredients": [
+        {
+            "1": "1 (10 inch) prepared graham cracker pie crust"
+        },
+        {
+            "2": "1 (14 ounce) can sweetened condensed milk"
+        },
+        {
+            "3": "0.5 cup key lime juice"
+        },
+        {
+            "4": "1 (16 ounce) package frozen whipped topping, thawed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, mix together condensed milk and lime juice. Fold in whipped topping and mix until smooth. Pour mixture into graham cracker crust. Refrigerate at least 1 hour before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 to 10 - inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "495"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "62g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8324599.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7796724.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6541320.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5766868.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

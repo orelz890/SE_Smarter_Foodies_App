@@ -1,0 +1,75 @@
+{
+    "title": "Alfredo Sauce",
+    "Category": "Side Dishes",
+    "Ingredients": [
+        {
+            "1": "0.25 cup butter"
+        },
+        {
+            "2": "1 cup heavy cream"
+        },
+        {
+            "3": "0.5 cups freshly grated Parmesan cheese"
+        },
+        {
+            "4": "1 clove garlic, crushed"
+        },
+        {
+            "5": "0.25 cup chopped fresh parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a medium saucepan over low heat. Stir in cream and simmer for 5 minutes."
+        },
+        {
+            "2": "Add cheese and garlic; whisk continuously until heated through. Stir in parsley and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "439"
+        },
+        {
+            "Fat": "42g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "13g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F241314795d0741a899d7931a02a2453c%2F1661389675image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F241314795d0741a899d7931a02a2453c%2F166120394120220822_163207.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F241314795d0741a899d7931a02a2453c%2F1656774284image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F241314795d0741a899d7931a02a2453c%2F16567364307DAB3FB2-35E8-40A2-A37C-1DF8C1716FFD.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Gqc38_PFrdvqeq2siFL5arBOO94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22831-Alfredo-Sauce-mfs-106-9061bb0968c74b2a8fa145b627fd020b.jpg"
+        }
+    ],
+    "main category": "side_dishes"
+}

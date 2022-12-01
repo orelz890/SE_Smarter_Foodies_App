@@ -1,0 +1,96 @@
+{
+    "title": "Persimmon Pudding",
+    "Category": "Fruitcake",
+    "Ingredients": [
+        {
+            "1": "1.0 cups white sugar"
+        },
+        {
+            "2": "2 cups persimmon pulp"
+        },
+        {
+            "3": "2 large eggs, beaten"
+        },
+        {
+            "4": "0.5 teaspoon baking soda"
+        },
+        {
+            "5": "2 cups all-purpose flour"
+        },
+        {
+            "6": "2 teaspoons baking powder"
+        },
+        {
+            "7": "0.5 teaspoon ground cinnamon"
+        },
+        {
+            "8": "0.25 teaspoon vanilla extract"
+        },
+        {
+            "9": "1 pinch salt"
+        },
+        {
+            "10": "1.0 cups milk"
+        },
+        {
+            "11": "4 tablespoons melted butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 325 degrees F (165 degrees C). Grease a 9x13-inch baking dish."
+        },
+        {
+            "2": "Combine sugar, persimmon pulp, eggs, and baking soda in a mixing bowl. Mix well."
+        },
+        {
+            "3": "Add flour, baking powder, cinnamon, vanilla, and salt. Pour in milk and melted butter. Stir to combine."
+        },
+        {
+            "4": "Pour into the baking pan and bake in the preheated oven for 55 minutes. The pudding will rise but will fall when removed from the oven."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "55 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "539"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "110g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9400518.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9400517.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9400520.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8836047.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Tortellini Primavera",
+    "Category": "Tortellini",
+    "Ingredients": [
+        {
+            "1": "20 ounces refrigerated cheese tortellini"
+        },
+        {
+            "2": "2 cups halved cherry tomatoes"
+        },
+        {
+            "3": "0.5 cups bite-sized broccoli florets"
+        },
+        {
+            "4": "1 cup diced yellow bell pepper"
+        },
+        {
+            "5": "0.75 cup shredded Parmesan cheese"
+        },
+        {
+            "6": "6 ounces pepperoni sausage, cubed (Optional)"
+        },
+        {
+            "7": "1 cup Italian-style salad dressing (such as Newman's Own\u00ae) (Optional)"
+        },
+        {
+            "8": "0.25 cup Italian-style salad dressing (such as Newman's Own\u00ae) (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Cook tortellini at a boil until tender yet firm to the bite and filling is warmed through, 5 to 7 minutes; drain."
+        },
+        {
+            "2": "Stir cooked tortellini, tomatoes, broccoli, yellow bell pepper, Parmesan cheese, and pepperoni together in a bowl. Pour in 1 cup Italian dressing and toss to coat. Cover and refrigerate for at least 4 hours. If salad looks dry, stir in an additional 1/4 cup Italian dressing before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 4 hrs"
+        },
+        {
+            "Total Time": " 4 hrs 30 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "5 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "762"
+        },
+        {
+            "Fat": "45g"
+        },
+        {
+            "Carbs": "64g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8180895.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2250081.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1038443.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

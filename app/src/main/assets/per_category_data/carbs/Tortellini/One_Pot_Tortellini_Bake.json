@@ -1,0 +1,90 @@
+{
+    "title": "One Pot Tortellini Bake",
+    "Category": "Tortellini",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1 teaspoon Italian seasoning"
+        },
+        {
+            "3": "0.5 teaspoon salt"
+        },
+        {
+            "4": "0.5 teaspoon granulated garlic"
+        },
+        {
+            "5": "1 (28 ounce) jar marinara sauce"
+        },
+        {
+            "6": "1 (14.5 ounce) can diced tomatoes"
+        },
+        {
+            "7": "1 cup water"
+        },
+        {
+            "8": "0.25 cup Cabernet Sauvignon (or other dry red wine)"
+        },
+        {
+            "9": "1 (16 ounce) package tortellini"
+        },
+        {
+            "10": "1 (8 ounce) package cream cheese, cubed"
+        },
+        {
+            "11": "4 ounces shredded mozzarella cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a Dutch oven over medium-high heat. Add ground beef and cook until brown and crumbly, 5 to 10 minutes. Add Italian seasoning, salt, and granulated garlic; mix to combine."
+        },
+        {
+            "2": "Stir in marinara sauce, diced tomatoes with liquid, water, and red wine until well combined. Reduce heat to low; add tortellini and cook until warmed through, about 10 to 15 minutes."
+        },
+        {
+            "3": "Meanwhile, preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "4": "Add cream cheese to tortellini mixture and stir gently to blend; sprinkle mozzarella cheese over the surface."
+        },
+        {
+            "5": "Bake in the preheated oven until cheese is melted and golden brown, about 15 minutes. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "783"
+        },
+        {
+            "Fat": "46g"
+        },
+        {
+            "Carbs": "57g"
+        },
+        {
+            "Protein": "33g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd1dccd44b13d617eeca2fcc2f1f7a08b%2F16682891918038DB6D050-1596-4710-BFF6-7CB5C8A2BFDF_1_201_a.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

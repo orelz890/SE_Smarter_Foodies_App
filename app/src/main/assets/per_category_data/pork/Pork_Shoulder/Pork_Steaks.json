@@ -1,0 +1,78 @@
+{
+    "title": "Pork Steaks",
+    "Category": "Pork Shoulder",
+    "Ingredients": [
+        {
+            "1": "0.25 cup butter"
+        },
+        {
+            "2": "0.25 cup soy sauce"
+        },
+        {
+            "3": "1 bunch green onions, chopped"
+        },
+        {
+            "4": "2 cloves garlic, minced"
+        },
+        {
+            "5": "6  pork butt steaks"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a skillet over medium heat; stir in soy sauce. Add green onions and garlic and cook until lightly browned, about 2 minutes."
+        },
+        {
+            "2": "Place pork steaks in the skillet. Cover and cook until browned, 8 to 10 minutes per side. Remove the lid and continue cooking until an instant-read thermometer inserted into the thickest part of the steak reads 145 degrees F (63 degrees C), about 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 steaks"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "353"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9187111ebe531524926163282f998cb0%2F1656127668IMG_20220624_154932038.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F9187111ebe531524926163282f998cb0%2F1643937049image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9396473.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9285378.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Df91b3_8R1vnKSLYuhfuu2AB4rU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9174656-pork-steaks-Erdie1947-1x1-1-8d0f7d77d4354ea49f499a35f8374e31.jpg"
+        }
+    ],
+    "main category": "pork"
+}

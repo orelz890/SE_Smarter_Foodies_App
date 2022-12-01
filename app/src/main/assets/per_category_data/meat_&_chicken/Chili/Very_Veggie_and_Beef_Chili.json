@@ -1,0 +1,126 @@
+{
+    "title": "Very Veggie and Beef Chili",
+    "Category": "Chili",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "1  green bell pepper, chopped"
+        },
+        {
+            "4": "1  yellow bell pepper, chopped"
+        },
+        {
+            "5": "1  carrot, diced"
+        },
+        {
+            "6": "1  zucchini, diced"
+        },
+        {
+            "7": "1  yellow squash, diced"
+        },
+        {
+            "8": "1 (28 ounce) can crushed tomatoes"
+        },
+        {
+            "9": "1 (16 ounce) can kidney beans, rinsed and drained"
+        },
+        {
+            "10": "1 (16 ounce) can black beans, rinsed and drained"
+        },
+        {
+            "11": "1 (15 ounce) can diced tomatoes"
+        },
+        {
+            "12": "1 cup frozen white corn kernels"
+        },
+        {
+            "13": "1 tablespoon minced garlic"
+        },
+        {
+            "14": "0.25 tablespoons chili powder"
+        },
+        {
+            "15": "1 tablespoon brown sugar"
+        },
+        {
+            "16": "0.5 teaspoon paprika"
+        },
+        {
+            "17": "0.5 teaspoon dried oregano"
+        },
+        {
+            "18": "0.5 teaspoon ground cayenne pepper"
+        },
+        {
+            "19": "0.5 teaspoon ground cumin"
+        },
+        {
+            "20": "0.5 teaspoon salt"
+        },
+        {
+            "21": "0.5 teaspoon ground black pepper"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Break ground beef into small pieces into a large pot over medium heat; cook and stir until beginning to brown, 3 to 5 minutes. Add onion, green bell pepper, yellow bell pepper, and carrot to ground beef; cook and stir until the vegetables begin to soften, 5 to 7 minutes. Stir zucchini and yellow squash into the beef mixture; continue cooking until the beef is completely browned, 3 to 5 minutes more. Drain excess liquid from the pot and return to medium heat."
+        },
+        {
+            "2": "Stir crushed tomatoes, kidney beans, black beans, diced tomatoes, corn, and garlic into the beef mixture; bring to a boil. Season mixture with chili powder, brown sugar, paprika, oregano, cayenne pepper, cumin, salt, and black pepper."
+        },
+        {
+            "3": "Reduce heat to low, place a cover on the pot, and cook chili at a simmer for 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "337"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "38g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8840539.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8568821.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7565209.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7565187.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Quinoa Pudding",
+    "Category": "Quinoa",
+    "Ingredients": [
+        {
+            "1": "0.5 cups water"
+        },
+        {
+            "2": "0.75 cup quinoa"
+        },
+        {
+            "3": "2 cups whole milk"
+        },
+        {
+            "4": "2  ripe bananas"
+        },
+        {
+            "5": "2 tablespoons white sugar"
+        },
+        {
+            "6": "1 salt to taste"
+        },
+        {
+            "7": "0.5 tablespoon butter"
+        },
+        {
+            "8": "0.5 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Rinse and drain the quinoa. Bring water and quinoa to a boil in a saucepan over high heat, stirring occasionally. Reduce heat, cover, and simmer for 15 minutes. Remove from the heat."
+        },
+        {
+            "2": "Blend together the milk, bananas, sugar, and salt in the bowl of a blender or food processor until smooth. Pour the milk mixture into the saucepan with the quinoa."
+        },
+        {
+            "3": "Place the pan over medium heat. Cook and stir until the mixture becomes thick and creamy, 5 to 10 minutes. Remove from the heat. Stir in the butter and vanilla and serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "269"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8159902.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5258488.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4517724.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3088527.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Ground Chicken Burgers",
+    "Category": "Burgers",
+    "Ingredients": [
+        {
+            "1": "1 cup bread crumbs"
+        },
+        {
+            "2": "0.25 cup minced onion"
+        },
+        {
+            "3": "2 cloves garlic, minced"
+        },
+        {
+            "4": "2 tablespoons grated Parmesan cheese"
+        },
+        {
+            "5": "0.5 teaspoons coarse sea salt, or to taste"
+        },
+        {
+            "6": "0.5 teaspoon ground paprika"
+        },
+        {
+            "7": "0.5 teaspoon freshly ground black pepper"
+        },
+        {
+            "8": "0.25 teaspoon cayenne pepper (Optional)"
+        },
+        {
+            "9": "1 pound ground chicken"
+        },
+        {
+            "10": "1 large egg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for medium heat and lightly oil the grate."
+        },
+        {
+            "2": "Place bread crumbs, onion, garlic, Parmesan cheese, salt, paprika, black pepper, and cayenne pepper into the bowl of a food processor; pulse until blended."
+        },
+        {
+            "3": "Combine chicken, egg, and bread crumb mixture in a large bowl until evenly mixed. Divide and shape mixture into 4 equal patties. Place on a cookie sheet and cover with aluminum foil. Refrigerate for 5 to 10 minutes."
+        },
+        {
+            "4": "Cook patties on the preheated grill until cooked through, at least 7 minutes per side. An instant-read thermometer inserted into the center of the patties should read at least 165 degrees F (74 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 burgers"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "268"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "33g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8136903.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Orange Almond Biscotti II",
+    "Category": "Biscotti",
+    "Ingredients": [
+        {
+            "1": "0.5 cups all-purpose flour"
+        },
+        {
+            "2": "0.25 cups white sugar"
+        },
+        {
+            "3": "1 pinch salt"
+        },
+        {
+            "4": "2 teaspoons baking powder"
+        },
+        {
+            "5": "0.5 cup sliced almonds"
+        },
+        {
+            "6": "1 tablespoon orange zest"
+        },
+        {
+            "7": "3  egg, beaten"
+        },
+        {
+            "8": "1 tablespoon vegetable oil"
+        },
+        {
+            "9": "0.25 teaspoon almond extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a baking sheet."
+        },
+        {
+            "2": "In a large bowl, stir together flour, sugar, baking powder, salt, almonds, and orange zest. Make a well in the center and add the eggs oil, and almond extract. Stir or mix by hand until the mixture forms a ball."
+        },
+        {
+            "3": "Separate dough into 2 pieces and roll each one into a log about 8 inches long. Place logs on prepared baking sheet and flatten so they are about 3/4 inch thick. Bake in preheated oven for 20 to 25 minutes. Cool slightly, and remove from baking sheets. Slice diagonally into 1/2 inch slices with a serrated knife. Set cookies on side back onto the cookie sheet and bake for 10 to 15 more minutes, turning over after half of the time. Finished cookies should be hard and crunchy."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "2 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "219"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9355335.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9350337.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8954960.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5d30e794783fb75bff3f96224f26b544%2F6128229.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

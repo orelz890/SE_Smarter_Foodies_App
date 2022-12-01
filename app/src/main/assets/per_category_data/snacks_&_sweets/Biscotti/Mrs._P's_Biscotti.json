@@ -1,0 +1,99 @@
+{
+    "title": "Mrs. P's Biscotti",
+    "Category": "Biscotti",
+    "Ingredients": [
+        {
+            "1": "1 cup white sugar"
+        },
+        {
+            "2": "0.25 cup softened butter"
+        },
+        {
+            "3": "3  eggs"
+        },
+        {
+            "4": "1  egg yolk"
+        },
+        {
+            "5": "0.5 teaspoons vanilla extract"
+        },
+        {
+            "6": "1.0 cups all-purpose flour"
+        },
+        {
+            "7": "2 teaspoons baking powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment."
+        },
+        {
+            "2": "Beat sugar and butter together in a large bowl with an electric mixer until light and fluffy; beat in eggs, egg yolk, and vanilla extract. Whisk flour and baking powder together in a bowl. Stir flour mixture into butter mixture to form a fairly sticky dough."
+        },
+        {
+            "3": "Divide dough in half; with wet hands, shape dough into two loaves, about 1-inch high at the center, on the prepared baking sheet."
+        },
+        {
+            "4": "Bake in the preheated oven until lightly browned, about 20 minutes; remove to cool completely on a wire rack, about 30 minutes."
+        },
+        {
+            "5": "Slice loaves into 1/2-inch slices with a serrated knife. Place cookie slices back onto lined baking sheet, cut sides up."
+        },
+        {
+            "6": "Increase oven temperature to 450 degrees F (230 degrees C)."
+        },
+        {
+            "7": "Bake in the preheated oven until golden brown, turning once, 3 to 4 minutes per side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "40 "
+        },
+        {
+            "Yield": "40 biscotti"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "65"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6152875.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4332736.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F366e6563cf5cc44a1c53ce2d74468e83%2F4292946.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3740438.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

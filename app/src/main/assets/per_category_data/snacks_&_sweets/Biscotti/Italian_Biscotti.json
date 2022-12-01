@@ -1,0 +1,81 @@
+{
+    "title": "Italian Biscotti",
+    "Category": "Biscotti",
+    "Ingredients": [
+        {
+            "1": "12 ounces butter"
+        },
+        {
+            "2": "0.75 cups white sugar"
+        },
+        {
+            "3": "6  eggs"
+        },
+        {
+            "4": "1 teaspoon anise extract"
+        },
+        {
+            "5": "2 teaspoons vanilla extract"
+        },
+        {
+            "6": "6 cups all-purpose flour"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "2 teaspoons baking powder"
+        },
+        {
+            "9": "8 ounces chopped almonds"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F ( 165 degrees C )."
+        },
+        {
+            "2": "In a large bowl, cream the butter and sugar together. Add eggs one at a time; beat until fluffy. Stir in the anise and vanilla extracts. Sift together the flour, baking powder, and salt; Add them to the egg mixture along with the chopped almonds. Stir with a spoon and as the dough comes together, Knead by hand."
+        },
+        {
+            "3": "Divide the dough into 4 parts. Roll each piece into a log about 15 inches long. Place logs onto cookie sheets, 2 to a sheet, the long way. Flatten the logs out until they are about 3 inches wide with a slight hump going down the middle. Bake for 25 to 30 minutes in the preheated oven, loaves should be firm. Cut the loaves into diagonal slices 1/2 inch wide, place the slices onto the cookie sheets and return to the oven. Toast on one side, then turn them over to do the other side. This will take about 7 to 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "30 "
+        },
+        {
+            "Yield": "30 cookies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "275"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "32g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fefeffb8772061427473af2dcab000370%2F165005003420220415_115020.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8536539.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7910030.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1760536.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

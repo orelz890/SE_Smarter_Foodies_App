@@ -1,0 +1,108 @@
+{
+    "title": "Boneless Buffalo Wings",
+    "Category": "Buffalo Chicken Wings",
+    "Ingredients": [
+        {
+            "1": "1 oil for deep frying"
+        },
+        {
+            "2": "1 cup unbleached all-purpose flour"
+        },
+        {
+            "3": "2 teaspoons salt"
+        },
+        {
+            "4": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "5": "0.5 teaspoon cayenne pepper"
+        },
+        {
+            "6": "0.5 teaspoon paprika"
+        },
+        {
+            "7": "0.25 teaspoon garlic powder"
+        },
+        {
+            "8": "1  egg"
+        },
+        {
+            "9": "1 cup milk"
+        },
+        {
+            "10": "3  skinless, boneless chicken breasts, cut into 1/2-inch strips"
+        },
+        {
+            "11": "0.25 cup hot pepper sauce"
+        },
+        {
+            "12": "1 tablespoon butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Combine flour, salt, black pepper, cayenne pepper, paprika, and garlic powder in a large bowl. Whisk together egg and milk in a small bowl."
+        },
+        {
+            "3": "Dip each piece of chicken in egg mixture, then roll in flour mixture. Repeat so that each piece of chicken is double-coated. Refrigerate breaded chicken for 20 minutes."
+        },
+        {
+            "4": "Fry chicken in hot oil in batches. Cook until golden brown and juices run clear, 5 to 6 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        },
+        {
+            "5": "Combine hot sauce and butter in a microwave-safe bowl. Heat sauce in the microwave until melted, 20 to 30 seconds. Pour sauce over fried chicken; mix to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "3 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "710"
+        },
+        {
+            "Fat": "47g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4ad46230af1ddcc29c95d2d8a3ddffe5%2F1657745947boneless%2520Buffalo%2520Chicken2.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9024449.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8915963.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8865761.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Q4O3AURWK2mEYcqmXvX94LSaNXQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/151266-Boneless-Buffalo-Wings-1052464-EmmieYum-2000-d6b21ce6821741b7851b5d472ec121fd.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

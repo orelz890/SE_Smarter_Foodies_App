@@ -1,0 +1,102 @@
+{
+    "title": "Chewy Brownies",
+    "Category": "Brownies",
+    "Ingredients": [
+        {
+            "1": "2 cups white sugar"
+        },
+        {
+            "2": "0.5 cups all-purpose flour"
+        },
+        {
+            "3": "0.5 cup baking cocoa"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "1 teaspoon baking powder"
+        },
+        {
+            "6": "1 cup vegetable oil"
+        },
+        {
+            "7": "4  eggs"
+        },
+        {
+            "8": "2 tablespoons light corn syrup"
+        },
+        {
+            "9": "1 teaspoon vanilla extract"
+        },
+        {
+            "10": "1 cup chopped walnuts (Optional)"
+        },
+        {
+            "11": "0.25 cup confectioners' sugar"
+        },
+        {
+            "12": "4 teaspoons water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking pan."
+        },
+        {
+            "2": "Combine white sugar, flour, cocoa, salt, and baking powder in a bowl. Whisk oil, eggs, corn syrup, and vanilla extract in a small bowl. Stir egg mixture into flour mixture; fold in walnuts. Spread into prepared baking pan."
+        },
+        {
+            "3": "Bake in preheated oven until a toothpick inserted near the center comes out clean, about 30 minutes."
+        },
+        {
+            "4": "Combine confectioner's sugar and water in a small bowl to make a glaze; drizzle over warm brownies."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "36 "
+        },
+        {
+            "Yield": "36 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "155"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9395234.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9226050.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8942463.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8817585.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

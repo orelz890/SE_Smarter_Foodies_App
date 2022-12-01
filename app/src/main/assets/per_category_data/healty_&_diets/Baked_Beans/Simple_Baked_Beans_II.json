@@ -1,0 +1,75 @@
+{
+    "title": "Simple Baked Beans II",
+    "Category": "Baked Beans",
+    "Ingredients": [
+        {
+            "1": "0.5 pound bacon, chopped"
+        },
+        {
+            "2": "1  onion, finely chopped"
+        },
+        {
+            "3": "2 (15 ounce) cans baked beans"
+        },
+        {
+            "4": "0.25 cup brown sugar"
+        },
+        {
+            "5": "0.25 cup ketchup"
+        },
+        {
+            "6": "0.25 cup prepared mustard"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Add the onion and saute until tender. Drain excess oil, if desired. Stir in the beans, brown sugar, ketchup and mustard. Cook, stirring occasionally, until bubbly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "527"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "61g"
+        },
+        {
+            "Protein": "18g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7740569.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F70017.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F80b861e38d870ab7c98a4be18bd8292a%2F55128.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F11670.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

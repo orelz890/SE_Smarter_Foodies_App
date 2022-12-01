@@ -1,0 +1,72 @@
+{
+    "title": "Miracle Baking Powder Pie Crust",
+    "Category": "Pie Crusts",
+    "Ingredients": [
+        {
+            "1": "3 cups all-purpose flour"
+        },
+        {
+            "2": "0.25 teaspoons salt"
+        },
+        {
+            "3": "2 teaspoons baking powder"
+        },
+        {
+            "4": "6 tablespoons ice water"
+        },
+        {
+            "5": "1 tablespoon white sugar"
+        },
+        {
+            "6": "1 cup shortening"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, combine flour, salt, baking powder and sugar."
+        },
+        {
+            "2": "Place 1/2 cup of flour mixture in a small bowl, and stir in water until smooth."
+        },
+        {
+            "3": "Cut shortening into remaining flour mixture until it looks like coarse meal. Blend in the flour-water mixture."
+        },
+        {
+            "4": "Wrap dough and chill in refrigerator."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "2 crusts"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "202"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "19g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F427684.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F179528.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa7c6ee7f08eacd460f591d066a2cfe56%2F132448.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

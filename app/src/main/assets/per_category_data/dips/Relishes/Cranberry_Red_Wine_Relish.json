@@ -1,0 +1,75 @@
+{
+    "title": "Cranberry Red Wine Relish",
+    "Category": "Relishes",
+    "Ingredients": [
+        {
+            "1": "0.5 cups white sugar"
+        },
+        {
+            "2": "1 cup dry red wine"
+        },
+        {
+            "3": "1 (12 ounce) package fresh cranberries, rinsed and sorted"
+        },
+        {
+            "4": "1  cinnamon stick"
+        },
+        {
+            "5": "2 tablespoons orange zest, cut into slivers"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine sugar with red wine in a medium saucepan, and bring to a boil over medium heat. Add the cranberries, cinnamon stick and orange peel. Bring the mixture back to a boil, reduce heat, and simmer, stirring often, for 10 to 15 minutes, until most of the cranberries have burst."
+        },
+        {
+            "2": "Remove from heat, allow relish to cool slightly, and spoon into sterilized glass jelly jars with tight-fitting lids. Store in refrigerator."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "6 to 4 - ounce jelly jars"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "64"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5832904.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2811625.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2664567.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fde0111a9ebcd615507ccfcd700d56755%2F929177.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

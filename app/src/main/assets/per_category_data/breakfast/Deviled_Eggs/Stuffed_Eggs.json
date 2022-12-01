@@ -1,0 +1,78 @@
+{
+    "title": "Stuffed Eggs",
+    "Category": "Deviled Eggs",
+    "Ingredients": [
+        {
+            "1": "10  eggs"
+        },
+        {
+            "2": "0.25 cup mayonnaise"
+        },
+        {
+            "3": "1 teaspoon Dijon mustard"
+        },
+        {
+            "4": "2 tablespoons grated Parmesan cheese"
+        },
+        {
+            "5": "1 salt and ground black pepper to taste"
+        },
+        {
+            "6": "1 tablespoon ketchup"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place eggs in a large pot and cover with cool water. Bring to a boil and cook, stirring occasionally, for 10 minutes. Transfer eggs to a bowl of cold water using tongs. Peel."
+        },
+        {
+            "2": "Cut eggs in half. Slice a small piece off bottoms so halves don't tip over. Place yolks in a mixing bowl. Add mayonnaise, mustard, Parmesan cheese, salt, and pepper. Mix until creamy, 1 or 2 minutes."
+        },
+        {
+            "3": "Spoon yolk mixture into egg white halves. Garnish with a dot of ketchup on top. Refrigerate about 20 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "20 egg halves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "117"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F24e5940db670c635b97c6374e3059993%2F5179975.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Ff93e57fe74958381851416042ebbec02%2F4485127.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

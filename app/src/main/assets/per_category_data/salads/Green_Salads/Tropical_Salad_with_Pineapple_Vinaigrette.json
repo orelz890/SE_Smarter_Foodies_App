@@ -1,0 +1,96 @@
+{
+    "title": "Tropical Salad with Pineapple Vinaigrette",
+    "Category": "Green Salads",
+    "Ingredients": [
+        {
+            "1": "6 slices bacon"
+        },
+        {
+            "2": "0.25 cup pineapple juice"
+        },
+        {
+            "3": "3 tablespoons red wine vinegar"
+        },
+        {
+            "4": "0.25 cup olive oil"
+        },
+        {
+            "5": "1 freshly ground black pepper to taste"
+        },
+        {
+            "6": "1 salt to taste"
+        },
+        {
+            "7": "1 (10 ounce) package chopped romaine lettuce"
+        },
+        {
+            "8": "1 cup diced fresh pineapple"
+        },
+        {
+            "9": "0.5 cup chopped and toasted macadamia nuts"
+        },
+        {
+            "10": "3  green onions, chopped"
+        },
+        {
+            "11": "0.25 cup flaked coconut, toasted"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large, deep skillet. Cook over medium-high heat until evenly browned, about 10 minutes. Drain, crumble, and set aside."
+        },
+        {
+            "2": "Combine pineapple juice, red wine vinegar, oil, pepper and salt in a lidded jar or cruet. Cover and shake well."
+        },
+        {
+            "3": "Toss lettuce, pineapple, macadamia nuts, green onions and bacon together in a large bowl. Pour dressing over salad and toss to coat. Garnish with toasted coconut."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "255"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4519942.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3752906.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F763842f7137ed793f5f1031d2d7235b2%2F1841583.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F4b3a8ab9c55f4442868717cb3b840e54%2F1124357.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

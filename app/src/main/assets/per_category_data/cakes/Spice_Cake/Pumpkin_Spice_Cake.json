@@ -1,0 +1,114 @@
+{
+    "title": "Pumpkin Spice Cake",
+    "Category": "Spice Cake",
+    "Ingredients": [
+        {
+            "1": "3 cups all-purpose flour"
+        },
+        {
+            "2": "1.5 teaspoons ground cinnamon"
+        },
+        {
+            "3": "2 teaspoons baking soda"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "1 teaspoon ground nutmeg"
+        },
+        {
+            "6": "0.5 teaspoon ground ginger"
+        },
+        {
+            "7": "0.5 teaspoon ground allspice"
+        },
+        {
+            "8": "0.25 cups shortening"
+        },
+        {
+            "9": "0.25 cups white sugar"
+        },
+        {
+            "10": "1 cup packed brown sugar"
+        },
+        {
+            "11": "2 large eggs, beaten"
+        },
+        {
+            "12": "1 (15 ounce) can pumpkin puree"
+        },
+        {
+            "13": "0.5 cup chopped pecans"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 10-inch Bundt pan."
+        },
+        {
+            "2": "Sift together flour, cinnamon, baking soda, salt, nutmeg, ginger, and allspice. Set aside."
+        },
+        {
+            "3": "Cream shortening, both sugars, and eggs in a large bowl with an electric mixer until light and fluffy. Mix in pumpkin puree. Gradually mix in flour mixture until combined. Stir in chopped pecans. Pour batter into the prepared pan."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, 60 to 65 minutes"
+        },
+        {
+            "5": "Remove from the oven and let cool in the pan for 10 minutes, then turn out onto a wire rack and cool completely."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "1 10-inch cake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "384"
+        },
+        {
+            "Fat": "20g"
+        },
+        {
+            "Carbs": "50g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6f7ad20ebf8e22ef5c14a647cd2e7464%2F166866195233126061_pumpkin-spice-cake-i.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8759822.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8702841.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7381592.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/XBgyBV9prkCu6JqkmPIenBxvYhY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2884355_Pumpkin-Spice-Cake-I-4x3-1-8716a0dfae0042199cfe3853546af7dd.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

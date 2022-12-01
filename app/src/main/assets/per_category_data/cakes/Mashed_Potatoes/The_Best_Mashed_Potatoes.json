@@ -1,0 +1,81 @@
+{
+    "title": "The Best Mashed Potatoes",
+    "Category": "Mashed Potatoes",
+    "Ingredients": [
+        {
+            "1": "5 pounds Yukon Gold potatoes"
+        },
+        {
+            "2": "2 cups Parmesan cheese"
+        },
+        {
+            "3": "0.5 cups cream cheese"
+        },
+        {
+            "4": "1 cup chopped fresh chives"
+        },
+        {
+            "5": "0.5 cup butter"
+        },
+        {
+            "6": "0.5 medium head garlic, peeled and minced"
+        },
+        {
+            "7": "1 pinch salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Peel and quarter potatoes; place in a large pot. Cover with salted water and bring to a boil. Cook until tender but still firm, about 15 minutes. Drain and return potatoes to the pot over low heat to dry for 1 to 2 minutes."
+        },
+        {
+            "2": "Add Parmesan cheese, cream cheese, chives, butter, garlic, salt, and pepper. Use a potato masher to mash until smooth and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "381"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "36g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F757094c03db0e797ce78e3606908e6b3%2F166535897565420221009_201854.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8453703.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7829477.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7596247548f9163983706f5954fb48b1%2F7400914.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/xokUSCvhq55aVJNsYEjd18ksb_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15213-the-best-mashed-potatoes-1x1-00076-b1367b3c9856493e8f8e86cc6b4a081d.jpg"
+        }
+    ],
+    "main category": "cakes"
+}

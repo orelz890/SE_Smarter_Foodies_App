@@ -1,0 +1,93 @@
+{
+    "title": "The Best Parmesan Chicken Bake",
+    "Category": "Chicken Parmesan",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons olive oil"
+        },
+        {
+            "2": "2 cloves garlic, crushed and finely chopped"
+        },
+        {
+            "3": "0.25 teaspoon crushed red pepper flakes, or to taste"
+        },
+        {
+            "4": "6  skinless, boneless chicken breast halves"
+        },
+        {
+            "5": "2 cups prepared marinara sauce"
+        },
+        {
+            "6": "0.25 cup chopped fresh basil"
+        },
+        {
+            "7": "1 (8 ounce) package shredded mozzarella cheese, divided"
+        },
+        {
+            "8": "0.5 cup grated Parmesan cheese, divided"
+        },
+        {
+            "9": "1 (5 ounce) package garlic croutons"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Coat the bottom of a 9x13-inch casserole dish with olive oil, and sprinkle with garlic and red pepper flakes."
+        },
+        {
+            "3": "Arrange chicken breasts in the bottom of the dish, and pour marinara sauce over chicken. Sprinkle basil over marinara sauce, and top with 1/2 of the mozzarella cheese, followed by 1/2 of the Parmesan cheese. Sprinkle on croutons, then top with remaining mozzarella cheese and remaining Parmesan cheese."
+        },
+        {
+            "4": "Bake in the preheated oven until cheese and croutons are golden brown and the chicken is no longer pink inside, about 35 minutes to an hour, depending on the shape and thickness of your chicken breasts. An instant-read thermometer inserted into the thickest part of a chicken breast should read at least 160 degrees F (70 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "477"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "28g"
+        },
+        {
+            "Protein": "40g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe7e8bee4dc4bf945eb46ce878244f332%2F165221992120220508_174639.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe7e8bee4dc4bf945eb46ce878244f332%2F1646261726IMG_20220302_175333509.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9210277.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9203479.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/Guo-xgc3qEgxbMRMrwBe-3amAoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/219164-the-best-parmesan-chicken-bake-ddmfs-1x1-160-f83159d424884e3994705926cd2c80d7.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

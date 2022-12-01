@@ -1,0 +1,147 @@
+{
+    "title": "Kim's Lasagna",
+    "Category": "Lasagna",
+    "Ingredients": [
+        {
+            "1": "1 pound bulk Italian sausage"
+        },
+        {
+            "2": "1 pound ground beef"
+        },
+        {
+            "3": "1 cup chopped onion"
+        },
+        {
+            "4": "4 cloves garlic, minced"
+        },
+        {
+            "5": "2 (8 ounce) cans tomato sauce"
+        },
+        {
+            "6": "1 (14 ounce) can crushed tomatoes"
+        },
+        {
+            "7": "1 (14 ounce) can Italian-style crushed tomatoes"
+        },
+        {
+            "8": "2 (6 ounce) cans tomato paste"
+        },
+        {
+            "9": "3 tablespoons chopped fresh basil"
+        },
+        {
+            "10": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "11": "2 teaspoons brown sugar"
+        },
+        {
+            "12": "1 teaspoon salt"
+        },
+        {
+            "13": "1 teaspoon Italian seasoning"
+        },
+        {
+            "14": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "15": "0.5 teaspoon fennel seeds (Optional)"
+        },
+        {
+            "16": "0.5 cup grated Parmesan cheese"
+        },
+        {
+            "17": "12  lasagna noodles"
+        },
+        {
+            "18": "1  egg"
+        },
+        {
+            "19": "1 (15 ounce) container ricotta cheese"
+        },
+        {
+            "20": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "21": "0.5 teaspoon salt"
+        },
+        {
+            "22": "1 pinch ground nutmeg"
+        },
+        {
+            "23": "1 (16 ounce) package shredded mozzarella cheese, divided"
+        },
+        {
+            "24": "0.75 cup grated Parmesan cheese, divided"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Brown sausage and ground beef with onion and garlic in a large Dutch oven or heavy pot over medium heat, cooking and stirring until meat is cooked through, 10 to 15 minutes. Drain and discard grease. Stir tomato sauce, crushed tomatoes, Italian-style crushed tomatoes, tomato paste, basil, 2 tablespoons parsley, brown sugar, salt, Italian seasoning, black pepper, fennel seeds, and 1/2 cup Parmesan cheese into meat mixture. Bring to a boil, reduce heat to low, and simmer sauce for at least 1 hour (up to 6 for best flavor). Stir occasionally."
+        },
+        {
+            "2": "Meanwhile, place lasagna noodles into a deep bowl and cover with very hot tap water; let soak for 30 minutes."
+        },
+        {
+            "3": "Beat egg in a bowl and stir ricotta cheese, 2 tablespoons parsley, 1/2 teaspoon salt, and nutmeg into egg until thoroughly combined."
+        },
+        {
+            "4": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "5": "Cover bottom of a 9x13-inch baking dish with 1 cup sauce. Layer 4 soaked lasagna noodles, 1/3 of the ricotta cheese mixture, 1/3 of the shredded mozzarella cheese, and 1/4 cup Parmesan cheese in the dish. Repeat layers twice more, ending with mozzarella and Parmesan cheeses. Cover dish with aluminum foil."
+        },
+        {
+            "6": "Bake until lasagna noodles are tender and casserole is bubbling, about 45 minutes. Remove foil and bake until cheese topping is lightly browned, 10 to 15 more minutes. Let stand 15 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 2 hrs 15 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": " 2 hrs 45 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "1 9x13-inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "594"
+        },
+        {
+            "Fat": "29g"
+        },
+        {
+            "Carbs": "43g"
+        },
+        {
+            "Protein": "41g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9428376.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9164285.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8303737.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8194748.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

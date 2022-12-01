@@ -1,0 +1,84 @@
+{
+    "title": "Emily's Pickled Eggs",
+    "Category": "Picnic Recipes",
+    "Ingredients": [
+        {
+            "1": "12 large eggs"
+        },
+        {
+            "2": "1 cup white vinegar"
+        },
+        {
+            "3": "0.5 cup water"
+        },
+        {
+            "4": "1 medium onion, sliced"
+        },
+        {
+            "5": "2 tablespoons coarse salt"
+        },
+        {
+            "6": "2 tablespoons pickling spice"
+        },
+        {
+            "7": "5  black peppercorns"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place eggs into a large pot and cover with cold water. Bring water to a boil, then immediately remove from the heat. Cover the pot and let eggs stand in hot water for 10 to 12 minutes."
+        },
+        {
+            "2": "Transfer eggs to a strainer and run under cold water for 1 minute. Return eggs to the pot; fill with cold water and let sit until cool enough to handle, 2 to 3 minutes. Peel eggs and place into a 1-quart, wide-mouth jar."
+        },
+        {
+            "3": "Combine vinegar, water, all but a few slices onion, salt, pickling spice, and peppercorns in a saucepan. Bring to a rolling boil, then pour over eggs in the jar. Place remaining onion slices on top and seal the jar. Cool to room temperature, about 1 hour, then refrigerate for 3 days before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": "3 days 1 hrs 10 mins"
+        },
+        {
+            "Total Time": "3 days 1 hrs 40 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "78"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F194545416c82487966f895c5d9cc3d2d%2F16445816396663EF37-74CF-4E42-B4EB-1A9EFC1DBD70.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9183452.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9177836.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8425706.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

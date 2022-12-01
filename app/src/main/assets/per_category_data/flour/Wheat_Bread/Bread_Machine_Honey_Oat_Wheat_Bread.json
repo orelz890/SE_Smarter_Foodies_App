@@ -1,0 +1,105 @@
+{
+    "title": "Bread Machine Honey-Oat-Wheat Bread",
+    "Category": "Wheat Bread",
+    "Ingredients": [
+        {
+            "1": "1.0 teaspoons active dry yeast"
+        },
+        {
+            "2": "2 tablespoons white sugar"
+        },
+        {
+            "3": "0.5 cups warm water (110 degrees F/45 degrees C)"
+        },
+        {
+            "4": "3 cups all-purpose flour"
+        },
+        {
+            "5": "1 cup whole wheat flour"
+        },
+        {
+            "6": "1 cup rolled oats"
+        },
+        {
+            "7": "3 tablespoons powdered milk"
+        },
+        {
+            "8": "1 teaspoon salt"
+        },
+        {
+            "9": "0.25 cup honey"
+        },
+        {
+            "10": "0.25 cup vegetable oil"
+        },
+        {
+            "11": "3 tablespoons butter, softened"
+        },
+        {
+            "12": "1 cooking spray"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the yeast, sugar, and water in the pan of a bread machine. Allow yeast to dissolve and foam, about 10 minutes. Meanwhile, mix the all-purpose flour, whole wheat flour, rolled oats, powdered milk, and salt in a bowl; set aside. Add the honey, vegetable oil, and butter to the yeast mixture, and pour the flour mixture on top."
+        },
+        {
+            "2": "Select the Dough cycle; press start. Allow the bread machine to complete the cycle, about 1 1/2 hours, then transfer the dough to a 9x5-inch loaf pan sprayed with cooking spray. Allow the bread to rise for 1 hour in a warm place."
+        },
+        {
+            "3": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "4": "Bake in the preheated oven until the top is golden brown, about 35 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Additional Time": " 2 hrs 30 mins"
+        },
+        {
+            "Total Time": " 3 hrs 15 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x5-inch loaf"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "281"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "45g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9426343.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8851540.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8584403.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6481801.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

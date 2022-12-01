@@ -1,0 +1,87 @@
+{
+    "title": "Spicy Potatoes and Scrambled Eggs",
+    "Category": "Breakfast Potatoes",
+    "Ingredients": [
+        {
+            "1": "2 medium potatoes, scrubbed"
+        },
+        {
+            "2": "4 tablespoons vegetable oil, divided"
+        },
+        {
+            "3": "0.5 teaspoon ground cumin"
+        },
+        {
+            "4": "0.5 teaspoon ground coriander"
+        },
+        {
+            "5": "0.5 teaspoon turmeric powder"
+        },
+        {
+            "6": "0.5 teaspoon chili powder (Optional)"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "3 large eggs, beaten"
+        },
+        {
+            "9": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Use a fork to pierce potato skins. Microwave potatoes on high until tender, 7 to 8 minutes. Let cool briefly, then peel and cut into small cubes."
+        },
+        {
+            "2": "Heat 2 tablespoons oil in a skillet over medium-high heat. Stir in cumin, coriander, turmeric, chili powder, and 1/2 teaspoon salt, then add potatoes. Cook, stirring occasionally, until crispy and golden brown, 5 to 10 minutes."
+        },
+        {
+            "3": "Meanwhile, heat 2 tablespoons oil in another skillet over medium-high heat. Pour eggs into the skillet; cook and stir until eggs are set, about 5 minutes. Season with salt and pepper and serve with potatoes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "209"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8561974.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6709505.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4519547.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F29dc14af5d828d474574335f74d6342a%2F4518439.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

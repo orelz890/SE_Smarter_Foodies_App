@@ -1,0 +1,87 @@
+{
+    "title": "Chef John's Three Corn Polenta",
+    "Category": "Polenta",
+    "Ingredients": [
+        {
+            "1": "2 teaspoons butter, divided"
+        },
+        {
+            "2": "1 teaspoon olive oil"
+        },
+        {
+            "3": "0.5 cups fresh corn kernels, divided"
+        },
+        {
+            "4": "1 salt and ground black pepper to taste"
+        },
+        {
+            "5": "1 pinch cayenne pepper, or to taste"
+        },
+        {
+            "6": "1 clove garlic, pressed"
+        },
+        {
+            "7": "1.0 cups water, divided"
+        },
+        {
+            "8": "0.5 cup polenta"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt 1 teaspoon butter and olive oil in a saucepan over medium-low heat. Cook and stir 2/3 of the corn, with a pinch of salt and a pinch of cayenne pepper in the hot butter and oil until the corn is fragrant and golden, about 10 minutes. Add garlic; cook and stir until fragrant, about 30 seconds."
+        },
+        {
+            "2": "Pour 2 cups water into corn mixture; bring to a simmer and whisk polenta into mixture. Bring to a simmer again, reduce heat to low, and simmer, stirring occasionally, until mixture is thick and polenta absorbs the water, 20 minutes. Add remaining 1/2 cup water and stir; cook for until water is completely absorbed, about 10 minutes more."
+        },
+        {
+            "3": "Stir remaining corn and 1 teaspoon butter into polenta mixture. Remove from heat, cover the pot, and let sit for 5 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "166"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1390360.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1156922.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://www.allrecipes.com/thmb/qmunHE8x8FFRe3RtpPHkLJZ2wrU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1390360-abf9a997aa724c308bbb8b8e0f1d7d3d.jpg"
+        }
+    ],
+    "main category": "side_dishes"
+}

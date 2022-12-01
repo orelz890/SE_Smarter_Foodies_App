@@ -1,0 +1,69 @@
+{
+    "title": "Italian Stuffed Toast (Toast Farcito)",
+    "Category": "Panini",
+    "Ingredients": [
+        {
+            "1": "2 slices prosciutto"
+        },
+        {
+            "2": "2 slices fontina cheese"
+        },
+        {
+            "3": "4 slices thinly sliced sandwich bread"
+        },
+        {
+            "4": "0.25 cup chopped giardiniera (pickled Italian vegetables)"
+        },
+        {
+            "5": "2  hot pickled peppers (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a panino press according to the manufacturer's instructions."
+        },
+        {
+            "2": "Place 1 slice prosciutto and 1 slice fontina cheese onto a slice of bread; repeat with remaining prosciutto, fontina cheese, and slice of bread. Add 1/2 of the giardiniera on top of each cheese layer and top sandwiches with remaining bread slices, creating 2 sandwiches."
+        },
+        {
+            "3": "Cook each panino in the press until the cheese has melted and the bread has toasted, about 3 minutes. Serve with hot pickled peppers on the side."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "3 mins"
+        },
+        {
+            "Total Time": "13 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 sandwiches"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "310"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F627d1bbf39dabdef29582663f90ba112%2F4470990.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Strawberry Cake Filling",
+    "Category": "Healthy Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup water"
+        },
+        {
+            "2": "3 tablespoons cornstarch"
+        },
+        {
+            "3": "1.0 cups frozen strawberries, thawed and cut into bite size pieces"
+        },
+        {
+            "4": "0.75 cup white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Whisk water and cornstarch together in a large saucepan. Stir in strawberries and sugar."
+        },
+        {
+            "2": "Cook over medium heat until thickened, about 10 minutes. Allow to cool completely before use."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "28 "
+        },
+        {
+            "Yield": "3 to 3 1/2 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "28"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fffc6177bf4caba7bae6728bd56acd911%2F1659973788642728B2-23B4-428E-B875-107FE69800D0.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9396017.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9308884.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8617054.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

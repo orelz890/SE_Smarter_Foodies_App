@@ -1,0 +1,75 @@
+{
+    "title": "Dried Fruit Cheese Ball",
+    "Category": "Cheese Balls",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "2": "2 tablespoons honey"
+        },
+        {
+            "3": "0.5 (8 ounce) package mild Cheddar cheese, shredded"
+        },
+        {
+            "4": "1 (6 ounce) package dried mixed fruit, chopped"
+        },
+        {
+            "5": "1 cup chopped pecans"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium bowl combine cream cheese and honey; beat until smooth. Stir in cheese and chopped fruit; mix well."
+        },
+        {
+            "2": "Form into a ball and roll in chopped nuts. Chill for at least 3 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Additional Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "424"
+        },
+        {
+            "Fat": "32g"
+        },
+        {
+            "Carbs": "29g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4047797.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2939092.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2939084.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F07c950d411723873f22d5d1e6ee6fb86%2F2891823.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Whole Wheat Pizza Dough",
+    "Category": "Pizza Dough and Crusts",
+    "Ingredients": [
+        {
+            "1": "1 cup whole wheat flour"
+        },
+        {
+            "2": "1 cup all-purpose flour"
+        },
+        {
+            "3": "0.25 teaspoons instant yeast"
+        },
+        {
+            "4": "0.5 teaspoon white sugar"
+        },
+        {
+            "5": "0.25 teaspoon salt"
+        },
+        {
+            "6": "0.75 cup warm water"
+        },
+        {
+            "7": "2 tablespoons olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix whole wheat flour, all-purpose flour, yeast, sugar, and salt in a large bowl using a spoon. Pour in water and oil; mix until dough no longer sticks to the bowl. Turn dough onto a lightly floured surface and knead for 5 to 8 minutes."
+        },
+        {
+            "2": "Transfer dough to a greased bowl; cover bowl with a clean towel. Place bowl in the oven with the light turned on until risen, about 1 hour."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "187"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F944e958ae4b4d8c7c1c88ab4b207c258%2F1644025524WIN_20220204_164414.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8948691.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8486736.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8180845.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pizza"
+}

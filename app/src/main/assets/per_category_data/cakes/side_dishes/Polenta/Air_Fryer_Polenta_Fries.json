@@ -1,0 +1,69 @@
+{
+    "title": "Air Fryer Polenta Fries",
+    "Category": "Polenta",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package prepared polenta"
+        },
+        {
+            "2": "1 nonstick olive oil cooking spray"
+        },
+        {
+            "3": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an air fryer to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Slice polenta into long, thin slices resembling french fries."
+        },
+        {
+            "3": "Spray the bottom of the basket with cooking spray. Place 1/2 of the polenta fries in the basket and lightly mist the tops with cooking spray. Season with salt and pepper."
+        },
+        {
+            "4": "Cook in the preheated air fryer for 10 minutes. Flip the fries with a spatula and cook until crispy, about 5 minutes longer. Transfer fries to a paper towel-lined plate. Repeat with remaining half of fries."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "80"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8029318.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7707786.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "side_dishes"
+}

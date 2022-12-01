@@ -1,0 +1,96 @@
+{
+    "title": "Jill's Cherry Crisp",
+    "Category": "Cherry Pie",
+    "Ingredients": [
+        {
+            "1": "1 cup brown sugar"
+        },
+        {
+            "2": "1 cup all-purpose flour"
+        },
+        {
+            "3": "0.75 cup quick-cooking oats"
+        },
+        {
+            "4": "0.5 cup butter, melted"
+        },
+        {
+            "5": "1 teaspoon ground cinnamon"
+        },
+        {
+            "6": "4 cups pitted tart red cherries"
+        },
+        {
+            "7": "1 cup water"
+        },
+        {
+            "8": "1 cup white sugar"
+        },
+        {
+            "9": "2 tablespoons cornstarch"
+        },
+        {
+            "10": "1 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Mix brown sugar, flour, oats, butter, and cinnamon together in a bowl until crumbly. Press half the mixture into the bottom of an 8x8-inch pan; top with cherries."
+        },
+        {
+            "3": "Combine water, white sugar, cornstarch, and vanilla extract in a saucepan; bring to a simmer over medium heat. Cook and stir until sugar is dissolved and syrup is clear, about 5 minutes. Pour syrup over cherries; top with remaining brown sugar-oat mixture."
+        },
+        {
+            "4": "Bake in the preheated oven until topping is browned and cherry filling is bubbling, 30 to 35 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "415"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "74g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9217542.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8716985.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8306481.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8297590.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Southern Dill Potato Salad",
+    "Category": "Potato Salad",
+    "Ingredients": [
+        {
+            "1": "10  unpeeled red potatoes"
+        },
+        {
+            "2": "0.75 cup sour cream"
+        },
+        {
+            "3": "0.75 cup mayonnaise"
+        },
+        {
+            "4": "0.5  white onion, finely chopped"
+        },
+        {
+            "5": "1 stalk celery, finely chopped"
+        },
+        {
+            "6": "1 tablespoon apple cider vinegar, or to taste"
+        },
+        {
+            "7": "1 tablespoon Dijon mustard, or to taste"
+        },
+        {
+            "8": "1 teaspoon celery salt"
+        },
+        {
+            "9": "1 salt and black pepper to taste"
+        },
+        {
+            "10": "5  hard boiled eggs, roughly chopped"
+        },
+        {
+            "11": "1 tablespoon dried dill weed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place potatoes in a large pot, cover them with water, and bring to a boil over high heat. Reduce the heat to medium-low, and simmer until the potatoes are cooked through but still firm, about 20 minutes. Remove from the water, let cool, and cut potatoes into chunks. Set aside."
+        },
+        {
+            "2": "Stir together sour cream, mayonnaise, onion, celery, vinegar, mustard, celery salt, and salt and pepper in a bowl until well mixed."
+        },
+        {
+            "3": "Place potatoes and eggs in a large salad bowl, and sprinkle with dried dill. Pour the dressing over the potatoes and eggs, and mix lightly."
+        },
+        {
+            "4": "Cover and refrigerate the salad for at least 30 minutes. Serve cold."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "279"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd0967577e263a1f818f02825158771e2%2F166318460816631844317134762317416039318850.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd0967577e263a1f818f02825158771e2%2F165686789107DBD1C9-19BB-4E49-9EEC-9457E8A1F258.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9294743.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9280355.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

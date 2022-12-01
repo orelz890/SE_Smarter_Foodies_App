@@ -1,0 +1,81 @@
+{
+    "title": "Kelly's Butterscotch Pudding",
+    "Category": "Hanukkah Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup packed brown sugar"
+        },
+        {
+            "2": "0.25 cup cornstarch"
+        },
+        {
+            "3": "3 cups milk"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "3  egg yolks, beaten"
+        },
+        {
+            "6": "0.25 cup butter"
+        },
+        {
+            "7": "1 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a small bowl, mix together brown sugar, cornstarch and salt. Add enough milk to make thick paste. In a saucepan over medium heat, bring milk to a boil. Stir in brown sugar mixture, return to a boil, and cook for 1 minute."
+        },
+        {
+            "2": "Place egg yolks in small bowl. Temper the yolks by quickly stirring in about 1/4 of hot milk mixture. Pour yolk mixture back into hot milk mixture, and return to heat. Cook, stirring constantly, for 1 minute; remove from heat. Stir in butter and vanilla until butter is melted. Pour into bowls, and let cool slightly."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "475"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "70g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8908455.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8583628.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7273992.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7141139.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

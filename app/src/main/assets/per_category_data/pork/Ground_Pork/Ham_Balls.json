@@ -1,0 +1,87 @@
+{
+    "title": "Ham Balls",
+    "Category": "Ground Pork",
+    "Ingredients": [
+        {
+            "1": "0.25 pounds ground smoked ham"
+        },
+        {
+            "2": "1 pound ground pork"
+        },
+        {
+            "3": "1 pound lean ground beef"
+        },
+        {
+            "4": "1 cup milk"
+        },
+        {
+            "5": "2  eggs"
+        },
+        {
+            "6": "0.5 cups graham cracker crumbs"
+        },
+        {
+            "7": "1 (10.75 ounce) can  tomato soup"
+        },
+        {
+            "8": "0.25 cup cider vinegar"
+        },
+        {
+            "9": "1 cup packed brown sugar"
+        },
+        {
+            "10": "1 teaspoon mustard powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "In a large bowl, combine the ham, pork OR sausage, and the ground beef. Stir in the milk, eggs and graham cracker crumbs and mix well. Form into large balls about 2 inches in diameter and place them in a 9x13 inch baking dish."
+        },
+        {
+            "3": "In a separate medium bowl, combine the soup, vinegar, brown sugar and mustard powder. Mix well and pour over the meatballs."
+        },
+        {
+            "4": "Bake at 350 degrees for 1 hour or until internal meat temperature reaches 160 degrees F (73 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "646"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "40g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7342321.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6443853.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F763208.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F763209.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pork"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Cherry Cheese Pie I",
+    "Category": "Cherry Pie",
+    "Ingredients": [
+        {
+            "1": "1 (9 inch) prepared graham cracker crust"
+        },
+        {
+            "2": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "3": "0.5 cup white sugar"
+        },
+        {
+            "4": "2 cups frozen whipped topping, thawed"
+        },
+        {
+            "5": "1 (21 ounce) can cherry pie filling"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium mixing bowl, beat together softened cream cheese and sugar until light and fluffy. Fold in whipped topping and blend until mixture is smooth. Spread into graham cracker crust and spoon pie filling over top. Cover with plastic wrap and chill 2 hours before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 15 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "421"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "56g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8722171.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7511605.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7367629.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6487070.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "pies"
+}

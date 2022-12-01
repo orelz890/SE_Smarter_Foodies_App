@@ -1,0 +1,93 @@
+{
+    "title": "Avocado Tuna Salad",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "1  ripe avocado"
+        },
+        {
+            "2": "2 (5 ounce) cans flaked light tuna"
+        },
+        {
+            "3": "0.5  red apple, chopped"
+        },
+        {
+            "4": "0.5 cup chopped red onion"
+        },
+        {
+            "5": "0.5 cup chopped celery"
+        },
+        {
+            "6": "0.25 cup chopped toasted walnuts"
+        },
+        {
+            "7": "2 tablespoons mayonnaise (Optional)"
+        },
+        {
+            "8": "1 tablespoon pickle juice"
+        },
+        {
+            "9": "1 teaspoon dried dill weed"
+        },
+        {
+            "10": "0.5 teaspoon Dijon mustard"
+        },
+        {
+            "11": "0.25 teaspoon ground cumin"
+        },
+        {
+            "12": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cut avocado in half, scoop out the flesh into a large bowl, and mash avocado with the back of a fork or potato masher. Add tuna, apple, onion, celery, toasted walnuts, mayonnaise, pickle juice, dill, Dijon mustard, cumin, salt, and pepper; mix well."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "274"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9241148.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9178899.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9167429.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9146377.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/0F2NNw7iW2IJelCCvcYTnJYcgCo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/27287-avocado-tuna-salad-ddmfs-4x3-0068-ce1d1006f65a44039d58e24136061d8d.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/cVUC_TAcar7Qga0CG7ZT54WRg-E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/27287-avocado-tuna-salad-ddmfs-1x1-0072-015b3e94f7584d7393f0330e4eddae6b.jpg"
+        }
+    ],
+    "main category": "salads"
+}

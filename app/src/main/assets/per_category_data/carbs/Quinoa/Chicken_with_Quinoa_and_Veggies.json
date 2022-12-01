@@ -1,0 +1,96 @@
+{
+    "title": "Chicken with Quinoa and Veggies",
+    "Category": "Quinoa",
+    "Ingredients": [
+        {
+            "1": "2 cups chicken broth"
+        },
+        {
+            "2": "1 cup rinsed quinoa"
+        },
+        {
+            "3": "4 tablespoons extra-virgin olive oil, divided"
+        },
+        {
+            "4": "2  garlic scapes, chopped"
+        },
+        {
+            "5": "1 small onion, chopped"
+        },
+        {
+            "6": "2  skinless, boneless chicken breast halves - cut into strips"
+        },
+        {
+            "7": "1  zucchini, diced"
+        },
+        {
+            "8": "1  tomato, diced"
+        },
+        {
+            "9": "4 ounces crumbled feta cheese"
+        },
+        {
+            "10": "8  fresh basil leaves"
+        },
+        {
+            "11": "1 tablespoon lime juice"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring chicken broth and quinoa to a boil in a saucepan. Reduce heat to a simmer, cover, and cook until broth is absorbed, quinoa is fluffy, and the white line is visible in the grain, about 12 minutes."
+        },
+        {
+            "2": "Meanwhile, heat 2 tablespoons olive oil in a skillet. Cook and stir garlic scapes and onion in hot oil until onion is translucent, about 5 minutes. Stir in chicken breast strips and cook until chicken is still slightly pink in the middle, about 5 more minutes. Remove chicken to a plate and set aside."
+        },
+        {
+            "3": "Pour remaining 2 tablespoons olive oil in the skillet. Cook and stir zucchini and tomato in hot oil until zucchini is tender, 5 to 8 minutes. Return chicken to the skillet and sprinkle with feta cheese, basil leaves, and lime juice. Cook until chicken is fully cooked and hot, about 10 more minutes. Serve over hot quinoa."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "445"
+        },
+        {
+            "Fat": "24g"
+        },
+        {
+            "Carbs": "35g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9207781.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8376301.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6707274.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6534738.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/1WIrqvbfQdKcAvxrbsuJ-6lfsBk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2717956-3c03ac06e71241e487752b71ecd59750.jpg"
+        }
+    ],
+    "main category": "carbs"
+}

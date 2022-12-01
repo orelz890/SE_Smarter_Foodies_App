@@ -1,0 +1,57 @@
+{
+    "title": "Japanese Teriyaki Sauce",
+    "Category": "Chicken Teriyaki",
+    "Ingredients": [
+        {
+            "1": "0.25 cup dark soy sauce"
+        },
+        {
+            "2": "0.25 cup sake"
+        },
+        {
+            "3": "2 tablespoons mirin (Japanese sweet wine)"
+        },
+        {
+            "4": "1 tablespoon white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine soy sauce, sake, mirin, and sugar in a small saucepan over medium heat; stir until sugar is dissolved. Use immediately, or cool and store in the refrigerator."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "1/2 cup"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "57"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F28417.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

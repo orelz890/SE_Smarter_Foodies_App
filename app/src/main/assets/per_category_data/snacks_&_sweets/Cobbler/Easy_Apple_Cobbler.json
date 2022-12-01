@@ -1,0 +1,90 @@
+{
+    "title": "Easy Apple Cobbler",
+    "Category": "Cobbler",
+    "Ingredients": [
+        {
+            "1": "6 large Granny Smith apples - peeled, cored and sliced"
+        },
+        {
+            "2": "3 tablespoons white sugar"
+        },
+        {
+            "3": "1 teaspoon ground cinnamon"
+        },
+        {
+            "4": "1 cup all-purpose flour"
+        },
+        {
+            "5": "1 cup white sugar"
+        },
+        {
+            "6": "1 large egg"
+        },
+        {
+            "7": "1 teaspoon baking powder"
+        },
+        {
+            "8": "0.25 cup water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Combine 3 tablespoons sugar and cinnamon in a bowl."
+        },
+        {
+            "2": "Layer apples in an ungreased 9x13-inch baking pan, sprinkling each layer with cinnamon-sugar."
+        },
+        {
+            "3": "Combine flour, 1 cup sugar, egg, and baking powder with a fork. Sprinkle over apples. Lightly sprinkle water over top."
+        },
+        {
+            "4": "Bake in the preheated oven until topping is golden brown, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x13-inch cobbler"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "168"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F76176c09ffca99a289f2d450a906021f%2F166872567993020221117_175307.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F468343248bca456147354b76c828f3ba%2F164840988920220327_152812.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F468343248bca456147354b76c828f3ba%2F164797752816479774718835907714191481988458.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9412002.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

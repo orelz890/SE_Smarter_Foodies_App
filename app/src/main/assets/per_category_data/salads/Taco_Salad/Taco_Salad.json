@@ -1,0 +1,90 @@
+{
+    "title": "Taco Salad",
+    "Category": "Taco Salad",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "1 (16 ounce) can chili beans"
+        },
+        {
+            "3": "1 (16 ounce) bottle French dressing"
+        },
+        {
+            "4": "1 (1.25 ounce) package taco seasoning mix"
+        },
+        {
+            "5": "1 (14.5 ounce) package tortilla chips"
+        },
+        {
+            "6": "1 head iceberg lettuce, shredded"
+        },
+        {
+            "7": "2 cups shredded Cheddar cheese"
+        },
+        {
+            "8": "1 cup chopped tomatoes"
+        },
+        {
+            "9": "0.5 cup prepared salsa"
+        },
+        {
+            "10": "4 tablespoons sour cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease. Stir in chili beans, French-style dressing, and seasoning mix. Fill the empty dressing bottle 2/3 full of water and add to the skillet. Bring to a boil, reduce heat, and simmer for 15 minutes."
+        },
+        {
+            "2": "Crush the bag of chips, open the bag, and toss crushed chips into a large bowl. Add lettuce, cheese, and tomatoes. Pour meat mixture into the bowl; mix well. Top with salsa and sour cream."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "846"
+        },
+        {
+            "Fat": "57g"
+        },
+        {
+            "Carbs": "60g"
+        },
+        {
+            "Protein": "26g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F12824f18fec72d96dd3e669e43e610df%2F1661184763IMG_7116.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8331380.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8331407.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb7359f6ec7989da5786fa45275d745c3%2F6612660.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/vDd86HOXfcQreLhTwpyAKzIgW2k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/38529-f2ceac28337a41fd82655289cb167dc1.jpg"
+        }
+    ],
+    "main category": "salads"
+}

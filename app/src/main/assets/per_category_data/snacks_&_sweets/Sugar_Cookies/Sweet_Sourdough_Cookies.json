@@ -1,0 +1,90 @@
+{
+    "title": "Sweet Sourdough Cookies",
+    "Category": "Sugar Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup white sugar"
+        },
+        {
+            "2": "0.5 cup butter, softened"
+        },
+        {
+            "3": "1 cup sourdough starter"
+        },
+        {
+            "4": "1  egg"
+        },
+        {
+            "5": "0.75 cups all-purpose flour"
+        },
+        {
+            "6": "2 teaspoons baking powder"
+        },
+        {
+            "7": "1 teaspoon vanilla extract"
+        },
+        {
+            "8": "1 teaspoon salt"
+        },
+        {
+            "9": "0.25 teaspoon baking soda"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease baking sheets, or line them with parchment paper."
+        },
+        {
+            "2": "Cream sugar and butter in a large bowl. Beat in sourdough starter and egg. Stir in flour, baking powder, vanilla extract, salt, and baking soda until smooth. Drop dough by teaspoonfuls onto the prepared baking sheets."
+        },
+        {
+            "3": "Bake in the preheated oven until edges are golden, 10 to 12 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "24 cookies"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "236"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9233210.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8309369.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8301414.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8249541.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

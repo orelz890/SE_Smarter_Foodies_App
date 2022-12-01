@@ -1,0 +1,105 @@
+{
+    "title": "Emily's Famous Sloppy Joes",
+    "Category": "Sloppy Joes",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds ground beef"
+        },
+        {
+            "2": "1  onion, chopped"
+        },
+        {
+            "3": "1  red bell pepper, chopped"
+        },
+        {
+            "4": "1 (6 ounce) can tomato paste"
+        },
+        {
+            "5": "1 cup water"
+        },
+        {
+            "6": "3 cloves garlic, minced"
+        },
+        {
+            "7": "1 tablespoon chili powder"
+        },
+        {
+            "8": "1 teaspoon paprika"
+        },
+        {
+            "9": "1 teaspoon ground cumin"
+        },
+        {
+            "10": "1 teaspoon distilled white vinegar"
+        },
+        {
+            "11": "3 tablespoons brown sugar"
+        },
+        {
+            "12": "1 teaspoon dried oregano"
+        },
+        {
+            "13": "0.5 teaspoon salt"
+        },
+        {
+            "14": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "15": "8  hamburger buns, split"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large skillet over medium-high heat, saute the ground beef for 5 minutes. Add the onion and red bell pepper; saute for 5 more minutes, or until onion is tender. Drain the fat."
+        },
+        {
+            "2": "Mix in tomato paste and water, stirring until paste is dissolved. Stir in garlic, chili powder, paprika, cumin, vinegar, brown sugar, oregano, salt and pepper. Continue to heat for 5 to 10 minutes, or until mixture is thick and stewy."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "328"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "34g"
+        },
+        {
+            "Protein": "19g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8664524.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8277320.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5d192e9ed486370a5e7d322833e0307a%2F5711141.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3733920.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

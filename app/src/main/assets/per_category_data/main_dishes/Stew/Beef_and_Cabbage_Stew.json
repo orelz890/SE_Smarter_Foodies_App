@@ -1,0 +1,99 @@
+{
+    "title": "Beef and Cabbage Stew",
+    "Category": "Stew",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds beef stew meat, cut into 1-inch pieces"
+        },
+        {
+            "2": "1 cube beef bouillon"
+        },
+        {
+            "3": "2 cups beef broth"
+        },
+        {
+            "4": "1 large onion, chopped"
+        },
+        {
+            "5": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "6": "1  bay leaf"
+        },
+        {
+            "7": "4 cups shredded cabbage"
+        },
+        {
+            "8": "2  potatoes, peeled and cubed"
+        },
+        {
+            "9": "2  celery ribs, sliced"
+        },
+        {
+            "10": "1  carrot, sliced"
+        },
+        {
+            "11": "1 (8 ounce) can tomato sauce"
+        },
+        {
+            "12": "1 salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook and stir stew meat in a large saucepan or Dutch oven over medium heat until browned on all sides, 10 to 15 minutes. Drain any excess grease."
+        },
+        {
+            "2": "Stir beef bouillon into beef broth in a bowl until dissolved; pour over stew meat. Add onion, black pepper, and bay leaf; cover and simmer until stew meat is very tender, at least 2 hours."
+        },
+        {
+            "3": "Add cabbage, potatoes, celery, and carrot; cover and simmer until potatoes are tender, 30 to 45 more minutes."
+        },
+        {
+            "4": "Stir tomato sauce and salt into the stew; simmer, uncovered, until tomato sauce is fully incorporated and flavors have blended, 15 to 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": " 2 hrs 55 mins"
+        },
+        {
+            "Total Time": " 3 hrs 10 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "318"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "22g"
+        },
+        {
+            "Protein": "23g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe06b8a019482f48f3f01210ab12cbc46%2F1655440612332B5CD4-E45D-442A-BADB-0FC3ACE315B3.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9323230.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9243541.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9023604.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

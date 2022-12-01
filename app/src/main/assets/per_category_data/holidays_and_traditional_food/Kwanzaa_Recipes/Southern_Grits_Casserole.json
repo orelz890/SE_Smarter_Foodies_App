@@ -1,0 +1,96 @@
+{
+    "title": "Southern Grits Casserole",
+    "Category": "Kwanzaa Recipes",
+    "Ingredients": [
+        {
+            "1": "6 cups water"
+        },
+        {
+            "2": "2 cups uncooked grits"
+        },
+        {
+            "3": "3 cups shredded Cheddar cheese, divided"
+        },
+        {
+            "4": "0.5 cup butter, cut into pieces, divided"
+        },
+        {
+            "5": "1 pound ground pork sausage"
+        },
+        {
+            "6": "12 large eggs"
+        },
+        {
+            "7": "0.5 cup milk"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a large baking dish."
+        },
+        {
+            "2": "Bring water to a boil in a large saucepan; stir in grits. Reduce the heat, cover, and simmer until liquid has been absorbed, about 5 minutes. Mix in 2 cups Cheddar cheese and 1/2 of the butter until melted."
+        },
+        {
+            "3": "Cook sausage in a skillet over medium-high heat until browned and crumbly, 5 to 7 minutes. Drain and add to grits mixture."
+        },
+        {
+            "4": "Whisk eggs and milk together in a bowl. Pour into the skillet used to cook the sausage. Lightly scramble eggs over medium-low heat, then mix into grits mixture."
+        },
+        {
+            "5": "Pour grits mixture into the prepared baking dish. Dot with remaining butter, sprinkle with remaining 1 cup Cheddar, and season with salt and pepper."
+        },
+        {
+            "6": "Bake in the preheated oven until lightly browned, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "16 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "403"
+        },
+        {
+            "Fat": "30g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2cfb04d364efb9b7163498748d34d28c%2F166221427840F967F2-8710-456A-A175-D596FE4D43C0.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2cfb04d364efb9b7163498748d34d28c%2F16539311741653931165180165223718395271881.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9307991.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9255628.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/7oU5aBodwkWEFyRW58YTeRM0pms=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1031379-southern-grits-casserole-Melissa-Goff-1x1-1-1348a7084b674031b13f13e76025169c.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

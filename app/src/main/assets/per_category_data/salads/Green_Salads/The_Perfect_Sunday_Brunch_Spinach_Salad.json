@@ -1,0 +1,69 @@
+{
+    "title": "The Perfect Sunday Brunch Spinach Salad",
+    "Category": "Green Salads",
+    "Ingredients": [
+        {
+            "1": "2 (10 ounce) bags baby spinach"
+        },
+        {
+            "2": "2  bananas, sliced"
+        },
+        {
+            "3": "12  fresh strawberries, sliced"
+        },
+        {
+            "4": "1 (10 ounce) can mandarin oranges, drained"
+        },
+        {
+            "5": "0.5 cup dried cranberries"
+        },
+        {
+            "6": "0.5 cup pine nuts"
+        },
+        {
+            "7": "1 cup poppy seed salad dressing"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place spinach in a large bowl. Arrange bananas, strawberries, mandarin oranges, cranberries, and pine nuts on top. Toss with poppy seed dressing before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "292"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4371015.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F8e6cfb4cf8d1c6207bb068dd00b633ee%2F746583.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

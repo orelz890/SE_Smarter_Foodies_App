@@ -1,0 +1,66 @@
+{
+    "title": "Chocolate Snow Ice Cream",
+    "Category": "Ice Cream",
+    "Ingredients": [
+        {
+            "1": "2 cups milk"
+        },
+        {
+            "2": "1 cup confectioners' sugar"
+        },
+        {
+            "3": "1 tablespoon vanilla extract"
+        },
+        {
+            "4": "0.25 cup unsweetened cocoa powder"
+        },
+        {
+            "5": "1 teaspoon powdered instant coffee"
+        },
+        {
+            "6": "1 gallon clean fresh snow"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a bowl, whisk together milk, confectioners' sugar, vanilla extract, cocoa powder, and instant coffee until the sugar has dissolved and the mixture is smooth."
+        },
+        {
+            "2": "Place snow in a large bowl, and pour the chocolate mixture over the snow. With a large spoon, stir until the ingredients are thoroughly combined. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "102"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4509825.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1101053.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

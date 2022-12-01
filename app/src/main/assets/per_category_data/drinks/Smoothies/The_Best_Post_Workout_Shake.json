@@ -1,0 +1,75 @@
+{
+    "title": "The Best Post Workout Shake",
+    "Category": "Smoothies",
+    "Ingredients": [
+        {
+            "1": "1 scoop whey protein powder"
+        },
+        {
+            "2": "1 tablespoon flax seed meal"
+        },
+        {
+            "3": "1 tablespoon unsweetened cocoa powder"
+        },
+        {
+            "4": "1 teaspoon brown sugar (Optional)"
+        },
+        {
+            "5": "1 cup unsweetened almond milk"
+        },
+        {
+            "6": "1  banana"
+        },
+        {
+            "7": "0.5 cup frozen mixed berries"
+        },
+        {
+            "8": "1 tablespoon smooth peanut butter"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Layer protein powder, flax meal, cocoa powder, and brown sugar in a blender; add almond milk, banana, berries, and peanut butter. Blend until smooth, about 1 minute."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "1 "
+        },
+        {
+            "Yield": "1 shake"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "493"
+        },
+        {
+            "Fat": "17g"
+        },
+        {
+            "Carbs": "67g"
+        },
+        {
+            "Protein": "29g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7189851.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6916609.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb7c2927bcf791ef83bfcdb6889b28abc%2F2679546.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

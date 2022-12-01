@@ -1,0 +1,84 @@
+{
+    "title": "Greek Yogurt Carbonara",
+    "Category": "Pasta Carbonara",
+    "Ingredients": [
+        {
+            "1": "0.25 pound turkey bacon"
+        },
+        {
+            "2": "0.25 pound angel hair pasta"
+        },
+        {
+            "3": "0.25 cup plain Greek yogurt"
+        },
+        {
+            "4": "0.25 cup grated Parmesan cheese"
+        },
+        {
+            "5": "1  egg"
+        },
+        {
+            "6": "0.25 teaspoon Italian seasoning"
+        },
+        {
+            "7": "0.25 teaspoon crushed red pepper flakes"
+        },
+        {
+            "8": "1 pinch garlic salt"
+        },
+        {
+            "9": "1 pinch onion powder"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place turkey bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 5 minutes. Drain, let cool, and crumble."
+        },
+        {
+            "2": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in angel hair pasta, bring back to a boil, and cook over medium heat until tender yet firm to the bite, 4 to 5 minutes."
+        },
+        {
+            "3": "Meanwhile, whisk Greek yogurt, Parmesan cheese, egg, Italian seasoning, red pepper flakes, garlic salt, and onion powder together in a bowl."
+        },
+        {
+            "4": "Drain pasta and return to the pot. Pour egg mixture over the pasta while still warm. Cook and stir over low heat for 1 to 2 minutes. Add bacon pieces and toss to coat."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "161"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "17g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7796066.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

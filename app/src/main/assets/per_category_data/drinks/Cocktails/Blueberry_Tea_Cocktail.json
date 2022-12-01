@@ -1,0 +1,51 @@
+{
+    "title": "Blueberry Tea Cocktail",
+    "Category": "Cocktails",
+    "Ingredients": [
+        {
+            "1": "1 fluid ounce amaretto liqueur"
+        },
+        {
+            "2": "1 fluid ounce orange liqueur (such as Grand Marnier\u00ae)"
+        },
+        {
+            "3": "4 fluid ounces orange pekoe tea, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine amaretto and orange liqueurs in a brandy snifter or glass. Pour in hot tea."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Total Time": "5 mins"
+        },
+        {
+            "Servings": "1 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "212"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "27g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4560461.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1476401.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

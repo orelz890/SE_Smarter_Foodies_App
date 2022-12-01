@@ -1,0 +1,81 @@
+{
+    "title": "No Mayo Deviled Eggs",
+    "Category": "Deviled Eggs",
+    "Ingredients": [
+        {
+            "1": "6  eggs"
+        },
+        {
+            "2": "1  ripe avocado"
+        },
+        {
+            "3": "3 tablespoons sour cream"
+        },
+        {
+            "4": "1 dash Worcestershire sauce"
+        },
+        {
+            "5": "1 tablespoon chopped fresh dill"
+        },
+        {
+            "6": "1 salt to taste"
+        },
+        {
+            "7": "1 ground white pepper to taste"
+        },
+        {
+            "8": "2  green onions, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch. Cover the saucepan and bring the water to a boil over high heat. Remove from the heat and let the eggs stand in the hot water for 15 minutes. Drain. Cool the eggs under cold running water. Peel once cold. Halve the eggs lengthwise and scoop the yolks into a bowl."
+        },
+        {
+            "2": "Add the avocado and sour cream to the egg yolks and mash into a smooth, creamy mixture. Stir in the Worcestershire sauce, dill, salt, and white pepper until the mixture is very well blended; spoon into the egg white halves and garnish with chopped green onion."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 stuffed egg halves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "71"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6601622.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F801438.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Hot Buffalo Chicken, Bacon, and Cheese Sandwich",
+    "Category": "Buffalo Chicken Wings",
+    "Ingredients": [
+        {
+            "1": "6 slices bacon"
+        },
+        {
+            "2": "0.5 cup mayonnaise"
+        },
+        {
+            "3": "0.25 cup sour cream"
+        },
+        {
+            "4": "2 tablespoons hot buffalo wing sauce"
+        },
+        {
+            "5": "1 loaf Italian bread, cut in half lengthwise"
+        },
+        {
+            "6": "3 cups shredded meat from a rotisserie chicken"
+        },
+        {
+            "7": "8 slices pepperjack cheese"
+        },
+        {
+            "8": "0.25 cup roasted red bell peppers, drained and sliced (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an oven to 325 degrees F (165 degrees C)."
+        },
+        {
+            "2": "Place the bacon in a large, deep skillet; cook over medium-high heat, turning occasionally, until evenly browned. Drain the bacon slices on a paper towel-lined plate."
+        },
+        {
+            "3": "Combine the mayonnaise, sour cream, and hot sauce in a small bowl. Spread both halves of the bread with the mayonnaise mixture. Place chicken on bottom half of bread; layer bacon and cheese on top of chicken. Fold the top half of the bread over the bottom, and wrap with foil."
+        },
+        {
+            "4": "Bake for 20 to 25 minutes. Add a layer of red pepper slices on top of the bacon and cheese, if desired. Cut into slices, and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "566"
+        },
+        {
+            "Fat": "30g"
+        },
+        {
+            "Carbs": "44g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3976712.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3993068.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6d485a152fab1043840226ad151e5ee7%2F2256523.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb790014542516b36f0683e78a0d207ad%2F1039033.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

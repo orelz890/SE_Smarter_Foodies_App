@@ -1,0 +1,96 @@
+{
+    "title": "New Year's Soup",
+    "Category": "Quinoa",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon extra-virgin olive oil"
+        },
+        {
+            "2": "2 cloves garlic, crushed"
+        },
+        {
+            "3": "1 small onion, chopped"
+        },
+        {
+            "4": "2 medium carrots, peeled and sliced"
+        },
+        {
+            "5": "3 leaves collard greens, coarsely chopped"
+        },
+        {
+            "6": "1 (15 ounce) can black-eyed peas, rinsed and drained"
+        },
+        {
+            "7": "1 (14.5 ounce) can vegetable broth"
+        },
+        {
+            "8": "1 cup water"
+        },
+        {
+            "9": "0.5 cup quinoa"
+        },
+        {
+            "10": "1 tablespoon cider vinegar, or to taste"
+        },
+        {
+            "11": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a soup pot over medium heat. Add garlic; cook and stir until it begins to brown, about 3 minutes. Add onion and carrots; cook and stir until carrots begin to brown and onion becomes translucent, 7 to 8 minutes. Add collard greens; cook and stir until wilted, about 5 minutes."
+        },
+        {
+            "2": "Add black-eyed peas and pour in vegetable broth; bring to a boil. Reduce the heat to low, cover, and simmer until vegetables are softened, 20 to 25 minutes."
+        },
+        {
+            "3": "Meanwhile, bring water and quinoa to a boil in a medium saucepan. Reduce the heat to low, cover, and simmer until all water has been absorbed, about 10 minutes."
+        },
+        {
+            "4": "Stir cooked quinoa into soup and continue simmering until collard greens are tender, about 10 more minutes. Stir in cider vinegar and season with salt and pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "50 mins"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "232"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "10g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8208186.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2cf183c87a242233c2cfeb11349ade9d%2F6316421.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7752986.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7591336.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

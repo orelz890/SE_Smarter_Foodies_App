@@ -1,0 +1,78 @@
+{
+    "title": "Bacon Wrapped Turkey",
+    "Category": "Main Dishes",
+    "Ingredients": [
+        {
+            "1": "0.25 cup dried sage"
+        },
+        {
+            "2": "2 tablespoons garlic powder"
+        },
+        {
+            "3": "1 (16 pound) whole turkey, neck and giblets removed"
+        },
+        {
+            "4": "2 (12 ounce) packages bacon"
+        },
+        {
+            "5": "2 cups water"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Place a roasting rack in a large baking dish."
+        },
+        {
+            "2": "Sprinkle sage and garlic powder over entire turkey. Wrap turkey completely with bacon. Place turkey on the rack in the prepared baking dish. Pour water into the dish."
+        },
+        {
+            "3": "Bake turkey in the preheated oven, basting every 45 minutes with juices in the baking dish, until no longer pink at the bone and the juices run clear, 3 1/2 to 4 hours. An instant-read thermometer inserted into the thickest part of the thigh should read at least 165 degrees F (74 degrees C)."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": " 3 hrs 30 mins"
+        },
+        {
+            "Total Time": " 4 hrs"
+        },
+        {
+            "Servings": "32 "
+        },
+        {
+            "Yield": "1 16-pound turkey"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "381"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "49g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7382748.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F492ba257ff68c69906667d7fe3e13da1%2F7328668.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6030486.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5193524.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "main_dishes"
+}

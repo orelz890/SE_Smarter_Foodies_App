@@ -1,0 +1,84 @@
+{
+    "title": "Best Strawberry Lemonade Ever",
+    "Category": "Lemonade",
+    "Ingredients": [
+        {
+            "1": "12  fresh strawberries, hulled and quartered"
+        },
+        {
+            "2": "0.25 cup white sugar"
+        },
+        {
+            "3": "7 cups water, divided"
+        },
+        {
+            "4": "0.75 cup white sugar"
+        },
+        {
+            "5": "1 cup lemon juice"
+        },
+        {
+            "6": "2 cups ice cubes"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix strawberries and 1/4 cup sugar together in a bowl; set aside for juices to release from strawberries, 5 to 10 minutes."
+        },
+        {
+            "2": "Bring 1 cup water to a boil in a small saucepan; add 3/4 cup sugar. Cook and stir sugar mixture until sugar is dissolved, about 5 minutes. Remove saucepan from heat and cool simple syrup to room temperature."
+        },
+        {
+            "3": "Stir simple syrup, 6 cups water, lemon juice, and ice together in a pitcher. Add sweetened strawberries and stir."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "151"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6716380.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4543240.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4008114.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3675141.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

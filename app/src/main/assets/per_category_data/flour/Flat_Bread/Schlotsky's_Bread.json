@@ -1,0 +1,87 @@
+{
+    "title": "Schlotsky's Bread",
+    "Category": "Flat Bread",
+    "Ingredients": [
+        {
+            "1": "0.5 cup warm water (110 degrees F/45 degrees C)"
+        },
+        {
+            "2": "1 tablespoon white sugar"
+        },
+        {
+            "3": "0.5 teaspoons active dry yeast"
+        },
+        {
+            "4": "0.25 teaspoon baking soda"
+        },
+        {
+            "5": "0.5 teaspoons warm water (110 degrees F/45 degrees C)"
+        },
+        {
+            "6": "0.75 cup warm milk (110 degrees F/45 degrees C)"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "1.0 cups bread flour"
+        },
+        {
+            "9": "2 tablespoons cornmeal"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a small bowl stir together the warm water, sugar, and yeast. Stir to dissolve and set aside."
+        },
+        {
+            "2": "In a large bowl dissolve baking soda with the 1 1/2 teaspoons warm water. Add the warm milk, salt, and one cup of the flour. Beat with a wire whisk until smooth. Beat in yeast mixture and remaining flour. Batter should be thick, sticky, and smooth."
+        },
+        {
+            "3": "Prepare 2 pie pans with non-stick spray. Dust pans with cornmeal. Place 1/2 dough in each pie pan. Batter will spread during rising time. Spray top of dough with non-stick cooking spray. Cover and let rise for one hour."
+        },
+        {
+            "4": "Repeat spraying of bread with non-stick cooking spray. Bake in a preheated 375 degree F (190 degrees C) for 20 minutes."
+        },
+        {
+            "5": "Allow to cool for an hour before slicing."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "2 medium loaves"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "19"
+        },
+        {
+            "Fat": "0g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7980101.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7980096.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7748168.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6146357.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

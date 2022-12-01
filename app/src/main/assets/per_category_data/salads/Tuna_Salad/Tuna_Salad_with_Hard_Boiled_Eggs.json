@@ -1,0 +1,66 @@
+{
+    "title": "Tuna Salad with Hard-Boiled Eggs",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "2 (12 ounce) cans tuna, drained"
+        },
+        {
+            "2": "0.5 cup light creamy salad dressing (such as Miracle Whip Light\u00ae)"
+        },
+        {
+            "3": "3  hard-boiled eggs, chopped"
+        },
+        {
+            "4": "1 stalk celery, diced (Optional)"
+        },
+        {
+            "5": "2 tablespoons sweet pickle relish"
+        },
+        {
+            "6": "1 teaspoon prepared yellow mustard"
+        },
+        {
+            "7": "1 dash Worcestershire sauce"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine tuna, salad dressing, chopped eggs, celery, relish, mustard, and Worcestershire sauce in a medium bowl. Mix until well combined."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "189"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "32g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7908569.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

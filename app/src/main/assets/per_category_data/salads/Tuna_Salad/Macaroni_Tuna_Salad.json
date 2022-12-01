@@ -1,0 +1,87 @@
+{
+    "title": "Macaroni Tuna Salad",
+    "Category": "Tuna Salad",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package elbow macaroni"
+        },
+        {
+            "2": "2 (5 ounce) cans white tuna, drained and flaked"
+        },
+        {
+            "3": "2 stalks celery, minced"
+        },
+        {
+            "4": "1  onion, minced"
+        },
+        {
+            "5": "2 cups mayonnaise"
+        },
+        {
+            "6": "1 (5 ounce) jar pimento-stuffed green olives, drained"
+        },
+        {
+            "7": "1 pint grape tomatoes"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once the water is boiling, stir in the macaroni, and return to a boil. Cook the pasta uncovered, stirring occasionally, until the pasta has cooked through, but is still firm to the bite, about 8 minutes. Drain well in a colander set in the sink. Transfer the macaroni to a bowl, and cool in the refrigerator."
+        },
+        {
+            "2": "In a large bowl, lightly toss the tuna with celery, onion, and about 1 cup mayonnaise until combined, then stir in the remaining mayonnaise, macaroni, olives, and grape tomatoes. Season to taste with salt and pepper. Let the salad chill in refrigerator 1 hour."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs 20 mins"
+        },
+        {
+            "Total Time": " 1 hrs 45 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "553"
+        },
+        {
+            "Fat": "38g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "14g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6645063.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1126897.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F832447.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F405013.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Fabulous Spinach and Artichoke Dip",
+    "Category": "Artichoke Dip",
+    "Ingredients": [
+        {
+            "1": "1 (14 ounce) can artichoke hearts, drained and chopped"
+        },
+        {
+            "2": "1 (10 ounce) container Alfredo sauce"
+        },
+        {
+            "3": "1 (10 ounce) package frozen chopped spinach, thawed and drained"
+        },
+        {
+            "4": "1 cup grated Parmesan-Romano cheese"
+        },
+        {
+            "5": "1 (4 ounce) package cream cheese, softened"
+        },
+        {
+            "6": "0.5 cup shredded mozzarella cheese"
+        },
+        {
+            "7": "1 teaspoon minced garlic"
+        },
+        {
+            "8": "1 ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Thoroughly mix artichoke hearts, Alfredo sauce, spinach, Parmesan-Romano cheese, cream cheese, mozzarella cheese, garlic, and black pepper in a bowl; spread into an 8-inch square baking dish."
+        },
+        {
+            "3": "Bake in preheated oven until cheeses are bubbling and melted, 25 to 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "159"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8397694.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8154264.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7796287.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F04cc1dc2657b1ed30de315283fb7035c%2F7370222.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "dips"
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Orange Romaine Salad",
+    "Category": "Green Salads",
+    "Ingredients": [
+        {
+            "1": "0.25 cup red wine vinegar"
+        },
+        {
+            "2": "0.75 cup vegetable oil"
+        },
+        {
+            "3": "1 tablespoon honey"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "6": "0.25 cup chopped green onion"
+        },
+        {
+            "7": "1 large head romaine lettuce, torn into bite-size pieces"
+        },
+        {
+            "8": "3  oranges, peeled and thinly sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a small container with a tight-fitting lid, combine the vinegar, oil, honey, salt, pepper and green onion. Close the lid, and shake vigorously to blend."
+        },
+        {
+            "2": "Place the romaine lettuce into a large serving bowl. Sprinkle with dressing and toss to coat. Add orange slices and toss gently. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "217"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6a2725d0b372636de4c01e9fd6900586%2F1663083027image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6a2725d0b372636de4c01e9fd6900586%2F165378029129E5469C-AD7B-40F4-8D60-8A21D44B3FBC.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8118854.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5129196.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

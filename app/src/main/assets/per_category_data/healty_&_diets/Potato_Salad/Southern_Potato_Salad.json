@@ -1,0 +1,87 @@
+{
+    "title": "Southern Potato Salad",
+    "Category": "Potato Salad",
+    "Ingredients": [
+        {
+            "1": "4  potatoes"
+        },
+        {
+            "2": "4 large eggs"
+        },
+        {
+            "3": "0.5 cup mayonnaise"
+        },
+        {
+            "4": "0.5 stalk celery, chopped"
+        },
+        {
+            "5": "0.25 cup sweet relish"
+        },
+        {
+            "6": "1 clove garlic, minced"
+        },
+        {
+            "7": "2 tablespoons prepared mustard"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes; drain and chop."
+        },
+        {
+            "2": "At the same time, place eggs in a saucepan and cover with cold water. Bring water to a boil; cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water; peel and chop."
+        },
+        {
+            "3": "Combine cooked potatoes and eggs with mayonnaise, celery, relish, garlic, mustard, salt, and pepper in a large bowl. Gently mix together and serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "460"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "45g"
+        },
+        {
+            "Protein": "11g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F72442792af9b9136613ae695479beb2d%2F1657402913E41BD10B-0174-40F1-92DF-D96CEF00D07A.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9322764.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9229101.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9221545.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/aOEOt_R3PIZXAT1eBqcQh6X9Piw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/884271-b6cc608d37cc4ef892893b9f558156fe.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

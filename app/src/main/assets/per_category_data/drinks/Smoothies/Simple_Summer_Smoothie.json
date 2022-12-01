@@ -1,0 +1,78 @@
+{
+    "title": "Simple Summer Smoothie",
+    "Category": "Smoothies",
+    "Ingredients": [
+        {
+            "1": "1  banana"
+        },
+        {
+            "2": "1 cup frozen strawberries"
+        },
+        {
+            "3": "1 cup frozen blueberries"
+        },
+        {
+            "4": "1 cup frozen cherries"
+        },
+        {
+            "5": "4  ice cubes"
+        },
+        {
+            "6": "0.5 cup orange juice"
+        },
+        {
+            "7": "0.75 cup vanilla yogurt"
+        },
+        {
+            "8": "0.5 teaspoon honey (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place the banana, strawberries, blueberries, cherries, and ice cubes into a blender. Pour in the orange juice, vanilla yogurt, and honey. Puree until smooth."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Total Time": "10 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "139"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa2b5a6323026cc0297d6c37ec4e8c0e4%2F4883666.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3579725.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2497776.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F937507.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "drinks"
+}

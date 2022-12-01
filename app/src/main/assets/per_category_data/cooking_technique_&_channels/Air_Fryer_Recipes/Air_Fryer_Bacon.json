@@ -1,0 +1,66 @@
+{
+    "title": "Air Fryer Bacon",
+    "Category": "Air Fryer Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 (16 ounce) package bacon"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an air fryer to 390 degrees F (200 degrees C) according to manufacturer's instructions."
+        },
+        {
+            "2": "Lay bacon in the air fryer basket in a single layer; some overlap is okay."
+        },
+        {
+            "3": "Fry for 8 minutes. Flip and continue cooking until bacon is crisp, about 7 minutes more. Transfer cooked bacon to a plate lined with paper towels to soak up excess grease."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1/2 pound"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "67"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "0g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fed3ed9f081dc6d6a865d9fb296476c13%2F1658535637WIN_20220722_19_13_07_Pro.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fed3ed9f081dc6d6a865d9fb296476c13%2F1655141167IMG_20220613_114000578.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fed3ed9f081dc6d6a865d9fb296476c13%2F1651784847BACON.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9333013.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

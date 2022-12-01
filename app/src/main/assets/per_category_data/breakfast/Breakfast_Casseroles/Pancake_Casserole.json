@@ -1,0 +1,84 @@
+{
+    "title": "Pancake Casserole",
+    "Category": "Breakfast Casseroles",
+    "Ingredients": [
+        {
+            "1": "2 cups baking mix (such as Bisquick \u00ae)"
+        },
+        {
+            "2": "2 cups shredded Cheddar cheese, divided"
+        },
+        {
+            "3": "1 cup milk"
+        },
+        {
+            "4": "5 tablespoons maple syrup"
+        },
+        {
+            "5": "2  eggs"
+        },
+        {
+            "6": "0.5 tablespoons white sugar"
+        },
+        {
+            "7": "12 slices cooked bacon, crumbled"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking pan."
+        },
+        {
+            "2": "Mix baking mix, 1 cup Cheddar cheese, milk, maple syrup, eggs, and sugar together in a bowl; pour into prepared pan."
+        },
+        {
+            "3": "Bake in the preheated oven until a toothpick inserted in the center comes out clean, 20 to 25 minutes. Sprinkle bacon and remaining 1 cup Cheddar cheese over casserole; return to oven until cheese is melted, about 5 more minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "311"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "12g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8610048.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8135907.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F954f3150e23c06eed3a7a7ad685e83f8%2F7484738.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7207295.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "breakfast"
+}

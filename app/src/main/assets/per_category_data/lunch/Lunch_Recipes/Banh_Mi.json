@@ -1,0 +1,132 @@
+{
+    "title": "Banh Mi",
+    "Category": "Lunch Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 cup rice vinegar"
+        },
+        {
+            "2": "0.25 cup white sugar"
+        },
+        {
+            "3": "0.25 cup water"
+        },
+        {
+            "4": "0.25 cup matchstick-cut carrots"
+        },
+        {
+            "5": "0.25 cup peeled and matchstick-cut daikon radish"
+        },
+        {
+            "6": "0.25 cup thinly sliced white onion"
+        },
+        {
+            "7": "1  skinless, boneless chicken breast half"
+        },
+        {
+            "8": "1 pinch garlic salt, or to taste"
+        },
+        {
+            "9": "1 ground black pepper to taste"
+        },
+        {
+            "10": "1 (12 inch) French baguette"
+        },
+        {
+            "11": "4 tablespoons mayonnaise"
+        },
+        {
+            "12": "0.25 cup thinly sliced cucumber"
+        },
+        {
+            "13": "1 tablespoon fresh cilantro leaves"
+        },
+        {
+            "14": "1 small jalapeno pepper, cut into 1/16-inch-thick matchsticks"
+        },
+        {
+            "15": "1 wedge lime"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine rice vinegar, sugar, and water in a saucepan. Bring to a boil over medium heat, stirring until sugar has dissolved, about 1 minute. Allow the mixture to cool."
+        },
+        {
+            "2": "Place carrot, radish, and onion in a bowl. Pour in cooled vinegar mixture and let marinate at least 30 minutes."
+        },
+        {
+            "3": "While vegetables marinate, set an oven rack about 6 inches from the heat source and preheat the broiler. Lightly oil a slotted broiler pan."
+        },
+        {
+            "4": "Sprinkle chicken breast with garlic salt and pepper."
+        },
+        {
+            "5": "Place chicken on the prepared pan and broil, turning once, until browned and no longer pink in the center, about 6 minutes per side."
+        },
+        {
+            "6": "Place chicken on a cutting board. Cut into bite-sized pieces."
+        },
+        {
+            "7": "Slice baguette in half lengthwise. Pull out the soft center of the bread, leaving a cavity for the fillings."
+        },
+        {
+            "8": "Lightly toast baguette under the broiler, 2 to 3 minutes."
+        },
+        {
+            "9": "Drain off excess vinegar mixture after vegetables have marinated."
+        },
+        {
+            "10": "To assemble the sandwich, spread each half of toasted baguette with mayonnaise. Layer chicken on the bottom half of the bread. Top with cucumber, drained pickled vegetables, cilantro, and jalapeno. Squeeze lime wedge over fillings and cover with top half of baguette."
+        },
+        {
+            "11": "Cut into two 6-inch sandwiches to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "1 12-inch sandwich"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "657"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "85g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9429426.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9398332.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8433697.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F875be9c57b1d7db1d08060dd24be6d5e%2F6736673.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "lunch"
+}

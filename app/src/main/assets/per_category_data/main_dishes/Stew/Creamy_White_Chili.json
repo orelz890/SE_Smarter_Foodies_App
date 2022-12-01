@@ -1,0 +1,105 @@
+{
+    "title": "Creamy White Chili",
+    "Category": "Stew",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon olive oil"
+        },
+        {
+            "2": "1 pound skinless, boneless chicken breast halves, cut into 1/2-inch cubes"
+        },
+        {
+            "3": "1  onion, chopped"
+        },
+        {
+            "4": "2 cloves garlic, chopped"
+        },
+        {
+            "5": "2 (15.5 ounce) cans great Northern beans, rinsed and drained"
+        },
+        {
+            "6": "1 (14.5 ounce) can chicken broth"
+        },
+        {
+            "7": "2 (4 ounce) cans chopped green chiles"
+        },
+        {
+            "8": "1 teaspoon salt"
+        },
+        {
+            "9": "1 teaspoon ground cumin"
+        },
+        {
+            "10": "1 teaspoon dried oregano"
+        },
+        {
+            "11": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "12": "0.25 teaspoon cayenne pepper"
+        },
+        {
+            "13": "1 cup sour cream"
+        },
+        {
+            "14": "0.5 cup heavy whipping cream"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat olive oil in a large saucepan over medium heat. Add chicken, onion, and garlic; cook and stir until chicken is no longer pink in the center and juices run clear, 10 to 15 minutes."
+        },
+        {
+            "2": "Stir in beans, chicken broth, green chiles, salt, cumin, oregano, black pepper, and cayenne pepper; bring to a boil. Reduce heat and simmer until flavors have blended, about 30 minutes."
+        },
+        {
+            "3": "Remove chili from heat; stir in sour cream and whipping cream until incorporated."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": "55 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "334"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "30g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fb90a70dfa17201e92904c5d1b881b5f8%2F1666916987688image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9049230.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9413865.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9377571.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/7G-x8fWbVyndjTJWwCdOV7xhT_g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229949-creamy-white-chili-ddmfs-1x1-0040-4440a8e80e1448748ec79ac0cb93588c.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

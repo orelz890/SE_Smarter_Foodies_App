@@ -1,0 +1,87 @@
+{
+    "title": "Turkey Wraps",
+    "Category": "Sandwiches",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package cream cheese with chives"
+        },
+        {
+            "2": "2 tablespoons Dijon mustard"
+        },
+        {
+            "3": "6 (8 inch) whole wheat tortillas"
+        },
+        {
+            "4": "0.5 cups finely shredded iceberg lettuce"
+        },
+        {
+            "5": "12 slices thinly sliced deli turkey"
+        },
+        {
+            "6": "0.75 cup shredded Swiss cheese"
+        },
+        {
+            "7": "6 slices bacon, cooked and crumbled"
+        },
+        {
+            "8": "1 large tomato, seeded and diced"
+        },
+        {
+            "9": "1 large avocado, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix cream cheese and Dijon mustard together until smooth; spread about 2 tablespoons of cream cheese mixture on each tortilla, spreading to within 1/4 inch of the edge."
+        },
+        {
+            "2": "Arrange about 1/4 cup of shredded lettuce on each tortilla; press lettuce down into cream cheese mixture. Place 2 turkey slices per tortilla over the lettuce, and sprinkle with 2 tablespoons of shredded Swiss cheese. Top each tortilla evenly with crumbled bacon, tomato, and avocado slices."
+        },
+        {
+            "3": "Roll each tortilla up tightly; cut in half across the middle with a slightly diagonal cut."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 wraps"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "457"
+        },
+        {
+            "Fat": "28g"
+        },
+        {
+            "Carbs": "37g"
+        },
+        {
+            "Protein": "24g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7113215.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6778152.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fbb6c7db2be428bcf0aab9d85ebfcf212%2F4500809.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3437515.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

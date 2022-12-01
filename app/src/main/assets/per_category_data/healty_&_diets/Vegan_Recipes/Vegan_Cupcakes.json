@@ -1,0 +1,99 @@
+{
+    "title": "Vegan Cupcakes",
+    "Category": "Vegan Recipes",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon apple cider vinegar"
+        },
+        {
+            "2": "0.5 cups almond milk"
+        },
+        {
+            "3": "2 cups all-purpose flour"
+        },
+        {
+            "4": "1 cup white sugar"
+        },
+        {
+            "5": "2 teaspoons baking powder"
+        },
+        {
+            "6": "0.5 teaspoon baking soda"
+        },
+        {
+            "7": "0.5 teaspoon salt"
+        },
+        {
+            "8": "0.5 cup coconut oil, warmed until liquid"
+        },
+        {
+            "9": "0.25 teaspoons vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease two 12-cup muffin pans or line with 18 paper baking cups."
+        },
+        {
+            "2": "Pour apple cider vinegar into a 2-cup measuring cup. Fill with almond milk to make 1 1/2 cups. Let stand until curdled, about 5 minutes."
+        },
+        {
+            "3": "Whisk together flour, sugar, baking powder, baking soda, and salt in a large bowl. Whisk together almond milk mixture, coconut oil, and vanilla in a separate bowl. Pour wet ingredients into dry ingredients and stir just until blended. Spoon batter evenly into the prepared cups."
+        },
+        {
+            "4": "Bake in the preheated oven until tops spring back when lightly pressed, 15 to 20 minutes. Cool in the pan set over a wire rack."
+        },
+        {
+            "5": "Arrange cooled cupcakes on a serving platter. Frost with desired frosting."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "18 "
+        },
+        {
+            "Yield": "18 cupcakes"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "152"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa9ce8678e430a9e659ec0b5033526461%2F1653317062IMG_20220508_134923_172.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa9ce8678e430a9e659ec0b5033526461%2F1650765789image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8954356.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8785239.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/bHxzoJU6qomQtu67YpQY-ZJiH9Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2385598-vegan-cupcakes-jcalliagas-1x1-1-3167c2e67b834943acca9bfa9564b786.jpg"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

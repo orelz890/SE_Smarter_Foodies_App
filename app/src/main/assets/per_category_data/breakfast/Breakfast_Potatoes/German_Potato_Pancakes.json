@@ -1,0 +1,84 @@
+{
+    "title": "German Potato Pancakes",
+    "Category": "Breakfast Potatoes",
+    "Ingredients": [
+        {
+            "1": "2 large eggs"
+        },
+        {
+            "2": "2 tablespoons all-purpose flour"
+        },
+        {
+            "3": "0.25 teaspoon baking powder"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "0.25 teaspoon pepper"
+        },
+        {
+            "6": "6 medium potatoes, peeled and shredded"
+        },
+        {
+            "7": "0.5 cup finely chopped onion"
+        },
+        {
+            "8": "0.25 cup vegetable oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Beat eggs, flour, baking powder, salt, and pepper together in a large bowl; stir in potatoes and onion."
+        },
+        {
+            "2": "Heat oil in a large skillet over medium heat. Drop heaping tablespoonfuls of potato mixture into hot oil in batches. Press to flatten. Cook until browned and crisp, about 3 minutes on each side. Transfer to a paper towel-lined plate to drain. Repeat with remaining potato mixture."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "283"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "41g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff85ae999016b4dcc0dd4acba9df1f53d%2F1646178853image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8905135.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8827664.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8793227.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/2rahURk_noJX3jrRtcGNaYON90o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3379636-e15a579324d34f9aa062132e8555f2e0.jpg"
+        }
+    ],
+    "main category": "breakfast"
+}

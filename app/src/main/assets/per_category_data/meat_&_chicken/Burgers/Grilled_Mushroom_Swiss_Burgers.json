@@ -1,0 +1,90 @@
+{
+    "title": "Grilled Mushroom Swiss Burgers",
+    "Category": "Burgers",
+    "Ingredients": [
+        {
+            "1": "0.5 pounds lean ground beef"
+        },
+        {
+            "2": "0.5 teaspoon seasoned meat tenderizer"
+        },
+        {
+            "3": "1 salt and pepper to taste"
+        },
+        {
+            "4": "2 teaspoons butter"
+        },
+        {
+            "5": "2 (4 ounce) cans sliced mushrooms, drained"
+        },
+        {
+            "6": "2 tablespoons soy sauce"
+        },
+        {
+            "7": "4 slices Swiss cheese"
+        },
+        {
+            "8": "6  hamburger buns"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an outdoor grill for medium heat and lightly oil the grate."
+        },
+        {
+            "2": "Divide ground beef into 6 equal-sized patties; season with meat tenderizer, salt, and pepper. Set aside."
+        },
+        {
+            "3": "Melt butter in a skillet over medium heat. Add mushrooms and soy sauce; cook and stir until browned. Set aside and keep warm."
+        },
+        {
+            "4": "Grill patties on the preheated grill until cooked through, about 6 minutes per side. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)."
+        },
+        {
+            "5": "Spoon mushroom mixture evenly on top of patties on the grill; top each one with a slice of Swiss cheese. Cover the grill until cheese melts, about 1 minute. Remove patties from the grill and serve on hamburger buns."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "520"
+        },
+        {
+            "Fat": "32g"
+        },
+        {
+            "Carbs": "25g"
+        },
+        {
+            "Protein": "30g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8301610.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F37be308f91a2c5071bb976bd79eedba2%2F5364828.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4556956.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3833859.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

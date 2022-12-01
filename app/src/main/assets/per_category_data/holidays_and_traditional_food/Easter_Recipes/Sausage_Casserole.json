@@ -1,0 +1,93 @@
+{
+    "title": "Sausage Casserole",
+    "Category": "Easter Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound sage flavored breakfast sausage"
+        },
+        {
+            "2": "3 cups shredded potatoes, drained and pressed"
+        },
+        {
+            "3": "0.25 cup butter, melted"
+        },
+        {
+            "4": "1 (16 ounce) container small curd cottage cheese"
+        },
+        {
+            "5": "12 ounces mild Cheddar cheese, shredded"
+        },
+        {
+            "6": "0.5 cup onion, shredded"
+        },
+        {
+            "7": "6 jumbo eggs"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a 9x13-inch baking dish."
+        },
+        {
+            "2": "Heat a large, deep skillet over medium-high heat. Cook sausage in the hot skillet until evenly browned and crumbly, 5 to 7 minutes. Drain and discard grease."
+        },
+        {
+            "3": "Stir together shredded potatoes and butter in the prepared baking dish; lightly press mixture into the bottom and sides of the dish. Mix together sausage, cottage cheese, Cheddar cheese, onion, and eggs in a bowl. Pour over potato mixture."
+        },
+        {
+            "4": "Bake in the preheated oven until a toothpick inserted into the center of casserole comes out clean, about 1 hour. Let cool for 5 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 5 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 35 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x13-inch casserole"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "356"
+        },
+        {
+            "Fat": "26g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5504332636d116e1774d73ed26b69845%2F166148133520220825_185407.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5504332636d116e1774d73ed26b69845%2F1657219179sausage%2520casserole.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5504332636d116e1774d73ed26b69845%2F164537356920220220_111203.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9391992.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/uMfoCaP17HTv3dhRpWWnIUlPTi8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4501563-1e75005a8dd44768bac460a70b9eb7f2.jpg"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

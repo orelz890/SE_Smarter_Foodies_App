@@ -1,0 +1,90 @@
+{
+    "title": "Corn Salad with Lime Vinaigrette",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "1 (14.5 ounce) can whole kernel corn, drained"
+        },
+        {
+            "2": "2  tomatoes, diced"
+        },
+        {
+            "3": "1  avocado, diced"
+        },
+        {
+            "4": "0.5  white onion, diced"
+        },
+        {
+            "5": "1  jalapeno pepper, or more to taste, seeded and diced"
+        },
+        {
+            "6": "0.5 cup chopped fresh cilantro"
+        },
+        {
+            "7": "0.25 cup olive oil"
+        },
+        {
+            "8": "1  lime, juiced"
+        },
+        {
+            "9": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix corn, tomatoes, avocado, onion, jalapeno pepper, and cilantro together in a bowl."
+        },
+        {
+            "2": "Whisk olive oil, and lime juice together in a small bowl; drizzle over the corn salad. Season salad with salt and pepper."
+        },
+        {
+            "3": "Cover bowl with plastic wrap and refrigerate at least 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "154"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8951012.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8343385.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8226840.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7382276.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

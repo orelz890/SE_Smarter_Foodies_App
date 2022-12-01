@@ -1,0 +1,93 @@
+{
+    "title": "Mediterranean Chicken with Eggplant",
+    "Category": "Mediterranean Diet",
+    "Ingredients": [
+        {
+            "1": "3  eggplants, peeled and cut lengthwise into 1/2 inch thick slices"
+        },
+        {
+            "2": "3 tablespoons olive oil"
+        },
+        {
+            "3": "6  skinless, boneless chicken breast halves - diced"
+        },
+        {
+            "4": "1  onion, diced"
+        },
+        {
+            "5": "2 tablespoons tomato paste"
+        },
+        {
+            "6": "0.5 cup water"
+        },
+        {
+            "7": "2 teaspoons dried oregano"
+        },
+        {
+            "8": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place eggplant strips in a big pot of lightly salted water and soak for 30 minutes (this will improve the taste; they will leave a brown color in the pot)."
+        },
+        {
+            "2": "Remove eggplant from pot and brush lightly with olive oil. Saute or grill until lightly browned and place in a 9x13 inch baking dish. Set aside."
+        },
+        {
+            "3": "Saute diced chicken and onion in a large skillet over medium heat. Stir in tomato paste and water, cover skillet, reduce heat to low and simmer for 10 minutes."
+        },
+        {
+            "4": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "5": "Pour chicken/tomato mixture over eggplant. Season with oregano, salt and pepper and cover with aluminum foil. Bake in the preheated oven for 20 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "50 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "5 "
+        },
+        {
+            "Yield": "4 to 6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "336"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "27g"
+        },
+        {
+            "Protein": "36g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6469810.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fdac1279e2e6c741d683e5b411b2e211b%2F6209557.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa623033f9be5a4ab068bd986a3571e84%2F5819641.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F05e0a2803f07ca01b37ab4d8f2ab7ef3%2F5729765.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

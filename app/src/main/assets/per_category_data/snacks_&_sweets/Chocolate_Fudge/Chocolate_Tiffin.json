@@ -1,0 +1,87 @@
+{
+    "title": "Chocolate Tiffin",
+    "Category": "Chocolate Fudge",
+    "Ingredients": [
+        {
+            "1": "0.5 cup butter"
+        },
+        {
+            "2": "2 tablespoons white sugar"
+        },
+        {
+            "3": "2 tablespoons golden syrup"
+        },
+        {
+            "4": "4 teaspoons cocoa powder"
+        },
+        {
+            "5": "1 (8 ounce) package rich tea biscuits, crushed"
+        },
+        {
+            "6": "0.25 cup raisins, or to taste"
+        },
+        {
+            "7": "7 ounces milk chocolate chips"
+        },
+        {
+            "8": "7 ounces dark chocolate chips"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine butter, sugar, golden syrup, and cocoa powder in a saucepan over medium-low heat; cook and stir until smooth, 2 to 4 minutes. Stir in biscuits and raisins. Pour mixture onto a rimmed 8 x 12-inch jelly roll pan; press to flatten."
+        },
+        {
+            "2": "Melt milk chocolate and dark chocolate in top of a double boiler over simmering water, stirring frequently and scraping down the sides with a rubber spatula to avoid scorching, 3 to 4 minutes. Pour melted chocolate over base in the jelly roll pan."
+        },
+        {
+            "3": "Refrigerate until set, about 1 hour. Cut into 20 pieces."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "5 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 15 mins"
+        },
+        {
+            "Servings": "20 "
+        },
+        {
+            "Yield": "20 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "208"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "26g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa75eec25a26851394f9df0c241bb1eee%2F5120245.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4572407.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4572406.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Tomato Cucumber Onion Salad",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "1 cup diced cucumber"
+        },
+        {
+            "2": "1 cup diced fresh tomato"
+        },
+        {
+            "3": "0.5 cup olive oil"
+        },
+        {
+            "4": "0.5 cup red wine vinegar"
+        },
+        {
+            "5": "0.25 cup diced red onion"
+        },
+        {
+            "6": "1 teaspoon white pepper"
+        },
+        {
+            "7": "1 teaspoon salt, or to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Toss cucumber, tomato, olive oil, red wine vinegar, red onion, and white pepper together in a large bowl; season with salt. Refrigerate until slightly chilled, 10 to 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "266"
+        },
+        {
+            "Fat": "27g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9314277.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8710837.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8647897.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8304316.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

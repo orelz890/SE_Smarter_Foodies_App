@@ -1,0 +1,81 @@
+{
+    "title": "Sugar Cookie Cutouts",
+    "Category": "Sugar Cookies",
+    "Ingredients": [
+        {
+            "1": "1 cup butter, softened"
+        },
+        {
+            "2": "1 cup white sugar"
+        },
+        {
+            "3": "2  eggs"
+        },
+        {
+            "4": "1 teaspoon vanilla extract"
+        },
+        {
+            "5": "2.25 cups all-purpose flour"
+        },
+        {
+            "6": "2 teaspoons baking powder"
+        },
+        {
+            "7": "0.25 cup heavy whipping cream"
+        },
+        {
+            "8": "0.5 cup colored sugar for decoration"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a medium bowl, cream together the butter and sugar. Stir in the eggs and vanilla. Sift together the flour and baking powder, stir into the creamed mixture alternately with the heavy cream. Cover dough, and chill for 2 to 3 hours, until firm."
+        },
+        {
+            "2": "Preheat oven to 350 degrees F (175 degrees C). Grease cookie sheets."
+        },
+        {
+            "3": "On a lightly floured surface, roll out the dough to 1/4 inch thickness. Cut into desired shapes with cookie cutters. Place cookies 1 inch apart on the prepared cookie sheets. Sprinkle with colored sugar if desired."
+        },
+        {
+            "4": "Bake for 12 to 14 minutes in the preheated oven, until bottoms and edges of cookies are light brown. Remove from baking sheet and cool on wire racks. Store in an airtight container."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "36 "
+        },
+        {
+            "Yield": "6 dozen"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "135"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "18g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8921123.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8861089.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8631382.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F353bfd4bfdf6054b26b4e71cd84dff03%2F6156342.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

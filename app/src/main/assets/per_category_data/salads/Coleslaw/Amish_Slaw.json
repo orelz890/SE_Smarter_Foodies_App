@@ -1,0 +1,87 @@
+{
+    "title": "Amish Slaw",
+    "Category": "Coleslaw",
+    "Ingredients": [
+        {
+            "1": "1 medium head cabbage, cored and shredded"
+        },
+        {
+            "2": "1 medium onion, finely chopped"
+        },
+        {
+            "3": "1 cup white sugar"
+        },
+        {
+            "4": "1 cup vinegar"
+        },
+        {
+            "5": "1 teaspoon salt"
+        },
+        {
+            "6": "1 teaspoon celery seed"
+        },
+        {
+            "7": "1 teaspoon white sugar"
+        },
+        {
+            "8": "1 teaspoon prepared mustard"
+        },
+        {
+            "9": "0.75 cup vegetable oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a large bowl, toss together the cabbage, onion, and 1 cup sugar. In a small saucepan, combine the vinegar, salt, celery seed, 1 teaspoon white sugar, mustard and oil. Bring to a boil, and cook for 3 minutes. Cool completely, then pour over cabbage mixture, and toss to coat. Refrigerate overnight for best flavor."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "3 mins"
+        },
+        {
+            "Additional Time": " 8 hrs"
+        },
+        {
+            "Total Time": " 8 hrs 18 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "315"
+        },
+        {
+            "Fat": "21g"
+        },
+        {
+            "Carbs": "33g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7901550.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6957725.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F95761a55caef57fdd0f09cedc5e1fddc%2F6804617.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F95761a55caef57fdd0f09cedc5e1fddc%2F6804617.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

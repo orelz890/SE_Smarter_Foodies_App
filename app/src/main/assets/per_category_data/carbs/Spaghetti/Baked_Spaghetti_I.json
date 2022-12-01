@@ -1,0 +1,102 @@
+{
+    "title": "Baked Spaghetti I",
+    "Category": "Spaghetti",
+    "Ingredients": [
+        {
+            "1": "12 ounces spaghetti"
+        },
+        {
+            "2": "1 cup chopped onions"
+        },
+        {
+            "3": "1 cup chopped green bell peppers"
+        },
+        {
+            "4": "1 pound lean ground beef"
+        },
+        {
+            "5": "1 (16 ounce) can diced tomatoes"
+        },
+        {
+            "6": "1 (4.5 ounce) can mushrooms, drained"
+        },
+        {
+            "7": "1 teaspoon dried oregano"
+        },
+        {
+            "8": "2 cups shredded mild Cheddar cheese"
+        },
+        {
+            "9": "1 (10.75 ounce) can  condensed cream of mushroom soup"
+        },
+        {
+            "10": "0.25 cup water"
+        },
+        {
+            "11": "0.25 cup grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil. Add spaghetti, and cook for 8 to 10 minutes, or until al dente. Drain, and set aside."
+        },
+        {
+            "2": "In a large skillet over medium-high heat, saute the onions, green peppers and ground beef. Once beef is brown and onions and peppers softened, add the tomatoes, mushrooms and oregano. Simmer uncovered for 10 minutes."
+        },
+        {
+            "3": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking dish. Place half of the cooked spaghetti into the prepared dish. Top with half of the meat mixture. Sprinkle with 1 cup of the mild Cheddar cheese. Repeat. In a medium bowl, mix together cream of mushroom soup and water until smooth; pour over casserole. Sprinkle with Parmesan cheese."
+        },
+        {
+            "4": "Bake in preheated oven for 30 to 35 minutes. Let stand 10 minutes before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "490"
+        },
+        {
+            "Fat": "25g"
+        },
+        {
+            "Carbs": "40g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8685061.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8462653.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6308161.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fd3dd830f2ad822d60e169197426a5fdb%2F6057254.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "carbs"
+}

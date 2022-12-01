@@ -1,0 +1,69 @@
+{
+    "title": "Scrambled Eggs with Chorizo",
+    "Category": "Cooking for One",
+    "Ingredients": [
+        {
+            "1": "1 cooking spray"
+        },
+        {
+            "2": "0.25 cup Mexican-style chorizo, or more to taste"
+        },
+        {
+            "3": "6  eggs"
+        },
+        {
+            "4": "1 salt to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Spray a large nonstick skillet with cooking spray; warm over medium-high heat. Add chorizo; cook and stir until browned, about 5 minutes."
+        },
+        {
+            "2": "Whisk eggs and salt together in a bowl. Pour into the skillet; cook and stir until eggs are set, about 5 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "232"
+        },
+        {
+            "Fat": "16g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "20g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb9d6163b68dae8c2c8afbfee683e042e%2F6187714.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6187714.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4534630.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

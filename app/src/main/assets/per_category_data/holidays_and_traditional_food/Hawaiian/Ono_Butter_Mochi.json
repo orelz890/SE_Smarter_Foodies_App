@@ -1,0 +1,87 @@
+{
+    "title": "Ono Butter Mochi",
+    "Category": "Hawaiian",
+    "Ingredients": [
+        {
+            "1": "1 pound mochiko (glutinous rice flour)"
+        },
+        {
+            "2": "1.0 cups white sugar"
+        },
+        {
+            "3": "1 teaspoon baking powder"
+        },
+        {
+            "4": "0.5 cup butter, melted"
+        },
+        {
+            "5": "3 cups whole milk"
+        },
+        {
+            "6": "5  eggs"
+        },
+        {
+            "7": "1 teaspoon vanilla extract"
+        },
+        {
+            "8": "1 cup sweetened, flaked coconut"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking dish."
+        },
+        {
+            "2": "In a medium bowl, whisk together the eggs, vanilla and milk. In a separate larger bowl, stir together the rice flour, sugar, and baking powder. Pour the wet ingredients into the dry ingredients, and stir to blend. Mix in melted butter and coconut. Pour into the prepared pan."
+        },
+        {
+            "3": "Bake for 1 hour in the preheated oven. Cool completely, then cut into squares to serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 5 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 - 9x13 inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "463"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "78g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9427625.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8336870.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F06728c72fbf1394d35df9ffbf2617446%2F6802588.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6328000.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

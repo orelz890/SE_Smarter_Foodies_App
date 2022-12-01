@@ -1,0 +1,96 @@
+{
+    "title": "Raspberry Cheesecake Stuffed French Toast",
+    "Category": "French Toast",
+    "Ingredients": [
+        {
+            "1": "1 cup milk"
+        },
+        {
+            "2": "2 tablespoons vanilla extract"
+        },
+        {
+            "3": "1 cup white sugar"
+        },
+        {
+            "4": "2 tablespoons cinnamon"
+        },
+        {
+            "5": "4  eggs, beaten"
+        },
+        {
+            "6": "1 cup raspberry puree"
+        },
+        {
+            "7": "4 ounces cream cheese, softened"
+        },
+        {
+            "8": "1 loaf French bread, cut into 1 inch slices"
+        },
+        {
+            "9": "1 butter"
+        },
+        {
+            "10": "1 confectioners' sugar for dusting"
+        },
+        {
+            "11": "1 nutmeg, for topping"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "In a bowl, whisk milk, vanilla, sugar, and cinnamon into the beaten eggs until well blended. Set aside. In a separate bowl, cream together raspberry puree and cream cheese until smooth. Make 'sandwiches' by cutting each slice of bread in half and spreading raspberry-cheese mixture in the center, then top with the other half."
+        },
+        {
+            "2": "Melt butter over medium heat in a large skillet or griddle. Dip bread into egg mixture, coating thoroughly. Cook until well-browned on both sides, about 5 minutes. Dust with confectioners' sugar and nutmeg. Serve immediately."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "622"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "97g"
+        },
+        {
+            "Protein": "16g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9168335.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7831195.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7246353.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6951158.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/uWUAO0-WXGxdMTSzqcIPUyh6NoI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/75108_Raspberry_Cheesecake_Stuffed_French_Toast_199-006e7a59d5df4025b5ef8759e6fcf471.jpg"
+        }
+    ],
+    "main category": "flour"
+}

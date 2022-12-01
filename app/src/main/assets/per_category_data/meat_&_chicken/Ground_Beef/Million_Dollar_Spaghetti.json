@@ -1,0 +1,99 @@
+{
+    "title": "Million-Dollar Spaghetti",
+    "Category": "Ground Beef",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package spaghetti"
+        },
+        {
+            "2": "1 pound lean ground beef"
+        },
+        {
+            "3": "1 (16 ounce) jar spaghetti sauce"
+        },
+        {
+            "4": "0.5 cup butter, sliced - divided"
+        },
+        {
+            "5": "1 (8 ounce) container cottage cheese"
+        },
+        {
+            "6": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "7": "0.25 cup sour cream"
+        },
+        {
+            "8": "1 (8 ounce) package shredded sharp Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "2": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in boiling water until cooked through but firm to the bite, about 12 minutes. Drain."
+        },
+        {
+            "3": "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. Transfer to a bowl and mix in spaghetti sauce."
+        },
+        {
+            "4": "Place 1/2 of the butter slices into the bottom of a 9x13-inch casserole dish. Spread 1/2 of the spaghetti into the dish."
+        },
+        {
+            "5": "Mix cottage cheese, cream cheese, and sour cream together in a bowl; spread mixture over spaghetti. Cover with remaining spaghetti and top with remaining slices of butter."
+        },
+        {
+            "6": "Pour ground beef mixture over spaghetti and spread in an even layer."
+        },
+        {
+            "7": "Bake in the preheated oven for 30 minutes. Spread Cheddar cheese on top and continue baking until cheese has melted and is lightly browned, about 15 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "25 mins"
+        },
+        {
+            "Cook Time": " 1 hrs 5 mins"
+        },
+        {
+            "Total Time": " 1 hrs 30 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "618"
+        },
+        {
+            "Fat": "42g"
+        },
+        {
+            "Carbs": "31g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F528f2021d6c82f81be238368fff311b3%2F166584217914835D0CE9A-46D5-4E0B-B662-0DEDAC01C89F.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd313b45526a8dbf6bdb20f980d446e00%2F164634912616463491059774950278445009885258.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9418573.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9382802.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/L8JRHhrmhZ5Vxc3BIHbEScmhFm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/232227-million-dollar-spaghetti-3669712555cc481fad2e537ff873ca0b.jpg"
+        }
+    ],
+    "main category": "meat_&_chicken"
+}

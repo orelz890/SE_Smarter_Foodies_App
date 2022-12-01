@@ -1,0 +1,99 @@
+{
+    "title": "Navajo Tacos",
+    "Category": "Tacos",
+    "Ingredients": [
+        {
+            "1": "1 Fry Bread-"
+        },
+        {
+            "2": "2 cups all-purpose flour"
+        },
+        {
+            "3": "1 teaspoon baking powder"
+        },
+        {
+            "4": "0.5 teaspoon salt"
+        },
+        {
+            "5": "1 cup warm water"
+        },
+        {
+            "6": "1 Chili Mixture-"
+        },
+        {
+            "7": "1 pound ground beef"
+        },
+        {
+            "8": "1 (15 ounce) can pinto beans, rinsed and drained"
+        },
+        {
+            "9": "1 (14.5 ounce) can diced tomatoes, undrained"
+        },
+        {
+            "10": "1 (1.25 ounce) package chili seasoning (such as McCormick\u00ae)"
+        },
+        {
+            "11": "1 vegetable oil (such as Crisco\u00ae) for frying"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix flour, baking powder, and salt together in a large bowl. Pour in water; stir dough until just combined. Cover with plastic wrap and let rest, about 15 minutes."
+        },
+        {
+            "2": "Heat a large skillet over medium heat. Add ground beef; cook and stir until browned, about 5 minutes. Drain off grease. Stir in pinto beans, diced tomatoes with their juices, and chili seasoning until well-blended. Simmer until chili flavors combine, 10 to 15 minutes."
+        },
+        {
+            "3": "Grease your hands lightly with oil and pinch off a piece of dough about the size of a baseball. Press it with your palms into a round about 4 inches in diameter and 1/2-inch thick. Repeat with remaining dough."
+        },
+        {
+            "4": "Heat oil to a depth of 2 to 3 inches in a deep fryer or large saucepan. Fry dough rounds in batches until well-browned, puffy, and cooked through, 2 to 3 minutes per side. Drain on paper towels."
+        },
+        {
+            "5": "Divide fry bread among serving plates while still hot. Spoon chili mixture on top."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "19 mins"
+        },
+        {
+            "Additional Time": "15 mins"
+        },
+        {
+            "Total Time": "49 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 tacos"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "425"
+        },
+        {
+            "Fat": "18g"
+        },
+        {
+            "Carbs": "45g"
+        },
+        {
+            "Protein": "21g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9399493.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fad0dadf23d5ca3d9ed8b17ed7431615d%2F4460297.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "holidays_and_traditional_food"
+}

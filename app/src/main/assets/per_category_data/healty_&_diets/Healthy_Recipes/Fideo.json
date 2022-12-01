@@ -1,0 +1,81 @@
+{
+    "title": "Fideo",
+    "Category": "Healthy Recipes",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons vegetable oil"
+        },
+        {
+            "2": "1 (8 ounce) package fideo pasta"
+        },
+        {
+            "3": "0.5 cups water, divided"
+        },
+        {
+            "4": "1 (8 ounce) can tomato sauce, divided"
+        },
+        {
+            "5": "1 tablespoon chili powder"
+        },
+        {
+            "6": "0.5 teaspoon ground cumin"
+        },
+        {
+            "7": "0.5 teaspoon garlic salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a saucepan over medium-high heat. Add fideo; cook and stir until browned."
+        },
+        {
+            "2": "Add 1 cup water and 1/2 of the tomato sauce to fideo. Season with chili powder, cumin, and garlic salt; stir to blend. Bring to a boil and cook until liquid has almost evaporated."
+        },
+        {
+            "3": "Stir in remaining 1/2 cup water and remaining tomato sauce. Cover and cook over medium heat until fideo is tender and sauce thickens, about 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "288"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "47g"
+        },
+        {
+            "Protein": "9g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8845509.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8652870.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8548608.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7540314.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "healty_&_diets"
+}

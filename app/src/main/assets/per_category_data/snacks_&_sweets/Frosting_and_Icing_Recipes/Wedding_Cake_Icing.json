@@ -1,0 +1,69 @@
+{
+    "title": "Wedding Cake Icing",
+    "Category": "Frosting and Icing Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup shortening"
+        },
+        {
+            "2": "0.5 teaspoon salt"
+        },
+        {
+            "3": "0.5 teaspoons clear imitation vanilla extract"
+        },
+        {
+            "4": "0.25 teaspoon almond extract"
+        },
+        {
+            "5": "0.5 cup water"
+        },
+        {
+            "6": "8 cups sifted confectioners' sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix shortening, water, vanilla, almond extract, and half of the powdered sugar with a mixer for 5-10 minutes. (it's very important to mix this long)"
+        },
+        {
+            "2": "Add the rest of the powdered sugar and beat just enough to mix in."
+        },
+        {
+            "3": "Add additional water for desired consistency."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "16 "
+        },
+        {
+            "Yield": "4 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "358"
+        },
+        {
+            "Fat": "13g"
+        },
+        {
+            "Carbs": "63g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9228080.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9060399.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9049962.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8050739.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "snacks_&_sweets"
+}

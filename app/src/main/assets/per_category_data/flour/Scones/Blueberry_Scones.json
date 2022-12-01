@@ -1,0 +1,93 @@
+{
+    "title": "Blueberry Scones",
+    "Category": "Scones",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "0.25 cup packed brown sugar"
+        },
+        {
+            "3": "1 tablespoon baking powder"
+        },
+        {
+            "4": "0.25 teaspoon salt"
+        },
+        {
+            "5": "0.25 cup butter, chilled"
+        },
+        {
+            "6": "1 cup fresh blueberries"
+        },
+        {
+            "7": "0.75 cup half-and-half cream"
+        },
+        {
+            "8": "1  egg"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "2": "Cut butter into mixture of flour, sugar, baking powder, and salt. Add blueberries and toss to mix."
+        },
+        {
+            "3": "In separate bowl beat together cream and egg, and slowly pour into dry ingredients, stirring with rubber scraper until dough forms. Knead just until it comes together, 3 or 4 times. Don't overhandle."
+        },
+        {
+            "4": "Divide dough in half. On lightly floured board, shape each half into a 6-inch round. Cut into 6 wedges."
+        },
+        {
+            "5": "Bake on ungreased sheet about 20 minutes at 375 degrees F (190 degrees C). Serve warm!!"
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "35 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "12 scones"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "160"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "23g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc598dba20edbabfbe2219d87b38542ba%2F166355929620220918_171804.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc598dba20edbabfbe2219d87b38542ba%2F165662003916566200035773782420022400831116.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9321862.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9302421.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "flour"
+}

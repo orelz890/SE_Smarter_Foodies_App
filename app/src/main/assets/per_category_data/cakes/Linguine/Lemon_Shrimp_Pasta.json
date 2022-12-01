@@ -1,0 +1,87 @@
+{
+    "title": "Lemon Shrimp Pasta",
+    "Category": "Linguine",
+    "Ingredients": [
+        {
+            "1": "1 (16 ounce) package fresh linguine pasta"
+        },
+        {
+            "2": "1 tablespoon olive oil"
+        },
+        {
+            "3": "1 pound shrimp, peeled and deveined"
+        },
+        {
+            "4": "1 teaspoon salt"
+        },
+        {
+            "5": "1 teaspoon ground black pepper"
+        },
+        {
+            "6": "1  lemon, zested and juiced"
+        },
+        {
+            "7": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "8": "2 tablespoons butter"
+        },
+        {
+            "9": "1 cup freshly grated Parmesan cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil."
+        },
+        {
+            "2": "Meanwhile, heat oil in a pan over medium heat. Coat shrimp with salt and pepper. Cook and stir shrimp in the hot oil until opaque, about 2 minutes per side."
+        },
+        {
+            "3": "Cook linguine in the boiling water until tender yet firm to the bite, 1 to 3 minutes."
+        },
+        {
+            "4": "Combine lemon zest and juice in a small saucepan over medium heat and bring to a simmer. Sprinkle in parsley and stir in butter until melted. Add 2 tablespoons of the pasta cooking water and stir. Drain pasta. Add shrimp to the lemon sauce. Mix pasta, shrimp, sauce, and Parmesan cheese together in a large serving bowl."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "585"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "66g"
+        },
+        {
+            "Protein": "39g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9116075.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7442305.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cakes"
+}

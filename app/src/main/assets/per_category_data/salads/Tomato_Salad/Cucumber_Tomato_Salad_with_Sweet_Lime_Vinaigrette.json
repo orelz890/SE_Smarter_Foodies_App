@@ -1,0 +1,93 @@
+{
+    "title": "Cucumber Tomato Salad with Sweet Lime Vinaigrette",
+    "Category": "Tomato Salad",
+    "Ingredients": [
+        {
+            "1": "1 Dressing-"
+        },
+        {
+            "2": "0.25 cup rice vinegar"
+        },
+        {
+            "3": "2 tablespoons lime juice"
+        },
+        {
+            "4": "1 teaspoon white sugar, or to taste"
+        },
+        {
+            "5": "1 Salad-"
+        },
+        {
+            "6": "1 large cucumber"
+        },
+        {
+            "7": "2 medium tomatoes, seeded and cut into wedges"
+        },
+        {
+            "8": "0.25 medium red onion, thinly sliced"
+        },
+        {
+            "9": "3 tablespoons chopped fresh cilantro"
+        },
+        {
+            "10": "3 tablespoons chopped peanuts (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Make the dressing: Stir vinegar, lime juice, and sugar together in a small bowl until sugar dissolves."
+        },
+        {
+            "2": "Make the salad: Hold cucumber upright and use a peeler to remove strips of peel lengthwise, making a pattern of peeled and unpeeled strips all the way around for a decorative effect. Cut cucumber in half lengthwise, then thinly slice each half."
+        },
+        {
+            "3": "Place cucumber into a salad bowl with tomatoes and red onion; mix to combine. Pour dressing over salad and mix until well combined. Cover and refrigerate for at least 30 minutes."
+        },
+        {
+            "4": "Just before serving, stir cilantro into salad and sprinkle chopped peanuts over top."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "68"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "9g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3954319.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F810816.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F792560.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F2ce3a83e044b8048f23472aa125e249a%2F672054.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "salads"
+}

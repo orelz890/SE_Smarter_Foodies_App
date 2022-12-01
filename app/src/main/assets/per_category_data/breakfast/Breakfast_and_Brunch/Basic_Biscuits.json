@@ -1,0 +1,90 @@
+{
+    "title": "Basic Biscuits",
+    "Category": "Breakfast and Brunch",
+    "Ingredients": [
+        {
+            "1": "2 cups all-purpose flour"
+        },
+        {
+            "2": "1 tablespoon baking powder"
+        },
+        {
+            "3": "0.5 teaspoon salt"
+        },
+        {
+            "4": "0.5 cup shortening"
+        },
+        {
+            "5": "0.75 cup cold milk"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "2": "In a large mixing bowl sift together flour, baking powder and salt. Cut in shortening with fork or pastry blender until mixture resembles coarse crumbs."
+        },
+        {
+            "3": "Pour milk into flour mixture while stirring with a fork. Mix in milk until dough is soft, moist and pulls away from the side of the bowl."
+        },
+        {
+            "4": "Turn dough out onto a lightly floured surface and knead dough briefly, 5 to 7 times. Roll dough out into a 1/2 inch thick sheet and cut out biscuits with a floured cookie cutter. Press together unused dough and repeat rolling and cutting procedure."
+        },
+        {
+            "5": "Place biscuits on ungreased baking sheets and bake in preheated oven until golden brown, about 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "10 "
+        },
+        {
+            "Yield": "10 biscuits"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "191"
+        },
+        {
+            "Fat": "11g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd81b09dbe90fbf269869439c48a12807%2F16638040751663804064264477288145501156131.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd81b09dbe90fbf269869439c48a12807%2F165556925933322F14-4D77-48F7-9938-D9BB6129D434.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd81b09dbe90fbf269869439c48a12807%2F1651416204image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd81b09dbe90fbf269869439c48a12807%2F164999649116499964474011159671430.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/QBw673-7Z-vTCDge4bv25XUrQlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20075_basic-biscuits_Rita-3x2-1-7c5cd43d27074705ad1874ed09045c37.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/p80cwcul3Cd8_-eHtZTNhInNusA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20075_basic-biscuits_Rita-1x1-1-4208728ad0e1414e891811a185bb91dc.jpg"
+        }
+    ],
+    "main category": "breakfast"
+}

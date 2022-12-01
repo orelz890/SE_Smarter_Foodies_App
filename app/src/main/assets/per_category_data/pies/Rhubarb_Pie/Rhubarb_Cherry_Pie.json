@@ -1,0 +1,75 @@
+{
+    "title": "Rhubarb Cherry Pie",
+    "Category": "Rhubarb Pie",
+    "Ingredients": [
+        {
+            "1": "2 cups chopped rhubarb"
+        },
+        {
+            "2": "1 (21 ounce) can cherry pie filling"
+        },
+        {
+            "3": "0.75 cup white sugar"
+        },
+        {
+            "4": "1.0 teaspoons quick-cooking tapioca"
+        },
+        {
+            "5": "1 recipe Pastry for double-crust pie (9 inches)"
+        },
+        {
+            "6": "1 tablespoon white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine the rhubarb, cherry pie filling, sugar, and tapioca in a large bowl. Let stand for 15 minutes."
+        },
+        {
+            "2": "Pour filling into unbaked pie shell, and cover with pie crust. Brush top with milk, and sprinkle on sugar."
+        },
+        {
+            "3": "Bake at 400 degrees F (200 degrees C) for 40 to 45 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "1 9-inch pie"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "287"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "54g"
+        },
+        {
+            "Protein": "2g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6686490.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4840957.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3619325.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3369983.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/xnybWOXDE2WCrP3qTqq9cLFTzLU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1027696-c0c19872533a4412bc40ba997180cdb6.jpg"
+        }
+    ],
+    "main category": "pies"
+}
