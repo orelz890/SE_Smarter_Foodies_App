@@ -1,0 +1,84 @@
+{
+    "title": "Air Fryer Pasta Chips",
+    "Category": "Air Fryer Recipes",
+    "Ingredients": [
+        {
+            "1": "2 cups farfalle pasta"
+        },
+        {
+            "2": "1 tablespoon olive oil"
+        },
+        {
+            "3": "0.5 cup grated Parmesan cheese"
+        },
+        {
+            "4": "1 teaspoon garlic powder"
+        },
+        {
+            "5": "1 teaspoon Italian seasoning"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Bring a large pot of lightly salted water to a boil; add pasta and cook, stirring occasionally, until tender yet firm to the bite, about 8 minutes. Drain, but do not rinse. Let sit for 2 minutes."
+        },
+        {
+            "2": "Preheat an air fryer to 400 degrees F (200 degrees C)."
+        },
+        {
+            "3": "Meanwhile, transfer pasta to a large bowl and drizzle with olive oil; stir in Parmesan cheese, garlic powder, Italian seasoning, and salt until evenly combined. Arrange 1/4 of the pasta in a single layer in the air fryer basket."
+        },
+        {
+            "4": "Cook in the preheated air fryer for 5 minutes; flip and cook 2 to 3 minutes more. Transfer to a paper towel-lined plate and break apart any pasta chips that have stuck together; let cool completely. Repeat with remaining pasta."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "72"
+        },
+        {
+            "Fat": "3g"
+        },
+        {
+            "Carbs": "7g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F49a5fad5864336fd360cc6162f611e4e%2F1655413314B58B9995-33E3-464C-A19F-9E29EFA7151C.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9411422.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9352810.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9343007.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

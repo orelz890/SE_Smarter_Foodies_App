@@ -1,0 +1,84 @@
+{
+    "title": "How to Cook Trout",
+    "Category": "Cooking for Two",
+    "Ingredients": [
+        {
+            "1": "0.25 cup butter"
+        },
+        {
+            "2": "2 (8 ounce) whole trout, butterflied and deboned"
+        },
+        {
+            "3": "1 salt and freshly ground black pepper to taste"
+        },
+        {
+            "4": "2 tablespoons freshly squeezed lemon juice"
+        },
+        {
+            "5": "2 tablespoons chopped fresh flat-leaf parsley"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a saucepan over medium-low heat until butter smells toasted and is golden brown, about 1 minute. Turn off heat."
+        },
+        {
+            "2": "Line a baking sheet with a piece of aluminum foil. Place trout onto foil; open trout so skin sides are down. Drizzle each trout with about 1/2 teaspoon melted butter. Generously season with salt and black pepper."
+        },
+        {
+            "3": "Move an oven rack to 5 or 6 inches below the heat source and preheat the oven's broiler on high heat."
+        },
+        {
+            "4": "Broil trout until opaque and barely firm to the touch, 2 or 3 minutes. Remove from oven."
+        },
+        {
+            "5": "Return pan of remaining melted butter over high heat; stir in lemon juice and parsley. Bring butter sauce to a boil; whisk to combine. Serve trout on plates and drizzle with butter sauce."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "470"
+        },
+        {
+            "Fat": "33g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "40g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9412694.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9225589.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8933833.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7756690.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/rhPdUVLwiloKMQKD7RTPD_jGJfI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1128597-1eac5789222d408c972ed2c831f3bbe7.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

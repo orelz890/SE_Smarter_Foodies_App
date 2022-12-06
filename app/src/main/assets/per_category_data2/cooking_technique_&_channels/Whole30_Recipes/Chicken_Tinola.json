@@ -1,0 +1,99 @@
+{
+    "title": "Chicken Tinola",
+    "Category": "Whole30 Recipes",
+    "Ingredients": [
+        {
+            "1": "1 tablespoon cooking oil"
+        },
+        {
+            "2": "1 medium onion, chopped"
+        },
+        {
+            "3": "2 cloves garlic, minced"
+        },
+        {
+            "4": "1 (1 1/2 inch) piece fresh ginger, peeled and thinly sliced"
+        },
+        {
+            "5": "1 tablespoon fish sauce"
+        },
+        {
+            "6": "3 pounds chicken legs and thighs, rinsed and patted dry"
+        },
+        {
+            "7": "2 (14 ounce) cans chicken broth"
+        },
+        {
+            "8": "1  chayote squash, peeled and cut into bite-sized pieces"
+        },
+        {
+            "9": "1 salt and ground black pepper to taste"
+        },
+        {
+            "10": "1 head bok choy, chopped"
+        },
+        {
+            "11": "1 (8 ounce) package fresh spinach, chopped"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a large pot over medium heat. Add onion and garlic; cook and stir until fragrant, about 2 minutes. Add ginger and fish sauce; cook and stir for 1 to 2 minutes. Stir in chicken and cook for 5 minutes."
+        },
+        {
+            "2": "Pour in chicken broth and cook for 5 minutes. Add squash and simmer until chicken is no longer pink in the center, about 10 minutes. Season with salt and pepper."
+        },
+        {
+            "3": "Add bok choy and spinach; cook until spinach is just wilted, 1 to 2 minutes. Serve hot."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "50 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "532"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "66g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc1974319cbb26a48572fce499a568187%2F166269458816626945690753495708829739706442.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc1974319cbb26a48572fce499a568187%2F1654907982image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9440489.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8964634.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/UBWMhgZFMkD5u7y55_ND5B23ClM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/212929-chicken-tinola-4x3-1-167b1eadea9a448d8e00dac30c501d66.jpg"
+        },
+        {
+            "img6": "https://www.allrecipes.com/thmb/gIKEejovBLhrHdz-bXQysGixUSM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8964634-a36d900ff8b54c5ba68208540872ff53.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Air Fryer Hard-Boiled Eggs",
+    "Category": "Air Fryer Recipes",
+    "Ingredients": [
+        {
+            "1": "6  eggs"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an air fryer to 250 degrees F (120 degrees C)."
+        },
+        {
+            "2": "Place eggs in the air fryer basket."
+        },
+        {
+            "3": "Cook eggs for 15 minutes. Remove eggs and place in a cold water bath until fully cooled, 8 to 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 hard-boiled eggs"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "72"
+        },
+        {
+            "Fat": "5g"
+        },
+        {
+            "Carbs": "0g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdffa93644a6d085e61e6bea09fcfc99c%2F1662674615air%2520fryer%2520eggs.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9133300.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8064198.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7762976.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

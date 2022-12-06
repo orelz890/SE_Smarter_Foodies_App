@@ -1,0 +1,99 @@
+{
+    "title": "Philly Cheesesteak Egg Rolls",
+    "Category": "Cooking for a Crowd",
+    "Ingredients": [
+        {
+            "1": "1 pound ground beef"
+        },
+        {
+            "2": "1 tablespoon Worcestershire sauce"
+        },
+        {
+            "3": "0.5 teaspoon salt"
+        },
+        {
+            "4": "0.5 teaspoon ground black pepper"
+        },
+        {
+            "5": "2 tablespoons butter"
+        },
+        {
+            "6": "1 medium yellow onion, chopped"
+        },
+        {
+            "7": "0.5 medium green bell pepper, chopped"
+        },
+        {
+            "8": "24  egg roll wrappers"
+        },
+        {
+            "9": "12 slices American cheese, cut in half"
+        },
+        {
+            "10": "0.75 cup vegetable oil for frying"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Cook beef in a large skillet over medium heat, gently breaking it into pea-sized pieces, until browned, 5 to 7 minutes. Gently stir in Worcestershire sauce, salt, and pepper, then transfer mixture to a bowl."
+        },
+        {
+            "2": "Melt butter in the same skillet over medium heat. Add onion and bell pepper; cook and stir until translucent, 5 to 7 minutes. Return beef mixture to the skillet and stir to combine. Remove from the heat and let cool slightly, about 10 minutes."
+        },
+        {
+            "3": "Lay egg roll wrappers on a flat surface. Place 1/2 slice American cheese onto each wrapper, then top with about 3 tablespoons filling. Pull the bottom left corner up over the filling and fold the two sides in, moistening the edges with water as you go; roll tightly."
+        },
+        {
+            "4": "Fill a large saucepan with about 1 inch oil; heat over medium-high heat. Working in batches of 3 to 4, fry egg rolls until browned on all sides, 3 to 4 minutes. Drain on a paper towel-lined plate."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "40 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": " 1 hrs 25 mins"
+        },
+        {
+            "Servings": "24 "
+        },
+        {
+            "Yield": "24 egg rolls"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "133"
+        },
+        {
+            "Fat": "9g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3d6794ed691ac206af4286c6660f0f8d%2F1663621969IMG_20220806_174142_589.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F3d6794ed691ac206af4286c6660f0f8d%2F1659631191PhillyEggroll.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8143664.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6159200.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Air Fryer Meatloaf",
+    "Category": "Mushroom Recipes",
+    "Ingredients": [
+        {
+            "1": "1 pound lean ground beef"
+        },
+        {
+            "2": "1 small onion, finely chopped"
+        },
+        {
+            "3": "1 large egg, lightly beaten"
+        },
+        {
+            "4": "3 tablespoons dry bread crumbs"
+        },
+        {
+            "5": "1 tablespoon chopped fresh thyme"
+        },
+        {
+            "6": "1 teaspoon salt"
+        },
+        {
+            "7": "1 ground black pepper to taste"
+        },
+        {
+            "8": "2  mushrooms, thickly sliced"
+        },
+        {
+            "9": "1 tablespoon olive oil, or as needed"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat an air fryer to 392 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Combine ground beef, onion, bread crumbs, thyme, egg, salt, and pepper in a bowl. Knead and mix thoroughly. Transfer mixture to a small loaf pan. Smooth the top, press in mushrooms, and coat with olive oil."
+        },
+        {
+            "3": "Roast meatloaf in the preheated air fryer until nicely browned, about 25 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (72 degrees C)."
+        },
+        {
+            "4": "Let meatloaf rest at least 10 minutes before slicing into wedges and serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Additional Time": "10 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "297"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc88027ad7ee1e35e2b928d81bee0aad5%2F1663921695image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8984710.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8316419.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8441628.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/asYAIicWsrpGCdQS4AdgDNkY4C4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4802557-127d1a6ba91d4011b605962a66d7619b.jpg"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}

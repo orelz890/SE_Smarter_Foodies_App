@@ -1,0 +1,72 @@
+{
+    "title": "Slow Cooker Sausage with Sauce",
+    "Category": "Slow Cooker Recipes",
+    "Ingredients": [
+        {
+            "1": "8 (4 ounce) links fresh Italian sausage"
+        },
+        {
+            "2": "1 (26 ounce) jar spaghetti sauce"
+        },
+        {
+            "3": "1  green bell pepper, seeded and sliced into strips"
+        },
+        {
+            "4": "1  onion, sliced"
+        },
+        {
+            "5": "6  hoagie rolls, split lengthwise (Optional)"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place Italian sausage links, spaghetti sauce, green pepper, and onion into a slow cooker; mix until well combined."
+        },
+        {
+            "2": "Cover and cook on Low for 6 hours. Serve on hoagie rolls."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 6 hrs"
+        },
+        {
+            "Total Time": " 6 hrs 5 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "1024"
+        },
+        {
+            "Fat": "57g"
+        },
+        {
+            "Carbs": "88g"
+        },
+        {
+            "Protein": "36g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7749888.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7297756.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6015609.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4558565.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

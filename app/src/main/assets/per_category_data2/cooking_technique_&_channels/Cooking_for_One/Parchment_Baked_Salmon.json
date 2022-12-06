@@ -1,0 +1,78 @@
+{
+    "title": "Parchment Baked Salmon",
+    "Category": "Cooking for One",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) salmon fillet"
+        },
+        {
+            "2": "1 salt and ground black pepper to taste"
+        },
+        {
+            "3": "0.25 cup chopped basil leaves"
+        },
+        {
+            "4": "1 olive oil cooking spray"
+        },
+        {
+            "5": "1  lemon, thinly sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 400 degrees F (200 degrees C). Move an oven rack to the lowest position."
+        },
+        {
+            "2": "Place salmon fillet, skin-side down, in the middle of a large piece of parchment paper; season with salt and black pepper. Cut two 3-inch slits into fillet with a sharp knife. Stuff chopped basil leaves into the slits. Spray fillet with cooking spray and arrange lemon slices on top."
+        },
+        {
+            "3": "Fold the edges of parchment paper over fillet several times to seal it into an airtight packet. Place sealed packet onto a baking sheet."
+        },
+        {
+            "4": "Bake in the preheated oven on the bottom rack until salmon flakes easily and flesh is pink and opaque with an interior of slightly darker pink color, about 25 minutes. An instant-read thermometer inserted into the thickest part of fillet should read at least 145 degrees F (65 degrees C). To serve, cut open the parchment paper and remove lemon slices before plating."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "25 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "175"
+        },
+        {
+            "Fat": "7g"
+        },
+        {
+            "Carbs": "6g"
+        },
+        {
+            "Protein": "25g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F52f4ec4edc24fda95babd84914c9922f%2F166147623390210715-AD1C-45B3-AB00-A13C627EF1E2.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9356341.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9199274.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7935090.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

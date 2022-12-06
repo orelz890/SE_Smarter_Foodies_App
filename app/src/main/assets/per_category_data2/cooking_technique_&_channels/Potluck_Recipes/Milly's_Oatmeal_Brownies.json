@@ -1,0 +1,105 @@
+{
+    "title": "Milly's Oatmeal Brownies",
+    "Category": "Potluck Recipes",
+    "Ingredients": [
+        {
+            "1": "1 cup butter at room temperature"
+        },
+        {
+            "2": "1 cup firmly packed light brown sugar"
+        },
+        {
+            "3": "0.5 cup white sugar"
+        },
+        {
+            "4": "2  eggs"
+        },
+        {
+            "5": "2 teaspoons vanilla extract"
+        },
+        {
+            "6": "0.5 teaspoon salt"
+        },
+        {
+            "7": "1 teaspoon baking soda"
+        },
+        {
+            "8": "1 teaspoon baking powder"
+        },
+        {
+            "9": "0.5 cups all-purpose flour"
+        },
+        {
+            "10": "2 cups rolled oats"
+        },
+        {
+            "11": "0.5 cup chocolate chips"
+        },
+        {
+            "12": "0.5 cup raisins"
+        },
+        {
+            "13": "0.5 cup chopped walnuts"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch baking pan."
+        },
+        {
+            "2": "In a large bowl, beat the butter, brown sugar, and white sugar until thoroughly mixed and creamy. Beat in the eggs, one at a time, mixing well after each addition. Stir in the vanilla extract until well mixed, and mix in salt, baking soda, baking powder, flour, rolled oats, plus chocolate chips, raisins, and chopped nuts if desired. Mix well to moisten all ingredients, and spread into the prepared baking pan."
+        },
+        {
+            "3": "Bake in the preheated oven until golden brown, 20 to 25 minutes. Let cool in the pan for about 5 minutes before cutting into bars."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Additional Time": "5 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 9x13-inch pan"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "447"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "58g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F72f949a37e3f1c1294edffd2e3148e46%2F7315355.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6672518.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F7e04d3438e49388a84ac8a6215418889%2F6557189.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fa15ebd643615a37e30a5db2f9912b255%2F6424788.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

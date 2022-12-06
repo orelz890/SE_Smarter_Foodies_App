@@ -41,7 +41,10 @@ import java.io.Reader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.List;
+import java.util.Locale;
 import java.util.Map;
 
 import android.content.Context;
@@ -52,6 +55,8 @@ import java.io.InputStream;
 
 public class AddRecipe extends AppCompatActivity {
     DatabaseReference mDatabase;
+    DatabaseReference mDatabaseSearch;
+    DatabaseReference mDatabaseFilter;
     recipe dish;
     TextInputEditText etTitle;
     TextInputEditText etIngredients;
@@ -157,46 +162,8 @@ public class AddRecipe extends AppCompatActivity {
 
         btnSubmit = findViewById(R.id.btnSubmit);
         btnSubmit.setOnClickListener(view -> {
-//            submitRecipe();
-            try {
-                Gson gson = new Gson();
-
-                AssetManager assetManager = getAssets();
-                String[] files = assetManager.list("per_category_data");
-                for (String f : files) {
-                    String[] files2 = assetManager.list("per_category_data/" + f);
-                    System.out.println(">>>>>>>>>>>>>>> " + f + " <<<<<<<<<<<<<<<<<<<");
-                    for (String f2 : files2) {
-                        String[] files3 = assetManager.list("per_category_data/" + f + "/" + f2);
-
-//                        System.out.println(f2);
-                        for (String f3 : files3) {
-                            JsonParser parser = new JsonParser();
-                            try {
-                                String file_path = "per_category_data/" + f + "/" + f2 + "/" + f3;
-                                InputStream inputStream = getAssets().open(file_path);
-                                int size = inputStream.available();
-                                byte[] buffer = new byte[size];
-                                inputStream.read(buffer);
-                                String json_str = new String(buffer);
-                                JsonObject jsonObject = new JsonParser().parse(json_str).getAsJsonObject();
-                                recipe curr_recipe = new recipe(jsonObject);
-                                System.out.println(curr_recipe);
-
-                            } catch (Exception e) {
-                                e.printStackTrace();
-                                return;
-                            }
-
-                            System.out.println("\n=====================================\n");
-                        }
-
-                    }
-                }
-
-            } catch (Exception ex) {
-                ex.printStackTrace();
-            }
+            submitRecipe();
+//            init_database_with_existing_scraped_data();
         });
 
         //    ========================= AutoCompleteTextView =================================
@@ -222,6 +189,47 @@ public class AddRecipe extends AppCompatActivity {
         });
     }
 
+    private boolean init_database_with_existing_scraped_data(){
+        try {
+            Gson gson = new Gson();
+
+            AssetManager assetManager = getAssets();
+            String[] files = assetManager.list("per_category_data2");
+            for (String f : files) {
+                String[] files2 = assetManager.list("per_category_data2/" + f);
+                System.out.println(">>>>>>>>>>>>>>> " + f + " <<<<<<<<<<<<<<<<<<<");
+                for (String f2 : files2) {
+                    String[] files3 = assetManager.list("per_category_data2/" + f + "/" + f2);
+
+//                        System.out.println(f2);
+                    for (String f3 : files3) {
+                        try {
+                            String file_path = "per_category_data2/" + f + "/" + f2 + "/" + f3;
+                            InputStream inputStream = getAssets().open(file_path);
+                            int size = inputStream.available();
+                            byte[] buffer = new byte[size];
+                            inputStream.read(buffer);
+                            String json_str = new String(buffer);
+                            JsonObject jsonObject = new JsonParser().parse(json_str).getAsJsonObject();
+                            String copy_rights = "https://www.allrecipes.com/";
+                            recipe curr_recipe = new recipe(jsonObject, copy_rights);
+//                                System.out.println(curr_recipe);
+                            loadDishToSearchTree(curr_recipe);
+                            loadDishToFilterTree(curr_recipe);
+                        } catch (Exception e) {
+                            e.printStackTrace();
+                            return false;
+                        }
+                    }
+                    System.out.println("\n=====================================\n");
+                }
+            }
+
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+        return true;
+    }
     private void submitRecipe() {
         String title = etTitle.getText().toString();
         if (TextUtils.isEmpty(title)) {
@@ -247,6 +255,8 @@ public class AddRecipe extends AppCompatActivity {
                 }
             }
         }
+        List<String> ingredientsArray = new ArrayList<>(Arrays.asList(ingredients_list));
+
         String directions = etDirections.getText().toString();
         String[] directions_list = directions.split("\n");
         if (TextUtils.isEmpty(directions)) {
@@ -267,24 +277,57 @@ public class AddRecipe extends AppCompatActivity {
             Toast.makeText(getApplicationContext(), "All bottom half must be filled too!",
                     Toast.LENGTH_SHORT).show();
         } else {
-            dish = new recipe(title, category, subCategory, ingredients_list, directions_list,
+            List<String> directionsArray = new ArrayList<>(Arrays.asList(directions_list));
+            dish = new recipe(title, category, subCategory, ingredientsArray, directionsArray,
                     npPrepTime.getValue() + "", npCookingTime.getValue() + "", npServings.getValue() + "",
                     npProtein.getValue() + "", "0", npFat.getValue() + "", npCarbs.getValue() + "", 0,
-                    new ArrayList<String>(), 0, new HashMap<>());
+                    new ArrayList<>(), 0, new HashMap<>(), "");
             Toast.makeText(getApplicationContext(), dish.toString(), Toast.LENGTH_SHORT).show();
         }
     }
 
-    public void loadDishToDatabase(recipe r) {
-        String name = r.getTitle();
+    public void loadDishToSearchTree(recipe r) {
+        mDatabaseSearch = mDatabase;
+        String name = r.getTitle().replace("\"", "").replace(" ", "");
+        String new_name = "";
+        for (int i = 0; i < name.length(); i++) {
+            if (Character.isDigit(name.charAt(i)) || Character.isAlphabetic(name.charAt(i))){
+                new_name += name.charAt(i);
+            }
+        }
+        name = new_name.toLowerCase(Locale.ROOT);
         int len = name.length();
         if (len > 0) {
-            mDatabase.child("recipes").child(r.getMain_category()).child(r.getCategory());
-            for (int i = 0; i < len; i++) {
-                mDatabase.child(name.charAt(i) + "");
+            mDatabaseSearch = mDatabaseSearch.child("search");
+            // Max tree depth is 32
+            for (int i = 0; i < len && i < 29; i++) {
+                mDatabaseSearch = mDatabaseSearch.child(name.charAt(i) + "");
             }
-            mDatabase.setValue(r);
         }
+        mDatabaseSearch.setValue(r).addOnCompleteListener(new OnCompleteListener<Void>() {
+            @Override
+            public void onComplete(@NonNull Task<Void> task) {
+                if (task.isSuccessful()) {
+                    Toast.makeText(getApplicationContext(), r.getTitle() + "> added successfully to search!", Toast.LENGTH_LONG).show();
+                }
+            }
+        });
+    }
+
+    public void loadDishToFilterTree(recipe r) {
+        mDatabaseSearch = mDatabase;
+        if (r != null) {
+            mDatabaseSearch = mDatabaseSearch.child("filter").child(r.getMain_category()).child(r.getCategory()).child(r.getTitle());
+            mDatabaseSearch.setValue(r).addOnCompleteListener(new OnCompleteListener<Void>() {
+                @Override
+                public void onComplete(@NonNull Task<Void> task) {
+                    if (task.isSuccessful()) {
+                        Toast.makeText(getApplicationContext(), r.getTitle() + "> added successfully to Filter!", Toast.LENGTH_LONG).show();
+                    }
+                }
+            });
+        }
+
     }
 
     public recipe getDishFromDatabase(String mainCategory, String subCategory, String name) {

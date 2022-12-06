@@ -1,0 +1,75 @@
+{
+    "title": "Slow Cooker Creamed Corn",
+    "Category": "Slow Cooker Recipes",
+    "Ingredients": [
+        {
+            "1": "0.25 (16 ounce) packages frozen corn kernels"
+        },
+        {
+            "2": "1 (8 ounce) package cream cheese"
+        },
+        {
+            "3": "0.5 cup butter"
+        },
+        {
+            "4": "0.5 cup milk"
+        },
+        {
+            "5": "1 tablespoon white sugar"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Combine corn, cream cheese, butter, milk, and sugar in a slow cooker. Season with salt and pepper to taste."
+        },
+        {
+            "2": "Cook on Low for 4 to 6 hours or High for 2 to 4 hours."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": " 2 hrs"
+        },
+        {
+            "Total Time": " 2 hrs 5 mins"
+        },
+        {
+            "Servings": "12 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "193"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "14g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6e43faf410d3841423cb92c6558b1d41%2F166949673427320221124_131303.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6e43faf410d3841423cb92c6558b1d41%2F1669334213894PXL_20221124_015813788.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8784886.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F5310091d014e44cb835d78b23bdc10dd%2F7518335.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

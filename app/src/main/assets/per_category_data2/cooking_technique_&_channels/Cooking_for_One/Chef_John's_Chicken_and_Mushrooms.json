@@ -1,0 +1,105 @@
+{
+    "title": "Chef John's Chicken and Mushrooms",
+    "Category": "Cooking for One",
+    "Ingredients": [
+        {
+            "1": "2  chicken breast halves, boneless, skin-on"
+        },
+        {
+            "2": "1 salt and ground black pepper to taste"
+        },
+        {
+            "3": "2 tablespoons olive oil"
+        },
+        {
+            "4": "8 ounces fresh mushrooms, sliced 1/4 inch thick"
+        },
+        {
+            "5": "1 pinch salt"
+        },
+        {
+            "6": "0.5 cup water"
+        },
+        {
+            "7": "1 tablespoon butter"
+        },
+        {
+            "8": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "2": "Season chicken on all sides with salt and ground black pepper."
+        },
+        {
+            "3": "Heat olive oil over medium-high heat in an ovenproof skillet. Place chicken skin-side down in skillet and cook until browned, about 5 minutes."
+        },
+        {
+            "4": "Turn chicken over; stir mushrooms with a pinch of salt into skillet. Increase heat to high; cook, stirring mushrooms occasionally, until mushrooms shrink slightly, about 5 minutes."
+        },
+        {
+            "5": "Transfer skillet to the preheated oven and cook until chicken is no longer pink in the center and the juices run clear, 15 to 20 minutes. An instant-read thermometer inserted into the center should read 165 degrees F (74 degrees C). Transfer chicken breasts to a plate and loosely tent with foil; set aside."
+        },
+        {
+            "6": "Set skillet on the stovetop over medium-high heat; cook and stir mushrooms until brown bits start to form on the bottom of the pan, about 5 minutes. Pour water into the skillet, and bring to a boil while scraping the browned bits off of the bottom of the pan. Cook until water is reduced by half, about 2 minutes. Remove from heat."
+        },
+        {
+            "7": "Stir in any accumulated juices from the chicken into the skillet. Stir butter into mushroom mixture, stirring constantly until butter is completely melted and incorporated."
+        },
+        {
+            "8": "Season with salt and pepper. Spoon mushroom sauce over chicken and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "398"
+        },
+        {
+            "Fat": "31g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "28g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff45eda81d095ad586beb0adbb2d8fc9d%2F1664241596PXL_20220927_000858038.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9300910.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9280490.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9189199.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/5T8rtpkLpruaVTdk6bk3t7pb2-Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3548022-a1776eaf0c3546a1ace4d2a2a1f0d15b.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

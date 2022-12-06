@@ -1,0 +1,111 @@
+{
+    "title": "Stir-Fried Vegetables with Chicken or Pork",
+    "Category": "Stir-Fries",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons vegetable oil"
+        },
+        {
+            "2": "0.5 pound boneless skinless chicken breasts, cut into cubes"
+        },
+        {
+            "3": "2 cloves garlic, chopped"
+        },
+        {
+            "4": "2 tablespoons oyster sauce"
+        },
+        {
+            "5": "1 cup chopped broccoli"
+        },
+        {
+            "6": "1 cup sliced green bell pepper"
+        },
+        {
+            "7": "1 cup sliced carrots"
+        },
+        {
+            "8": "1 cup sliced napa cabbage"
+        },
+        {
+            "9": "1 cup sliced celery"
+        },
+        {
+            "10": "1 cup fresh bean sprouts"
+        },
+        {
+            "11": "1 cup sliced zucchini"
+        },
+        {
+            "12": "1 cup chopped green onions"
+        },
+        {
+            "13": "1 teaspoon salt"
+        },
+        {
+            "14": "0.5 cup water"
+        },
+        {
+            "15": "2 tablespoons mushroom soy sauce"
+        },
+        {
+            "16": "1 tablespoon cornstarch"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Heat oil in a wok or large heavy skillet. Add chicken or pork (see Cook's Note), garlic, and oyster sauce, and stir-fry for 10 minutes."
+        },
+        {
+            "2": "Stir in broccoli, green pepper, carrots, cabbage, celery, bean sprouts, zucchini, and green onions. Season with salt, and stir-fry for 6 to 8 minutes."
+        },
+        {
+            "3": "In a small bowl, mix together water, soy sauce and cornstarch. Stir into vegetables, and cook for 1 to 2 minutes, or until sauce is thickened."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "20 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "192"
+        },
+        {
+            "Fat": "8g"
+        },
+        {
+            "Carbs": "15g"
+        },
+        {
+            "Protein": "17g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7862062.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3280192e273b63eb89244dff34fff19d%2F6913429.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fca6c8f4b77bf667a182f183b01ecd5e2%2F6505976.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F6d730581c44d20ff2209f247136640e4%2F6394539.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

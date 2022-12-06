@@ -1,0 +1,87 @@
+{
+    "title": "Air-Fryer Roasted Veggies",
+    "Category": "Air Fryer Recipes",
+    "Ingredients": [
+        {
+            "1": "0.5 cup diced zucchini"
+        },
+        {
+            "2": "0.5 cup diced summer squash"
+        },
+        {
+            "3": "0.5 cup diced mushrooms"
+        },
+        {
+            "4": "0.5 cup diced cauliflower"
+        },
+        {
+            "5": "0.5 cup diced asparagus"
+        },
+        {
+            "6": "0.5 cup diced sweet red pepper"
+        },
+        {
+            "7": "2 teaspoons vegetable oil"
+        },
+        {
+            "8": "0.25 teaspoon salt"
+        },
+        {
+            "9": "0.25 teaspoon ground black pepper"
+        },
+        {
+            "10": "0.25 teaspoon seasoning, or more to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the air fryer to 360 degrees F (180 degrees C)."
+        },
+        {
+            "2": "Add zucchini, squash, mushrooms, cauliflower, asparagus, red pepper, oil, salt, pepper, and desired seasoning to a large bowl. Toss to coat; arrange in a single layer in the fryer basket."
+        },
+        {
+            "3": "Cook, stirring halfway, in the preheated air fryer until tender crisp, about 10 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "37"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "3g"
+        },
+        {
+            "Protein": "1g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7582696.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6234688.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://www.allrecipes.com/thmb/hfHmfc8z0DlIKXxe4P44skvO8Aw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/269890-Air-Fryer-Roasted-Vegetables-ddmps-1x1-104890-43a6d1ec1b3d4bdeb95e0264af5d093c.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

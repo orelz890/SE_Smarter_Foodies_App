@@ -1,0 +1,90 @@
+{
+    "title": "Banana Pudding",
+    "Category": "Food Gifts",
+    "Ingredients": [
+        {
+            "1": "1 (8 ounce) package cream cheese, at room temperature"
+        },
+        {
+            "2": "1 (14 ounce) can sweetened condensed milk"
+        },
+        {
+            "3": "1 (5 ounce) package instant vanilla pudding mix"
+        },
+        {
+            "4": "3 cups cold skim milk"
+        },
+        {
+            "5": "1 teaspoon vanilla extract"
+        },
+        {
+            "6": "1 (8 ounce) container frozen whipped topping, thawed"
+        },
+        {
+            "7": "0.5 (12 ounce) package vanilla wafers"
+        },
+        {
+            "8": "4  bananas, sliced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Beat cream cheese in a large bowl until fluffy. Beat in condensed milk, then pudding mix. Gradually mix in cold milk until smooth, followed by vanilla. Fold in 1/2 of the whipped topping."
+        },
+        {
+            "2": "Line the bottom of a 9x13-inch dish with vanilla wafers. Arrange sliced bananas evenly on top. Cover with pudding mixture. Top with remaining whipped topping."
+        },
+        {
+            "3": "Cover and chill in the refrigerator for at least 3 hours before serving."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "30 mins"
+        },
+        {
+            "Additional Time": " 3 hrs"
+        },
+        {
+            "Total Time": " 3 hrs 30 mins"
+        },
+        {
+            "Servings": "12 "
+        },
+        {
+            "Yield": "1 (9x13-inch) dish"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "388"
+        },
+        {
+            "Fat": "15g"
+        },
+        {
+            "Carbs": "55g"
+        },
+        {
+            "Protein": "7g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdb1db4b608654b9987f45d084b0c6237%2F1658857112IMG_0880.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fdb1db4b608654b9987f45d084b0c6237%2F165001351020220415_045942.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5144577.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9435411.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/SIk29GwU_8MkL0uv01TNrYfrX9s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9140524-6a756f53e75a4933a42ca2079ca17b68.jpg"
+        }
+    ],
+    "main category": "gifts_&_comfort_food"
+}

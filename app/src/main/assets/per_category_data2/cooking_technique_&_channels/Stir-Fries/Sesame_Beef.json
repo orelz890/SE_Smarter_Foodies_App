@@ -1,0 +1,90 @@
+{
+    "title": "Sesame Beef",
+    "Category": "Stir-Fries",
+    "Ingredients": [
+        {
+            "1": "1 pound round steak"
+        },
+        {
+            "2": "4 tablespoons soy sauce"
+        },
+        {
+            "3": "4 tablespoons white sugar"
+        },
+        {
+            "4": "4 tablespoons vegetable oil"
+        },
+        {
+            "5": "2 cloves garlic, minced"
+        },
+        {
+            "6": "2  green onions, chopped"
+        },
+        {
+            "7": "2 tablespoons sesame seeds"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Mix soy sauce, sugar, oil, garlic, and onions in a large bowl. Set aside."
+        },
+        {
+            "2": "Cut steak into strips and add to bowl. Cover and refrigerate overnight, or at least 30 minutes."
+        },
+        {
+            "3": "Cook in wok or frying pan until brown, about 5 minutes. Add sesame seeds and cook for additional 2 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": "30 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "354"
+        },
+        {
+            "Fat": "23g"
+        },
+        {
+            "Carbs": "16g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9247271.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9096321.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9086099.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8815229.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/aiW4LtFrFBw88KvZWgK_fRv931I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/858484-59275b0136c042cfa516c0e9cb277ea0.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

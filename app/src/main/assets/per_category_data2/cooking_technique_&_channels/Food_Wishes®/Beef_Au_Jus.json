@@ -1,0 +1,72 @@
+{
+    "title": "Beef Au Jus",
+    "Category": "Food Wishes\u00ae",
+    "Ingredients": [
+        {
+            "1": "0.25 cup beef drippings"
+        },
+        {
+            "2": "0.5 tablespoons all-purpose flour"
+        },
+        {
+            "3": "2 cups beef broth"
+        },
+        {
+            "4": "1 salt and ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt drippings in a skillet over medium-high heat. Whisk in flour and cook, whisking constantly, until the mixture thickens, about 3 minutes."
+        },
+        {
+            "2": "Add beef broth gradually, whisking constantly, then increase heat to high and bring to a boil; season with salt and pepper to taste."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "4 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "53"
+        },
+        {
+            "Fat": "1g"
+        },
+        {
+            "Carbs": "2g"
+        },
+        {
+            "Protein": "8g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7963999.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7963986.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7756285.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F3a7305c60be7e64f0863bd8e27ba618e%2F7560679.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/yHscNc1UMmlYbBNj4QbiyJkceCM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/221957-beef-au-jus-mfs431-1-70ee1eb79c084c7db5e605da1f23f114.jpg"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}

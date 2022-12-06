@@ -1,0 +1,90 @@
+{
+    "title": "Baked Macaroni and Cheese",
+    "Category": "Casseroles",
+    "Ingredients": [
+        {
+            "1": "1 (12 ounce) package macaroni"
+        },
+        {
+            "2": "2 cups milk"
+        },
+        {
+            "3": "1  egg"
+        },
+        {
+            "4": "1.0 cups shredded Cheddar cheese"
+        },
+        {
+            "5": "2 tablespoons butter, melted"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 2-quart baking dish."
+        },
+        {
+            "2": "Boil macaroni in a large pot of salted water until barely done, about 5 minutes. Drain and set aside."
+        },
+        {
+            "3": "Whisk together milk and egg in a large bowl. Stir in cheese and butter."
+        },
+        {
+            "4": "Place par-boiled macaroni in the prepared baking dish. Pour milk mixture over macaroni, season with salt and pepper, and stir until combined. Press mixture evenly into the baking dish."
+        },
+        {
+            "5": "Bake, uncovered, in the preheated oven until top is browned, 30 to 40 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "35 mins"
+        },
+        {
+            "Total Time": "45 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "1 (2-quart) casserole"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "472"
+        },
+        {
+            "Fat": "22g"
+        },
+        {
+            "Carbs": "46g"
+        },
+        {
+            "Protein": "22g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc129ad89e3412d6ba39ce4cd9f28a8dd%2F1667956758317IMG_4366-2-.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F07946a2ade55c4a2400559fd30478b07%2F1660257393image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9126492.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8983235.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/v6QEvS1ypTvBUZi4KJ8aIiHBtW0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14140-baked-macaroni-and-cheese-ddmfs-0345-1x1-1-5fea3ffca232419a9b7787239cf103e7.jpg"
+        }
+    ],
+    "main category": "main_dishes"
+}

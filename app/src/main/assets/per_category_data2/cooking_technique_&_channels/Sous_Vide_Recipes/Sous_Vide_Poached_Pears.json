@@ -1,0 +1,69 @@
+{
+    "title": "Sous Vide Poached Pears",
+    "Category": "Sous Vide Recipes",
+    "Ingredients": [
+        {
+            "1": "1 medium Pears, raw"
+        },
+        {
+            "2": "1 tablespoon salted butter"
+        },
+        {
+            "3": "1 tablespoon dark brown sugar"
+        },
+        {
+            "4": "0.5 teaspoon vanilla extract"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Fill a large pot with warm water, leaving 3 inches of head room. Attach the sous vide to the pot and set the temperature to 175 F degrees (80 degrees C) and timer to 1 hour."
+        },
+        {
+            "2": "Peel pear and halve lengthwise. Scoop out the seeds using a small spoon. Place pear halves into a resealable or silicone bag and add butter, brown sugar, and vanilla extract."
+        },
+        {
+            "3": "Remove all air from the bag and immerse the bag into the water, making sure that the top does not go below water. Leave in the water for 1 hour."
+        },
+        {
+            "4": "Remove the bag when time is up and place pears on dessert plates. Drizzle with cooking liquid."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 10 mins"
+        },
+        {
+            "Servings": "2 "
+        },
+        {
+            "Yield": "2 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "128"
+        },
+        {
+            "Fat": "6g"
+        },
+        {
+            "Carbs": "20g"
+        },
+        {
+            "Protein": "0g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8672940.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "cooking_technique_&_channels"
+}
