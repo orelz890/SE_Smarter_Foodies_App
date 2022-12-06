@@ -1,9 +1,15 @@
 package com.example.smarter_foodies;
 
 import android.util.Pair;
+
+import com.google.gson.JsonArray;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonObject;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Map;
 import java.util.Objects;
 
 public class recipe {
@@ -14,13 +20,15 @@ public class recipe {
     private String category;
     private ArrayList<Pair<Double, String>> ingredients;
     private String[] directions;
-    private int prepTime;
-    private int cookingTime;
-    private int totalTime;
-    private int servings;
-    private int protein;
-    private int fat;
-    private int carbs;
+    private String prepTime;
+    private String cookingTime;
+    private String totalTime;
+    private String servings;
+    private String protein;
+    private String fat;
+    private String carbs;
+    private String calories;
+
     //  Nice to have additions:
     private double stars;
 
@@ -30,14 +38,15 @@ public class recipe {
     //  <user_name, comment>
     //  User comments:
     private HashMap<String, ArrayList<String>> comments;
+
     public recipe() {
         init();
-    }
+    } // recipe(<empty>)
 
     public recipe(String title, String main_category, String category,
                   String[] ingredients, String[] directions,
-                  int prepTime, int cookingTime, int servings, int protein,
-                  int fat, int carbs, double stars, ArrayList<String> images, int numOfStarGivers,
+                  String prepTime, String cookingTime, String servings, String protein, String calories,
+                  String fat, String carbs, double stars, ArrayList<String> images, int numOfStarGivers,
                   HashMap<String, ArrayList<String>> comments) {
         init();
         this.setTitle(title);
@@ -48,7 +57,7 @@ public class recipe {
         this.setImages(images);
         this.setPrepTime(prepTime);
         this.setCookingTime(cookingTime);
-        this.setTotalTime(this.cookingTime + this.prepTime);
+        this.setTotalTime(this.prepTime + "(prep) + " + this.cookingTime + "(cooking)");
         this.setServings(servings);
         this.setProtein(protein);
         this.setCarbs(carbs);
@@ -56,12 +65,87 @@ public class recipe {
         this.setStars(stars);
         this.setNumOfStarGivers(numOfStarGivers);
         this.setComments(comments);
-    }
+        this.calories = calories;
+    } // recipe(<data>)
 
-    private void init(){
+    public recipe(JsonObject data) {
+        init();
+        this.setTitle(data.get("title").toString());
+        this.setMain_category(data.get("main category").toString());
+        this.setCategory(data.get("Category").toString());
+        this.setIngredients(convert_json_array_to_str_list(data.get("Ingredients").getAsJsonArray()));
+        this.setDirections(convert_json_array_to_str_list(data.get("Directions").getAsJsonArray()));
+        this.setImages(convert_json_array_to_str_list(data.get("Images").getAsJsonArray()));
+        this.set_details(data.get("Details").getAsJsonArray());
+        this.set_nutritions(data.get("Nutrition Facts").getAsJsonArray());
+        this.setStars(0);
+        this.setNumOfStarGivers(0);
+    } // recipe(<json>)
+
+    private void init() {
         this.ingredients = new ArrayList<>();
         this.comments = new HashMap<>();
-    }
+        this.images = new ArrayList<>();
+        this.comments = new HashMap<>();
+    } // init
+
+
+    private String[] convert_json_array_to_str_list(JsonArray arr) {
+        JsonArray ingredients = arr.getAsJsonArray();
+        int arr_size = ingredients.size();
+        String[] str_list = new String[arr_size];
+        for (int i = 0; i < arr_size; i++){
+            JsonObject ing = ingredients.get(i).getAsJsonObject();
+            for (String key :ing.keySet()) {
+                str_list[i] = ing.get(key).toString().replace("\"", "");
+            }
+        }
+        return str_list;
+    } // convert_json_array_to_str_list
+
+    private void set_details(JsonArray details){
+        int size = details.size();
+        for (int i = 0; i < size; i++) {
+            JsonObject detail = details.get(i).getAsJsonObject();
+            for (String key :detail.keySet()) {
+                switch (key) {
+                    case "Prep Time":
+                        this.prepTime = detail.get(key).toString();
+                        break;
+                    case "Cook Time":
+                        this.cookingTime = detail.get(key).toString();
+                        break;
+                    case "Servings":
+                        this.servings = detail.get(key).toString();
+                        break;
+                }
+            }
+        }
+        this.setTotalTime(this.prepTime + "(prep) + " + this.cookingTime + "(cooking)");
+    } // set_details
+
+    private void set_nutritions(JsonArray nutrition){
+        for (int i = 0; i < nutrition.size(); i++) {
+            JsonObject fact = nutrition.get(i).getAsJsonObject();
+            for (String key : fact.keySet()) {
+                switch (key) {
+                    case "Carbs":
+                        this.carbs = fact.get(key).toString();
+                        break;
+                    case "Fat":
+                        this.fat = fact.get(key).toString();
+                        break;
+                    case "Protein":
+                        this.protein = fact.get("Protein").toString();
+                        break;
+                    case "Calories":
+                        this.calories = fact.get(key).toString();
+                        break;
+                }
+            }
+        }
+    } // set_nutritions
+
     public int getNumOfStarGivers() {
         return numOfStarGivers;
     }
@@ -101,21 +185,21 @@ public class recipe {
     public void setIngredients(String[] ingredients) {
         StringBuilder ans;
         double quantity = -1;
-        for (String curr_str: ingredients){
+        for (String curr_str : ingredients) {
             String curr = curr_str.trim();
             String[] splited = curr.split(" ");
-            if (splited.length > 0){
-                quantity =  Double.parseDouble(splited[0]);
+            if (splited.length > 0) {
+                quantity = Double.parseDouble(splited[0]);
             }
             ans = new StringBuilder();
-            for (int i = 1; i < splited.length; i++){
+            for (int i = 1; i < splited.length; i++) {
                 ans.append(splited[i]);
             }
             if (quantity != -1) {
                 this.ingredients.add(new Pair<Double, String>(quantity, ans.toString()));
             }
         }
-    }
+    } // setIngredients
 
 
     public String[] getDirections() {
@@ -126,60 +210,68 @@ public class recipe {
         this.directions = directions;
     }
 
-    public int getPrepTime() {
+    public String getPrepTime() {
         return prepTime;
     }
 
-    public void setPrepTime(int prepTime) {
+    public void setPrepTime(String prepTime) {
         this.prepTime = prepTime;
     }
 
-    public int getCookingTime() {
+    public String getCookingTime() {
         return cookingTime;
     }
 
-    public void setCookingTime(int cookingTime) {
+    public void setCookingTime(String cookingTime) {
         this.cookingTime = cookingTime;
     }
 
-    public int getTotalTime() {
+    public String getTotalTime() {
         return totalTime;
     }
 
-    public void setTotalTime(int totalTime) {
+    public void setTotalTime(String totalTime) {
         this.totalTime = totalTime;
     }
 
-    public int getServings() {
+    public String getServings() {
         return servings;
     }
 
-    public void setServings(int servings) {
+    public void setServings(String servings) {
         this.servings = servings;
     }
 
-    public int getProtein() {
+    public String getProtein() {
         return protein;
     }
 
-    public void setProtein(int protein) {
+    public void setProtein(String protein) {
         this.protein = protein;
     }
 
-    public int getFat() {
+    public String getFat() {
         return fat;
     }
 
-    public void setFat(int fat) {
+    public void setFat(String fat) {
         this.fat = fat;
     }
 
-    public int getCarbs() {
+    public String getCarbs() {
         return carbs;
     }
 
-    public void setCarbs(int carbs) {
+    public void setCarbs(String carbs) {
         this.carbs = carbs;
+    }
+
+    public String getCalories() {
+        return calories;
+    }
+
+    public void setCalories(String calories) {
+        this.calories = calories;
     }
 
     public double getStars() {
@@ -198,6 +290,10 @@ public class recipe {
         this.images = imgs;
     }
 
+    public void setImages(String[] imgs) {
+        this.images.addAll(Arrays.asList(imgs));
+    }
+
     public void addImage(String img) {
         this.images.add(img);
     }
@@ -213,12 +309,13 @@ public class recipe {
     public void setComments(HashMap<String, ArrayList<String>> comments) {
         this.comments = comments;
     }
+
     public void delComment(String name, String comment) {
         Objects.requireNonNull(this.comments.get(name)).remove(comment);
     }
 
     public void addComment(String name, String comment) {
-        if (this.comments.get(name) == null){
+        if (this.comments.get(name) == null) {
             this.comments.put(name, new ArrayList<>());
         }
         Objects.requireNonNull(this.comments.get(name)).add(comment);
@@ -244,5 +341,5 @@ public class recipe {
                 ", images=" + images +
                 ", comments=" + comments +
                 '}';
-    }
+    } // toString
 }

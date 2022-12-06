@@ -1,10 +1,15 @@
 package com.example.smarter_foodies;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.content.res.AssetFileDescriptor;
+import android.content.res.AssetManager;
+import android.nfc.Tag;
 import android.os.Bundle;
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -14,13 +19,36 @@ import android.widget.NumberPicker;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.Task;
 import com.google.android.material.textfield.TextInputEditText;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.example.smarter_foodies.recipe;
+import com.google.firebase.database.ValueEventListener;
+import com.google.gson.Gson;
+import com.google.gson.JsonArray;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParser;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.InputStreamReader;
+import java.io.Reader;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Map;
+
+import android.content.Context;
+import android.util.Log;
+
+import java.io.IOException;
+import java.io.InputStream;
 
 public class AddRecipe extends AppCompatActivity {
     DatabaseReference mDatabase;
@@ -52,7 +80,17 @@ public class AddRecipe extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_recipe);
         mDatabase = FirebaseDatabase.getInstance().getReference();
-        //    ========================= EditText =============================================
+//        ValueEventListener recipeListener = new ValueEventListener() {
+//            @Override
+//            public void onDataChange(@NonNull DataSnapshot snapshot) {
+//                recipe r = snapshot.getValue(recipe.class);
+//            }
+//            @Override
+//            public void onCancelled(@NonNull DatabaseError error) {
+//                Log.w("Activity", "Cancelled", error.toException());
+//            }
+//        };
+        //    ========================= Get data from user =============================================
         etTitle = findViewById(R.id.etTitle);
         etIngredients = findViewById(R.id.etIngredients);
         etDirections = findViewById(R.id.etDirections);
@@ -119,7 +157,46 @@ public class AddRecipe extends AppCompatActivity {
 
         btnSubmit = findViewById(R.id.btnSubmit);
         btnSubmit.setOnClickListener(view -> {
-            submitRecipe();
+//            submitRecipe();
+            try {
+                Gson gson = new Gson();
+
+                AssetManager assetManager = getAssets();
+                String[] files = assetManager.list("per_category_data");
+                for (String f : files) {
+                    String[] files2 = assetManager.list("per_category_data/" + f);
+                    System.out.println(">>>>>>>>>>>>>>> " + f + " <<<<<<<<<<<<<<<<<<<");
+                    for (String f2 : files2) {
+                        String[] files3 = assetManager.list("per_category_data/" + f + "/" + f2);
+
+//                        System.out.println(f2);
+                        for (String f3 : files3) {
+                            JsonParser parser = new JsonParser();
+                            try {
+                                String file_path = "per_category_data/" + f + "/" + f2 + "/" + f3;
+                                InputStream inputStream = getAssets().open(file_path);
+                                int size = inputStream.available();
+                                byte[] buffer = new byte[size];
+                                inputStream.read(buffer);
+                                String json_str = new String(buffer);
+                                JsonObject jsonObject = new JsonParser().parse(json_str).getAsJsonObject();
+                                recipe curr_recipe = new recipe(jsonObject);
+                                System.out.println(curr_recipe);
+
+                            } catch (Exception e) {
+                                e.printStackTrace();
+                                return;
+                            }
+
+                            System.out.println("\n=====================================\n");
+                        }
+
+                    }
+                }
+
+            } catch (Exception ex) {
+                ex.printStackTrace();
+            }
         });
 
         //    ========================= AutoCompleteTextView =================================
@@ -163,7 +240,7 @@ public class AddRecipe extends AppCompatActivity {
                 String[] temp = s.trim().split(" ");
                 try {
                     Double.parseDouble(temp[0]);
-                }catch (Exception e){
+                } catch (Exception e) {
                     etIngredients.setError("Every Ingredient must begin with the quantity..");
                     etIngredients.requestFocus();
                     return;
@@ -185,17 +262,52 @@ public class AddRecipe extends AppCompatActivity {
             autoCompleteSubCategory.requestFocus();
             return;
         } else if (npPrepTime.getValue() == 0 || npCookingTime.getValue() == 0 ||
-                   npServings.getValue() == 0 || npProtein.getValue() == 0 ||
-                   npFat.getValue() == 0 || npCarbs.getValue() == 0) {
+                npServings.getValue() == 0 || npProtein.getValue() == 0 ||
+                npFat.getValue() == 0 || npCarbs.getValue() == 0) {
             Toast.makeText(getApplicationContext(), "All bottom half must be filled too!",
                     Toast.LENGTH_SHORT).show();
         } else {
             dish = new recipe(title, category, subCategory, ingredients_list, directions_list,
-                    npPrepTime.getValue(), npCookingTime.getValue(), npServings.getValue(),
-                    npProtein.getValue(), npFat.getValue(), npCarbs.getValue(), 0,
+                    npPrepTime.getValue() + "", npCookingTime.getValue() + "", npServings.getValue() + "",
+                    npProtein.getValue() + "", "0", npFat.getValue() + "", npCarbs.getValue() + "", 0,
                     new ArrayList<String>(), 0, new HashMap<>());
             Toast.makeText(getApplicationContext(), dish.toString(), Toast.LENGTH_SHORT).show();
         }
+    }
+
+    public void loadDishToDatabase(recipe r) {
+        String name = r.getTitle();
+        int len = name.length();
+        if (len > 0) {
+            mDatabase.child("recipes").child(r.getMain_category()).child(r.getCategory());
+            for (int i = 0; i < len; i++) {
+                mDatabase.child(name.charAt(i) + "");
+            }
+            mDatabase.setValue(r);
+        }
+    }
+
+    public recipe getDishFromDatabase(String mainCategory, String subCategory, String name) {
+        int len = name.length();
+        recipe[] r = new recipe[1];
+        if (len > 0) {
+            mDatabase.child("recipes").child(mainCategory).child(subCategory);
+            for (int i = 0; i < len; i++) {
+                mDatabase.child(name.charAt(i) + "");
+            }
+            mDatabase.get().addOnCompleteListener(new OnCompleteListener<DataSnapshot>() {
+                @Override
+                public void onComplete(@NonNull Task<DataSnapshot> task) {
+                    if (!task.isSuccessful()) {
+                        Log.e("firebase", "Error getting data", task.getException());
+                    } else {
+                        Log.d("firebase", String.valueOf(task.getResult().getValue()));
+                        r[0] = (recipe) task.getResult().getValue();
+                    }
+                }
+            });
+        }
+        return r[0];
     }
 
 }
