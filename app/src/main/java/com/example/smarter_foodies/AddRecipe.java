@@ -27,6 +27,7 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.example.smarter_foodies.recipe;
+import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
@@ -55,8 +56,6 @@ import java.io.InputStream;
 
 public class AddRecipe extends AppCompatActivity {
     DatabaseReference mDatabase;
-    DatabaseReference mDatabaseSearch;
-    DatabaseReference mDatabaseFilter;
     recipe dish;
     TextInputEditText etTitle;
     TextInputEditText etIngredients;
@@ -162,8 +161,17 @@ public class AddRecipe extends AppCompatActivity {
 
         btnSubmit = findViewById(R.id.btnSubmit);
         btnSubmit.setOnClickListener(view -> {
-            submitRecipe();
+//            submitRecipe();
 //            init_database_with_existing_scraped_data();
+//            deleteAllInitData();
+//            deleteRecipe("2_Ingredient_Pineapple_Angel_Food_Cake");
+            System.out.println("=============================");
+            List<recipe> recipes = getDishFromDatabase("Air Fryer Mini Breakfast Burritos");
+            System.out.println(recipes.size());
+            for (recipe r : recipes){
+                System.out.println(r);
+            }
+            System.out.println("============================");
         });
 
         //    ========================= AutoCompleteTextView =================================
@@ -189,10 +197,8 @@ public class AddRecipe extends AppCompatActivity {
         });
     }
 
-    private boolean init_database_with_existing_scraped_data(){
+    private boolean init_database_with_existing_scraped_data() {
         try {
-            Gson gson = new Gson();
-
             AssetManager assetManager = getAssets();
             String[] files = assetManager.list("per_category_data2");
             for (String f : files) {
@@ -213,7 +219,6 @@ public class AddRecipe extends AppCompatActivity {
                             JsonObject jsonObject = new JsonParser().parse(json_str).getAsJsonObject();
                             String copy_rights = "https://www.allrecipes.com/";
                             recipe curr_recipe = new recipe(jsonObject, copy_rights);
-//                                System.out.println(curr_recipe);
                             loadDishToSearchTree(curr_recipe);
                             loadDishToFilterTree(curr_recipe);
                         } catch (Exception e) {
@@ -230,6 +235,8 @@ public class AddRecipe extends AppCompatActivity {
         }
         return true;
     }
+
+
     private void submitRecipe() {
         String title = etTitle.getText().toString();
         if (TextUtils.isEmpty(title)) {
@@ -262,15 +269,12 @@ public class AddRecipe extends AppCompatActivity {
         if (TextUtils.isEmpty(directions)) {
             etDirections.setError("Directions cannot be empty");
             etDirections.requestFocus();
-            return;
         } else if (category.isEmpty()) {
             autoCompleteCategory.setError("Category cannot be empty");
             autoCompleteCategory.requestFocus();
-            return;
         } else if (subCategory.isEmpty()) {
             autoCompleteSubCategory.setError("Sub category cannot be empty");
             autoCompleteSubCategory.requestFocus();
-            return;
         } else if (npPrepTime.getValue() == 0 || npCookingTime.getValue() == 0 ||
                 npServings.getValue() == 0 || npProtein.getValue() == 0 ||
                 npFat.getValue() == 0 || npCarbs.getValue() == 0) {
@@ -286,38 +290,54 @@ public class AddRecipe extends AppCompatActivity {
         }
     }
 
-    public void loadDishToSearchTree(recipe r) {
-        mDatabaseSearch = mDatabase;
-        String name = r.getTitle().replace("\"", "").replace(" ", "");
-        String new_name = "";
-        for (int i = 0; i < name.length(); i++) {
-            if (Character.isDigit(name.charAt(i)) || Character.isAlphabetic(name.charAt(i))){
-                new_name += name.charAt(i);
-            }
-        }
-        name = new_name.toLowerCase(Locale.ROOT);
-        int len = name.length();
-        if (len > 0) {
-            mDatabaseSearch = mDatabaseSearch.child("search");
-            // Max tree depth is 32
-            for (int i = 0; i < len && i < 29; i++) {
-                mDatabaseSearch = mDatabaseSearch.child(name.charAt(i) + "");
-            }
-        }
-        mDatabaseSearch.setValue(r).addOnCompleteListener(new OnCompleteListener<Void>() {
-            @Override
-            public void onComplete(@NonNull Task<Void> task) {
-                if (task.isSuccessful()) {
-                    Toast.makeText(getApplicationContext(), r.getTitle() + "> added successfully to search!", Toast.LENGTH_LONG).show();
+    private DatabaseReference getToRecipeDepth(DatabaseReference DataRef, String name) {
+        DataRef = mDatabase;
+        name = name.replace("\"", "").replace(" ", "");
+        if (name.length() > 0) {
+            String new_name = "";
+            for (int i = 0; i < name.length(); i++) {
+                if (Character.isDigit(name.charAt(i)) || Character.isAlphabetic(name.charAt(i))) {
+                    new_name += name.charAt(i);
                 }
             }
-        });
+            new_name = new_name.toLowerCase(Locale.ROOT);
+            int len = new_name.length();
+            DataRef = DataRef.child("search");
+            // Max tree depth is 32
+            for (int i = 0; i < len && i < 27; i++) {
+                DataRef = DataRef.child(new_name.charAt(i) + "");
+            }
+        }
+        return DataRef;
+    }
+
+//    private boolean deleteAllInitData() {
+//        mDatabase.child("filter").removeValue();
+//        mDatabase.child("search").removeValue();
+//        return true;
+//    }
+
+    public void loadDishToSearchTree(recipe r) {
+        if (r != null) {
+            DatabaseReference mDatabaseSearch = mDatabase;
+            getToRecipeDepth(mDatabaseSearch, r.getTitle()).setValue(r)
+                    .addOnCompleteListener(new OnCompleteListener<Void>() {
+                        @Override
+                        public void onComplete(@NonNull Task<Void> task) {
+                            if (task.isSuccessful()) {
+                                Toast.makeText(getApplicationContext(),
+                                        r.getTitle() + "> added successfully to search!",
+                                        Toast.LENGTH_LONG).show();
+                            }
+                        }
+                    });
+        }
     }
 
     public void loadDishToFilterTree(recipe r) {
-        mDatabaseSearch = mDatabase;
         if (r != null) {
-            mDatabaseSearch = mDatabaseSearch.child("filter").child(r.getMain_category()).child(r.getCategory()).child(r.getTitle());
+            DatabaseReference mDatabaseSearch = mDatabase.child("filter")
+                    .child(r.getMain_category()).child(r.getCategory()).child(r.getTitle());
             mDatabaseSearch.setValue(r).addOnCompleteListener(new OnCompleteListener<Void>() {
                 @Override
                 public void onComplete(@NonNull Task<Void> task) {
@@ -327,30 +347,76 @@ public class AddRecipe extends AppCompatActivity {
                 }
             });
         }
-
     }
 
-    public recipe getDishFromDatabase(String mainCategory, String subCategory, String name) {
+    public List<recipe> getDishFromDatabase(String name) {
         int len = name.length();
-        recipe[] r = new recipe[1];
+        List<recipe> recipe_list = new ArrayList<>();
         if (len > 0) {
-            mDatabase.child("recipes").child(mainCategory).child(subCategory);
-            for (int i = 0; i < len; i++) {
-                mDatabase.child(name.charAt(i) + "");
-            }
-            mDatabase.get().addOnCompleteListener(new OnCompleteListener<DataSnapshot>() {
+            DatabaseReference mDatabaseSearchGet = mDatabase;
+            mDatabaseSearchGet = getToRecipeDepth(mDatabaseSearchGet, name);
+            mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
                 @Override
-                public void onComplete(@NonNull Task<DataSnapshot> task) {
-                    if (!task.isSuccessful()) {
-                        Log.e("firebase", "Error getting data", task.getException());
-                    } else {
-                        Log.d("firebase", String.valueOf(task.getResult().getValue()));
-                        r[0] = (recipe) task.getResult().getValue();
+                public void onDataChange(@NonNull DataSnapshot snapshot) {
+                    if (snapshot.exists()) {
+                        Iterable<DataSnapshot> childrens = snapshot.getChildren();
+                        for (DataSnapshot child : childrens) {
+                            try {
+                                recipe current_recipe = child.getValue(recipe.class);
+                                if (current_recipe != null) {
+                                    recipe_list.add(current_recipe);
+                                }
+                            } catch (Exception ignored) {
+
+                            }
+                        }
                     }
+                }
+
+                @Override
+                public void onCancelled(@NonNull DatabaseError error) {
+                    Log.d("TAG", error.getMessage());
                 }
             });
         }
-        return r[0];
+        return recipe_list;
     }
 
+    public void deleteRecipe(String name) {
+        DatabaseReference mDataSearchDelete = mDatabase;
+        DatabaseReference mDataFilterRef = mDatabase.child("filter");
+        Query searchQuery = getToRecipeDepth(mDataSearchDelete, name);
+        searchQuery.addListenerForSingleValueEvent(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+                for (DataSnapshot childSearch : dataSnapshot.getChildren()) {
+                    recipe r_s = childSearch.getValue(recipe.class);
+                    if (r_s != null && r_s.getTitle().equals(name)) {
+                        childSearch.getRef().removeValue();
+                        Query filterQuery = mDataFilterRef.child(r_s.getMain_category()).child(r_s.getCategory());
+                        filterQuery.addListenerForSingleValueEvent(new ValueEventListener() {
+                            @Override
+                            public void onDataChange(@NonNull DataSnapshot snapshot) {
+                                for (DataSnapshot childFilter : dataSnapshot.getChildren()) {
+                                    recipe r_f = childFilter.getValue(recipe.class);
+                                    if (r_f != null && r_f.getTitle().equals(name)) {
+                                        childFilter.getRef().removeValue();
+                                    }
+                                }
+                            }
+                            @Override
+                            public void onCancelled(@NonNull DatabaseError error) {
+                                Log.e("TAG", "onCancelled", error.toException());
+                            }
+                        });
+                    }
+                }
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError databaseError) {
+                Log.e("TAG", "onCancelled", databaseError.toException());
+            }
+        });
+    }
 }
