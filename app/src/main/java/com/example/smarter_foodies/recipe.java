@@ -1,11 +1,7 @@
 package com.example.smarter_foodies;
 
-import android.util.Pair;
-
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
-
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.ArrayList;
@@ -18,7 +14,7 @@ public class recipe {
     private String title;
     private String main_category;
     private String category;
-    private List<Pair<Double, String>> ingredients;
+    private List<String> ingredients;
     private List<String> directions;
     private String prepTime;
     private String cookingTime;
@@ -33,7 +29,7 @@ public class recipe {
     private double stars;
     private int numOfStarGivers;
     private List<String> images;
-    private HashMap<String, List<String>> comments;
+    private HashMap<String, String> comments;
 
     public recipe() {
         init();
@@ -43,7 +39,7 @@ public class recipe {
                   List<String> ingredients, List<String> directions,
                   String prepTime, String cookingTime, String servings, String protein, String calories,
                   String fat, String carbs, double stars, List<String> images, int numOfStarGivers,
-                  HashMap<String, List<String>> comments, String copy_rights) {
+                  HashMap<String, String> comments, String copy_rights) {
         init();
         this.setTitle(title);
         this.setMain_category(main_category);
@@ -71,7 +67,7 @@ public class recipe {
         this.setTitle(data.get("title").toString());
         this.setMain_category(data.get("main category").toString());
         this.setCategory(data.get("Category").toString());
-        this.setIngredients(convert_json_array_to_str_list(data.get("Ingredients").getAsJsonArray()));
+        this.setIngredientsFromList(convert_json_array_to_str_list(data.get("Ingredients").getAsJsonArray()));
         this.setDirections(convert_json_array_to_str_list(data.get("Directions").getAsJsonArray()));
         this.setImages(convert_json_array_to_str_list(data.get("Images").getAsJsonArray()));
         this.set_details(data.get("Details").getAsJsonArray());
@@ -86,7 +82,6 @@ public class recipe {
         this.ingredients = new ArrayList<>();
         this.comments = new HashMap<>();
         this.images = new ArrayList<>();
-        this.comments = new HashMap<>();
     } // init
 
 
@@ -178,33 +173,21 @@ public class recipe {
         this.category = category;
     }
 
-    public List<Pair<Double, String>> getIngredients() {
+    public List<String> getIngredients() {
         return ingredients;
     }
 
-    public void setIngredients(List<String> ingredients) {
-        StringBuilder ans;
-        double quantity = -1;
+    public void setIngredientsFromList(List<String> ingredients) {
         for (String curr_str : ingredients) {
             String curr = curr_str.trim();
-            String[] splited = curr.split(" ");
-            if (splited.length > 0) {
-                quantity = Double.parseDouble(splited[0]);
-            }
-            ans = new StringBuilder();
-            int len = splited.length;
-            for (int i = 1; i < len; i++) {
-                ans.append(splited[i]);
-                if (i < len - 1){
-                    ans.append(" ");
-                }
-            }
-            if (quantity != -1) {
-                this.ingredients.add(new Pair<Double, String>(quantity, ans.toString()));
-            }
+            this.ingredients.add(curr);
+
         }
     } // setIngredients
 
+    public void setIngredients(List<String> ingredients) {
+        this.ingredients = ingredients;
+    } // setIngredients
 
     public List<String> getDirections() {
         return directions;
@@ -302,23 +285,25 @@ public class recipe {
         this.images.remove(img);
     }
 
-    public HashMap<String, List<String>> getComments() {
+    public HashMap<String, String> getComments() {
         return comments;
     }
 
-    public void setComments(HashMap<String, List<String>> comments) {
+    public void setComments(HashMap<String, String> comments) {
         this.comments = comments;
     }
 
     public void delComment(String name, String comment) {
-        Objects.requireNonNull(this.comments.get(name)).remove(comment);
+        for (int i = 0; i < this.comments.size(); i++){
+            if (Objects.equals(this.comments.get(name), comment)){
+                this.comments.remove(name);
+                break;
+            }
+        }
     }
 
     public void addComment(String name, String comment) {
-        if (this.comments.get(name) == null) {
-            this.comments.put(name, new ArrayList<>());
-        }
-        Objects.requireNonNull(this.comments.get(name)).add(comment);
+        this.comments.put(name, comment);
     }
 
     public String getCopy_rights() {
@@ -335,7 +320,7 @@ public class recipe {
                 "title='" + title + '\'' +
                 ", main_category='" + main_category + '\'' +
                 ", category='" + category + '\'' +
-                ", ingredients=" + ingredients +
+                ", ingredients=" + ingredients.toString() +
                 ", directions=" + directions.toString() +
                 ", prepTime=" + prepTime +
                 ", cookingTime=" + cookingTime +
@@ -347,7 +332,7 @@ public class recipe {
                 ", stars=" + stars +
                 ", numOfStarGivers=" + numOfStarGivers +
                 ", images=" + images +
-                ", comments=" + comments +
+                ", comments=" + comments.toString() +
                 '}';
     } // toString
 }

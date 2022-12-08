@@ -162,16 +162,17 @@ public class AddRecipe extends AppCompatActivity {
         btnSubmit = findViewById(R.id.btnSubmit);
         btnSubmit.setOnClickListener(view -> {
 //            submitRecipe();
-//            init_database_with_existing_scraped_data();
 //            deleteAllInitData();
+//            init_database_with_existing_scraped_data();
 //            deleteRecipe("2_Ingredient_Pineapple_Angel_Food_Cake");
-            System.out.println("=============================");
-            List<recipe> recipes = getDishFromDatabase("Air Fryer Mini Breakfast Burritos");
-            System.out.println(recipes.size());
-            for (recipe r : recipes){
-                System.out.println(r);
-            }
-            System.out.println("============================");
+//            System.out.println("=============================");
+//            System.out.println(getDishFromFilterTree("animals", "Pet_Food", "Bacon-Flavored Dog Biscuits"));
+//            List<recipe> recipes = getDishFromSearchTree("Air Fryer Mini Breakfast Burritos");
+//            System.out.println(recipes.size());
+//            for (recipe r : recipes){
+//                System.out.println(r);
+//            }
+//            System.out.println("============================");
         });
 
         //    ========================= AutoCompleteTextView =================================
@@ -282,25 +283,26 @@ public class AddRecipe extends AppCompatActivity {
                     Toast.LENGTH_SHORT).show();
         } else {
             List<String> directionsArray = new ArrayList<>(Arrays.asList(directions_list));
-            dish = new recipe(title, category, subCategory, ingredientsArray, directionsArray,
+            dish = new recipe(title, category, subCategory, new ArrayList<>(), directionsArray,
                     npPrepTime.getValue() + "", npCookingTime.getValue() + "", npServings.getValue() + "",
                     npProtein.getValue() + "", "0", npFat.getValue() + "", npCarbs.getValue() + "", 0,
                     new ArrayList<>(), 0, new HashMap<>(), "");
+            dish.setIngredientsFromList(ingredientsArray);
             Toast.makeText(getApplicationContext(), dish.toString(), Toast.LENGTH_SHORT).show();
         }
     }
 
     private DatabaseReference getToRecipeDepth(DatabaseReference DataRef, String name) {
-        DataRef = mDatabase;
+        DataRef = FirebaseDatabase.getInstance().getReference();
         name = name.replace("\"", "").replace(" ", "");
         if (name.length() > 0) {
-            String new_name = "";
+            StringBuilder new_name = new StringBuilder();
             for (int i = 0; i < name.length(); i++) {
                 if (Character.isDigit(name.charAt(i)) || Character.isAlphabetic(name.charAt(i))) {
-                    new_name += name.charAt(i);
+                    new_name.append(name.charAt(i));
                 }
             }
-            new_name = new_name.toLowerCase(Locale.ROOT);
+            new_name = new StringBuilder(new_name.toString().toLowerCase(Locale.ROOT));
             int len = new_name.length();
             DataRef = DataRef.child("search");
             // Max tree depth is 32
@@ -311,16 +313,16 @@ public class AddRecipe extends AppCompatActivity {
         return DataRef;
     }
 
-//    private boolean deleteAllInitData() {
-//        mDatabase.child("filter").removeValue();
-//        mDatabase.child("search").removeValue();
-//        return true;
-//    }
+    private boolean deleteAllInitData() {
+        mDatabase.child("filter").removeValue();
+        mDatabase.child("search").removeValue();
+        return true;
+    }
 
     public void loadDishToSearchTree(recipe r) {
         if (r != null) {
-            DatabaseReference mDatabaseSearch = mDatabase;
-            getToRecipeDepth(mDatabaseSearch, r.getTitle()).setValue(r)
+            DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference();
+            getToRecipeDepth(mDatabaseSearch, r.getTitle()).child(r.getTitle()).setValue(r)
                     .addOnCompleteListener(new OnCompleteListener<Void>() {
                         @Override
                         public void onComplete(@NonNull Task<Void> task) {
@@ -336,8 +338,9 @@ public class AddRecipe extends AppCompatActivity {
 
     public void loadDishToFilterTree(recipe r) {
         if (r != null) {
-            DatabaseReference mDatabaseSearch = mDatabase.child("filter")
-                    .child(r.getMain_category()).child(r.getCategory()).child(r.getTitle());
+            DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
+                    .child("filter").child(r.getMain_category().replace(" ", "_"))
+                    .child(r.getCategory().replace(" ", "_")).child(r.getTitle());
             mDatabaseSearch.setValue(r).addOnCompleteListener(new OnCompleteListener<Void>() {
                 @Override
                 public void onComplete(@NonNull Task<Void> task) {
@@ -349,30 +352,29 @@ public class AddRecipe extends AppCompatActivity {
         }
     }
 
-    public List<recipe> getDishFromDatabase(String name) {
+    public List<recipe> getDishFromSearchTree(String name) {
         int len = name.length();
         List<recipe> recipe_list = new ArrayList<>();
         if (len > 0) {
-            DatabaseReference mDatabaseSearchGet = mDatabase;
+            DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
             mDatabaseSearchGet = getToRecipeDepth(mDatabaseSearchGet, name);
             mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
                 @Override
                 public void onDataChange(@NonNull DataSnapshot snapshot) {
                     if (snapshot.exists()) {
                         Iterable<DataSnapshot> childrens = snapshot.getChildren();
-                        for (DataSnapshot child : childrens) {
+                        for (DataSnapshot curr_child: childrens)
                             try {
-                                recipe current_recipe = child.getValue(recipe.class);
+                                recipe current_recipe = curr_child.getValue(recipe.class);
+                                System.out.println(">>>>>>>" + current_recipe + "<<<<<<<");
                                 if (current_recipe != null) {
                                     recipe_list.add(current_recipe);
                                 }
-                            } catch (Exception ignored) {
-
+                            } catch (Exception e) {
+                                e.printStackTrace();
                             }
-                        }
                     }
                 }
-
                 @Override
                 public void onCancelled(@NonNull DatabaseError error) {
                     Log.d("TAG", error.getMessage());
@@ -382,9 +384,51 @@ public class AddRecipe extends AppCompatActivity {
         return recipe_list;
     }
 
+
+    public recipe getDishFromFilterTree(String mainCategory, String subCategory, String name) {
+        int len = name.length();
+        List<recipe> recipe_list = new ArrayList<>();
+        if (len > 0) {
+            DatabaseReference mDatabaseFilterGet = FirebaseDatabase.getInstance().getReference();
+            mDatabaseFilterGet = mDatabaseFilterGet.child("filter").child(mainCategory);
+            mDatabaseFilterGet.addValueEventListener(new ValueEventListener() {
+                @Override
+                public void onDataChange(@NonNull DataSnapshot snapshot) {
+                    if (snapshot.exists()) {
+                        System.out.println("im here!!");
+                        Iterable<DataSnapshot> childrens = snapshot.getChildren();
+                        for (DataSnapshot curr_child: childrens)
+                            try {
+                                System.out.println(curr_child);
+                                recipe curr_recipe = curr_child.getValue(recipe.class);
+                                System.out.println(">>>>>>>>>" + curr_recipe + "<<<<<<<<<<");
+//                                System.out.println(">>>>>>>" + current_recipe + "<<<<<<<");
+                                if (curr_recipe != null && curr_recipe.getTitle().equals(name)) {
+                                    recipe_list.add(curr_recipe);
+                                }
+                            } catch (Exception e) {
+                                e.printStackTrace();
+                            }
+                    }
+                    else{
+                        System.out.println("no data found");
+                    }
+                }
+                @Override
+                public void onCancelled(@NonNull DatabaseError error) {
+                    Log.d("TAG", error.getMessage());
+                }
+            });
+        }
+        if (recipe_list.isEmpty()){
+            return null;
+        }
+        return recipe_list.get(0);
+    }
+
     public void deleteRecipe(String name) {
-        DatabaseReference mDataSearchDelete = mDatabase;
-        DatabaseReference mDataFilterRef = mDatabase.child("filter");
+        DatabaseReference mDataSearchDelete = FirebaseDatabase.getInstance().getReference();
+        DatabaseReference mDataFilterRef = FirebaseDatabase.getInstance().getReference().child("filter");
         Query searchQuery = getToRecipeDepth(mDataSearchDelete, name);
         searchQuery.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
