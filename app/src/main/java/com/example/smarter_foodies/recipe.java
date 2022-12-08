@@ -62,6 +62,13 @@ public class recipe {
 
     } // recipe(<data>)
 
+    public recipe(recipe r){
+        this(r.title,r.main_category,r.category,r.ingredients,r.directions,r.prepTime,
+             r.cookingTime,r.servings,r.protein,r.calories,r.fat,r.carbs,r.stars,r.images,
+             r.numOfStarGivers,r.comments,r.copy_rights);
+        this.totalTime = r.totalTime;
+    }
+
     public recipe(JsonObject data, String copy_rights) {
         init();
         this.setTitle(data.get("title").toString());
@@ -105,13 +112,13 @@ public class recipe {
             for (String key :detail.keySet()) {
                 switch (key) {
                     case "Prep Time":
-                        this.prepTime = detail.get(key).toString();
+                        this.prepTime = detail.get(key).toString().replace("\"", "");
                         break;
                     case "Cook Time":
-                        this.cookingTime = detail.get(key).toString();
+                        this.cookingTime = detail.get(key).toString().replace("\"", "");
                         break;
                     case "Servings":
-                        this.servings = detail.get(key).toString();
+                        this.servings = detail.get(key).toString().replace("\"", "");
                         break;
                 }
             }
@@ -125,16 +132,16 @@ public class recipe {
             for (String key : fact.keySet()) {
                 switch (key) {
                     case "Carbs":
-                        this.carbs = fact.get(key).toString();
+                        this.carbs = fact.get(key).toString().replace("\"", "");
                         break;
                     case "Fat":
-                        this.fat = fact.get(key).toString();
+                        this.fat = fact.get(key).toString().replace("\"", "");
                         break;
                     case "Protein":
-                        this.protein = fact.get("Protein").toString();
+                        this.protein = fact.get("Protein").toString().replace("\"", "");
                         break;
                     case "Calories":
-                        this.calories = fact.get(key).toString();
+                        this.calories = fact.get(key).toString().replace("\"", "");
                         break;
                 }
             }

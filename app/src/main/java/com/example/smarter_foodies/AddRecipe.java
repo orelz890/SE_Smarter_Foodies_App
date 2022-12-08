@@ -165,14 +165,14 @@ public class AddRecipe extends AppCompatActivity {
 //            deleteAllInitData();
 //            init_database_with_existing_scraped_data();
 //            deleteRecipe("2_Ingredient_Pineapple_Angel_Food_Cake");
-//            System.out.println("=============================");
+            System.out.println("=============================");
 //            System.out.println(getDishFromFilterTree("animals", "Pet_Food", "Bacon-Flavored Dog Biscuits"));
-//            List<recipe> recipes = getDishFromSearchTree("Air Fryer Mini Breakfast Burritos");
-//            System.out.println(recipes.size());
-//            for (recipe r : recipes){
-//                System.out.println(r);
-//            }
-//            System.out.println("============================");
+            List<recipe> recipes = getDishFromSearchTree("Air Fryer Mini Breakfast Burritos");
+            System.out.println(recipes.size());
+            for (recipe r : recipes){
+                System.out.println(r);
+            }
+            System.out.println("============================");
         });
 
         //    ========================= AutoCompleteTextView =================================
@@ -322,7 +322,8 @@ public class AddRecipe extends AppCompatActivity {
     public void loadDishToSearchTree(recipe r) {
         if (r != null) {
             DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference();
-            getToRecipeDepth(mDatabaseSearch, r.getTitle()).child(r.getTitle()).setValue(r)
+            getToRecipeDepth(mDatabaseSearch, r.getTitle()).child(r.getTitle()
+                            .replace("\"", "")).setValue(r)
                     .addOnCompleteListener(new OnCompleteListener<Void>() {
                         @Override
                         public void onComplete(@NonNull Task<Void> task) {
@@ -339,8 +340,10 @@ public class AddRecipe extends AppCompatActivity {
     public void loadDishToFilterTree(recipe r) {
         if (r != null) {
             DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
-                    .child("filter").child(r.getMain_category().replace(" ", "_"))
-                    .child(r.getCategory().replace(" ", "_")).child(r.getTitle());
+                    .child("filter").child(r.getMain_category().replace(" ", "_")
+                            .replace("\"", "")).child(r.getCategory()
+                            .replace(" ", "_").replace("\"", ""))
+                    .child(r.getTitle().replace("\"", ""));
             mDatabaseSearch.setValue(r).addOnCompleteListener(new OnCompleteListener<Void>() {
                 @Override
                 public void onComplete(@NonNull Task<Void> task) {
@@ -352,9 +355,10 @@ public class AddRecipe extends AppCompatActivity {
         }
     }
 
+    List<recipe> recipe_list = new ArrayList<>();
+
     public List<recipe> getDishFromSearchTree(String name) {
         int len = name.length();
-        List<recipe> recipe_list = new ArrayList<>();
         if (len > 0) {
             DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
             mDatabaseSearchGet = getToRecipeDepth(mDatabaseSearchGet, name);
@@ -362,6 +366,7 @@ public class AddRecipe extends AppCompatActivity {
                 @Override
                 public void onDataChange(@NonNull DataSnapshot snapshot) {
                     if (snapshot.exists()) {
+                        recipe_list.clear();
                         Iterable<DataSnapshot> childrens = snapshot.getChildren();
                         for (DataSnapshot curr_child: childrens)
                             try {
@@ -389,20 +394,20 @@ public class AddRecipe extends AppCompatActivity {
         int len = name.length();
         List<recipe> recipe_list = new ArrayList<>();
         if (len > 0) {
-            DatabaseReference mDatabaseFilterGet = FirebaseDatabase.getInstance().getReference();
-            mDatabaseFilterGet = mDatabaseFilterGet.child("filter").child(mainCategory);
-            mDatabaseFilterGet.addValueEventListener(new ValueEventListener() {
+            DatabaseReference mDatabaseFilterGet = FirebaseDatabase.getInstance().getReference()
+                    .child("filter");
+            mDatabaseFilterGet.child(mainCategory).child(subCategory)
+                    .addValueEventListener(new ValueEventListener() {
                 @Override
                 public void onDataChange(@NonNull DataSnapshot snapshot) {
                     if (snapshot.exists()) {
-                        System.out.println("im here!!");
                         Iterable<DataSnapshot> childrens = snapshot.getChildren();
                         for (DataSnapshot curr_child: childrens)
                             try {
-                                System.out.println(curr_child);
+//                                System.out.println("im here!!");
+//                                System.out.println(curr_child);
                                 recipe curr_recipe = curr_child.getValue(recipe.class);
                                 System.out.println(">>>>>>>>>" + curr_recipe + "<<<<<<<<<<");
-//                                System.out.println(">>>>>>>" + current_recipe + "<<<<<<<");
                                 if (curr_recipe != null && curr_recipe.getTitle().equals(name)) {
                                     recipe_list.add(curr_recipe);
                                 }
@@ -411,7 +416,7 @@ public class AddRecipe extends AppCompatActivity {
                             }
                     }
                     else{
-                        System.out.println("no data found");
+                        System.out.println("Snapshot is empty");
                     }
                 }
                 @Override
