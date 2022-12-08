@@ -13,4 +13,9 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
-</resources>
+
+    <style name="Theme.Smarter_Foodies.BackgroundImageStyle">
+        <item name="android:windowBackground">@drawable/add_recipe_background</item>
+    </style>
+
+    </resources>

@@ -19,7 +19,9 @@
         <activity android:name=".LoginActivity" />
         <activity android:name=".RegisterActivity" />
         <activity android:name=".ApplyChef" />
-        <activity android:name=".AddRecipe" />
+        <activity android:name=".AddRecipe"
+            android:theme="@style/Theme.Smarter_Foodies.BackgroundImageStyle">
+        </activity>
         <activity
             android:name=".LoginGoogle"
             android:exported="true">
