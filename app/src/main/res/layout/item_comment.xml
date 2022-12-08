@@ -55,7 +55,7 @@
 
         <com.google.android.material.textfield.TextInputLayout
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense.ExposedDropdownMenu"
-            android:layout_width="280dp"
+            android:layout_width="330dp"
             android:layout_height="wrap_content"
             android:hint="select category">
 
@@ -84,7 +84,6 @@
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
             android:layout_marginStart="16dp"
             android:layout_marginEnd="16dp"
             app:boxBackgroundMode="outline"
@@ -126,16 +125,14 @@
                 android:layout_height="wrap_content"
                 android:hint="Enter the Directions(separated by enter)" />
         </com.google.android.material.textfield.TextInputLayout>
-
         <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="180dp"
-            android:layout_marginTop="25dp"
+            android:layout_height="match_parent"
             android:orientation="horizontal">
 
             <androidx.coordinatorlayout.widget.CoordinatorLayout
                 android:layout_width="wrap_content"
-                android:layout_height="180dp"
+                android:layout_height="120dp"
                 android:layout_alignParentLeft="true"
                 android:layout_alignParentTop="true"
                 android:layout_alignParentRight="true"
@@ -149,31 +146,29 @@
 
                 <NumberPicker
                     android:id="@+id/npCookTime"
-                    android:layout_marginTop="25dp"
                     android:layout_width="wrap_content"
-                    android:layout_height="140dp" />
+                    android:layout_height="match_parent" />
 
                 <androidx.coordinatorlayout.widget.CoordinatorLayout
                     android:layout_width="wrap_content"
-                    android:layout_height="180dp"
+                    android:layout_height="105dp"
                     android:layout_gravity="center_horizontal">
 
                     <TextView
                         android:layout_width="match_parent"
-                        android:layout_height="121dp"
+                        android:layout_height="match_parent"
                         android:text="Prep time"
                         android:textSize="16sp" />
 
                     <NumberPicker
                         android:id="@+id/npPrepTime"
                         android:layout_width="wrap_content"
-                        android:layout_height="140dp"
-                        android:layout_marginTop="25dp" />
+                        android:layout_height="match_parent" />
                 </androidx.coordinatorlayout.widget.CoordinatorLayout>
 
                 <androidx.coordinatorlayout.widget.CoordinatorLayout
                     android:layout_width="wrap_content"
-                    android:layout_height="180dp"
+                    android:layout_height="105dp"
                     android:layout_gravity="end">
 
                     <TextView
@@ -184,22 +179,20 @@
 
                     <NumberPicker
                         android:id="@+id/npServings"
-                        android:layout_marginTop="25dp"
                         android:layout_width="wrap_content"
-                        android:layout_height="140dp" />
+                        android:layout_height="match_parent" />
                 </androidx.coordinatorlayout.widget.CoordinatorLayout>
             </androidx.coordinatorlayout.widget.CoordinatorLayout>
         </RelativeLayout>
 
         <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="180dp"
-            android:layout_marginTop="25dp"
+            android:layout_height="match_parent"
             android:orientation="horizontal">
 
             <androidx.coordinatorlayout.widget.CoordinatorLayout
                 android:layout_width="wrap_content"
-                android:layout_height="180dp"
+                android:layout_height="120dp"
                 android:layout_alignParentLeft="true"
                 android:layout_alignParentTop="true"
                 android:layout_alignParentRight="true"
@@ -213,13 +206,12 @@
 
                 <NumberPicker
                     android:id="@+id/npProtein"
-                    android:layout_marginTop="25dp"
                     android:layout_width="wrap_content"
-                    android:layout_height="140dp" />
+                    android:layout_height="match_parent" />
 
                 <androidx.coordinatorlayout.widget.CoordinatorLayout
                     android:layout_width="wrap_content"
-                    android:layout_height="180dp"
+                    android:layout_height="105dp"
                     android:layout_gravity="center_horizontal">
 
                     <TextView
@@ -231,14 +223,13 @@
 
                     <NumberPicker
                         android:id="@+id/npFat"
-                        android:layout_marginTop="25dp"
                         android:layout_width="wrap_content"
-                        android:layout_height="140dp" />
+                        android:layout_height="match_parent" />
                 </androidx.coordinatorlayout.widget.CoordinatorLayout>
 
                 <androidx.coordinatorlayout.widget.CoordinatorLayout
                     android:layout_width="wrap_content"
-                    android:layout_height="180dp"
+                    android:layout_height="105dp"
                     android:layout_gravity="end">
 
                     <TextView
@@ -250,9 +241,8 @@
 
                     <NumberPicker
                         android:id="@+id/npCarbs"
-                        android:layout_marginTop="25dp"
                         android:layout_width="wrap_content"
-                        android:layout_height="140dp" />
+                        android:layout_height="match_parent" />
                 </androidx.coordinatorlayout.widget.CoordinatorLayout>
             </androidx.coordinatorlayout.widget.CoordinatorLayout>
         </RelativeLayout>
@@ -261,7 +251,7 @@
             android:id="@+id/btnSubmit"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="25dp"
+            android:layout_marginTop="1dp"
             android:text="submit" />
 
     </LinearLayout>

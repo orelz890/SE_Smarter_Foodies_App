@@ -161,7 +161,7 @@ public class recipe {
     }
 
     public void setTitle(String title) {
-        this.title = title;
+        this.title = title.replace("\"", "");
     }
 
     public String getMain_category() {
@@ -169,7 +169,7 @@ public class recipe {
     }
 
     public void setMain_category(String main_category) {
-        this.main_category = main_category;
+        this.main_category = main_category.replace("\"", "");
     }
 
     public String getCategory() {
@@ -177,7 +177,7 @@ public class recipe {
     }
 
     public void setCategory(String category) {
-        this.category = category;
+        this.category = category.replace("\"", "");
     }
 
     public List<String> getIngredients() {
