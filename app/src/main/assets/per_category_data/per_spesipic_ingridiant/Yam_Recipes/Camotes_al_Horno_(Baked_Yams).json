@@ -1,0 +1,75 @@
+{
+    "title": "Camotes al Horno (Baked Yams)",
+    "Category": "Yam Recipes",
+    "Ingredients": [
+        {
+            "1": "6 small yams"
+        },
+        {
+            "2": "6 tablespoons butter"
+        },
+        {
+            "3": "6 teaspoons honey"
+        },
+        {
+            "4": "3 teaspoons white sugar"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat oven to 250 degrees F (120 degrees C)."
+        },
+        {
+            "2": "Place yams in a large pot of lightly salted, boiling water and cook for about 10 minutes, or until tender. Drain."
+        },
+        {
+            "3": "Arrange the yams in a lightly greased 9x13 inch baking dish. Cut a slit down the middle of each one and dab 1 tablespoon of butter in each."
+        },
+        {
+            "4": "Bake in the preheated oven for 5 to 10 minutes, or until golden. Spoon 1 teaspoon honey into each yam, sprinkle each with sugar and serve."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "20 mins"
+        },
+        {
+            "Servings": "6 "
+        },
+        {
+            "Yield": "6 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "546"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "106g"
+        },
+        {
+            "Protein": "6g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3108350.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2679552.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F528238.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}

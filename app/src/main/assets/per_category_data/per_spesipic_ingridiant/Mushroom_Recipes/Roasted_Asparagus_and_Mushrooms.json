@@ -1,0 +1,78 @@
+{
+    "title": "Roasted Asparagus and Mushrooms",
+    "Category": "Mushroom Recipes",
+    "Ingredients": [
+        {
+            "1": "1 nonstick cooking spray"
+        },
+        {
+            "2": "1 bunch fresh asparagus, trimmed"
+        },
+        {
+            "3": "0.5 pound fresh mushrooms, quartered"
+        },
+        {
+            "4": "2 teaspoons olive oil"
+        },
+        {
+            "5": "2 sprigs fresh rosemary, minced"
+        },
+        {
+            "6": "1 kosher salt and freshly ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 450 degrees F (230 degrees C). Lightly grease a baking tray with nonstick spray."
+        },
+        {
+            "2": "Place asparagus and mushrooms in a bowl. Drizzle with olive oil, then season with rosemary, salt, and pepper; toss well. Lay vegetables on the prepared tray in an even layer."
+        },
+        {
+            "3": "Roast in the preheated oven until asparagus is tender, about 15 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "25 mins"
+        },
+        {
+            "Servings": "6 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "38"
+        },
+        {
+            "Fat": "2g"
+        },
+        {
+            "Carbs": "4g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9101131.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8634983.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7970695.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7924196.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}

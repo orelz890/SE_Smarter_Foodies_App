@@ -1,0 +1,96 @@
+{
+    "title": "Avocado Stuffed Yams",
+    "Category": "Yam Recipes",
+    "Ingredients": [
+        {
+            "1": "4 (8 ounce) yams"
+        },
+        {
+            "2": "1 medium red bell pepper, seeded and diced"
+        },
+        {
+            "3": "2  avocados - peeled, pitted, and mashed"
+        },
+        {
+            "4": "0.25 cup chopped fresh cilantro"
+        },
+        {
+            "5": "0.25 cup olive oil"
+        },
+        {
+            "6": "2  green onions, sliced"
+        },
+        {
+            "7": "0.5 teaspoon ground cumin"
+        },
+        {
+            "8": "3 tablespoons lime juice"
+        },
+        {
+            "9": "1 salt and ground black pepper to taste"
+        },
+        {
+            "10": "1 cup shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Place yams on a baking sheet."
+        },
+        {
+            "2": "Bake yams for 40 minutes, or until tender, turning occasionally. Set aside."
+        },
+        {
+            "3": "In a medium bowl, mix together the red pepper, avocado, cilantro, olive oil, green onions, cumin and lime juice."
+        },
+        {
+            "4": "Cut yams in half lengthwise, and fluff the centers with a fork. Top with the avocado stuffing. Season with salt and pepper, and top with shredded Cheddar cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "20 mins"
+        },
+        {
+            "Cook Time": "40 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "4 "
+        },
+        {
+            "Yield": "4 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "703"
+        },
+        {
+            "Fat": "40g"
+        },
+        {
+            "Carbs": "76g"
+        },
+        {
+            "Protein": "15g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F826492.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F474864.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F253557.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F130754.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}

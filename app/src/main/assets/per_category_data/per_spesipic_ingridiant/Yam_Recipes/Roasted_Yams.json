@@ -1,0 +1,72 @@
+{
+    "title": "Roasted Yams",
+    "Category": "Yam Recipes",
+    "Ingredients": [
+        {
+            "1": "1 large yam, peeled and cut into 1/4 inch thick slices"
+        },
+        {
+            "2": "1 kosher salt and ground black pepper to taste"
+        },
+        {
+            "3": "2 tablespoons olive oil"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet or shallow baking dish with aluminum foil."
+        },
+        {
+            "2": "Arrange yam slices in the prepared pan so they are overlapping slightly. Season with salt and pepper and then drizzle olive oil over them as evenly as possible."
+        },
+        {
+            "3": "Bake in the preheated oven until tender and yam slices have begun to wrinkle around the edges, about 30 minutes."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "388"
+        },
+        {
+            "Fat": "14g"
+        },
+        {
+            "Carbs": "63g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9160126.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7770694.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7419902.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7391966.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/9y5Q_iYwQdtS0eKJHdt-mVET92M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/387717-roasted-yams-TTV78-1x1-1-cbcdcda18b9041f9bb852489b2c60fb6.jpg"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}

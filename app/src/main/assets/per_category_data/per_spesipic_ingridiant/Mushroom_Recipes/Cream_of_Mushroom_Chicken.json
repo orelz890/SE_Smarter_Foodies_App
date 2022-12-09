@@ -1,0 +1,81 @@
+{
+    "title": "Cream of Mushroom Chicken",
+    "Category": "Mushroom Recipes",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons butter"
+        },
+        {
+            "2": "1 (12 fluid ounce) can evaporated milk"
+        },
+        {
+            "3": "1 (10.5 ounce) can condensed cream of mushroom soup"
+        },
+        {
+            "4": "0.25 cups water, or as needed"
+        },
+        {
+            "5": "1  onion, chopped"
+        },
+        {
+            "6": "1 salt and pepper to taste"
+        },
+        {
+            "7": "2 pounds skinless, boneless chicken breast halves, cubed"
+        },
+        {
+            "8": "1 (6 ounce) can sliced mushrooms, drained"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a large saucepan over medium heat; stir in evaporated milk, condensed soup, and water. Add onion, salt, and pepper; bring to a boil. Stir in chicken and simmer until chicken is cooked through, about 15 minutes."
+        },
+        {
+            "2": "Stir in sliced mushrooms and simmer, stirring often, for 5 minutes more."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "30 mins"
+        },
+        {
+            "Total Time": "40 mins"
+        },
+        {
+            "Servings": "8 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "251"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "8g"
+        },
+        {
+            "Protein": "31g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F546a769eb68683ef542f01b93d4ccd6a%2F166424024716642402277623220693533023118673.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F546a769eb68683ef542f01b93d4ccd6a%2F16592998066CCC6F7B-26A2-42CC-A6C1-09F17D0DE071.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9410382.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8653147.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}

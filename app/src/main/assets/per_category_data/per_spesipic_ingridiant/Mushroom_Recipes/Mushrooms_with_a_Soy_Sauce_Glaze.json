@@ -1,0 +1,72 @@
+{
+    "title": "Mushrooms with a Soy Sauce Glaze",
+    "Category": "Mushroom Recipes",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons butter"
+        },
+        {
+            "2": "1 (8 ounce) package sliced white mushrooms"
+        },
+        {
+            "3": "2 cloves garlic, minced"
+        },
+        {
+            "4": "2 teaspoons soy sauce"
+        },
+        {
+            "5": "1 ground black pepper to taste"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a skillet over medium heat. Add mushrooms; cook and stir until mushrooms have softened and released their liquid, about 5 minutes. Stir in garlic; continue to cook and stir for 1 minute. Pour in soy sauce; cook until liquid has evaporated, about 4 minutes. Season with pepper."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "5 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Total Time": "15 mins"
+        },
+        {
+            "Servings": "2 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "135"
+        },
+        {
+            "Fat": "12g"
+        },
+        {
+            "Carbs": "5g"
+        },
+        {
+            "Protein": "4g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9332461.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9251303.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8966429.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8958549.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/USDVWHCq_SlO3rrY_eNWCLHGyac=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/58112-Mushrooms-with-a-Soy-Sauce-Glaze-bellepepper_5548183_original-1x1-1-8d534d3743d940158dca436fc41e3630.jpg"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}

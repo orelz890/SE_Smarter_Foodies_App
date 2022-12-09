@@ -2,11 +2,13 @@ package com.example.smarter_foodies;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+import static java.util.Map.entry;
 
 import android.content.Intent;
 import android.content.res.AssetFileDescriptor;
 import android.content.res.AssetManager;
 import android.nfc.Tag;
+import android.os.Build;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.util.Log;
@@ -53,6 +55,7 @@ import android.util.Log;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.Set;
 
 public class AddRecipe extends AppCompatActivity {
     DatabaseReference mDatabase;
@@ -70,8 +73,45 @@ public class AddRecipe extends AppCompatActivity {
 
     Button btnSubmit;
 
-    String[] categoriesList = {"animals", "breakfast", "cakes"};
-    String[] subCategoriesList = {"aaa", "bbb", "ccc"};
+//    String[] categoriesList = {"animals", "breakfast", "cakes", "carbs",
+//            "cooking_technique_&_channels", "dairy", "dinner", "dips", "drinks",
+//            "easy_recipies_&_leftovers", "fish_&_sushi", "flour", "gifts_&_comfort_food",
+//            "healty_&_diets", "holidays_and_traditional_food", "lunch", "main_dishes",
+//            "meat_&_chicken", "per_spesipic_ingridiant", "pies", "pizza", "pork",
+//            "preserved", "salads", "sea_fruit", "side_dishes", "snacks_&_sweets", "soups"};
+    Map<String, String[]> subCategoriesList = new HashMap<String, String[]>(){{
+        put("", new String[]{});
+        put("animals", new String[]{"Pet_Food"});
+        put("breakfast", new String[]{"Breakfast_and_Brunch", "Breakfast_Burritos", "Breakfast_Casseroles", "Breakfast_Potatoes", "Breakfast_Strata", "Deviled_Eggs", "Eggplant_Parmesan", "Frittata", "Omelets"});
+        put("cakes", new String[]{"Angel_Food_Cake", "Cake_Recipes", "Carrot_Cake", "Cheesecake", "Chocolate_Cake", "Coffee_Cake", "Crab_Cakes", "Cupcakes", "Fruitcake", "Linguine", "Mashed_Potatoes", "Pound_Cake", "Shortcake", "Spice_Cake", "Upside-Down_Cake"});
+        put("carbs", new String[]{"Calzones", "Dumplings", "Egg_Rolls", "Empanada_Recipes", "Fried_Rice", "Fries", "Gnocchi", "Homemade_Pasta", "Noodle_Casserole", "Pancit", "Pasta_Carbonara", "Pasta_Primavera", "Potato_Pancakes", "Quesadillas", "Quiche", "Quinoa", "Ravioli", "Rice_Casserole", "Rice_Pilaf", "Risotto", "Samosa_Recipes", "Shepherd's_Pie", "Spaghetti", "Spanish_Rice", "Tater_Tots®_Casserole", "Tortellini", "Tortillas", "Tostadas", "Tuna_Casserole", "Ziti"});
+        put("cooking_technique_&_channels", new String[]{"Air_Fryer_Recipes", "Allrecipes_Allstars", "Cooking_for_a_Crowd", "Cooking_for_One", "Cooking_for_Two", "Copycat_Recipes", "Food_Wishes®", "Instant_Pot®_Recipes", "Passover_Recipes", "Potluck_Recipes", "Slow_Cooker_Recipes", "Sous_Vide_Recipes", "Stir-Fries", "TVP_Recipes", "Whole30_Recipes"});
+        put("dairy", new String[]{"Macaroni_and_Cheese", "Chowder"});
+        put("dinner", new String[]{"Dinner_Recipes"});
+        put("dips", new String[]{"Artichoke_Dip", "Buffalo_Chicken_Dip", "Cranberry_Sauce", "Gravy", "Guacamole", "Pesto_Sauce", "Relishes", "Salsa", "Spinach_Dips "});
+        put("drinks", new String[]{"Applesauce", "Bloody_Marys", "Cocktails", "Eggnog", "Jell-O®_Shots", "Lemonade", "Margaritas", "Mojitos", "Punch", "Sangria", "Smoothies"});
+        put("easy_recipies_&_leftovers", new String[]{"Everyday_Leftovers", "Quick_and_Easy_Recipes"});
+        put("fish_&_sushi", new String[]{"Ceviche", "Salmon_Recipes", "Sushi"});
+        put("flour", new String[]{"Bagels", "Banana_Bread", "Bread_Recipes", "Bruschetta", "Cornbread", "Crackers", "Flat_Bread", "French_Toast", "Garlic_Bread", "Hushpuppies", "Monkey_Bread", "Panini", "Pierogi", "Pretzels", "Pumpkin_Bread", "Sandwiches", "Scones", "Wheat_Bread", "Yeast_Bread", "Zucchini_Bread"});
+        put("gifts_&_comfort_food", new String[]{"Comfort_Food", "Food_Gifts"});
+        put("healty_&_diets", new String[]{"Baked_Beans", "Broccoli_Salad", "Chicken_Salad", "Diabetic_Recipes", "Egg_Salad", "Fruit_Salads", "Gluten-Free_Recipes", "Granola", "Green_Salads", "Healthy_Recipes", "High-Fiber_Recipes", "Keto_Diet", "Low-Calorie_Recipes", "Low-Cholesterol_Recipes", "Low-Fat_Recipes", "Low-Sodium_Recipes", "Low_Glycemic_Impact_Recipes", "Mediterranean_Diet", "Oatmeal", "Overnight_Oats", "Paleo_Diet", "Potato_Salad", "Raw_Food_Diet", "Refried_Beans", "Salad_Dressings", "Salad_Recipes", "Seitan_Recipes", "Sugar-Free_Recipes", "Tempeh_Recipes", "Tofu_Recipes", "Vegan_Recipes", "Vegetable_Recipes", "Vegetable_Side_Dishes", "Vegetarian_Recipes"});
+        put("holidays_and_traditional_food", new String[]{"Falafel", "Paella", "Tacos", "Tamales"});
+        put("lunch", new String[]{"Lunch_Recipes"});
+        put("main_dishes", new String[]{"Casseroles", "Fajitas", "Lasagna", "Lettuce_Wraps", "Main_Dishes", "Manicotti", "Quiche", "Stew"});
+        put("meat_&_chicken", new String[]{"Bulgogi", "Burgers", "Chili", "Gyros", "Jerky", "Kalbi", "Ribs", "Roasts"});
+        put("per_spesipic_ingridiant", new String[]{"Mushroom_Recipes","Pickles","Stuffed_Bell_Peppers","Stuffed_Mushrooms","Winter_Squash_Recipes","Yam_Recipes"});
+        put("pies", new String[]{"Apple_Pie", "Blueberry_Pie", "Cherry_Pie", "Chess_Pie", "Key_Lime_Pie", "Mincemeat_Pie", "Pecan_Pie", "Pie_Crusts", "Pie_Recipes", "Pot_Pie", "Pumpkin_Pie", "Rhubarb_Pie", "Shepherd's_Pie", "Slab_Pie", "Strawberry_Pie", "Sweet_Potato_Pie", "Whoopie_Pies"});
+        put("pizza", new String[]{"Pizza", "Pizza_Dough_and_Crusts"});
+        put("pork", new String[]{"Ground_Pork", "Pork_Chops", "Pork_Recipes", "Pork_Ribs", "Pork_Shoulder", "Pork_Tenderloin", "Pulled_Pork"});
+        put("preserved", new String[]{"Canning_and_Preserving"});
+        put("salads", new String[]{"Broccoli_Salad", "Chicken_Salad", "Coleslaw", "Egg_Salad", "Fruit_Salads", "Green_Salads", "Jell-O®_Salad", "Pasta_Salad", "Potato_Salad", "Salad_Dressings", "Salad_Recipes", "Taco_Salad", "Tomato_Salad", "Tuna_Salad", "Waldorf_Salad"});
+        put("sea_fruit", new String[]{"Etouffee", "Jambalaya", "Shrimp_and_Grits", "Shrimp_Scampi"});
+        put("side_dishes", new String[]{"Grits", "Hummus", "Jalapeno_Poppers", "Meal_Prep", "Pate", "Polenta", "Side_Dishes", "Tapas_Recipes"});
+        put("snacks_&_sweets", new String[]{"Appetizers_and_Snacks", "Bar_Cookies", "Biscotti", "Biscuit", "Blintz", "Blondies", "Brownies", "Cheese_Balls", "Cheese_Fondue", "Chocolate_Chip_Cookies", "Chocolate_Fudge", "Christmas_Cookies", "Cinnamon_Rolls", "Cobbler", "Cookies", "Creme_Brulee", "Crisps_and_Crumbles", "Danishes", "Desserts", "Divinity", "Doughnuts", "Drop_Cookies", "Energy_Balls", "English_Muffins", "Flan", "Fondant", "Frosting_and_Icing_Recipes", "Fudge", "Gingerbread_Cookies", "Gingersnaps", "Ice_Cream", "Jams_and_Jellies", "Kolache", "Lemon_Bars", "Macaroons", "Mousse", "Muffins", "Nachos", "Oatmeal_Cookies", "Pancakes", "Pasties", "Pastries", "Pavlova", "Peanut_Butter_Cookies", "Popcorn", "Popovers_and_Yorkshire_Pudding", "Rice_Pudding", "Road_Trip_Snacks", "Sandwich_Cookies", "Seder_Recipes", "Shortbread_Cookies", "Snickerdoodles", "Spritz_Cookies", "Strawberry_Shortcake", "Sugar_Cookies", "Thumbprint_Cookies", "Tiramisu", "Toffee", "Tortes", "Truffles", "Waffles"});
+        put("soups", new String[]{"Borscht", "Butternut_Squash_Soup", "Chicken_Noodle_Soup", "French_Onion_Soup", "Gazpacho", "Gumbo", "Lentil_Soup", "Minestrone_Soup", "Mushroom_Soup", "Potato_Soup", "Soup", "Split_Pea_Soup"});}};
+
+
+    String[] categoriesList;
     String category = "";
     String subCategory = "";
     AutoCompleteTextView autoCompleteCategory;
@@ -79,21 +119,25 @@ public class AddRecipe extends AppCompatActivity {
     AutoCompleteTextView autoCompleteSubCategory;
     ArrayAdapter<String> adapterSubCategories;
 
+    private void change_adapter(){
+        autoCompleteSubCategory = findViewById(R.id.auto_complete_sub_category);
+        adapterSubCategories = new ArrayAdapter<String>(this, R.layout.list_items, subCategoriesList.get(category));
+        autoCompleteSubCategory.setAdapter(adapterSubCategories);
+    }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_recipe);
         mDatabase = FirebaseDatabase.getInstance().getReference();
-//        ValueEventListener recipeListener = new ValueEventListener() {
-//            @Override
-//            public void onDataChange(@NonNull DataSnapshot snapshot) {
-//                recipe r = snapshot.getValue(recipe.class);
-//            }
-//            @Override
-//            public void onCancelled(@NonNull DatabaseError error) {
-//                Log.w("Activity", "Cancelled", error.toException());
-//            }
-//        };
+        Set<String> keys = subCategoriesList.keySet();
+        categoriesList = new String[keys.size() -1];
+        int i = 0;
+        for (String s: keys) {
+            if (!s.isEmpty()) {
+                categoriesList[i++] = s;
+            }
+        }
+
         //    ========================= Get data from user =============================================
         etTitle = findViewById(R.id.etTitle);
         etIngredients = findViewById(R.id.etIngredients);
@@ -161,21 +205,22 @@ public class AddRecipe extends AppCompatActivity {
 
         btnSubmit = findViewById(R.id.btnSubmit);
         btnSubmit.setOnClickListener(view -> {
-//            submitRecipe();
+            submitRecipe();
 //            deleteAllInitData();
 //            init_database_with_existing_scraped_data();
 //            deleteRecipe("2_Ingredient_Pineapple_Angel_Food_Cake");
-            System.out.println("=============================");
+//            System.out.println("=============================");
 //            System.out.println(getDishFromFilterTree("animals", "Pet_Food", "Bacon-Flavored Dog Biscuits"));
-            List<recipe> recipes = getDishFromSearchTree("Air Fryer Mini Breakfast Burritos");
-            System.out.println(recipes.size());
-            for (recipe r : recipes){
-                System.out.println(r);
-            }
-            System.out.println("============================");
+//            List<recipe> recipes = getDishFromSearchTree("Air Fryer Mini Breakfast Burritos");
+//            System.out.println(recipes.size());
+//            for (recipe r : recipes) {
+//                System.out.println(r);
+//            }
+//            System.out.println("============================");
         });
 
         //    ========================= AutoCompleteTextView =================================
+
         autoCompleteCategory = findViewById(R.id.auto_complete_category);
         adapterCategories = new ArrayAdapter<String>(this, R.layout.list_items, categoriesList);
         autoCompleteCategory.setAdapter(adapterCategories);
@@ -184,10 +229,11 @@ public class AddRecipe extends AppCompatActivity {
             public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
                 category = parent.getItemAtPosition(pos).toString();
                 Toast.makeText(getApplicationContext(), "Item: " + category, Toast.LENGTH_SHORT).show();
+                change_adapter();
             }
         });
         autoCompleteSubCategory = findViewById(R.id.auto_complete_sub_category);
-        adapterSubCategories = new ArrayAdapter<String>(this, R.layout.list_items, subCategoriesList);
+        adapterSubCategories = new ArrayAdapter<String>(this, R.layout.list_items, subCategoriesList.get(category));
         autoCompleteSubCategory.setAdapter(adapterSubCategories);
         autoCompleteSubCategory.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
@@ -253,13 +299,15 @@ public class AddRecipe extends AppCompatActivity {
             return;
         } else {
             for (String s : ingredients_list) {
-                String[] temp = s.trim().split(" ");
-                try {
-                    Double.parseDouble(temp[0]);
-                } catch (Exception e) {
-                    etIngredients.setError("Every Ingredient must begin with the quantity..");
-                    etIngredients.requestFocus();
-                    return;
+                if (!s.equals("\n")) {
+                    String[] temp = s.trim().split(" ");
+                    try {
+                        Double.parseDouble(temp[0]);
+                    } catch (Exception e) {
+                        etIngredients.setError("Every Ingredient must begin with the quantity..");
+                        etIngredients.requestFocus();
+                        return;
+                    }
                 }
             }
         }
@@ -283,12 +331,14 @@ public class AddRecipe extends AppCompatActivity {
                     Toast.LENGTH_SHORT).show();
         } else {
             List<String> directionsArray = new ArrayList<>(Arrays.asList(directions_list));
-            dish = new recipe(title, category, subCategory, new ArrayList<>(), directionsArray,
+            recipe r = new recipe(title, category, subCategory, new ArrayList<>(), directionsArray,
                     npPrepTime.getValue() + "", npCookingTime.getValue() + "", npServings.getValue() + "",
                     npProtein.getValue() + "", "0", npFat.getValue() + "", npCarbs.getValue() + "", 0,
                     new ArrayList<>(), 0, new HashMap<>(), "");
-            dish.setIngredientsFromList(ingredientsArray);
-            Toast.makeText(getApplicationContext(), dish.toString(), Toast.LENGTH_SHORT).show();
+            r.setIngredientsFromList(ingredientsArray);
+            Toast.makeText(getApplicationContext(), r.toString(), Toast.LENGTH_SHORT).show();
+//            loadDishToFilterTree(r);
+//            loadDishToSearchTree(r);
         }
     }
 
@@ -368,7 +418,7 @@ public class AddRecipe extends AppCompatActivity {
                     if (snapshot.exists()) {
                         recipe_list.clear();
                         Iterable<DataSnapshot> childrens = snapshot.getChildren();
-                        for (DataSnapshot curr_child: childrens)
+                        for (DataSnapshot curr_child : childrens)
                             try {
                                 recipe current_recipe = curr_child.getValue(recipe.class);
                                 System.out.println(">>>>>>>" + current_recipe + "<<<<<<<");
@@ -380,6 +430,7 @@ public class AddRecipe extends AppCompatActivity {
                             }
                     }
                 }
+
                 @Override
                 public void onCancelled(@NonNull DatabaseError error) {
                     Log.d("TAG", error.getMessage());
@@ -398,34 +449,34 @@ public class AddRecipe extends AppCompatActivity {
                     .child("filter");
             mDatabaseFilterGet.child(mainCategory).child(subCategory)
                     .addValueEventListener(new ValueEventListener() {
-                @Override
-                public void onDataChange(@NonNull DataSnapshot snapshot) {
-                    if (snapshot.exists()) {
-                        Iterable<DataSnapshot> childrens = snapshot.getChildren();
-                        for (DataSnapshot curr_child: childrens)
-                            try {
+                        @Override
+                        public void onDataChange(@NonNull DataSnapshot snapshot) {
+                            if (snapshot.exists()) {
+                                Iterable<DataSnapshot> childrens = snapshot.getChildren();
+                                for (DataSnapshot curr_child : childrens)
+                                    try {
 //                                System.out.println("im here!!");
 //                                System.out.println(curr_child);
-                                recipe curr_recipe = curr_child.getValue(recipe.class);
-                                System.out.println(">>>>>>>>>" + curr_recipe + "<<<<<<<<<<");
-                                if (curr_recipe != null && curr_recipe.getTitle().equals(name)) {
-                                    recipe_list.add(curr_recipe);
-                                }
-                            } catch (Exception e) {
-                                e.printStackTrace();
+                                        recipe curr_recipe = curr_child.getValue(recipe.class);
+                                        System.out.println(">>>>>>>>>" + curr_recipe + "<<<<<<<<<<");
+                                        if (curr_recipe != null && curr_recipe.getTitle().equals(name)) {
+                                            recipe_list.add(curr_recipe);
+                                        }
+                                    } catch (Exception e) {
+                                        e.printStackTrace();
+                                    }
+                            } else {
+                                System.out.println("Snapshot is empty");
                             }
-                    }
-                    else{
-                        System.out.println("Snapshot is empty");
-                    }
-                }
-                @Override
-                public void onCancelled(@NonNull DatabaseError error) {
-                    Log.d("TAG", error.getMessage());
-                }
-            });
+                        }
+
+                        @Override
+                        public void onCancelled(@NonNull DatabaseError error) {
+                            Log.d("TAG", error.getMessage());
+                        }
+                    });
         }
-        if (recipe_list.isEmpty()){
+        if (recipe_list.isEmpty()) {
             return null;
         }
         return recipe_list.get(0);
@@ -453,6 +504,7 @@ public class AddRecipe extends AppCompatActivity {
                                     }
                                 }
                             }
+
                             @Override
                             public void onCancelled(@NonNull DatabaseError error) {
                                 Log.e("TAG", "onCancelled", error.toException());

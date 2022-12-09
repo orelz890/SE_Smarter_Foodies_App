@@ -1,0 +1,93 @@
+{
+    "title": "Mushroom Soup Without Cream",
+    "Category": "Mushroom Recipes",
+    "Ingredients": [
+        {
+            "1": "2 tablespoons butter"
+        },
+        {
+            "2": "1 cup peeled and sliced carrots"
+        },
+        {
+            "3": "1 cup sliced onions"
+        },
+        {
+            "4": "1 cup sliced leeks (Optional)"
+        },
+        {
+            "5": "0.5 cup sliced celery"
+        },
+        {
+            "6": "2 pounds sliced fresh brown or white mushrooms"
+        },
+        {
+            "7": "1 teaspoon fresh thyme leaves"
+        },
+        {
+            "8": "6 cups chicken stock"
+        },
+        {
+            "9": "1 salt and pepper to taste"
+        },
+        {
+            "10": "0.5 cup chopped green onion"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Melt butter in a stock pot over medium heat. Add carrots, onions, leeks, and celery. Cook and stir until vegetables are tender but not browned, about 10 minutes."
+        },
+        {
+            "2": "Stir in mushrooms and thyme; cook until mushrooms are soft, about 5 minutes. Pour chicken stock into the pot; season with salt and pepper. Cover and simmer over low heat for 30 minutes."
+        },
+        {
+            "3": "Ladle into bowls; serve with green onions sprinkled on top."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "45 mins"
+        },
+        {
+            "Total Time": " 1 hrs"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 cups"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "81"
+        },
+        {
+            "Fat": "4g"
+        },
+        {
+            "Carbs": "10g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8949522.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8711297.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8564169.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7732781.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Grilled Portobello Mushrooms",
+    "Category": "Mushroom Recipes",
+    "Ingredients": [
+        {
+            "1": "3 large portobello mushrooms"
+        },
+        {
+            "2": "0.25 cup canola oil"
+        },
+        {
+            "3": "0.25 cup balsamic vinegar"
+        },
+        {
+            "4": "3 tablespoons chopped onion"
+        },
+        {
+            "5": "4 cloves garlic, minced"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Clean mushrooms; remove stems, reserving them for another use. Place mushroom caps gill-side up in a shallow dish."
+        },
+        {
+            "2": "Combine oil, balsamic vinegar, onion, and garlic in a small bowl. Pour mixture evenly over mushroom caps; let marinate at room temperature for 1 hour."
+        },
+        {
+            "3": "Preheat the grill to medium-high heat; grease the grate."
+        },
+        {
+            "4": "Grill over the hot grill until caramelized and tender, about 5 minutes per side; serve warm."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "10 mins"
+        },
+        {
+            "Cook Time": "10 mins"
+        },
+        {
+            "Additional Time": " 1 hrs"
+        },
+        {
+            "Total Time": " 1 hrs 20 mins"
+        },
+        {
+            "Servings": "3 "
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "217"
+        },
+        {
+            "Fat": "19g"
+        },
+        {
+            "Carbs": "11g"
+        },
+        {
+            "Protein": "3g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc05dee210546cb4c6facf36df0308a24%2F1659389654Portabella%2520Grilled%2520Mushroom.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8453880.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fed1ccfa81068355468f959a2721bd762%2F6818846.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1849af0b3a4b047a8538f9a9f9d6d4a6%2F6726997.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img5": "https://www.allrecipes.com/thmb/7MvCUSSKpylaBDdYM-1K8FZRvMw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6726997-grilled-portobello-mushrooms-Chef-Mo-1x1-1-83b0246a7906485c98bde4be3f0700ab.jpg"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}

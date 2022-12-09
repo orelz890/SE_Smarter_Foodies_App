@@ -1,0 +1,90 @@
+{
+    "title": "Bacon and Cheddar Stuffed Mushrooms",
+    "Category": "Stuffed Mushrooms",
+    "Ingredients": [
+        {
+            "1": "3 slices bacon"
+        },
+        {
+            "2": "8  crimini mushrooms"
+        },
+        {
+            "3": "1 tablespoon butter"
+        },
+        {
+            "4": "1 tablespoon chopped onion"
+        },
+        {
+            "5": "0.75 cup shredded Cheddar cheese"
+        }
+    ],
+    "Directions": [
+        {
+            "1": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, dice and set aside."
+        },
+        {
+            "2": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "3": "Remove mushroom stems. Set aside caps. Chop the stems."
+        },
+        {
+            "4": "In a large saucepan over medium heat, melt the butter. Slowly cook and stir the chopped stems and onion until the onion is soft. Remove from heat."
+        },
+        {
+            "5": "In a medium bowl, stir together the mushroom stem mixture, bacon and 1/2 cup Cheddar. Mix well and scoop the mixture into the mushroom caps."
+        },
+        {
+            "6": "Bake in the preheated oven 15 minutes, or until the cheese has melted."
+        },
+        {
+            "7": "Remove the mushrooms from the oven, and sprinkle with the remaining cheese."
+        }
+    ],
+    "Details": [
+        {
+            "Prep Time": "15 mins"
+        },
+        {
+            "Cook Time": "15 mins"
+        },
+        {
+            "Total Time": "30 mins"
+        },
+        {
+            "Servings": "8 "
+        },
+        {
+            "Yield": "8 servings"
+        }
+    ],
+    "Nutrition Facts": [
+        {
+            "Calories": "110"
+        },
+        {
+            "Fat": "10g"
+        },
+        {
+            "Carbs": "1g"
+        },
+        {
+            "Protein": "5g"
+        }
+    ],
+    "Images": [
+        {
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9188241.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9086916.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8183057.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        },
+        {
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7984672.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+        }
+    ],
+    "main category": "per_spesipic_ingridiant"
+}
