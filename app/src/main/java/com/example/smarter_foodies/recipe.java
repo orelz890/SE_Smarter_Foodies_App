@@ -71,9 +71,9 @@ public class recipe {
 
     public recipe(JsonObject data, String copy_rights) {
         init();
-        this.setTitle(data.get("title").toString());
-        this.setMain_category(data.get("main category").toString());
-        this.setCategory(data.get("Category").toString());
+        this.setTitle(data.get("title").toString().replace("\"", ""));
+        this.setMain_category(data.get("main category").toString().replace("\"", ""));
+        this.setCategory(data.get("Category").toString().replace("\"", ""));
         this.setIngredientsFromList(convert_json_array_to_str_list(data.get("Ingredients").getAsJsonArray()));
         this.setDirections(convert_json_array_to_str_list(data.get("Directions").getAsJsonArray()));
         this.setImages(convert_json_array_to_str_list(data.get("Images").getAsJsonArray()));

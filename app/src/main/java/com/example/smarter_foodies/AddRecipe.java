@@ -2,6 +2,7 @@ package com.example.smarter_foodies;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+
 import static java.util.Map.entry;
 
 import android.content.Intent;
@@ -73,13 +74,7 @@ public class AddRecipe extends AppCompatActivity {
 
     Button btnSubmit;
 
-//    String[] categoriesList = {"animals", "breakfast", "cakes", "carbs",
-//            "cooking_technique_&_channels", "dairy", "dinner", "dips", "drinks",
-//            "easy_recipies_&_leftovers", "fish_&_sushi", "flour", "gifts_&_comfort_food",
-//            "healty_&_diets", "holidays_and_traditional_food", "lunch", "main_dishes",
-//            "meat_&_chicken", "per_spesipic_ingridiant", "pies", "pizza", "pork",
-//            "preserved", "salads", "sea_fruit", "side_dishes", "snacks_&_sweets", "soups"};
-    Map<String, String[]> subCategoriesList = new HashMap<String, String[]>(){{
+    Map<String, String[]> subCategoriesList = new HashMap<String, String[]>() {{
         put("", new String[]{});
         put("animals", new String[]{"Pet_Food"});
         put("breakfast", new String[]{"Breakfast_and_Brunch", "Breakfast_Burritos", "Breakfast_Casseroles", "Breakfast_Potatoes", "Breakfast_Strata", "Deviled_Eggs", "Eggplant_Parmesan", "Frittata", "Omelets"});
@@ -99,7 +94,7 @@ public class AddRecipe extends AppCompatActivity {
         put("lunch", new String[]{"Lunch_Recipes"});
         put("main_dishes", new String[]{"Casseroles", "Fajitas", "Lasagna", "Lettuce_Wraps", "Main_Dishes", "Manicotti", "Quiche", "Stew"});
         put("meat_&_chicken", new String[]{"Bulgogi", "Burgers", "Chili", "Gyros", "Jerky", "Kalbi", "Ribs", "Roasts"});
-        put("per_spesipic_ingridiant", new String[]{"Mushroom_Recipes","Pickles","Stuffed_Bell_Peppers","Stuffed_Mushrooms","Winter_Squash_Recipes","Yam_Recipes"});
+        put("per_spesipic_ingridiant", new String[]{"Mushroom_Recipes", "Pickles", "Stuffed_Bell_Peppers", "Stuffed_Mushrooms", "Winter_Squash_Recipes", "Yam_Recipes"});
         put("pies", new String[]{"Apple_Pie", "Blueberry_Pie", "Cherry_Pie", "Chess_Pie", "Key_Lime_Pie", "Mincemeat_Pie", "Pecan_Pie", "Pie_Crusts", "Pie_Recipes", "Pot_Pie", "Pumpkin_Pie", "Rhubarb_Pie", "Shepherd's_Pie", "Slab_Pie", "Strawberry_Pie", "Sweet_Potato_Pie", "Whoopie_Pies"});
         put("pizza", new String[]{"Pizza", "Pizza_Dough_and_Crusts"});
         put("pork", new String[]{"Ground_Pork", "Pork_Chops", "Pork_Recipes", "Pork_Ribs", "Pork_Shoulder", "Pork_Tenderloin", "Pulled_Pork"});
@@ -108,31 +103,36 @@ public class AddRecipe extends AppCompatActivity {
         put("sea_fruit", new String[]{"Etouffee", "Jambalaya", "Shrimp_and_Grits", "Shrimp_Scampi"});
         put("side_dishes", new String[]{"Grits", "Hummus", "Jalapeno_Poppers", "Meal_Prep", "Pate", "Polenta", "Side_Dishes", "Tapas_Recipes"});
         put("snacks_&_sweets", new String[]{"Appetizers_and_Snacks", "Bar_Cookies", "Biscotti", "Biscuit", "Blintz", "Blondies", "Brownies", "Cheese_Balls", "Cheese_Fondue", "Chocolate_Chip_Cookies", "Chocolate_Fudge", "Christmas_Cookies", "Cinnamon_Rolls", "Cobbler", "Cookies", "Creme_Brulee", "Crisps_and_Crumbles", "Danishes", "Desserts", "Divinity", "Doughnuts", "Drop_Cookies", "Energy_Balls", "English_Muffins", "Flan", "Fondant", "Frosting_and_Icing_Recipes", "Fudge", "Gingerbread_Cookies", "Gingersnaps", "Ice_Cream", "Jams_and_Jellies", "Kolache", "Lemon_Bars", "Macaroons", "Mousse", "Muffins", "Nachos", "Oatmeal_Cookies", "Pancakes", "Pasties", "Pastries", "Pavlova", "Peanut_Butter_Cookies", "Popcorn", "Popovers_and_Yorkshire_Pudding", "Rice_Pudding", "Road_Trip_Snacks", "Sandwich_Cookies", "Seder_Recipes", "Shortbread_Cookies", "Snickerdoodles", "Spritz_Cookies", "Strawberry_Shortcake", "Sugar_Cookies", "Thumbprint_Cookies", "Tiramisu", "Toffee", "Tortes", "Truffles", "Waffles"});
-        put("soups", new String[]{"Borscht", "Butternut_Squash_Soup", "Chicken_Noodle_Soup", "French_Onion_Soup", "Gazpacho", "Gumbo", "Lentil_Soup", "Minestrone_Soup", "Mushroom_Soup", "Potato_Soup", "Soup", "Split_Pea_Soup"});}};
+        put("soups", new String[]{"Borscht", "Butternut_Squash_Soup", "Chicken_Noodle_Soup", "French_Onion_Soup", "Gazpacho", "Gumbo", "Lentil_Soup", "Minestrone_Soup", "Mushroom_Soup", "Potato_Soup", "Soup", "Split_Pea_Soup"});
+    }};
 
 
     String[] categoriesList;
     String category = "";
     String subCategory = "";
+    List<recipe> recipe_list_search = new ArrayList<>();
+    List<recipe> recipe_list_filter = new ArrayList<>();
+
     AutoCompleteTextView autoCompleteCategory;
     ArrayAdapter<String> adapterCategories;
     AutoCompleteTextView autoCompleteSubCategory;
     ArrayAdapter<String> adapterSubCategories;
 
-    private void change_adapter(){
+    private void change_adapter() {
         autoCompleteSubCategory = findViewById(R.id.auto_complete_sub_category);
         adapterSubCategories = new ArrayAdapter<String>(this, R.layout.list_items, subCategoriesList.get(category));
         autoCompleteSubCategory.setAdapter(adapterSubCategories);
     }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_recipe);
         mDatabase = FirebaseDatabase.getInstance().getReference();
         Set<String> keys = subCategoriesList.keySet();
-        categoriesList = new String[keys.size() -1];
+        categoriesList = new String[keys.size() - 1];
         int i = 0;
-        for (String s: keys) {
+        for (String s : keys) {
             if (!s.isEmpty()) {
                 categoriesList[i++] = s;
             }
@@ -205,18 +205,24 @@ public class AddRecipe extends AppCompatActivity {
 
         btnSubmit = findViewById(R.id.btnSubmit);
         btnSubmit.setOnClickListener(view -> {
-            submitRecipe();
+//            submitRecipe();
 //            deleteAllInitData();
 //            init_database_with_existing_scraped_data();
 //            deleteRecipe("2_Ingredient_Pineapple_Angel_Food_Cake");
-//            System.out.println("=============================");
-//            System.out.println(getDishFromFilterTree("animals", "Pet_Food", "Bacon-Flavored Dog Biscuits"));
+            System.out.println("=============================");
+//            System.out.println(getDishFromFilterTree("animals", "Pet_Food", "Best Friend Doggie Biscuits"));
 //            List<recipe> recipes = getDishFromSearchTree("Air Fryer Mini Breakfast Burritos");
-//            System.out.println(recipes.size());
-//            for (recipe r : recipes) {
-//                System.out.println(r);
-//            }
-//            System.out.println("============================");
+            List<recipe> recipes = getDishFromSearchTree("Best Friend Doggie Biscuits");
+            System.out.println(recipes.size());
+            for (recipe r : recipes) {
+                System.out.println(r);
+            }
+            List<recipe> recipes2 = getDishFromFilterTree("animals", "Pet_Food", "Best Friend Doggie Biscuits");
+            System.out.println(recipes2.size());
+            for (recipe r : recipes2) {
+                System.out.println(r);
+            }
+            System.out.println("============================");
         });
 
         //    ========================= AutoCompleteTextView =================================
@@ -292,6 +298,7 @@ public class AddRecipe extends AppCompatActivity {
             return;
         }
         String ingredients = etIngredients.getText().toString();
+        System.out.println(ingredients);
         String[] ingredients_list = ingredients.split("\n");
         if (TextUtils.isEmpty(ingredients)) {
             etIngredients.setError("Ingredients cannot be empty");
@@ -342,17 +349,22 @@ public class AddRecipe extends AppCompatActivity {
         }
     }
 
+    private String getCleanStringForSearch(String input_str) {
+        input_str = input_str.replace("\"", "").replace(" ", "");
+        StringBuilder new_str = new StringBuilder();
+        for (int i = 0; i < input_str.length(); i++) {
+            if (Character.isDigit(input_str.charAt(i)) || Character.isAlphabetic(input_str.charAt(i))) {
+                new_str.append(input_str.charAt(i));
+            }
+        }
+        return new_str.toString().toLowerCase(Locale.ROOT);
+
+    }
+
     private DatabaseReference getToRecipeDepth(DatabaseReference DataRef, String name) {
         DataRef = FirebaseDatabase.getInstance().getReference();
-        name = name.replace("\"", "").replace(" ", "");
         if (name.length() > 0) {
-            StringBuilder new_name = new StringBuilder();
-            for (int i = 0; i < name.length(); i++) {
-                if (Character.isDigit(name.charAt(i)) || Character.isAlphabetic(name.charAt(i))) {
-                    new_name.append(name.charAt(i));
-                }
-            }
-            new_name = new StringBuilder(new_name.toString().toLowerCase(Locale.ROOT));
+            String new_name = getCleanStringForSearch(name);
             int len = new_name.length();
             DataRef = DataRef.child("search");
             // Max tree depth is 32
@@ -371,9 +383,9 @@ public class AddRecipe extends AppCompatActivity {
 
     public void loadDishToSearchTree(recipe r) {
         if (r != null) {
+            String title = getAsCategoryString(r.getTitle());
             DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference();
-            getToRecipeDepth(mDatabaseSearch, r.getTitle()).child(r.getTitle()
-                            .replace("\"", "")).setValue(r)
+            getToRecipeDepth(mDatabaseSearch, r.getTitle()).child(title).setValue(r)
                     .addOnCompleteListener(new OnCompleteListener<Void>() {
                         @Override
                         public void onComplete(@NonNull Task<Void> task) {
@@ -387,14 +399,18 @@ public class AddRecipe extends AppCompatActivity {
         }
     }
 
+    private String getAsCategoryString(String input_str) {
+        return input_str.replace(" ", "_").replace("\"", "");
+    }
+
     public void loadDishToFilterTree(recipe r) {
         if (r != null) {
+            String title = r.getTitle();
+            String main_category = getAsCategoryString(r.getMain_category());
+            String sub_category = getAsCategoryString(r.getCategory());
             DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
-                    .child("filter").child(r.getMain_category().replace(" ", "_")
-                            .replace("\"", "")).child(r.getCategory()
-                            .replace(" ", "_").replace("\"", ""))
-                    .child(r.getTitle().replace("\"", ""));
-            mDatabaseSearch.setValue(r).addOnCompleteListener(new OnCompleteListener<Void>() {
+                    .child("filter").child(main_category).child(sub_category);
+            mDatabaseSearch.child(getAsCategoryString(title)).setValue(title).addOnCompleteListener(new OnCompleteListener<Void>() {
                 @Override
                 public void onComplete(@NonNull Task<Void> task) {
                     if (task.isSuccessful()) {
@@ -405,81 +421,152 @@ public class AddRecipe extends AppCompatActivity {
         }
     }
 
-    List<recipe> recipe_list = new ArrayList<>();
+    private void clearFilterArray(){
+        this.recipe_list_filter.clear();
+    }
+    private void clearSearchArray(){
+        this.recipe_list_search.clear();
+    }
+
+    private void addToFilerArray(recipe r){
+        this.recipe_list_filter.add(new recipe(r));
+    }
+
+    private void addToSearchArray(recipe r){
+        this.recipe_list_search.add(new recipe(r));
+    }
 
     public List<recipe> getDishFromSearchTree(String name) {
-        int len = name.length();
-        if (len > 0) {
+        if (!name.isEmpty()) {
             DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
             mDatabaseSearchGet = getToRecipeDepth(mDatabaseSearchGet, name);
-            mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
+            mDatabaseSearchGet.get().addOnCompleteListener(new OnCompleteListener<DataSnapshot>() {
                 @Override
-                public void onDataChange(@NonNull DataSnapshot snapshot) {
-                    if (snapshot.exists()) {
-                        recipe_list.clear();
-                        Iterable<DataSnapshot> childrens = snapshot.getChildren();
-                        for (DataSnapshot curr_child : childrens)
-                            try {
-                                recipe current_recipe = curr_child.getValue(recipe.class);
-                                System.out.println(">>>>>>>" + current_recipe + "<<<<<<<");
-                                if (current_recipe != null) {
-                                    recipe_list.add(current_recipe);
+                public void onComplete(@NonNull Task<DataSnapshot> task) {
+                    if (task.isSuccessful()) {
+                        DataSnapshot result = task.getResult();
+                        if (result.exists()) {
+                            clearSearchArray();
+                            Iterable<DataSnapshot> childrens = result.getChildren();
+                            for (DataSnapshot curr_child : childrens)
+                                try {
+                                    recipe current_recipe = curr_child.getValue(recipe.class);
+//                                    System.out.println(">>>>>>>" + current_recipe + "<<<<<<<");
+                                    if (current_recipe != null && current_recipe.getTitle().equals(name)) {
+                                        addToSearchArray(current_recipe);
+                                    }
+                                } catch (Exception e) {
+                                    e.printStackTrace();
                                 }
-                            } catch (Exception e) {
-                                e.printStackTrace();
-                            }
+                        }
+                    } else {
+                        System.out.println("getDishFromSearchTree - data don't exist");
                     }
-                }
-
-                @Override
-                public void onCancelled(@NonNull DatabaseError error) {
-                    Log.d("TAG", error.getMessage());
                 }
             });
         }
-        return recipe_list;
+        return recipe_list_search;
     }
 
 
-    public recipe getDishFromFilterTree(String mainCategory, String subCategory, String name) {
+//    public recipe getDishFromFilterTree(String mainCategory, String subCategory, String name) {
+//        int len = name.length();
+//        if (len > 0) {
+//            DatabaseReference mDatabaseFilterGet = FirebaseDatabase.getInstance().getReference()
+//                    .child("filter").child(getAsCategoryString(mainCategory))
+//                    .child(getAsCategoryString(subCategory));
+//            mDatabaseFilterGet.get().addOnCompleteListener(new OnCompleteListener<DataSnapshot>() {
+//                @Override
+//                public void onComplete(@NonNull Task<DataSnapshot> task) {
+//                    if (task.isSuccessful()) {
+//                        recipe_list_filter.clear();
+//                        DataSnapshot snapshot_filter = task.getResult();
+//                        if (snapshot_filter.exists()) {
+//                            Iterable<DataSnapshot> childrens = snapshot_filter.getChildren();
+//                            for (DataSnapshot filter_child : childrens) {
+//                                try {
+//                                    String curr_recipe_name = filter_child.getValue(String.class);
+//                                    if (curr_recipe_name != null && curr_recipe_name.equals(name)) {
+////                                        System.out.println(">>>>>>>>>" + curr_recipe_name + "<<<<<<<<<<");
+//                                        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
+//                                        mDatabaseSearchGet = getToRecipeDepth(mDatabaseSearchGet, name);
+//                                        mDatabaseSearchGet.get().addOnCompleteListener(new OnCompleteListener<DataSnapshot>() {
+//                                            @Override
+//                                            public void onComplete(@NonNull Task<DataSnapshot> task) {
+//                                                if (task.isSuccessful()) {
+//                                                    DataSnapshot snapshot_search = task.getResult();
+//                                                    if (snapshot_search.exists()) {
+//                                                        Iterable<DataSnapshot> childrens = snapshot_search.getChildren();
+//                                                        for (DataSnapshot curr_child : childrens)
+//                                                            try {
+//                                                                recipe current_recipe = curr_child.getValue(recipe.class);
+////                                                                System.out.println("We want to find -> " + name);
+//                                                                if (current_recipe != null && current_recipe.getTitle().equals(name)) {
+////                                                                    System.out.println("Found -> " + current_recipe.getTitle() + "<<<<<<<");
+//                                                                    recipe_list_filter.add(current_recipe);
+//                                                                }
+//                                                            } catch (Exception e) {
+//                                                                e.printStackTrace();
+//                                                            }
+//                                                    }
+//                                                } else {
+//                                                    System.out.println("getDishFromSearchTree - recipe don't exist");
+//                                                }
+//                                            }
+//                                        });
+//                                    }
+//                                } catch (Exception e) {
+//                                    e.printStackTrace();
+//                                }
+//                            }
+//                        }
+//                    } else {
+//                        System.out.println("getDishFromSearchTree - data don't exist");
+//                    }
+//                }
+//            });
+//        }
+//        if (recipe_list_filter.isEmpty()) {
+//            return null;
+//        }
+//        return recipe_list_filter.get(0);
+//    }
+
+    public List<recipe> getDishFromFilterTree(String mainCategory, String subCategory, String name) {
         int len = name.length();
-        List<recipe> recipe_list = new ArrayList<>();
-        if (len > 0) {
+        if (!name.isEmpty()) {
             DatabaseReference mDatabaseFilterGet = FirebaseDatabase.getInstance().getReference()
-                    .child("filter");
-            mDatabaseFilterGet.child(mainCategory).child(subCategory)
-                    .addValueEventListener(new ValueEventListener() {
-                        @Override
-                        public void onDataChange(@NonNull DataSnapshot snapshot) {
-                            if (snapshot.exists()) {
-                                Iterable<DataSnapshot> childrens = snapshot.getChildren();
-                                for (DataSnapshot curr_child : childrens)
-                                    try {
-//                                System.out.println("im here!!");
-//                                System.out.println(curr_child);
-                                        recipe curr_recipe = curr_child.getValue(recipe.class);
-                                        System.out.println(">>>>>>>>>" + curr_recipe + "<<<<<<<<<<");
-                                        if (curr_recipe != null && curr_recipe.getTitle().equals(name)) {
-                                            recipe_list.add(curr_recipe);
+                    .child("filter").child(getAsCategoryString(mainCategory))
+                    .child(getAsCategoryString(subCategory));
+            mDatabaseFilterGet.get().addOnCompleteListener(new OnCompleteListener<DataSnapshot>() {
+                @Override
+                public void onComplete(@NonNull Task<DataSnapshot> task) {
+                    if (task.isSuccessful()) {
+                        clearFilterArray();
+                        DataSnapshot snapshot_filter = task.getResult();
+                        if (snapshot_filter.exists()) {
+                            Iterable<DataSnapshot> childrens = snapshot_filter.getChildren();
+                            for (DataSnapshot filter_child : childrens) {
+                                try {
+                                    String curr_recipe_name = filter_child.getValue(String.class);
+                                    if (curr_recipe_name != null && curr_recipe_name.equals(name)) {
+                                        for (recipe r : getDishFromSearchTree(curr_recipe_name)){
+                                        System.out.println(">>>>>>>>>" + r + "<<<<<<<<<<");
+                                            addToFilerArray(r);
                                         }
-                                    } catch (Exception e) {
-                                        e.printStackTrace();
                                     }
-                            } else {
-                                System.out.println("Snapshot is empty");
+                                } catch (Exception e) {
+                                    e.printStackTrace();
+                                }
                             }
                         }
-
-                        @Override
-                        public void onCancelled(@NonNull DatabaseError error) {
-                            Log.d("TAG", error.getMessage());
-                        }
-                    });
+                    } else {
+                        System.out.println("getDishFromSearchTree - data don't exist");
+                    }
+                }
+            });
         }
-        if (recipe_list.isEmpty()) {
-            return null;
-        }
-        return recipe_list.get(0);
+        return recipe_list_filter;
     }
 
     public void deleteRecipe(String name) {
@@ -498,8 +585,8 @@ public class AddRecipe extends AppCompatActivity {
                             @Override
                             public void onDataChange(@NonNull DataSnapshot snapshot) {
                                 for (DataSnapshot childFilter : dataSnapshot.getChildren()) {
-                                    recipe r_f = childFilter.getValue(recipe.class);
-                                    if (r_f != null && r_f.getTitle().equals(name)) {
+                                    String r_f = childFilter.getValue(String.class);
+                                    if (r_f != null && r_f.equals(name)) {
                                         childFilter.getRef().removeValue();
                                     }
                                 }
