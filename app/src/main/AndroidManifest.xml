@@ -12,10 +12,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Smarter_Foodies">
-<!--        <activity-->
-<!--            android:name=".ui.login.LoginGoogle"-->
-<!--            android:exported="false"-->
-<!--            android:label="@string/title_activity_login_google" />-->
+        <activity
+            android:name=".welcomeActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <!-- <activity -->
+        <!-- android:name=".ui.login.LoginGoogle" -->
+        <!-- android:exported="false" -->
+        <!-- android:label="@string/title_activity_login_google" /> -->
         <activity android:name=".LoginActivity" />
         <activity android:name=".RegisterActivity" />
         <activity android:name=".ApplyChef" />

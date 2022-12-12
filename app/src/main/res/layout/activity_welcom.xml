@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:padding="24dp"
     android:background="#F8EECF"
-    tools:context=".LoginGoogle">
+    tools:context=".welcomeActivity">
 
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="291dp"
         android:layout_height="276dp"
-        android:layout_marginStart="20dp"
-        android:layout_marginTop="100dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="204dp"
         android:layout_marginEnd="10dp"
         android:src="@mipmap/applogo"
         android:transitionName="logo_image"
@@ -22,15 +20,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <ImageView
-        android:id="@+id/btnLogin"
-        android:layout_width="300dp"
-        android:layout_height="50dp"
-        android:layout_marginTop="50dp"
-        android:layout_gravity="center"
-        android:src="@mipmap/signwithgoogle"
-        tools:layout_editor_absoluteX="35dp"
-        tools:layout_editor_absoluteY="576dp" />
 
-
-</LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
