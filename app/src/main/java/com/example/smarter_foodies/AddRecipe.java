@@ -3,6 +3,7 @@ package com.example.smarter_foodies;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import static java.lang.Thread.sleep;
 import static java.util.Map.entry;
 
 import android.content.Intent;
@@ -44,6 +45,7 @@ import java.io.InputStreamReader;
 import java.io.Reader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.security.PrivateKey;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
@@ -59,20 +61,6 @@ import java.io.InputStream;
 import java.util.Set;
 
 public class AddRecipe extends AppCompatActivity {
-    DatabaseReference mDatabase;
-    recipe dish;
-    TextInputEditText etTitle;
-    TextInputEditText etIngredients;
-    TextInputEditText etDirections;
-    NumberPicker npCookingTime;
-    NumberPicker npPrepTime;
-    NumberPicker npServings;
-    NumberPicker npCarbs;
-    NumberPicker npProtein;
-    NumberPicker npFat;
-
-
-    Button btnSubmit;
 
     Map<String, String[]> subCategoriesList = new HashMap<String, String[]>() {{
         put("", new String[]{});
@@ -106,29 +94,56 @@ public class AddRecipe extends AppCompatActivity {
         put("soups", new String[]{"Borscht", "Butternut_Squash_Soup", "Chicken_Noodle_Soup", "French_Onion_Soup", "Gazpacho", "Gumbo", "Lentil_Soup", "Minestrone_Soup", "Mushroom_Soup", "Potato_Soup", "Soup", "Split_Pea_Soup"});
     }};
 
-
+    // These strings role is to help us sync between what the user see in the sub category
+    // AutoCompleteTextView and his choice of main category
     String[] categoriesList;
     String category = "";
     String subCategory = "";
-    List<recipe> recipe_list_search = new ArrayList<>();
-    List<recipe> recipe_list_filter = new ArrayList<>();
 
+    // Reference to the realtime database
+    DatabaseReference mDatabase;
+    // Text inputs from the user
+    TextInputEditText etTitle;
+    TextInputEditText etIngredients;
+    TextInputEditText etDirections;
+    // Main & sub categories as the user wish
     AutoCompleteTextView autoCompleteCategory;
     ArrayAdapter<String> adapterCategories;
     AutoCompleteTextView autoCompleteSubCategory;
     ArrayAdapter<String> adapterSubCategories;
+    // Number inputs from the user
+    NumberPicker npCookingTime;
+    NumberPicker npPrepTime;
+    NumberPicker npServings;
+    NumberPicker npCarbs;
+    NumberPicker npProtein;
+    NumberPicker npFat;
+    // Submit recipe button
+    Button btnSubmit;
 
-    private void change_adapter() {
-        autoCompleteSubCategory = findViewById(R.id.auto_complete_sub_category);
-        adapterSubCategories = new ArrayAdapter<String>(this, R.layout.list_items, subCategoriesList.get(category));
-        autoCompleteSubCategory.setAdapter(adapterSubCategories);
-    }
+    // Arrays to store data received from the realtime database
+    List<recipe> recipe_list_search = new ArrayList<>();
+    List<recipe> recipe_list_filter = new ArrayList<>();
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_recipe);
+
+        // Create reference to the firebase real time database
         mDatabase = FirebaseDatabase.getInstance().getReference();
+
+        // Fill the categories list which the user can chose from
+        this.fillCategoriesList();
+
+        //    ========================= Get data from user =============================================
+        this.createAllNumberPickers();
+        this.createAllButtons();
+        this.createAllAutoCompleteTextViews();
+    }
+
+    private void fillCategoriesList() {
         Set<String> keys = subCategoriesList.keySet();
         categoriesList = new String[keys.size() - 1];
         int i = 0;
@@ -137,8 +152,64 @@ public class AddRecipe extends AppCompatActivity {
                 categoriesList[i++] = s;
             }
         }
+    }
 
-        //    ========================= Get data from user =============================================
+    private void change_adapter() {
+        autoCompleteSubCategory = findViewById(R.id.auto_complete_sub_category);
+        adapterSubCategories = new ArrayAdapter<String>(this, R.layout.list_items, subCategoriesList.get(category));
+        autoCompleteSubCategory.setAdapter(adapterSubCategories);
+    }
+
+    private void createAllAutoCompleteTextViews() {
+        autoCompleteCategory = findViewById(R.id.auto_complete_category);
+        adapterCategories = new ArrayAdapter<String>(this, R.layout.list_items, categoriesList);
+        autoCompleteCategory.setAdapter(adapterCategories);
+        autoCompleteCategory.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
+                category = parent.getItemAtPosition(pos).toString();
+                Toast.makeText(getApplicationContext(), "Item: " + category, Toast.LENGTH_SHORT).show();
+                change_adapter();
+            }
+        });
+        autoCompleteSubCategory = findViewById(R.id.auto_complete_sub_category);
+        adapterSubCategories = new ArrayAdapter<String>(this, R.layout.list_items, subCategoriesList.get(category));
+        autoCompleteSubCategory.setAdapter(adapterSubCategories);
+        autoCompleteSubCategory.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
+                subCategory = parent.getItemAtPosition(pos).toString();
+                Toast.makeText(getApplicationContext(), "Item: " + subCategory, Toast.LENGTH_SHORT).show();
+            }
+        });
+    }
+
+    private void createAllButtons() {
+        btnSubmit = findViewById(R.id.btnSubmit);
+        btnSubmit.setOnClickListener(view -> {
+//            submitRecipe();
+//            deleteAllInitData();
+//            init_database_with_existing_scraped_data();
+//            deleteRecipe("2-Ingredient Pineapple Angel Food Cake");
+//            removeDataFromFilterTree(""); <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+            System.out.println("=============================");
+//            System.out.println(getDishFromFilterTree("animals", "Pet_Food", "Best Friend Doggie Biscuits"));
+//            List<recipe> recipes = getDishFromSearchTree("Air Fryer Mini Breakfast Burritos");
+//            List<recipe> recipes = getDishFromSearchTree("Best Friend Doggie Biscuits");
+//            System.out.println(recipes.size());
+//            for (recipe r : recipes) {
+//                System.out.println(r);
+//            }
+//            List<recipe> recipes2 = getDishFromFilterTree("animals", "Pet_Food", "Best Friend Doggie Biscuits");
+//            System.out.println(recipes2.size());
+//            for (recipe r : recipes2) {
+//                System.out.println(r);
+//            }
+            System.out.println("============================");
+        });
+    }
+
+    private void createAllNumberPickers() {
         etTitle = findViewById(R.id.etTitle);
         etIngredients = findViewById(R.id.etIngredients);
         etDirections = findViewById(R.id.etDirections);
@@ -200,52 +271,6 @@ public class AddRecipe extends AppCompatActivity {
             @Override
             public void onValueChange(NumberPicker numberPicker, int oldValue, int newValue) {
                 npFat.setValue(newValue);
-            }
-        });
-
-        btnSubmit = findViewById(R.id.btnSubmit);
-        btnSubmit.setOnClickListener(view -> {
-//            submitRecipe();
-//            deleteAllInitData();
-//            init_database_with_existing_scraped_data();
-//            deleteRecipe("2_Ingredient_Pineapple_Angel_Food_Cake");
-            System.out.println("=============================");
-//            System.out.println(getDishFromFilterTree("animals", "Pet_Food", "Best Friend Doggie Biscuits"));
-//            List<recipe> recipes = getDishFromSearchTree("Air Fryer Mini Breakfast Burritos");
-            List<recipe> recipes = getDishFromSearchTree("Best Friend Doggie Biscuits");
-            System.out.println(recipes.size());
-            for (recipe r : recipes) {
-                System.out.println(r);
-            }
-            List<recipe> recipes2 = getDishFromFilterTree("animals", "Pet_Food", "Best Friend Doggie Biscuits");
-            System.out.println(recipes2.size());
-            for (recipe r : recipes2) {
-                System.out.println(r);
-            }
-            System.out.println("============================");
-        });
-
-        //    ========================= AutoCompleteTextView =================================
-
-        autoCompleteCategory = findViewById(R.id.auto_complete_category);
-        adapterCategories = new ArrayAdapter<String>(this, R.layout.list_items, categoriesList);
-        autoCompleteCategory.setAdapter(adapterCategories);
-        autoCompleteCategory.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
-                category = parent.getItemAtPosition(pos).toString();
-                Toast.makeText(getApplicationContext(), "Item: " + category, Toast.LENGTH_SHORT).show();
-                change_adapter();
-            }
-        });
-        autoCompleteSubCategory = findViewById(R.id.auto_complete_sub_category);
-        adapterSubCategories = new ArrayAdapter<String>(this, R.layout.list_items, subCategoriesList.get(category));
-        autoCompleteSubCategory.setAdapter(adapterSubCategories);
-        autoCompleteSubCategory.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
-                subCategory = parent.getItemAtPosition(pos).toString();
-                Toast.makeText(getApplicationContext(), "Item: " + subCategory, Toast.LENGTH_SHORT).show();
             }
         });
     }
@@ -365,6 +390,7 @@ public class AddRecipe extends AppCompatActivity {
         DataRef = FirebaseDatabase.getInstance().getReference();
         if (name.length() > 0) {
             String new_name = getCleanStringForSearch(name);
+//            System.out.println(new_name);
             int len = new_name.length();
             DataRef = DataRef.child("search");
             // Max tree depth is 32
@@ -421,18 +447,19 @@ public class AddRecipe extends AppCompatActivity {
         }
     }
 
-    private void clearFilterArray(){
+    private void clearFilterArray() {
         this.recipe_list_filter.clear();
     }
-    private void clearSearchArray(){
+
+    private void clearSearchArray() {
         this.recipe_list_search.clear();
     }
 
-    private void addToFilerArray(recipe r){
+    private void addToFilerArray(recipe r) {
         this.recipe_list_filter.add(new recipe(r));
     }
 
-    private void addToSearchArray(recipe r){
+    private void addToSearchArray(recipe r) {
         this.recipe_list_search.add(new recipe(r));
     }
 
@@ -469,69 +496,6 @@ public class AddRecipe extends AppCompatActivity {
     }
 
 
-//    public recipe getDishFromFilterTree(String mainCategory, String subCategory, String name) {
-//        int len = name.length();
-//        if (len > 0) {
-//            DatabaseReference mDatabaseFilterGet = FirebaseDatabase.getInstance().getReference()
-//                    .child("filter").child(getAsCategoryString(mainCategory))
-//                    .child(getAsCategoryString(subCategory));
-//            mDatabaseFilterGet.get().addOnCompleteListener(new OnCompleteListener<DataSnapshot>() {
-//                @Override
-//                public void onComplete(@NonNull Task<DataSnapshot> task) {
-//                    if (task.isSuccessful()) {
-//                        recipe_list_filter.clear();
-//                        DataSnapshot snapshot_filter = task.getResult();
-//                        if (snapshot_filter.exists()) {
-//                            Iterable<DataSnapshot> childrens = snapshot_filter.getChildren();
-//                            for (DataSnapshot filter_child : childrens) {
-//                                try {
-//                                    String curr_recipe_name = filter_child.getValue(String.class);
-//                                    if (curr_recipe_name != null && curr_recipe_name.equals(name)) {
-////                                        System.out.println(">>>>>>>>>" + curr_recipe_name + "<<<<<<<<<<");
-//                                        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
-//                                        mDatabaseSearchGet = getToRecipeDepth(mDatabaseSearchGet, name);
-//                                        mDatabaseSearchGet.get().addOnCompleteListener(new OnCompleteListener<DataSnapshot>() {
-//                                            @Override
-//                                            public void onComplete(@NonNull Task<DataSnapshot> task) {
-//                                                if (task.isSuccessful()) {
-//                                                    DataSnapshot snapshot_search = task.getResult();
-//                                                    if (snapshot_search.exists()) {
-//                                                        Iterable<DataSnapshot> childrens = snapshot_search.getChildren();
-//                                                        for (DataSnapshot curr_child : childrens)
-//                                                            try {
-//                                                                recipe current_recipe = curr_child.getValue(recipe.class);
-////                                                                System.out.println("We want to find -> " + name);
-//                                                                if (current_recipe != null && current_recipe.getTitle().equals(name)) {
-////                                                                    System.out.println("Found -> " + current_recipe.getTitle() + "<<<<<<<");
-//                                                                    recipe_list_filter.add(current_recipe);
-//                                                                }
-//                                                            } catch (Exception e) {
-//                                                                e.printStackTrace();
-//                                                            }
-//                                                    }
-//                                                } else {
-//                                                    System.out.println("getDishFromSearchTree - recipe don't exist");
-//                                                }
-//                                            }
-//                                        });
-//                                    }
-//                                } catch (Exception e) {
-//                                    e.printStackTrace();
-//                                }
-//                            }
-//                        }
-//                    } else {
-//                        System.out.println("getDishFromSearchTree - data don't exist");
-//                    }
-//                }
-//            });
-//        }
-//        if (recipe_list_filter.isEmpty()) {
-//            return null;
-//        }
-//        return recipe_list_filter.get(0);
-//    }
-
     public List<recipe> getDishFromFilterTree(String mainCategory, String subCategory, String name) {
         int len = name.length();
         if (!name.isEmpty()) {
@@ -550,8 +514,8 @@ public class AddRecipe extends AppCompatActivity {
                                 try {
                                     String curr_recipe_name = filter_child.getValue(String.class);
                                     if (curr_recipe_name != null && curr_recipe_name.equals(name)) {
-                                        for (recipe r : getDishFromSearchTree(curr_recipe_name)){
-                                        System.out.println(">>>>>>>>>" + r + "<<<<<<<<<<");
+                                        for (recipe r : getDishFromSearchTree(curr_recipe_name)) {
+                                            System.out.println(">>>>>>>>>" + r + "<<<<<<<<<<");
                                             addToFilerArray(r);
                                         }
                                     }
@@ -569,42 +533,98 @@ public class AddRecipe extends AppCompatActivity {
         return recipe_list_filter;
     }
 
-    public void deleteRecipe(String name) {
+    private void removeDataFromSearchTree(String name){
         DatabaseReference mDataSearchDelete = FirebaseDatabase.getInstance().getReference();
-        DatabaseReference mDataFilterRef = FirebaseDatabase.getInstance().getReference().child("filter");
-        Query searchQuery = getToRecipeDepth(mDataSearchDelete, name);
-        searchQuery.addListenerForSingleValueEvent(new ValueEventListener() {
+        mDataSearchDelete = getToRecipeDepth(mDataSearchDelete, name);
+        mDataSearchDelete.removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
             @Override
-            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-                for (DataSnapshot childSearch : dataSnapshot.getChildren()) {
-                    recipe r_s = childSearch.getValue(recipe.class);
-                    if (r_s != null && r_s.getTitle().equals(name)) {
-                        childSearch.getRef().removeValue();
-                        Query filterQuery = mDataFilterRef.child(r_s.getMain_category()).child(r_s.getCategory());
-                        filterQuery.addListenerForSingleValueEvent(new ValueEventListener() {
-                            @Override
-                            public void onDataChange(@NonNull DataSnapshot snapshot) {
-                                for (DataSnapshot childFilter : dataSnapshot.getChildren()) {
-                                    String r_f = childFilter.getValue(String.class);
-                                    if (r_f != null && r_f.equals(name)) {
-                                        childFilter.getRef().removeValue();
-                                    }
-                                }
-                            }
-
-                            @Override
-                            public void onCancelled(@NonNull DatabaseError error) {
-                                Log.e("TAG", "onCancelled", error.toException());
-                            }
-                        });
-                    }
+            public void onComplete(@NonNull Task<Void> task) {
+                if (task.isSuccessful()) {
+                    System.out.println("eeeeee");
+                    Toast.makeText(getApplicationContext(),
+                            name + "> class removed successfully!",
+                            Toast.LENGTH_LONG).show();
                 }
-            }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError databaseError) {
-                Log.e("TAG", "onCancelled", databaseError.toException());
             }
         });
     }
+
+    private void removeDataFromFilterTree(String main_category, String subCategory, String name){
+        DatabaseReference mDataFilter = FirebaseDatabase
+                .getInstance().getReference()
+                .child(getAsCategoryString(main_category))
+                .child(getAsCategoryString(subCategory));
+        mDataFilter.get().addOnCompleteListener(new OnCompleteListener<DataSnapshot>() {
+            @Override
+            public void onComplete(@NonNull Task<DataSnapshot> task) {
+                if (task.isSuccessful()) {
+                    DataSnapshot snapshot_delete = task.getResult();
+                    if (snapshot_delete.exists()) {
+                        Iterable<DataSnapshot> childrens = snapshot_delete.getChildren();
+                        for (DataSnapshot filter_child : childrens) {
+                            String value = filter_child.getValue(String.class);
+                            if (value != null && value.equals(getAsCategoryString(name))){
+                                DatabaseReference mDataFilter = FirebaseDatabase
+                                        .getInstance().getReference()
+                                        .child(getAsCategoryString(main_category))
+                                        .child(getAsCategoryString(subCategory));
+                                mDataFilter.removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
+                                    @Override
+                                    public void onComplete(@NonNull Task<Void> task) {
+                                        if (task.isSuccessful()) {
+                                            System.out.println("gggggg");
+                                            Toast.makeText(getApplicationContext(),
+                                                    name + "> name removed successfully!",
+                                                    Toast.LENGTH_LONG).show();
+                                        }
+                                    }
+                                });
+                            }
+                        }
+                    }
+                }
+
+            }
+        });
+
+    }
+
+    public void deleteRecipe(String name) {
+        DatabaseReference mDataSearch = FirebaseDatabase.getInstance().getReference();
+        mDataSearch = getToRecipeDepth(mDataSearch, name);
+        mDataSearch.get().addOnCompleteListener(new OnCompleteListener<DataSnapshot>() {
+            @Override
+            public void onComplete(@NonNull Task<DataSnapshot> task) {
+                if (task.isSuccessful()) {
+                    System.out.println("aaaaa");
+                    DataSnapshot snapshot_delete = task.getResult();
+                    if (snapshot_delete.exists()) {
+                        System.out.println("bbbbb");
+                        Iterable<DataSnapshot> childrens = snapshot_delete.getChildren();
+                        for (DataSnapshot filter_child : childrens) {
+                            try {
+                                System.out.println("cccccc");
+                                recipe r = filter_child.getValue(recipe.class);
+                                System.out.println(">>>>>>>" + r + "<<<<<<<<");
+                                if (r != null && getAsCategoryString(name).equals(getAsCategoryString(r.getTitle()))) {
+                                    System.out.println("dddddd");
+                                    removeDataFromSearchTree(r.getTitle());
+                                    System.out.println("ffffff");
+                                    removeDataFromFilterTree(r.getMain_category(), r.getCategory(), r.getTitle());
+                                    System.out.println("gggggg");
+                                }
+                            } catch (Exception e) {
+                                e.printStackTrace();
+                                System.out.println("!!!!!!");
+                            }
+                        }
+                    }
+                    else{
+                        System.out.println("data don't exist");
+                    }
+                }
+            }
+        });
+    }
+
 }
