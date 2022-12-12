@@ -189,26 +189,26 @@ public class AddRecipe extends AppCompatActivity {
     private void createAllButtons() {
         btnSubmit = findViewById(R.id.btnSubmit);
         btnSubmit.setOnClickListener(view -> {
-            submitRecipe();
+//            submitRecipe();
 //            deleteAllInitData();
 //            init_database_with_existing_scraped_data();
 //            deleteRecipe("2-Ingredient Pineapple Angel Food Cake");
 //            removeDataFromFilterTree("animals", "Pet_Food", "Best Friend Doggie Biscuits");
 //            removeDataFromSearchTree("Best Friend Doggie Biscuits");
 
-//            System.out.println("=============================");
-////            System.out.println(getDishFromFilterTree("animals", "Pet_Food", "Best Friend Doggie Biscuits"));
-//            List<recipe> recipes = getDishFromSearchTree("Air Fryer Mini Breakfast Burritos");
-////            List<recipe> recipes = getDishFromSearchTree("Best Friend Doggie Biscuits");
-//            System.out.println(recipes.size());
-//            for (recipe r : recipes) {
-//                System.out.println(r);
-//            }
-//            List<recipe> recipes2 = getDishFromFilterTree("animals", "Pet_Food", "Best Friend Doggie Biscuits");
-//            System.out.println(recipes2.size());
-//            for (recipe r : recipes2) {
-//                System.out.println(r);
-//            }
+            System.out.println("=============================");
+//            System.out.println(getDishFromFilterTree("animals", "Pet_Food", "Best Friend Doggie Biscuits"));
+            List<recipe> recipes = getDishFromSearchTree("Air Fryer Mini Breakfast Burritos");
+//            List<recipe> recipes = getDishFromSearchTree("Best Friend Doggie Biscuits");
+            System.out.println(recipes.size());
+            for (recipe r : recipes) {
+                System.out.println(r);
+            }
+            List<recipe> recipes2 = getDishFromFilterTree("animals", "Pet_Food", "Best Friend Doggie Biscuits");
+            System.out.println(recipes2.size());
+            for (recipe r : recipes2) {
+                System.out.println(r);
+            }
 //            System.out.println("============================");
         });
     }
