@@ -26,6 +26,7 @@
         <activity android:name=".LoginActivity" />
         <activity android:name=".RegisterActivity" />
         <activity android:name=".ApplyChef" />
+        <activity android:name=".SearchRecipe" />
         <activity android:name=".UpdateRecipe"
             android:theme="@style/Theme.Smarter_Foodies.BackgroundUpdateImageStyle"/>
         <activity android:name=".AddRecipe"

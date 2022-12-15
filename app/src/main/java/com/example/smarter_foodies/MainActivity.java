@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnLogOut;
     Button btnAddRecipe;
     Button btnUpdateRecipe;
+    Button btnSearchView;
 
     //    TabLayout tabLayout;
 //    ViewPager viewPager;
@@ -36,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
         btnLogOut = findViewById(R.id.btnLogout);
         btnAddRecipe = findViewById(R.id.btnAddRecipe);
         btnUpdateRecipe = findViewById(R.id.btnUpdateRecipe);
+        btnSearchView = findViewById(R.id.btnSearchView);
 
 //        tabLayout=findViewById(R.id.tab_layout);
 //        viewPager=findViewById(R.id.view_pager);
@@ -60,6 +62,10 @@ public class MainActivity extends AppCompatActivity {
 
         btnUpdateRecipe.setOnClickListener(view -> {
             startActivity(new Intent(MainActivity.this, UpdateRecipe.class));
+        });
+
+        btnSearchView.setOnClickListener(view -> {
+            startActivity(new Intent(MainActivity.this, SearchRecipe.class));
         });
 
         mAuth = FirebaseAuth.getInstance();
