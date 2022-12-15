@@ -1,10 +1,15 @@
 package com.example.smarter_foodies;
 
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
+import android.widget.Toast;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -15,7 +20,9 @@ public class MainActivity extends AppCompatActivity {
 
     Button btnLogOut;
     Button btnAddRecipe;
-//    TabLayout tabLayout;
+    Button btnUpdateRecipe;
+
+    //    TabLayout tabLayout;
 //    ViewPager viewPager;
     FirebaseAuth mAuth;
 
@@ -28,6 +35,8 @@ public class MainActivity extends AppCompatActivity {
 
         btnLogOut = findViewById(R.id.btnLogout);
         btnAddRecipe = findViewById(R.id.btnAddRecipe);
+        btnUpdateRecipe = findViewById(R.id.btnUpdateRecipe);
+
 //        tabLayout=findViewById(R.id.tab_layout);
 //        viewPager=findViewById(R.id.view_pager);
 
@@ -45,18 +54,23 @@ public class MainActivity extends AppCompatActivity {
         // Prepare view pager
 //        prepareViewPager(viewPager,arrayList);
 
-        btnAddRecipe.setOnClickListener(view ->{
+        btnAddRecipe.setOnClickListener(view -> {
             startActivity(new Intent(MainActivity.this, AddRecipe.class));
         });
 
+        btnUpdateRecipe.setOnClickListener(view -> {
+            startActivity(new Intent(MainActivity.this, UpdateRecipe.class));
+        });
+
         mAuth = FirebaseAuth.getInstance();
-        btnLogOut.setOnClickListener(view ->{
+        btnLogOut.setOnClickListener(view -> {
             mAuth.signOut();
             startActivity(new Intent(MainActivity.this, LoginGoogle.class));
         });
 
     }
-//    private void prepareViewPager(ViewPager viewPager, ArrayList<String> arrayList) {
+
+    //    private void prepareViewPager(ViewPager viewPager, ArrayList<String> arrayList) {
 //        // Initialize main adapter
 //        MainAdapter adapter=new MainAdapter(getSupportFragmentManager());
 //
@@ -145,7 +159,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
         FirebaseUser user = mAuth.getCurrentUser();
-        if (user == null){
+        if (user == null) {
             startActivity(new Intent(MainActivity.this, LoginGoogle.class));
         }
     }

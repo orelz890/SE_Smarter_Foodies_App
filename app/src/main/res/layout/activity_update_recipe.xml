@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="start"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="24dp"
+        tools:context=".AddRecipe">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="16dp"
+            android:gravity="center_horizontal"
+            android:text="Update Recipe"
+            android:textColor="@color/teal_700"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:boxBackgroundMode="outline"
+            app:boxCornerRadiusBottomEnd="16dp"
+            app:boxCornerRadiusBottomStart="16dp"
+            app:boxCornerRadiusTopEnd="16dp"
+            app:boxCornerRadiusTopStart="16dp"
+            app:counterEnabled="true"
+            app:counterMaxLength="27"
+            android:textColorHint="@color/dark_green"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/etTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Recipe name"
+                android:textStyle="bold"
+                android:textColorHighlight="@color/purple_200"
+                android:maxLength="27" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense.ExposedDropdownMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="select category"
+            android:textColorHint="@color/dark_green">
+
+            <AutoCompleteTextView
+                android:id="@+id/auto_complete_category"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="none"
+                android:textStyle="bold" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense.ExposedDropdownMenu"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:hint="select sub category"
+                android:textColorHint="@color/dark_green">
+
+                <AutoCompleteTextView
+                    android:id="@+id/auto_complete_sub_category"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="none"
+                    android:textStyle="bold" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:boxBackgroundMode="outline"
+            app:boxCornerRadiusBottomEnd="16dp"
+            app:boxCornerRadiusBottomStart="16dp"
+            app:boxCornerRadiusTopEnd="16dp"
+            app:boxCornerRadiusTopStart="16dp"
+            android:textColorHint="@color/dark_green"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/etIngredients"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:hint="Enter the ingredients(separated by enter)" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            app:boxBackgroundMode="outline"
+            app:boxCornerRadiusBottomEnd="16dp"
+            app:boxCornerRadiusBottomStart="16dp"
+            app:boxCornerRadiusTopEnd="16dp"
+            app:boxCornerRadiusTopStart="16dp"
+            android:textColorHint="@color/dark_green"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/etDirections"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:hint="Enter the Directions(separated by enter)" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_marginTop="25dp"
+            android:orientation="horizontal">
+
+            <androidx.coordinatorlayout.widget.CoordinatorLayout
+                android:layout_width="wrap_content"
+                android:layout_height="180dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/dark_green"
+                    android:textStyle="bold"
+                    android:text="Cook time"
+                    android:textSize="16sp" />
+
+                <NumberPicker
+                    android:id="@+id/npCookTime"
+                    android:layout_marginTop="25dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="140dp" />
+
+                <androidx.coordinatorlayout.widget.CoordinatorLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="180dp"
+                    android:layout_gravity="center_horizontal">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="121dp"
+                        android:textColor="@color/dark_green"
+                        android:textStyle="bold"
+                        android:text="Prep time"
+                        android:textSize="16sp" />
+
+                    <NumberPicker
+                        android:id="@+id/npPrepTime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="140dp"
+                        android:layout_marginTop="25dp" />
+                </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+                <androidx.coordinatorlayout.widget.CoordinatorLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="180dp"
+                    android:layout_gravity="end">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:textColor="@color/dark_green"
+                        android:textStyle="bold"
+                        android:text="Servings"
+                        android:textSize="16sp" />
+
+                    <NumberPicker
+                        android:id="@+id/npServings"
+                        android:layout_marginTop="25dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="140dp" />
+                </androidx.coordinatorlayout.widget.CoordinatorLayout>
+            </androidx.coordinatorlayout.widget.CoordinatorLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_marginTop="25dp"
+            android:orientation="horizontal">
+
+            <androidx.coordinatorlayout.widget.CoordinatorLayout
+                android:layout_width="wrap_content"
+                android:layout_height="180dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/dark_green"
+                    android:textStyle="bold"
+                    android:text="Protein"
+                    android:textSize="16sp" />
+
+                <NumberPicker
+                    android:id="@+id/npProtein"
+                    android:layout_marginTop="25dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="140dp" />
+
+                <androidx.coordinatorlayout.widget.CoordinatorLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="180dp"
+                    android:layout_gravity="center_horizontal">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:textColor="@color/dark_green"
+                        android:textStyle="bold"
+                        android:text="Fat"
+                        android:textSize="16sp" />
+
+                    <NumberPicker
+                        android:id="@+id/npFat"
+                        android:layout_marginTop="25dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="140dp" />
+                </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+                <androidx.coordinatorlayout.widget.CoordinatorLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="180dp"
+                    android:layout_gravity="end">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:textColor="@color/dark_green"
+                        android:textStyle="bold"
+                        android:layout_gravity="center"
+                        android:text="Carbs"
+                        android:textSize="16sp" />
+
+                    <NumberPicker
+                        android:id="@+id/npCarbs"
+                        android:layout_marginTop="25dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="140dp" />
+                </androidx.coordinatorlayout.widget.CoordinatorLayout>
+            </androidx.coordinatorlayout.widget.CoordinatorLayout>
+        </RelativeLayout>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnSubmit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:text="submit" />
+
+    </LinearLayout>
+
+</ScrollView>

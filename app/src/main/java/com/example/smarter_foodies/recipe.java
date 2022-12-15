@@ -64,9 +64,12 @@ public class recipe {
 
     public recipe(recipe r){
         this(r.title,r.main_category,r.category,r.ingredients,r.directions,r.prepTime,
-             r.cookingTime,r.servings,r.protein,r.calories,r.fat,r.carbs,r.stars,r.images,
-             r.numOfStarGivers,r.comments,r.copy_rights);
+                r.cookingTime,r.servings,r.protein,r.calories,r.fat,r.carbs,r.stars,r.images,
+                r.numOfStarGivers,r.comments,r.copy_rights);
         this.totalTime = r.totalTime;
+        this.setIngredientsFromList(r.ingredients);
+        this.setImagesFromList(r.images);
+        this.setDirectionsFromList(r.directions);
     }
 
     public recipe(JsonObject data, String copy_rights) {
@@ -185,6 +188,7 @@ public class recipe {
     }
 
     public void setIngredientsFromList(List<String> ingredients) {
+        this.ingredients.clear();
         for (String curr_str : ingredients) {
             String curr = curr_str.trim();
             this.ingredients.add(curr);
@@ -200,6 +204,13 @@ public class recipe {
         return directions;
     }
 
+    public void setDirectionsFromList(List<String> directions) {
+        this.directions.clear();
+        for (String curr_str : directions) {
+            String curr = curr_str.trim();
+            this.directions.add(curr);
+        }
+    }
     public void setDirections(List<String> directions) {
         this.directions = directions;
     }
@@ -283,6 +294,10 @@ public class recipe {
     public void setImages(List<String> imgs) {
         this.images = imgs;
     }
+    public void setImagesFromList(List<String> imgs) {
+        this.images.clear();
+        this.images.addAll(imgs);
+    }
 
     public void addImage(String img) {
         this.images.add(img);
@@ -298,6 +313,12 @@ public class recipe {
 
     public void setComments(HashMap<String, String> comments) {
         this.comments = comments;
+    }
+    public void setCommentsFromMap(HashMap<String, String> comments) {
+        comments.clear();
+        for (String key: comments.keySet()) {
+            this.comments.put(key,comments.get(key));
+        }
     }
 
     public void delComment(String name, String comment) {
