@@ -15,4 +15,8 @@ plugins {
     id 'com.android.application' version '7.3.1' apply false
     id 'com.android.library' version '7.3.1' apply false
 }
-
+dependencies {
+     "com.android.support:appcompat-v7:28.0.0"
+     "com.android.support:recyclerview-v7:28.0.0"
+    'com.android.support:design:xx.x.x'
+}
