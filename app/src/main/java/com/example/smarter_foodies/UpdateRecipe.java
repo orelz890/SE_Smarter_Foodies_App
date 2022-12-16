@@ -120,7 +120,7 @@ public class UpdateRecipe extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
                 category = parent.getItemAtPosition(pos).toString();
-                Toast.makeText(getApplicationContext(), "Item: " + category, Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "Item: " + category, Toast.LENGTH_LONG).show();
                 change_adapter();
             }
         });
@@ -134,7 +134,7 @@ public class UpdateRecipe extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
                 subCategory = parent.getItemAtPosition(pos).toString();
-                Toast.makeText(getApplicationContext(), "Item: " + subCategory, Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "Item: " + subCategory, Toast.LENGTH_LONG).show();
             }
         });
     }
@@ -166,7 +166,7 @@ public class UpdateRecipe extends AppCompatActivity {
         if (this.recipeToUpdateName.isEmpty()) {
             Toast.makeText(getApplicationContext(),
                     "Name cant be empty",
-                    Toast.LENGTH_SHORT).show();
+                    Toast.LENGTH_LONG).show();
             setDialog();
         } else {
             setKnownDataToTextViews(this.recipeToUpdateName);
@@ -291,7 +291,7 @@ public class UpdateRecipe extends AppCompatActivity {
                 npServings.getValue() == 0 || npProtein.getValue() == 0 ||
                 npFat.getValue() == 0 || npCarbs.getValue() == 0) {
             Toast.makeText(getApplicationContext(), "All bottom half must be filled too!",
-                    Toast.LENGTH_SHORT).show();
+                    Toast.LENGTH_LONG).show();
         } else {
             List<String> directionsArray = new ArrayList<>(Arrays.asList(directions_list));
             recipe r = new recipe(title, category, subCategory, new ArrayList<>(), directionsArray,
@@ -301,7 +301,7 @@ public class UpdateRecipe extends AppCompatActivity {
             r.setIngredients(ingredientsArray);
 
             r.setCopy_rights(Objects.requireNonNull(mAuth.getCurrentUser()).getUid());
-            Toast.makeText(getApplicationContext(), r.toString(), Toast.LENGTH_SHORT).show();
+            Toast.makeText(getApplicationContext(), r.toString(), Toast.LENGTH_LONG).show();
             CRUD.loadDishToFilterTree(r);
             CRUD.loadDishToSearchTree(r);
         }
@@ -352,21 +352,21 @@ public class UpdateRecipe extends AppCompatActivity {
                             } else {
                                 Toast.makeText(getApplicationContext(),
                                         "You are not authorized to change this recipe..",
-                                        Toast.LENGTH_SHORT).show();
+                                        Toast.LENGTH_LONG).show();
                                 setDialog();
                             }
                         }catch (Exception e){
                             e.printStackTrace();
                             Toast.makeText(getApplicationContext(),
                                     "We had a problem please try again..",
-                                    Toast.LENGTH_SHORT).show();
+                                    Toast.LENGTH_LONG).show();
                             setDialog();
                         }
                     }
                 } else {
                     Toast.makeText(getApplicationContext(),
                             "This recipe don't exist..",
-                            Toast.LENGTH_SHORT).show();
+                            Toast.LENGTH_LONG).show();
                     setDialog();
                 }
             }

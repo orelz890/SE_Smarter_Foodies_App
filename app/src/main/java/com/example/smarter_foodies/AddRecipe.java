@@ -73,6 +73,7 @@ public class AddRecipe extends AppCompatActivity {
     String[] categoriesList;
     String category = "";
     String subCategory = "";
+    boolean flag;
 
     // Reference to the realtime database
     DatabaseReference mDatabase;
@@ -105,6 +106,7 @@ public class AddRecipe extends AppCompatActivity {
         // Create reference to the firebase real time database
         mDatabase = FirebaseDatabase.getInstance().getReference();
         CRUD = new CRUD_RealTimeDatabaseData();
+        flag = false;
         // Fill the categories list which the user can chose from
         this.fillCategoriesList();
 
@@ -160,7 +162,9 @@ public class AddRecipe extends AppCompatActivity {
         btnSubmit.setOnClickListener(view -> {
             System.out.println("=============================");
             submitRecipe();
-            startActivity(new Intent(AddRecipe.this, MainActivity.class));
+            if (!flag) {
+                startActivity(new Intent(AddRecipe.this, MainActivity.class));
+            }
             System.out.println("============================");
         });
     }
@@ -232,6 +236,7 @@ public class AddRecipe extends AppCompatActivity {
     }
 
     private void submitRecipe() {
+        flag = true;
         String title = etTitle.getText().toString();
         if (TextUtils.isEmpty(title)) {
             etTitle.setError("Title cannot be empty");
@@ -290,6 +295,7 @@ public class AddRecipe extends AppCompatActivity {
             }
             CRUD.loadDishToFilterTree(r);
             CRUD.loadDishToSearchTree(r);
+            flag = false;
             Toast.makeText(getApplicationContext(), r.toString(), Toast.LENGTH_SHORT).show();
 
         }

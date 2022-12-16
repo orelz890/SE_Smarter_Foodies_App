@@ -1,16 +1,24 @@
 package com.example.smarter_foodies;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.Fragment;
 
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.example.smarter_foodies.Fragment.HomeFragment;
+import com.example.smarter_foodies.Fragment.NotificationFragment;
+import com.example.smarter_foodies.Fragment.ProfileFragment;
+import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DatabaseReference;
@@ -18,13 +26,13 @@ import com.google.firebase.database.FirebaseDatabase;
 
 public class MainActivity extends AppCompatActivity {
 
+    BottomNavigationView bottomNavigationView;
+    Fragment selectFragment = null;
     Button btnLogOut;
     Button btnAddRecipe;
     Button btnUpdateRecipe;
     Button btnSearchView;
 
-    //    TabLayout tabLayout;
-//    ViewPager viewPager;
     FirebaseAuth mAuth;
 
     @Override
@@ -32,29 +40,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-//        new scraper("https://www.10dakot.co.il/");
-
+        bottomNavigationView = findViewById(R.id.btn_navigation);
+        bottomNavigationView.setOnNavigationItemSelectedListener(navigationItemSelectedListener);
         btnLogOut = findViewById(R.id.btnLogout);
         btnAddRecipe = findViewById(R.id.btnAddRecipe);
         btnUpdateRecipe = findViewById(R.id.btnUpdateRecipe);
         btnSearchView = findViewById(R.id.btnSearchView);
 
-//        tabLayout=findViewById(R.id.tab_layout);
-//        viewPager=findViewById(R.id.view_pager);
-
-//        // Initialize array list
-//        ArrayList<String> arrayList=new ArrayList<>(0);
-//
-//        // Add title in array list
-//        arrayList.add("Basic");
-//        arrayList.add("Advance");
-//        arrayList.add("Pro");
-
-        // Setup tab layout
-//        tabLayout.setupWithViewPager(viewPager);
-
-        // Prepare view pager
-//        prepareViewPager(viewPager,arrayList);
+        getSupportFragmentManager().beginTransaction()
+                .replace(R.id.fragment_container, new HomeFragment()).commit();
 
         btnAddRecipe.setOnClickListener(view -> {
             startActivity(new Intent(MainActivity.this, AddRecipe.class));
@@ -76,91 +70,40 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    //    private void prepareViewPager(ViewPager viewPager, ArrayList<String> arrayList) {
-//        // Initialize main adapter
-//        MainAdapter adapter=new MainAdapter(getSupportFragmentManager());
-//
-//        // Initialize main fragment
-//        MainFragment mainFragment=new MainFragment();
-//
-//        // Use for loop
-//        for(int i=0;i<arrayList.size();i++)
-//        {
-//            // Initialize bundle
-//            Bundle bundle=new Bundle();
-//
-//            // Put title
-//            bundle.putString("title",arrayList.get(i));
-//
-//            // set argument
-//            mainFragment.setArguments(bundle);
-//
-//    // Add fragment
-//            adapter.addFragment(mainFragment,arrayList.get(i));
-//    mainFragment=new MainFragment();
-//}
-//// set adapter
-//        viewPager.setAdapter(adapter);
-//                }
-//
-//    private class MainAdapter extends FragmentPagerAdapter {
-//        // Initialize arrayList
-//        ArrayList<Fragment> fragmentArrayList= new ArrayList<>();
-//        ArrayList<String> stringArrayList=new ArrayList<>();
-//
-//        int[] imageList={R.drawable.basic,R.drawable.advance,R.drawable.pro};
-//
-//        // Create constructor
-//        public void addFragment(Fragment fragment,String s)
-//        {
-//            // Add fragment
-//            fragmentArrayList.add(fragment);
-//            // Add title
-//            stringArrayList.add(s);
-//        }
-//
-//        public MainAdapter(FragmentManager supportFragmentManager) {
-//            super(supportFragmentManager);
-//        }
-//
-//        @NonNull
-//        @Override
-//        public Fragment getItem(int position) {
-//            // return fragment position
-//            return fragmentArrayList.get(position);
-//        }
-//
-//        @Override
-//        public int getCount() {
-//            // Return fragment array list size
-//            return fragmentArrayList.size();
-//        }
-//
-//        @Nullable
-//        @Override
-//        public CharSequence getPageTitle(int position) {
-//
-//            // Initialize drawable
-//            Drawable drawable= ContextCompat.getDrawable(getApplicationContext()
-//                    ,imageList[position]);
-//
-//            // set bound
-//            drawable.setBounds(0,0,drawable.getIntrinsicWidth(),
-//                    drawable.getIntrinsicHeight());
-//
-//            // Initialize spannable image
-//            SpannableString spannableString=new SpannableString(""+stringArrayList.get(position));
-//
-//            // Initialize image span
-//            ImageSpan imageSpan=new ImageSpan(drawable,ImageSpan.ALIGN_BOTTOM);
-//
-//            // Set span
-//            spannableString.setSpan(imageSpan,0,1, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE);
-//
-//            // return spannable string
-//            return spannableString;
-//        }
-//    }
+    private BottomNavigationView.OnNavigationItemSelectedListener navigationItemSelectedListener =
+            new BottomNavigationView.OnNavigationItemSelectedListener() {
+                @Override
+                public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
+                    switch (menuItem.getItemId()){
+                        case R.id.nav_home:
+                            selectFragment = new HomeFragment();
+                            break;
+                        case R.id.nav_search:
+//                            selectFragment = new SearchFragment();
+                            startActivity(new Intent(MainActivity.this, SearchRecipe.class));
+                            break;
+                        case R.id.nav_add:
+                            selectFragment = null;
+                            startActivity(new Intent(MainActivity.this, AddRecipe.class));
+                            break;
+                        case R.id.nav_favorites:
+                            selectFragment = new NotificationFragment();
+                            break;
+                        case R.id.nav_profile:
+                            SharedPreferences.Editor editor = getSharedPreferences("PREFS", MODE_PRIVATE).edit();
+                            editor.putString("Profileid", FirebaseAuth.getInstance().getCurrentUser().getUid());
+                            editor.apply();
+                            selectFragment = new ProfileFragment();
+                            break;
+                    }
+                    if (selectFragment != null){
+                        getSupportFragmentManager().beginTransaction()
+                                .replace(R.id.fragment_container, selectFragment).commit();
+                    }
+                    return true;
+                }
+            };
+
     @Override
     protected void onStart() {
         super.onStart();
