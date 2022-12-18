@@ -18,6 +18,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.smarter_foodies.databinding.ActivityDashboardBinding;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
@@ -33,7 +34,9 @@ import java.util.List;
 import java.util.Objects;
 import java.util.Set;
 
-public class UpdateRecipe extends AppCompatActivity {
+public class UpdateRecipe extends DashboardActivity {
+
+    ActivityDashboardBinding activityDashboardBinding;
     FirebaseAuth mAuth;
     // These strings role is to help us sync between what the user see in the sub category
     // AutoCompleteTextView and his choice of main category

@@ -15,6 +15,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.smarter_foodies.databinding.ActivityDashboardBinding;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -24,7 +25,8 @@ import com.google.firebase.database.ValueEventListener;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SearchRecipe extends AppCompatActivity {
+public class SearchRecipe extends DashboardActivity {
+    ActivityDashboardBinding activityDashboardBinding;
     AutoCompleteTextView autoCompleteSearchView;
     ArrayAdapter<String> arraySearchAdapter;
     List<String> recipes;

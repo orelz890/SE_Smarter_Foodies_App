@@ -24,6 +24,7 @@ import android.widget.NumberPicker;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.smarter_foodies.databinding.ActivityDashboardBinding;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.textfield.TextInputEditText;
@@ -66,7 +67,9 @@ import java.util.Objects;
 import java.util.Set;
 import com.example.smarter_foodies.CRUD_RealTimeDatabaseData;
 
-public class AddRecipe extends AppCompatActivity {
+public class AddRecipe extends DashboardActivity {
+
+    ActivityDashboardBinding activityDashboardBinding;
     FirebaseAuth mAuth;
     // These strings role is to help us sync between what the user see in the sub category
     // AutoCompleteTextView and his choice of main category
@@ -101,7 +104,11 @@ public class AddRecipe extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+//        activityDashboardBinding = ActivityDashboardBinding.inflate(getLayoutInflater());
+//        setContentView(activityDashboardBinding.getRoot());
+//        allocateActivityTitle("AddRecipe");
         setContentView(R.layout.activity_add_recipe);
+
         mAuth = FirebaseAuth.getInstance();
         // Create reference to the firebase real time database
         mDatabase = FirebaseDatabase.getInstance().getReference();
