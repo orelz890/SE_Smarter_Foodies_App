@@ -8,22 +8,6 @@
     tools:context=".SearchRecipe">
 
 
-<!--    <AutoCompleteTextView-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:id="@+id/ac_searchView"-->
-<!--        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"-->
-<!--        android:paddingBottom="20dp"-->
-<!--        android:paddingLeft="5dp"-->
-<!--        android:layout_marginTop="100dp"-->
-<!--        android:hint="Type here to search"-->
-<!--        android:completionThreshold="1"-->
-<!--        android:layout_marginLeft="20dp"-->
-<!--        android:layout_marginRight="20dp"-->
-<!--        android:textColor="@color/dark_green">-->
-
-<!--    </AutoCompleteTextView>-->
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -69,11 +53,6 @@
 
     </LinearLayout>
 
-<!--    <androidx.fragment.app.FragmentContainerView-->
-<!--        android:id="@+id/fragmentContainerView"-->
-<!--        android:name="com.example.smarter_foodies.Fragment.SearchFragment"-->
-<!--        android:layout_width="wrap_content"-->
-<!--        android:layout_height="wrap_content" />-->
 
 
 </RelativeLayout>

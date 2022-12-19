@@ -45,7 +45,7 @@ public class SearchRecipe extends DashboardActivity {
         autoCompleteSearchView = findViewById(R.id.ac_searchView);
         recipes = new ArrayList<>();
         InitAutoCompleteSearchView();
-        System.out.println(recipes.size());
+
     }
 
     private void setFirstDialog() {

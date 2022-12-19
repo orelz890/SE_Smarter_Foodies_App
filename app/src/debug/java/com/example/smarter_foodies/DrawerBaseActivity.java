@@ -14,6 +14,7 @@ import android.view.View;
 import android.widget.FrameLayout;
 
 import com.google.android.material.navigation.NavigationView;
+import com.google.firebase.auth.FirebaseAuth;
 
 public class DrawerBaseActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
@@ -43,6 +44,7 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
         switch (item.getItemId()){
             case R.id.nav_home:
             case R.id.nav_profile:
+            case R.id.nav_weekly_planing:
 
             case R.id.nav_favorites:             // need to build favorites page first
                 startActivity(new Intent(this, MainActivity.class));
@@ -65,6 +67,12 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
             case R.id.nav_update_recipe:
                 startActivity(new Intent(this, UpdateRecipe.class));
                 // For smooth transition
+                overridePendingTransition(0,0);
+                break;
+
+            case R.id.nav_logOut:
+                FirebaseAuth.getInstance().signOut();
+                startActivity(new Intent(this, LoginGoogle.class));                // For smooth transition
                 overridePendingTransition(0,0);
                 break;
 
