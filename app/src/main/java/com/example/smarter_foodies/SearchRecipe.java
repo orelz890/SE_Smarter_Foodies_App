@@ -4,12 +4,14 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.EditText;
+import android.widget.LinearLayout;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
@@ -26,7 +28,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class SearchRecipe extends DashboardActivity {
-    ActivityDashboardBinding activityDashboardBinding;
     AutoCompleteTextView autoCompleteSearchView;
     ArrayAdapter<String> arraySearchAdapter;
     List<String> recipes;
@@ -34,7 +35,12 @@ public class SearchRecipe extends DashboardActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_search);
+        LinearLayout rootLayout = new LinearLayout(this);
+        rootLayout.setOrientation(LinearLayout.VERTICAL);
+        View activityMainView = LayoutInflater.from(this).inflate(R.layout.activity_search, rootLayout, false);
+        rootLayout.addView(activityMainView);
+        setContentView(rootLayout);
+        allocateActivityTitle("SearchRecipe");
 
         autoCompleteSearchView = findViewById(R.id.ac_searchView);
         recipes = new ArrayList<>();

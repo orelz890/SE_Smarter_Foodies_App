@@ -91,4 +91,14 @@ dependencies {
 
     androidTestImplementation 'androidx.test.ext:junit:1.1.4'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.0'
+
+    // Material Design
+    implementation 'com.google.android.material:material:1.8.0-beta01'
+     // Rounded Image View
+    implementation 'com.makeramen:roundedimageview:2.3.0'
+     // Navigation Component
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.2.0-rc03'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.2.0-rc03'
+
+
 }

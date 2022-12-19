@@ -15,11 +15,13 @@ import android.os.Build;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.util.Log;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
+import android.widget.LinearLayout;
 import android.widget.NumberPicker;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -69,7 +71,6 @@ import com.example.smarter_foodies.CRUD_RealTimeDatabaseData;
 
 public class AddRecipe extends DashboardActivity {
 
-    ActivityDashboardBinding activityDashboardBinding;
     FirebaseAuth mAuth;
     // These strings role is to help us sync between what the user see in the sub category
     // AutoCompleteTextView and his choice of main category
@@ -104,10 +105,12 @@ public class AddRecipe extends DashboardActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-//        activityDashboardBinding = ActivityDashboardBinding.inflate(getLayoutInflater());
-//        setContentView(activityDashboardBinding.getRoot());
-//        allocateActivityTitle("AddRecipe");
-        setContentView(R.layout.activity_add_recipe);
+        LinearLayout rootLayout = new LinearLayout(this);
+        rootLayout.setOrientation(LinearLayout.VERTICAL);
+        View activityMainView = LayoutInflater.from(this).inflate(R.layout.activity_add_recipe, rootLayout, false);
+        rootLayout.addView(activityMainView);
+        setContentView(rootLayout);
+        allocateActivityTitle("AddRecipe");
 
         mAuth = FirebaseAuth.getInstance();
         // Create reference to the firebase real time database
