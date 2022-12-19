@@ -6,12 +6,12 @@ public class User {
     public boolean firstEntry, isChef;
 
     public User() {
-        firstEntry = true;
-        isChef = false;
-    }
+            firstEntry = true;
+            isChef = false;
+        }
     public User(String name) {
-        Nickname = name;
-        firstEntry = true;
+            Nickname = name;
+            firstEntry = true;
         isChef = false;
     }
     public User(String name, String re){

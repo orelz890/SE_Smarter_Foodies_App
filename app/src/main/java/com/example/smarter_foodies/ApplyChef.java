@@ -1,13 +1,18 @@
 package com.example.smarter_foodies;
 
 import androidx.annotation.NonNull;
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.DialogInterface;
 import android.content.Intent;
+import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
+import android.text.InputType;
 import android.text.TextUtils;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -60,16 +65,7 @@ public class ApplyChef extends AppCompatActivity {
         });
 
         etSkip.setOnClickListener(view -> {
-            String name = etName.getText().toString().trim();
-            if (name.isEmpty()) {
-                etName.setError("Nickname cannot be empty");
-                etName.requestFocus();
-                return;
-            }
-            FirebaseUser firebaseUser = mAuth.getCurrentUser();
-            if (firebaseUser != null) {
-                insertUser(0,name);
-            }
+            createDialog();
 //            User user = new User(name);
 //            FirebaseUser firebaseUser = mAuth.getCurrentUser();
 //            if (firebaseUser != null) {
@@ -201,6 +197,45 @@ public class ApplyChef extends AppCompatActivity {
             });
 
         }
+
+    }
+
+    private void createDialog(){
+        AlertDialog.Builder builder = new AlertDialog.Builder(this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
+        builder.setTitle("Enter Nickname");
+
+        // Set up the input
+        final EditText input = new EditText(this);
+        // Specify the type of input expected; this, for example, sets the input as a password, and will mask the text
+        input.setInputType(InputType.TYPE_CLASS_TEXT);
+        input.setTextColor(Color.rgb(255,255,255));
+        builder.setView(input);
+
+        // Set up the buttons
+        builder.setPositiveButton("Enter", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                String nickname = input.getText().toString();
+                if (nickname.isEmpty()) {
+                    Toast.makeText(builder.getContext(),"Nickname cannot be empty",Toast.LENGTH_LONG).show();
+                    createDialog();
+                    return;
+                }
+                FirebaseUser firebaseUser = mAuth.getCurrentUser();
+                if (firebaseUser != null) {
+                    insertUser(0,nickname);
+                }
+                // Do something with the nickname
+            }
+        });
+        builder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                dialog.cancel();
+            }
+        });
+
+        builder.show();
 
     }
 }
