@@ -122,8 +122,9 @@ public class LoginGoogle extends AppCompatActivity {
                 .addOnCompleteListener(this, task -> {
                     if (task.isSuccessful()) {
                         Toast.makeText(LoginGoogle.this, "Sign in success", Toast.LENGTH_LONG).show();
-                        Intent intent = new Intent(getApplicationContext(), ApplyChef.class);
-                        startActivity(intent);
+//                        Intent intent = new Intent(getApplicationContext(), ApplyChef.class);
+//                        startActivity(intent);
+                        checkUser();
                         // Sign in success, update UI with the signed-in user's information
                         //FirebaseUser fuser = mAuth.getCurrentUser();
 //                            User user = new User();
