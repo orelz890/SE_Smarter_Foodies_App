@@ -13,20 +13,30 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Smarter_Foodies">
-<!--        <activity-->
-<!--            android:name=".fragment_profile"-->
-<!--            android:exported="false">-->
-<!--            <meta-data-->
-<!--                android:name="android.app.lib_name"-->
-<!--                android:value="" />-->
-<!--        </activity>-->
-        <activity android:name=".DashboardActivity"
+        <activity
+            android:name=".UpdateProfile"
             android:exported="false">
-<!--            <intent-filter>-->
-<!--                <action android:name="android.intent.action.MAIN"/>-->
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <!-- <activity -->
+        <!-- android:name=".fragment_profile" -->
+        <!-- android:exported="false"> -->
+        <!-- <meta-data -->
+        <!-- android:name="android.app.lib_name" -->
+        <!-- android:value="" /> -->
+        <!-- </activity> -->
+        <activity
+            android:name=".DashboardActivity"
+            android:exported="false">
 
-<!--                <category android:name="android.intent.category.LAUNCHER"/>-->
-<!--            </intent-filter>-->
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN"/> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER"/> -->
+            <!-- </intent-filter> -->
         </activity>
         <activity
             android:name=".welcomeActivity"
@@ -34,8 +44,7 @@
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
-        </activity>
-        <!-- <activity -->
+        </activity> <!-- <activity -->
         <!-- android:name=".ui.login.LoginGoogle" -->
         <!-- android:exported="false" -->
         <!-- android:label="@string/title_activity_login_google" /> -->

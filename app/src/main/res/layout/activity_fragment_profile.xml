@@ -25,13 +25,6 @@
                     android:textStyle="bold"
                     android:id="@+id/username" />
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:id="@+id/options"
-                    android:src="@drawable/ic_options"
-                    android:layout_alignParentEnd="true"
-                    android:layout_marginEnd="10dp"/>
 
             </RelativeLayout>
 
@@ -139,40 +132,18 @@
                         </LinearLayout>
                         
                     </LinearLayout>
+
                     <Button
+                        android:id="@+id/update_profile"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="8dp"
-                        android:id="@+id/edit_profile"
-                        android:background="@color/Gray"/>
+                        android:background="@color/Gray"
+                        android:text="Update" />
 
                 </LinearLayout>
 
             </LinearLayout>
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:padding="12dp"
-                android:id="@+id/mid_bar"
-                android:orientation="vertical">
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:maxLines="1"
-                    android:id="@+id/fullname"
-                    android:textStyle="bold"
-                    android:textSize="16dp"
-                    android:textColor="@color/black"/>
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="5dp"
-                    android:id="@+id/bio"
-                    android:textColor="@color/black"/>
-                
-            </LinearLayout>
-            
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -203,7 +174,7 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="361dp"
+                android:layout_height="wrap_content"
                 android:orientation="vertical"
                 android:padding="20dp">
 
@@ -211,12 +182,14 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="5dp"
-                    android:hint="Full Name">
+                    android:hint="Full Name"
+                    android:id="@+id/full_name_pp">
 
                     <com.google.android.material.textfield.TextInputEditText
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-
+                        android:drawableLeft="@drawable/ic_profile"
+                        android:drawablePadding="10dp"
                         android:text="sdf" />
 
 
@@ -226,12 +199,15 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="10dp"
-                    android:hint="Email">
+                    android:hint="Email"
+                    android:id="@+id/email_pp">
+                    >
 
                     <com.google.android.material.textfield.TextInputEditText
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-
+                        android:drawableLeft="@drawable/ic_email"
+                        android:drawablePadding="10dp"
                         android:text="sdf" />
 
 
@@ -241,12 +217,15 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="10dp"
-                    android:hint="chaf/notchaf">
+                    android:hint="chaf/notchaf"
+                    android:id="@+id/chaf_pp">
+                    >
 
                     <com.google.android.material.textfield.TextInputEditText
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-
+                        android:drawableLeft="@drawable/ic_chaf"
+                        android:drawablePadding="10dp"
                         android:text="sdf" />
 
 
@@ -256,12 +235,15 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="10dp"
-                    android:hint="vegetarian/vegan/carnivore">
+                    android:hint="vegetarian/vegan/carnivore"
+                    android:id="@+id/type_pp">
+                    >
 
                     <com.google.android.material.textfield.TextInputEditText
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-
+                        android:drawableLeft="@drawable/ic_chois"
+                        android:drawablePadding="10dp"
                         android:text="sdf" />
 
 
@@ -271,22 +253,37 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="10dp"
-                    android:hint="A favorite recipe">
+                    android:hint="A favorite recipe"
+                    android:id="@+id/favorit_pp">
+                    >
 
                     <com.google.android.material.textfield.TextInputEditText
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-
+                        android:drawableLeft="@drawable/ic_favorit"
+                        android:drawablePadding="10dp"
                         android:text="sdf" />
 
 
                 </com.google.android.material.textfield.TextInputLayout>
 
-                <Button
+                <com.google.android.material.textfield.TextInputLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/Gray"
-                    android:text="Update" />
+                    android:layout_marginBottom="10dp"
+                    android:hint="website"
+                    android:id="@+id/website_pp">
+                    >
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/ic_website"
+                        android:drawablePadding="10dp"
+                        android:text="sdf" />
+
+
+                </com.google.android.material.textfield.TextInputLayout>
 
 
             </LinearLayout>
