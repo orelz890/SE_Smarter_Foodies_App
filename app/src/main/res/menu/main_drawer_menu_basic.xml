@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home"/>
+
+        <item android:id="@+id/nav_favorites"
+            android:icon="@drawable/ic_favorites"
+            android:title="@string/liked"/>
+
+        <item android:id="@+id/nav_apply_as_chef"
+            android:icon="@drawable/ic_chef"
+            android:title="@string/apply_as_chef"/>
+
+        <item android:id="@+id/nav_search"
+            android:icon="@drawable/ic_search"
+            android:title="@string/search_recipe"/>
+
+        <item android:id="@+id/nav_person_search"
+            android:icon="@drawable/ic_search_profile"
+            android:title="@string/person_search"/>
+
+        <item android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_profile"
+            android:title="@string/profile"/>
+
+        <item android:id="@+id/nav_weekly_planing"
+            android:icon="@drawable/ic_food_calendar"
+            android:title="@string/weeklyPlans"/>
+
+        <item android:title="@string/others">
+            <menu>
+                <item
+                    android:id="@+id/nav_logOut"
+                    android:icon="@drawable/ic_baseline_logout_24"
+                    android:title="@string/logout"/>
+            </menu>
+        </item>
+    </group>
+</menu>

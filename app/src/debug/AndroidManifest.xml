@@ -3,6 +3,13 @@
 
     <application>
         <activity
+            android:name=".Activity_recipe_list"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".DrawerBaseActivity"
             android:exported="false">
             <meta-data

@@ -56,27 +56,27 @@ public class MainActivity extends DashboardActivity {
         allocateActivityTitle("Home");
 
 
-        btnLogOut = findViewById(R.id.btnLogout);
-        btnAddRecipe = findViewById(R.id.btnAddRecipe);
-        btnUpdateRecipe = findViewById(R.id.btnUpdateRecipe);
-        btnSearchView = findViewById(R.id.btnSearchView);
-
-        btnAddRecipe.setOnClickListener(view -> {
-            startActivity(new Intent(MainActivity.this, AddRecipe.class));
-        });
-
-        btnUpdateRecipe.setOnClickListener(view -> {
-            startActivity(new Intent(MainActivity.this, UpdateRecipe.class));
-        });
-
-        btnSearchView.setOnClickListener(view -> {
-            startActivity(new Intent(MainActivity.this, SearchRecipe.class));
-        });
-
-        btnLogOut.setOnClickListener(view -> {
-            mAuth.signOut();
-            startActivity(new Intent(MainActivity.this, LoginGoogle.class));
-        });
+//        btnLogOut = findViewById(R.id.btnLogout);
+//        btnAddRecipe = findViewById(R.id.btnAddRecipe);
+//        btnUpdateRecipe = findViewById(R.id.btnUpdateRecipe);
+//        btnSearchView = findViewById(R.id.btnSearchView);
+//
+//        btnAddRecipe.setOnClickListener(view -> {
+//            startActivity(new Intent(MainActivity.this, AddRecipe.class));
+//        });
+//
+//        btnUpdateRecipe.setOnClickListener(view -> {
+//            startActivity(new Intent(MainActivity.this, UpdateRecipe.class));
+//        });
+//
+//        btnSearchView.setOnClickListener(view -> {
+//            startActivity(new Intent(MainActivity.this, SearchRecipe.class));
+//        });
+//
+//        btnLogOut.setOnClickListener(view -> {
+//            mAuth.signOut();
+//            startActivity(new Intent(MainActivity.this, LoginGoogle.class));
+//        });
 
     }
 
