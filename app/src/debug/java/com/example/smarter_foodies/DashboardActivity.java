@@ -37,8 +37,8 @@ public class DashboardActivity extends DrawerBaseActivity {
                     if (dataSnapshot.exists()) {
                         User user1 = dataSnapshot.getValue(User.class);
                         if (user1 != null) {
-//                            setUserContentView(activityDashboardBinding.getRoot(), user1.isChef);
-                            setUserContentView(activityDashboardBinding.getRoot(), true);
+                            setUserContentView(activityDashboardBinding.getRoot(), user1.isChef);
+//                            setUserContentView(activityDashboardBinding.getRoot(), true);
                         }
                         else{
                             setUserContentView(activityDashboardBinding.getRoot(), false);

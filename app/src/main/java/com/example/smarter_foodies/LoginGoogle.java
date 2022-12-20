@@ -20,6 +20,7 @@ import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.gms.auth.api.signin.GoogleSignInClient;
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
 import com.google.android.gms.common.api.ApiException;
+import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthCredential;
 import com.google.firebase.auth.FirebaseAuth;
@@ -174,6 +175,7 @@ public class LoginGoogle extends AppCompatActivity {
                 @Override
                 public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                     if (!dataSnapshot.exists()) {
+                        AddEmailToEmailTree();
                         Intent intent = new Intent(getApplicationContext(), ApplyChef.class);
                         startActivity(intent);
                     } else {
@@ -193,6 +195,30 @@ public class LoginGoogle extends AppCompatActivity {
 
         }
 
+    }
+
+    private void AddEmailToEmailTree()
+    {
+        FirebaseUser firebaseUser = mAuth.getCurrentUser();
+        if (firebaseUser != null) {
+            String userEmail = firebaseUser.getEmail();
+//            int index = userEmail.indexOf("@");
+//            String preUserEmail = userEmail.substring(0,index);
+            String preUserEmail = userEmail.replace(".", "{*}");
+            String uid = firebaseUser.getUid();
+            FirebaseDatabase.getInstance().getReference("email").child(preUserEmail).setValue(uid).addOnCompleteListener(new OnCompleteListener<Void>() {
+                @Override
+                public void onComplete(@NonNull Task<Void> task) {
+                    if (task.isSuccessful()) {
+                        Toast.makeText(LoginGoogle.this, "Success on adding the email ", Toast.LENGTH_LONG).show();
+
+                    } else {
+                        Toast.makeText(LoginGoogle.this, "Error adding the email ", Toast.LENGTH_LONG).show();
+                    }
+
+                }
+            });
+        }
     }
 
 
