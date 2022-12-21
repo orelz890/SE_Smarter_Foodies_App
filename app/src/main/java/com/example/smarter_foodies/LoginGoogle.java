@@ -123,44 +123,11 @@ public class LoginGoogle extends AppCompatActivity {
                 .addOnCompleteListener(this, task -> {
                     if (task.isSuccessful()) {
                         Toast.makeText(LoginGoogle.this, "Sign in success", Toast.LENGTH_LONG).show();
-//                        Intent intent = new Intent(getApplicationContext(), ApplyChef.class);
-//                        startActivity(intent);
                         checkUser();
-                        // Sign in success, update UI with the signed-in user's information
-                        //FirebaseUser fuser = mAuth.getCurrentUser();
-//                            User user = new User();
-//                        if (fuser != null) {
-//                            String uid = fuser.getUid();
-//                            DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
-//                            reference.addValueEventListener(new ValueEventListener() {
-//                                @Override
-//                                public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-//                                    if (!dataSnapshot.exists()) {
-//                                        Intent intent = new Intent(getApplicationContext(), ApplyChef.class);
-//                                        startActivity(intent);
-//                                    } else {
-//                                        User user1 = dataSnapshot.getValue(User.class);
-//                                        if (user1 != null && !user1.firstEntry) {
-//                                            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
-//                                            startActivity(intent);
-//                                        }
-//                                    }
-//                                }
-//
-//                                @Override
-//                                public void onCancelled(@NonNull DatabaseError error) {
-//                                    Log.d("TAG", error.getMessage());
-//                                }
-//                            });
-//
-//                        }
-
                     } else {
                         Toast.makeText(LoginGoogle.this, "Sorry auth failed.", Toast.LENGTH_LONG).show();
                     }
 
-
-                    // ...
                 });
 
 
@@ -202,8 +169,6 @@ public class LoginGoogle extends AppCompatActivity {
         FirebaseUser firebaseUser = mAuth.getCurrentUser();
         if (firebaseUser != null) {
             String userEmail = firebaseUser.getEmail();
-//            int index = userEmail.indexOf("@");
-//            String preUserEmail = userEmail.substring(0,index);
             String preUserEmail = userEmail.replace(".", "{*}");
             String uid = firebaseUser.getUid();
             FirebaseDatabase.getInstance().getReference("email").child(preUserEmail).setValue(uid).addOnCompleteListener(new OnCompleteListener<Void>() {

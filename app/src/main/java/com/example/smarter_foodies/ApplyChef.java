@@ -11,6 +11,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.text.InputType;
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -22,22 +23,29 @@ import android.widget.Toast;
 import com.example.smarter_foodies.databinding.ActivityApplyChefBinding;
 import com.example.smarter_foodies.databinding.ActivityMainBinding;
 import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.OnFailureListener;
+import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 import java.io.IOException;
 import java.security.GeneralSecurityException;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import javax.mail.MessagingException;
 
 public class ApplyChef extends AppCompatActivity {
 
-    //ActivityApplyChefBinding binding;
     TextInputEditText etName;
     TextInputEditText etResume;
     TextView etSkip;
@@ -49,17 +57,15 @@ public class ApplyChef extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_apply_chef);
-//        binding = ActivityApplyChefBinding.inflate(getLayoutInflater());
-//        setContentView(binding.getRoot());
+
 
         etName = findViewById(R.id.etName);
         etResume = findViewById(R.id.etResume);
         etSkip = findViewById(R.id.etSkip);
         btnApply = findViewById(R.id.btnApply);
-
-
         mAuth = FirebaseAuth.getInstance();
 
+        getNicknameIfExist();
 
         btnApply.setOnClickListener(view -> {
             try {
@@ -70,45 +76,15 @@ public class ApplyChef extends AppCompatActivity {
         });
 
         etSkip.setOnClickListener(view -> {
-            createDialog();
+            checkUser();
+//            createDialog();
 //            createWhatsappDialog("hi eilon hiiiiiiii\n versus me");
-//            User user = new User(name);
-//            FirebaseUser firebaseUser = mAuth.getCurrentUser();
-//            if (firebaseUser != null) {
-//                if (user.firstEntry) {
-//                    user.firstEntry = false;
-//                    FirebaseDatabase.getInstance().getReference("users").child(firebaseUser.getUid()).setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
-//                        @Override
-//                        public void onComplete(@NonNull Task<Void> task) {
-//                            if(task.isSuccessful()){
-//                                Toast.makeText(ApplyChef.this, "User Skip Application.", Toast.LENGTH_SHORT).show();
-//                                startActivity(new Intent(ApplyChef.this, MainActivity.class));
-//                            }else{
-//                                Toast.makeText(ApplyChef.this, "Error adding the user data", Toast.LENGTH_LONG).show();
-//                                startActivity(new Intent(ApplyChef.this, LoginGoogle.class));
-//                            }
-//
-//                        }
-//                    });
-//
-//                }
-//            } else {
-//                Toast.makeText(ApplyChef.this, "Sign in Error: ", Toast.LENGTH_SHORT).show();
-//                startActivity(new Intent(ApplyChef.this, LoginGoogle.class));
-//            }
-//            startActivity(new Intent(ApplyChef.this, MainActivity.class));
         });
     }
 
-    private boolean containsWordsArray(String inputString, String[] words) {
-        List<String> inputStringList = Arrays.asList(inputString.split(" "));
-        List<String> wordsList = Arrays.asList(words);
-//        String[] keyWords = {"Education", "Skills", "Chef", "kitchen", "food", "passion"};
-
-        return inputStringList.containsAll(wordsList);
-    }
 
     private void createApplication() throws MessagingException, IOException, GeneralSecurityException {
+
         String name = etName.getText().toString().trim();
         String resume = etResume.getText().toString().trim();
 
@@ -121,28 +97,9 @@ public class ApplyChef extends AppCompatActivity {
             etResume.requestFocus();
             return;
         }
-        User user = new User(name);
         FirebaseUser firebaseUser = mAuth.getCurrentUser();
         if (firebaseUser != null) {
             sendEmail("smarterfoodies@gmail.com","Application as Chef", resume);
-
-//            if (user.firstEntry) {
-//                user.firstEntry = false;
-//                FirebaseDatabase.getInstance().getReference("users").child(firebaseUser.getUid()).setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
-//                    @Override
-//                    public void onComplete(@NonNull Task<Void> task) {
-//                        if(task.isSuccessful()){
-//                            Toast.makeText(ApplyChef.this, "User applied successfully as chef..", Toast.LENGTH_LONG).show();
-//                            startActivity(new Intent(ApplyChef.this, MainActivity.class));
-//                        }else{
-//                            Toast.makeText(ApplyChef.this, "Error adding the user data", Toast.LENGTH_LONG).show();
-//                            startActivity(new Intent(ApplyChef.this, LoginGoogle.class));
-//                        }
-//
-//                    }
-//                });
-//
-//            }
         } else {
             Toast.makeText(ApplyChef.this, "Sign in Error: ", Toast.LENGTH_SHORT).show();
             startActivity(new Intent(ApplyChef.this, LoginGoogle.class));
@@ -153,7 +110,6 @@ public class ApplyChef extends AppCompatActivity {
     public void sendEmail(String toEmailAddress,String subject,String body){
         Intent intent = new Intent(Intent.ACTION_SEND);
         intent.setType("message/rfc822");
-        //intent.setData(Uri.parse("mailto:"));
         String[] addresses = toEmailAddress.split(",");
         intent.putExtra(Intent.EXTRA_EMAIL, addresses);
         intent.putExtra(Intent.EXTRA_SUBJECT, subject);
@@ -165,8 +121,6 @@ public class ApplyChef extends AppCompatActivity {
             Toast.makeText(ApplyChef.this, "There is no application that support this action",
                     Toast.LENGTH_SHORT).show();
         }
-//        String name = etName.getText().toString().trim();
-//        insertUser(1,name);
 
     }
 
@@ -174,37 +128,124 @@ public class ApplyChef extends AppCompatActivity {
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         String name = etName.getText().toString().trim();
-        insertUser(1,name);
+        updateApply(1,name);
     }
+
+    private void getNicknameIfExist(){
+        FirebaseUser firebaseUser = mAuth.getCurrentUser();
+        DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(firebaseUser.getUid());
+        reference.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+                if (!dataSnapshot.exists()) {
+                    Toast.makeText(ApplyChef.this, "Welcome", Toast.LENGTH_LONG).show();
+
+                } else {
+                    User user1 = dataSnapshot.getValue(User.class);
+                    etName.setText(user1.Nickname);
+
+                }
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+                Log.d("TAG", error.getMessage());
+            }
+        });
+
+    }
+    private void updateApply(int Case,String name){
+        FirebaseUser firebaseUser = mAuth.getCurrentUser();
+
+        DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(firebaseUser.getUid());
+        reference.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+                if (!dataSnapshot.exists()) {
+                    insertUser(Case,name);
+                } else {
+                    updateNickname(name);
+                }
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+                Log.d("TAG", error.getMessage());
+            }
+        });
+    }
+
 
     private void insertUser(int Case, String name){
         FirebaseUser firebaseUser = mAuth.getCurrentUser();
         User user = new User(name);
         if (user.firstEntry) {
             user.firstEntry = false;
-            FirebaseDatabase.getInstance().getReference("users").child(firebaseUser.getUid()).setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
-                @Override
-                public void onComplete(@NonNull Task<Void> task) {
-                    if(task.isSuccessful()){
-                        if(Case == 1) {
-                            Toast.makeText(ApplyChef.this, "User applied successfully as chef..", Toast.LENGTH_LONG).show();
+            FirebaseDatabase.getInstance().getReference("users").child(firebaseUser.getUid()).setValue(user).addOnCompleteListener(task -> {
+                if(task.isSuccessful()){
+                    if(Case == 1) {
+                        Toast.makeText(ApplyChef.this, "User applied successfully as chef..", Toast.LENGTH_LONG).show();
+                        startActivity(new Intent(ApplyChef.this, MainActivity.class));
+                    }
+                    else{
+                            Toast.makeText(ApplyChef.this, "User Skip Application.", Toast.LENGTH_LONG).show();
                             startActivity(new Intent(ApplyChef.this, MainActivity.class));
                         }
-                        else{
-                                Toast.makeText(ApplyChef.this, "User Skip Application.", Toast.LENGTH_LONG).show();
-                                startActivity(new Intent(ApplyChef.this, MainActivity.class));
-                            }
-                    }else{
-                        Toast.makeText(ApplyChef.this, "Error adding the user data", Toast.LENGTH_LONG).show();
-                        startActivity(new Intent(ApplyChef.this, LoginGoogle.class));
-                    }
-
+                }else{
+                    Toast.makeText(ApplyChef.this, "Error adding the user data", Toast.LENGTH_LONG).show();
+                    startActivity(new Intent(ApplyChef.this, LoginGoogle.class));
                 }
+
             });
 
         }
 
     }
+
+    public void updateNickname(String name){
+        FirebaseUser firebaseUser = mAuth.getCurrentUser();
+        DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(firebaseUser.getUid());
+        reference.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+                if (!dataSnapshot.exists()) {
+                    System.out.println("could be, something went wrong");
+                } else {
+                    User user1 = dataSnapshot.getValue(User.class);
+                    if(!(user1.Nickname.equals(name))){
+                        Map<String, Object> userUpdates = new HashMap<>();
+                        userUpdates.put("Nickname", name);
+                        FirebaseDatabase.getInstance().getReference().child("users").child(firebaseUser.getUid()).updateChildren(userUpdates)
+                                .addOnSuccessListener(new OnSuccessListener<Void>() {
+                                    @Override
+                                    public void onSuccess(Void aVoid) {
+                                        System.out.println("success to update Nickname");
+                                        startActivity(new Intent(ApplyChef.this, MainActivity.class));
+
+                                    }
+                                })
+                                .addOnFailureListener(new OnFailureListener() {
+                                    @Override
+                                    public void onFailure(@NonNull Exception e) {
+                                        System.err.println("error to update Nickname");
+                                    }
+                                });
+                    }
+
+                }
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+                Log.d("TAG", error.getMessage());
+            }
+        });
+
+    }
+
+
+
+
 
 
 
@@ -231,9 +272,8 @@ public class ApplyChef extends AppCompatActivity {
                 }
                 FirebaseUser firebaseUser = mAuth.getCurrentUser();
                 if (firebaseUser != null) {
-                    insertUser(0,nickname);
+                    updateApply(0,nickname);
                 }
-                // Do something with the nickname
             }
         });
         builder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
@@ -247,6 +287,75 @@ public class ApplyChef extends AppCompatActivity {
 
     }
 
+
+
+    private void createWhatsappDialog(String itemList){
+
+        AlertDialog.Builder builder = new AlertDialog.Builder(this, androidx.appcompat.R.style.Base_Widget_AppCompat_ActionBar_TabBar);
+        final View customLayout = getLayoutInflater().inflate(R.layout.whatsapp_dialog, null);
+        builder.setView(customLayout);
+        builder.setCancelable(false);
+        ImageView imageView = customLayout.findViewById(R.id.btnWhatsapp);
+
+        imageView.setOnClickListener(view -> {
+            Intent intent = new Intent(Intent.ACTION_SEND);
+            intent.putExtra(Intent.EXTRA_TEXT, itemList);
+            intent.setType("text/plain");
+            intent.setPackage("com.whatsapp");
+            try {
+                startActivity(intent);
+            }catch (Exception exception)
+            {
+                Toast.makeText(ApplyChef.this, "There is no application that support this action",
+                        Toast.LENGTH_SHORT).show();
+            }
+
+        });
+        builder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                dialog.cancel();
+            }
+        });
+
+        builder.show();
+
+    }
+
+    private void checkUser(){
+        FirebaseUser fuser = mAuth.getCurrentUser();
+        if (fuser != null) {
+            String uid = fuser.getUid();
+            DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
+            reference.addValueEventListener(new ValueEventListener() {
+                @Override
+                public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+                    if (!dataSnapshot.exists()) {
+                        createDialog();
+                    } else {
+                        User user1 = dataSnapshot.getValue(User.class);
+                        if (user1 != null && !user1.firstEntry) {
+                            if(!(user1.Nickname.equals(etName.getText().toString()))) {
+                                updateApply(0, etName.getText().toString());
+                                Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                                startActivity(intent);
+                            }else{
+                                Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                                startActivity(intent);
+                            }
+                        }
+                    }
+                }
+
+                @Override
+                public void onCancelled(@NonNull DatabaseError error) {
+                    Log.d("TAG", error.getMessage());
+                }
+            });
+
+        }
+
+    }
 }
 
 
