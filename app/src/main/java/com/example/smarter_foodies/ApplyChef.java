@@ -70,8 +70,8 @@ public class ApplyChef extends AppCompatActivity {
         });
 
         etSkip.setOnClickListener(view -> {
-//            createDialog();
-            createWhatsappDialog("hi eilon hiiiiiiii\n versus me");
+            createDialog();
+//            createWhatsappDialog("hi eilon hiiiiiiii\n versus me");
 //            User user = new User(name);
 //            FirebaseUser firebaseUser = mAuth.getCurrentUser();
 //            if (firebaseUser != null) {
@@ -247,38 +247,6 @@ public class ApplyChef extends AppCompatActivity {
 
     }
 
-    private void createWhatsappDialog(String itemList){
-
-        AlertDialog.Builder builder = new AlertDialog.Builder(this, androidx.appcompat.R.style.Base_Widget_AppCompat_ActionBar_TabBar);
-        final View customLayout = getLayoutInflater().inflate(R.layout.whatsapp_dialog, null);
-        builder.setView(customLayout);
-        builder.setCancelable(false);
-        ImageView imageView = customLayout.findViewById(R.id.btnWhatsapp);
-
-        imageView.setOnClickListener(view -> {
-            Intent intent = new Intent(Intent.ACTION_SEND);
-            intent.putExtra(Intent.EXTRA_TEXT, itemList);
-            intent.setType("text/plain");
-            intent.setPackage("com.whatsapp");
-            try {
-                startActivity(intent);
-            }catch (Exception exception)
-            {
-                Toast.makeText(ApplyChef.this, "There is no application that support this action",
-                        Toast.LENGTH_SHORT).show();
-            }
-
-        });
-        builder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
-            @Override
-            public void onClick(DialogInterface dialog, int which) {
-                dialog.cancel();
-            }
-        });
-
-        builder.show();
-
-    }
 }
 
 

@@ -1,6 +1,7 @@
 package com.example.smarter_foodies;
 
 import android.content.Context;
+import android.content.Intent;
 import android.graphics.BitmapFactory;
 import android.graphics.drawable.Drawable;
 import android.util.Log;
@@ -56,6 +57,32 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
         }
         foodViewHolder.mTitle.setText(recipe.getTitle());
         foodViewHolder.mCalories.setText(recipe.getCalories());
+
+        foodViewHolder.mCardView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(mContext,RecipePage.class);
+                List<String> images = myFoodList.get(foodViewHolder.getAdapterPosition()).getImages();
+                intent.putExtra("recipeImage",images.get(images.size() - 1));
+                intent.putExtra("CategoryAndSub",myFoodList.get(foodViewHolder.getAdapterPosition()).getCategory());
+                intent.putExtra("name",myFoodList.get(foodViewHolder.getAdapterPosition()).getTitle());
+                intent.putExtra("copyRights",myFoodList.get(foodViewHolder.getAdapterPosition()).getCopy_rights());
+                intent.putExtra("carbs",myFoodList.get(foodViewHolder.getAdapterPosition()).getCarbs());
+                intent.putExtra("protein",myFoodList.get(foodViewHolder.getAdapterPosition()).getProtein());
+                intent.putExtra("fats",myFoodList.get(foodViewHolder.getAdapterPosition()).getFat());
+                intent.putExtra("calories",myFoodList.get(foodViewHolder.getAdapterPosition()).getCalories());
+                intent.putExtra("ingardiants",myFoodList.get(foodViewHolder.getAdapterPosition()).getIngredients().toString());
+                intent.putExtra("HowToMake",myFoodList.get(foodViewHolder.getAdapterPosition()).getDirections().toString());
+                intent.putExtra("prepTime",myFoodList.get(foodViewHolder.getAdapterPosition()).getPrepTime());
+                intent.putExtra("cookTime",myFoodList.get(foodViewHolder.getAdapterPosition()).getCookingTime());
+                intent.putExtra("totalTime",myFoodList.get(foodViewHolder.getAdapterPosition()).getTotalTime());
+                intent.putExtra("servings",myFoodList.get(foodViewHolder.getAdapterPosition()).getServings());
+
+                mContext.startActivity(intent);
+            }
+        });
+
+
     }
 
 //    private void setBestImage(FoodViewHolder foodViewHolder, int i) {

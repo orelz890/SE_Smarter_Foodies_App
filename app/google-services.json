@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "375458593948",
+    "firebase_url": "https://smarter-foodies-default-rtdb.firebaseio.com",
     "project_id": "smarter-foodies",
     "storage_bucket": "smarter-foodies.appspot.com"
   },
@@ -14,11 +15,35 @@
       },
       "oauth_client": [
         {
+          "client_id": "375458593948-f8ikhqclkec2imqi57jdsalp5d0tq4bk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarter_foodies",
+            "certificate_hash": "05b09c68c8949dbaba602f7650dc6548ce8b06e0"
+          }
+        },
+        {
           "client_id": "375458593948-iatkihfcklqpfqvouf2gk3t4pm1vmeai.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.smarter_foodies",
             "certificate_hash": "1c4b30e7a05f4f2c32582628d12fd9e79682859d"
+          }
+        },
+        {
+          "client_id": "375458593948-tkujgh8elk4ter459bdl0apa5ui0iehp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarter_foodies",
+            "certificate_hash": "77ed922f5df2ad987a70a6ce17e11817c9d5a7f6"
+          }
+        },
+        {
+          "client_id": "375458593948-u9bef065s6uk43odigsjkri17kk1anr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarter_foodies",
+            "certificate_hash": "593ea0ed8014322156e85e790e4801ac38fe5705"
           }
         },
         {
@@ -35,7 +60,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "375458593948-epgmf7kvdilf2rfildso84cq4o12oki2.apps.googleusercontent.com",
+              "client_id": "375458593948-31851s1vqk23bgbvb5vp8vpsth7nqsbn.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
