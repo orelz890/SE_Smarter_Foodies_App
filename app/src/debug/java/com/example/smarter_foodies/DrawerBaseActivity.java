@@ -99,7 +99,7 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
     private void handleChefMenu(MenuItem item){
         switch (item.getItemId()){
             case R.id.nav_home:
-            case R.id.nav_profile:
+
             case R.id.nav_weekly_planing:
 
             case R.id.nav_favorites:             // need to build favorites page first
@@ -107,6 +107,13 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
                 // For smooth transition
                 overridePendingTransition(0,0);
                 break;
+
+            case R.id.nav_profile:
+                startActivity(new Intent(this, fragment_profile.class));
+                // For smooth transition
+                overridePendingTransition(0,0);
+                break;
+
 
             case R.id.nav_search:
                 startActivity(new Intent(this, SearchRecipe.class));
@@ -135,7 +142,6 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
     private void handleBasicMenu(MenuItem item){
         switch (item.getItemId()){
             case R.id.nav_home:
-            case R.id.nav_profile:
             case R.id.nav_weekly_planing:
 
             case R.id.nav_favorites:             // need to build favorites page first
@@ -143,6 +149,13 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
                 // For smooth transition
                 overridePendingTransition(0,0);
                 break;
+
+            case R.id.nav_profile:
+                startActivity(new Intent(this, fragment_profile.class));
+                // For smooth transition
+                overridePendingTransition(0,0);
+                break;
+
 
             case R.id.nav_search:
                 startActivity(new Intent(this, SearchRecipe.class));

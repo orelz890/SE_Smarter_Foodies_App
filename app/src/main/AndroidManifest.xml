@@ -13,13 +13,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Smarter_Foodies">
-        <activity
-            android:name=".UpdateProfile"
-            android:exported="false">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
+<!--       <activity-->
+<!--           android:name=".UpdateProfile"-->
+<!--           android:exported="false">-->
+<!--            <meta-data-->
+<!--                android:name="android.app.lib_name"-->
+<!--                android:value="" />-->
+<!--        </activity>-->
         <!-- <activity -->
         <!-- android:name=".fragment_profile" -->
         <!-- android:exported="false"> -->
@@ -52,6 +52,8 @@
         <activity android:name=".RegisterActivity" />
         <activity android:name=".ApplyChef" />
         <activity android:name=".SearchRecipe" />
+        <activity android:name=".fragment_profile" />
+        <activity android:name=".UpdateProfile" />
         <activity android:name=".RecipePage" />
         <activity
             android:name=".UpdateRecipe"

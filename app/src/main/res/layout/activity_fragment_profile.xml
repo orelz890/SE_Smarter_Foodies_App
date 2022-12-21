@@ -67,15 +67,15 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:orientation="vertical">
-                            
+
                             <TextView
+                                android:id="@+id/posts"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:id="@+id/posts"
-                                android:textColor="@color/black"
                                 android:layout_gravity="center"
+                                android:textColor="@color/black"
                                 android:textSize="18dp"
-                                android:textStyle="bold"/>
+                                android:textStyle="bold" />
 
                             <TextView
                                 android:layout_width="wrap_content"
@@ -94,7 +94,7 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:id="@+id/followers"
+                                android:id="@+id/num_of_dishs"
                                 android:textColor="@color/black"
                                 android:layout_gravity="center"
                                 android:textSize="18dp"
@@ -190,7 +190,7 @@
                         android:layout_height="wrap_content"
                         android:drawableLeft="@drawable/ic_profile"
                         android:drawablePadding="10dp"
-                        android:text="sdf" />
+                        android:text="" />
 
 
                 </com.google.android.material.textfield.TextInputLayout>
@@ -208,7 +208,7 @@
                         android:layout_height="wrap_content"
                         android:drawableLeft="@drawable/ic_email"
                         android:drawablePadding="10dp"
-                        android:text="sdf" />
+                        android:text="" />
 
 
                 </com.google.android.material.textfield.TextInputLayout>
@@ -226,7 +226,7 @@
                         android:layout_height="wrap_content"
                         android:drawableLeft="@drawable/ic_chaf"
                         android:drawablePadding="10dp"
-                        android:text="sdf" />
+                        android:text="" />
 
 
                 </com.google.android.material.textfield.TextInputLayout>
@@ -244,7 +244,7 @@
                         android:layout_height="wrap_content"
                         android:drawableLeft="@drawable/ic_chois"
                         android:drawablePadding="10dp"
-                        android:text="sdf" />
+                        android:text="" />
 
 
                 </com.google.android.material.textfield.TextInputLayout>
@@ -262,7 +262,7 @@
                         android:layout_height="wrap_content"
                         android:drawableLeft="@drawable/ic_favorit"
                         android:drawablePadding="10dp"
-                        android:text="sdf" />
+                        android:text="" />
 
 
                 </com.google.android.material.textfield.TextInputLayout>
@@ -280,7 +280,7 @@
                         android:layout_height="wrap_content"
                         android:drawableLeft="@drawable/ic_website"
                         android:drawablePadding="10dp"
-                        android:text="sdf" />
+                        android:text="" />
 
 
                 </com.google.android.material.textfield.TextInputLayout>

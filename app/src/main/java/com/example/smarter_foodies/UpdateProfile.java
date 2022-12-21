@@ -1,23 +1,26 @@
 package com.example.smarter_foodies;
 
+import static android.content.ContentValues.TAG;
+
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.fragment.app.Fragment;
 
-import android.content.Context;
+import android.annotation.SuppressLint;
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.view.LayoutInflater;
+import android.util.Log;
 import android.view.View;
-import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
-import com.google.android.material.textfield.TextInputEditText;
+import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.OnFailureListener;
+import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.android.gms.tasks.Task;
 import com.google.android.material.textfield.TextInputLayout;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -26,54 +29,48 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import com.google.firebase.firestore.DocumentReference;
+import com.google.firebase.firestore.DocumentSnapshot;
+import com.google.firebase.firestore.FirebaseFirestore;
+import com.google.firebase.firestore.FirebaseFirestoreException;
+import com.google.firebase.firestore.Transaction;
+
+import org.w3c.dom.Document;
 
 import java.io.IOException;
 import java.security.GeneralSecurityException;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Objects;
 
 import javax.mail.MessagingException;
 
-public class fragment_profile extends DashboardActivity {
-    private FirebaseAuth mAuth;
-
-    ImageView image_profile, options;
+public class UpdateProfile extends AppCompatActivity {
+    Button button;
+    FirebaseDatabase database = FirebaseDatabase.getInstance();
     TextInputLayout fullname, email, eating, favrorit, wabsite, ischef;
-    TextView posts, num_of_dishs, following;
-    Button update_profile;
-    FirebaseUser firebaseUser;
     String Uid;
-    ImageButton my_fotos, saved_fotos;
 
 
+    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        LinearLayout rootLayout = new LinearLayout(this);
-        rootLayout.setOrientation(LinearLayout.VERTICAL);
-        View activityMainView = LayoutInflater.from(this).inflate(R.layout.activity_fragment_profile, rootLayout, false);
-        rootLayout.addView(activityMainView);
-        setContentView(rootLayout);
-        allocateActivityTitle("My Profile");
-
-        firebaseUser = FirebaseAuth.getInstance().getCurrentUser();
-        image_profile = findViewById(R.id.image_profile);
-        posts = findViewById(R.id.posts);
-        num_of_dishs = findViewById(R.id.num_of_dishs);
-        following = findViewById(R.id.following);
-        fullname = findViewById(R.id.full_name_pp);
-        email = findViewById(R.id.email_pp);
-        update_profile = findViewById(R.id.update_profile);
-        my_fotos = findViewById(R.id.my_fotos);
-        saved_fotos = findViewById(R.id.save_fotos);
-        eating = findViewById(R.id.type_pp);
-        favrorit = findViewById(R.id.favorit_pp);
-        wabsite = findViewById(R.id.website_pp);
-        ischef = findViewById(R.id.chaf_pp);
+        setContentView(R.layout.activity_update_profile);
+        fullname = findViewById(R.id.full_name_up);
+        email = findViewById(R.id.email_up);
+        eating = findViewById(R.id.type_up);
+        favrorit = findViewById(R.id.favorit_up);
+        wabsite = findViewById(R.id.website_up);
+        ischef = findViewById(R.id.chaf_up);
+        button = findViewById(R.id.btn_up);
 
 
+        // to show the cuurent data on the scrren
         FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
         assert user != null;
         String cuurentid = user.getUid();
         this.Uid = cuurentid;
+
         DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(Uid);
 
         reference.addValueEventListener(new ValueEventListener() {
@@ -118,6 +115,10 @@ public class fragment_profile extends DashboardActivity {
                     ischef.getEditText().setText(isChefresult);
 
 
+                    button.setOnClickListener(view -> {
+                        UpdateProfilecaller();
+                    });
+
                 }
             }
 
@@ -127,50 +128,59 @@ public class fragment_profile extends DashboardActivity {
             }
         });
 
-
-
-        update_profile.setOnClickListener(view -> {
-            try {
-                UpdateProfilecaller();
-            } catch (MessagingException | IOException | GeneralSecurityException e) {
-                e.printStackTrace();
-            }
-        });
-
     }
 
-    public View onCreatView(LayoutInflater inflater, ViewGroup continer, Bundle savedinstancestate) {
+    private void UpdateProfilecaller() {
+        // what we get after the changing
+        String nname = String.valueOf(fullname.getEditText().getText());
+        String eemail = String.valueOf(email.getEditText().getText());
+        String eeating = String.valueOf(eating.getEditText().getText());
+        String ffavrorit = String.valueOf(favrorit.getEditText().getText());
+        String wwabsite = String.valueOf(wabsite.getEditText().getText());
 
-        View view = inflater.inflate(R.layout.activity_fragment_profile, continer, false);
-
-        FirebaseUser fuser = mAuth.getCurrentUser();
+        FirebaseUser fuser = FirebaseAuth.getInstance().getCurrentUser();
         if (fuser != null) {
             String uid = fuser.getUid();
+
             DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
-            String name = reference.child("Nickname").toString();
-            String eemail = reference.child("Email").toString();
-            String ttype_food = reference.child("Type_food").toString();
-            String ffavorite = reference.child("favorite").toString();
-            String wwab = reference.child("Wabsite").toString();
 
-            Objects.requireNonNull(fullname.getEditText()).setText(name);
-            Objects.requireNonNull(email.getEditText()).setText(eemail);
-            Objects.requireNonNull(eating.getEditText()).setText(ttype_food);
-            Objects.requireNonNull(wabsite.getEditText()).setText(wwab);
-            Objects.requireNonNull(favrorit.getEditText()).setText(ffavorite);
+            //update the name
+            DatabaseReference hopperRef = reference;
+            Map<String, Object> hopperUpdates = new HashMap<>();
+            hopperUpdates.put("Nickname", nname);
+            hopperRef.updateChildren(hopperUpdates);
 
-            return view;
+            //update the email
+            DatabaseReference a = reference;
+            Map<String, Object> b = new HashMap<>();
+            b.put("Email", eemail);
+            a.updateChildren(b);
+
+            //update the Eating
+            DatabaseReference c = reference;
+            Map<String, Object> d = new HashMap<>();
+            d.put("Eating", eeating);
+            c.updateChildren(d);
+
+            //update the Favrorit
+            DatabaseReference e = reference;
+            Map<String, Object> f = new HashMap<>();
+            f.put("Favrorit", ffavrorit);
+            e.updateChildren(f);
+
+            //update the Wabsite
+            DatabaseReference g = reference;
+            Map<String, Object> h = new HashMap<>();
+            h.put("Wabsite", wwabsite);
+            g.updateChildren(h);
+
+
         }
-
-
-        return view;
     }
-
-
-
-    private void UpdateProfilecaller() throws MessagingException, IOException, GeneralSecurityException {
-        startActivity(new Intent(fragment_profile.this, UpdateProfile.class));
-    }
-
-
 }
+
+
+
+
+
+
