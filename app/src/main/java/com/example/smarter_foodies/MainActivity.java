@@ -59,7 +59,6 @@ public class MainActivity extends DashboardActivity {
     CRUD_RealTimeDatabaseData CRUD;
     RecyclerView mRecyclerView;
     List<recipe> myFoodList;
-    recipe mRecipe;
 
 
     @Override
@@ -69,7 +68,8 @@ public class MainActivity extends DashboardActivity {
         CRUD = new CRUD_RealTimeDatabaseData();
         LinearLayout rootLayout = new LinearLayout(this);
         rootLayout.setOrientation(LinearLayout.VERTICAL);
-        View activityMainView = LayoutInflater.from(this).inflate(R.layout.activity_main, rootLayout, false);
+        View activityMainView = LayoutInflater.from(this)
+                .inflate(R.layout.activity_main, rootLayout, false);
         rootLayout.addView(activityMainView);
         setContentView(rootLayout);
         allocateActivityTitle("Home");
@@ -108,7 +108,8 @@ public class MainActivity extends DashboardActivity {
                             byte[] buffer = new byte[size];
                             inputStream.read(buffer);
                             String json_str = new String(buffer);
-                            JsonObject jsonObject = new JsonParser().parse(json_str).getAsJsonObject();
+                            JsonObject jsonObject = new JsonParser().parse(json_str)
+                                    .getAsJsonObject();
                             String copy_rights = "https://www.allrecipes.com/";
                             recipe curr_recipe = new recipe(jsonObject, copy_rights);
                             System.out.println(curr_recipe);
@@ -127,6 +128,8 @@ public class MainActivity extends DashboardActivity {
         }
         return true;
     }
+
+
     private void setRecycleView() {
         mRecyclerView = (RecyclerView) findViewById(R.id.recyclerView);
 
@@ -138,16 +141,6 @@ public class MainActivity extends DashboardActivity {
 
     private void setRecyclerAdapter() {
         myFoodList = new ArrayList<>();
-//        mRecipe = new recipe();
-//        mRecipe.setTitle("Orel");
-//        myFoodList.add(mRecipe);
-//        mRecipe = new recipe();
-//        mRecipe.setTitle("Eilon");
-//        myFoodList.add(new recipe());
-//        mRecipe = new recipe();
-//        mRecipe.setTitle("Harel");
-//        myFoodList.add(new recipe());
-
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
                 .getReference().child("recipes");
         mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
@@ -156,12 +149,16 @@ public class MainActivity extends DashboardActivity {
                 if (snapshot_filter.exists()) {
                     myFoodList.clear();
                     for (DataSnapshot snapshot : snapshot_filter.getChildren()) {
-                        Iterable<DataSnapshot> categorySnapshot = snapshot.getChildren();
-                        for (DataSnapshot subCategorySnapshot : categorySnapshot) {
-                            Iterable<DataSnapshot> recipeNamesSnapshot = subCategorySnapshot.getChildren();
-                            for (DataSnapshot recipeNameSnap : recipeNamesSnapshot) {
-                                recipe name = recipeNameSnap.getValue(recipe.class);
-                                myFoodList.add(name);
+                        String category = snapshot.getKey();
+                        if (category != null && !category.equals("animals")) {
+                            Iterable<DataSnapshot> categorySnapshot = snapshot.getChildren();
+                            for (DataSnapshot subCategorySnapshot : categorySnapshot) {
+                                Iterable<DataSnapshot> recipeNamesSnapshot
+                                        = subCategorySnapshot.getChildren();
+                                for (DataSnapshot recipeNameSnap : recipeNamesSnapshot) {
+                                    recipe name = recipeNameSnap.getValue(recipe.class);
+                                    myFoodList.add(name);
+                                }
                             }
                         }
                     }
