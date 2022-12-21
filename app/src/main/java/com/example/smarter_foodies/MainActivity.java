@@ -46,6 +46,7 @@ import com.google.gson.JsonParser;
 
 import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Set;
 
@@ -162,6 +163,7 @@ public class MainActivity extends DashboardActivity {
                             }
                         }
                     }
+                    Collections.shuffle(myFoodList);
                     MyAdapter myAdapter = new MyAdapter(MainActivity.this, myFoodList);
                     mRecyclerView.setAdapter(myAdapter);
                 }

@@ -26,12 +26,14 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Set;
 
 public class SearchRecipe extends DashboardActivity {
     AutoCompleteTextView autoCompleteSearchView;
-    ImageButton imageButton;
+    ImageButton ib_filter;
+    ImageButton ib_refresh;
     ArrayAdapter<String> arraySearchAdapter;
     List<String> recipesNamesList;
     CRUD_RealTimeDatabaseData CRUD;
@@ -69,12 +71,21 @@ public class SearchRecipe extends DashboardActivity {
     }
 
     private void InitManageSearchImageButton() {
-        imageButton = findViewById(R.id.ib_manage_search);
-        imageButton.setOnClickListener(new View.OnClickListener() {
+        ib_filter = findViewById(R.id.ib_manage_search);
+        ib_filter.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 // Handle button click event here
                 setFirstDialog();
+            }
+        });
+
+        ib_refresh = findViewById(R.id.ib_refresh_filter);
+        ib_refresh.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // Handle button click event here
+                setMainRecyclerAdapter();
             }
         });
     }
@@ -278,9 +289,10 @@ public class SearchRecipe extends DashboardActivity {
                     for (DataSnapshot child : snapshot_search.getChildren()) {
                         recipe curr_recipe = child.getValue(recipe.class);
                         myFoodList.add(curr_recipe);
-                        MyAdapter myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
-                        mRecyclerView.setAdapter(myAdapter);
                     }
+                    Collections.shuffle(myFoodList);
+                    MyAdapter myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
+                    mRecyclerView.setAdapter(myAdapter);
                 }
             }
 
@@ -313,6 +325,7 @@ public class SearchRecipe extends DashboardActivity {
                             }
                         }
                     }
+                    Collections.shuffle(myFoodList);
                     MyAdapter myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
                     mRecyclerView.setAdapter(myAdapter);
                 }
@@ -341,6 +354,7 @@ public class SearchRecipe extends DashboardActivity {
                             myFoodList.add(name);
                         }
                     }
+                    Collections.shuffle(myFoodList);
                     MyAdapter myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
                     mRecyclerView.setAdapter(myAdapter);
                 }
@@ -367,6 +381,7 @@ public class SearchRecipe extends DashboardActivity {
                         myFoodList.add(name);
                     }
                 }
+                Collections.shuffle(myFoodList);
                 MyAdapter myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
                 mRecyclerView.setAdapter(myAdapter);
             }
