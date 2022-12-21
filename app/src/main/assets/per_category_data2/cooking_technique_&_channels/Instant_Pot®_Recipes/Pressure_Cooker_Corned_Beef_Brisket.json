@@ -62,16 +62,16 @@
     ],
     "Images": [
         {
-            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8707273.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8707273.jpg"
         },
         {
-            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8314542.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8314542.jpg"
         },
         {
-            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7842436.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7842436.jpg"
         },
         {
-            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb749e7846f2681c8052cec67307eb9d5%2F7604388.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb749e7846f2681c8052cec67307eb9d5%2F7604388.jpg"
         }
     ],
     "main category": "cooking_technique_&_channels"

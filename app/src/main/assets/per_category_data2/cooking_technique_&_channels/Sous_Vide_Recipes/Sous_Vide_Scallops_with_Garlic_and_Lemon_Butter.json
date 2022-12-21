@@ -86,10 +86,10 @@
     ],
     "Images": [
         {
-            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6c5dd5ff25066123fac8010fba887f9b%2F1655074045IMG_20220611_161043242%7E2.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6c5dd5ff25066123fac8010fba887f9b%2F1655074045IMG_20220611_161043242%7E2.jpg"
         },
         {
-            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6480767.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6480767.jpg"
         }
     ],
     "main category": "cooking_technique_&_channels"

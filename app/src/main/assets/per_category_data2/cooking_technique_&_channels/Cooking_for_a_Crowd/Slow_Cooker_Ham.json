@@ -50,16 +50,16 @@
     ],
     "Images": [
         {
-            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2544a93ca1322fa134b913fc57eb83d6%2F1652883383BE557C74-E226-4EDD-B936-852D9DE9941C.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2544a93ca1322fa134b913fc57eb83d6%2F1652883383BE557C74-E226-4EDD-B936-852D9DE9941C.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8138600.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8138600.jpg"
         },
         {
-            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb7a0b2b151d0dae1ef1c39463880abfe%2F6575577.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2Fb7a0b2b151d0dae1ef1c39463880abfe%2F6575577.jpg"
         },
         {
-            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6189127.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6189127.jpg"
         },
         {
             "img5": "https://www.allrecipes.com/thmb/NCAqRaoiUoFLN1Vg5mvYnEVnyfU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2465980-slow-cooker-ham-AllrecipesMagazine-1x1-1-286f1729210349ac80971712cc5b5284.jpg"

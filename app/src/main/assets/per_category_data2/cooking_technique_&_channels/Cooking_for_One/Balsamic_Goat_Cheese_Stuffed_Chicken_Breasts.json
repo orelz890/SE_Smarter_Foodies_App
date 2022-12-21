@@ -68,16 +68,16 @@
     ],
     "Images": [
         {
-            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5026db7e9b08d5915bff3064d2637e98%2F1658360931goatchick.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F5026db7e9b08d5915bff3064d2637e98%2F1658360931goatchick.jpg"
         },
         {
-            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8197875.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8197875.jpg"
         },
         {
-            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8125759.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8125759.jpg"
         },
         {
-            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8097914.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8097914.jpg"
         }
     ],
     "main category": "cooking_technique_&_channels"

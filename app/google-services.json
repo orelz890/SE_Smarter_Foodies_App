@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "375458593948-f8ikhqclkec2imqi57jdsalp5d0tq4bk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarter_foodies",
+            "certificate_hash": "05b09c68c8949dbaba602f7650dc6548ce8b06e0"
+          }
+        },
+        {
           "client_id": "375458593948-iatkihfcklqpfqvouf2gk3t4pm1vmeai.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/ll_linearLayout"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/myCardView"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        app:cardElevation="3dp"
+        android:layout_margin="4dp"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="5.5"
+            android:orientation="vertical"
+            >
+
+            <ImageView
+                android:id="@+id/iv_image"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="4"
+                android:scaleType="centerCrop"
+                android:src="@drawable/iv_no_images_available"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:weightSum="2"
+                android:layout_weight="1.5"
+                >
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.3"
+                    android:padding="10dp"
+                    android:orientation="vertical"
+                    >
+
+                    <TextView
+                        android:id="@+id/tv_title"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Title"
+                        android:maxLines="1"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/teal_700"
+                        />
+
+                    <TextView
+                        android:id="@+id/tv_recipe_title"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="title"
+                        android:textSize="18sp"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight=".7"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    >
+                    <TextView
+                        android:id="@+id/tv_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Calories"
+                        android:gravity="center"
+                        android:maxLines="1"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/teal_700"
+                        />
+
+                    <TextView
+                        android:id="@+id/tv_calories"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Unknown"
+                        android:textSize="25dp"
+                        android:textAlignment="center"
+                        android:textColor="@color/colorPrimary"
+                        android:textStyle="bold"
+                        />
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+</LinearLayout>

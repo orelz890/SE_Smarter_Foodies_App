@@ -303,8 +303,7 @@ public class AddRecipe extends DashboardActivity {
             if (currentUser != null) {
                 r.setCopy_rights(currentUser.getUid());
             }
-            CRUD.loadDishToFilterTree(r);
-            CRUD.loadDishToSearchTree(r);
+            CRUD.loadDishToDatabase(r);
             flag = false;
             Toast.makeText(getApplicationContext(), r.toString(), Toast.LENGTH_SHORT).show();
 

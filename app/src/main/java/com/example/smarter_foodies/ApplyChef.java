@@ -11,8 +11,11 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.text.InputType;
 import android.text.TextUtils;
+import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageButton;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -56,6 +59,8 @@ public class ApplyChef extends AppCompatActivity {
 
 
         mAuth = FirebaseAuth.getInstance();
+
+
         btnApply.setOnClickListener(view -> {
             try {
                 createApplication();
@@ -66,6 +71,7 @@ public class ApplyChef extends AppCompatActivity {
 
         etSkip.setOnClickListener(view -> {
             createDialog();
+//            createWhatsappDialog("hi eilon hiiiiiiii\n versus me");
 //            User user = new User(name);
 //            FirebaseUser firebaseUser = mAuth.getCurrentUser();
 //            if (firebaseUser != null) {
@@ -200,6 +206,8 @@ public class ApplyChef extends AppCompatActivity {
 
     }
 
+
+
     private void createDialog(){
         AlertDialog.Builder builder = new AlertDialog.Builder(this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
         builder.setTitle("Enter Nickname");
@@ -238,6 +246,7 @@ public class ApplyChef extends AppCompatActivity {
         builder.show();
 
     }
+
 }
 
 

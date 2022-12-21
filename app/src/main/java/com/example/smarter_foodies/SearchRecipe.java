@@ -2,25 +2,23 @@ package com.example.smarter_foodies;
 
 import android.content.Context;
 import android.content.DialogInterface;
-import android.content.Intent;
-import android.media.Image;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
-import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
-import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.GridLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.smarter_foodies.databinding.ActivityDashboardBinding;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -28,16 +26,20 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Set;
 
 public class SearchRecipe extends DashboardActivity {
     AutoCompleteTextView autoCompleteSearchView;
-    ImageButton imageButton;
+    ImageButton ib_filter;
+    ImageButton ib_refresh;
     ArrayAdapter<String> arraySearchAdapter;
-    List<String> recipes;
-
+    List<String> recipesNamesList;
     CRUD_RealTimeDatabaseData CRUD;
+    RecyclerView mRecyclerView;
+    List<recipe> myFoodList;
+
     AutoCompleteTextView autoCompleteCategory;
     ArrayAdapter<String> adapterCategories;
     AutoCompleteTextView autoCompleteSubCategory;
@@ -56,20 +58,34 @@ public class SearchRecipe extends DashboardActivity {
         rootLayout.addView(activityMainView);
         setContentView(rootLayout);
         allocateActivityTitle("SearchRecipe");
-        CRUD = new CRUD_RealTimeDatabaseData();
 
-        recipes = new ArrayList<>();
+        CRUD = new CRUD_RealTimeDatabaseData();
+        recipesNamesList = new ArrayList<>();
+        myFoodList = new ArrayList<>();
+
+        defineRecycleView();
+        setMainRecyclerAdapter();
+
         InitAutoCompleteSearchView();
         InitManageSearchImageButton();
     }
 
-    private void InitManageSearchImageButton(){
-        imageButton = findViewById(R.id.ib_manage_search);
-        imageButton.setOnClickListener(new View.OnClickListener() {
+    private void InitManageSearchImageButton() {
+        ib_filter = findViewById(R.id.ib_manage_search);
+        ib_filter.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 // Handle button click event here
                 setFirstDialog();
+            }
+        });
+
+        ib_refresh = findViewById(R.id.ib_refresh_filter);
+        ib_refresh.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // Handle button click event here
+                setMainRecyclerAdapter();
             }
         });
     }
@@ -129,8 +145,8 @@ public class SearchRecipe extends DashboardActivity {
             @Override
             public void onClick(DialogInterface dialogInterface, int which) {
                 System.out.println("category- " + category + "\tsubCategory- " + subCategory);
-                if (!category.isEmpty()){
-                    InitAutoCompleteFilterView();
+                if (!category.isEmpty()) {
+                    adjustAutoCompleteFilterView();
                 }
             }
         });
@@ -143,7 +159,7 @@ public class SearchRecipe extends DashboardActivity {
         dialog.show();
     }
 
-
+    // Set the filter names list + set adapter for the autoCompleteSearchView
     private void InitAutoCompleteSearchView() {
         autoCompleteSearchView = findViewById(R.id.ac_searchView);
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
@@ -152,28 +168,30 @@ public class SearchRecipe extends DashboardActivity {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
                 if (snapshot_filter.exists()) {
-                    recipes.clear();
+                    recipesNamesList.clear();
                     for (DataSnapshot snapshot : snapshot_filter.getChildren()) {
                         Iterable<DataSnapshot> categorySnapshot = snapshot.getChildren();
                         for (DataSnapshot subCategorySnapshot : categorySnapshot) {
                             Iterable<DataSnapshot> recipeNamesSnapshot = subCategorySnapshot.getChildren();
                             for (DataSnapshot recipeNameSnap : recipeNamesSnapshot) {
                                 String name = recipeNameSnap.getValue(String.class);
-                                recipes.add(name);
+                                recipesNamesList.add(name);
 //                                System.out.println(name);
                             }
                         }
                     }
-                    arraySearchAdapter = new ArrayAdapter<>(SearchRecipe.this, android.R.layout.simple_list_item_activated_1, recipes);
+                    arraySearchAdapter = new ArrayAdapter<>(SearchRecipe.this, android.R.layout.simple_list_item_activated_1, recipesNamesList);
                     autoCompleteSearchView.setAdapter(arraySearchAdapter);
                     autoCompleteSearchView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                         @Override
                         public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
                             String recipeName = parent.getItemAtPosition(pos).toString();
+                            setByNameRecyclerAdapter(recipeName);
 //                            System.out.println(recipeName);
                             // >>>>>>>>>>>>>>>>>>>> Here we refer the user to the recipe page.. <<<<<<<<<<<<<<<<<<<<<<<<
 //                            Toast.makeText(getApplicationContext(), "Item: " + category, Toast.LENGTH_SHORT).show();
                         }
+
                     });
                     autoCompleteSearchView.setOnDismissListener(new AutoCompleteTextView.OnDismissListener() {
                         @Override
@@ -193,41 +211,44 @@ public class SearchRecipe extends DashboardActivity {
         });
     }
 
-    private void InitAutoCompleteFilterView() {
+    private void adjustAutoCompleteFilterView() {
+        autoCompleteSearchView = findViewById(R.id.ac_searchView);
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
                 .getReference().child("filter");
-        if (!this.category.isEmpty()){
+        if (!this.category.isEmpty()) {
             mDatabaseSearchGet = mDatabaseSearchGet.child(CRUD.getAsCategoryString(category));
+            setByCategoryRecyclerAdapter(category);
         }
-        if (!this.subCategory.isEmpty()){
+        if (!this.subCategory.isEmpty()) {
             mDatabaseSearchGet = mDatabaseSearchGet.child(CRUD.getAsCategoryString(subCategory));
+            setBySubCategoryRecyclerAdapter(category, subCategory);
         }
         mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
                 if (snapshot_filter.exists()) {
-                    recipes.clear();
+                    recipesNamesList.clear();
                     for (DataSnapshot snapshot : snapshot_filter.getChildren()) {
                         Iterable<DataSnapshot> categorySnapshot = snapshot.getChildren();
-                        if (subCategory.isEmpty()){
+                        if (subCategory.isEmpty()) {
                             for (DataSnapshot recipeNameSnap : categorySnapshot) {
                                 String name = recipeNameSnap.getValue(String.class);
-                                recipes.add(name);
+                                recipesNamesList.add(name);
                             }
-                        }else {
+                        } else {
                             String name = snapshot.getValue(String.class);
-                            recipes.add(name);
+                            recipesNamesList.add(name);
                         }
                     }
-                    arraySearchAdapter = new ArrayAdapter<>(SearchRecipe.this, android.R.layout.simple_list_item_activated_1, recipes);
+
+                    arraySearchAdapter = new ArrayAdapter<>(SearchRecipe.this, android.R.layout.simple_list_item_activated_1, recipesNamesList);
                     autoCompleteSearchView.setAdapter(arraySearchAdapter);
                     autoCompleteSearchView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                         @Override
                         public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
                             String recipeName = parent.getItemAtPosition(pos).toString();
-//                            System.out.println(recipeName);
-                            // >>>>>>>>>>>>>>>>>>>> Here we refer the user to the recipe page.. <<<<<<<<<<<<<<<<<<<<<<<<
-//                            Toast.makeText(getApplicationContext(), "Item: " + category, Toast.LENGTH_SHORT).show();
+                            setByNameRecyclerAdapter(recipeName);
+
                         }
                     });
                     autoCompleteSearchView.setOnDismissListener(new AutoCompleteTextView.OnDismissListener() {
@@ -248,191 +269,127 @@ public class SearchRecipe extends DashboardActivity {
         });
     }
 
+    public void defineRecycleView() {
+        mRecyclerView = (RecyclerView) findViewById(R.id.recyclerSearchView);
 
+        GridLayoutManager gridLayoutManager = new GridLayoutManager(SearchRecipe.this, 1);
+        mRecyclerView.setLayoutManager(gridLayoutManager);
+    }
+
+    private void setByNameRecyclerAdapter(String recipeName) {
+
+        // how to get data from the database- search
+        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
+        mDatabaseSearchGet = CRUD.getToRecipeDepth(mDatabaseSearchGet, recipeName);
+        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot_search) {
+                if (snapshot_search.exists()) {
+                    myFoodList.clear();
+                    for (DataSnapshot child : snapshot_search.getChildren()) {
+                        recipe curr_recipe = child.getValue(recipe.class);
+                        myFoodList.add(curr_recipe);
+                    }
+                    Collections.shuffle(myFoodList);
+                    MyAdapter myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
+                    mRecyclerView.setAdapter(myAdapter);
+                }
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+                Log.d("TAG", "setRecyclerAdapter(recipeName)- " + error.getMessage());
+            }
+        });
+    }
+
+    private void setMainRecyclerAdapter() {
+        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
+                .getReference().child("recipes");
+        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
+                if (snapshot_filter.exists()) {
+                    myFoodList.clear();
+                    for (DataSnapshot snapshot : snapshot_filter.getChildren()) {
+                        String category = snapshot.getKey();
+                        if (category != null && !category.equals("animals")) {
+                            Iterable<DataSnapshot> categorySnapshot = snapshot.getChildren();
+                            for (DataSnapshot subCategorySnapshot : categorySnapshot) {
+                                Iterable<DataSnapshot> recipeNamesSnapshot
+                                        = subCategorySnapshot.getChildren();
+                                for (DataSnapshot recipeNameSnap : recipeNamesSnapshot) {
+                                    recipe name = recipeNameSnap.getValue(recipe.class);
+                                    myFoodList.add(name);
+                                }
+                            }
+                        }
+                    }
+                    Collections.shuffle(myFoodList);
+                    MyAdapter myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
+                    mRecyclerView.setAdapter(myAdapter);
+                }
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+
+            }
+        });
+    }
+
+    private void setByCategoryRecyclerAdapter(String category) {
+        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
+                .getReference().child("recipes").child(CRUD.getAsCategoryString(category));
+        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
+                if (snapshot_filter.exists()) {
+                    myFoodList.clear();
+                    for (DataSnapshot subCategorySnapshot : snapshot_filter.getChildren()) {
+                        Iterable<DataSnapshot> recipeNamesSnapshot
+                                = subCategorySnapshot.getChildren();
+                        for (DataSnapshot recipeNameSnap : recipeNamesSnapshot) {
+                            recipe name = recipeNameSnap.getValue(recipe.class);
+                            myFoodList.add(name);
+                        }
+                    }
+                    Collections.shuffle(myFoodList);
+                    MyAdapter myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
+                    mRecyclerView.setAdapter(myAdapter);
+                }
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+
+            }
+        });
+    }
+
+    private void setBySubCategoryRecyclerAdapter(String category, String subCategory) {
+        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
+                .getReference().child("recipes").child(CRUD.getAsCategoryString(category))
+                .child(CRUD.getAsCategoryString(subCategory));
+        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
+                if (snapshot_filter.exists()) {
+                    myFoodList.clear();
+                    for (DataSnapshot recipeNameSnap : snapshot_filter.getChildren()) {
+                        recipe name = recipeNameSnap.getValue(recipe.class);
+                        myFoodList.add(name);
+                    }
+                }
+                Collections.shuffle(myFoodList);
+                MyAdapter myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
+                mRecyclerView.setAdapter(myAdapter);
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+
+            }
+        });
+    }
 }
-
-//package com.example.smarter_foodies;
-//
-//import android.content.Context;
-//import android.content.DialogInterface;
-//import android.content.Intent;
-//import android.os.Bundle;
-//import android.view.LayoutInflater;
-//import android.view.View;
-//import android.view.inputmethod.InputMethodManager;
-//import android.widget.AdapterView;
-//import android.widget.ArrayAdapter;
-//import android.widget.AutoCompleteTextView;
-//import android.widget.EditText;
-//import android.widget.LinearLayout;
-//
-//import androidx.annotation.NonNull;
-//import androidx.appcompat.app.AlertDialog;
-//import androidx.appcompat.app.AppCompatActivity;
-//
-//import com.example.smarter_foodies.databinding.ActivityDashboardBinding;
-//import com.google.firebase.database.DataSnapshot;
-//import com.google.firebase.database.DatabaseError;
-//import com.google.firebase.database.DatabaseReference;
-//import com.google.firebase.database.FirebaseDatabase;
-//import com.google.firebase.database.ValueEventListener;
-//
-//import java.util.ArrayList;
-//import java.util.List;
-//
-//public class SearchRecipe extends DashboardActivity {
-//    AutoCompleteTextView autoCompleteSearchView;
-//    ArrayAdapter<String> arraySearchAdapter;
-//    List<String> recipes;
-//
-//    @Override
-//    protected void onCreate(Bundle savedInstanceState) {
-//        super.onCreate(savedInstanceState);
-//        LinearLayout rootLayout = new LinearLayout(this);
-//        rootLayout.setOrientation(LinearLayout.VERTICAL);
-//        View activityMainView = LayoutInflater.from(this).inflate(R.layout.activity_search, rootLayout, false);
-//        rootLayout.addView(activityMainView);
-//        setContentView(rootLayout);
-//        allocateActivityTitle("SearchRecipe");
-//
-//        autoCompleteSearchView = findViewById(R.id.ac_searchView);
-//        recipes = new ArrayList<>();
-//        InitAutoCompleteSearchView();
-//
-//    }
-//
-//    private void setFirstDialog() {
-//        AlertDialog.Builder builder = new AlertDialog.Builder(SearchRecipe.this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
-//        final View customLayout = getLayoutInflater().inflate(R.layout.filter_search_dialog, null);
-//        builder.setView(customLayout);
-//        builder.setCancelable(false);
-//        builder.setTitle("Recipe name");
-////            startActivity(new Intent(MainActivity.this, UpdateRecipe.class));
-//        builder.setPositiveButton("continue", new DialogInterface.OnClickListener() {
-//            @Override
-//            public void onClick(DialogInterface dialogInterface, int which) {
-//                AutoCompleteTextView mainCategory = customLayout.findViewById(R.id.auto_complete_category);
-//                AutoCompleteTextView subCategory = customLayout.findViewById(R.id.auto_complete_sub_category);
-//            }
-//        });
-//
-//        builder.setNegativeButton("cancel", (dialogInterface, which) -> {
-//            startActivity(new Intent(SearchRecipe.this, MainActivity.class));
-//        });
-//        AlertDialog dialog = builder.create();
-//        dialog.show();
-//    }
-//
-//    private void setSecondDialog() {
-//        AlertDialog.Builder builder = new AlertDialog.Builder(SearchRecipe.this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
-//        final View customLayout = getLayoutInflater().inflate(R.layout.filter_search_dialog, null);
-//        builder.setView(customLayout);
-//        builder.setCancelable(false);
-//        builder.setTitle("Filter");
-////            startActivity(new Intent(MainActivity.this, UpdateRecipe.class));
-//        builder.setPositiveButton("continue", new DialogInterface.OnClickListener() {
-//            @Override
-//            public void onClick(DialogInterface dialogInterface, int which) {
-//                AutoCompleteTextView mainCategory = customLayout.findViewById(R.id.auto_complete_category);
-//                AutoCompleteTextView subCategory = customLayout.findViewById(R.id.auto_complete_sub_category);
-//            }
-//        });
-//
-//        builder.setNegativeButton("cancel", (dialogInterface, which) -> {
-//            startActivity(new Intent(SearchRecipe.this, MainActivity.class));
-//        });
-//        AlertDialog dialog = builder.create();
-//        dialog.show();
-//    }
-//
-//
-//    private void InitAutoCompleteSearchView() {
-//        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
-//                .getReference().child("filter");
-//        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
-//            @Override
-//            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-//                if (snapshot_filter.exists()) {
-//                    recipes.clear();
-//                    for (DataSnapshot snapshot : snapshot_filter.getChildren()) {
-//                        Iterable<DataSnapshot> categorySnapshot = snapshot.getChildren();
-//                        for (DataSnapshot subCategorySnapshot : categorySnapshot) {
-//                            Iterable<DataSnapshot> recipeNamesSnapshot = subCategorySnapshot.getChildren();
-//                            for (DataSnapshot recipeNameSnap : recipeNamesSnapshot) {
-//                                String name = recipeNameSnap.getValue(String.class);
-//                                recipes.add(name);
-////                                System.out.println(name);
-//                            }
-//                        }
-//                    }
-//                    arraySearchAdapter = new ArrayAdapter<>(SearchRecipe.this, android.R.layout.simple_list_item_activated_1, recipes);
-//                    autoCompleteSearchView.setAdapter(arraySearchAdapter);
-//                    autoCompleteSearchView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-//                        @Override
-//                        public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
-//                            String recipeName = parent.getItemAtPosition(pos).toString();
-//                            System.out.println(recipeName);
-//                            // >>>>>>>>>>>>>>>>>>>> Here we refer the user to the recipe page.. <<<<<<<<<<<<<<<<<<<<<<<<
-////                            Toast.makeText(getApplicationContext(), "Item: " + category, Toast.LENGTH_SHORT).show();
-//                        }
-//                    });
-//                    autoCompleteSearchView.setOnDismissListener(new AutoCompleteTextView.OnDismissListener() {
-//                        @Override
-//                        public void onDismiss() {
-//                            // Hide my keyboard
-//                            InputMethodManager inputMethodManager = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
-//                            inputMethodManager.hideSoftInputFromWindow(getCurrentFocus().getApplicationWindowToken(), 0);
-//                        }
-//                    });
-//                }
-//            }
-//
-//            @Override
-//            public void onCancelled(@NonNull DatabaseError error) {
-//
-//            }
-//        });
-//    }
-//
-//    private void InitAutoCompleteFilterView(String category, String subCategory) {
-////        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
-////                .getReference().child("filter").child(category).child(subCategory);
-////        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
-////            @Override
-////            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-////                if (snapshot_filter.exists()) {
-////                    recipes.clear();
-////                    for (DataSnapshot snapshot : snapshot_filter.getChildren()) {
-////                        Iterable<DataSnapshot> categorySnapshot = snapshot.getChildren();
-////                        for (DataSnapshot subCategorySnapshot : categorySnapshot) {
-////                            Iterable<DataSnapshot> recipeNamesSnapshot = subCategorySnapshot.getChildren();
-////                            for (DataSnapshot recipeNameSnap : recipeNamesSnapshot) {
-////                                String name = recipeNameSnap.getValue(String.class);
-////                                recipes.add(name);
-//////                                System.out.println(name);
-////                            }
-////                        }
-////                    }
-////                    arraySearchAdapter = new ArrayAdapter<>(SearchRecipe.this, android.R.layout.simple_list_item_activated_1, recipes);
-////                    autoCompleteSearchView.setAdapter(arraySearchAdapter);
-////                    autoCompleteSearchView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-////                        @Override
-////                        public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
-////                            String recipeName = parent.getItemAtPosition(pos).toString();
-////                            System.out.println(recipeName);
-////                            // >>>>>>>>>>>>>>>>>>>> Here we refer the user to the recipe page.. <<<<<<<<<<<<<<<<<<<<<<<<
-//////                            Toast.makeText(getApplicationContext(), "Item: " + category, Toast.LENGTH_SHORT).show();
-////                        }
-////                    });
-////                    autoCompleteSearchView.setOnDismissListener(new AutoCompleteTextView.OnDismissListener() {
-////                        @Override
-////                        public void onDismiss() {
-////                            // Hide my keyboard
-////                            InputMethodManager inputMethodManager = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
-////                            inputMethodManager.hideSoftInputFromWindow(getCurrentFocus().getApplicationWindowToken(), 0);
-////                        }
-////                    });
-//    }
-//
-//
-//}

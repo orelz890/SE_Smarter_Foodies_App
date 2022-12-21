@@ -312,8 +312,7 @@ public class UpdateRecipe extends DashboardActivity {
 
             r.setCopy_rights(Objects.requireNonNull(mAuth.getCurrentUser()).getUid());
             Toast.makeText(getApplicationContext(), r.toString(), Toast.LENGTH_LONG).show();
-            CRUD.loadDishToFilterTree(r);
-            CRUD.loadDishToSearchTree(r);
+            CRUD.loadDishToDatabase(r);
         }
     }
 

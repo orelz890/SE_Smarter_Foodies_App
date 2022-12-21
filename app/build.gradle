@@ -100,6 +100,6 @@ dependencies {
      // Navigation Component
     implementation 'androidx.navigation:navigation-fragment-ktx:2.2.0-rc03'
     implementation 'androidx.navigation:navigation-ui-ktx:2.2.0-rc03'
-
+    implementation 'com.squareup.picasso:picasso:2.71828'
 
 }

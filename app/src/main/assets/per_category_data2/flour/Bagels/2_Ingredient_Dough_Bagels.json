@@ -68,10 +68,10 @@
     ],
     "Images": [
         {
-            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F415a2fa14532ea67cb1367947a632a4e%2F1660920135bagels.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F415a2fa14532ea67cb1367947a632a4e%2F1660920135bagels.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F415a2fa14532ea67cb1367947a632a4e%2F1655498214IMG_1370.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F415a2fa14532ea67cb1367947a632a4e%2F1655498214IMG_1370.jpg"
         }
     ],
     "main category": "flour"

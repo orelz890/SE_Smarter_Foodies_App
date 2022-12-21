@@ -83,16 +83,16 @@
     ],
     "Images": [
         {
-            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc5fbb2a12dc28b5bf5f722757d60bb38%2F1645216411373BFE4A-8254-410D-9EBA-1C136572FB69.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc5fbb2a12dc28b5bf5f722757d60bb38%2F1645216411373BFE4A-8254-410D-9EBA-1C136572FB69.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc5fbb2a12dc28b5bf5f722757d60bb38%2F16441968899F80A15F-E3E1-4A49-A7AF-33C4F2E1F0B3.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fc5fbb2a12dc28b5bf5f722757d60bb38%2F16441968899F80A15F-E3E1-4A49-A7AF-33C4F2E1F0B3.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9443031.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9443031.jpg"
         },
         {
-            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9293240.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9293240.jpg"
         },
         {
             "img5": "https://www.allrecipes.com/thmb/jWaBMuJssDwvRmkrkktuWoEVdKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18255-BostonBakedBeans-mfs-2X3-0176-310b59a2789940208c765faf58b3580d.jpg"
