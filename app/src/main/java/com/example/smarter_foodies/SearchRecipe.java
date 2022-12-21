@@ -18,6 +18,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -39,11 +40,13 @@ public class SearchRecipe extends DashboardActivity {
     CRUD_RealTimeDatabaseData CRUD;
     RecyclerView mRecyclerView;
     List<recipe> myFoodList;
+    MyAdapter myAdapter;
 
     AutoCompleteTextView autoCompleteCategory;
     ArrayAdapter<String> adapterCategories;
     AutoCompleteTextView autoCompleteSubCategory;
     ArrayAdapter<String> adapterSubCategories;
+    SwipeRefreshLayout swipeRefreshLayout;
     String category = "";
     String subCategory = "";
     String[] categoriesList;
@@ -65,9 +68,24 @@ public class SearchRecipe extends DashboardActivity {
 
         defineRecycleView();
         setMainRecyclerAdapter();
-
+        setSwipeRefresh();
         InitAutoCompleteSearchView();
         InitManageSearchImageButton();
+    }
+
+    private void setSwipeRefresh(){
+        swipeRefreshLayout = findViewById(R.id.search_layout);
+        swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
+            @Override
+            public void onRefresh() {
+                if (myAdapter != null) {
+                    Collections.shuffle(myFoodList);
+                    myAdapter.notifyDataSetChanged();
+                    swipeRefreshLayout.setRefreshing(false);
+                }
+            }
+        });
+
     }
 
     private void InitManageSearchImageButton() {
@@ -248,7 +266,6 @@ public class SearchRecipe extends DashboardActivity {
                         public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
                             String recipeName = parent.getItemAtPosition(pos).toString();
                             setByNameRecyclerAdapter(recipeName);
-
                         }
                     });
                     autoCompleteSearchView.setOnDismissListener(new AutoCompleteTextView.OnDismissListener() {
@@ -291,7 +308,7 @@ public class SearchRecipe extends DashboardActivity {
                         myFoodList.add(curr_recipe);
                     }
                     Collections.shuffle(myFoodList);
-                    MyAdapter myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
+                    myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }
@@ -326,7 +343,7 @@ public class SearchRecipe extends DashboardActivity {
                         }
                     }
                     Collections.shuffle(myFoodList);
-                    MyAdapter myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
+                    myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }
@@ -355,7 +372,7 @@ public class SearchRecipe extends DashboardActivity {
                         }
                     }
                     Collections.shuffle(myFoodList);
-                    MyAdapter myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
+                    myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }
@@ -382,7 +399,7 @@ public class SearchRecipe extends DashboardActivity {
                     }
                 }
                 Collections.shuffle(myFoodList);
-                MyAdapter myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
+                myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
                 mRecyclerView.setAdapter(myAdapter);
             }
 

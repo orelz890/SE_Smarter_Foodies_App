@@ -305,7 +305,7 @@ public class UpdateRecipe extends DashboardActivity {
         } else {
             List<String> directionsArray = new ArrayList<>(Arrays.asList(directions_list));
             recipe r = new recipe(title, category, subCategory, new ArrayList<>(), directionsArray,
-                    npPrepTime.getValue() + "", npCookingTime.getValue() + "", npServings.getValue() + "",
+                    calcTime(npPrepTime.getValue()), calcTime(npCookingTime.getValue()), npServings.getValue() + "",
                     npProtein.getValue() + "", "0", npFat.getValue() + "", npCarbs.getValue() + "", 0,
                     new ArrayList<>(), 0, new HashMap<>(), "");
             r.setIngredients(ingredientsArray);
@@ -352,8 +352,8 @@ public class UpdateRecipe extends DashboardActivity {
                                 category = r.getMain_category();
                                 subCategory = r.getCategory();
                                 change_adapter_to_original_values();
-                                npCookingTime.setValue(Integer.parseInt(r.getCookingTime()));
-                                npPrepTime.setValue(Integer.parseInt(r.getPrepTime()));
+                                npCookingTime.setValue(reverseCalcTime(r.getCookingTime()));
+                                npPrepTime.setValue(reverseCalcTime(r.getPrepTime()));
                                 npServings.setValue(Integer.parseInt(r.getServings()));
                                 npCarbs.setValue(Integer.parseInt(r.getCarbs()));
                                 npProtein.setValue(Integer.parseInt(r.getProtein()));
@@ -385,6 +385,27 @@ public class UpdateRecipe extends DashboardActivity {
                 Log.d("TAG", "getDishFromSearchTree- " + error.getMessage());
             }
         });
+    }
+
+    private String calcTime(int min){
+        if (min < 60){
+            return min + " mins";
+        }
+        else{
+            return (int)min/60 + " hrs " + min%60 + " mins";
+        }
+    }
+
+    private int reverseCalcTime(String total){
+        if (!total.isEmpty()) {
+            String[] s = total.split(" ");
+            if (s.length > 2) {
+                return Integer.parseInt(s[0]) * 60 + Integer.parseInt(s[2]);
+            } else {
+                return Integer.parseInt(s[0]);
+            }
+        }
+        return 0;
     }
 
 }

@@ -28,6 +28,7 @@ import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 import com.example.smarter_foodies.databinding.ActivityDashboardBinding;
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -60,7 +61,8 @@ public class MainActivity extends DashboardActivity {
     CRUD_RealTimeDatabaseData CRUD;
     RecyclerView mRecyclerView;
     List<recipe> myFoodList;
-
+    SwipeRefreshLayout swipeRefreshLayout;
+    MyAdapter myAdapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -75,12 +77,31 @@ public class MainActivity extends DashboardActivity {
         setContentView(rootLayout);
         allocateActivityTitle("Home");
 
+        setSwipeRefresh();
+
 //        deleteAllInitData();
 //        init_database_with_existing_scraped_data();
 
         setRecycleView();
 
     }
+
+
+    private void setSwipeRefresh(){
+        swipeRefreshLayout = findViewById(R.id.swipeLayout);
+        swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
+            @Override
+            public void onRefresh() {
+                if (myAdapter != null) {
+                    Collections.shuffle(myFoodList);
+                    myAdapter.notifyDataSetChanged();
+                    swipeRefreshLayout.setRefreshing(false);
+                }
+            }
+        });
+
+    }
+
 
     private boolean deleteAllInitData() {
         DatabaseReference mDatabase = FirebaseDatabase.getInstance().getReference();
@@ -164,7 +185,7 @@ public class MainActivity extends DashboardActivity {
                         }
                     }
                     Collections.shuffle(myFoodList);
-                    MyAdapter myAdapter = new MyAdapter(MainActivity.this, myFoodList);
+                    myAdapter = new MyAdapter(MainActivity.this, myFoodList);
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }

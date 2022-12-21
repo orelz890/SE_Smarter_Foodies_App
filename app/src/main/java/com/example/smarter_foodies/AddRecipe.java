@@ -295,7 +295,7 @@ public class AddRecipe extends DashboardActivity {
         } else {
             List<String> directionsArray = new ArrayList<>(Arrays.asList(directions_list));
             recipe r = new recipe(title, category, subCategory, new ArrayList<>(), directionsArray,
-                    npPrepTime.getValue() + "", npCookingTime.getValue() + "", npServings.getValue() + "",
+                    calcTime(npPrepTime.getValue()), calcTime(npCookingTime.getValue()) + "", npServings.getValue() + "",
                     npProtein.getValue() + "", "0", npFat.getValue() + "", npCarbs.getValue() + "", 0,
                     new ArrayList<>(), 0, new HashMap<>(), "");
             r.setIngredients(ingredientsArray);
@@ -307,6 +307,15 @@ public class AddRecipe extends DashboardActivity {
             flag = false;
             Toast.makeText(getApplicationContext(), r.toString(), Toast.LENGTH_SHORT).show();
 
+        }
+    }
+
+    private String calcTime(int min){
+        if (min < 60){
+            return min + " mins";
+        }
+        else{
+            return (int)min/60 + " hrs " + min%60 + " mins";
         }
     }
 
