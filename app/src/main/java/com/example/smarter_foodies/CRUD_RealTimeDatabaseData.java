@@ -422,7 +422,6 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
     }
 
         public static void updateUserAsChef(String email){
-            //int index = email.indexOf("@");
             String preUserEmail = email.replace(".", "{*}");
             DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("email").child(preUserEmail);
                     reference.addValueEventListener(new ValueEventListener() {
@@ -459,10 +458,6 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
                             System.err.println("error to update user");
                         }
                     });
-
-
-
-
         }
 }
 
