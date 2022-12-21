@@ -86,16 +86,16 @@
     ],
     "Images": [
         {
-            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8cf18d2f77bfbe2644d0d7195edbd2c9%2F16676659990279A13F1E7-07DD-4506-A68A-3AA2966148E8.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8cf18d2f77bfbe2644d0d7195edbd2c9%2F16676659990279A13F1E7-07DD-4506-A68A-3AA2966148E8.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8cf18d2f77bfbe2644d0d7195edbd2c9%2F1666406810101A8F9E732-A8FD-428C-A7D5-77F453A959AE.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8cf18d2f77bfbe2644d0d7195edbd2c9%2F1666406810101A8F9E732-A8FD-428C-A7D5-77F453A959AE.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fffbff651a83ee911f4b93340d8f318b0%2F165747664920220709_224608.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fffbff651a83ee911f4b93340d8f318b0%2F165747664920220709_224608.jpg"
         },
         {
-            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9100190.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9100190.jpg"
         },
         {
             "img5": "https://www.allrecipes.com/thmb/hB3ljsvSO8orDxuQDppxeG4RB-8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/556599-apple-squares-Cristi-1x1-1-0e0c11212e764f7fbc1256c69cedbbff.jpg"

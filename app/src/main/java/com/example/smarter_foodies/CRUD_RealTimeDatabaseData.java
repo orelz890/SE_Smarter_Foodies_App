@@ -96,8 +96,8 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
                             JsonObject jsonObject = new JsonParser().parse(json_str).getAsJsonObject();
                             String copy_rights = "https://www.allrecipes.com/";
                             recipe curr_recipe = new recipe(jsonObject, copy_rights);
-                            loadDishToSearchTree(curr_recipe);
-                            loadDishToFilterTree(curr_recipe);
+                            System.out.println(curr_recipe);
+                            loadDishToDatabase(curr_recipe);
                         } catch (Exception e) {
                             e.printStackTrace();
                             return false;
@@ -141,12 +141,14 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
     }
 
     private boolean deleteAllInitData() {
+        mDatabase = FirebaseDatabase.getInstance().getReference();
         mDatabase.child("filter").removeValue();
         mDatabase.child("search").removeValue();
+        mDatabase.child("recipes").removeValue();
         return true;
     }
 
-    public void loadDishToSearchTree(recipe r) {
+    private void loadDishToSearchTree(recipe r) {
         if (r != null) {
             String title = getAsCategoryString(r.getTitle());
             DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference();
@@ -166,7 +168,7 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         return input_str.replace(" ", "_").replace("\"", "");
     }
 
-    public void loadDishToFilterTree(recipe r) {
+    private void loadDishToFilterTree(recipe r) {
         if (r != null) {
             String title = r.getTitle();
             String main_category = getAsCategoryString(r.getMain_category());
@@ -182,6 +184,30 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
                 }
             });
         }
+    }
+
+    private void loadDishToRecipesTree(recipe r) {
+        if (r != null) {
+            String title = r.getTitle();
+            String main_category = getAsCategoryString(r.getMain_category());
+            String sub_category = getAsCategoryString(r.getCategory());
+            DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
+                    .child("recipes").child(main_category).child(sub_category);
+            mDatabaseSearch.child(getAsCategoryString(title)).setValue(r).addOnCompleteListener(new OnCompleteListener<Void>() {
+                @Override
+                public void onComplete(@NonNull Task<Void> task) {
+                    if (task.isSuccessful()) {
+                        System.out.println(r.getTitle() + "> added successfully to Filter!");
+                    }
+                }
+            });
+        }
+    }
+
+    public void loadDishToDatabase(recipe r){
+        loadDishToFilterTree(r);
+        loadDishToSearchTree(r);
+        loadDishToRecipesTree(r);
     }
 
     private void clearFilterArray() {
@@ -284,6 +310,24 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
     }
 
+    private void removeDataFromRecipesTree(String main_category, String sub_category, String name){
+        String mainCategory = getAsCategoryString(main_category);
+        String subCategory = getAsCategoryString(sub_category);
+        String title = getAsCategoryString(name);
+
+        DatabaseReference mDataFilter = FirebaseDatabase.getInstance().getReference()
+                .child("recipes").child(mainCategory).child(subCategory);
+        mDataFilter.child(title).removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
+            @Override
+            public void onComplete(@NonNull Task<Void> task) {
+                if (task.isSuccessful()) {
+                    System.out.println(name + "> name removed successfully!");
+                }
+            }
+        });
+
+    }
+
 
     public void deleteRecipe(String name) {
         DatabaseReference mDataSearch = FirebaseDatabase.getInstance().getReference();
@@ -302,6 +346,7 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
                                 if (r != null && getAsCategoryString(name).equals(getAsCategoryString(r.getTitle()))) {
                                     removeDataFromSearchTree(r.getTitle());
                                     removeDataFromFilterTree(r.getMain_category(), r.getCategory(), r.getTitle());
+                                    removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), r.getTitle());
                                 }
                             } catch (Exception e) {
                                 e.printStackTrace();
@@ -316,11 +361,14 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         });
     }
 
-    public void updateRecipe(String former_name, recipe r){
-        if (r != null){
+    public void updateRecipe(String former_name, recipe newRecipe){
+        if (newRecipe != null){
+//            updateFilterTree(former_name, r);
+//            updateSearchTree(former_name, recipeList);
+//            updateRecipesTree();
             deleteRecipe(former_name);
-            loadDishToFilterTree(r);
-            loadDishToFilterTree(r);
+            loadDishToDatabase(newRecipe);
+
         }
     }
 

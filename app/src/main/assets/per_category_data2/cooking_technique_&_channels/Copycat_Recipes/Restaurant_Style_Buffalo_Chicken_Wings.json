@@ -92,16 +92,16 @@
     ],
     "Images": [
         {
-            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2656dde48111a86d99a6daf4f4dcc19b%2F166294541088ABA711-A9C5-4F96-83BC-70657CA5D401.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2656dde48111a86d99a6daf4f4dcc19b%2F166294541088ABA711-A9C5-4F96-83BC-70657CA5D401.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2656dde48111a86d99a6daf4f4dcc19b%2F164747656855C4CCC8-F868-4C6A-B4D8-1E393768737F.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2656dde48111a86d99a6daf4f4dcc19b%2F164747656855C4CCC8-F868-4C6A-B4D8-1E393768737F.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9369972.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9369972.jpg"
         },
         {
-            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9020357.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9020357.jpg"
         },
         {
             "img5": "https://www.allrecipes.com/thmb/gX0NvChzP3ZFC43POPQhA41H5Io=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5885071_Restaurant-Style-Buffalo-Chicken-Wings-4x3-1-4a700392a3ed4490afb06c3f74871eb3.jpg"

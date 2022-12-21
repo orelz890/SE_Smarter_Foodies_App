@@ -65,22 +65,22 @@
     ],
     "Images": [
         {
-            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0a7d15a5cb799e0a63c11158be50e887%2F1668264599239roast-chicken.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0a7d15a5cb799e0a63c11158be50e887%2F1668264599239roast-chicken.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fbdf865b4d77722a35014031c737edd61%2F1661815195PXL_20220829_231732934.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fbdf865b4d77722a35014031c737edd61%2F1661815195PXL_20220829_231732934.jpg"
         },
         {
-            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fbdf865b4d77722a35014031c737edd61%2F1661765873C7DFD994-F1B7-4D81-B69F-3A89F35D0818.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fbdf865b4d77722a35014031c737edd61%2F1661765873C7DFD994-F1B7-4D81-B69F-3A89F35D0818.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fbdf865b4d77722a35014031c737edd61%2F166103700616610368204457623059531091291532.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fbdf865b4d77722a35014031c737edd61%2F166103700616610368204457623059531091291532.jpg"
         },
         {
             "img5": "https://www.allrecipes.com/thmb/-EmXM5QiTWgFPf0Ai-NY5iWL24Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/83557-juicy-roast-chicken-mfs495-1-3d0f1e3e54104d43b24d4b480d2839ba.jpg"
         },
         {
-            "img6": "https://www.allrecipes.com/thmb/ZXXxFiCw2k7C-Uo_1UomrqAXrgM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/juicy-roasted-chicken-523131c0e0cf47319d8b87d3b3095f25.jpeg"
+            "img6": "https://www.allrecipes.com/thmb/ZXXxFiCw2k7C-Uo_1UomrqAXrgM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/juicy-roasted-chicken-523131c0e0cf47319d8b87d3b3095f25.jpeg.jpg"
         },
         {
             "img7": "https://www.allrecipes.com/thmb/-EmXM5QiTWgFPf0Ai-NY5iWL24Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/83557-juicy-roast-chicken-mfs495-1-3d0f1e3e54104d43b24d4b480d2839ba.jpg"

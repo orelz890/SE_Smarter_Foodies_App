@@ -62,22 +62,22 @@
     ],
     "Images": [
         {
-            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8d62a1c471fdc4e7a3ac168228b7553e%2F1661369360AE21667A-043A-44BF-8B51-388D1F082C77.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8d62a1c471fdc4e7a3ac168228b7553e%2F1661369360AE21667A-043A-44BF-8B51-388D1F082C77.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9170303.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9170303.jpg"
         },
         {
-            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8979351.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8979351.jpg"
         },
         {
-            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8851853.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8851853.jpg"
         },
         {
             "img5": "https://www.allrecipes.com/thmb/EhGZL8lavdU6sxBb3Yk0MMfu6fM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4564532-2a26a770a1d34f18adbf2353e9362fb2.jpg"
         },
         {
-            "img6": "https://www.allrecipes.com/thmb/K4VIDhxhMSFpC1GvwfeC6s_E0yQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Mississippi-Pot-Roast-ba994f9eabe445998a1d88ee5e1e15ac.png"
+            "img6": "https://www.allrecipes.com/thmb/K4VIDhxhMSFpC1GvwfeC6s_E0yQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Mississippi-Pot-Roast-ba994f9eabe445998a1d88ee5e1e15ac.png.jpg"
         },
         {
             "img7": "https://www.allrecipes.com/thmb/EhGZL8lavdU6sxBb3Yk0MMfu6fM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4564532-2a26a770a1d34f18adbf2353e9362fb2.jpg"

@@ -56,10 +56,10 @@
     ],
     "Images": [
         {
-            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1e576cc6f97e8e4a2c14593d03617cc3%2F1657909498IMG_2492.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1e576cc6f97e8e4a2c14593d03617cc3%2F1657909498IMG_2492.JPG&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1e576cc6f97e8e4a2c14593d03617cc3%2F16563426242-Ingredient%2520Pineapple%2520Angel%2520Food%2520Cake.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F1e576cc6f97e8e4a2c14593d03617cc3%2F16563426242-Ingredient%2520Pineapple%2520Angel%2520Food%2520Cake.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         }
     ],
     "main category": "cakes"

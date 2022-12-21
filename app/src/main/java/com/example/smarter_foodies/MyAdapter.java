@@ -2,6 +2,8 @@ package com.example.smarter_foodies;
 
 import android.content.Context;
 import android.graphics.BitmapFactory;
+import android.graphics.drawable.Drawable;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -12,11 +14,18 @@ import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.squareup.picasso.Picasso;
+
 import java.io.IOException;
 import java.io.InputStream;
+import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
+import java.net.URI;
 import java.net.URL;
+import java.net.URLConnection;
 import java.util.List;
+
+import javax.net.ssl.HttpsURLConnection;
 
 public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
 
@@ -37,16 +46,13 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
 
     @Override
     public void onBindViewHolder(@NonNull FoodViewHolder foodViewHolder, int i) {
-//        try {
-//            URL url = new URL("https://www.vectortemplates.com/raster/batman-logo-big.gif");
-//            InputStream inputStream = url.openConnection().getInputStream();
-//            foodViewHolder.imageView.setImageBitmap(BitmapFactory.decodeStream(inputStream));
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-        foodViewHolder.mTitle.setText(myFoodList.get(i).getTitle());
-        foodViewHolder.mCalories.setText(myFoodList.get(i).getCalories());
-
+        recipe recipe = myFoodList.get(i);
+        if (!myFoodList.get(i).getImages().isEmpty()) {
+            List<String> images = recipe.getImages();
+            Picasso.get().load(images.get(images.size() - 1)).into(foodViewHolder.imageView);
+        }
+        foodViewHolder.mTitle.setText(recipe.getTitle());
+        foodViewHolder.mCalories.setText(recipe.getCalories());
     }
 
     @Override

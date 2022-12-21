@@ -95,16 +95,16 @@
     ],
     "Images": [
         {
-            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6e184c5de82bf94fe8baf52dc8e26b04%2F1657487849D451BD51-15DD-4B14-BF9F-D911F4861866.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6e184c5de82bf94fe8baf52dc8e26b04%2F1657487849D451BD51-15DD-4B14-BF9F-D911F4861866.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6e184c5de82bf94fe8baf52dc8e26b04%2F165486829220220609_181939.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F6e184c5de82bf94fe8baf52dc8e26b04%2F165486829220220609_181939.jpg"
         },
         {
-            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9443055.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9443055.jpg"
         },
         {
-            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9209708.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9209708.jpg"
         },
         {
             "img5": "https://www.allrecipes.com/thmb/h5g-DyyDlqZ_gvZokEzmtnMoHUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/236703_ChefJohnsChickenKiev_MFS-1x1-1-b87f215958864a5e83bea31b3de84e4b.jpg"

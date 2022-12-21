@@ -71,16 +71,16 @@
     ],
     "Images": [
         {
-            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8f02d6adc0ffc4bd852eef00e4653aab%2F166223735174321346-21AE-483A-AE6A-F698BBC38AFA.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8f02d6adc0ffc4bd852eef00e4653aab%2F166223735174321346-21AE-483A-AE6A-F698BBC38AFA.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8f02d6adc0ffc4bd852eef00e4653aab%2F164600580820220227_153045.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F8f02d6adc0ffc4bd852eef00e4653aab%2F164600580820220227_153045.jpg"
         },
         {
-            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9359973.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9359973.jpg"
         },
         {
-            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9324684.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9324684.jpg"
         },
         {
             "img5": "https://www.allrecipes.com/thmb/sklE4NaTIVejm0U9DyFmyPjVlmo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2201480-quick-and-easy-pancit-Paula-Goleta-1x1-1-f03b70c77f094dee901e72007dfe1a22.jpg"

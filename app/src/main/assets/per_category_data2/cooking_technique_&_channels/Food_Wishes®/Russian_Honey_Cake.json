@@ -125,16 +125,16 @@
     ],
     "Images": [
         {
-            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4e81882bd8f30a2fef90378dde67c097%2F16693037902819680D18D-E79A-4443-BA8A-6A1D04343F95.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4e81882bd8f30a2fef90378dde67c097%2F16693037902819680D18D-E79A-4443-BA8A-6A1D04343F95.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4e81882bd8f30a2fef90378dde67c097%2F166469129041051B28BE6-3275-481D-9B0F-3AD256FFA121.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4e81882bd8f30a2fef90378dde67c097%2F166469129041051B28BE6-3275-481D-9B0F-3AD256FFA121.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9435176.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9435176.jpg"
         },
         {
-            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9425668.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9425668.jpg"
         },
         {
             "img5": "https://www.allrecipes.com/thmb/hANefjEVHDxJF-Urvgyjg178lKg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7287365-8bad35ff11db4afd93de750cbc4a7e8a.jpg"

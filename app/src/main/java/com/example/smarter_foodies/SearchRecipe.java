@@ -56,6 +56,7 @@ public class SearchRecipe extends DashboardActivity {
         rootLayout.addView(activityMainView);
         setContentView(rootLayout);
         allocateActivityTitle("SearchRecipe");
+
         CRUD = new CRUD_RealTimeDatabaseData();
 
         recipes = new ArrayList<>();

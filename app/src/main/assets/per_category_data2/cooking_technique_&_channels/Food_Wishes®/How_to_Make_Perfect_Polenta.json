@@ -65,16 +65,16 @@
     ],
     "Images": [
         {
-            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa8a2e98fbfc921ba49ea4ad49dcc1cc1%2F166105124206D280B4-4903-4CDB-9EF4-5DAACE3D0FC4.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa8a2e98fbfc921ba49ea4ad49dcc1cc1%2F166105124206D280B4-4903-4CDB-9EF4-5DAACE3D0FC4.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa8a2e98fbfc921ba49ea4ad49dcc1cc1%2F1655340221BF97A9F2-A1A8-4410-99B9-16C019653DDD.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa8a2e98fbfc921ba49ea4ad49dcc1cc1%2F1655340221BF97A9F2-A1A8-4410-99B9-16C019653DDD.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa8a2e98fbfc921ba49ea4ad49dcc1cc1%2F1654449707image.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa8a2e98fbfc921ba49ea4ad49dcc1cc1%2F1654449707image.jpg"
         },
         {
-            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa8a2e98fbfc921ba49ea4ad49dcc1cc1%2F16540334371654033360228918373440283279052.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fa8a2e98fbfc921ba49ea4ad49dcc1cc1%2F16540334371654033360228918373440283279052.jpg"
         },
         {
             "img5": "https://www.allrecipes.com/thmb/Lf0WD9nV5o4DEbv1y1PYK8NvCAw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/How-to-Make-Perfect-Polenta-b03f3f95ec114fe78259a782561b1979.jpg"

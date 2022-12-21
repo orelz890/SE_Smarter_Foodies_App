@@ -1,12 +1,9 @@
 package com.example.smarter_foodies;
 
 import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.ViewGroup;
 
 import com.example.smarter_foodies.databinding.ActivityDashboardBinding;
 import com.google.firebase.auth.FirebaseAuth;
@@ -17,6 +14,7 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
+
 public class DashboardActivity extends DrawerBaseActivity {
 
     ActivityDashboardBinding activityDashboardBinding;
@@ -25,8 +23,7 @@ public class DashboardActivity extends DrawerBaseActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         activityDashboardBinding = ActivityDashboardBinding.inflate(getLayoutInflater());
-//        setContentView(activityDashboardBinding.getRoot());
-//        setUserContentView(activityDashboardBinding.getRoot(), false);
+
         FirebaseUser fUser = FirebaseAuth.getInstance().getCurrentUser();
         if (fUser != null) {
             String uid = fUser.getUid();

@@ -65,16 +65,16 @@
     ],
     "Images": [
         {
-            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F97491ceddf1c977aa287605e0ed0dbc9%2F16660335245999AB871DD-6073-4E5A-9DAA-B5D74848F36E.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img1": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F97491ceddf1c977aa287605e0ed0dbc9%2F16660335245999AB871DD-6073-4E5A-9DAA-B5D74848F36E.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2dae31ba1f030ceba3cb69407f085b0c%2F1658272495F11E9C8B-CB7D-40DF-B4C3-AA8113C6180D.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img2": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2dae31ba1f030ceba3cb69407f085b0c%2F1658272495F11E9C8B-CB7D-40DF-B4C3-AA8113C6180D.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2dae31ba1f030ceba3cb69407f085b0c%2F165766147868A1B385-0554-4B40-99FE-3D9777372592.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img3": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F2dae31ba1f030ceba3cb69407f085b0c%2F165766147868A1B385-0554-4B40-99FE-3D9777372592.jpeg&q=60&c=sc&orient=true&w=160&poi=auto&h=90.jpg"
         },
         {
-            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3661740.jpg&q=60&c=sc&orient=true&w=160&poi=auto&h=90"
+            "img4": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3661740.jpg"
         },
         {
             "img5": "https://www.allrecipes.com/thmb/2NqKj2yims5Npx2bCRZPKq0Yt7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8857644-8a52a45e97e145519bdc4a626ad2f7da.jpg"
