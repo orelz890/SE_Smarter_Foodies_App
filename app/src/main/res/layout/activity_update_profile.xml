@@ -39,20 +39,19 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"
-        android:hint="Email"
-        android:id="@+id/email_up">>
-
+        android:hint="Is chef?"
+        android:enabled="false"
+        android:id="@+id/chef_up">
+        >
 
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:drawableLeft="@drawable/ic_email"
+            android:drawableLeft="@drawable/ic_chef"
             android:drawablePadding="10dp"
-            android:text="" />
-
+            android:text="false" />
 
     </com.google.android.material.textfield.TextInputLayout>
-
 
 
     <com.google.android.material.textfield.TextInputLayout
@@ -61,7 +60,6 @@
         android:layout_marginBottom="10dp"
         android:hint="vegetarian/vegan/carnivore"
         android:id="@+id/type_up">
-        >
 
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
@@ -73,13 +71,13 @@
 
     </com.google.android.material.textfield.TextInputLayout>
 
+
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"
         android:hint="A favorite recipe"
-        android:id="@+id/favorit_up">
-        >
+        android:id="@+id/favorite_up">
 
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
@@ -88,8 +86,8 @@
             android:drawablePadding="10dp"
             android:text="" />
 
-
     </com.google.android.material.textfield.TextInputLayout>
+
 
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
@@ -97,7 +95,6 @@
         android:layout_marginBottom="10dp"
         android:hint="website"
         android:id="@+id/website_up">
-        >
 
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
@@ -113,17 +110,18 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"
-        android:hint="Is chef?"
+        android:hint="Email"
         android:enabled="false"
-        android:id="@+id/chef_up">
-        >
+        android:id="@+id/email_up">
+
 
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:drawableLeft="@drawable/ic_chef"
+            android:drawableLeft="@drawable/ic_email"
             android:drawablePadding="10dp"
-            android:text="false" />
+            android:text="" />
+
 
     </com.google.android.material.textfield.TextInputLayout>
 

@@ -89,11 +89,21 @@ public class recipe {
     } // recipe(<json>)
 
     private void init() {
+        this.title = "";
         this.ingredients = new ArrayList<>();
         this.comments = new HashMap<>();
         this.images = new ArrayList<>();
     } // init
 
+    @Override
+    public boolean equals(Object other) {
+        if (other instanceof recipe) {
+            recipe otherElement = (recipe) other;
+            // Define your comparison criteria here
+            return this.title.equals(otherElement.title);
+        }
+        return false;
+    }
 
     private List<String> convert_json_array_to_str_list(JsonArray arr) {
         JsonArray ingredients = arr.getAsJsonArray();

@@ -1,12 +1,8 @@
 package com.example.smarter_foodies;
 
 import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.fragment.app.Fragment;
 
-import android.content.Context;
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -17,7 +13,6 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.google.android.material.textfield.TextInputEditText;
 import com.google.android.material.textfield.TextInputLayout;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -37,12 +32,12 @@ public class fragment_profile extends DashboardActivity {
     private FirebaseAuth mAuth;
 
     ImageView image_profile, options;
-    TextInputLayout fullname, email, eating, favrorit, wabsite, ischef;
-    TextView posts, num_of_dishs, following;
+    TextInputLayout name, email, eating, favorite, website, isChef;
+    TextView posts, num_of_dishes, following;
     Button update_profile;
     FirebaseUser firebaseUser;
     String Uid;
-    ImageButton my_fotos, saved_fotos;
+    ImageButton my_photos, saved_photos;
 
 
     protected void onCreate(Bundle savedInstanceState) {
@@ -57,17 +52,17 @@ public class fragment_profile extends DashboardActivity {
         firebaseUser = FirebaseAuth.getInstance().getCurrentUser();
         image_profile = findViewById(R.id.image_profile);
         posts = findViewById(R.id.posts);
-        num_of_dishs = findViewById(R.id.num_of_dishs);
+        num_of_dishes = findViewById(R.id.num_of_dishs);
         following = findViewById(R.id.following);
-        fullname = findViewById(R.id.full_name_pp);
+        name = findViewById(R.id.full_name_pp);
         email = findViewById(R.id.email_pp);
         update_profile = findViewById(R.id.update_profile);
-        my_fotos = findViewById(R.id.my_fotos);
-        saved_fotos = findViewById(R.id.save_fotos);
+        my_photos = findViewById(R.id.my_fotos);
+        saved_photos = findViewById(R.id.save_fotos);
         eating = findViewById(R.id.type_pp);
-        favrorit = findViewById(R.id.favorit_pp);
-        wabsite = findViewById(R.id.website_pp);
-        ischef = findViewById(R.id.chaf_pp);
+        favorite = findViewById(R.id.favorit_pp);
+        website = findViewById(R.id.website_pp);
+        isChef = findViewById(R.id.chef_pp);
 
 
         FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
@@ -79,43 +74,14 @@ public class fragment_profile extends DashboardActivity {
         reference.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-
-                String nameresult = "",emailresult = " ",eatingresult = " ",
-                        Favoritrecpieresult = " ",wabsiteresult =" " ,isChefresult = "";
                 if (snapshot_filter.exists()) {
-                    for (DataSnapshot child : snapshot_filter.getChildren()) {
-                        if (child.getKey().equals("Nickname")) {
-                            nameresult = child.getValue(String.class);
-                        }
-                        else if (child.getKey().equals("Email")) {
-                            emailresult = child.getValue(String.class);
-                        }
-                        else if (child.getKey().equals("Eating")) {
-                            eatingresult = child.getValue(String.class);
-                        }
-                        else if (child.getKey().equals("Favrorit")) {
-                            Favoritrecpieresult = child.getValue(String.class);
-                        }
-                        else if (child.getKey().equals("Wabsite")) {
-                            wabsiteresult = child.getValue(String.class);
-                        }
-
-                        else if (child.getKey().equals("isChef")) {
-                            boolean symbol = child.getValue(boolean.class);
-                            if(symbol){
-                                isChefresult = "True";
-                            }
-                            else{
-                                isChefresult = "False";
-                            }
-                        }
-                    }
-                    fullname.getEditText().setText(nameresult);
-                    email.getEditText().setText(emailresult);
-                    eating.getEditText().setText(eatingresult);
-                    favrorit.getEditText().setText(Favoritrecpieresult);
-                    wabsite.getEditText().setText(wabsiteresult);
-                    ischef.getEditText().setText(isChefresult);
+                    User user = snapshot_filter.getValue(User.class);
+                    name.getEditText().setText(user.getName());
+                    email.getEditText().setText(user.getEmail());
+                    eating.getEditText().setText(user.getEating());
+                    favorite.getEditText().setText(user.getFavorite());
+                    website.getEditText().setText(user.getWebsite());
+                    isChef.getEditText().setText(user.isChef() + "");
                 }
             }
 
@@ -137,7 +103,7 @@ public class fragment_profile extends DashboardActivity {
 
     }
 
-    public View onCreatView(LayoutInflater inflater, ViewGroup continer, Bundle savedinstancestate) {
+    public View onCreateView(LayoutInflater inflater, ViewGroup continer, Bundle savedinstancestate) {
 
         View view = inflater.inflate(R.layout.activity_fragment_profile, continer, false);
 
@@ -145,22 +111,18 @@ public class fragment_profile extends DashboardActivity {
         if (fuser != null) {
             String uid = fuser.getUid();
             DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
-            String name = reference.child("Nickname").toString();
-            String eemail = reference.child("Email").toString();
-            String ttype_food = reference.child("Type_food").toString();
-            String ffavorite = reference.child("favorite").toString();
-            String wwab = reference.child("Wabsite").toString();
+            String newName = reference.child("name").toString();
+            String newEating = reference.child("eating").toString();
+            String newFavorite = reference.child("favorite").toString();
+            String newWebsite = reference.child("website").toString();
 
-            Objects.requireNonNull(fullname.getEditText()).setText(name);
-            Objects.requireNonNull(email.getEditText()).setText(eemail);
-            Objects.requireNonNull(eating.getEditText()).setText(ttype_food);
-            Objects.requireNonNull(wabsite.getEditText()).setText(wwab);
-            Objects.requireNonNull(favrorit.getEditText()).setText(ffavorite);
+            Objects.requireNonNull(name.getEditText()).setText(newName);
+            Objects.requireNonNull(eating.getEditText()).setText(newEating);
+            Objects.requireNonNull(website.getEditText()).setText(newWebsite);
+            Objects.requireNonNull(favorite.getEditText()).setText(newFavorite);
 
             return view;
         }
-
-
         return view;
     }
 

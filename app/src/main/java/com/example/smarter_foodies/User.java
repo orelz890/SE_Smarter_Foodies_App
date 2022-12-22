@@ -11,37 +11,32 @@ public class User {
     private String eating;
     private String favorite;
     private String website;
-    private List<recipe> liked;
-    private List<recipe> cart;
-
+    private List<String> liked;
+    private List<String> cart;
+    private List<String> myRecipes;
 
     public User() {
-        firstEntry = true;
-        isChef = false;
         liked = new ArrayList<>();
         cart = new ArrayList<>();
-    }
-
-    public User(String name) {
-        this.name = name;
-        this.firstEntry = true;
-        this.isChef = false;
+        myRecipes = new ArrayList<>();
         this.eating = "";
         this.email = "";
         this.favorite = "";
         this.website = "";
         this.resume = "";
-        this.liked = new ArrayList<>();
-        this.cart = new ArrayList<>();
-    }
-
-    public User(String name, String re){
-        this.name = name;
-        this.resume = re;
         this.firstEntry = true;
         this.isChef = false;
-        this.liked = new ArrayList<>();
-        this.cart = new ArrayList<>();
+    }
+
+    public User(String name) {
+        this();
+        this.name = name;
+    }
+
+
+    public User(String name, String re){
+        this(name);
+        this.resume = re;
     }
 
     public String getName() {
@@ -108,20 +103,95 @@ public class User {
         this.website = website;
     }
 
-    public List<recipe> getLiked() {
+    public List<String> getLiked() {
         return liked;
     }
 
-    public void setLiked(List<recipe> liked) {
+    public void setLiked(List<String> liked) {
         this.liked = liked;
     }
 
-    public List<recipe> getCart() {
+    public void addToLiked(String r) {
+        if (!this.liked.contains(r)){
+            this.liked.add(r);
+        }
+    }
+
+    public void addToLiked(List<String> newRecipes) {
+        for (String r: newRecipes){
+            if (!this.liked.contains(r)){
+                this.liked.add(r);
+            }
+        }
+    }
+
+    public void removeFromLiked(String r) {
+        this.liked.remove(r);
+    }
+
+    public void removeFromLiked(List<String> delList) {
+        this.liked.removeAll(delList);
+    }
+
+
+    public List<String> getCart() {
         return cart;
     }
 
-    public void setCart(List<recipe> cart) {
+    public void setCart(List<String> cart) {
         this.cart = cart;
+    }
+
+    public void addToCart(String r) {
+        if (!this.cart.contains(r)){
+            this.cart.add(r);
+        }
+    }
+
+    public void addToCart(List<String> newRecipes) {
+        for (String r: newRecipes){
+            if (!this.cart.contains(r)){
+                this.cart.add(r);
+            }
+        }
+    }
+
+    public void removeFromCart(String r) {
+        this.cart.remove(r);
+    }
+
+    public void removeFromCart(List<String> delList) {
+        this.cart.removeAll(delList);
+    }
+
+    public List<String> getMyRecipes() {
+        return myRecipes;
+    }
+
+    public void setMyRecipes(List<String> myRecipes) {
+        this.myRecipes = myRecipes;
+    }
+
+    public void addToMyRecipes(String r) {
+        if (!this.myRecipes.contains(r)){
+            this.myRecipes.add(r);
+        }
+    }
+
+    public void addToMyRecipes(List<String> newRecipes) {
+        for (String r: newRecipes){
+            if (!this.myRecipes.contains(r)){
+                this.myRecipes.add(r);
+            }
+        }
+    }
+
+    public void removeFromMyRecipes(String r) {
+        this.myRecipes.remove(r);
+    }
+
+    public void removeFromMyRecipes(List<String> delList) {
+        this.myRecipes.removeAll(delList);
     }
 
     @Override

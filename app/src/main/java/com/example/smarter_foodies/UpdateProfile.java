@@ -23,69 +23,68 @@ import java.util.Objects;
 public class UpdateProfile extends AppCompatActivity {
     Button button;
     FirebaseDatabase database = FirebaseDatabase.getInstance();
-    TextInputLayout fullname, email, eating, favrorit, wabsite, ischef;
-    String Uid;
+    TextInputLayout fullName, email, eating, favorite, website, isChef;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_update_profile);
-        fullname = findViewById(R.id.full_name_up);
+        fullName = findViewById(R.id.full_name_up);
         email = findViewById(R.id.email_up);
         eating = findViewById(R.id.type_up);
-        favrorit = findViewById(R.id.favorit_up);
-        wabsite = findViewById(R.id.website_up);
-        ischef = findViewById(R.id.chef_up);
+        favorite = findViewById(R.id.favorite_up);
+        website = findViewById(R.id.website_up);
+        isChef = findViewById(R.id.chef_up);
         button = findViewById(R.id.btn_up);
 
+        setTextViewContent();
 
+    }
+
+    private void setTextViewContent(){
         // to show the cuurent data on the scrren
         FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
-        assert user != null;
-        String cuurentid = user.getUid();
-        this.Uid = cuurentid;
+        if (user != null) {
+            String uid = user.getUid();
 
-        DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(Uid);
+            DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
 
-        reference.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-                if (snapshot_filter.exists()) {
-                    System.out.println(snapshot_filter);
-                    User user = snapshot_filter.getValue(User.class);
-                    System.out.println(user);
-                    if (user != null) {
-                        Objects.requireNonNull(fullname.getEditText()).setText(user.getName());
-                        Objects.requireNonNull(email.getEditText()).setText(user.getEmail());
-                        Objects.requireNonNull(eating.getEditText()).setText(user.getEating());
-                        Objects.requireNonNull(favrorit.getEditText()).setText(user.getFavorite());
-                        Objects.requireNonNull(wabsite.getEditText()).setText(user.getWebsite());
-                        Objects.requireNonNull(ischef.getEditText()).setText("" + user.isChef());
+            reference.addValueEventListener(new ValueEventListener() {
+                @Override
+                public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
+                    if (snapshot_filter.exists()) {
+                        User user = snapshot_filter.getValue(User.class);
+                        if (user != null) {
+                            Objects.requireNonNull(fullName.getEditText()).setText(user.getName());
+                            Objects.requireNonNull(email.getEditText()).setText(user.getEmail());
+                            Objects.requireNonNull(eating.getEditText()).setText(user.getEating());
+                            Objects.requireNonNull(favorite.getEditText()).setText(user.getFavorite());
+                            Objects.requireNonNull(website.getEditText()).setText(user.getWebsite());
+                            Objects.requireNonNull(isChef.getEditText()).setText("" + user.isChef());
+
+                            button.setOnClickListener(view -> {
+                                UpdateProfileUserTree(reference, user);
+                            });
+                        }
                     }
+                }
 
-                    button.setOnClickListener(view -> {
-                        UpdateProfileUserTree(reference, user);
-                    });
+                @Override
+                public void onCancelled(@NonNull DatabaseError error) {
 
                 }
-            }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-
-            }
-        });
-
+            });
+        }
     }
 
     private void UpdateProfileUserTree(DatabaseReference reference, User user) {
         // what we get after the changing
-        user.setName(String.valueOf(Objects.requireNonNull(this.fullname.getEditText()).getText()));
+        user.setName(String.valueOf(Objects.requireNonNull(this.fullName.getEditText()).getText()));
         user.setEmail(String.valueOf(Objects.requireNonNull(this.email.getEditText()).getText()));
         user.setEating(String.valueOf(Objects.requireNonNull(this.eating.getEditText()).getText()));
-        user.setFavorite(String.valueOf(Objects.requireNonNull(this.favrorit.getEditText()).getText()));
-        user.setWebsite(String.valueOf(Objects.requireNonNull(this.wabsite.getEditText()).getText()));
+        user.setFavorite(String.valueOf(Objects.requireNonNull(this.favorite.getEditText()).getText()));
+        user.setWebsite(String.valueOf(Objects.requireNonNull(this.website.getEditText()).getText()));
 
         reference.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
             @Override

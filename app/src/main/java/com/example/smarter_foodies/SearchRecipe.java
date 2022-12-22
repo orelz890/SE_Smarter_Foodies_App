@@ -79,6 +79,9 @@ public class SearchRecipe extends DashboardActivity {
             @Override
             public void onRefresh() {
                 if (myAdapter != null) {
+//                    if (autoCompleteSearchView != null){
+//                        autoCompleteSearchView.setText("");
+//                    }
                     Collections.shuffle(myFoodList);
                     myAdapter.notifyDataSetChanged();
                     swipeRefreshLayout.setRefreshing(false);
@@ -103,6 +106,9 @@ public class SearchRecipe extends DashboardActivity {
             @Override
             public void onClick(View v) {
                 // Handle button click event here
+                if (autoCompleteSearchView != null ) {
+                    autoCompleteSearchView.setText("");
+                }
                 setMainRecyclerAdapter();
             }
         });

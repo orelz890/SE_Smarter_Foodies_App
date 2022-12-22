@@ -57,7 +57,6 @@ public class ApplyChef extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_apply_chef);
 
-
         etResume = findViewById(R.id.etResume);
         etSkip = findViewById(R.id.etSkip);
         btnApply = findViewById(R.id.btnApply);

@@ -35,7 +35,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/bar">
-        
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -57,7 +57,7 @@
                     android:paddingLeft="20dp"
                     android:paddingRight="4dp"
                     android:orientation="vertical">
-                    
+
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -130,7 +130,7 @@
 
 
                         </LinearLayout>
-                        
+
                     </LinearLayout>
 
                     <Button
@@ -182,6 +182,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="5dp"
+                    android:enabled="false"
                     android:hint="Full Name"
                     android:id="@+id/full_name_pp">
 
@@ -199,6 +200,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="10dp"
+                    android:enabled="false"
                     android:hint="Email"
                     android:id="@+id/email_pp">
                     >
@@ -217,9 +219,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="10dp"
-                    android:hint="chaf/notchaf"
-                    android:id="@+id/chaf_pp">
-                    >
+                    android:enabled="false"
+                    android:hint="Is chef?"
+                    android:id="@+id/chef_pp">
 
                     <com.google.android.material.textfield.TextInputEditText
                         android:layout_width="match_parent"
@@ -235,9 +237,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="10dp"
+                    android:enabled="false"
                     android:hint="vegetarian/vegan/carnivore"
                     android:id="@+id/type_pp">
-                    >
 
                     <com.google.android.material.textfield.TextInputEditText
                         android:layout_width="match_parent"
@@ -253,9 +255,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="10dp"
-                    android:hint="A favorite recipe"
+                    android:enabled="false"
+                    android:hint="Favorite recipe"
                     android:id="@+id/favorit_pp">
-                    >
 
                     <com.google.android.material.textfield.TextInputEditText
                         android:layout_width="match_parent"
@@ -271,9 +273,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="10dp"
+                    android:enabled="false"
                     android:hint="website"
                     android:id="@+id/website_pp">
-                    >
 
                     <com.google.android.material.textfield.TextInputEditText
                         android:layout_width="match_parent"

@@ -415,7 +415,7 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 //            updateFilterTree(former_name, r);
 //            updateSearchTree(former_name, recipeList);
 //            updateRecipesTree();
-            deleteRecipe(former_name);
+//            deleteRecipe(former_name);
             loadDishToDatabase(newRecipe);
 
         }
@@ -460,12 +460,108 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
                 });
         }
 
-    private static void updateUserLikedList(String uid){
-        DatabaseReference usersRef = FirebaseDatabase.getInstance().getReference()
-                .child("users").child(uid);
+    public void addToUserLikedList(String uid, List<String> newRecipes) {
+        DatabaseReference usersRef = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
+        usersRef.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
+                if (snapshot_filter.exists()) {
+                    User user = snapshot_filter.getValue(User.class);
+                    if (user != null) {
+                        user.addToLiked(newRecipes);
+                        usersRef.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
+                            @Override
+                            public void onComplete(@NonNull Task<Void> task) {
+                            }
+                        });
+                    }
 
+                }
+            }
 
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+
+            }
+        });
     }
+
+    public void removeFromUserLikedList(String uid, List<String> delList) {
+        DatabaseReference usersRef = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
+        usersRef.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
+                if (snapshot_filter.exists()) {
+                    User user = snapshot_filter.getValue(User.class);
+                    if (user != null) {
+                        user.removeFromLiked(delList);
+                        usersRef.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
+                            @Override
+                            public void onComplete(@NonNull Task<Void> task) {
+                            }
+                        });
+                    }
+                }
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+
+            }
+        });
+    }
+
+    public void addToUserCartList(String uid, List<String> newRecipes) {
+        DatabaseReference usersRef = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
+        usersRef.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
+                if (snapshot_filter.exists()) {
+                    User user = snapshot_filter.getValue(User.class);
+                    if (user != null) {
+                        user.addToCart(newRecipes);
+                        usersRef.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
+                            @Override
+                            public void onComplete(@NonNull Task<Void> task) {
+                            }
+                        });
+                    }
+
+                }
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+
+            }
+        });
+    }
+
+    public void removeFromUserCartList(String uid, List<String> delList) {
+        DatabaseReference usersRef = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
+        usersRef.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
+                if (snapshot_filter.exists()) {
+                    User user = snapshot_filter.getValue(User.class);
+                    if (user != null) {
+                        user.removeFromCart(delList);
+                        usersRef.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
+                            @Override
+                            public void onComplete(@NonNull Task<Void> task) {
+                            }
+                        });
+                    }
+                }
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+
+            }
+        });
+    }
+
 }
 
 
