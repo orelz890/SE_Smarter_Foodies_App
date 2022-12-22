@@ -172,13 +172,13 @@ public class User {
         this.myRecipes = myRecipes;
     }
 
-    public void addToMyRecipes(String r) {
+    public void addToUserRecipes(String r) {
         if (!this.myRecipes.contains(r)){
             this.myRecipes.add(r);
         }
     }
 
-    public void addToMyRecipes(List<String> newRecipes) {
+    public void addToUserRecipes(List<String> newRecipes) {
         for (String r: newRecipes){
             if (!this.myRecipes.contains(r)){
                 this.myRecipes.add(r);
@@ -186,12 +186,16 @@ public class User {
         }
     }
 
-    public void removeFromMyRecipes(String r) {
-        this.myRecipes.remove(r);
+    public void removeFromUserRecipes(String r) {
+        if (r != null) {
+            this.myRecipes.remove(r);
+        }
     }
 
-    public void removeFromMyRecipes(List<String> delList) {
-        this.myRecipes.removeAll(delList);
+    public void removeFromUserRecipes(List<String> delList) {
+        for(String title: delList){
+            removeFromUserRecipes(title);
+        }
     }
 
     @Override

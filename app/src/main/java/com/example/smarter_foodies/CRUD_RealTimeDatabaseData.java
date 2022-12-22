@@ -35,59 +35,59 @@ import java.util.concurrent.CountDownLatch;
 
 public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
-        Map<String, String[]> subCategoriesList = new HashMap<String, String[]>() {{
-            put("", new String[]{});
-            put("animals", new String[]{"Pet_Food"});
-            put("breakfast", new String[]{"Breakfast_and_Brunch", "Breakfast_Burritos", "Breakfast_Casseroles", "Breakfast_Potatoes", "Breakfast_Strata", "Deviled_Eggs", "Eggplant_Parmesan", "Frittata", "Omelets"});
-            put("cakes", new String[]{"Angel_Food_Cake", "Cake_Recipes", "Carrot_Cake", "Cheesecake", "Chocolate_Cake", "Coffee_Cake", "Crab_Cakes", "Cupcakes", "Fruitcake", "Linguine", "Mashed_Potatoes", "Pound_Cake", "Shortcake", "Spice_Cake", "Upside-Down_Cake"});
-            put("carbs", new String[]{"Calzones", "Dumplings", "Egg_Rolls", "Empanada_Recipes", "Fried_Rice", "Fries", "Gnocchi", "Homemade_Pasta", "Noodle_Casserole", "Pancit", "Pasta_Carbonara", "Pasta_Primavera", "Potato_Pancakes", "Quesadillas", "Quiche", "Quinoa", "Ravioli", "Rice_Casserole", "Rice_Pilaf", "Risotto", "Samosa_Recipes", "Shepherd's_Pie", "Spaghetti", "Spanish_Rice", "Tater_Tots®_Casserole", "Tortellini", "Tortillas", "Tostadas", "Tuna_Casserole", "Ziti"});
-            put("cooking_technique_&_channels", new String[]{"Air_Fryer_Recipes", "Allrecipes_Allstars", "Cooking_for_a_Crowd", "Cooking_for_One", "Cooking_for_Two", "Copycat_Recipes", "Food_Wishes®", "Instant_Pot®_Recipes", "Passover_Recipes", "Potluck_Recipes", "Slow_Cooker_Recipes", "Sous_Vide_Recipes", "Stir-Fries", "TVP_Recipes", "Whole30_Recipes"});
-            put("dairy", new String[]{"Macaroni_and_Cheese", "Chowder"});
-            put("dinner", new String[]{"Dinner_Recipes"});
-            put("dips", new String[]{"Artichoke_Dip", "Buffalo_Chicken_Dip", "Cranberry_Sauce", "Gravy", "Guacamole", "Pesto_Sauce", "Relishes", "Salsa", "Spinach_Dips "});
-            put("drinks", new String[]{"Applesauce", "Bloody_Marys", "Cocktails", "Eggnog", "Jell-O®_Shots", "Lemonade", "Margaritas", "Mojitos", "Punch", "Sangria", "Smoothies"});
-            put("easy_recipies_&_leftovers", new String[]{"Everyday_Leftovers", "Quick_and_Easy_Recipes"});
-            put("fish_&_sushi", new String[]{"Ceviche", "Salmon_Recipes", "Sushi"});
-            put("flour", new String[]{"Bagels", "Banana_Bread", "Bread_Recipes", "Bruschetta", "Cornbread", "Crackers", "Flat_Bread", "French_Toast", "Garlic_Bread", "Hushpuppies", "Monkey_Bread", "Panini", "Pierogi", "Pretzels", "Pumpkin_Bread", "Sandwiches", "Scones", "Wheat_Bread", "Yeast_Bread", "Zucchini_Bread"});
-            put("gifts_&_comfort_food", new String[]{"Comfort_Food", "Food_Gifts"});
-            put("healty_&_diets", new String[]{"Baked_Beans", "Broccoli_Salad", "Chicken_Salad", "Diabetic_Recipes", "Egg_Salad", "Fruit_Salads", "Gluten-Free_Recipes", "Granola", "Green_Salads", "Healthy_Recipes", "High-Fiber_Recipes", "Keto_Diet", "Low-Calorie_Recipes", "Low-Cholesterol_Recipes", "Low-Fat_Recipes", "Low-Sodium_Recipes", "Low_Glycemic_Impact_Recipes", "Mediterranean_Diet", "Oatmeal", "Overnight_Oats", "Paleo_Diet", "Potato_Salad", "Raw_Food_Diet", "Refried_Beans", "Salad_Dressings", "Salad_Recipes", "Seitan_Recipes", "Sugar-Free_Recipes", "Tempeh_Recipes", "Tofu_Recipes", "Vegan_Recipes", "Vegetable_Recipes", "Vegetable_Side_Dishes", "Vegetarian_Recipes"});
-            put("holidays_and_traditional_food", new String[]{"Falafel", "Paella", "Tacos", "Tamales"});
-            put("lunch", new String[]{"Lunch_Recipes"});
-            put("main_dishes", new String[]{"Casseroles", "Fajitas", "Lasagna", "Lettuce_Wraps", "Main_Dishes", "Manicotti", "Quiche", "Stew"});
-            put("meat_&_chicken", new String[]{"Bulgogi", "Burgers", "Chili", "Gyros", "Jerky", "Kalbi", "Ribs", "Roasts"});
-            put("per_spesipic_ingridiant", new String[]{"Mushroom_Recipes", "Pickles", "Stuffed_Bell_Peppers", "Stuffed_Mushrooms", "Winter_Squash_Recipes", "Yam_Recipes"});
-            put("pies", new String[]{"Apple_Pie", "Blueberry_Pie", "Cherry_Pie", "Chess_Pie", "Key_Lime_Pie", "Mincemeat_Pie", "Pecan_Pie", "Pie_Crusts", "Pie_Recipes", "Pot_Pie", "Pumpkin_Pie", "Rhubarb_Pie", "Shepherd's_Pie", "Slab_Pie", "Strawberry_Pie", "Sweet_Potato_Pie", "Whoopie_Pies"});
-            put("pizza", new String[]{"Pizza", "Pizza_Dough_and_Crusts"});
-            put("pork", new String[]{"Ground_Pork", "Pork_Chops", "Pork_Recipes", "Pork_Ribs", "Pork_Shoulder", "Pork_Tenderloin", "Pulled_Pork"});
-            put("preserved", new String[]{"Canning_and_Preserving"});
-            put("salads", new String[]{"Broccoli_Salad", "Chicken_Salad", "Coleslaw", "Egg_Salad", "Fruit_Salads", "Green_Salads", "Jell-O®_Salad", "Pasta_Salad", "Potato_Salad", "Salad_Dressings", "Salad_Recipes", "Taco_Salad", "Tomato_Salad", "Tuna_Salad", "Waldorf_Salad"});
-            put("sea_fruit", new String[]{"Etouffee", "Jambalaya", "Shrimp_and_Grits", "Shrimp_Scampi"});
-            put("side_dishes", new String[]{"Grits", "Hummus", "Jalapeno_Poppers", "Meal_Prep", "Pate", "Polenta", "Side_Dishes", "Tapas_Recipes"});
-            put("snacks_&_sweets", new String[]{"Appetizers_and_Snacks", "Bar_Cookies", "Biscotti", "Biscuit", "Blintz", "Blondies", "Brownies", "Cheese_Balls", "Cheese_Fondue", "Chocolate_Chip_Cookies", "Chocolate_Fudge", "Christmas_Cookies", "Cinnamon_Rolls", "Cobbler", "Cookies", "Creme_Brulee", "Crisps_and_Crumbles", "Danishes", "Desserts", "Divinity", "Doughnuts", "Drop_Cookies", "Energy_Balls", "English_Muffins", "Flan", "Fondant", "Frosting_and_Icing_Recipes", "Fudge", "Gingerbread_Cookies", "Gingersnaps", "Ice_Cream", "Jams_and_Jellies", "Kolache", "Lemon_Bars", "Macaroons", "Mousse", "Muffins", "Nachos", "Oatmeal_Cookies", "Pancakes", "Pasties", "Pastries", "Pavlova", "Peanut_Butter_Cookies", "Popcorn", "Popovers_and_Yorkshire_Pudding", "Rice_Pudding", "Road_Trip_Snacks", "Sandwich_Cookies", "Seder_Recipes", "Shortbread_Cookies", "Snickerdoodles", "Spritz_Cookies", "Strawberry_Shortcake", "Sugar_Cookies", "Thumbprint_Cookies", "Tiramisu", "Toffee", "Tortes", "Truffles", "Waffles"});
-            put("soups", new String[]{"Borscht", "Butternut_Squash_Soup", "Chicken_Noodle_Soup", "French_Onion_Soup", "Gazpacho", "Gumbo", "Lentil_Soup", "Minestrone_Soup", "Mushroom_Soup", "Potato_Soup", "Soup", "Split_Pea_Soup"});
-        }};
+    Map<String, String[]> subCategoriesList = new HashMap<String, String[]>() {{
+        put("", new String[]{});
+        put("animals", new String[]{"Pet_Food"});
+        put("breakfast", new String[]{"Breakfast_and_Brunch", "Breakfast_Burritos", "Breakfast_Casseroles", "Breakfast_Potatoes", "Breakfast_Strata", "Deviled_Eggs", "Eggplant_Parmesan", "Frittata", "Omelets"});
+        put("cakes", new String[]{"Angel_Food_Cake", "Cake_Recipes", "Carrot_Cake", "Cheesecake", "Chocolate_Cake", "Coffee_Cake", "Crab_Cakes", "Cupcakes", "Fruitcake", "Linguine", "Mashed_Potatoes", "Pound_Cake", "Shortcake", "Spice_Cake", "Upside-Down_Cake"});
+        put("carbs", new String[]{"Calzones", "Dumplings", "Egg_Rolls", "Empanada_Recipes", "Fried_Rice", "Fries", "Gnocchi", "Homemade_Pasta", "Noodle_Casserole", "Pancit", "Pasta_Carbonara", "Pasta_Primavera", "Potato_Pancakes", "Quesadillas", "Quiche", "Quinoa", "Ravioli", "Rice_Casserole", "Rice_Pilaf", "Risotto", "Samosa_Recipes", "Shepherd's_Pie", "Spaghetti", "Spanish_Rice", "Tater_Tots®_Casserole", "Tortellini", "Tortillas", "Tostadas", "Tuna_Casserole", "Ziti"});
+        put("cooking_technique_&_channels", new String[]{"Air_Fryer_Recipes", "Allrecipes_Allstars", "Cooking_for_a_Crowd", "Cooking_for_One", "Cooking_for_Two", "Copycat_Recipes", "Food_Wishes®", "Instant_Pot®_Recipes", "Passover_Recipes", "Potluck_Recipes", "Slow_Cooker_Recipes", "Sous_Vide_Recipes", "Stir-Fries", "TVP_Recipes", "Whole30_Recipes"});
+        put("dairy", new String[]{"Macaroni_and_Cheese", "Chowder"});
+        put("dinner", new String[]{"Dinner_Recipes"});
+        put("dips", new String[]{"Artichoke_Dip", "Buffalo_Chicken_Dip", "Cranberry_Sauce", "Gravy", "Guacamole", "Pesto_Sauce", "Relishes", "Salsa", "Spinach_Dips "});
+        put("drinks", new String[]{"Applesauce", "Bloody_Marys", "Cocktails", "Eggnog", "Jell-O®_Shots", "Lemonade", "Margaritas", "Mojitos", "Punch", "Sangria", "Smoothies"});
+        put("easy_recipies_&_leftovers", new String[]{"Everyday_Leftovers", "Quick_and_Easy_Recipes"});
+        put("fish_&_sushi", new String[]{"Ceviche", "Salmon_Recipes", "Sushi"});
+        put("flour", new String[]{"Bagels", "Banana_Bread", "Bread_Recipes", "Bruschetta", "Cornbread", "Crackers", "Flat_Bread", "French_Toast", "Garlic_Bread", "Hushpuppies", "Monkey_Bread", "Panini", "Pierogi", "Pretzels", "Pumpkin_Bread", "Sandwiches", "Scones", "Wheat_Bread", "Yeast_Bread", "Zucchini_Bread"});
+        put("gifts_&_comfort_food", new String[]{"Comfort_Food", "Food_Gifts"});
+        put("healty_&_diets", new String[]{"Baked_Beans", "Broccoli_Salad", "Chicken_Salad", "Diabetic_Recipes", "Egg_Salad", "Fruit_Salads", "Gluten-Free_Recipes", "Granola", "Green_Salads", "Healthy_Recipes", "High-Fiber_Recipes", "Keto_Diet", "Low-Calorie_Recipes", "Low-Cholesterol_Recipes", "Low-Fat_Recipes", "Low-Sodium_Recipes", "Low_Glycemic_Impact_Recipes", "Mediterranean_Diet", "Oatmeal", "Overnight_Oats", "Paleo_Diet", "Potato_Salad", "Raw_Food_Diet", "Refried_Beans", "Salad_Dressings", "Salad_Recipes", "Seitan_Recipes", "Sugar-Free_Recipes", "Tempeh_Recipes", "Tofu_Recipes", "Vegan_Recipes", "Vegetable_Recipes", "Vegetable_Side_Dishes", "Vegetarian_Recipes"});
+        put("holidays_and_traditional_food", new String[]{"Falafel", "Paella", "Tacos", "Tamales"});
+        put("lunch", new String[]{"Lunch_Recipes"});
+        put("main_dishes", new String[]{"Casseroles", "Fajitas", "Lasagna", "Lettuce_Wraps", "Main_Dishes", "Manicotti", "Quiche", "Stew"});
+        put("meat_&_chicken", new String[]{"Bulgogi", "Burgers", "Chili", "Gyros", "Jerky", "Kalbi", "Ribs", "Roasts"});
+        put("per_spesipic_ingridiant", new String[]{"Mushroom_Recipes", "Pickles", "Stuffed_Bell_Peppers", "Stuffed_Mushrooms", "Winter_Squash_Recipes", "Yam_Recipes"});
+        put("pies", new String[]{"Apple_Pie", "Blueberry_Pie", "Cherry_Pie", "Chess_Pie", "Key_Lime_Pie", "Mincemeat_Pie", "Pecan_Pie", "Pie_Crusts", "Pie_Recipes", "Pot_Pie", "Pumpkin_Pie", "Rhubarb_Pie", "Shepherd's_Pie", "Slab_Pie", "Strawberry_Pie", "Sweet_Potato_Pie", "Whoopie_Pies"});
+        put("pizza", new String[]{"Pizza", "Pizza_Dough_and_Crusts"});
+        put("pork", new String[]{"Ground_Pork", "Pork_Chops", "Pork_Recipes", "Pork_Ribs", "Pork_Shoulder", "Pork_Tenderloin", "Pulled_Pork"});
+        put("preserved", new String[]{"Canning_and_Preserving"});
+        put("salads", new String[]{"Broccoli_Salad", "Chicken_Salad", "Coleslaw", "Egg_Salad", "Fruit_Salads", "Green_Salads", "Jell-O®_Salad", "Pasta_Salad", "Potato_Salad", "Salad_Dressings", "Salad_Recipes", "Taco_Salad", "Tomato_Salad", "Tuna_Salad", "Waldorf_Salad"});
+        put("sea_fruit", new String[]{"Etouffee", "Jambalaya", "Shrimp_and_Grits", "Shrimp_Scampi"});
+        put("side_dishes", new String[]{"Grits", "Hummus", "Jalapeno_Poppers", "Meal_Prep", "Pate", "Polenta", "Side_Dishes", "Tapas_Recipes"});
+        put("snacks_&_sweets", new String[]{"Appetizers_and_Snacks", "Bar_Cookies", "Biscotti", "Biscuit", "Blintz", "Blondies", "Brownies", "Cheese_Balls", "Cheese_Fondue", "Chocolate_Chip_Cookies", "Chocolate_Fudge", "Christmas_Cookies", "Cinnamon_Rolls", "Cobbler", "Cookies", "Creme_Brulee", "Crisps_and_Crumbles", "Danishes", "Desserts", "Divinity", "Doughnuts", "Drop_Cookies", "Energy_Balls", "English_Muffins", "Flan", "Fondant", "Frosting_and_Icing_Recipes", "Fudge", "Gingerbread_Cookies", "Gingersnaps", "Ice_Cream", "Jams_and_Jellies", "Kolache", "Lemon_Bars", "Macaroons", "Mousse", "Muffins", "Nachos", "Oatmeal_Cookies", "Pancakes", "Pasties", "Pastries", "Pavlova", "Peanut_Butter_Cookies", "Popcorn", "Popovers_and_Yorkshire_Pudding", "Rice_Pudding", "Road_Trip_Snacks", "Sandwich_Cookies", "Seder_Recipes", "Shortbread_Cookies", "Snickerdoodles", "Spritz_Cookies", "Strawberry_Shortcake", "Sugar_Cookies", "Thumbprint_Cookies", "Tiramisu", "Toffee", "Tortes", "Truffles", "Waffles"});
+        put("soups", new String[]{"Borscht", "Butternut_Squash_Soup", "Chicken_Noodle_Soup", "French_Onion_Soup", "Gazpacho", "Gumbo", "Lentil_Soup", "Minestrone_Soup", "Mushroom_Soup", "Potato_Soup", "Soup", "Split_Pea_Soup"});
+    }};
 
-        DatabaseReference mDatabase;
-        // Arrays to store data received from the realtime database
-        private final List<recipe> recipe_list_search = new ArrayList<>();
-        private final List<recipe> recipe_list_filter = new ArrayList<>();
+    DatabaseReference mDatabase;
+    // Arrays to store data received from the realtime database
+    private final List<recipe> recipe_list_search = new ArrayList<>();
+    private final List<recipe> recipe_list_filter = new ArrayList<>();
 
-        @Override
-        protected void onCreate(Bundle savedInstanceState) {
-            super.onCreate(savedInstanceState);
-            // Create reference to the firebase real time database
-            mDatabase = FirebaseDatabase.getInstance().getReference();
-        }
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        // Create reference to the firebase real time database
+        mDatabase = FirebaseDatabase.getInstance().getReference();
+    }
 
-        private boolean init_database_with_existing_scraped_data() {
-            try {
-                AssetManager assetManager = getAssets();
-                String[] files = assetManager.list("per_category_data2");
-                for (String f : files) {
-                    String[] files2 = assetManager.list("per_category_data2/" + f);
-                    System.out.println(">>>>>>>>>>>>>>> " + f + " <<<<<<<<<<<<<<<<<<<");
-                    for (String f2 : files2) {
-                        String[] files3 = assetManager.list("per_category_data2/" + f + "/" + f2);
+    private boolean init_database_with_existing_scraped_data() {
+        try {
+            AssetManager assetManager = getAssets();
+            String[] files = assetManager.list("per_category_data2");
+            for (String f : files) {
+                String[] files2 = assetManager.list("per_category_data2/" + f);
+                System.out.println(">>>>>>>>>>>>>>> " + f + " <<<<<<<<<<<<<<<<<<<");
+                for (String f2 : files2) {
+                    String[] files3 = assetManager.list("per_category_data2/" + f + "/" + f2);
 
 //                        System.out.println(f2);
                     for (String f3 : files3) {
@@ -112,38 +112,38 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
                 }
             }
 
-            } catch (Exception ex) {
-                ex.printStackTrace();
-            }
-            return true;
+        } catch (Exception ex) {
+            ex.printStackTrace();
         }
+        return true;
+    }
 
-        private String getCleanStringForSearch(String input_str) {
-            input_str = input_str.replace("\"", "").replace(" ", "");
-            StringBuilder new_str = new StringBuilder();
-            for (int i = 0; i < input_str.length(); i++) {
-                if (Character.isDigit(input_str.charAt(i)) || Character.isAlphabetic(input_str.charAt(i))) {
-                    new_str.append(input_str.charAt(i));
-                }
+    private String getCleanStringForSearch(String input_str) {
+        input_str = input_str.replace("\"", "").replace(" ", "");
+        StringBuilder new_str = new StringBuilder();
+        for (int i = 0; i < input_str.length(); i++) {
+            if (Character.isDigit(input_str.charAt(i)) || Character.isAlphabetic(input_str.charAt(i))) {
+                new_str.append(input_str.charAt(i));
             }
-            return new_str.toString().toLowerCase(Locale.ROOT);
-
         }
+        return new_str.toString().toLowerCase(Locale.ROOT);
 
-        public DatabaseReference getToRecipeDepth(DatabaseReference DataRef, String name) {
-            DataRef = FirebaseDatabase.getInstance().getReference();
-            if (name.length() > 0) {
-                String new_name = getCleanStringForSearch(name);
-    //            System.out.println(new_name);
-                int len = new_name.length();
-                DataRef = DataRef.child("search");
-                // Max tree depth is 32
-                for (int i = 0; i < len && i < 27; i++) {
-                    DataRef = DataRef.child(new_name.charAt(i) + "");
-                }
+    }
+
+    public DatabaseReference getToRecipeDepth(DatabaseReference DataRef, String name) {
+        DataRef = FirebaseDatabase.getInstance().getReference();
+        if (name.length() > 0) {
+            String new_name = getCleanStringForSearch(name);
+            //            System.out.println(new_name);
+            int len = new_name.length();
+            DataRef = DataRef.child("search");
+            // Max tree depth is 32
+            for (int i = 0; i < len && i < 27; i++) {
+                DataRef = DataRef.child(new_name.charAt(i) + "");
             }
-            return DataRef;
         }
+        return DataRef;
+    }
 
     private boolean deleteAllInitData() {
         mDatabase = FirebaseDatabase.getInstance().getReference();
@@ -169,9 +169,9 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         }
     }
 
-        public String getAsCategoryString(String input_str) {
-            return input_str.replace(" ", "_").replace("\"", "");
-        }
+    public String getAsCategoryString(String input_str) {
+        return input_str.replace(" ", "_").replace("\"", "");
+    }
 
     private void loadDishToFilterTree(recipe r) {
         if (r != null) {
@@ -209,7 +209,7 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         }
     }
 
-    public void loadDishToDatabase(recipe r){
+    public void loadDishToDatabase(recipe r) {
         loadDishToFilterTree(r);
         loadDishToSearchTree(r);
         loadDishToRecipesTree(r);
@@ -219,17 +219,17 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         this.recipe_list_filter.clear();
     }
 
-        private void clearSearchArray() {
-            this.recipe_list_search.clear();
-        }
+    private void clearSearchArray() {
+        this.recipe_list_search.clear();
+    }
 
-        private void addToFilerArray(recipe r) {
-            this.recipe_list_filter.add(new recipe(r));
-        }
+    private void addToFilerArray(recipe r) {
+        this.recipe_list_filter.add(new recipe(r));
+    }
 
-        private void addToSearchArray(recipe r) {
-            this.recipe_list_search.add(new recipe(r));
-        }
+    private void addToSearchArray(recipe r) {
+        this.recipe_list_search.add(new recipe(r));
+    }
 
 
     //// how to get data from the database- search
@@ -328,23 +328,23 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 //        });
 //    }
 
-        private void removeDataFromSearchTree(String name){
-            DatabaseReference mDataSearchDelete = FirebaseDatabase.getInstance().getReference();
-            mDataSearchDelete = getToRecipeDepth(mDataSearchDelete, name);
-            mDataSearchDelete.removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
-                @Override
-                public void onComplete(@NonNull Task<Void> task) {
-                    if (task.isSuccessful()) {
-                        System.out.println(name + "> class removed successfully!");
-                    }
+    private void removeDataFromSearchTree(String name) {
+        DatabaseReference mDataSearchDelete = FirebaseDatabase.getInstance().getReference();
+        mDataSearchDelete = getToRecipeDepth(mDataSearchDelete, name);
+        mDataSearchDelete.removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
+            @Override
+            public void onComplete(@NonNull Task<Void> task) {
+                if (task.isSuccessful()) {
+                    System.out.println(name + "> class removed successfully!");
                 }
-            });
-        }
+            }
+        });
+    }
 
-        private void removeDataFromFilterTree(String main_category, String sub_category, String name){
-            String mainCategory = getAsCategoryString(main_category);
-            String subCategory = getAsCategoryString(sub_category);
-            String title = getAsCategoryString(name);
+    private void removeDataFromFilterTree(String main_category, String sub_category, String name) {
+        String mainCategory = getAsCategoryString(main_category);
+        String subCategory = getAsCategoryString(sub_category);
+        String title = getAsCategoryString(name);
 
         DatabaseReference mDataFilter = FirebaseDatabase.getInstance().getReference()
                 .child("filter").child(mainCategory).child(subCategory);
@@ -359,7 +359,7 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
     }
 
-    private void removeDataFromRecipesTree(String main_category, String sub_category, String name){
+    private void removeDataFromRecipesTree(String main_category, String sub_category, String name) {
         String mainCategory = getAsCategoryString(main_category);
         String subCategory = getAsCategoryString(sub_category);
         String title = getAsCategoryString(name);
@@ -375,7 +375,7 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
             }
         });
 
-        }
+    }
 
 
     public void deleteRecipe(String name) {
@@ -401,8 +401,7 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
                                 e.printStackTrace();
                             }
                         }
-                    }
-                    else{
+                    } else {
                         System.out.println("deleteRecipe - data don't exist");
                     }
                 }
@@ -410,8 +409,8 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         });
     }
 
-    public void updateRecipe(String former_name, recipe newRecipe){
-        if (newRecipe != null){
+    public void updateRecipe(String former_name, recipe newRecipe) {
+        if (newRecipe != null) {
 //            updateFilterTree(former_name, r);
 //            updateSearchTree(former_name, recipeList);
 //            updateRecipesTree();
@@ -421,36 +420,37 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         }
     }
 
-        public static void updateUserAsChef(String email){
-            String preUserEmail = email.replace(".", "{*}");
-            DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("email").child(preUserEmail);
-                    reference.addValueEventListener(new ValueEventListener() {
-                        @Override
-                        public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-                            if (!dataSnapshot.exists()) {
-                                System.out.println("email doesn't exist");
-                            } else {
-                                String uid = dataSnapshot.getValue(String.class);
-                                updateUser(uid);
-                            }
-                        }
+    public static void updateUserAsChef(String email) {
+        String preUserEmail = email.replace(".", "{*}");
+        DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("email").child(preUserEmail);
+        reference.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+                if (!dataSnapshot.exists()) {
+                    System.out.println("email doesn't exist");
+                } else {
+                    String uid = dataSnapshot.getValue(String.class);
+                    updateUser(uid);
+                }
+            }
 
-                        @Override
-                        public void onCancelled(@NonNull DatabaseError error) {
-                            Log.d("TAG", error.getMessage());
-                        }
-                    });
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+                Log.d("TAG", error.getMessage());
+            }
+        });
 
-        }
+    }
 
-        private static void updateUser(String uid){
-            Map<String, Object> userUpdates = new HashMap<>();
-            userUpdates.put("isChef", true);
-            FirebaseDatabase.getInstance().getReference().child("users").child(uid)
-                    .updateChildren(userUpdates).addOnSuccessListener(new OnSuccessListener<Void>(){
+    private static void updateUser(String uid) {
+        Map<String, Object> userUpdates = new HashMap<>();
+        userUpdates.put("isChef", true);
+        FirebaseDatabase.getInstance().getReference().child("users").child(uid)
+                .updateChildren(userUpdates).addOnSuccessListener(new OnSuccessListener<Void>() {
                     @Override
                     public void onSuccess(Void aVoid) {
-                        System.out.println("success to update user");                        }
+                        System.out.println("success to update user");
+                    }
                 })
                 .addOnFailureListener(new OnFailureListener() {
                     @Override
@@ -458,108 +458,89 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
                         System.err.println("error to update user");
                     }
                 });
+    }
+
+    public void addToUserLists(List<String> newRecipes, String listName) {
+        String uid = FirebaseAuth.getInstance().getUid();
+        if (uid != null) {
+            DatabaseReference usersRef = FirebaseDatabase.getInstance()
+                    .getReference().child("users").child(uid);
+            usersRef.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
+                @Override
+                public void onSuccess(DataSnapshot dataSnapshot) {
+                    if (dataSnapshot.exists()) {
+                        User user = dataSnapshot.getValue(User.class);
+                        if (user != null) {
+                            switch (listName) {
+                                case "recipes":
+                                    user.addToUserRecipes(newRecipes);
+                                    break;
+                                case "cart":
+                                    user.addToCart(newRecipes);
+                                    break;
+                                case "liked":
+                                    user.addToLiked(newRecipes);
+                                    break;
+                            }
+                            DatabaseReference usersRef = FirebaseDatabase.getInstance()
+                                    .getReference().child("users").child(uid);
+                            usersRef.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
+                                @Override
+                                public void onComplete(@NonNull Task<Void> task) {
+
+                                }
+                            });
+                        }
+                    }
+                }
+            });
+
         }
 
-    public void addToUserLikedList(String uid, List<String> newRecipes) {
-        DatabaseReference usersRef = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
-        usersRef.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-                if (snapshot_filter.exists()) {
-                    User user = snapshot_filter.getValue(User.class);
-                    if (user != null) {
-                        user.addToLiked(newRecipes);
-                        usersRef.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
-                            @Override
-                            public void onComplete(@NonNull Task<Void> task) {
-                            }
-                        });
-                    }
-
-                }
-            }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-
-            }
-        });
     }
 
-    public void removeFromUserLikedList(String uid, List<String> delList) {
-        DatabaseReference usersRef = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
-        usersRef.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-                if (snapshot_filter.exists()) {
-                    User user = snapshot_filter.getValue(User.class);
-                    if (user != null) {
-                        user.removeFromLiked(delList);
-                        usersRef.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
-                            @Override
-                            public void onComplete(@NonNull Task<Void> task) {
+    public void removeFromUserLists(List<String> delList, String listName) {
+        String uid = FirebaseAuth.getInstance().getUid();
+        if (uid != null) {
+            DatabaseReference usersRef = FirebaseDatabase.getInstance().getReference()
+                    .child("users").child(uid);
+            usersRef.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
+                @Override
+                public void onSuccess(DataSnapshot dataSnapshot) {
+                    if (dataSnapshot.exists()) {
+                        User user = dataSnapshot.getValue(User.class);
+                        if (user != null) {
+                            switch (listName) {
+                                case "recipes":
+                                    user.removeFromUserRecipes(delList);
+                                    break;
+                                case "cart":
+                                    user.removeFromCart(delList);
+                                    break;
+                                case "liked":
+                                    user.removeFromLiked(delList);
+                                    break;
                             }
-                        });
+                            DatabaseReference usersRef = FirebaseDatabase.getInstance()
+                                    .getReference().child("users").child(uid);
+                            usersRef.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
+                                @Override
+                                public void onComplete(@NonNull Task<Void> task) {
+
+                                }
+                            });
+                        }
                     }
                 }
-            }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-
-            }
-        });
+            });
+        }
     }
 
-    public void addToUserCartList(String uid, List<String> newRecipes) {
-        DatabaseReference usersRef = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
-        usersRef.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-                if (snapshot_filter.exists()) {
-                    User user = snapshot_filter.getValue(User.class);
-                    if (user != null) {
-                        user.addToCart(newRecipes);
-                        usersRef.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
-                            @Override
-                            public void onComplete(@NonNull Task<Void> task) {
-                            }
-                        });
-                    }
 
-                }
-            }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-
-            }
-        });
-    }
-
-    public void removeFromUserCartList(String uid, List<String> delList) {
-        DatabaseReference usersRef = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
-        usersRef.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-                if (snapshot_filter.exists()) {
-                    User user = snapshot_filter.getValue(User.class);
-                    if (user != null) {
-                        user.removeFromCart(delList);
-                        usersRef.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
-                            @Override
-                            public void onComplete(@NonNull Task<Void> task) {
-                            }
-                        });
-                    }
-                }
-            }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-
-            }
-        });
+    public List<String> getSingleValueList(String title) {
+        List<String> strings = new ArrayList<>();
+        strings.add(getAsCategoryString(title));
+        return strings;
     }
 
 }

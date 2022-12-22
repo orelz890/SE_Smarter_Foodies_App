@@ -303,7 +303,11 @@ public class AddRecipe extends DashboardActivity {
             if (currentUser != null) {
                 r.setCopy_rights(currentUser.getUid());
             }
+            // Load recipe to database
             CRUD.loadDishToDatabase(r);
+            List<String> singleValueList = CRUD.getSingleValueList(r.getTitle());
+            // Add recipe to the user recipes
+            CRUD.addToUserLists(singleValueList, "recipes");
             flag = false;
             Toast.makeText(getApplicationContext(), r.toString(), Toast.LENGTH_SHORT).show();
 

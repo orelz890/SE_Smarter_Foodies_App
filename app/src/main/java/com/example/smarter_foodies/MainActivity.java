@@ -76,7 +76,7 @@ public class MainActivity extends DashboardActivity {
         rootLayout.addView(activityMainView);
         setContentView(rootLayout);
         allocateActivityTitle("Home");
-
+        
         setSwipeRefresh();
 
 //        deleteAllInitData();

@@ -85,10 +85,10 @@ public class UpdateRecipe extends DashboardActivity {
         // Get the name of the recipe
         setDialogGetRecipeName();
         // Fill the categories list which the user can chose from
-        this.fillCategoriesList();
-        this.createAllAutoCompleteTextViews("", "");
+        fillCategoriesList();
+        createAllAutoCompleteTextViews("", "");
         //    ========================= Get data from user =============================================
-        this.createAllNumberPickers();
+        createAllNumberPickers();
     }
 
     private void setImageButtons(String name) {
@@ -195,6 +195,7 @@ public class UpdateRecipe extends DashboardActivity {
             @Override
             public void onClick(DialogInterface dialogInterface, int which) {
                 CRUD.deleteRecipe(name);
+                CRUD.removeFromUserLists(CRUD.getSingleValueList(name), "recipes");
                 startActivity(new Intent(UpdateRecipe.this, MainActivity.class));
             }
         });

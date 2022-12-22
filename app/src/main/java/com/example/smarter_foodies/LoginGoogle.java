@@ -145,7 +145,7 @@ public class LoginGoogle extends AppCompatActivity {
                         AddEmailToEmailTree();
                         Intent intent = new Intent(getApplicationContext(), ApplyChef.class);
                         startActivity(intent);
-                    } else {
+                    }else {
                         User user1 = dataSnapshot.getValue(User.class);
                         if (user1 != null && !user1.isFirstEntry()) {
                             Intent intent = new Intent(getApplicationContext(), MainActivity.class);
@@ -159,7 +159,6 @@ public class LoginGoogle extends AppCompatActivity {
                     Log.d("TAG", error.getMessage());
                 }
             });
-
         }
 
     }
