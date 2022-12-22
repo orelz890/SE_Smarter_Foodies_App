@@ -134,9 +134,9 @@ public class LoginGoogle extends AppCompatActivity {
     }
 
     private void checkUser(){
-        FirebaseUser fuser = mAuth.getCurrentUser();
-        if (fuser != null) {
-            String uid = fuser.getUid();
+        FirebaseUser fUser = mAuth.getCurrentUser();
+        if (fUser != null) {
+            String uid = fUser.getUid();
             DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
             reference.addValueEventListener(new ValueEventListener() {
                 @Override
@@ -147,7 +147,7 @@ public class LoginGoogle extends AppCompatActivity {
                         startActivity(intent);
                     } else {
                         User user1 = dataSnapshot.getValue(User.class);
-                        if (user1 != null && !user1.firstEntry) {
+                        if (user1 != null && !user1.isFirstEntry()) {
                             Intent intent = new Intent(getApplicationContext(), MainActivity.class);
                             startActivity(intent);
                         }

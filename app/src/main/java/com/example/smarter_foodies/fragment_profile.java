@@ -116,8 +116,6 @@ public class fragment_profile extends DashboardActivity {
                     favrorit.getEditText().setText(Favoritrecpieresult);
                     wabsite.getEditText().setText(wabsiteresult);
                     ischef.getEditText().setText(isChefresult);
-
-
                 }
             }
 

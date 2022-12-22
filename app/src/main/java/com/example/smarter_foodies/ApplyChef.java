@@ -127,8 +127,8 @@ public class ApplyChef extends AppCompatActivity {
     private void insertUser(String name){
         FirebaseUser firebaseUser = mAuth.getCurrentUser();
         User user = new User(name);
-        if (user.firstEntry) {
-            user.firstEntry = false;
+        if (user.isFirstEntry()) {
+            user.setFirstEntry(false);
             FirebaseDatabase.getInstance().getReference("users").child(firebaseUser.getUid()).setValue(user).addOnCompleteListener(task -> {
                 if(task.isSuccessful()){
                             Toast.makeText(ApplyChef.this, "WELCOME " + name.toUpperCase(), Toast.LENGTH_LONG).show();
@@ -197,7 +197,7 @@ public class ApplyChef extends AppCompatActivity {
                         createDialog();
                     } else {
                         User user1 = dataSnapshot.getValue(User.class);
-                        if (user1 != null && !user1.firstEntry) {
+                        if (user1 != null && !user1.isFirstEntry()) {
 
                             Intent intent = new Intent(getApplicationContext(), MainActivity.class);
                             startActivity(intent);

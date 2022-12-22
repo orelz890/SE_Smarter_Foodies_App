@@ -7,12 +7,14 @@
     android:orientation="vertical"
     android:gravity="center"
     tools:context=".UpdateProfile">
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Update Profile"
-        android:textColor="@color/Red"
-        android:textSize="40sp"
+        android:text="About me😉"
+        android:textStyle="normal"
+        android:textColor="@color/colorPrimary"
+        android:textSize="30sp"
         android:textAlignment="center"
         android:gravity="center"
         android:layout_marginBottom="30dp"/>
@@ -21,7 +23,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="5dp"
-        android:hint="Full Name"
+        android:hint="Nickname"
         android:id="@+id/full_name_up">
 
         <com.google.android.material.textfield.TextInputEditText
@@ -51,23 +53,7 @@
 
     </com.google.android.material.textfield.TextInputLayout>
 
-    <com.google.android.material.textfield.TextInputLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="10dp"
-        android:hint="chaf/notchaf"
-        android:id="@+id/chaf_up">
-        >
 
-        <com.google.android.material.textfield.TextInputEditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:drawableLeft="@drawable/ic_chaf"
-            android:drawablePadding="10dp"
-            android:text="sdf" />
-
-
-    </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
@@ -120,6 +106,24 @@
             android:drawablePadding="10dp"
             android:text="" />
 
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:hint="Is chef?"
+        android:enabled="false"
+        android:id="@+id/chef_up">
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_chef"
+            android:drawablePadding="10dp"
+            android:text="false" />
 
     </com.google.android.material.textfield.TextInputLayout>
 

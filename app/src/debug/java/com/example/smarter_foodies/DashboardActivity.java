@@ -2,8 +2,10 @@ package com.example.smarter_foodies;
 
 import androidx.annotation.NonNull;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
+import android.widget.Toast;
 
 import com.example.smarter_foodies.databinding.ActivityDashboardBinding;
 import com.google.firebase.auth.FirebaseAuth;
@@ -34,12 +36,15 @@ public class DashboardActivity extends DrawerBaseActivity {
                     if (dataSnapshot.exists()) {
                         User user1 = dataSnapshot.getValue(User.class);
                         if (user1 != null) {
-                            setUserContentView(activityDashboardBinding.getRoot(), user1.isChef);
+                            setUserContentView(activityDashboardBinding.getRoot(), user1.isChef());
 //                            setUserContentView(activityDashboardBinding.getRoot(), true);
                         }
                         else{
                             setUserContentView(activityDashboardBinding.getRoot(), false);
                         }
+                    }else{
+                        Toast.makeText(DashboardActivity.this, "Please sign in first", Toast.LENGTH_LONG).show();
+                        startActivity(new Intent(DashboardActivity.this, LoginActivity.class));
                     }
                 }
 

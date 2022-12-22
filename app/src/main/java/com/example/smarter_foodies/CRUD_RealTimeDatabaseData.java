@@ -446,19 +446,26 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         private static void updateUser(String uid){
             Map<String, Object> userUpdates = new HashMap<>();
             userUpdates.put("isChef", true);
-            FirebaseDatabase.getInstance().getReference().child("users").child(uid).updateChildren(userUpdates)
-                    .addOnSuccessListener(new OnSuccessListener<Void>() {
-                        @Override
-                        public void onSuccess(Void aVoid) {
-                            System.out.println("success to update user");                        }
-                    })
-                    .addOnFailureListener(new OnFailureListener() {
-                        @Override
-                        public void onFailure(@NonNull Exception e) {
-                            System.err.println("error to update user");
-                        }
-                    });
+            FirebaseDatabase.getInstance().getReference().child("users").child(uid)
+                    .updateChildren(userUpdates).addOnSuccessListener(new OnSuccessListener<Void>(){
+                    @Override
+                    public void onSuccess(Void aVoid) {
+                        System.out.println("success to update user");                        }
+                })
+                .addOnFailureListener(new OnFailureListener() {
+                    @Override
+                    public void onFailure(@NonNull Exception e) {
+                        System.err.println("error to update user");
+                    }
+                });
         }
+
+    private static void updateUserLikedList(String uid){
+        DatabaseReference usersRef = FirebaseDatabase.getInstance().getReference()
+                .child("users").child(uid);
+
+
+    }
 }
 
 
