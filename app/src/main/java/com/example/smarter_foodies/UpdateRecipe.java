@@ -12,15 +12,14 @@ import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.NumberPicker;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
-import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.smarter_foodies.databinding.ActivityDashboardBinding;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
@@ -65,6 +64,7 @@ public class UpdateRecipe extends DashboardActivity {
     NumberPicker npFat;
     // Submit recipe button
     Button btnSubmit;
+    ImageButton ibRemoveRecipe;
 
     CRUD_RealTimeDatabaseData CRUD;
 
@@ -83,12 +83,24 @@ public class UpdateRecipe extends DashboardActivity {
         mDatabase = FirebaseDatabase.getInstance().getReference();
         CRUD = new CRUD_RealTimeDatabaseData();
         // Get the name of the recipe
-        setDialog();
+        setDialogGetRecipeName();
         // Fill the categories list which the user can chose from
         this.fillCategoriesList();
         this.createAllAutoCompleteTextViews("", "");
         //    ========================= Get data from user =============================================
         this.createAllNumberPickers();
+    }
+
+    private void setImageButtons(String name) {
+        ibRemoveRecipe = findViewById(R.id.ib_remove_recipe);
+        ibRemoveRecipe.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // Handle button click event here
+                setDialogApproval(name);
+            }
+        });
+
     }
 
     private void fillCategoriesList() {
@@ -149,7 +161,7 @@ public class UpdateRecipe extends DashboardActivity {
         });
     }
 
-    private void setDialog() {
+    private void setDialogGetRecipeName() {
         AlertDialog.Builder builder = new AlertDialog.Builder(UpdateRecipe.this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
         final View customLayout = getLayoutInflater().inflate(R.layout.custom_dialog_layout, null);
         builder.setView(customLayout);
@@ -162,6 +174,7 @@ public class UpdateRecipe extends DashboardActivity {
                 EditText editText = customLayout.findViewById(R.id.etRecipeToUpdate);
                 recipeToUpdateName = editText.getText().toString();
                 createAllButtons();
+                setImageButtons(recipeToUpdateName);
             }
         });
 
@@ -172,12 +185,34 @@ public class UpdateRecipe extends DashboardActivity {
         dialog.show();
     }
 
+    private void setDialogApproval(String name) {
+        AlertDialog.Builder builder = new AlertDialog.Builder(UpdateRecipe.this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
+        final View customLayout = getLayoutInflater().inflate(R.layout.yes_no_dialog_layout, null);
+        builder.setView(customLayout);
+        builder.setCancelable(false);
+        builder.setTitle("Are you sure?");
+        builder.setPositiveButton("yes", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int which) {
+                CRUD.deleteRecipe(name);
+                startActivity(new Intent(UpdateRecipe.this, MainActivity.class));
+            }
+        });
+
+        builder.setNegativeButton("no", (dialogInterface, which) -> {
+
+        });
+        AlertDialog dialog = builder.create();
+        dialog.show();
+    }
+
+
     private void createAllButtons() {
         if (this.recipeToUpdateName.isEmpty()) {
             Toast.makeText(getApplicationContext(),
                     "Name cant be empty",
                     Toast.LENGTH_LONG).show();
-            setDialog();
+            setDialogGetRecipeName();
         } else {
             setKnownDataToTextViews(this.recipeToUpdateName);
             btnSubmit = findViewById(R.id.btnSubmit);
@@ -362,21 +397,21 @@ public class UpdateRecipe extends DashboardActivity {
                                 Toast.makeText(getApplicationContext(),
                                         "You are not authorized to change this recipe..",
                                         Toast.LENGTH_LONG).show();
-                                setDialog();
+                                setDialogGetRecipeName();
                             }
                         }catch (Exception e){
                             e.printStackTrace();
                             Toast.makeText(getApplicationContext(),
                                     "We had a problem please try again..",
                                     Toast.LENGTH_LONG).show();
-                            setDialog();
+                            setDialogGetRecipeName();
                         }
                     }
                 } else {
                     Toast.makeText(getApplicationContext(),
                             "This recipe don't exist..",
                             Toast.LENGTH_LONG).show();
-                    setDialog();
+                    setDialogGetRecipeName();
                 }
             }
 
