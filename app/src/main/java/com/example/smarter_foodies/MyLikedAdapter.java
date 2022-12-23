@@ -16,34 +16,35 @@ import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
-public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
+public class MyLikedAdapter extends RecyclerView.Adapter<LikedFoodViewHolder>{
 
     private Context mContext;
     private List<recipe> myFoodList;
 
-    public MyAdapter(Context mContext, List<recipe> myFoodList) {
+    public MyLikedAdapter(Context mContext, List<recipe> myFoodList) {
         this.mContext = mContext;
         this.myFoodList = myFoodList;
     }
 
     @Override
-    public FoodViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
+    public LikedFoodViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
 
-        View mView = LayoutInflater.from(parent.getContext()).inflate(R.layout.recycler_raw_item, parent, false);
-        return new FoodViewHolder(mView);
+        View mView = LayoutInflater.from(parent.getContext()).inflate(R.layout.recycler_raw_liked_item, parent, false);
+        return new LikedFoodViewHolder(mView);
     }
 
+
     @Override
-    public void onBindViewHolder(@NonNull FoodViewHolder foodViewHolder, int i) {
+    public void onBindViewHolder(@NonNull LikedFoodViewHolder foodViewHolder, int i) {
         recipe recipe = myFoodList.get(i);
         if (!myFoodList.get(i).getImages().isEmpty()) {
             List<String> images = recipe.getImages();
 //            setBestImage(foodViewHolder, i);
-            Picasso.get().load(images.get(images.size() - 1)).into(foodViewHolder.imageView);
+            Picasso.get().load(images.get(images.size() - 1)).resize(200,200).into(foodViewHolder.imageView);
 
         }
         foodViewHolder.mTitle.setText(recipe.getTitle());
-        foodViewHolder.mCalories.setText(recipe.getCalories());
+        foodViewHolder.mAdditional.setText("");
 
         foodViewHolder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -102,18 +103,18 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
 
 
 
-class FoodViewHolder extends RecyclerView.ViewHolder{
+class LikedFoodViewHolder extends RecyclerView.ViewHolder{
 
     ImageView imageView;
-    TextView mTitle, mCalories;
+    TextView mTitle, mAdditional;
     CardView mCardView;
 
-    public FoodViewHolder(View itemView) {
+    public LikedFoodViewHolder(View itemView) {
         super(itemView);
-        imageView = itemView.findViewById(R.id.iv_image);
-        mTitle = itemView.findViewById(R.id.tv_recipe_title);
-        mCalories = itemView.findViewById(R.id.tv_calories);
-        mCardView = itemView.findViewById(R.id.myCardView);
+        imageView = itemView.findViewById(R.id.iv_liked_image);
+        mTitle = itemView.findViewById(R.id.tv_liked_title);
+        mAdditional = itemView.findViewById(R.id.tv_liked_addition_data);
+        mCardView = itemView.findViewById(R.id.myCardLikedView);
 
 
     }

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/ll_liked_linearLayout"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/myCardLikedView"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:layout_margin="4dp"
+            android:backgroundTint="@color/colorGray"
+            app:cardUseCompatPadding="true">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="50"
+                android:orientation="horizontal"
+                >
+
+
+                <ImageView
+                    android:id="@+id/iv_liked_image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="4"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/iv_no_images_available" />
+
+
+                <LinearLayout
+                    android:id="@+id/liked_title_layout"
+                    android:layout_height="match_parent"
+                    android:layout_width="300dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="44dp"                android:gravity="center"
+                    android:weightSum="2"
+                    android:layout_weight="1.5"
+                    android:orientation="vertical">
+
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="bottom">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <TextView
+                                android:id="@+id/tv_liked_title"
+                                android:layout_height="wrap_content"
+                                android:layout_width="295dp"
+                                android:text="Title"
+                                android:maxLines="1"
+                                android:textSize="18sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/white"
+                                />
+
+                            <TextView
+                                android:id="@+id/tv_liked_addition_data"
+                                android:layout_height="wrap_content"
+                                android:layout_width="285dp"
+                                android:text="title"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="10dp"
+                            android:gravity="end|bottom"
+
+                            android:orientation="horizontal">
+
+                            <ImageButton
+                                android:id="@+id/ib_like_recycler"
+                                android:layout_width="wrap_content"
+                                android:layout_height="44dp"
+                                android:background="@null"
+                                android:src="@drawable/red_heart_not_filled" />
+                        </LinearLayout>
+                    </RelativeLayout>
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

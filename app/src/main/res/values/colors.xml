@@ -132,6 +132,7 @@
     <color name="DarkSlateGray">#2F4F4F</color>
     <color name="SeaGreen">#2E8B57</color>
     <color name="ForestGreen">#228B22</color>
+    <color name="LiveGreen">#04B504</color>
     <color name="LightSeaGreen">#20B2AA</color>
     <color name="DodgerBlue">#1E90FF</color>
     <color name="MidnightBlue">#191970</color>
@@ -152,5 +153,6 @@
     <color name="Navy">#000080</color>
     <color name="colorAccent">#c2bdbf</color>
     <color name="colorBlack">#000000</color>
+    <color name="colorGray">#4C4848</color>
 
 </resources>

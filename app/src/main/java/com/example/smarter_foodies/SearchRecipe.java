@@ -88,7 +88,6 @@ public class SearchRecipe extends DashboardActivity {
                 }
             }
         });
-
     }
 
     private void InitManageSearchImageButton() {

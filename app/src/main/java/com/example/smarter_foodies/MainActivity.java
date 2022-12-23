@@ -76,9 +76,14 @@ public class MainActivity extends DashboardActivity {
         rootLayout.addView(activityMainView);
         setContentView(rootLayout);
         allocateActivityTitle("Home");
-        
+
         setSwipeRefresh();
 
+//        List<String> strings = new ArrayList<>();
+//        strings.add("Angel Food Cake");
+//        strings.add("Absolute Best Liver and Onions");
+//        strings.add("Air Fryer Calzones With Two-Ingredient Dough");
+//        CRUD.addToUserLists(strings, "liked");
 //        deleteAllInitData();
 //        init_database_with_existing_scraped_data();
 

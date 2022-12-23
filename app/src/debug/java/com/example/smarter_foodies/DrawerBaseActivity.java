@@ -98,12 +98,17 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
 
     private void handleChefMenu(MenuItem item){
         switch (item.getItemId()){
-            case R.id.nav_home:
-
             case R.id.nav_weekly_planing:
 
-            case R.id.nav_favorites:             // need to build favorites page first
+            case R.id.nav_home:
                 startActivity(new Intent(this, MainActivity.class));
+                // For smooth transition
+                overridePendingTransition(0,0);
+                break;
+
+
+            case R.id.nav_favorites:             // need to build favorites page first
+                startActivity(new Intent(this, likedRecipes.class));
                 // For smooth transition
                 overridePendingTransition(0,0);
                 break;
@@ -141,11 +146,16 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
 
     private void handleBasicMenu(MenuItem item){
         switch (item.getItemId()){
-            case R.id.nav_home:
             case R.id.nav_weekly_planing:
 
-            case R.id.nav_favorites:             // need to build favorites page first
+            case R.id.nav_home:
                 startActivity(new Intent(this, MainActivity.class));
+                // For smooth transition
+                overridePendingTransition(0,0);
+                break;
+
+            case R.id.nav_favorites:             // need to build favorites page first
+                startActivity(new Intent(this, likedRecipes.class));
                 // For smooth transition
                 overridePendingTransition(0,0);
                 break;

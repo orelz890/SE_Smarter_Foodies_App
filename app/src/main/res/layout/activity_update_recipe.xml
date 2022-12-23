@@ -36,12 +36,11 @@
 
             <ImageButton
                 android:id="@+id/ib_remove_recipe"
-                android:layout_height="35dp"
                 android:layout_width="wrap_content"
-                android:background="@null"
+                android:layout_height="35dp"
                 android:adjustViewBounds="true"
-                android:src="@drawable/ic_remove_recipe_recycler"
-                >
+                android:background="@null"
+                android:src="@drawable/ic_remove_recipe_recycler">
 
             </ImageButton>
         </LinearLayout>
