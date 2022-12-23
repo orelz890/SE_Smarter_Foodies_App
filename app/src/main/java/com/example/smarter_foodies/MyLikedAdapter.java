@@ -40,11 +40,10 @@ public class MyLikedAdapter extends RecyclerView.Adapter<LikedFoodViewHolder>{
         if (!myFoodList.get(i).getImages().isEmpty()) {
             List<String> images = recipe.getImages();
 //            setBestImage(foodViewHolder, i);
-            Picasso.get().load(images.get(images.size() - 1)).resize(200,200).into(foodViewHolder.imageView);
-
+            Picasso.get().load(images.get(images.size() - 1)).resize(220,220).into(foodViewHolder.imageView);
         }
         foodViewHolder.mTitle.setText(recipe.getTitle());
-        foodViewHolder.mAdditional.setText("");
+        foodViewHolder.mAdditional.setText(recipe.getMain_category() + "- " + recipe.getCategory());
 
         foodViewHolder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override

@@ -91,7 +91,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="44dp"
                                 android:background="@null"
-                                android:src="@drawable/red_heart_not_filled" />
+                                android:src="@drawable/red_heart_filled" />
                         </LinearLayout>
                     </RelativeLayout>
 

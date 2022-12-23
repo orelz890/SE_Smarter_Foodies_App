@@ -25,7 +25,6 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="9dp"
         android:textColor="@color/Gray"
-
         android:text="0 recipes"/>
 
     <LinearLayout
@@ -36,7 +35,7 @@
         android:layout_margin="10dp">
 
         <ImageButton
-            android:id="@+id/ib_manage_search"
+            android:id="@+id/ib_mystery_box"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:src="@mipmap/ic_mystery_box"

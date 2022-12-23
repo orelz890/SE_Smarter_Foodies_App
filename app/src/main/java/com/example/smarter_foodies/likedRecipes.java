@@ -9,6 +9,7 @@ import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -29,6 +30,7 @@ import com.google.firebase.database.ValueEventListener;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Objects;
 import java.util.Random;
 
 public class likedRecipes extends DashboardActivity {
@@ -56,10 +58,14 @@ public class likedRecipes extends DashboardActivity {
         setContentView(rootLayout);
         allocateActivityTitle("Likes");
 
+        myFoodList = new ArrayList<>();
+
+
         setSwipeRefresh();
-        setImageButtons();
         setTextViews();
         setRecycleView();
+        setImageButtons();
+
     }
 
     private void setTextViews() {
@@ -70,25 +76,37 @@ public class likedRecipes extends DashboardActivity {
     }
 
     private void setImageButtons() {
-        imageButton = findViewById(R.id.ib_manage_search);
-        imageButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                if (!myFoodList.isEmpty()) {
-                    Random random = new Random();
-                    // Generate a random index
-                    int index = random.nextInt(myFoodList.size());
-                    // Get the element at the random index
-                    recipe randomRecipe = myFoodList.get(index);
-                    setRecipeDialog(randomRecipe);
+        imageButton = findViewById(R.id.ib_mystery_box);
+        //                    Random random = new Random();
+//                    // Generate a random index
+//                    int index = random.nextInt(myFoodList.size());
+//                    // Get the element at the random index
+//                    recipe randomRecipe = myFoodList.get(index);
+//                    setRecipeDialog(randomRecipe);
 
-                }
-            }
-        });
+//        for (int i = 0; i < myFoodList.size(); i++) {
+//
+//            LikedFoodViewHolder viewHolder = (LikedFoodViewHolder) mRecyclerView
+//                    .findViewHolderForAdapterPosition(i);
+//            if (viewHolder != null) {
+//                viewHolder.imageView.setOnClickListener(new View.OnClickListener() {
+//                    @Override
+//                    public void onClick(View view) {
+//                        if (!myFoodList.isEmpty()) {
+//
+//                            viewHolder.imageView.setImageResource(R.drawable.red_heart_not_filled);
+//                            String recipeName = viewHolder.mTitle.getText().toString();
+//                            CRUD.removeFromUserLists(CRUD.getSingleValueList(recipeName), "liked");
+//                            setRecycleView();
+//                        }
+//                    }
+//                });
+//            }
+//        }
     }
 
 
-    private void setRecipeDialog(recipe randomRecipe) {
+        private void setRecipeDialog (recipe randomRecipe){
 //        AlertDialog.Builder builder = new AlertDialog.Builder(likedRecipes.this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
 //        final View customLayout = getLayoutInflater().inflate(R.layout.yes_no_dialog_layout, null);
 //        builder.setView(customLayout);
@@ -108,86 +126,86 @@ public class likedRecipes extends DashboardActivity {
 //        });
 //        AlertDialog dialog = builder.create();
 //        dialog.show();
-    }
+        }
 
 
-    private void setSwipeRefresh() {
-        swipeRefreshLayout = findViewById(R.id.liked_recycler_layout);
-        swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
-            @Override
-            public void onRefresh() {
-                if (myAdapter != null) {
-                    Collections.shuffle(myFoodList);
-                    myAdapter.notifyDataSetChanged();
-                    swipeRefreshLayout.setRefreshing(false);
-                }
-            }
-        });
-    }
-
-    private void setRecycleView() {
-        mRecyclerView = (RecyclerView) findViewById(R.id.recyclerLikedView);
-
-        GridLayoutManager gridLayoutManager = new GridLayoutManager(likedRecipes.this, 1);
-        mRecyclerView.setLayoutManager(gridLayoutManager);
-
-        setRecycler();
-    }
-
-
-    private void setRecycler() {
-        myFoodList = new ArrayList<>();
-        String uid = FirebaseAuth.getInstance().getUid();
-        if (uid != null) {
-            DatabaseReference databaseReference = FirebaseDatabase.getInstance()
-                    .getReference().child("users").child(uid);
-            databaseReference.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
+        private void setSwipeRefresh () {
+            swipeRefreshLayout = findViewById(R.id.liked_recycler_layout);
+            swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
                 @Override
-                public void onSuccess(DataSnapshot dataSnapshot) {
-                    if (dataSnapshot.exists()) {
-                        User user = dataSnapshot.getValue(User.class);
-                        if (user != null) {
-                            setRecyclerAdapter(user.getLiked());
-                        }
+                public void onRefresh() {
+                    if (myAdapter != null) {
+                        Collections.shuffle(myFoodList);
+                        myAdapter.notifyDataSetChanged();
+                        swipeRefreshLayout.setRefreshing(false);
                     }
                 }
             });
         }
-    }
+
+        private void setRecycleView () {
+            mRecyclerView = (RecyclerView) findViewById(R.id.recyclerLikedView);
+
+            GridLayoutManager gridLayoutManager = new GridLayoutManager(likedRecipes.this, 1);
+            mRecyclerView.setLayoutManager(gridLayoutManager);
+
+            setRecycler();
+        }
 
 
-    private void setRecyclerAdapter(List<String> liked) {
-
-        DatabaseReference databaseReference = FirebaseDatabase.getInstance()
-                .getReference().child("recipes");
-        databaseReference.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
-            @Override
-            public void onSuccess(DataSnapshot dataSnapshot) {
-                if (dataSnapshot.exists()) {
-                    myFoodList.clear();
-                    for (DataSnapshot snapshot : dataSnapshot.getChildren()) {
-                        Iterable<DataSnapshot> categorySnapshot = snapshot.getChildren();
-                        for (DataSnapshot subCategorySnapshot : categorySnapshot) {
-                            Iterable<DataSnapshot> recipeNamesSnapshot
-                                    = subCategorySnapshot.getChildren();
-                            for (DataSnapshot recipeNameSnap : recipeNamesSnapshot) {
-                                recipe r = recipeNameSnap.getValue(recipe.class);
-                                if (r != null && liked.contains(r.getTitle())) {
-                                    myFoodList.add(r);
-                                }
+        private void setRecycler () {
+            myFoodList = new ArrayList<>();
+            String uid = FirebaseAuth.getInstance().getUid();
+            if (uid != null) {
+                DatabaseReference databaseReference = FirebaseDatabase.getInstance()
+                        .getReference().child("users").child(uid);
+                databaseReference.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
+                    @Override
+                    public void onSuccess(DataSnapshot dataSnapshot) {
+                        if (dataSnapshot.exists()) {
+                            User user = dataSnapshot.getValue(User.class);
+                            if (user != null) {
+                                setRecyclerAdapter(user.getLiked());
                             }
                         }
                     }
-                    if (myFoodList != null) {
-                        tvRecipeCount.setText(myFoodList.size() + " recipes");
-                    }
-                    Collections.shuffle(myFoodList);
-                    myAdapter = new MyLikedAdapter(likedRecipes.this, myFoodList);
-                    mRecyclerView.setAdapter(myAdapter);
-                }
+                });
             }
-        });
+        }
+
+
+        private void setRecyclerAdapter (List < String > liked) {
+
+            DatabaseReference databaseReference = FirebaseDatabase.getInstance()
+                    .getReference().child("recipes");
+            databaseReference.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
+                @Override
+                public void onSuccess(DataSnapshot dataSnapshot) {
+                    if (dataSnapshot.exists()) {
+                        myFoodList.clear();
+                        for (DataSnapshot snapshot : dataSnapshot.getChildren()) {
+                            Iterable<DataSnapshot> categorySnapshot = snapshot.getChildren();
+                            for (DataSnapshot subCategorySnapshot : categorySnapshot) {
+                                Iterable<DataSnapshot> recipeNamesSnapshot
+                                        = subCategorySnapshot.getChildren();
+                                for (DataSnapshot recipeNameSnap : recipeNamesSnapshot) {
+                                    recipe r = recipeNameSnap.getValue(recipe.class);
+                                    if (r != null && liked.contains(r.getTitle())) {
+                                        myFoodList.add(r);
+                                    }
+                                }
+                            }
+                        }
+                        if (myFoodList != null) {
+                            tvRecipeCount.setText(myFoodList.size() + " recipes");
+                        }
+                        Collections.shuffle(myFoodList);
+                        myAdapter = new MyLikedAdapter(likedRecipes.this, myFoodList);
+                        mRecyclerView.setAdapter(myAdapter);
+                    }
+                }
+            });
+        }
+
+
     }
-
-
-}
