@@ -140,7 +140,7 @@ public class LoginGoogle extends AppCompatActivity {
             DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
             reference.addValueEventListener(new ValueEventListener() {
                 @Override
-                public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+                public void onDataChange(@NonNull DataSnapshot dataSnapshot) {                     // Check if onDataChange is needed or simple .get() will do the trick
                     if (!dataSnapshot.exists()) {
                         AddEmailToEmailTree();
                         Intent intent = new Intent(getApplicationContext(), ApplyChef.class);

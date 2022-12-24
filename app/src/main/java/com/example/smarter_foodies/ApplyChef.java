@@ -189,7 +189,7 @@ public class ApplyChef extends AppCompatActivity {
         if (fuser != null) {
             String uid = fuser.getUid();
             DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
-            reference.addValueEventListener(new ValueEventListener() {
+            reference.addValueEventListener(new ValueEventListener() {                // Check if onDataChange is needed or simple .get() will do the trick
                 @Override
                 public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                     if (!dataSnapshot.exists()) {

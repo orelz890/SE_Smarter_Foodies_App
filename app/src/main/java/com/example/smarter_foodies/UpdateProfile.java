@@ -8,6 +8,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.textfield.TextInputLayout;
 import com.google.firebase.auth.FirebaseAuth;
@@ -49,12 +50,11 @@ public class UpdateProfile extends AppCompatActivity {
             String uid = user.getUid();
 
             DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
-
-            reference.addValueEventListener(new ValueEventListener() {
+            reference.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
                 @Override
-                public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-                    if (snapshot_filter.exists()) {
-                        User user = snapshot_filter.getValue(User.class);
+                public void onSuccess(DataSnapshot dataSnapshot) {
+                    if (dataSnapshot.exists()) {
+                        User user = dataSnapshot.getValue(User.class);
                         if (user != null) {
                             Objects.requireNonNull(fullName.getEditText()).setText(user.getName());
                             Objects.requireNonNull(email.getEditText()).setText(user.getEmail());
@@ -68,11 +68,6 @@ public class UpdateProfile extends AppCompatActivity {
                             });
                         }
                     }
-                }
-
-                @Override
-                public void onCancelled(@NonNull DatabaseError error) {
-
                 }
             });
         }

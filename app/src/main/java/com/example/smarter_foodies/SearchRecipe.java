@@ -20,6 +20,9 @@ import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
+import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.android.gms.tasks.Task;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -187,12 +190,12 @@ public class SearchRecipe extends DashboardActivity {
         autoCompleteSearchView = findViewById(R.id.ac_searchView);
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
                 .getReference().child("filter");
-        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
+        mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
             @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-                if (snapshot_filter.exists()) {
+            public void onSuccess(DataSnapshot dataSnapshot) {
+                if (dataSnapshot.exists()) {
                     recipesNamesList.clear();
-                    for (DataSnapshot snapshot : snapshot_filter.getChildren()) {
+                    for (DataSnapshot snapshot : dataSnapshot.getChildren()) {
                         Iterable<DataSnapshot> categorySnapshot = snapshot.getChildren();
                         for (DataSnapshot subCategorySnapshot : categorySnapshot) {
                             Iterable<DataSnapshot> recipeNamesSnapshot = subCategorySnapshot.getChildren();
@@ -226,11 +229,6 @@ public class SearchRecipe extends DashboardActivity {
                     });
                 }
             }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-
-            }
         });
     }
 
@@ -246,12 +244,13 @@ public class SearchRecipe extends DashboardActivity {
             mDatabaseSearchGet = mDatabaseSearchGet.child(CRUD.getAsCategoryString(subCategory));
             setBySubCategoryRecyclerAdapter(category, subCategory);
         }
-        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
+
+        mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
             @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-                if (snapshot_filter.exists()) {
+            public void onSuccess(DataSnapshot dataSnapshot) {
+                if (dataSnapshot.exists()) {
                     recipesNamesList.clear();
-                    for (DataSnapshot snapshot : snapshot_filter.getChildren()) {
+                    for (DataSnapshot snapshot : dataSnapshot.getChildren()) {
                         Iterable<DataSnapshot> categorySnapshot = snapshot.getChildren();
                         if (subCategory.isEmpty()) {
                             for (DataSnapshot recipeNameSnap : categorySnapshot) {
@@ -283,11 +282,6 @@ public class SearchRecipe extends DashboardActivity {
                     });
                 }
             }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-
-            }
         });
     }
 
@@ -303,12 +297,12 @@ public class SearchRecipe extends DashboardActivity {
         // how to get data from the database- search
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
         mDatabaseSearchGet = CRUD.getToRecipeDepth(mDatabaseSearchGet, recipeName);
-        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
+        mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
             @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot_search) {
-                if (snapshot_search.exists()) {
+            public void onSuccess(DataSnapshot dataSnapshot) {
+                if (dataSnapshot.exists()) {
                     myFoodList.clear();
-                    for (DataSnapshot child : snapshot_search.getChildren()) {
+                    for (DataSnapshot child : dataSnapshot.getChildren()) {
                         recipe curr_recipe = child.getValue(recipe.class);
                         myFoodList.add(curr_recipe);
                     }
@@ -317,23 +311,18 @@ public class SearchRecipe extends DashboardActivity {
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-                Log.d("TAG", "setRecyclerAdapter(recipeName)- " + error.getMessage());
-            }
         });
     }
 
     private void setMainRecyclerAdapter() {
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
                 .getReference().child("recipes");
-        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
+        mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
             @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-                if (snapshot_filter.exists()) {
+            public void onSuccess(DataSnapshot dataSnapshot) {
+                if (dataSnapshot.exists()) {
                     myFoodList.clear();
-                    for (DataSnapshot snapshot : snapshot_filter.getChildren()) {
+                    for (DataSnapshot snapshot : dataSnapshot.getChildren()) {
                         String category = snapshot.getKey();
                         if (category != null && !category.equals("animals")) {
                             Iterable<DataSnapshot> categorySnapshot = snapshot.getChildren();
@@ -352,23 +341,18 @@ public class SearchRecipe extends DashboardActivity {
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-
-            }
         });
     }
 
     private void setByCategoryRecyclerAdapter(String category) {
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
                 .getReference().child("recipes").child(CRUD.getAsCategoryString(category));
-        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
+        mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
             @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-                if (snapshot_filter.exists()) {
+            public void onSuccess(DataSnapshot dataSnapshot) {
+                if (dataSnapshot.exists()) {
                     myFoodList.clear();
-                    for (DataSnapshot subCategorySnapshot : snapshot_filter.getChildren()) {
+                    for (DataSnapshot subCategorySnapshot : dataSnapshot.getChildren()) {
                         Iterable<DataSnapshot> recipeNamesSnapshot
                                 = subCategorySnapshot.getChildren();
                         for (DataSnapshot recipeNameSnap : recipeNamesSnapshot) {
@@ -381,11 +365,6 @@ public class SearchRecipe extends DashboardActivity {
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-
-            }
         });
     }
 
@@ -393,25 +372,20 @@ public class SearchRecipe extends DashboardActivity {
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
                 .getReference().child("recipes").child(CRUD.getAsCategoryString(category))
                 .child(CRUD.getAsCategoryString(subCategory));
-        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
+        mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
             @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-                if (snapshot_filter.exists()) {
+            public void onSuccess(DataSnapshot dataSnapshot) {
+                if (dataSnapshot.exists()) {
                     myFoodList.clear();
-                    for (DataSnapshot recipeNameSnap : snapshot_filter.getChildren()) {
+                    for (DataSnapshot recipeNameSnap : dataSnapshot.getChildren()) {
                         recipe name = recipeNameSnap.getValue(recipe.class);
                         myFoodList.add(name);
                     }
+                    Collections.shuffle(myFoodList);
+                    myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
+                    mRecyclerView.setAdapter(myAdapter);
                 }
-                Collections.shuffle(myFoodList);
-                myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
-                mRecyclerView.setAdapter(myAdapter);
-            }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-
             }
         });
-    }
+        }
 }

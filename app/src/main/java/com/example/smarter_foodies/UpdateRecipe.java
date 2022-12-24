@@ -20,6 +20,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 
+import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
@@ -361,11 +362,11 @@ public class UpdateRecipe extends DashboardActivity {
         //// how to get data from the database- search
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
         mDatabaseSearchGet = CRUD.getToRecipeDepth(mDatabaseSearchGet, name);
-        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
+        mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
             @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot_search) {
-                if (snapshot_search.exists()) {
-                    for (DataSnapshot child : snapshot_search.getChildren()) {
+            public void onSuccess(DataSnapshot dataSnapshot) {
+                if (dataSnapshot.exists()) {
+                    for (DataSnapshot child : dataSnapshot.getChildren()) {
                         System.out.println(child);
                         try {
                             recipe r = child.getValue(recipe.class);
@@ -414,11 +415,6 @@ public class UpdateRecipe extends DashboardActivity {
                             Toast.LENGTH_LONG).show();
                     setDialogGetRecipeName();
                 }
-            }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-                Log.d("TAG", "getDishFromSearchTree- " + error.getMessage());
             }
         });
     }

@@ -32,6 +32,7 @@ import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 import com.example.smarter_foodies.databinding.ActivityDashboardBinding;
 import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationView;
@@ -170,12 +171,12 @@ public class MainActivity extends DashboardActivity {
         myFoodList = new ArrayList<>();
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
                 .getReference().child("recipes");
-        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
+        mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
             @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-                if (snapshot_filter.exists()) {
+            public void onSuccess(DataSnapshot dataSnapshot) {
+                if (dataSnapshot.exists()) {
                     myFoodList.clear();
-                    for (DataSnapshot snapshot : snapshot_filter.getChildren()) {
+                    for (DataSnapshot snapshot : dataSnapshot.getChildren()) {
                         String category = snapshot.getKey();
                         if (category != null && !category.equals("animals")) {
                             Iterable<DataSnapshot> categorySnapshot = snapshot.getChildren();
@@ -193,11 +194,6 @@ public class MainActivity extends DashboardActivity {
                     myAdapter = new MyAdapter(MainActivity.this, myFoodList);
                     mRecyclerView.setAdapter(myAdapter);
                 }
-            }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-
             }
         });
     }

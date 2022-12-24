@@ -232,101 +232,48 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
     }
 
 
-    //// how to get data from the database- search
-    //    public List<recipe> getDishFromSearchTree(String name) {
-    //        List<recipe> r = new ArrayList<>();
-    //        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
-    //        mDatabaseSearchGet = getToRecipeDepth(mDatabaseSearchGet, name);
-    //        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
-    //            @Override
-    //            public void onDataChange(@NonNull DataSnapshot snapshot_search) {
-    //                if (snapshot_search.exists()) {
-    //                    for (DataSnapshot child : snapshot_search.getChildren()) {
-    //                        System.out.println(child);
-    //                        recipe curr_recipe = child.getValue(recipe.class);
-    //                        System.out.println(curr_recipe);
-    //                        if (curr_recipe != null) {
-    //                            r.add(new recipe(curr_recipe));
-    //                        }
-    //                    }
-    //                }
-    //            }
-    //
-    //            @Override
-    //            public void onCancelled(@NonNull DatabaseError error) {
-    //                Log.d("TAG", "getDishFromSearchTree- " + error.getMessage());
-    //            }
-    //        });
-    //        return r;
-    //    }
+//    // how to get data from the database- search
+//        public List<recipe> getDishFromSearchTree(String name) {
+//            List<recipe> r = new ArrayList<>();
+//            DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
+//            mDatabaseSearchGet = getToRecipeDepth(mDatabaseSearchGet, name);
+//            mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
+//                @Override
+//                public void onSuccess(DataSnapshot snapshotSearch) {
+//                    if (snapshotSearch.exists()) {
+//                        for (DataSnapshot child : snapshotSearch.getChildren()) {
+//                            System.out.println(child);
+//                            recipe curr_recipe = child.getValue(recipe.class);
+//                            System.out.println(curr_recipe);
+//                            if (curr_recipe != null) {
+//                                r.add(new recipe(curr_recipe));
+//                            }
+//                        }
+//                    }
+//                }
+//            });
+//            return r;
+//        }
 
 
-    //// how to get data from the database- search
-    //    public void getDishFromSearchTree(String name) {
-    //        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
-    //        mDatabaseSearchGet = getToRecipeDepth(mDatabaseSearchGet, name);
-    //        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
-    //            @Override
-    //            public void onDataChange(@NonNull DataSnapshot snapshot_search) {
-    //                if (snapshot_search.exists()) {
-    //                    for (DataSnapshot child : snapshot_search.getChildren()) {
-    //                        recipe curr_recipe = child.getValue(recipe.class);
-    //                        System.out.println(curr_recipe);
-    //                    }
-    //                }
-    //            }
-    //
-    //            @Override
-    //            public void onCancelled(@NonNull DatabaseError error) {
-    //                Log.d("TAG", "getDishFromSearchTree- " + error.getMessage());
-    //            }
-    //        });
-    //    }
-
-    //    // how to get data from the database - filter
-    //    public void getDishFromFilterTree(String mainCategory, String subCategory, String name) {
-    //        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference()
-    //                .child("filter").child(getAsCategoryString(mainCategory))
-    //                .child(getAsCategoryString(subCategory));
-    //        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
-    //            @Override
-    //            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-    //                if (snapshot_filter.exists()) {
-    //                    for (DataSnapshot child : snapshot_filter.getChildren()) {
-    //                        String curr_recipe = child.getValue(String.class);
-    //                        System.out.println(curr_recipe);
-    //                    }
-    //                }
-    //            }
-    //
-    //            @Override
-    //            public void onCancelled(@NonNull DatabaseError error) {
-    //
-    //            }
-    //        });
-    //    }
 //    // how to get data from the database - filter
 //    public void getDishFromFilterTree(String mainCategory, String subCategory, String name) {
 //        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference()
 //                .child("filter").child(getAsCategoryString(mainCategory))
 //                .child(getAsCategoryString(subCategory));
-//        mDatabaseSearchGet.addValueEventListener(new ValueEventListener() {
+//        mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
 //            @Override
-//            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-//                if (snapshot_filter.exists()) {
-//                    for (DataSnapshot child : snapshot_filter.getChildren()) {
+//            public void onSuccess(DataSnapshot snapshotFilter) {
+//                if (snapshotFilter.exists()) {
+//                    for (DataSnapshot child : snapshotFilter.getChildren()) {
 //                        String curr_recipe = child.getValue(String.class);
 //                        System.out.println(curr_recipe);
 //                    }
 //                }
 //            }
-//
-//            @Override
-//            public void onCancelled(@NonNull DatabaseError error) {
-//
-//            }
 //        });
 //    }
+
 
     private void removeDataFromSearchTree(String name) {
         DatabaseReference mDataSearchDelete = FirebaseDatabase.getInstance().getReference();

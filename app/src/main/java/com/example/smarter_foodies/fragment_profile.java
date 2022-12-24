@@ -13,6 +13,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.material.textfield.TextInputLayout;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -71,27 +72,22 @@ public class fragment_profile extends DashboardActivity {
         this.Uid = cuurentid;
         DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(Uid);
 
-        reference.addValueEventListener(new ValueEventListener() {
+        reference.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
             @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-                if (snapshot_filter.exists()) {
-                    User user = snapshot_filter.getValue(User.class);
-                    name.getEditText().setText(user.getName());
-                    email.getEditText().setText(user.getEmail());
-                    eating.getEditText().setText(user.getEating());
-                    favorite.getEditText().setText(user.getFavorite());
-                    website.getEditText().setText(user.getWebsite());
-                    isChef.getEditText().setText(user.isChef() + "");
+            public void onSuccess(DataSnapshot dataSnapshot) {
+                if (dataSnapshot.exists()) {
+                    User user = dataSnapshot.getValue(User.class);
+                    if (user != null) {
+                        Objects.requireNonNull(name.getEditText()).setText(user.getName());
+                        Objects.requireNonNull(email.getEditText()).setText(user.getEmail());
+                        Objects.requireNonNull(eating.getEditText()).setText(user.getEating());
+                        Objects.requireNonNull(favorite.getEditText()).setText(user.getFavorite());
+                        Objects.requireNonNull(website.getEditText()).setText(user.getWebsite());
+                        Objects.requireNonNull(isChef.getEditText()).setText(user.isChef() + "");
+                    }
                 }
             }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-
-            }
         });
-
-
 
         update_profile.setOnClickListener(view -> {
             try {
