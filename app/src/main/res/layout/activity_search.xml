@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/search_layout"
+    android:background="@color/colorBlack"
     android:orientation="vertical"
     tools:context=".SearchRecipe">
 
@@ -28,7 +29,9 @@
             app:boxCornerRadiusTopStart="16dp"
             app:counterEnabled="true"
             app:counterMaxLength="40"
-            android:textColorHint="@color/dark_green"
+            android:textColorHint="@color/white"
+            app:hintTextColor="@color/white"
+
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -42,26 +45,26 @@
                 android:drawableRight="@drawable/ic_search"
                 android:hint="Type here to search"
                 android:textStyle="bold" />
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:orientation="horizontal">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
 
-                <ImageButton
-                    android:id="@+id/ib_manage_search"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/ic_baseline_manage_search_24"
-                    />
+                    <ImageButton
+                        android:id="@+id/ib_manage_search"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_baseline_manage_search_24"
+                        />
 
-                <ImageButton
-                    android:id="@+id/ib_refresh_filter"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/ic_baseline_refresh_24"
-                    />
+                    <ImageButton
+                        android:id="@+id/ib_refresh_filter"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_baseline_refresh_24"
+                        />
 
-            </LinearLayout>
+                </LinearLayout>
         </com.google.android.material.textfield.TextInputLayout>
 
         <LinearLayout

@@ -484,9 +484,15 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
     }
 
 
-    public List<String> getSingleValueList(String title) {
+    public List<String> getSingleValueAsCategoryList(String title) {
         List<String> strings = new ArrayList<>();
         strings.add(getAsCategoryString(title));
+        return strings;
+    }
+
+    public List<String> getSingleValueList(String title) {
+        List<String> strings = new ArrayList<>();
+        strings.add(title);
         return strings;
     }
 

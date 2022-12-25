@@ -101,7 +101,7 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
             case R.id.nav_weekly_planing:
 
             case R.id.nav_home:
-                startActivity(new Intent(this, MainActivity.class));
+                startActivity(new Intent(this, SearchRecipe.class));
                 // For smooth transition
                 overridePendingTransition(0,0);
                 break;
@@ -116,12 +116,6 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
             case R.id.nav_profile:
                 startActivity(new Intent(this, fragment_profile.class));
                 // For smooth transition
-                overridePendingTransition(0,0);
-                break;
-
-
-            case R.id.nav_search:
-                startActivity(new Intent(this, SearchRecipe.class));
                 overridePendingTransition(0,0);
                 break;
 
@@ -149,7 +143,7 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
             case R.id.nav_weekly_planing:
 
             case R.id.nav_home:
-                startActivity(new Intent(this, MainActivity.class));
+                startActivity(new Intent(this, SearchRecipe.class));
                 // For smooth transition
                 overridePendingTransition(0,0);
                 break;
@@ -163,12 +157,6 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
             case R.id.nav_profile:
                 startActivity(new Intent(this, fragment_profile.class));
                 // For smooth transition
-                overridePendingTransition(0,0);
-                break;
-
-
-            case R.id.nav_search:
-                startActivity(new Intent(this, SearchRecipe.class));
                 overridePendingTransition(0,0);
                 break;
 

@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -12,6 +13,11 @@ import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;
@@ -44,6 +50,56 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
         }
         foodViewHolder.mTitle.setText(recipe.getTitle());
         foodViewHolder.mCalories.setText(recipe.getCalories());
+
+        String uid = FirebaseAuth.getInstance().getUid();
+        if (uid != null) {
+            DatabaseReference usersRef = FirebaseDatabase.getInstance()
+                    .getReference().child("users").child(uid);
+            usersRef.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
+                @Override
+                public void onSuccess(DataSnapshot dataSnapshot) {
+                    if (dataSnapshot.exists()) {
+                        User user = dataSnapshot.getValue(User.class);
+                        if (user != null) {
+                            if (user.getLiked().contains(recipe.getTitle())) {
+                                foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_filled);
+                            }else{
+                                foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_not_filled);
+                            }
+                        }
+                    }
+                }
+            });
+        }
+        foodViewHolder.mHeart.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                if (uid != null) {
+                    DatabaseReference usersRef = FirebaseDatabase.getInstance()
+                            .getReference().child("users").child(uid);
+                    usersRef.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
+                        @Override
+                        public void onSuccess(DataSnapshot dataSnapshot) {
+                            if (dataSnapshot.exists()) {
+                                User user = dataSnapshot.getValue(User.class);
+                                if (user != null) {
+                                    if (user.getLiked().contains(recipe.getTitle())) {
+                                        foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_not_filled);
+                                        List<String> singleValueList = foodViewHolder.CRUD.getSingleValueList(recipe.getTitle());
+                                        foodViewHolder.CRUD.removeFromUserLists(singleValueList, "liked");
+                                    }
+//                                    else{
+                                        foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_filled);
+                                        List<String> singleValueList = foodViewHolder.CRUD.getSingleValueList(recipe.getTitle());
+                                        foodViewHolder.CRUD.addToUserLists(singleValueList, "liked");
+//                                    }
+                                }
+                            }
+                        }
+                    });
+                }
+            }
+        });
 
         foodViewHolder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -107,14 +163,16 @@ class FoodViewHolder extends RecyclerView.ViewHolder{
     ImageView imageView;
     TextView mTitle, mCalories;
     CardView mCardView;
+    ImageButton mHeart;
+    CRUD_RealTimeDatabaseData CRUD;
 
     public FoodViewHolder(View itemView) {
         super(itemView);
+        CRUD = new CRUD_RealTimeDatabaseData();
         imageView = itemView.findViewById(R.id.iv_image);
         mTitle = itemView.findViewById(R.id.tv_recipe_title);
         mCalories = itemView.findViewById(R.id.tv_calories);
         mCardView = itemView.findViewById(R.id.myCardView);
-
-
+        mHeart = itemView.findViewById(R.id.ib_search_like_recycler);
     }
 }

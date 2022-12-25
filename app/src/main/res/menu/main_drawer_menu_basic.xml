@@ -17,10 +17,6 @@
             android:icon="@drawable/ic_chef"
             android:title="@string/apply_as_chef"/>
 
-        <item android:id="@+id/nav_search"
-            android:icon="@drawable/ic_search"
-            android:title="@string/search_recipe"/>
-
         <item android:id="@+id/nav_person_search"
             android:icon="@drawable/ic_search_profile"
             android:title="@string/person_search"/>

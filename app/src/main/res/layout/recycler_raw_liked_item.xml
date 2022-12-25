@@ -42,7 +42,8 @@
                     android:layout_height="match_parent"
                     android:layout_width="300dp"
                     android:layout_marginLeft="5dp"
-                    android:layout_marginRight="44dp"                android:gravity="center"
+                    android:layout_marginRight="44dp"
+                    android:gravity="center"
                     android:weightSum="2"
                     android:layout_weight="1.5"
                     android:orientation="vertical">

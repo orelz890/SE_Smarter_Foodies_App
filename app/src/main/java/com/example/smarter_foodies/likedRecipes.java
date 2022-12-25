@@ -60,7 +60,6 @@ public class likedRecipes extends DashboardActivity {
 
         myFoodList = new ArrayList<>();
 
-
         setSwipeRefresh();
         setTextViews();
         setRecycleView();
@@ -103,6 +102,7 @@ public class likedRecipes extends DashboardActivity {
 //                });
 //            }
 //        }
+
     }
 
 
@@ -190,7 +190,7 @@ public class likedRecipes extends DashboardActivity {
                                         = subCategorySnapshot.getChildren();
                                 for (DataSnapshot recipeNameSnap : recipeNamesSnapshot) {
                                     recipe r = recipeNameSnap.getValue(recipe.class);
-                                    if (r != null && liked.contains(r.getTitle())) {
+                                    if (r != null && liked.contains(r.getTitle()) && !myFoodList.contains(r)) {
                                         myFoodList.add(r);
                                     }
                                 }
@@ -200,7 +200,7 @@ public class likedRecipes extends DashboardActivity {
                             tvRecipeCount.setText(myFoodList.size() + " recipes");
                         }
                         Collections.shuffle(myFoodList);
-                        myAdapter = new MyLikedAdapter(likedRecipes.this, myFoodList);
+                        myAdapter = new MyLikedAdapter(likedRecipes.this, myFoodList, likedRecipes.this);
                         mRecyclerView.setAdapter(myAdapter);
                     }
                 }

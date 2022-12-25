@@ -20,7 +20,9 @@ import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.gms.auth.api.signin.GoogleSignInClient;
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
 import com.google.android.gms.common.api.ApiException;
+import com.google.android.gms.tasks.OnCanceledListener;
 import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthCredential;
 import com.google.firebase.auth.FirebaseAuth;
@@ -138,9 +140,9 @@ public class LoginGoogle extends AppCompatActivity {
         if (fUser != null) {
             String uid = fUser.getUid();
             DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
-            reference.addValueEventListener(new ValueEventListener() {
+            reference.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
                 @Override
-                public void onDataChange(@NonNull DataSnapshot dataSnapshot) {                     // Check if onDataChange is needed or simple .get() will do the trick
+                public void onSuccess(DataSnapshot dataSnapshot) {
                     if (!dataSnapshot.exists()) {
                         AddEmailToEmailTree();
                         Intent intent = new Intent(getApplicationContext(), ApplyChef.class);
@@ -148,23 +150,17 @@ public class LoginGoogle extends AppCompatActivity {
                     }else {
                         User user1 = dataSnapshot.getValue(User.class);
                         if (user1 != null && !user1.isFirstEntry()) {
-                            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+//                            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                            Intent intent = new Intent(getApplicationContext(), SearchRecipe.class);
                             startActivity(intent);
                         }
                     }
                 }
-
-                @Override
-                public void onCancelled(@NonNull DatabaseError error) {
-                    Log.d("TAG", error.getMessage());
-                }
             });
         }
-
     }
 
-    private void AddEmailToEmailTree()
-    {
+    private void AddEmailToEmailTree() {
         FirebaseUser firebaseUser = mAuth.getCurrentUser();
         if (firebaseUser != null) {
             String userEmail = firebaseUser.getEmail();

@@ -10,60 +10,85 @@
     <androidx.cardview.widget.CardView
         android:id="@+id/myCardView"
         android:layout_width="match_parent"
-        android:layout_height="350dp"
+        android:layout_height="330dp"
         app:cardElevation="3dp"
         android:layout_margin="4dp"
-        app:cardUseCompatPadding="true">
+        app:cardUseCompatPadding="true"
+        app:cardBackgroundColor="@color/darkGray"
+        >
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:weightSum="5.5"
             android:orientation="vertical"
-            >
+            android:weightSum="5.5">
 
-            <ImageView
-                android:id="@+id/iv_image"
+
+            <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="4"
-                android:scaleType="centerCrop"
-                android:src="@drawable/iv_no_images_available"
-                />
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="235dp"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/iv_image"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="4"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/iv_no_images_available" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:gravity="end|bottom"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/ib_search_like_recycler"
+                        android:layout_width="wrap_content"
+                        android:layout_height="44dp"
+                        android:background="@null"
+                        android:src="@drawable/red_heart_not_filled" />
+                </LinearLayout>
+            </RelativeLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:weightSum="2"
+                android:layout_height="85dp"
                 android:layout_weight="1.5"
-                >
+                android:weightSum="2">
 
                 <LinearLayout
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1.3"
-                    android:padding="10dp"
                     android:orientation="vertical"
-                    >
+                    android:padding="10dp">
 
                     <TextView
                         android:id="@+id/tv_title"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Title"
                         android:maxLines="1"
-                        android:textSize="18sp"
-                        android:textStyle="bold"
+                        android:text="Title"
                         android:textColor="@color/teal_700"
-                        />
+                        android:textSize="18sp"
+                        android:textStyle="bold" />
 
                     <TextView
                         android:id="@+id/tv_recipe_title"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
+                        android:textColor="@color/white"
                         android:text="title"
-                        android:textSize="18sp"
-                        />
+                        android:textSize="18sp" />
 
                 </LinearLayout>
 
@@ -72,30 +97,28 @@
                     android:layout_height="wrap_content"
                     android:layout_weight=".7"
                     android:gravity="center"
-                    android:orientation="vertical"
-                    >
+                    android:orientation="vertical">
+
                     <TextView
                         android:id="@+id/tv_name"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Calories"
                         android:gravity="center"
                         android:maxLines="1"
-                        android:textSize="18sp"
-                        android:textStyle="bold"
+                        android:text="Calories"
                         android:textColor="@color/teal_700"
-                        />
+                        android:textSize="18sp"
+                        android:textStyle="bold" />
 
                     <TextView
                         android:id="@+id/tv_calories"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="Unknown"
-                        android:textSize="25dp"
                         android:textAlignment="center"
                         android:textColor="@color/colorPrimary"
-                        android:textStyle="bold"
-                        />
+                        android:textSize="25dp"
+                        android:textStyle="bold" />
 
 
                 </LinearLayout>
