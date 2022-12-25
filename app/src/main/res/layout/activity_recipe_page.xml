@@ -8,6 +8,7 @@
     android:orientation="vertical"
     android:background="#1DC6B7"
     tools:context=".RecipePage">
+    <!--        android:background="@drawable/top_background"-->
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -22,7 +23,7 @@
             android:layout_width="match_parent"
             android:layout_height="250dp"
             android:scaleType="fitXY"
-            android:src="@drawable/iv_pancake"
+            android:src="@drawable/iv_no_images_available"
             android:layout_gravity="center_horizontal"
             />
         <!--category and sub category-->

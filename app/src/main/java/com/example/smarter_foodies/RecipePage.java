@@ -87,7 +87,8 @@ public class RecipePage extends AppCompatActivity {
             if (ImageUrl != null && ImageUrl != ""){
                 Picasso.get().load(ImageUrl).into(recipeImage);}
 
-            catagoryAndSub.setText(mBundle.getString("CategoryAndSub"));
+
+        catagoryAndSub.setText(mBundle.getString("CategoryAndSub"));
             recipeName.setText(mBundle.getString("name"));
             copyRights.setText(mBundle.getString("copyRights"));
             carbs.setText(mBundle.getString("carbs"));
