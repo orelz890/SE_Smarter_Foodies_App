@@ -11,6 +11,7 @@ public class User {
     private String eating;
     private String favorite;
     private String website;
+    private String rating;
     private List<String> liked;
     private List<String> cart;
     private List<String> myRecipes;
@@ -24,6 +25,7 @@ public class User {
         this.favorite = "";
         this.website = "";
         this.resume = "";
+        this.rating = "";
         this.firstEntry = true;
         this.isChef = false;
     }
@@ -38,6 +40,9 @@ public class User {
         this(name);
         this.resume = re;
     }
+    public String getRating(){return rating;}
+
+    public void setRating(String x){this.rating = x;}
 
     public String getName() {
         return name;

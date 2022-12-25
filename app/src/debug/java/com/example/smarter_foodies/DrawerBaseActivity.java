@@ -114,7 +114,7 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
                 break;
 
             case R.id.nav_profile:
-                startActivity(new Intent(this, fragment_profile.class));
+                startActivity(new Intent(this, profile_page.class));
                 // For smooth transition
                 overridePendingTransition(0,0);
                 break;
@@ -155,7 +155,7 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
                 break;
 
             case R.id.nav_profile:
-                startActivity(new Intent(this, fragment_profile.class));
+                startActivity(new Intent(this, profile_page.class));
                 // For smooth transition
                 overridePendingTransition(0,0);
                 break;

@@ -3,6 +3,7 @@ package com.example.smarter_foodies;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.Toast;
@@ -85,6 +86,8 @@ public class UpdateProfile extends AppCompatActivity {
             @Override
             public void onComplete(@NonNull Task<Void> task) {
                 Toast.makeText(UpdateProfile.this, "Data updated!", Toast.LENGTH_LONG).show();
+                startActivity(new Intent(UpdateProfile.this, profile_page.class));
+
             }
         });
 

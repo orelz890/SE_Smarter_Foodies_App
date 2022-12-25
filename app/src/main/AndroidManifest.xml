@@ -35,7 +35,7 @@
         <activity android:name=".RegisterActivity" />
         <activity android:name=".ApplyChef" />
         <activity android:name=".SearchRecipe" />
-        <activity android:name=".fragment_profile" />
+        <activity android:name=".profile_page" />
         <activity android:name=".UpdateProfile" />
         <activity android:name=".RecipePage" />
         <activity

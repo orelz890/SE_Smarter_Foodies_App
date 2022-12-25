@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".popup"
+    android:orientation="vertical"
+    android:background="@drawable/top_background">
+
+
+    <ImageView
+        android:id="@+id/ranking_image"
+        android:layout_width="125dp"
+        android:layout_height="103dp"
+        android:background="@color/Orange"
+        android:src="@mipmap/profile"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.192" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="308dp"
+        android:layout_height="197dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="236dp"
+        android:elevation="3dp"
+        android:orientation="vertical"
+        android:padding="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ranking_image"
+        app:layout_constraintVertical_bias="0.703">
+
+
+        <RatingBar
+            android:id="@+id/ranking_up_bar"
+            android:layout_width="264dp"
+            android:layout_height="wrap_content"
+            android:numStars="5"
+            android:paddingLeft="30dp"
+            android:stepSize="0.25" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="10dp"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/is_chaf"
+                android:layout_width="34dp"
+                android:layout_height="34dp"
+                android:layout_weight="1"
+                android:text="The ranking is:"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/ranking_up_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="34dp"
+                android:layout_weight="1"
+                android:text=""
+                android:textAlignment="textEnd"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="286dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="32dp"
+            android:background="@drawable/background_btn"
+            android:text="submit"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/view2"
+            app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+            app:layout_constraintVertical_bias="0.244" />
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="407dp"
+        android:layout_height="68dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="4dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        app:layout_constraintVertical_bias="0.173" />
+
+    <Button
+        android:id="@+id/Cancel_ranking_up"
+        android:layout_width="163dp"
+        android:layout_height="39dp"
+        android:layout_marginEnd="12dp"
+        android:background="@drawable/background_btn"
+        android:text="Cancel changing"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/view2"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        app:layout_constraintVertical_bias="0.227" />
+
+    <Button
+        android:id="@+id/save_ranking_up"
+        android:layout_width="156dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="16dp"
+        android:background="@drawable/background_btn"
+        android:text="save ranking"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        app:layout_constraintVertical_bias="0.231" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
