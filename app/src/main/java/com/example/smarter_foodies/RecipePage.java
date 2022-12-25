@@ -15,9 +15,12 @@ import android.widget.Toast;
 
 import com.squareup.picasso.Picasso;
 
+import java.io.IOException;
+import java.security.GeneralSecurityException;
+
+import javax.mail.MessagingException;
+
 public class RecipePage extends AppCompatActivity {
-
-
     TextView ingardiants;
     TextView howToMake;
     TextView prepTime;
@@ -32,11 +35,9 @@ public class RecipePage extends AppCompatActivity {
     TextView catagoryAndSub;
     TextView copyRights;
 
-    Button like;
-    Button addToCart;
+    //Button like;
+    //Button addToCart;
     Button listExtract;
-
-
 
     ImageView recipeImage;
 
@@ -45,6 +46,21 @@ public class RecipePage extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_recipe_page);
 
+        setFindByIds();
+
+        Bundle mBundle = getIntent().getExtras();
+        setBundleContent(mBundle);
+
+        listExtract.setOnClickListener(view -> {
+            createWhatsappDialog(mBundle.getString("name")+"\n\nIngeridants:\n\n"+ mBundle.getString("ingardiants"));});
+
+
+    }
+
+
+
+
+    private void setFindByIds(){
         recipeImage = (ImageView)findViewById(R.id.recipeImageDisplay);
 
         catagoryAndSub = (TextView)findViewById(R.id.recipeCatAndSub);
@@ -61,16 +77,15 @@ public class RecipePage extends AppCompatActivity {
         totalTime = (TextView)findViewById(R.id.recipeTotalTime);
         servings = (TextView)findViewById(R.id.recipeServings);
 
-        like = (Button)findViewById(R.id.recipeLikeButton) ;
-        addToCart = (Button)findViewById(R.id.recipeAddToCart) ;
+        //like = (Button)findViewById(R.id.recipeLikeButton) ;
+        //addToCart = (Button)findViewById(R.id.recipeAddToCart) ;
         listExtract = (Button)findViewById(R.id.recipeListButton) ;
-
-
-
-        Bundle mBundle = getIntent().getExtras();
+    }
+    private void setBundleContent(Bundle mBundle){
         if(mBundle != null){
             String ImageUrl = mBundle.getString("recipeImage");
-            Picasso.get().load(ImageUrl).into(recipeImage);
+            if (ImageUrl != null && ImageUrl != ""){
+                Picasso.get().load(ImageUrl).into(recipeImage);}
 
             catagoryAndSub.setText(mBundle.getString("CategoryAndSub"));
             recipeName.setText(mBundle.getString("name"));
@@ -85,12 +100,9 @@ public class RecipePage extends AppCompatActivity {
             cookTime.setText(mBundle.getString("cookTime"));
             totalTime.setText(mBundle.getString("totalTime"));
             servings.setText(mBundle.getString("servings"));
-
-
         }
-
-
     }
+
 
     private void createWhatsappDialog(String itemList){
 

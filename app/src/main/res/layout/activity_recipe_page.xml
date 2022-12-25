@@ -22,7 +22,7 @@
             android:layout_width="match_parent"
             android:layout_height="250dp"
             android:scaleType="fitXY"
-            android:src="@drawable/food_image"
+            android:src="@drawable/iv_pancake"
             android:layout_gravity="center_horizontal"
             />
         <!--category and sub category-->
@@ -60,219 +60,16 @@
             />
 
 
-        <!--values of the recpie-->
-        <androidx.cardview.widget.CardView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-            android:layout_centerHorizontal="true"
-            app:cardCornerRadius="10dp">
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="horizontal"
-                android:background="@color/white"
-
-                >
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:orientation="vertical"
-                    android:layout_marginRight="20dp"
-                    >
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="left"
-                        android:background="@color/white"
-                        android:text="Carbs"
-                        android:textSize="20sp"
-                        android:textStyle="bold"
-
-                        />
-                    <TextView
-                        android:id="@+id/recipeCarbs"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:layout_gravity="bottom"
-                        android:background="@color/white"
-                        android:text="200g "
-                        android:gravity="center"
-                        android:textSize="20sp"
-                        android:textStyle="normal"
-
-                        />
-                </LinearLayout>
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:orientation="vertical"
-                    android:layout_marginRight="20dp">
-
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="left"
-                        android:background="@color/white"
-                        android:gravity="center"
-                        android:text="Protein"
-                        android:textSize="20sp"
-                        android:textStyle="bold" />
-                    <TextView
-                        android:id="@+id/recipeProtein"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:layout_gravity="bottom"
-                        android:background="@color/white"
-                        android:text="200g "
-                        android:gravity="center"
-                        android:textSize="20sp"
-                        android:textStyle="normal"
-
-                        />
-                </LinearLayout>
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:orientation="vertical"
-                    android:layout_marginRight="20dp">
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:gravity="center"
-                        android:layout_gravity="left"
-                        android:background="@color/white"
-                        android:text="Fats"
-                        android:textSize="20sp"
-                        android:textStyle="bold"
-
-                        />
-
-                    <TextView
-                        android:id="@+id/recipeFats"
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:layout_gravity="bottom"
-                        android:background="@color/white"
-                        android:text="200g "
-                        android:textSize="20sp"
-                        android:textStyle="normal"
-
-                        />
-                </LinearLayout>
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:orientation="vertical">
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="left"
-                        android:background="@color/white"
-                        android:text="Calories"
-                        android:textSize="20sp"
-                        android:textStyle="bold"
-
-                        />
-                    <TextView
-                        android:id="@+id/recipeCalories"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:layout_gravity="bottom"
-                        android:background="@color/white"
-                        android:text="200g "
-                        android:gravity="center"
-                        android:textSize="20sp"
-                        android:textStyle="normal"
-
-                        />
-                </LinearLayout>
-            </LinearLayout>
-
-        </androidx.cardview.widget.CardView>
-
-
-
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:text="   ingaridants:"
-            android:textSize="20sp"
-            android:layout_gravity="left"
-            android:textStyle="bold"
-
-            />
-
-
-
-        <androidx.cardview.widget.CardView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-            android:layout_marginLeft="20dp"
-            android:layout_marginRight="20dp"
-            android:layout_centerHorizontal="true"
-            app:cardCornerRadius="10dp">
-            <TextView
-                android:id="@+id/recipeIngradiants"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_gravity="left"
-                android:background="@color/white"
-                android:text=" 1 kg flower(any flower)\n 1 bag of baking powder(2 TB)\n 1 cup koko powder\n 1 cup shugar\n 3 L eggs\n 2 TB vanlia extract\n 3 cups of milk"
-                android:textSize="20sp"
-                android:textStyle="italic"
-
-                />
-        </androidx.cardview.widget.CardView>
-
-
-
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:text="   how to make: "
-            android:textSize="20sp"
-            android:layout_gravity="left"
-            android:textStyle="bold"
-
-            />
-        <androidx.cardview.widget.CardView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-            android:layout_marginLeft="20dp"
-            android:layout_marginRight="20dp"
-            android:layout_centerHorizontal="true"
-            app:cardCornerRadius="10dp">
-
-            <TextView
-                android:id="@+id/recipeHowToMake"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:text=" put in a ball all of the dry ingardiants\n then add slowly the wet.\n heat a pan on medium heat with butter.\n poor the mixtare.\n flip the pancake when u see bubbles in the top.\n then eat and enjoy : )"
-                android:textSize="20sp"
-                android:background="@color/white"
-                android:layout_gravity="left"
-                android:textStyle="italic"
-
-                />
-        </androidx.cardview.widget.CardView>
-
-
-
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="horizontal"
-            android:layout_marginLeft="7dp"
-            android:layout_marginRight="10dp">
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp">
 
             <androidx.cardview.widget.CardView
-                android:layout_width="90dp"
+                android:layout_width="85dp"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
                 android:layout_marginTop="10dp"
@@ -294,7 +91,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
-                        android:layout_marginLeft="5dp"
+                        android:layout_marginLeft="2dp"
                         android:text=" Prep "
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -315,7 +112,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
-                android:layout_width="90dp"
+                android:layout_width="85dp"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
                 android:layout_marginLeft="5dp"
@@ -337,7 +134,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
-                        android:layout_marginLeft="5dp"
+                        android:layout_marginLeft="2dp"
                         android:text=" Cook "
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -359,7 +156,7 @@
 
 
             <androidx.cardview.widget.CardView
-                android:layout_width="90dp"
+                android:layout_width="85dp"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
                 android:layout_marginTop="10dp"
@@ -381,7 +178,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
-                        android:layout_marginLeft="5dp"
+                        android:layout_marginLeft="2dp"
                         android:text=" Total "
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -403,7 +200,7 @@
 
 
             <androidx.cardview.widget.CardView
-                android:layout_width="115dp"
+                android:layout_width="110dp"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
                 android:layout_marginTop="10dp"
@@ -425,7 +222,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
-                        android:layout_marginLeft="17dp"
+                        android:layout_marginLeft="14dp"
                         android:text="Serving"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -451,6 +248,228 @@
         </LinearLayout>
 
 
+        <!--values of the recpie-->
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            app:cardCornerRadius="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:orientation="horizontal"
+
+                >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="20dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="left"
+                        android:background="@color/white"
+                        android:text="Carbs"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/recipeCarbs"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="bottom"
+                        android:background="@color/white"
+                        android:gravity="center"
+                        android:text="200g "
+                        android:textSize="20sp"
+                        android:textStyle="normal"
+
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="20dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="left"
+                        android:background="@color/white"
+                        android:gravity="center"
+                        android:text="Protein"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/recipeProtein"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="bottom"
+                        android:background="@color/white"
+                        android:gravity="center"
+                        android:text="200g "
+                        android:textSize="20sp"
+                        android:textStyle="normal"
+
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="20dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="left"
+                        android:background="@color/white"
+                        android:gravity="center"
+                        android:text="Fats"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/recipeFats"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="bottom"
+                        android:background="@color/white"
+                        android:text="200g "
+                        android:textSize="20sp"
+                        android:textStyle="normal"
+
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="left"
+                        android:background="@color/white"
+                        android:text="Calories"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/recipeCalories"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="bottom"
+                        android:background="@color/white"
+                        android:gravity="center"
+                        android:text="250 "
+                        android:textSize="20sp"
+                        android:textStyle="normal"
+
+                        />
+                </LinearLayout>
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:text="   Ingaridants:"
+            android:textSize="20sp"
+            android:layout_gravity="left"
+            android:textStyle="bold"
+
+            />
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_centerHorizontal="true"
+            app:cardCornerRadius="10dp">
+            <TextView
+                android:id="@+id/recipeIngradiants"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_gravity="left"
+                android:background="@color/white"
+                android:text=" 1 kg flower(any flower)\n 1 bag of baking powder(2 TB)\n 1 cup koko powder\n 1 cup shugar\n 3 L eggs\n 2 TB vanlia extract\n 3 cups of milk"
+                android:textSize="20sp"
+                android:textStyle="italic"
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:text="   How To Make: "
+            android:textSize="20sp"
+            android:layout_gravity="left"
+            android:textStyle="bold"
+
+            />
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="1dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_centerHorizontal="true"
+            app:cardCornerRadius="10dp">
+
+            <TextView
+                android:id="@+id/recipeHowToMake"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:text=" put in a ball all of the dry ingardiants\n then add slowly the wet.\n heat a pan on medium heat with butter.\n poor the mixtare.\n flip the pancake when u see bubbles in the top.\n then eat and enjoy : )"
+                android:textSize="20sp"
+                android:background="@color/white"
+                android:layout_gravity="left"
+                android:textStyle="italic"
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+
+
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -459,12 +478,12 @@
             android:background="#F8EECF"
             android:layout_marginTop="10dp"
             tools:context=".RecipePage">
-            <Button
-                android:id="@+id/recipeLikeButton"
-                android:layout_width="40dp"
-                android:layout_height="40dp"
-                android:layout_gravity="center"
-                android:background="@drawable/ic_baseline_thumb_up_24" />
+<!--            <Button-->
+<!--                android:id="@+id/recipeLikeButton"-->
+<!--                android:layout_width="40dp"-->
+<!--                android:layout_height="40dp"-->
+<!--                android:layout_gravity="center"-->
+<!--                android:background="@drawable/ic_baseline_thumb_up_24" />-->
 
             <Button
                 android:id="@+id/recipeListButton"
@@ -473,13 +492,13 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="20dp"
                 android:background="@drawable/ic_baseline_checklist_rtl_24" />
-            <Button
-                android:id="@+id/recipeAddToCart"
-                android:layout_width="40dp"
-                android:layout_height="40dp"
-                android:layout_gravity="center"
-                android:layout_marginLeft="20dp"
-                android:background="@drawable/ic_baseline_shopping_cart_24" />
+<!--            <Button-->
+<!--                android:id="@+id/recipeAddToCart"-->
+<!--                android:layout_width="40dp"-->
+<!--                android:layout_height="40dp"-->
+<!--                android:layout_gravity="center"-->
+<!--                android:layout_marginLeft="20dp"-->
+<!--                android:background="@drawable/ic_baseline_shopping_cart_24" />-->
 
 
         </LinearLayout>

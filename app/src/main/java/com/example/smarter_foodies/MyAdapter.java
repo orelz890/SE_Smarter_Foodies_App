@@ -8,6 +8,7 @@ import android.view.ViewGroup;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
@@ -105,27 +106,93 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(mContext,RecipePage.class);
-                List<String> images = myFoodList.get(foodViewHolder.getAdapterPosition()).getImages();
-                intent.putExtra("recipeImage",images.get(images.size() - 1));
-                intent.putExtra("CategoryAndSub",myFoodList.get(foodViewHolder.getAdapterPosition()).getCategory());
-                intent.putExtra("name",myFoodList.get(foodViewHolder.getAdapterPosition()).getTitle());
-                intent.putExtra("copyRights",myFoodList.get(foodViewHolder.getAdapterPosition()).getCopy_rights());
-                intent.putExtra("carbs",myFoodList.get(foodViewHolder.getAdapterPosition()).getCarbs());
-                intent.putExtra("protein",myFoodList.get(foodViewHolder.getAdapterPosition()).getProtein());
-                intent.putExtra("fats",myFoodList.get(foodViewHolder.getAdapterPosition()).getFat());
-                intent.putExtra("calories",myFoodList.get(foodViewHolder.getAdapterPosition()).getCalories());
-                intent.putExtra("ingardiants",myFoodList.get(foodViewHolder.getAdapterPosition()).getIngredients().toString());
-                intent.putExtra("HowToMake",myFoodList.get(foodViewHolder.getAdapterPosition()).getDirections().toString());
-                intent.putExtra("prepTime",myFoodList.get(foodViewHolder.getAdapterPosition()).getPrepTime());
-                intent.putExtra("cookTime",myFoodList.get(foodViewHolder.getAdapterPosition()).getCookingTime());
-                intent.putExtra("totalTime",myFoodList.get(foodViewHolder.getAdapterPosition()).getTotalTime());
-                intent.putExtra("servings",myFoodList.get(foodViewHolder.getAdapterPosition()).getServings());
-
+                setIntentContent(intent,foodViewHolder);
                 mContext.startActivity(intent);
             }
         });
 
 
+    }
+
+
+    private void setIntentContent(Intent intent,FoodViewHolder foodViewHolder){
+        List<String> images = myFoodList.get(foodViewHolder.getAdapterPosition()).getImages();
+
+        intent.putExtra("recipeImage",images.get(images.size() - 1));
+        intent.putExtra("CategoryAndSub",myFoodList.get(foodViewHolder.getAdapterPosition()).getCategory());
+        intent.putExtra("name",myFoodList.get(foodViewHolder.getAdapterPosition()).getTitle());
+        intent.putExtra("copyRights",myFoodList.get(foodViewHolder.getAdapterPosition()).getCopy_rights());
+        intent.putExtra("carbs",is_full(myFoodList.get(foodViewHolder.getAdapterPosition()).getCarbs()));
+        intent.putExtra("protein",is_full(myFoodList.get(foodViewHolder.getAdapterPosition()).getProtein()));
+        intent.putExtra("fats",is_full(myFoodList.get(foodViewHolder.getAdapterPosition()).getFat()));
+        intent.putExtra("calories",is_full(myFoodList.get(foodViewHolder.getAdapterPosition()).getCalories()));
+        intent.putExtra("ingardiants",ingaridiants(myFoodList.get(foodViewHolder.getAdapterPosition()).getIngredients()));
+        intent.putExtra("HowToMake",directions(myFoodList.get(foodViewHolder.getAdapterPosition()).getDirections()));
+
+        int prep = Proper_time_int(myFoodList.get(foodViewHolder.getAdapterPosition()).getPrepTime());
+        if (prep == -1){
+            intent.putExtra("prepTime","---");
+        }
+        else intent.putExtra("prepTime",(prep+" m"));
+
+        int cook = Proper_time_int(myFoodList.get(foodViewHolder.getAdapterPosition()).getCookingTime());
+        if (cook == -1){
+            intent.putExtra("cookTime","---");
+        }
+        else intent.putExtra("cookTime",cook+" m");
+
+        if ( cook == -1 || prep == -1){
+            intent.putExtra("totalTime","---");
+        }
+        else intent.putExtra("totalTime",(cook+prep)+" m");
+
+
+        intent.putExtra("servings",myFoodList.get(foodViewHolder.getAdapterPosition()).getServings());
+    }
+    private String is_full(String x){
+        if (x != null)
+            return x;
+        else
+            return "---";
+    }
+
+
+    private int Proper_time_int(String time) {
+        if (time != null){
+            try{
+                String[] temp= time.split(" ");
+                if (temp.length < 3){
+                    if (temp[1].equals("hrs")){
+                        return ((Integer.parseInt(temp[0]))*60);
+                    }
+                return Integer.parseInt(temp[0]);
+                }
+
+                else{
+                    return ((Integer.parseInt(temp[1])*60) +Integer.parseInt(temp[3]));
+                }
+            }
+            catch (Exception e){
+                System.out.println("error:could not convert- "+time);
+            }
+        }
+        return -1;
+    }
+
+
+    private String ingaridiants(List<String> ingardiants){
+        String ingardiant ="";
+        for (int i = 0; i < ingardiants.size();i++){
+            ingardiant = ingardiant +ingardiants.get(i)+"\n";
+        }
+        return ingardiant;
+    }
+    private String directions(List<String> direcations){
+        String direcation ="";
+        for (int i = 0; i < direcations.size();i++){
+            direcation = direcation +"STEP " +i +": "+ direcations.get(i)+"\n\n";
+        }
+        return direcation;
     }
 
 //    private void setBestImage(FoodViewHolder foodViewHolder, int i) {
