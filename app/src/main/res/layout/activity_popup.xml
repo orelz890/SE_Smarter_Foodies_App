@@ -14,7 +14,7 @@
         android:layout_width="125dp"
         android:layout_height="103dp"
         android:background="@color/Orange"
-        android:src="@mipmap/profile"
+        android:src="@drawable/ic_profilee"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
