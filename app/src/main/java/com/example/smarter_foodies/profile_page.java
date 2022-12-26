@@ -5,6 +5,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -28,6 +29,7 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import com.squareup.picasso.Picasso;
 
 import java.io.IOException;
 import java.security.GeneralSecurityException;
@@ -55,7 +57,7 @@ public class profile_page extends DashboardActivity {
 
     // the rating app
     RatingBar ratingBar;
-    Button save_rate,cancel_rate,submit_rate;
+    Button save_rate, cancel_rate, submit_rate;
     TextInputEditText text_rating;
     private AlertDialog dialog_for_ranking;
     private AlertDialog.Builder dialogbilder_for_ranking;
@@ -104,6 +106,10 @@ public class profile_page extends DashboardActivity {
                     website_p.setText(user.getWebsite());
                     ischaf.setText(user.isChef() + "");
                 }
+                Uri uri = firebaseUser.getPhotoUrl();
+                Picasso.get().load(uri).into(image_profile);
+
+
             }
 
             @Override
@@ -264,8 +270,8 @@ public class profile_page extends DashboardActivity {
                         if (user != null) {
                             Objects.requireNonNull(text_rating).setText(user.getRating());
                             submit_rate.setOnClickListener(view -> {
-                                String sub =String.valueOf(ratingBar.getRating());
-                               text_rating.setText(sub);
+                                String sub = String.valueOf(ratingBar.getRating());
+                                text_rating.setText(sub);
                             });
                             save_rate.setOnClickListener(view -> {
                                 UpdateProfileUserTreee(reference, user);

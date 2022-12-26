@@ -7,14 +7,14 @@
     tools:context=".update_profile_photo">
 
     <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profile_image"
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:id="@+id/profile_image"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
         app:civ_border_color="@color/Blue"
-        app:civ_border_width="2dp"/>
-    <TextView
+        app:civ_border_width="2dp" />
+    <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/change_prpfile_btn"
