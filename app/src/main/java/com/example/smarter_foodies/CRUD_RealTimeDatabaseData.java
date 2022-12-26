@@ -358,9 +358,6 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
     public void updateRecipe(String former_name, recipe newRecipe) {
         if (newRecipe != null) {
-//            updateFilterTree(former_name, r);
-//            updateSearchTree(former_name, recipeList);
-//            updateRecipesTree();
 //            deleteRecipe(former_name);
             loadDishToDatabase(newRecipe);
 

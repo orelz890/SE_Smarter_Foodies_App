@@ -30,7 +30,7 @@
             android:title="@string/profile"/>
 
         <item android:id="@+id/nav_weekly_planing"
-            android:icon="@drawable/ic_food_calendar"
+            android:icon="@drawable/ic_baseline_edit_calendar_24"
             android:title="@string/weeklyPlans"/>
 
         <item android:title="@string/others">

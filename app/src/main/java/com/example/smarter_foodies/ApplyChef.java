@@ -131,7 +131,7 @@ public class ApplyChef extends AppCompatActivity {
             FirebaseDatabase.getInstance().getReference("users").child(firebaseUser.getUid()).setValue(user).addOnCompleteListener(task -> {
                 if(task.isSuccessful()){
                             Toast.makeText(ApplyChef.this, "WELCOME " + name.toUpperCase(), Toast.LENGTH_LONG).show();
-                            startActivity(new Intent(ApplyChef.this, MainActivity.class));
+                            startActivity(new Intent(ApplyChef.this, SearchRecipe.class));
                         }
                 else{
                     Toast.makeText(ApplyChef.this, "Error adding the user data", Toast.LENGTH_LONG).show();

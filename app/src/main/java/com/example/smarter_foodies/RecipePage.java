@@ -86,7 +86,7 @@ public class RecipePage extends AppCompatActivity {
     private void setBundleContent(Bundle mBundle){
         if(mBundle != null){
             String ImageUrl = mBundle.getString("recipeImage");
-            if (ImageUrl != null && ImageUrl.equals("") && ImageUrl.equals("null") ){
+            if (ImageUrl != null || ImageUrl.equals("") || ImageUrl.equals("null") ){
                 Picasso.get().load(ImageUrl).into(recipeImage);
             }
             else{

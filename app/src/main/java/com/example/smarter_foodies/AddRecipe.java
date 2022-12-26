@@ -10,6 +10,8 @@ import static java.util.Map.entry;
 import android.content.Intent;
 import android.content.res.AssetFileDescriptor;
 import android.content.res.AssetManager;
+import android.graphics.drawable.Drawable;
+import android.net.Uri;
 import android.nfc.Tag;
 import android.os.Build;
 import android.os.Bundle;
@@ -21,14 +23,18 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
+import android.widget.ImageButton;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.NumberPicker;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.smarter_foodies.databinding.ActivityDashboardBinding;
+import com.github.dhaval2404.imagepicker.ImagePicker;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -100,6 +106,10 @@ public class AddRecipe extends DashboardActivity {
     // Submit recipe button
     Button btnSubmit;
 
+    ImageView recipeImage;
+    FloatingActionButton fab;
+    Uri uri;
+
     CRUD_RealTimeDatabaseData CRUD;
 
     @Override
@@ -119,6 +129,7 @@ public class AddRecipe extends DashboardActivity {
         flag = false;
         // Fill the categories list which the user can chose from
         this.fillCategoriesList();
+//        this.setImageButtons();
 
         //    ========================= Get data from user =============================================
         this.createAllNumberPickers();
@@ -135,6 +146,28 @@ public class AddRecipe extends DashboardActivity {
                 categoriesList[i++] = s;
             }
         }
+    }
+
+//    private void setImageButtons(){
+//        recipeImage = findViewById(R.id.ib_upload_recipe_image);
+//        fab = findViewById(R.id.floatingActionButtonAddRecipe);
+//        fab.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                ImagePicker.with(AddRecipe.this)
+////                        .crop()	    			//Crop image(Optional), Check Customization for more option
+////                        .compress(1024)			//Final image size will be less than 1 MB(Optional)
+////                        .maxResultSize(1080, 1080)	//Final image resolution will be less than 1080 x 1080(Optional)
+//                        .start();
+//            }
+//        });
+//    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        uri = data.getData();
+        recipeImage.setImageURI(uri);
     }
 
     private void change_adapter() {
@@ -173,7 +206,7 @@ public class AddRecipe extends DashboardActivity {
             System.out.println("=============================");
             submitRecipe();
             if (!flag) {
-                startActivity(new Intent(AddRecipe.this, MainActivity.class));
+                startActivity(new Intent(AddRecipe.this, SearchRecipe.class));
             }
             System.out.println("============================");
         });
@@ -303,6 +336,21 @@ public class AddRecipe extends DashboardActivity {
             if (currentUser != null) {
                 r.setCopy_rights(currentUser.getUid());
             }
+//            List<String> images = new ArrayList<>();
+//            if (recipeImage != null) {
+//                Object tag = recipeImage.getTag();
+//                if (tag != null && tag instanceof String) {
+//                    String srcUriString = (String) tag;
+//                    Uri srcUri = Uri.parse(srcUriString);
+//                    images.add(srcUri.toString());
+//                    r.setImages(images);
+//                }
+//            }
+//            if (uri != null){
+//                images.add(uri.toString());
+//                r.setImages(images);
+//            }
+
             // Load recipe to database
             CRUD.loadDishToDatabase(r);
             List<String> singleValueList = CRUD.getSingleValueList(r.getTitle());
@@ -310,7 +358,6 @@ public class AddRecipe extends DashboardActivity {
             CRUD.addToUserLists(singleValueList, "recipes");
             flag = false;
             Toast.makeText(getApplicationContext(), r.toString(), Toast.LENGTH_SHORT).show();
-
         }
     }
 

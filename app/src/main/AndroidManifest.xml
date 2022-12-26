@@ -58,7 +58,9 @@
             android:theme="@style/Theme.Smarter_Foodies.BackgroundUpdateImageStyle" />
         <activity
             android:name=".AddRecipe"
-            android:theme="@style/Theme.Smarter_Foodies.BackgroundImageStyle" />
+            android:theme="@style/Theme.Smarter_Foodies.BackgroundUpdateImageStyle"
+            />
+
         <activity android:name=".RecipeImageActivity" />
         <activity
             android:name=".LoginGoogle"

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     >
 
     <group android:checkableBehavior="single">
@@ -10,7 +11,7 @@
             android:title="@string/home"/>
 
         <item android:id="@+id/nav_favorites"
-            android:icon="@drawable/ic_favorites"
+            android:icon="@drawable/red_heart_filled"
             android:title="@string/liked"/>
 
         <item android:id="@+id/nav_cart"
@@ -18,11 +19,11 @@
             android:title="@string/cart"/>
 
         <item android:id="@+id/nav_add_recipe"
-            android:icon="@drawable/ic_recipe_details"
+            android:icon="@drawable/ic_baseline_note_add_24"
             android:title="@string/add_recipe"/>
 
         <item android:id="@+id/nav_update_recipe"
-            android:icon="@drawable/ic_rewrite"
+            android:icon="@drawable/baseline_edit_document_black_36"
             android:title="@string/update_recipe"/>
 
         <item android:id="@+id/nav_person_search"
@@ -34,10 +35,12 @@
             android:title="@string/profile"/>
 
         <item android:id="@+id/nav_weekly_planing"
-            android:icon="@drawable/ic_food_calendar"
+            android:icon="@drawable/ic_baseline_edit_calendar_24"
             android:title="@string/weeklyPlans"/>
 
-        <item android:title="@string/others">
+        <item
+            android:title="@string/others"
+            android:id="@+id/title_">
             <menu>
                 <item
                     android:id="@+id/nav_logOut"

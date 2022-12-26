@@ -31,7 +31,6 @@
             app:counterMaxLength="40"
             android:textColorHint="@color/white"
             app:hintTextColor="@color/white"
-
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -43,7 +42,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="62dp"
                 android:background="@color/darkGray"
-                android:drawableRight="@drawable/ic_search"
+                android:drawableRight="@drawable/ic_baseline_search_24_white"
+                android:textColor="@color/teal_700"
                 android:hint="Type here to search"
                 android:textStyle="bold" />
                 <LinearLayout
