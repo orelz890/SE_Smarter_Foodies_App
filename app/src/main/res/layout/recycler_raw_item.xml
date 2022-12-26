@@ -10,11 +10,11 @@
     <androidx.cardview.widget.CardView
         android:id="@+id/myCardView"
         android:layout_width="match_parent"
-        android:layout_height="330dp"
+        android:layout_height="310dp"
         app:cardElevation="3dp"
         android:layout_margin="4dp"
         app:cardUseCompatPadding="true"
-        app:cardBackgroundColor="@color/darkGray"
+        app:cardBackgroundColor="@color/black"
         >
 
         <LinearLayout
@@ -51,18 +51,28 @@
                     android:orientation="horizontal">
 
                     <ImageButton
+                        android:id="@+id/ib_add_to_cart_"
+                        android:layout_width="wrap_content"
+                        android:layout_marginRight="15dp"
+                        android:layout_height="44dp"
+                        android:background="@null"
+                        android:src="@drawable/ic_baseline_add_shopping_cart_24_not_added" />
+
+                    <ImageButton
                         android:id="@+id/ib_search_like_recycler"
                         android:layout_width="wrap_content"
                         android:layout_height="44dp"
                         android:background="@null"
                         android:src="@drawable/red_heart_not_filled" />
+
                 </LinearLayout>
             </RelativeLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="85dp"
+                android:layout_height="55dp"
                 android:layout_weight="1.5"
+                android:background="@color/darkGray"
                 android:weightSum="2">
 
                 <LinearLayout
@@ -70,24 +80,15 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1.3"
                     android:orientation="vertical"
-                    android:padding="10dp">
-
-                    <TextView
-                        android:id="@+id/tv_title"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:maxLines="1"
-                        android:text="Title"
-                        android:textColor="@color/teal_700"
-                        android:textSize="18sp"
-                        android:textStyle="bold" />
+                    android:padding="5dp"
+                    >
 
                     <TextView
                         android:id="@+id/tv_recipe_title"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:textColor="@color/white"
                         android:text="title"
+                        android:textColor="@color/white"
                         android:textSize="18sp" />
 
                 </LinearLayout>

@@ -113,6 +113,11 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
                 overridePendingTransition(0,0);
                 break;
 
+            case R.id.nav_cart:
+                startActivity(new Intent(this, Cart.class));
+                overridePendingTransition(0,0);
+                break;
+
             case R.id.nav_profile:
                 startActivity(new Intent(this, profile_page.class));
                 // For smooth transition
@@ -151,6 +156,11 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
             case R.id.nav_favorites:             // need to build favorites page first
                 startActivity(new Intent(this, likedRecipes.class));
                 // For smooth transition
+                overridePendingTransition(0,0);
+                break;
+
+            case R.id.nav_cart:
+                startActivity(new Intent(this, Cart.class));
                 overridePendingTransition(0,0);
                 break;
 

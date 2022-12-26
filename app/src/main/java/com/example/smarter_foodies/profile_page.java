@@ -77,7 +77,7 @@ public class profile_page extends DashboardActivity {
         email_p = findViewById(R.id.email_pp);
         fevorit_recpie_p = findViewById(R.id.favorit_recipe_pp);
 
-        // init the buttens
+        // init the buttons
         uploads_pages = findViewById(R.id.imageViewuploeds);
         ranking_btn = findViewById(R.id.Ranking_pp);
         likes_pages = findViewById(R.id.imageViewLikes);
@@ -148,12 +148,11 @@ public class profile_page extends DashboardActivity {
 
 
     private void moveto_favorit_dishs() throws MessagingException, IOException, GeneralSecurityException {
-        startActivity(new Intent(profile_page.this, favorit_dishs.class));
+        startActivity(new Intent(profile_page.this, likedRecipes.class));
     }
 
-
     private void moveto_my_upload_dishs() throws MessagingException, IOException, GeneralSecurityException {
-        startActivity(new Intent(profile_page.this, my_uploads.class));
+        startActivity(new Intent(profile_page.this, AddRecipe.class));
     }
 
     private void moveto_my_update_photo() throws MessagingException, IOException, GeneralSecurityException {

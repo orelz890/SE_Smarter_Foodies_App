@@ -88,6 +88,15 @@
                             android:orientation="horizontal">
 
                             <ImageButton
+                                android:id="@+id/ib_add_to_cart"
+                                android:layout_width="wrap_content"
+                                android:layout_marginRight="15dp"
+                                android:layout_height="44dp"
+                                android:background="@null"
+                                android:src="@drawable/ic_baseline_add_shopping_cart_24_not_added" />
+
+
+                            <ImageButton
                                 android:id="@+id/ib_like_recycler"
                                 android:layout_width="wrap_content"
                                 android:layout_height="44dp"

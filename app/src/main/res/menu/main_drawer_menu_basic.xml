@@ -13,6 +13,10 @@
             android:icon="@drawable/ic_favorites"
             android:title="@string/liked"/>
 
+        <item android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_baseline_shopping_cart_24"
+            android:title="@string/cart"/>
+
         <item android:id="@+id/nav_apply_as_chef"
             android:icon="@drawable/ic_chef"
             android:title="@string/apply_as_chef"/>

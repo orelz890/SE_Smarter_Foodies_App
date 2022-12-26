@@ -32,6 +32,8 @@ import com.google.firebase.database.ValueEventListener;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Map;
+import java.util.Objects;
 import java.util.Set;
 
 public class SearchRecipe extends DashboardActivity {
@@ -50,8 +52,8 @@ public class SearchRecipe extends DashboardActivity {
     AutoCompleteTextView autoCompleteSubCategory;
     ArrayAdapter<String> adapterSubCategories;
     SwipeRefreshLayout swipeRefreshLayout;
-    String category = "";
-    String subCategory = "";
+    String category;
+    String subCategory;
     String[] categoriesList;
 
 
@@ -68,6 +70,8 @@ public class SearchRecipe extends DashboardActivity {
         CRUD = new CRUD_RealTimeDatabaseData();
         recipesNamesList = new ArrayList<>();
         myFoodList = new ArrayList<>();
+        category = "";
+        subCategory = "";
 
         defineRecycleView();
         setMainRecyclerAdapter();
@@ -76,15 +80,12 @@ public class SearchRecipe extends DashboardActivity {
         InitManageSearchImageButton();
     }
 
-    private void setSwipeRefresh(){
+    private void setSwipeRefresh() {
         swipeRefreshLayout = findViewById(R.id.search_layout);
         swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
                 if (myAdapter != null) {
-//                    if (autoCompleteSearchView != null){
-//                        autoCompleteSearchView.setText("");
-//                    }
                     Collections.shuffle(myFoodList);
                     myAdapter.notifyDataSetChanged();
                     swipeRefreshLayout.setRefreshing(false);
@@ -108,7 +109,7 @@ public class SearchRecipe extends DashboardActivity {
             @Override
             public void onClick(View v) {
                 // Handle button click event here
-                if (autoCompleteSearchView != null ) {
+                if (autoCompleteSearchView != null) {
                     autoCompleteSearchView.setText("");
                 }
                 setMainRecyclerAdapter();
@@ -166,11 +167,10 @@ public class SearchRecipe extends DashboardActivity {
         autoCompleteCategory = customLayout.findViewById(R.id.auto_complete_category);
         autoCompleteSubCategory = customLayout.findViewById(R.id.auto_complete_sub_category);
         createAllAutoCompleteTextViews();
-//            startActivity(new Intent(MainActivity.this, UpdateRecipe.class));
         builder.setPositiveButton("continue", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialogInterface, int which) {
-                System.out.println("category- " + category + "\tsubCategory- " + subCategory);
+//                System.out.println("category- " + category + "\tsubCategory- " + subCategory);
                 if (!category.isEmpty()) {
                     adjustAutoCompleteFilterView();
                 }
@@ -178,7 +178,6 @@ public class SearchRecipe extends DashboardActivity {
         });
 
         builder.setNegativeButton("cancel", (dialogInterface, which) -> {
-//            startActivity(new Intent(SearchRecipe.this, MainActivity.class));
             InitAutoCompleteSearchView();
         });
         AlertDialog dialog = builder.create();
@@ -202,7 +201,6 @@ public class SearchRecipe extends DashboardActivity {
                             for (DataSnapshot recipeNameSnap : recipeNamesSnapshot) {
                                 String name = recipeNameSnap.getValue(String.class);
                                 recipesNamesList.add(name);
-//                                System.out.println(name);
                             }
                         }
                     }
@@ -213,11 +211,7 @@ public class SearchRecipe extends DashboardActivity {
                         public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
                             String recipeName = parent.getItemAtPosition(pos).toString();
                             setByNameRecyclerAdapter(recipeName);
-//                            System.out.println(recipeName);
-                            // >>>>>>>>>>>>>>>>>>>> Here we refer the user to the recipe page.. <<<<<<<<<<<<<<<<<<<<<<<<
-//                            Toast.makeText(getApplicationContext(), "Item: " + category, Toast.LENGTH_SHORT).show();
                         }
-
                     });
                     autoCompleteSearchView.setOnDismissListener(new AutoCompleteTextView.OnDismissListener() {
                         @Override
@@ -287,13 +281,11 @@ public class SearchRecipe extends DashboardActivity {
 
     public void defineRecycleView() {
         mRecyclerView = (RecyclerView) findViewById(R.id.recyclerSearchView);
-
         GridLayoutManager gridLayoutManager = new GridLayoutManager(SearchRecipe.this, 1);
         mRecyclerView.setLayoutManager(gridLayoutManager);
     }
 
     private void setByNameRecyclerAdapter(String recipeName) {
-
         // how to get data from the database- search
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
         mDatabaseSearchGet = CRUD.getToRecipeDepth(mDatabaseSearchGet, recipeName);
@@ -387,5 +379,5 @@ public class SearchRecipe extends DashboardActivity {
                 }
             }
         });
-        }
+    }
 }

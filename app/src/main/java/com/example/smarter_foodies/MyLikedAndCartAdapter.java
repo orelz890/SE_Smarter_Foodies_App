@@ -25,73 +25,72 @@ import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
-public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
+public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFoodViewHolder> {
 
     private Context mContext;
     private List<recipe> myFoodList;
+    private Activity activity;
+    private String userListName;
 
-
-    public MyAdapter(Context mContext, List<recipe> myFoodList) {
+    public MyLikedAndCartAdapter(Context mContext, List<recipe> myFoodList, String userListName) {
         this.mContext = mContext;
         this.myFoodList = myFoodList;
+        this.userListName = userListName;
+        this.activity = (Activity) mContext;
     }
 
     @Override
-    public FoodViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
+    public LikedAndCartFoodViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
 
-        View mView = LayoutInflater.from(parent.getContext()).inflate(R.layout.recycler_raw_item, parent, false);
-        return new FoodViewHolder(mView);
+        View mView = LayoutInflater.from(parent.getContext()).inflate(R.layout.recycler_raw_liked_item, parent, false);
+        return new LikedAndCartFoodViewHolder(mView);
     }
 
+
     @Override
-    public void onBindViewHolder(@NonNull FoodViewHolder foodViewHolder, int i) {
+    public void onBindViewHolder(@NonNull LikedAndCartFoodViewHolder foodViewHolder, int i) {
         recipe recipe = myFoodList.get(i);
         if (!myFoodList.get(i).getImages().isEmpty()) {
             List<String> images = recipe.getImages();
 //            setBestImage(foodViewHolder, i);
-            Picasso.get().load(images.get(images.size() - 1)).into(foodViewHolder.imageView);
-
-        }else{
+            Picasso.get().load(images.get(images.size() - 1)).resize(220, 220).into(foodViewHolder.imageView);
+        }
+        else{
             foodViewHolder.imageView.setImageResource(R.drawable.iv_no_images_available);
         }
         foodViewHolder.mTitle.setText(recipe.getTitle());
-        foodViewHolder.mCalories.setText(recipe.getCalories());
+        foodViewHolder.mAdditional.setText(recipe.getMain_category() + "- " + recipe.getCategory());
 
         String uid = FirebaseAuth.getInstance().getUid();
         setImageButtons(foodViewHolder, uid, recipe);
 
-
-
         foodViewHolder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(mContext,RecipePage.class);
+                Intent intent = new Intent(mContext, RecipePage.class);
                 List<String> images = myFoodList.get(foodViewHolder.getAdapterPosition()).getImages();
-                intent.putExtra("recipeImage",images.get(images.size() - 1));
-                intent.putExtra("CategoryAndSub",myFoodList.get(foodViewHolder.getAdapterPosition()).getCategory());
-                intent.putExtra("name",myFoodList.get(foodViewHolder.getAdapterPosition()).getTitle());
-                intent.putExtra("copyRights",myFoodList.get(foodViewHolder.getAdapterPosition()).getCopy_rights());
-                intent.putExtra("carbs",myFoodList.get(foodViewHolder.getAdapterPosition()).getCarbs());
-                intent.putExtra("protein",myFoodList.get(foodViewHolder.getAdapterPosition()).getProtein());
-                intent.putExtra("fats",myFoodList.get(foodViewHolder.getAdapterPosition()).getFat());
-                intent.putExtra("calories",myFoodList.get(foodViewHolder.getAdapterPosition()).getCalories());
-                intent.putExtra("ingardiants",myFoodList.get(foodViewHolder.getAdapterPosition()).getIngredients().toString());
-                intent.putExtra("HowToMake",myFoodList.get(foodViewHolder.getAdapterPosition()).getDirections().toString());
-                intent.putExtra("prepTime",myFoodList.get(foodViewHolder.getAdapterPosition()).getPrepTime());
-                intent.putExtra("cookTime",myFoodList.get(foodViewHolder.getAdapterPosition()).getCookingTime());
-                intent.putExtra("totalTime",myFoodList.get(foodViewHolder.getAdapterPosition()).getTotalTime());
-                intent.putExtra("servings",myFoodList.get(foodViewHolder.getAdapterPosition()).getServings());
+                intent.putExtra("recipeImage", images.get(images.size() - 1));
+                intent.putExtra("CategoryAndSub", myFoodList.get(foodViewHolder.getAdapterPosition()).getCategory());
+                intent.putExtra("name", myFoodList.get(foodViewHolder.getAdapterPosition()).getTitle());
+                intent.putExtra("copyRights", myFoodList.get(foodViewHolder.getAdapterPosition()).getCopy_rights());
+                intent.putExtra("carbs", myFoodList.get(foodViewHolder.getAdapterPosition()).getCarbs());
+                intent.putExtra("protein", myFoodList.get(foodViewHolder.getAdapterPosition()).getProtein());
+                intent.putExtra("fats", myFoodList.get(foodViewHolder.getAdapterPosition()).getFat());
+                intent.putExtra("calories", myFoodList.get(foodViewHolder.getAdapterPosition()).getCalories());
+                intent.putExtra("ingardiants", myFoodList.get(foodViewHolder.getAdapterPosition()).getIngredients().toString());
+                intent.putExtra("HowToMake", myFoodList.get(foodViewHolder.getAdapterPosition()).getDirections().toString());
+                intent.putExtra("prepTime", myFoodList.get(foodViewHolder.getAdapterPosition()).getPrepTime());
+                intent.putExtra("cookTime", myFoodList.get(foodViewHolder.getAdapterPosition()).getCookingTime());
+                intent.putExtra("totalTime", myFoodList.get(foodViewHolder.getAdapterPosition()).getTotalTime());
+                intent.putExtra("servings", myFoodList.get(foodViewHolder.getAdapterPosition()).getServings());
 
                 mContext.startActivity(intent);
             }
         });
-
-
     }
 
-    private void setDialogApproval(FoodViewHolder foodViewHolder, recipe r, String listName) {
+    private void setDialogApproval(LikedAndCartFoodViewHolder foodViewHolder, recipe r, String listName) {
         AlertDialog.Builder builder = new AlertDialog.Builder(mContext, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
-        Activity activity = (Activity) mContext;
         final View customLayout = activity.getLayoutInflater().inflate(R.layout.yes_no_dialog_layout, null);
         builder.setView(customLayout);
         builder.setCancelable(false);
@@ -103,10 +102,28 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
                 if (listName.equals("liked")) {
                     foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_not_filled);
                     foodViewHolder.CRUD.removeFromUserLists(singleValueList, "liked");
+                    if (userListName.equals("liked")){
+                        myFoodList.remove(r);
+                        MyLikedAndCartAdapter.super.notifyDataSetChanged();
+                        likedRecipes likedActivity = (likedRecipes) activity;
+                        likedActivity.setRecipeCountViews(myFoodList.size());
+                    }
+                    else{
+                        foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_not_filled);
+                    }
                 }
                 else if (listName.equals("cart")){
                     foodViewHolder.mCart.setImageResource(R.drawable.ic_baseline_add_shopping_cart_24_not_added);
                     foodViewHolder.CRUD.removeFromUserLists(singleValueList, "cart");
+                    if (userListName.equals("cart")){
+                        myFoodList.remove(r);
+                        MyLikedAndCartAdapter.super.notifyDataSetChanged();
+                        Cart cartActivity = (Cart) activity;
+                        cartActivity.setRecipeCountViews(myFoodList.size());
+                    }
+                    else{
+                        foodViewHolder.mCart.setImageResource(R.drawable.ic_baseline_add_shopping_cart_24_not_added);
+                    }
                 }
             }
         });
@@ -119,7 +136,7 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
     }
 
 
-    public void setImageButtons(FoodViewHolder foodViewHolder, String uid, recipe recipe){
+    public void setImageButtons(LikedAndCartFoodViewHolder foodViewHolder, String uid, recipe recipe){
         if (uid != null) {
             DatabaseReference usersRef = FirebaseDatabase.getInstance()
                     .getReference().child("users").child(uid);
@@ -211,25 +228,23 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
 }
 
 
-
-class FoodViewHolder extends RecyclerView.ViewHolder{
+class LikedAndCartFoodViewHolder extends RecyclerView.ViewHolder {
 
     ImageView imageView;
-    TextView mTitle, mCalories;
+    TextView mTitle, mAdditional;
     CardView mCardView;
     ImageButton mHeart;
     ImageButton mCart;
-
     CRUD_RealTimeDatabaseData CRUD;
 
-    public FoodViewHolder(View itemView) {
+    public LikedAndCartFoodViewHolder(View itemView) {
         super(itemView);
         CRUD = new CRUD_RealTimeDatabaseData();
-        imageView = itemView.findViewById(R.id.iv_image);
-        mTitle = itemView.findViewById(R.id.tv_recipe_title);
-        mCalories = itemView.findViewById(R.id.tv_calories);
-        mCardView = itemView.findViewById(R.id.myCardView);
-        mHeart = itemView.findViewById(R.id.ib_search_like_recycler);
-        mCart = itemView.findViewById(R.id.ib_add_to_cart_);
+        imageView = itemView.findViewById(R.id.iv_liked_image);
+        mTitle = itemView.findViewById(R.id.tv_liked_title);
+        mAdditional = itemView.findViewById(R.id.tv_liked_addition_data);
+        mCardView = itemView.findViewById(R.id.myCardLikedView);
+        mHeart = itemView.findViewById(R.id.ib_like_recycler);
+        mCart = itemView.findViewById(R.id.ib_add_to_cart);
     }
 }

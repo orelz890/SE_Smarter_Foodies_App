@@ -3,11 +3,9 @@ package com.example.smarter_foodies;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
-
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
-import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -22,7 +20,7 @@ import java.util.Collections;
 import java.util.List;
 
 
-public class likedRecipes extends DashboardActivity {
+public class Cart extends DashboardActivity {
 
     FirebaseAuth mAuth;
     CRUD_RealTimeDatabaseData CRUD;
@@ -30,7 +28,6 @@ public class likedRecipes extends DashboardActivity {
     List<recipe> myFoodList;
     SwipeRefreshLayout swipeRefreshLayout;
     MyLikedAndCartAdapter myAdapter;
-    ImageButton imageButton;
     TextView tvRecipeCount;
 
 
@@ -42,10 +39,10 @@ public class likedRecipes extends DashboardActivity {
         LinearLayout rootLayout = new LinearLayout(this);
         rootLayout.setOrientation(LinearLayout.VERTICAL);
         View activityMainView = LayoutInflater.from(this)
-                .inflate(R.layout.activity_liked_recipes, rootLayout, false);
+                .inflate(R.layout.activity_cart, rootLayout, false);
         rootLayout.addView(activityMainView);
         setContentView(rootLayout);
-        allocateActivityTitle("Likes");
+        allocateActivityTitle("My Cart");
 
         myFoodList = new ArrayList<>();
 
@@ -57,46 +54,21 @@ public class likedRecipes extends DashboardActivity {
     }
 
     private void setTextViews() {
-        tvRecipeCount = findViewById(R.id.tv_recipe_count);
+        tvRecipeCount = findViewById(R.id.tv_cart_recipe_count);
         if (myFoodList != null) {
             tvRecipeCount.setText(myFoodList.size() + " recipes");
         }
     }
 
     private void setImageButtons() {
-        imageButton = findViewById(R.id.ib_mystery_box);
-        //                    Random random = new Random();
-//                    // Generate a random index
-//                    int index = random.nextInt(myFoodList.size());
-//                    // Get the element at the random index
-//                    recipe randomRecipe = myFoodList.get(index);
-//                    setRecipeDialog(randomRecipe);
-
-//        for (int i = 0; i < myFoodList.size(); i++) {
-//
-//            LikedFoodViewHolder viewHolder = (LikedFoodViewHolder) mRecyclerView
-//                    .findViewHolderForAdapterPosition(i);
-//            if (viewHolder != null) {
-//                viewHolder.imageView.setOnClickListener(new View.OnClickListener() {
-//                    @Override
-//                    public void onClick(View view) {
-//                        if (!myFoodList.isEmpty()) {
-//
-//                            viewHolder.imageView.setImageResource(R.drawable.red_heart_not_filled);
-//                            String recipeName = viewHolder.mTitle.getText().toString();
-//                            CRUD.removeFromUserLists(CRUD.getSingleValueList(recipeName), "liked");
-//                            setRecycleView();
-//                        }
-//                    }
-//                });
-//            }
-//        }
+//        imageButton = findViewById(R.id.ib_mystery_box);
 
     }
 
 
-    private void setSwipeRefresh() {
-        swipeRefreshLayout = findViewById(R.id.liked_recycler_layout);
+
+    private void setSwipeRefresh () {
+        swipeRefreshLayout = findViewById(R.id.cart_recycler_layout);
         swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
@@ -110,17 +82,17 @@ public class likedRecipes extends DashboardActivity {
         });
     }
 
-    private void setRecycleView() {
-        mRecyclerView = (RecyclerView) findViewById(R.id.recyclerLikedView);
+    private void setRecycleView () {
+        mRecyclerView = (RecyclerView) findViewById(R.id.recyclerCartView);
 
-        GridLayoutManager gridLayoutManager = new GridLayoutManager(likedRecipes.this, 1);
+        GridLayoutManager gridLayoutManager = new GridLayoutManager(Cart.this, 1);
         mRecyclerView.setLayoutManager(gridLayoutManager);
 
         setRecycler();
     }
 
 
-    private void setRecycler() {
+    private void setRecycler () {
         myFoodList = new ArrayList<>();
         String uid = FirebaseAuth.getInstance().getUid();
         if (uid != null) {
@@ -132,7 +104,7 @@ public class likedRecipes extends DashboardActivity {
                     if (dataSnapshot.exists()) {
                         User user = dataSnapshot.getValue(User.class);
                         if (user != null) {
-                            setRecyclerAdapter(user.getLiked());
+                            setRecyclerAdapter(user.getCart());
                         }
                     }
                 }
@@ -141,8 +113,7 @@ public class likedRecipes extends DashboardActivity {
     }
 
 
-    private void setRecyclerAdapter(List<String> liked) {
-
+    private void setRecyclerAdapter (List < String > cart) {
         DatabaseReference databaseReference = FirebaseDatabase.getInstance()
                 .getReference().child("recipes");
         databaseReference.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
@@ -157,7 +128,7 @@ public class likedRecipes extends DashboardActivity {
                                     = subCategorySnapshot.getChildren();
                             for (DataSnapshot recipeNameSnap : recipeNamesSnapshot) {
                                 recipe r = recipeNameSnap.getValue(recipe.class);
-                                if (r != null && liked.contains(r.getTitle()) && !myFoodList.contains(r)) {
+                                if (r != null && cart.contains(r.getTitle()) && !myFoodList.contains(r)) {
                                     myFoodList.add(r);
                                 }
                             }
@@ -167,7 +138,7 @@ public class likedRecipes extends DashboardActivity {
                         tvRecipeCount.setText(myFoodList.size() + " recipes");
                     }
                     Collections.shuffle(myFoodList);
-                    myAdapter = new MyLikedAndCartAdapter(likedRecipes.this, myFoodList, "liked");
+                    myAdapter = new MyLikedAndCartAdapter(Cart.this, myFoodList, "cart");
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }
@@ -179,6 +150,4 @@ public class likedRecipes extends DashboardActivity {
             tvRecipeCount.setText(num + " recipes");
         }
     }
-
-
 }
