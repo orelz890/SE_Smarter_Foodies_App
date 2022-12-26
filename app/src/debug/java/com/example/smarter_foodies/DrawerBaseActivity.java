@@ -99,6 +99,10 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
     private void handleChefMenu(MenuItem item){
         switch (item.getItemId()){
             case R.id.nav_weekly_planing:
+                startActivity(new Intent(this, WeeklyPlan.class));
+                // For smooth transition
+                overridePendingTransition(0,0);
+                break;
 
             case R.id.nav_home:
                 startActivity(new Intent(this, SearchRecipe.class));
@@ -146,7 +150,10 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
     private void handleBasicMenu(MenuItem item){
         switch (item.getItemId()){
             case R.id.nav_weekly_planing:
-
+                startActivity(new Intent(this, WeeklyPlan.class));
+                // For smooth transition
+                overridePendingTransition(0,0);
+                break;
             case R.id.nav_home:
                 startActivity(new Intent(this, SearchRecipe.class));
                 // For smooth transition

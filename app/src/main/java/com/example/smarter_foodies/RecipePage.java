@@ -1,10 +1,12 @@
 package com.example.smarter_foodies;
 
+import androidx.annotation.DrawableRes;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.util.EventLogTags;
 import android.view.View;
@@ -84,11 +86,14 @@ public class RecipePage extends AppCompatActivity {
     private void setBundleContent(Bundle mBundle){
         if(mBundle != null){
             String ImageUrl = mBundle.getString("recipeImage");
-            if (ImageUrl != null && ImageUrl != ""){
-                Picasso.get().load(ImageUrl).into(recipeImage);}
+            if (ImageUrl != null && ImageUrl.equals("") && ImageUrl.equals("null") ){
+                Picasso.get().load(ImageUrl).into(recipeImage);
+            }
+            else{
+                recipeImage.setImageResource(R.drawable.iv_no_images_available);
+            }
 
-
-        catagoryAndSub.setText(mBundle.getString("CategoryAndSub"));
+            catagoryAndSub.setText(mBundle.getString("CategoryAndSub"));
             recipeName.setText(mBundle.getString("name"));
             copyRights.setText(mBundle.getString("copyRights"));
             carbs.setText(mBundle.getString("carbs"));
