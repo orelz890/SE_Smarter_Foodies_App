@@ -106,6 +106,7 @@ public class profile_page extends DashboardActivity {
                     website_p.setText(user.getWebsite());
                     ischaf.setText(user.isChef() + "");
                 }
+                // set the image profile
                 Uri uri = firebaseUser.getPhotoUrl();
                 Picasso.get().load(uri).into(image_profile);
 
@@ -165,9 +166,6 @@ public class profile_page extends DashboardActivity {
         startActivity(new Intent(profile_page.this, update_profile_photo.class));
     }
 
-    private void moveto_my_ranking() throws MessagingException, IOException, GeneralSecurityException {
-        startActivity(new Intent(profile_page.this, update_profile_photo.class));
-    }
 
     public void createNewContactDialog() {
 

@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/top_background"
     tools:context=".update_profile_photo">
 
     <de.hdodenhof.circleimageview.CircleImageView
@@ -14,16 +15,17 @@
         android:layout_marginTop="20dp"
         app:civ_border_color="@color/Blue"
         app:civ_border_width="2dp" />
+
     <Button
+        android:id="@+id/change_prpfile_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/change_prpfile_btn"
         android:layout_below="@id/profile_image"
-        android:text="Change profile photo"
         android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="Change profile photo"
         android:textSize="16sp"
-        android:textStyle="bold"
-        android:layout_marginTop="5dp"/>
+        android:textStyle="bold" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -55,8 +57,6 @@
             android:text="Save"
             android:textStyle="bold" />
     </LinearLayout>
-
-
 
 
 </RelativeLayout>
