@@ -108,8 +108,8 @@
 
     <Button
         android:id="@+id/Cancel_ranking_up"
-        android:layout_width="120dp"
-        android:layout_height="33dp"
+        android:layout_width="131dp"
+        android:layout_height="52dp"
         android:layout_marginEnd="28dp"
         android:background="@drawable/background_btn"
         android:text="Cancel changing"
@@ -120,14 +120,14 @@
 
     <Button
         android:id="@+id/save_ranking_up"
-        android:layout_width="156dp"
-        android:layout_height="42dp"
-        android:layout_marginStart="16dp"
+        android:layout_width="134dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="36dp"
         android:background="@drawable/background_btn"
         android:text="save ranking"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout"
-        app:layout_constraintVertical_bias="0.231" />
+        app:layout_constraintVertical_bias="0.218" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
