@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#1DC6B7"
+    android:background="#F8EECF"
     tools:context=".RecipePage">
     <!--        android:background="@drawable/top_background"-->
 

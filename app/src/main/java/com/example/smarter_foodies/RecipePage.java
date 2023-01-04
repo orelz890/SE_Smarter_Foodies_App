@@ -16,9 +16,9 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.squareup.picasso.Picasso;
-
 import java.io.IOException;
 import java.security.GeneralSecurityException;
+import java.util.List;
 
 import javax.mail.MessagingException;
 
@@ -37,8 +37,6 @@ public class RecipePage extends AppCompatActivity {
     TextView catagoryAndSub;
     TextView copyRights;
 
-    //Button like;
-    //Button addToCart;
     Button listExtract;
 
     ImageView recipeImage;
@@ -79,15 +77,14 @@ public class RecipePage extends AppCompatActivity {
         totalTime = (TextView)findViewById(R.id.recipeTotalTime);
         servings = (TextView)findViewById(R.id.recipeServings);
 
-        //like = (Button)findViewById(R.id.recipeLikeButton) ;
-        //addToCart = (Button)findViewById(R.id.recipeAddToCart) ;
+
         listExtract = (Button)findViewById(R.id.recipeListButton) ;
     }
     private void setBundleContent(Bundle mBundle){
         if(mBundle != null){
-            String ImageUrl = mBundle.getString("recipeImage");
-            if (ImageUrl != null || ImageUrl.equals("") || ImageUrl.equals("null") ){
-                Picasso.get().load(ImageUrl).into(recipeImage);
+            String[] ImageUrl = mBundle.getStringArray("recipeImage");
+            if (ImageUrl != null && ImageUrl.length!=0 ){
+                Picasso.get().load(ImageUrl[ImageUrl.length-1]).into(recipeImage);
             }
             else{
                 recipeImage.setImageResource(R.drawable.iv_no_images_available);
@@ -96,18 +93,36 @@ public class RecipePage extends AppCompatActivity {
             catagoryAndSub.setText(mBundle.getString("CategoryAndSub"));
             recipeName.setText(mBundle.getString("name"));
             copyRights.setText(mBundle.getString("copyRights"));
-            carbs.setText(mBundle.getString("carbs"));
-            protein.setText(mBundle.getString("protein"));
-            fats.setText(mBundle.getString("fats"));
-            caloreis.setText(mBundle.getString("calories"));
-            ingardiants.setText(mBundle.getString("ingardiants"));
-            howToMake.setText(mBundle.getString("HowToMake"));
-            prepTime.setText(mBundle.getString("prepTime"));
-            cookTime.setText(mBundle.getString("cookTime"));
-            totalTime.setText(mBundle.getString("totalTime"));
+
+            carbs.setText(RecipePageFunctions.is_full(mBundle.getString("carbs")));
+            protein.setText(RecipePageFunctions.is_full(mBundle.getString("protein")));
+            fats.setText(RecipePageFunctions.is_full(mBundle.getString("fats")));
+            caloreis.setText(RecipePageFunctions.is_full(mBundle.getString("calories")));
+
+            ingardiants.setText(RecipePageFunctions.ingaridiants(mBundle.getStringArray("ingardiants")));
+            howToMake.setText(RecipePageFunctions.directions(mBundle.getStringArray("HowToMake")));
+
+            int prep = RecipePageFunctions.Proper_time_int(mBundle.getString("prepTime"));
+            if (prep == -1){
+                prepTime.setText("---");
+            }
+            else prepTime.setText(prep + " m");
+
+            int cook = RecipePageFunctions.Proper_time_int(mBundle.getString("cookTime"));
+            if (cook == -1){
+                cookTime.setText("---");
+            }
+            else cookTime.setText(cook + " m");
+
+            if ( cook == -1 || prep == -1){
+                totalTime.setText("---");
+            }
+            else  totalTime.setText((cook+prep)+ " m");
+
             servings.setText(mBundle.getString("servings"));
         }
     }
+
 
 
     private void createWhatsappDialog(String itemList){
