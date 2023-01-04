@@ -44,7 +44,7 @@ public class DashboardActivity extends DrawerBaseActivity {
                         }
                     }else{
                         Toast.makeText(DashboardActivity.this, "Please sign in first", Toast.LENGTH_LONG).show();
-                        startActivity(new Intent(DashboardActivity.this, LoginActivity.class));
+                        startActivity(new Intent(DashboardActivity.this, LoginGoogle.class));
                     }
                 }
 
