@@ -11,15 +11,19 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.ContentResolver;
 import android.content.Intent;
 import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.net.Uri;
 import android.os.Bundle;
 import android.provider.MediaStore;
+import android.util.Base64;
 import android.view.View;
 import android.webkit.MimeTypeMap;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.github.drjacky.imagepicker.ImagePicker;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -32,6 +36,7 @@ import com.google.firebase.storage.StorageTask;
 import com.google.firebase.storage.UploadTask;
 import com.squareup.picasso.Picasso;
 
+import java.io.ByteArrayOutputStream;
 import java.net.URI;
 import java.util.concurrent.atomic.AtomicMarkableReference;
 
@@ -79,10 +84,21 @@ public class update_profile_photo extends AppCompatActivity {
         profileCangebtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent();
-                intent.setType("image/*");
-                intent.setAction(Intent.ACTION_GET_CONTENT);
-                startActivityForResult(intent, PICK_IMAGE_REQUEST);
+//                Intent intent = new Intent();
+//                intent.setType("image/*");
+//                intent.setAction(Intent.ACTION_GET_CONTENT);
+//                startActivityForResult(intent, PICK_IMAGE_REQUEST);
+                try {
+                    ImagePicker.Companion.with(update_profile_photo.this)
+                            .crop()                    //Crop image(Optional), Check Customization for more option
+//                            .cropSquare()
+                            .cropOval()
+                            .compress(1024)            //Final image size will be less than 1 MB(Optional)
+                            .maxResultSize(1080, 1080)    //Final image resolution will be less than 1080 x 1080(Optional)
+                            .start();
+                } catch (Exception ignored) {
+
+                }
 
             }
         });
@@ -95,14 +111,54 @@ public class update_profile_photo extends AppCompatActivity {
 
     }
 
+    @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
-        super.onActivityResult(requestCode, resultCode, data);
-        if (requestCode == PICK_IMAGE_REQUEST && resultCode == RESULT_OK && data != null &&
-                data.getData() != null) {
+//        try {
+            super.onActivityResult(requestCode, resultCode, data);
             uriImage = data.getData();
             profileimageview.setImageURI(uriImage);
-        }
-    }
+//            if (data != null) {
+//                Uri imgUri = data.getData();
+//                for (ImageView iv : imageViews) {
+//                    if (iv.getDrawable() == null) {
+//                        if (imgUri != null) {
+//                            iv.setImageURI(imgUri);
+//                            String path = uriImage.getPath();
+//                            // Convert image to base64-encoded string
+//                            ByteArrayOutputStream baos = new ByteArrayOutputStream();
+//                            Bitmap bitmap = BitmapFactory.decodeFile(path);
+//                            bitmap.compress(Bitmap.CompressFormat.JPEG, 100, baos);
+//                            byte[] imageData = baos.toByteArray();
+//                            String imageDataBase64 = Base64.encodeToString(imageData, Base64.DEFAULT);
+//                            uploadedImages.add(imageDataBase64);
+//                            break;
+//                        }
+//                    }
+//                }
+//                if (Size + 1 == 4) {
+//                    Toast.makeText(getApplicationContext(), "You have reached the limit of image uploads", Toast.LENGTH_SHORT).show();
+//                }
+//            } else {
+                Toast.makeText(getApplicationContext(), "You exceeded limit of images", Toast.LENGTH_SHORT).show();
+            }
+//        }
+//    } catch(
+//    Exception ignored)
+//
+//    {
+//
+//    }
+
+//}
+
+//    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
+//        super.onActivityResult(requestCode, resultCode, data);
+//        if (requestCode == PICK_IMAGE_REQUEST && resultCode == RESULT_OK && data != null &&
+//                data.getData() != null) {
+//            uriImage = data.getData();
+//            profileimageview.setImageURI(uriImage);
+//        }
+//    }
 
     public void Uplodpic() {
         if (uriImage != null) {
