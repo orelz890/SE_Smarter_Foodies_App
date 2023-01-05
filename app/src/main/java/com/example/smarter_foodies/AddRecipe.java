@@ -12,6 +12,7 @@ import android.graphics.BitmapFactory;
 import android.net.Uri;
 import android.os.Bundle;
 import android.text.TextUtils;
+import android.util.Base64;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.AdapterView;
@@ -43,6 +44,7 @@ import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
 import com.squareup.picasso.Picasso;
 
+import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -85,7 +87,7 @@ public class AddRecipe extends DashboardActivity {
     Button btnSubmit;
 
     FloatingActionButton fab;
-    List<Uri> uploadedImages;
+    List<String> uploadedImages;
     List<ImageView> imageViews;
     List<ImageButton> deleteImageButtons;
 
@@ -170,13 +172,17 @@ public class AddRecipe extends DashboardActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                ImagePicker.Companion.with(AddRecipe.this)
-                        .crop()                    //Crop image(Optional), Check Customization for more option
-                        .cropSquare()
+                try {
+                    ImagePicker.Companion.with(AddRecipe.this)
+                            .crop()                    //Crop image(Optional), Check Customization for more option
+                            .cropSquare()
 //                        .cropOval()
-                        .compress(1024)            //Final image size will be less than 1 MB(Optional)
-                        .maxResultSize(1080, 1080)    //Final image resolution will be less than 1080 x 1080(Optional)
-                        .start();
+                            .compress(1024)            //Final image size will be less than 1 MB(Optional)
+                            .maxResultSize(1080, 1080)    //Final image resolution will be less than 1080 x 1080(Optional)
+                            .start();
+                } catch (Exception ignored) {
+
+                }
             }
         });
     }
@@ -193,7 +199,14 @@ public class AddRecipe extends DashboardActivity {
                     if (iv.getDrawable() == null) {
                         if (imgUri != null) {
                             iv.setImageURI(imgUri);
-                            uploadedImages.add(imgUri);
+                            String path = imgUri.getPath();
+                            // Convert image to base64-encoded string
+                            ByteArrayOutputStream baos = new ByteArrayOutputStream();
+                            Bitmap bitmap = BitmapFactory.decodeFile(path);
+                            bitmap.compress(Bitmap.CompressFormat.JPEG, 100, baos);
+                            byte[] imageData = baos.toByteArray();
+                            String imageDataBase64 = Base64.encodeToString(imageData, Base64.DEFAULT);
+                            uploadedImages.add(imageDataBase64);
                             break;
                         }
                     }
@@ -410,29 +423,31 @@ public class AddRecipe extends DashboardActivity {
                         if (currentUser != null) {
                             r.setCopy_rights(currentUser.getUid());
                         }
-                        if (uploadedImages.isEmpty()){
+                        if (uploadedImages.isEmpty()) {
                             imageViews.get(0).requestFocus();
                             Toast.makeText(getApplicationContext(), "Please add at least 1 photo",
                                     Toast.LENGTH_SHORT).show();
                             return;
                         }
+                        r.setImages(uploadedImages);
                         CRUD.loadDishToDatabase(r);
-                        // Save the images in firebase storage & realtime
-                        for (int i = 0; i < uploadedImages.size(); i++) {
-                            CRUD.uploadImageToRecipeImages(r.getMain_category(), r.getCategory(),
-                                    r.getTitle(), uploadedImages.get(i), i);
-                        }
                         // Load recipe to database
                         List<String> singleValueList = CRUD.getSingleValueList(r.getTitle());
                         // Add recipe to the user recipes
                         CRUD.addToUserLists(singleValueList, "recipes");
                         flag = false;
-                        Toast.makeText(getApplicationContext(), r.toString(), Toast.LENGTH_SHORT).show();
+                        moveToActivity(r.getTitle());
+
                     }
                 }
             }
         });
 
+    }
+
+    private void moveToActivity(String title) {
+        Toast.makeText(getApplicationContext(), title + "> was loaded!", Toast.LENGTH_LONG).show();
+        startActivity(new Intent(AddRecipe.this, SearchRecipe.class));
     }
 
 

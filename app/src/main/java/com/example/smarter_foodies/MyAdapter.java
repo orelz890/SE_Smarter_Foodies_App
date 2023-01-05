@@ -51,11 +51,12 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder> {
         recipe recipe = myFoodList.get(i);
         if (!myFoodList.get(i).getImages().isEmpty()) {
             List<String> images = recipe.getImages();
-            if (images.get(images.size() - 1).startsWith("https:")) {
-                Picasso.get().load(images.get(images.size() - 1)).into(foodViewHolder.imageView);
+            String imgStr = images.get(images.size() - 1);
+            if (imgStr.startsWith("https:")) {
+                Picasso.get().load(imgStr).into(foodViewHolder.imageView);
             } else {
                 // Decode the image data from base64 to a Bitmap
-                byte[] imageData = Base64.decode(images.get(images.size() - 1), Base64.DEFAULT);
+                byte[] imageData = Base64.decode(imgStr, Base64.DEFAULT);
                 Bitmap bitmap = BitmapFactory.decodeByteArray(imageData, 0, imageData.length);
 
                 // Set the image for the ImageView

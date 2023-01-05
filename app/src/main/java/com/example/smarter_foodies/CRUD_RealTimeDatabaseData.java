@@ -550,26 +550,35 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 //        }
 //    }
 
-    public void uploadImageToRecipeImages(String category, String subCategory, String title, Uri imgUri, int pos) {
-        String path = imgUri.getPath();
-        // Convert image to base64-encoded string
-        ByteArrayOutputStream baos = new ByteArrayOutputStream();
-        Bitmap bitmap = BitmapFactory.decodeFile(path);
-        bitmap.compress(Bitmap.CompressFormat.JPEG, 100, baos);
-        byte[] imageData = baos.toByteArray();
-        String imageDataBase64 = Base64.encodeToString(imageData, Base64.DEFAULT);
-        String main_category = getAsCategoryString(category);
-        String sub_category = getAsCategoryString(subCategory);
-        DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
-                .child("recipes").child(main_category).child(sub_category);
-        mDatabaseSearch.child(getAsCategoryString(title)).child("images").child("" + pos)
-                .setValue(imageDataBase64).addOnFailureListener(new OnFailureListener() {
-                    @Override
-                    public void onFailure(@NonNull Exception e) {
-                        e.printStackTrace();
-                    }
-                });
-    }
+//    public void uploadImageToRecipeImages(String category, String subCategory, String title, Uri imgUri, int pos) {
+//        String path = imgUri.getPath();
+//        // Convert image to base64-encoded string
+//        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+//        Bitmap bitmap = BitmapFactory.decodeFile(path);
+//        bitmap.compress(Bitmap.CompressFormat.JPEG, 100, baos);
+//        byte[] imageData = baos.toByteArray();
+//        String imageDataBase64 = Base64.encodeToString(imageData, Base64.DEFAULT);
+//        String main_category = getAsCategoryString(category);
+//        String sub_category = getAsCategoryString(subCategory);
+//        DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
+//                .child("recipes").child(main_category).child(sub_category);
+//        mDatabaseSearch.child(getAsCategoryString(title)).child("images").child("" + pos)
+//                .setValue(imageDataBase64).addOnFailureListener(new OnFailureListener() {
+//                    @Override
+//                    public void onFailure(@NonNull Exception e) {
+//                        e.printStackTrace();
+//                    }
+//                });
+//        mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
+//                .child("search").child(main_category).child(sub_category);
+//        mDatabaseSearch.child(getAsCategoryString(title)).child("images").child("" + pos)
+//                .setValue(imageDataBase64).addOnFailureListener(new OnFailureListener() {
+//                    @Override
+//                    public void onFailure(@NonNull Exception e) {
+//                        e.printStackTrace();
+//                    }
+//                });
+//    }
 }
 
 

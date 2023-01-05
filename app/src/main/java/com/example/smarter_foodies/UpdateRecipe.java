@@ -8,7 +8,6 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.util.Base64;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.AdapterView;
@@ -21,29 +20,26 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.NumberPicker;
 import android.widget.Toast;
-
-import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
-
 import com.github.drjacky.imagepicker.ImagePicker;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
-import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.database.ValueEventListener;
 import com.squareup.picasso.Picasso;
 
+import java.io.ByteArrayOutputStream;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Objects;
 import java.util.Set;
+
 
 public class UpdateRecipe extends DashboardActivity {
 
@@ -128,14 +124,19 @@ public class UpdateRecipe extends DashboardActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                ImagePicker.Companion.with(UpdateRecipe.this)
-                        .crop()	    			//Crop image(Optional), Check Customization for more option
-                        .cropSquare()
+                try {
+                    ImagePicker.Companion.with(UpdateRecipe.this)
+                            .crop()	    			//Crop image(Optional), Check Customization for more option
+                            .cropSquare()
 //                        .cropOval()
-                        .compress(1024)            //Final image size will be less than 1 MB(Optional)
-                        .maxResultSize(1080, 1080)    //Final image resolution will be less than 1080 x 1080(Optional)
-                        .start();
+                            .compress(1024)            //Final image size will be less than 1 MB(Optional)
+                            .maxResultSize(1080, 1080)    //Final image resolution will be less than 1080 x 1080(Optional)
+                            .start();
+                } catch (Exception ignored) {
+
+                }
             }
+
         });
     }
 
@@ -149,7 +150,14 @@ public class UpdateRecipe extends DashboardActivity {
                     if (iv.getDrawable() == null){
                         Uri imgUri = data.getData();
                         iv.setImageURI(imgUri);
-                        myImages.add(imgUri.toString());
+                        String path = imgUri.getPath();
+                        // Convert image to base64-encoded string
+                        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+                        Bitmap bitmap = BitmapFactory.decodeFile(path);
+                        bitmap.compress(Bitmap.CompressFormat.JPEG, 100, baos);
+                        byte[] imageData = baos.toByteArray();
+                        String imageDataBase64 = Base64.encodeToString(imageData, Base64.DEFAULT);
+                        myImages.add(imageDataBase64);
                         break;
                     }
                 }
@@ -412,7 +420,7 @@ public class UpdateRecipe extends DashboardActivity {
                     new HashMap<>(), "");
             r.setIngredients(ingredientsArray);
             r.setCopy_rights(Objects.requireNonNull(mAuth.getCurrentUser()).getUid());
-            Toast.makeText(getApplicationContext(), r.toString(), Toast.LENGTH_LONG).show();
+            Toast.makeText(getApplicationContext(), r.getTitle() + "> was updated!", Toast.LENGTH_LONG).show();
             CRUD.loadDishToDatabase(r);
         }
     }
@@ -484,7 +492,8 @@ public class UpdateRecipe extends DashboardActivity {
                                         Toast.LENGTH_LONG).show();
                                 setDialogGetRecipeName();
                             }
-                        }catch (Exception e){
+                        }
+                        catch (Exception e){
                             e.printStackTrace();
                             Toast.makeText(getApplicationContext(),
                                     "We had a problem please try again..",
