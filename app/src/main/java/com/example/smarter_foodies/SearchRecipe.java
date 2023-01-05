@@ -2,6 +2,7 @@ package com.example.smarter_foodies;
 
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.res.AssetManager;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -28,7 +29,10 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParser;
 
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -79,6 +83,7 @@ public class SearchRecipe extends DashboardActivity {
         InitAutoCompleteSearchView();
         InitManageSearchImageButton();
     }
+
 
     private void setSwipeRefresh() {
         swipeRefreshLayout = findViewById(R.id.search_layout);

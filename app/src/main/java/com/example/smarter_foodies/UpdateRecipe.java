@@ -106,6 +106,38 @@ public class UpdateRecipe extends DashboardActivity {
         createAllNumberPickers();
     }
 
+    public void setLongClickListeners(int i) {
+        imageViews.get(i).setOnLongClickListener(new View.OnLongClickListener() {
+            @Override
+            public boolean onLongClick(View view) {
+                if (imageViews.get(i).getDrawable() != null) {
+                    AlertDialog.Builder builder = new AlertDialog.Builder(UpdateRecipe.this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
+                    final View customLayout = getLayoutInflater().inflate(R.layout.yes_no_dialog_layout, null);
+                    builder.setView(customLayout);
+                    builder.setCancelable(false);
+                    builder.setTitle("do you want to delete?");
+                    builder.setPositiveButton("yes", new DialogInterface.OnClickListener() {
+                        @Override
+                        public void onClick(DialogInterface dialogInterface, int which) {
+                            if (myImages.size() > 1) {
+                                myImages.remove(i);
+                                imageViews.get(i).setImageDrawable(null);
+                            }
+                            else{
+                                Toast.makeText(getApplicationContext(), "Need to have at least 1 photo!", Toast.LENGTH_SHORT).show();
+                            }
+                        }
+                    });
+
+                    builder.setNegativeButton("no", (dialogInterface, which) -> {
+                    });
+                    AlertDialog dialog = builder.create();
+                    dialog.show();
+                }
+                return true;
+            }
+        });
+    }
 
     private void setImageButtons(String name) {
         ibRemoveRecipe = findViewById(R.id.ib_remove_recipe);
@@ -120,6 +152,9 @@ public class UpdateRecipe extends DashboardActivity {
         imageViews.add(findViewById(R.id.ib_update_upload_recipe_image2));
         imageViews.add(findViewById(R.id.ib_update_upload_recipe_image3));
         imageViews.add(findViewById(R.id.ib_update_upload_recipe_image4));
+        for (int i = 0; i < imageViews.size(); i++) {
+            setLongClickListeners(i);
+        }
         fab = findViewById(R.id.floatingActionButtonAddRecipes);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -136,39 +171,43 @@ public class UpdateRecipe extends DashboardActivity {
 
                 }
             }
-
         });
     }
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
-        super.onActivityResult(requestCode, resultCode, data);
-        if (data != null) {
-            int size = myImages.size();
-            if (size < 4) {
-                for (ImageView iv: imageViews){
-                    if (iv.getDrawable() == null){
-                        Uri imgUri = data.getData();
-                        iv.setImageURI(imgUri);
-                        String path = imgUri.getPath();
-                        // Convert image to base64-encoded string
-                        ByteArrayOutputStream baos = new ByteArrayOutputStream();
-                        Bitmap bitmap = BitmapFactory.decodeFile(path);
-                        bitmap.compress(Bitmap.CompressFormat.JPEG, 100, baos);
-                        byte[] imageData = baos.toByteArray();
-                        String imageDataBase64 = Base64.encodeToString(imageData, Base64.DEFAULT);
-                        myImages.add(imageDataBase64);
-                        break;
+        try {
+            super.onActivityResult(requestCode, resultCode, data);
+            if (data != null) {
+                int size = myImages.size();
+                if (size < 4) {
+                    for (ImageView iv: imageViews){
+                        if (iv.getDrawable() == null){
+                            Uri imgUri = data.getData();
+                            iv.setImageURI(imgUri);
+                            String path = imgUri.getPath();
+                            // Convert image to base64-encoded string
+                            ByteArrayOutputStream baos = new ByteArrayOutputStream();
+                            Bitmap bitmap = BitmapFactory.decodeFile(path);
+                            bitmap.compress(Bitmap.CompressFormat.JPEG, 100, baos);
+                            byte[] imageData = baos.toByteArray();
+                            String imageDataBase64 = Base64.encodeToString(imageData, Base64.DEFAULT);
+                            myImages.add(imageDataBase64);
+                            break;
+                        }
+                    }
+                    if (size + 1 == 4){
+                        Toast.makeText(getApplicationContext(), "You have reached the limit of image uploads", Toast.LENGTH_SHORT).show();
                     }
                 }
-                if (size + 1 == 4){
-                    Toast.makeText(getApplicationContext(), "You have reached the limit of image uploads", Toast.LENGTH_SHORT).show();
+                else {
+                    Toast.makeText(getApplicationContext(), "You exceeded limit of images", Toast.LENGTH_SHORT).show();
                 }
             }
-            else {
-                Toast.makeText(getApplicationContext(), "You exceeded limit of images", Toast.LENGTH_SHORT).show();
-            }
+        } catch (Exception ignored) {
+
         }
+
     }
 
     private void fillCategoriesList() {

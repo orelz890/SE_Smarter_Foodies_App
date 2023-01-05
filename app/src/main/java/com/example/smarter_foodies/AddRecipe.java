@@ -189,34 +189,37 @@ public class AddRecipe extends DashboardActivity {
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
-
-        super.onActivityResult(requestCode, resultCode, data);
-        if (data != null) {
-            int Size = uploadedImages.size();
-            if (Size < 4) {
-                Uri imgUri = data.getData();
-                for (ImageView iv : imageViews) {
-                    if (iv.getDrawable() == null) {
-                        if (imgUri != null) {
-                            iv.setImageURI(imgUri);
-                            String path = imgUri.getPath();
-                            // Convert image to base64-encoded string
-                            ByteArrayOutputStream baos = new ByteArrayOutputStream();
-                            Bitmap bitmap = BitmapFactory.decodeFile(path);
-                            bitmap.compress(Bitmap.CompressFormat.JPEG, 100, baos);
-                            byte[] imageData = baos.toByteArray();
-                            String imageDataBase64 = Base64.encodeToString(imageData, Base64.DEFAULT);
-                            uploadedImages.add(imageDataBase64);
-                            break;
+        try {
+            super.onActivityResult(requestCode, resultCode, data);
+            if (data != null) {
+                int Size = uploadedImages.size();
+                if (Size < 4) {
+                    Uri imgUri = data.getData();
+                    for (ImageView iv : imageViews) {
+                        if (iv.getDrawable() == null) {
+                            if (imgUri != null) {
+                                iv.setImageURI(imgUri);
+                                String path = imgUri.getPath();
+                                // Convert image to base64-encoded string
+                                ByteArrayOutputStream baos = new ByteArrayOutputStream();
+                                Bitmap bitmap = BitmapFactory.decodeFile(path);
+                                bitmap.compress(Bitmap.CompressFormat.JPEG, 100, baos);
+                                byte[] imageData = baos.toByteArray();
+                                String imageDataBase64 = Base64.encodeToString(imageData, Base64.DEFAULT);
+                                uploadedImages.add(imageDataBase64);
+                                break;
+                            }
                         }
                     }
+                    if (Size + 1 == 4) {
+                        Toast.makeText(getApplicationContext(), "You have reached the limit of image uploads", Toast.LENGTH_SHORT).show();
+                    }
+                } else {
+                    Toast.makeText(getApplicationContext(), "You exceeded limit of images", Toast.LENGTH_SHORT).show();
                 }
-                if (Size + 1 == 4) {
-                    Toast.makeText(getApplicationContext(), "You have reached the limit of image uploads", Toast.LENGTH_SHORT).show();
-                }
-            } else {
-                Toast.makeText(getApplicationContext(), "You exceeded limit of images", Toast.LENGTH_SHORT).show();
             }
+        } catch (Exception ignored) {
+
         }
     }
 
