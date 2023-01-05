@@ -50,10 +50,8 @@ public class profile_page extends DashboardActivity {
     TextInputEditText name_pop, email_pop, fevorit_recpie_pop, website_pop, ranking_pop;
     Button save_btn_pop, cancel_btn_pop;
 
-
     private AlertDialog.Builder dialogbilder;
     private AlertDialog dialog;
-
 
     // the rating app
     RatingBar ratingBar;
