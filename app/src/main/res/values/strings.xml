@@ -28,5 +28,7 @@
     <string name="apply_as_chef">apply as chef</string>
     <string name="cart">Cart</string>
     <string name="recipe_details">Recipe Details</string>
+    <string name="calories">Calories</string>
+    <string name="submit">submit</string>
 
 </resources>

@@ -96,9 +96,9 @@ public class profile_page extends DashboardActivity {
         DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(Uid);
         reference.addValueEventListener(new ValueEventListener() {
             @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-                if (snapshot_filter.exists()) {
-                    User user = snapshot_filter.getValue(User.class);
+            public void onDataChange(@NonNull DataSnapshot snapshot_users) {
+                if (snapshot_users.exists()) {
+                    User user = snapshot_users.getValue(User.class);
                     name_p.setText(user.getName());
                     email_p.setText(user.getEmail());
                     ranking_p.setText(user.getEating());
@@ -193,9 +193,9 @@ public class profile_page extends DashboardActivity {
 
             reference.addValueEventListener(new ValueEventListener() {
                 @Override
-                public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-                    if (snapshot_filter.exists()) {
-                        User user = snapshot_filter.getValue(User.class);
+                public void onDataChange(@NonNull DataSnapshot snapshot_users) {
+                    if (snapshot_users.exists()) {
+                        User user = snapshot_users.getValue(User.class);
                         if (user != null) {
                             Objects.requireNonNull(name_pop).setText(user.getName());
                             Objects.requireNonNull(email_pop).setText(user.getEmail());
@@ -262,9 +262,9 @@ public class profile_page extends DashboardActivity {
 
             reference.addValueEventListener(new ValueEventListener() {
                 @Override
-                public void onDataChange(@NonNull DataSnapshot snapshot_filter) {
-                    if (snapshot_filter.exists()) {
-                        User user = snapshot_filter.getValue(User.class);
+                public void onDataChange(@NonNull DataSnapshot snapshot_users) {
+                    if (snapshot_users.exists()) {
+                        User user = snapshot_users.getValue(User.class);
                         if (user != null) {
                             Objects.requireNonNull(text_rating).setText(user.getRating());
                             submit_rate.setOnClickListener(view -> {

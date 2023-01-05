@@ -4,8 +4,6 @@
         <shape android:shape="oval">
             <solid android:color="#D3EED7"/>
             <stroke android:color="#157939" android:width="1dp"/>
-
-
         </shape>
 
 

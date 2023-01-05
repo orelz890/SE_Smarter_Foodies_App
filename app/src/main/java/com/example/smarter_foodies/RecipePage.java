@@ -57,9 +57,6 @@ public class RecipePage extends AppCompatActivity {
 
     }
 
-
-
-
     private void setFindByIds(){
         recipeImage = (ImageView)findViewById(R.id.recipeImageDisplay);
 
@@ -80,6 +77,7 @@ public class RecipePage extends AppCompatActivity {
 
         listExtract = (Button)findViewById(R.id.recipeListButton) ;
     }
+
     private void setBundleContent(Bundle mBundle){
         if(mBundle != null){
             String[] ImageUrl = mBundle.getStringArray("recipeImage");
@@ -145,7 +143,6 @@ public class RecipePage extends AppCompatActivity {
                 Toast.makeText(RecipePage.this, "There is no application that support this action",
                         Toast.LENGTH_SHORT).show();
             }
-
         });
         builder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
             @Override
@@ -153,8 +150,6 @@ public class RecipePage extends AppCompatActivity {
                 dialog.cancel();
             }
         });
-
         builder.show();
-
     }
 }

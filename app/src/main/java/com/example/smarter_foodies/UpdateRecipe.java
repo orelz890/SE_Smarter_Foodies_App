@@ -2,6 +2,7 @@ package com.example.smarter_foodies;
 
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.util.Log;
@@ -13,14 +14,18 @@ import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.NumberPicker;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 
+import com.github.drjacky.imagepicker.ImagePicker;
 import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
@@ -28,6 +33,7 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -63,9 +69,16 @@ public class UpdateRecipe extends DashboardActivity {
     NumberPicker npCarbs;
     NumberPicker npProtein;
     NumberPicker npFat;
+    NumberPicker npCalories;
+
     // Submit recipe button
     Button btnSubmit;
     ImageButton ibRemoveRecipe;
+
+    FloatingActionButton fab;
+    List<String> myImages;
+    List<ImageView> imageViews;
+
 
     CRUD_RealTimeDatabaseData CRUD;
 
@@ -83,6 +96,8 @@ public class UpdateRecipe extends DashboardActivity {
         // Create reference to the firebase real time database
         mDatabase = FirebaseDatabase.getInstance().getReference();
         CRUD = new CRUD_RealTimeDatabaseData();
+        myImages = new ArrayList<>();
+        imageViews = new ArrayList<>();
         // Get the name of the recipe
         setDialogGetRecipeName();
         // Fill the categories list which the user can chose from
@@ -91,6 +106,7 @@ public class UpdateRecipe extends DashboardActivity {
         //    ========================= Get data from user =============================================
         createAllNumberPickers();
     }
+
 
     private void setImageButtons(String name) {
         ibRemoveRecipe = findViewById(R.id.ib_remove_recipe);
@@ -101,7 +117,47 @@ public class UpdateRecipe extends DashboardActivity {
                 setDialogApproval(name);
             }
         });
+        imageViews.add(findViewById(R.id.ib_update_upload_recipe_image));
+        imageViews.add(findViewById(R.id.ib_update_upload_recipe_image2));
+        imageViews.add(findViewById(R.id.ib_update_upload_recipe_image3));
+        imageViews.add(findViewById(R.id.ib_update_upload_recipe_image4));
+        fab = findViewById(R.id.floatingActionButtonAddRecipes);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                ImagePicker.Companion.with(UpdateRecipe.this)
+                        .crop()	    			//Crop image(Optional), Check Customization for more option
+                        .cropSquare()
+//                        .cropOval()
+                        .compress(1024)            //Final image size will be less than 1 MB(Optional)
+                        .maxResultSize(1080, 1080)    //Final image resolution will be less than 1080 x 1080(Optional)
+                        .start();
+            }
+        });
+    }
 
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        if (data != null) {
+            int size = myImages.size();
+            if (size < 4) {
+                for (ImageView iv: imageViews){
+                    if (iv.getDrawable() == null){
+                        Uri imgUri = data.getData();
+                        iv.setImageURI(imgUri);
+                        myImages.add(imgUri.toString());
+                        break;
+                    }
+                }
+                if (size + 1 == 4){
+                    Toast.makeText(getApplicationContext(), "You have reached the limit of image uploads", Toast.LENGTH_SHORT).show();
+                }
+            }
+            else {
+                Toast.makeText(getApplicationContext(), "You exceeded limit of images", Toast.LENGTH_SHORT).show();
+            }
+        }
     }
 
     private void fillCategoriesList() {
@@ -291,15 +347,19 @@ public class UpdateRecipe extends DashboardActivity {
                 npFat.setValue(newValue);
             }
         });
+        npCalories = findViewById(R.id.npCaloriesUpdate);
+        npCalories.setValue(-1);
+        npCalories.setMaxValue(2000);
+        npCalories.setMinValue(0);
+        npCalories.setOnValueChangedListener(new NumberPicker.OnValueChangeListener() {
+            @Override
+            public void onValueChange(NumberPicker numberPicker, int oldValue, int newValue) {
+                npCalories.setValue(newValue);
+            }
+        });
     }
 
     private void submitRecipe() {
-        String title = etTitle.getText().toString();
-        if (TextUtils.isEmpty(title)) {
-            etTitle.setError("Title cannot be empty");
-            etTitle.requestFocus();
-            return;
-        }
         String ingredients = etIngredients.getText().toString();
         System.out.println(ingredients);
         String[] ingredients_list = ingredients.split("\n");
@@ -336,17 +396,18 @@ public class UpdateRecipe extends DashboardActivity {
             autoCompleteSubCategory.requestFocus();
         } else if (npPrepTime.getValue() == 0 || npCookingTime.getValue() == 0 ||
                 npServings.getValue() == 0 || npProtein.getValue() == 0 ||
-                npFat.getValue() == 0 || npCarbs.getValue() == 0) {
+                npFat.getValue() == 0 || npCarbs.getValue() == 0 || npCalories.getValue() == 0) {
             Toast.makeText(getApplicationContext(), "All bottom half must be filled too!",
                     Toast.LENGTH_LONG).show();
         } else {
             List<String> directionsArray = new ArrayList<>(Arrays.asList(directions_list));
-            recipe r = new recipe(title, category, subCategory, new ArrayList<>(), directionsArray,
-                    calcTime(npPrepTime.getValue()), calcTime(npCookingTime.getValue()), npServings.getValue() + "",
-                    npProtein.getValue() + "", "0", npFat.getValue() + "", npCarbs.getValue() + "", 0,
-                    new ArrayList<>(), 0, new HashMap<>(), "");
+            recipe r = new recipe(recipeToUpdateName, category, subCategory, new ArrayList<>(), directionsArray,
+                    calcTime(npPrepTime.getValue()), calcTime(npCookingTime.getValue()),
+                    npServings.getValue() + "", npProtein.getValue() + "",
+                    npCalories.getValue() + "", npFat.getValue() + "",
+                    npCarbs.getValue() + "", 0, myImages, 0,
+                    new HashMap<>(), "");
             r.setIngredients(ingredientsArray);
-
             r.setCopy_rights(Objects.requireNonNull(mAuth.getCurrentUser()).getUid());
             Toast.makeText(getApplicationContext(), r.toString(), Toast.LENGTH_LONG).show();
             CRUD.loadDishToDatabase(r);
@@ -373,6 +434,13 @@ public class UpdateRecipe extends DashboardActivity {
                             System.out.println(r);
                             if (r != null && r.getCopy_rights()
                                     .equals(Objects.requireNonNull(mAuth.getCurrentUser()).getUid())) {
+                                List<String> images = r.getImages();
+                                if (!images.isEmpty()) {
+                                    myImages.addAll(images);
+                                    for (int i = 0; i < myImages.size(); i++) {
+                                        Picasso.get().load(myImages.get(i)).into(imageViews.get(i));
+                                    }
+                                }
                                 etTitle.setText(r.getTitle());
                                 List<String> directions = r.getDirections();
                                 StringBuilder directionsView = new StringBuilder();
@@ -395,6 +463,7 @@ public class UpdateRecipe extends DashboardActivity {
                                 npCarbs.setValue(Integer.parseInt(r.getCarbs()));
                                 npProtein.setValue(Integer.parseInt(r.getProtein()));
                                 npFat.setValue(Integer.parseInt(r.getFat()));
+                                npCalories.setValue(Integer.parseInt(r.getCalories()));
                             } else {
                                 Toast.makeText(getApplicationContext(),
                                         "You are not authorized to change this recipe..",
@@ -406,7 +475,7 @@ public class UpdateRecipe extends DashboardActivity {
                             Toast.makeText(getApplicationContext(),
                                     "We had a problem please try again..",
                                     Toast.LENGTH_LONG).show();
-                            setDialogGetRecipeName();
+                            startActivity(new Intent(UpdateRecipe.this, UpdateRecipe.class));
                         }
                     }
                 } else {

@@ -106,7 +106,12 @@ dependencies {
     implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
 
 //    implementation 'com.github.dhaval2404:imagepicker-support:1.7.1'
-    implementation 'com.github.Dhaval2404:ImagePicker:2.1'
+//    implementation 'com.github.Dhaval2404:ImagePicker:2.1'
+
+    // Oval imagePiker
+    implementation 'com.github.Drjacky:ImagePicker:1.8.4'
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+
 }
 
 configurations.all {

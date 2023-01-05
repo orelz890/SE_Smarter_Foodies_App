@@ -2,21 +2,14 @@ package com.example.smarter_foodies;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.app.AlertDialog;
 
-import static java.lang.Thread.sleep;
-import static java.util.Map.entry;
-
+import android.annotation.SuppressLint;
+import android.content.DialogInterface;
 import android.content.Intent;
-import android.content.res.AssetFileDescriptor;
-import android.content.res.AssetManager;
-import android.graphics.drawable.Drawable;
 import android.net.Uri;
-import android.nfc.Tag;
-import android.os.Build;
 import android.os.Bundle;
 import android.text.TextUtils;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.AdapterView;
@@ -27,53 +20,28 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.NumberPicker;
-import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.smarter_foodies.databinding.ActivityDashboardBinding;
-import com.github.dhaval2404.imagepicker.ImagePicker;
+import com.github.drjacky.imagepicker.ImagePicker;
 import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.OnFailureListener;
+import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DataSnapshot;
-import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
-import com.example.smarter_foodies.recipe;
-import com.google.firebase.database.Query;
-import com.google.firebase.database.ValueEventListener;
-import com.google.gson.Gson;
-import com.google.gson.JsonArray;
-import com.google.gson.JsonElement;
-import com.google.gson.JsonObject;
-import com.google.gson.JsonParser;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.InputStreamReader;
-import java.io.Reader;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.security.PrivateKey;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
-import java.util.Locale;
-import java.util.Map;
 
-import android.content.Context;
-import android.util.Log;
-
-import java.io.IOException;
-import java.io.InputStream;
-import java.util.Objects;
 import java.util.Set;
-import com.example.smarter_foodies.CRUD_RealTimeDatabaseData;
 
 public class AddRecipe extends DashboardActivity {
 
@@ -103,12 +71,14 @@ public class AddRecipe extends DashboardActivity {
     NumberPicker npCarbs;
     NumberPicker npProtein;
     NumberPicker npFat;
+    NumberPicker npCalories;
     // Submit recipe button
     Button btnSubmit;
 
-    ImageView recipeImage;
     FloatingActionButton fab;
-    Uri uri;
+    List<String> uploadedImages;
+    List<ImageView> imageViews;
+    List<ImageButton> deleteImageButtons;
 
     CRUD_RealTimeDatabaseData CRUD;
 
@@ -126,10 +96,12 @@ public class AddRecipe extends DashboardActivity {
         // Create reference to the firebase real time database
         mDatabase = FirebaseDatabase.getInstance().getReference();
         CRUD = new CRUD_RealTimeDatabaseData();
+        imageViews = new ArrayList<>();
+        deleteImageButtons = new ArrayList<>();
         flag = false;
         // Fill the categories list which the user can chose from
         this.fillCategoriesList();
-//        this.setImageButtons();
+        this.setImageButtons();
 
         //    ========================= Get data from user =============================================
         this.createAllNumberPickers();
@@ -148,26 +120,102 @@ public class AddRecipe extends DashboardActivity {
         }
     }
 
-//    private void setImageButtons(){
-//        recipeImage = findViewById(R.id.ib_upload_recipe_image);
-//        fab = findViewById(R.id.floatingActionButtonAddRecipe);
-//        fab.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                ImagePicker.with(AddRecipe.this)
-////                        .crop()	    			//Crop image(Optional), Check Customization for more option
-////                        .compress(1024)			//Final image size will be less than 1 MB(Optional)
-////                        .maxResultSize(1080, 1080)	//Final image resolution will be less than 1080 x 1080(Optional)
-//                        .start();
-//            }
-//        });
-//    }
+    public void setLongClickListeners(int i) {
+        imageViews.get(i).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                if (deleteImageButtons.get(i) != null) {
+                    deleteImageButtons.get(i).setVisibility(View.GONE);
+                }
+            }
+        });
+        imageViews.get(i).setOnLongClickListener(new View.OnLongClickListener() {
+            @Override
+            public boolean onLongClick(View view) {
+                if (deleteImageButtons.get(i) != null) {
+                    deleteImageButtons.get(i).setVisibility(View.VISIBLE);
+                    deleteImageButtons.get(i).setOnClickListener(new View.OnClickListener() {
+                        @Override
+                        public void onClick(View view) {
+                            AlertDialog.Builder builder = new AlertDialog.Builder(AddRecipe.this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
+                            final View customLayout = getLayoutInflater().inflate(R.layout.yes_no_dialog_layout, null);
+                            builder.setView(customLayout);
+                            builder.setCancelable(false);
+                            builder.setTitle("r u sure?");
+                            builder.setPositiveButton("delete", new DialogInterface.OnClickListener() {
+                                @Override
+                                public void onClick(DialogInterface dialogInterface, int which) {
+                                    imageViews.get(i).setImageDrawable(null);
+                                    deleteImageButtons.get(i).setVisibility(View.GONE);
+                                }
+                            });
+
+                            builder.setNegativeButton("cancel", (dialogInterface, which) -> {
+                                deleteImageButtons.get(i).setVisibility(View.GONE);
+                            });
+                            AlertDialog dialog = builder.create();
+                            dialog.show();
+
+                        }
+                    });
+                }
+                return true;
+            }
+        });
+    }
+
+    private void setImageButtons() {
+        uploadedImages = new ArrayList<>();
+        imageViews.add((ImageView)findViewById(R.id.ib_upload_recipe_image));
+        imageViews.add((ImageView)findViewById(R.id.ib_upload_recipe_image2));
+        imageViews.add((ImageView)findViewById(R.id.ib_upload_recipe_image3));
+        imageViews.add((ImageView) findViewById(R.id.ib_upload_recipe_image4));
+        deleteImageButtons.add((ImageButton)findViewById(R.id.delete_image_view));
+        deleteImageButtons.add((ImageButton)findViewById(R.id.delete_image_view2));
+        deleteImageButtons.add((ImageButton) findViewById(R.id.delete_image_view3));
+        deleteImageButtons.add((ImageButton)findViewById(R.id.delete_image_view4));
+        for (int i = 0; i < imageViews.size(); i++) {
+            setLongClickListeners(i);
+        }
+        fab = findViewById(R.id.floatingActionButtonAddRecipe);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                ImagePicker.Companion.with(AddRecipe.this)
+                        .crop()                    //Crop image(Optional), Check Customization for more option
+                        .cropSquare()
+//                        .cropOval()
+                        .compress(1024)            //Final image size will be less than 1 MB(Optional)
+                        .maxResultSize(1080, 1080)    //Final image resolution will be less than 1080 x 1080(Optional)
+                        .start();
+            }
+        });
+    }
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
+
         super.onActivityResult(requestCode, resultCode, data);
-        uri = data.getData();
-        recipeImage.setImageURI(uri);
+        if (data != null) {
+            int Size = uploadedImages.size();
+            if (Size < 4) {
+                for (ImageView iv : imageViews) {
+                    if (iv.getDrawable() == null) {
+                        Uri imgUri = data.getData();
+                        iv.setImageURI(imgUri);
+                        if (imgUri != null) {
+                            uploadedImages.add(imgUri.toString());
+                            break;
+                        }
+                    }
+                }
+                if (Size + 1 == 4) {
+                    Toast.makeText(getApplicationContext(), "You have reached the limit of image uploads", Toast.LENGTH_SHORT).show();
+                }
+            } else {
+                Toast.makeText(getApplicationContext(), "You exceeded limit of images", Toast.LENGTH_SHORT).show();
+            }
+        }
     }
 
     private void change_adapter() {
@@ -276,6 +324,16 @@ public class AddRecipe extends DashboardActivity {
                 npFat.setValue(newValue);
             }
         });
+        npCalories = findViewById(R.id.npCalories);
+        npCalories.setValue(-1);
+        npCalories.setMaxValue(2000);
+        npCalories.setMinValue(0);
+        npCalories.setOnValueChangedListener(new NumberPicker.OnValueChangeListener() {
+            @Override
+            public void onValueChange(NumberPicker numberPicker, int oldValue, int newValue) {
+                npCalories.setValue(newValue);
+            }
+        });
     }
 
     private void submitRecipe() {
@@ -284,89 +342,144 @@ public class AddRecipe extends DashboardActivity {
         if (TextUtils.isEmpty(title)) {
             etTitle.setError("Title cannot be empty");
             etTitle.requestFocus();
-            return;
         }
-        String ingredients = etIngredients.getText().toString();
-        System.out.println(ingredients);
-        String[] ingredients_list = ingredients.split("\n");
-        if (TextUtils.isEmpty(ingredients)) {
-            etIngredients.setError("Ingredients cannot be empty");
-            etIngredients.requestFocus();
-            return;
-        } else {
-            for (String s : ingredients_list) {
-                if (!s.equals("\n")) {
-                    String[] temp = s.trim().split(" ");
-                    try {
-                        Double.parseDouble(temp[0]);
-                    } catch (Exception e) {
-                        etIngredients.setError("Every Ingredient must begin with the quantity..");
+
+        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
+                .getReference().child("recipes");
+        mDatabaseSearchGet.get().addOnCompleteListener(new OnCompleteListener<DataSnapshot>() {
+            @Override
+            public void onComplete(@NonNull Task<DataSnapshot> task) {
+                System.out.println("\n\nim in\n\n");
+                if (task.isSuccessful()) {
+                    DataSnapshot dataSnapshot = task.getResult();
+                    for (DataSnapshot categorySnap : dataSnapshot.getChildren()) {
+                        for (DataSnapshot subCategorySnapshot : categorySnap.getChildren()) {
+                            for (DataSnapshot recipeSnap : subCategorySnapshot.getChildren()) {
+                                recipe r = recipeSnap.getValue(recipe.class);
+                                if (r != null) {
+                                    System.out.println(r);
+                                    if (r.getTitle().equals(title)) {
+                                        etTitle.setError("Title already exist, please try a different name");
+                                        etTitle.requestFocus();
+                                        return;
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    String ingredients = etIngredients.getText().toString();
+                    System.out.println(ingredients);
+                    String[] ingredients_list = ingredients.split("\n");
+                    if (TextUtils.isEmpty(ingredients)) {
+                        etIngredients.setError("Ingredients cannot be empty");
                         etIngredients.requestFocus();
                         return;
+                    } else {
+                        for (String s : ingredients_list) {
+                            if (!s.equals("\n")) {
+                                String[] temp = s.trim().split(" ");
+                                try {
+                                    Double.parseDouble(temp[0]);
+                                } catch (Exception e) {
+                                    etIngredients.setError("Every Ingredient must begin with the quantity..");
+                                    etIngredients.requestFocus();
+                                    return;
+                                }
+                            }
+                        }
+                    }
+                    List<String> ingredientsArray = new ArrayList<>(Arrays.asList(ingredients_list));
+
+                    String directions = etDirections.getText().toString();
+                    String[] directions_list = directions.split("\n");
+                    if (TextUtils.isEmpty(directions)) {
+                        etDirections.setError("Directions cannot be empty");
+                        etDirections.requestFocus();
+                    } else if (category.isEmpty()) {
+                        autoCompleteCategory.setError("Category cannot be empty");
+                        autoCompleteCategory.requestFocus();
+                    } else if (subCategory.isEmpty()) {
+                        autoCompleteSubCategory.setError("Sub category cannot be empty");
+                        autoCompleteSubCategory.requestFocus();
+                    } else if (npPrepTime.getValue() == 0 || npCookingTime.getValue() == 0 ||
+                            npServings.getValue() == 0 || npProtein.getValue() == 0 ||
+                            npFat.getValue() == 0 || npCarbs.getValue() == 0 || npCalories.getValue() == 0) {
+                        Toast.makeText(getApplicationContext(), "All bottom half must be filled too!",
+                                Toast.LENGTH_SHORT).show();
+                    } else {
+                        List<String> directionsArray = new ArrayList<>(Arrays.asList(directions_list));
+                        recipe r = new recipe(title, category, subCategory, new ArrayList<>(), directionsArray,
+                                calcTime(npPrepTime.getValue()),
+                                calcTime(npCookingTime.getValue()) + "",
+                                npServings.getValue() + "", npProtein.getValue() + "", "0",
+                                npFat.getValue() + "", npCarbs.getValue() + "", 0,
+                                new ArrayList<>(), 0, new HashMap<>(), "");
+                        r.setIngredients(ingredientsArray);
+                        FirebaseUser currentUser = mAuth.getCurrentUser();
+                        if (currentUser != null) {
+                            r.setCopy_rights(currentUser.getUid());
+                        }
+                        r.setImages(uploadedImages);
+                        // Load recipe to database
+                        CRUD.loadDishToDatabase(r);
+                        List<String> singleValueList = CRUD.getSingleValueList(r.getTitle());
+                        // Add recipe to the user recipes
+                        CRUD.addToUserLists(singleValueList, "recipes");
+                        flag = false;
+                        Toast.makeText(getApplicationContext(), r.toString(), Toast.LENGTH_SHORT).show();
                     }
                 }
             }
-        }
-        List<String> ingredientsArray = new ArrayList<>(Arrays.asList(ingredients_list));
+        });
 
-        String directions = etDirections.getText().toString();
-        String[] directions_list = directions.split("\n");
-        if (TextUtils.isEmpty(directions)) {
-            etDirections.setError("Directions cannot be empty");
-            etDirections.requestFocus();
-        } else if (category.isEmpty()) {
-            autoCompleteCategory.setError("Category cannot be empty");
-            autoCompleteCategory.requestFocus();
-        } else if (subCategory.isEmpty()) {
-            autoCompleteSubCategory.setError("Sub category cannot be empty");
-            autoCompleteSubCategory.requestFocus();
-        } else if (npPrepTime.getValue() == 0 || npCookingTime.getValue() == 0 ||
-                npServings.getValue() == 0 || npProtein.getValue() == 0 ||
-                npFat.getValue() == 0 || npCarbs.getValue() == 0) {
-            Toast.makeText(getApplicationContext(), "All bottom half must be filled too!",
-                    Toast.LENGTH_SHORT).show();
-        } else {
-            List<String> directionsArray = new ArrayList<>(Arrays.asList(directions_list));
-            recipe r = new recipe(title, category, subCategory, new ArrayList<>(), directionsArray,
-                    calcTime(npPrepTime.getValue()), calcTime(npCookingTime.getValue()) + "", npServings.getValue() + "",
-                    npProtein.getValue() + "", "0", npFat.getValue() + "", npCarbs.getValue() + "", 0,
-                    new ArrayList<>(), 0, new HashMap<>(), "");
-            r.setIngredients(ingredientsArray);
-            FirebaseUser currentUser = mAuth.getCurrentUser();
-            if (currentUser != null) {
-                r.setCopy_rights(currentUser.getUid());
-            }
-//            List<String> images = new ArrayList<>();
-//            if (recipeImage != null) {
-//                Object tag = recipeImage.getTag();
-//                if (tag != null && tag instanceof String) {
-//                    String srcUriString = (String) tag;
-//                    Uri srcUri = Uri.parse(srcUriString);
-//                    images.add(srcUri.toString());
-//                    r.setImages(images);
-//                }
-//            }
-//            if (uri != null){
-//                images.add(uri.toString());
-//                r.setImages(images);
-//            }
-
-            // Load recipe to database
-            CRUD.loadDishToDatabase(r);
-            List<String> singleValueList = CRUD.getSingleValueList(r.getTitle());
-            // Add recipe to the user recipes
-            CRUD.addToUserLists(singleValueList, "recipes");
-            flag = false;
-            Toast.makeText(getApplicationContext(), r.toString(), Toast.LENGTH_SHORT).show();
-        }
     }
 
-    private String calcTime(int min){
-        if (min < 60){
+
+//    public void dialogUploadImage(recipe r){
+//        AlertDialog.Builder builder = new AlertDialog.Builder(AddRecipe.this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
+//        final View customLayout = getLayoutInflater().inflate(R.layout.yes_no_dialog_layout, null);
+//        builder.setView(customLayout);
+//        builder.setCancelable(false);
+//        builder.setTitle("Please upload an image");
+//        builder.setPositiveButton("upload", new DialogInterface.OnClickListener() {
+//            @Override
+//            public void onClick(DialogInterface dialogInterface, int which) {
+//                ImagePicker.with(AddRecipe.this).start();
+//                List<String> images = new ArrayList<>();
+//                if (recipeImage != null) {
+//                    Object tag = recipeImage.getTag();
+//                    if (tag != null && tag instanceof String) {
+//                        String srcUriString = (String) tag;
+//                        Uri srcUri = Uri.parse(srcUriString);
+//                        images.add(srcUri.toString());
+//                        r.setImages(images);
+//                    }
+//                }
+//                if (!r.getImages().isEmpty()){
+//                    // Load recipe to database
+//                    CRUD.loadDishToDatabase(r);
+//                    List<String> singleValueList = CRUD.getSingleValueList(r.getTitle());
+//                    // Add recipe to the user recipes
+//                    CRUD.addToUserLists(singleValueList, "recipes");
+//                    flag = false;
+//                    Toast.makeText(getApplicationContext(), r.toString(), Toast.LENGTH_SHORT).show();
+//                }
+//            }
+//        });
+//
+//        builder.setNegativeButton("cancel", (dialogInterface, which) -> {
+//            startActivity(new Intent(AddRecipe.this, SearchRecipe.class));
+//        });
+//        AlertDialog dialog = builder.create();
+//        dialog.show();
+//    }
+
+    private String calcTime(int min) {
+        if (min < 60) {
             return min + " mins";
-        }
-        else{
-            return (int)min/60 + " hrs " + min%60 + " mins";
+        } else {
+            return (int) min / 60 + " hrs " + min % 60 + " mins";
         }
     }
 
