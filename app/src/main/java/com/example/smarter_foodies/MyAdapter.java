@@ -4,6 +4,9 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.util.Base64;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -25,7 +28,7 @@ import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
-public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
+public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder> {
 
     private Context mContext;
     private List<recipe> myFoodList;
@@ -48,9 +51,17 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
         recipe recipe = myFoodList.get(i);
         if (!myFoodList.get(i).getImages().isEmpty()) {
             List<String> images = recipe.getImages();
-            Picasso.get().load(images.get(images.size() - 1)).into(foodViewHolder.imageView);
+            if (images.get(images.size() - 1).startsWith("https:")) {
+                Picasso.get().load(images.get(images.size() - 1)).into(foodViewHolder.imageView);
+            } else {
+                // Decode the image data from base64 to a Bitmap
+                byte[] imageData = Base64.decode(images.get(images.size() - 1), Base64.DEFAULT);
+                Bitmap bitmap = BitmapFactory.decodeByteArray(imageData, 0, imageData.length);
 
-        }else{
+                // Set the image for the ImageView
+                foodViewHolder.imageView.setImageBitmap(bitmap);
+            }
+        } else {
             foodViewHolder.imageView.setImageResource(R.drawable.iv_no_images_available);
         }
         foodViewHolder.mTitle.setText(recipe.getTitle());
@@ -60,20 +71,18 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
         setImageButtons(foodViewHolder, uid, recipe);
 
 
-
         foodViewHolder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(mContext,RecipePage.class);
-                recipe res= myFoodList.get(foodViewHolder.getAdapterPosition());
-                RecipePageFunctions.setIntentContent(intent,res);
+                Intent intent = new Intent(mContext, RecipePage.class);
+                recipe res = myFoodList.get(foodViewHolder.getAdapterPosition());
+                RecipePageFunctions.setIntentContent(intent, res);
                 mContext.startActivity(intent);
             }
         });
 
 
     }
-
 
 
     private void setDialogApproval(FoodViewHolder foodViewHolder, recipe r, String listName) {
@@ -90,8 +99,7 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
                 if (listName.equals("liked")) {
                     foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_not_filled);
                     foodViewHolder.CRUD.removeFromUserLists(singleValueList, "liked");
-                }
-                else if (listName.equals("cart")){
+                } else if (listName.equals("cart")) {
                     foodViewHolder.mCart.setImageResource(R.drawable.ic_baseline_add_shopping_cart_24_not_added);
                     foodViewHolder.CRUD.removeFromUserLists(singleValueList, "cart");
                 }
@@ -106,7 +114,7 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
     }
 
 
-    public void setImageButtons(FoodViewHolder foodViewHolder, String uid, recipe recipe){
+    public void setImageButtons(FoodViewHolder foodViewHolder, String uid, recipe recipe) {
         if (uid != null) {
             DatabaseReference usersRef = FirebaseDatabase.getInstance()
                     .getReference().child("users").child(uid);
@@ -118,12 +126,12 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
                         if (user != null) {
                             if (user.getLiked().contains(recipe.getTitle())) {
                                 foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_filled);
-                            }else{
+                            } else {
                                 foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_not_filled);
                             }
-                            if (user.getCart().contains(recipe.getTitle())){
+                            if (user.getCart().contains(recipe.getTitle())) {
                                 foodViewHolder.mCart.setImageResource(R.drawable.ic_baseline_shopping_cart_24);
-                            }else{
+                            } else {
                                 foodViewHolder.mCart.setImageResource(R.drawable.ic_baseline_add_shopping_cart_24_not_added);
                             }
                         }
@@ -146,8 +154,7 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
                                 if (user != null) {
                                     if (user.getLiked().contains(recipe.getTitle())) {
                                         setDialogApproval(foodViewHolder, recipe, "liked");
-                                    }
-                                    else{
+                                    } else {
                                         foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_filled);
                                         List<String> singleValueList = foodViewHolder.CRUD.getSingleValueList(recipe.getTitle());
                                         foodViewHolder.CRUD.addToUserLists(singleValueList, "liked");
@@ -174,8 +181,7 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
                                 if (user != null) {
                                     if (user.getCart().contains(recipe.getTitle())) {
                                         setDialogApproval(foodViewHolder, recipe, "cart");
-                                    }
-                                    else{
+                                    } else {
                                         foodViewHolder.mCart.setImageResource(R.drawable.ic_baseline_shopping_cart_24);
                                         List<String> singleValueList = foodViewHolder.CRUD.getSingleValueList(recipe.getTitle());
                                         foodViewHolder.CRUD.addToUserLists(singleValueList, "cart");
@@ -198,8 +204,7 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder>{
 }
 
 
-
-class FoodViewHolder extends RecyclerView.ViewHolder{
+class FoodViewHolder extends RecyclerView.ViewHolder {
 
     ImageView imageView;
     TextView mTitle, mCalories;

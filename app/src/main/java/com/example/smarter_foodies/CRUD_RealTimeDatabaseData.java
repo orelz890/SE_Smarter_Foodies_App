@@ -2,8 +2,15 @@ package com.example.smarter_foodies;
 
 import android.content.Intent;
 import android.content.res.AssetManager;
+import android.database.Cursor;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.net.Uri;
 import android.os.Bundle;
+import android.provider.MediaStore;
+import android.util.Base64;
 import android.util.Log;
+import android.widget.ImageView;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -21,10 +28,18 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
+import com.google.firebase.storage.FirebaseStorage;
+import com.google.firebase.storage.StorageMetadata;
+import com.google.firebase.storage.StorageReference;
+import com.google.firebase.storage.UploadTask;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
+import java.io.ByteArrayOutputStream;
+import java.io.File;
 import java.io.InputStream;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
@@ -493,7 +508,68 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         return strings;
     }
 
-}
 
+//    public void uploadImageToImageStorage(ImageView iv, recipe r, int i, Uri imgUri) {
+//
+//
+//        if (iv.getDrawable() == null) {
+//            // First, create a reference to the image file in Firebase Storage
+//            FirebaseStorage storage = FirebaseStorage.getInstance();
+//            StorageReference storageRef = storage.getReference()
+//                    .child("images")
+//                    .child(getAsCategoryString(r.getTitle()))
+//                    .child("" + i);
+//            // Upload the file to Firebase Storage
+//            storageRef.putFile(imgUri)
+//                    .addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSnapshot>() {
+//                        @Override
+//                        public void onSuccess(UploadTask.TaskSnapshot taskSnapshot) {
+//                            StorageMetadata metadata = taskSnapshot.getMetadata();
+//                            if (metadata != null) {
+//                                StorageReference reference = metadata.getReference();
+//                                if (reference != null) {
+//                                    // Get the URL of the image
+//                                    String imageUrl = reference.getDownloadUrl().toString();
+//                                    // Save the URL to the Firebase Realtime Database
+//                                    FirebaseDatabase database = FirebaseDatabase.getInstance();
+//                                    DatabaseReference myRef = database.getReference("image_url");
+//                                    myRef.setValue(imageUrl);
+//                                    uploadImageToRecipeImages(r.getMain_category(), r.getCategory(),
+//                                            r.getTitle(), imageUrl, i);
+//                                }
+//                            }
+//                        }
+//                    })
+//                    .addOnFailureListener(new OnFailureListener() {
+//                        @Override
+//                        public void onFailure(@NonNull Exception e) {
+//                            // Handle the error
+//                            System.out.println(e.getStackTrace());
+//                        }
+//                    });
+//        }
+//    }
+
+    public void uploadImageToRecipeImages(String category, String subCategory, String title, Uri imgUri, int pos) {
+        String path = imgUri.getPath();
+        // Convert image to base64-encoded string
+        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+        Bitmap bitmap = BitmapFactory.decodeFile(path);
+        bitmap.compress(Bitmap.CompressFormat.JPEG, 100, baos);
+        byte[] imageData = baos.toByteArray();
+        String imageDataBase64 = Base64.encodeToString(imageData, Base64.DEFAULT);
+        String main_category = getAsCategoryString(category);
+        String sub_category = getAsCategoryString(subCategory);
+        DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
+                .child("recipes").child(main_category).child(sub_category);
+        mDatabaseSearch.child(getAsCategoryString(title)).child("images").child("" + pos)
+                .setValue(imageDataBase64).addOnFailureListener(new OnFailureListener() {
+                    @Override
+                    public void onFailure(@NonNull Exception e) {
+                        e.printStackTrace();
+                    }
+                });
+    }
+}
 
 

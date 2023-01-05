@@ -2,9 +2,12 @@ package com.example.smarter_foodies;
 
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.net.Uri;
 import android.os.Bundle;
 import android.text.TextUtils;
+import android.util.Base64;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -438,7 +441,18 @@ public class UpdateRecipe extends DashboardActivity {
                                 if (!images.isEmpty()) {
                                     myImages.addAll(images);
                                     for (int i = 0; i < myImages.size(); i++) {
-                                        Picasso.get().load(myImages.get(i)).into(imageViews.get(i));
+                                        ImageView imageView = imageViews.get(i);
+                                        String imgUrl = myImages.get(i);
+                                        if (imgUrl.startsWith("https:")) {
+                                            Picasso.get().load(imgUrl).into(imageView);
+                                        }
+                                        else {
+                                            // Decode the image data from base64 to a Bitmap
+                                            byte[] imageData = Base64.decode(imgUrl, Base64.DEFAULT);
+                                            Bitmap bitmap = BitmapFactory.decodeByteArray(imageData, 0, imageData.length);
+                                            // Set the image for the ImageView
+                                            imageView.setImageBitmap(bitmap);
+                                        }
                                     }
                                 }
                                 etTitle.setText(r.getTitle());

@@ -7,6 +7,8 @@ import androidx.appcompat.app.AlertDialog;
 import android.annotation.SuppressLint;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.net.Uri;
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -34,7 +36,14 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.storage.FirebaseStorage;
+import com.google.firebase.storage.ListResult;
+import com.google.firebase.storage.StorageMetadata;
+import com.google.firebase.storage.StorageReference;
+import com.google.firebase.storage.UploadTask;
+import com.squareup.picasso.Picasso;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -76,7 +85,7 @@ public class AddRecipe extends DashboardActivity {
     Button btnSubmit;
 
     FloatingActionButton fab;
-    List<String> uploadedImages;
+    List<Uri> uploadedImages;
     List<ImageView> imageViews;
     List<ImageButton> deleteImageButtons;
 
@@ -133,6 +142,7 @@ public class AddRecipe extends DashboardActivity {
                     builder.setPositiveButton("yes", new DialogInterface.OnClickListener() {
                         @Override
                         public void onClick(DialogInterface dialogInterface, int which) {
+                            uploadedImages.remove(i);
                             imageViews.get(i).setImageDrawable(null);
                         }
                     });
@@ -178,12 +188,12 @@ public class AddRecipe extends DashboardActivity {
         if (data != null) {
             int Size = uploadedImages.size();
             if (Size < 4) {
+                Uri imgUri = data.getData();
                 for (ImageView iv : imageViews) {
                     if (iv.getDrawable() == null) {
-                        Uri imgUri = data.getData();
-                        iv.setImageURI(imgUri);
                         if (imgUri != null) {
-                            uploadedImages.add(imgUri.toString());
+                            iv.setImageURI(imgUri);
+                            uploadedImages.add(imgUri);
                             break;
                         }
                     }
@@ -391,17 +401,28 @@ public class AddRecipe extends DashboardActivity {
                         recipe r = new recipe(title, category, subCategory, new ArrayList<>(), directionsArray,
                                 calcTime(npPrepTime.getValue()),
                                 calcTime(npCookingTime.getValue()) + "",
-                                npServings.getValue() + "", npProtein.getValue() + "", "0",
-                                npFat.getValue() + "", npCarbs.getValue() + "", 0,
-                                new ArrayList<>(), 0, new HashMap<>(), "");
+                                npServings.getValue() + "", npProtein.getValue() + "",
+                                npCalories.getValue() + "", npFat.getValue() + "",
+                                npCarbs.getValue() + "", 0, new ArrayList<>(),
+                                0, new HashMap<>(), "");
                         r.setIngredients(ingredientsArray);
                         FirebaseUser currentUser = mAuth.getCurrentUser();
                         if (currentUser != null) {
                             r.setCopy_rights(currentUser.getUid());
                         }
-                        r.setImages(uploadedImages);
-                        // Load recipe to database
+                        if (uploadedImages.isEmpty()){
+                            imageViews.get(0).requestFocus();
+                            Toast.makeText(getApplicationContext(), "Please add at least 1 photo",
+                                    Toast.LENGTH_SHORT).show();
+                            return;
+                        }
                         CRUD.loadDishToDatabase(r);
+                        // Save the images in firebase storage & realtime
+                        for (int i = 0; i < uploadedImages.size(); i++) {
+                            CRUD.uploadImageToRecipeImages(r.getMain_category(), r.getCategory(),
+                                    r.getTitle(), uploadedImages.get(i), i);
+                        }
+                        // Load recipe to database
                         List<String> singleValueList = CRUD.getSingleValueList(r.getTitle());
                         // Add recipe to the user recipes
                         CRUD.addToUserLists(singleValueList, "recipes");

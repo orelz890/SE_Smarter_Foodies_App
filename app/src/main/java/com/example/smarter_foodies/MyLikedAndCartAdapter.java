@@ -4,6 +4,9 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.util.Base64;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -52,8 +55,16 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
         recipe recipe = myFoodList.get(i);
         if (!myFoodList.get(i).getImages().isEmpty()) {
             List<String> images = recipe.getImages();
-//            setBestImage(foodViewHolder, i);
-            Picasso.get().load(images.get(images.size() - 1)).resize(220, 220).into(foodViewHolder.imageView);
+            if (images.get(images.size() - 1).startsWith("https:")) {
+                Picasso.get().load(images.get(images.size() - 1)).into(foodViewHolder.imageView);
+            } else {
+                // Decode the image data from base64 to a Bitmap
+                byte[] imageData = Base64.decode(images.get(images.size() - 1), Base64.DEFAULT);
+                Bitmap bitmap = BitmapFactory.decodeByteArray(imageData, 0, imageData.length);
+
+                // Set the image for the ImageView
+                foodViewHolder.imageView.setImageBitmap(bitmap);
+            }
         }
         else{
             foodViewHolder.imageView.setImageResource(R.drawable.iv_no_images_available);

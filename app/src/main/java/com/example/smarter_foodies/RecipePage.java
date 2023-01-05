@@ -6,8 +6,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
+import android.util.Base64;
 import android.util.EventLogTags;
 import android.view.View;
 import android.widget.Button;
@@ -81,8 +84,18 @@ public class RecipePage extends AppCompatActivity {
     private void setBundleContent(Bundle mBundle){
         if(mBundle != null){
             String[] ImageUrl = mBundle.getStringArray("recipeImage");
-            if (ImageUrl != null && ImageUrl.length!=0 ){
-                Picasso.get().load(ImageUrl[ImageUrl.length-1]).into(recipeImage);
+            int size = ImageUrl.length;
+            if (size > 0){
+                if (ImageUrl[size - 1].startsWith("https:")) {
+                    Picasso.get().load(ImageUrl[size - 1]).into(recipeImage);
+                } else {
+                    // Decode the image data from base64 to a Bitmap
+                    byte[] imageData = Base64.decode(ImageUrl[size - 1], Base64.DEFAULT);
+                    Bitmap bitmap = BitmapFactory.decodeByteArray(imageData, 0, imageData.length);
+
+                    // Set the image for the ImageView
+                    recipeImage.setImageBitmap(bitmap);
+                }
             }
             else{
                 recipeImage.setImageResource(R.drawable.iv_no_images_available);
