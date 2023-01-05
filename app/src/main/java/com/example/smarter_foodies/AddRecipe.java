@@ -121,43 +121,26 @@ public class AddRecipe extends DashboardActivity {
     }
 
     public void setLongClickListeners(int i) {
-        imageViews.get(i).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                if (deleteImageButtons.get(i) != null) {
-                    deleteImageButtons.get(i).setVisibility(View.GONE);
-                }
-            }
-        });
         imageViews.get(i).setOnLongClickListener(new View.OnLongClickListener() {
             @Override
             public boolean onLongClick(View view) {
-                if (deleteImageButtons.get(i) != null) {
-                    deleteImageButtons.get(i).setVisibility(View.VISIBLE);
-                    deleteImageButtons.get(i).setOnClickListener(new View.OnClickListener() {
+                if (imageViews.get(i).getDrawable() != null) {
+                    AlertDialog.Builder builder = new AlertDialog.Builder(AddRecipe.this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
+                    final View customLayout = getLayoutInflater().inflate(R.layout.yes_no_dialog_layout, null);
+                    builder.setView(customLayout);
+                    builder.setCancelable(false);
+                    builder.setTitle("do you want to delete?");
+                    builder.setPositiveButton("yes", new DialogInterface.OnClickListener() {
                         @Override
-                        public void onClick(View view) {
-                            AlertDialog.Builder builder = new AlertDialog.Builder(AddRecipe.this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
-                            final View customLayout = getLayoutInflater().inflate(R.layout.yes_no_dialog_layout, null);
-                            builder.setView(customLayout);
-                            builder.setCancelable(false);
-                            builder.setTitle("r u sure?");
-                            builder.setPositiveButton("delete", new DialogInterface.OnClickListener() {
-                                @Override
-                                public void onClick(DialogInterface dialogInterface, int which) {
-                                    imageViews.get(i).setImageDrawable(null);
-                                    deleteImageButtons.get(i).setVisibility(View.GONE);
-                                }
-                            });
-
-                            builder.setNegativeButton("cancel", (dialogInterface, which) -> {
-                                deleteImageButtons.get(i).setVisibility(View.GONE);
-                            });
-                            AlertDialog dialog = builder.create();
-                            dialog.show();
-
+                        public void onClick(DialogInterface dialogInterface, int which) {
+                            imageViews.get(i).setImageDrawable(null);
                         }
                     });
+
+                    builder.setNegativeButton("no", (dialogInterface, which) -> {
+                    });
+                    AlertDialog dialog = builder.create();
+                    dialog.show();
                 }
                 return true;
             }
@@ -166,14 +149,10 @@ public class AddRecipe extends DashboardActivity {
 
     private void setImageButtons() {
         uploadedImages = new ArrayList<>();
-        imageViews.add((ImageView)findViewById(R.id.ib_upload_recipe_image));
-        imageViews.add((ImageView)findViewById(R.id.ib_upload_recipe_image2));
-        imageViews.add((ImageView)findViewById(R.id.ib_upload_recipe_image3));
+        imageViews.add((ImageView) findViewById(R.id.ib_upload_recipe_image));
+        imageViews.add((ImageView) findViewById(R.id.ib_upload_recipe_image2));
+        imageViews.add((ImageView) findViewById(R.id.ib_upload_recipe_image3));
         imageViews.add((ImageView) findViewById(R.id.ib_upload_recipe_image4));
-        deleteImageButtons.add((ImageButton)findViewById(R.id.delete_image_view));
-        deleteImageButtons.add((ImageButton)findViewById(R.id.delete_image_view2));
-        deleteImageButtons.add((ImageButton) findViewById(R.id.delete_image_view3));
-        deleteImageButtons.add((ImageButton)findViewById(R.id.delete_image_view4));
         for (int i = 0; i < imageViews.size(); i++) {
             setLongClickListeners(i);
         }
