@@ -82,7 +82,7 @@ public class RecipePageFunctions {
     public static void setIntentContent(Intent intent, recipe res) {
         //List<String> images = myFoodList.get(foodViewHolder.getAdapterPosition()).getImages();
 
-        intent.putExtra("recipeImage", RecipePageFunctions.List_of_string_to_array(res.getImages()));
+        //intent.putExtra("recipeImage", RecipePageFunctions.List_of_string_to_array(res.getImages()));
 
         intent.putExtra("CategoryAndSub", res.getCategory());
         intent.putExtra("name", res.getTitle());

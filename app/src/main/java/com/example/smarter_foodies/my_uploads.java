@@ -114,6 +114,7 @@ public class my_uploads extends DashboardActivity {
         }
     }
 
+    //לא צריך לעבור על כל הדאטהמ בייס י לעץ USERS בן של המתכנוים שלו
 
     private void setRecyclerAdapter(List<String> my_upload) {
 

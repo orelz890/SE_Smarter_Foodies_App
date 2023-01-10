@@ -174,6 +174,7 @@ public class UpdateRecipe extends DashboardActivity {
         });
     }
 
+
     @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
         try {
