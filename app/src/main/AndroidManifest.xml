@@ -54,6 +54,7 @@
         <activity android:name=".UpdateProfile" />
         <activity android:name=".RecipePage" />
         <activity android:name=".update_profile_photo" />
+        <activity android:name=".my_uploads" />
         <activity
             android:name=".UpdateRecipe"
             android:theme="@style/Theme.Smarter_Foodies.BackgroundUpdateImageStyle" />

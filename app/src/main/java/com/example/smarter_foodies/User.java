@@ -108,6 +108,8 @@ public class User {
         this.website = website;
     }
 
+    // liked
+
     public List<String> getLiked() {
         return liked;
     }
@@ -129,14 +131,24 @@ public class User {
             }
         }
     }
+    public void removeFromLiked(List<String> delList) {
+        this.liked.removeAll(delList);
+    }
 
     public void removeFromLiked(String r) {
         this.liked.remove(r);
     }
 
-    public void removeFromLiked(List<String> delList) {
-        this.liked.removeAll(delList);
+
+    public void addTomyRecipes(List<String> newRecipes) {
+        for (String r: newRecipes){
+            if (!this.myRecipes.contains(r)){
+                this.myRecipes.add(r);
+            }
+        }
     }
+
+    // cart
 
 
     public List<String> getCart() {
@@ -168,6 +180,9 @@ public class User {
     public void removeFromCart(List<String> delList) {
         this.cart.removeAll(delList);
     }
+
+
+    // my recipes
 
     public List<String> getMyRecipes() {
         return myRecipes;
@@ -214,7 +229,8 @@ public class User {
                 ", eating='" + eating + '\'' +
                 ", favorite='" + favorite + '\'' +
                 ", website='" + website + '\'' +
-                ", liked=" + liked +
+                ", liked=" + liked + '\'' +
+                ", myRecipes=" + myRecipes + '\'' +
                 ", cart=" + cart +
                 '}';
     }

@@ -108,6 +108,12 @@ public class update_profile_photo extends AppCompatActivity {
                 Uplodpic();
             }
         });
+        closeButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                closepic();
+            }
+        });
 
     }
 
@@ -139,7 +145,7 @@ public class update_profile_photo extends AppCompatActivity {
 //                    Toast.makeText(getApplicationContext(), "You have reached the limit of image uploads", Toast.LENGTH_SHORT).show();
 //                }
 //            } else {
-                Toast.makeText(getApplicationContext(), "You exceeded limit of images", Toast.LENGTH_SHORT).show();
+//                Toast.makeText(getApplicationContext(), "You exceeded limit of images", Toast.LENGTH_SHORT).show();
             }
 //        }
 //    } catch(
@@ -192,6 +198,18 @@ public class update_profile_photo extends AppCompatActivity {
         }
 
     }
+    public void closepic() {
+
+                    Intent intent = new Intent(update_profile_photo.this, profile_page.class);
+                    startActivity(intent);
+                    finish();
+
+
+            }
+
+
+
+
 
     public String getfileextension(Uri uri) {
         ContentResolver cr = getContentResolver();

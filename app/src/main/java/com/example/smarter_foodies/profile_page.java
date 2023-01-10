@@ -157,7 +157,7 @@ public class profile_page extends DashboardActivity {
     }
 
     private void moveto_my_upload_dishs() throws MessagingException, IOException, GeneralSecurityException {
-        startActivity(new Intent(profile_page.this, AddRecipe.class));
+        startActivity(new Intent(profile_page.this, my_uploads.class));
     }
 
     private void moveto_my_update_photo() throws MessagingException, IOException, GeneralSecurityException {
