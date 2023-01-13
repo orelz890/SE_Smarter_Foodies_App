@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:gravity="start"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:fillViewport="true"
+    android:gravity="start"
     android:padding="16dp">
 
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
         android:gravity="center"
+        android:orientation="vertical"
         android:padding="24dp"
         tools:context=".AddRecipe">
 
@@ -30,8 +29,7 @@
 
         <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            >
+            android:layout_height="match_parent">
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -42,8 +40,8 @@
                 <LinearLayout
                     android:layout_width="150dp"
                     android:layout_height="match_parent"
-                    android:gravity="center"
                     android:background="@drawable/user_images_upload"
+                    android:gravity="center"
                     android:orientation="vertical">
 
                     <ImageView
@@ -51,27 +49,25 @@
                         android:layout_width="165dp"
                         android:layout_height="105dp"
                         android:background="@drawable/user_images_upload"
-                        android:scaleType="centerCrop"
-                         />
+                        android:scaleType="centerCrop" />
 
 
                     <ImageView
                         android:id="@+id/ib_upload_recipe_image2"
                         android:layout_width="165dp"
                         android:layout_height="105dp"
-                        android:background="@drawable/user_images_upload"
-
                         android:layout_marginTop="2dp"
-                        android:scaleType="centerCrop"
-                         />
+
+                        android:background="@drawable/user_images_upload"
+                        android:scaleType="centerCrop" />
                 </LinearLayout>
 
                 <LinearLayout
                     android:layout_width="150dp"
                     android:layout_height="match_parent"
-                    android:gravity="center"
                     android:layout_marginLeft="2dp"
                     android:background="@drawable/user_images_upload"
+                    android:gravity="center"
                     android:orientation="vertical">
 
                     <ImageView
@@ -80,8 +76,7 @@
                         android:layout_height="105dp"
                         android:background="@drawable/user_images_upload"
 
-                        android:scaleType="centerCrop"
-                         />
+                        android:scaleType="centerCrop" />
 
                     <ImageView
                         android:id="@+id/ib_upload_recipe_image4"
@@ -89,18 +84,16 @@
                         android:layout_height="105dp"
                         android:layout_marginTop="2dp"
                         android:background="@drawable/user_images_upload"
-                        android:scaleType="centerCrop"
-                         />
+                        android:scaleType="centerCrop" />
                 </LinearLayout>
             </LinearLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:gravity="end"
                 android:layout_marginTop="175dp"
                 android:layout_marginEnd="0dp"
-                >
+                android:gravity="end">
 
                 <com.google.android.material.floatingactionbutton.FloatingActionButton
                     android:id="@+id/floatingActionButtonAddRecipe"
@@ -115,12 +108,12 @@
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
             app:boxBackgroundMode="outline"
             app:boxCornerRadiusBottomEnd="16dp"
             app:boxCornerRadiusBottomStart="16dp"
             app:boxCornerRadiusTopEnd="16dp"
             app:boxCornerRadiusTopStart="16dp"
-            android:layout_marginTop="10dp"
             app:counterEnabled="true"
             app:counterMaxLength="27"
             app:layout_constraintBottom_toBottomOf="parent"
@@ -134,8 +127,8 @@
                 android:layout_height="wrap_content"
 
                 android:hint="Recipe name"
-                android:textStyle="bold"
-                android:maxLength="20" />
+                android:maxLength="20"
+                android:textStyle="bold" />
         </com.google.android.material.textfield.TextInputLayout>
 
         <com.google.android.material.textfield.TextInputLayout
@@ -148,8 +141,8 @@
                 android:id="@+id/auto_complete_category"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textStyle="bold"
-                android:inputType="none" />
+                android:inputType="none"
+                android:textStyle="bold" />
 
             <com.google.android.material.textfield.TextInputLayout
                 style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense.ExposedDropdownMenu"
@@ -162,8 +155,8 @@
                     android:id="@+id/auto_complete_sub_category"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:textStyle="bold"
-                    android:inputType="none" />
+                    android:inputType="none"
+                    android:textStyle="bold" />
             </com.google.android.material.textfield.TextInputLayout>
 
         </com.google.android.material.textfield.TextInputLayout>
@@ -183,13 +176,43 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent">
 
-            <com.google.android.material.textfield.TextInputEditText
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:autofillHints="ingredients"
+            android:backgroundTint="@android:color/transparent"
+            android:foreground="@drawable/card_view_black_borders"
+            android:textStyle="bold"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="0dp">
+
+            <ImageButton
+                android:id="@+id/ib_add_ingredient"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_gravity="right"
+                android:adjustViewBounds="true"
+                android:background="@null"
+                android:src="@drawable/ic__add" />
+
+
+            <TextView
+
                 android:id="@+id/etIngredients"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textStyle="bold"
-                android:hint="Enter the ingredients(separated by enter)" />
-        </com.google.android.material.textfield.TextInputLayout>
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="5dp"
+                android:text="Add ingredients"
+                android:textColor="@color/dark_green"
+
+                android:textStyle="bold" />
+
+
+        </androidx.cardview.widget.CardView>
 
         <com.google.android.material.textfield.TextInputLayout
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
@@ -210,8 +233,8 @@
                 android:id="@+id/etDirections"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textStyle="bold"
-                android:hint="Enter the Directions(separated by enter)" />
+                android:hint="Enter the Directions(separated by enter)"
+                android:textStyle="bold" />
         </com.google.android.material.textfield.TextInputLayout>
 
         <RelativeLayout
@@ -231,15 +254,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textStyle="bold"
                     android:text="Cook time"
-                    android:textSize="16sp" />
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
 
                 <NumberPicker
                     android:id="@+id/npCookTime"
-                    android:layout_marginTop="25dp"
                     android:layout_width="wrap_content"
-                    android:layout_height="140dp" />
+                    android:layout_height="140dp"
+                    android:layout_marginTop="25dp" />
 
                 <androidx.coordinatorlayout.widget.CoordinatorLayout
                     android:layout_width="wrap_content"
@@ -249,9 +272,9 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="121dp"
-                        android:textStyle="bold"
                         android:text="Prep time"
-                        android:textSize="16sp" />
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
 
                     <NumberPicker
                         android:id="@+id/npPrepTime"
@@ -268,15 +291,15 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:textStyle="bold"
                         android:text="Servings"
-                        android:textSize="16sp" />
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
 
                     <NumberPicker
                         android:id="@+id/npServings"
-                        android:layout_marginTop="25dp"
                         android:layout_width="wrap_content"
-                        android:layout_height="140dp" />
+                        android:layout_height="140dp"
+                        android:layout_marginTop="25dp" />
                 </androidx.coordinatorlayout.widget.CoordinatorLayout>
 
             </androidx.coordinatorlayout.widget.CoordinatorLayout>
@@ -299,15 +322,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textStyle="bold"
                     android:text="Protein"
-                    android:textSize="16sp" />
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
 
                 <NumberPicker
                     android:id="@+id/npProtein"
-                    android:layout_marginTop="25dp"
                     android:layout_width="wrap_content"
-                    android:layout_height="140dp" />
+                    android:layout_height="140dp"
+                    android:layout_marginTop="25dp" />
 
                 <androidx.coordinatorlayout.widget.CoordinatorLayout
                     android:layout_width="wrap_content"
@@ -318,15 +341,15 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_gravity="center"
-                        android:textStyle="bold"
                         android:text="Fat"
-                        android:textSize="16sp" />
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
 
                     <NumberPicker
                         android:id="@+id/npFat"
-                        android:layout_marginTop="25dp"
                         android:layout_width="wrap_content"
-                        android:layout_height="140dp" />
+                        android:layout_height="140dp"
+                        android:layout_marginTop="25dp" />
                 </androidx.coordinatorlayout.widget.CoordinatorLayout>
 
                 <androidx.coordinatorlayout.widget.CoordinatorLayout
@@ -337,16 +360,16 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:textStyle="bold"
                         android:layout_gravity="center"
                         android:text="Carbs"
-                        android:textSize="16sp" />
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
 
                     <NumberPicker
                         android:id="@+id/npCarbs"
-                        android:layout_marginTop="25dp"
                         android:layout_width="wrap_content"
-                        android:layout_height="140dp" />
+                        android:layout_height="140dp"
+                        android:layout_marginTop="25dp" />
                 </androidx.coordinatorlayout.widget.CoordinatorLayout>
             </androidx.coordinatorlayout.widget.CoordinatorLayout>
         </RelativeLayout>
@@ -356,22 +379,21 @@
             android:layout_width="wrap_content"
             android:layout_height="180dp"
             android:layout_gravity="center"
-            android:layout_marginTop="25dp"
-            >
+            android:layout_marginTop="25dp">
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:textStyle="bold"
                 android:layout_gravity="center"
                 android:text="@string/calories"
-                android:textSize="16sp" />
+                android:textSize="16sp"
+                android:textStyle="bold" />
 
             <NumberPicker
                 android:id="@+id/npCalories"
-                android:layout_marginTop="25dp"
                 android:layout_width="wrap_content"
-                android:layout_height="140dp" />
+                android:layout_height="140dp"
+                android:layout_marginTop="25dp" />
         </androidx.coordinatorlayout.widget.CoordinatorLayout>
 
 

@@ -161,6 +161,12 @@ public class LoginGoogle extends AppCompatActivity {
                 @Override
                 public void onFailure(@NonNull Exception e) {
                     Toast.makeText(LoginGoogle.this, "Need to sign-in first!", Toast.LENGTH_LONG).show();
+
+                }
+            }).addOnFailureListener(new OnFailureListener() {
+                @Override
+                public void onFailure(@NonNull Exception e) {
+                    Toast.makeText(LoginGoogle.this, "Need to sign-in first!", Toast.LENGTH_LONG).show();
                 }
             });
         }

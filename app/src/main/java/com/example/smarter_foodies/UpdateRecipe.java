@@ -1,15 +1,25 @@
 package com.example.smarter_foodies;
 
+import static com.example.smarter_foodies.AddRecipe.ingredients;
+
+import android.app.Dialog;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
+import android.text.InputType;
 import android.text.TextUtils;
 import android.util.Base64;
+import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.view.ViewGroup;
+import android.view.Window;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
@@ -18,7 +28,9 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.ListView;
 import android.widget.NumberPicker;
+import android.widget.TextView;
 import android.widget.Toast;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
@@ -54,7 +66,7 @@ public class UpdateRecipe extends DashboardActivity {
     DatabaseReference mDatabase;
     // Text inputs from the user
     TextInputEditText etTitle;
-    TextInputEditText etIngredients;
+    TextView etIngredients;
     TextInputEditText etDirections;
     // Main & sub categories as the user wish
     AutoCompleteTextView autoCompleteCategory;
@@ -81,6 +93,20 @@ public class UpdateRecipe extends DashboardActivity {
 
     CRUD_RealTimeDatabaseData CRUD;
 
+    ArrayList<String> selectedIn;
+    ImageButton addIngredients;
+
+    AutoCompleteTextView autoCompleteSearchView;
+    ImageButton submit;
+    ArrayAdapter<String> arraySearchAdapter;
+
+    ArrayList<String> ingredientNamesList;
+    static ArrayList<String> selectedIngredients;
+    static ListView listView;
+    static ListViewAdapter adapter;
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -97,6 +123,11 @@ public class UpdateRecipe extends DashboardActivity {
         CRUD = new CRUD_RealTimeDatabaseData();
         myImages = new ArrayList<>();
         imageViews = new ArrayList<>();
+
+        addIngredients = findViewById(R.id.ib_add_ingredientUpdate);
+        etIngredients = findViewById(R.id.etIngredientsUpdate);
+
+
         // Get the name of the recipe
         setDialogGetRecipeName();
         // Fill the categories list which the user can chose from
@@ -104,6 +135,126 @@ public class UpdateRecipe extends DashboardActivity {
         createAllAutoCompleteTextViews("", "");
         //    ========================= Get data from user =============================================
         createAllNumberPickers();
+
+
+        //selectedIn = new ArrayList<>();
+        addIngredients.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                UpdateIngredientDialog();
+
+            }
+        });
+
+
+    }
+
+    private void UpdateIngredientDialog() {
+        Dialog dialog = new Dialog(this);
+        dialog.setContentView(R.layout.insert_ingre_page);
+        Window window = dialog.getWindow();
+        window.setLayout(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT);
+        window.setGravity(Gravity.CENTER);
+        submit = dialog.findViewById(R.id.submitIngre);
+        listView = dialog.findViewById(R.id.product_list);
+        autoCompleteSearchView = dialog.findViewById(R.id.searchView);
+        dialog.show();
+        ingredientNamesList = new ArrayList<>();
+
+        if (selectedIngredients == null || selectedIngredients.size() == 0) {
+            selectedIngredients = new ArrayList<>();
+        }
+        adapter = new ListViewAdapter(dialog.getContext(), selectedIngredients, "update");
+        listView.setAdapter(adapter);
+
+        CRUD = new CRUD_RealTimeDatabaseData();
+
+        submit.setOnClickListener(view -> {
+            String data = ingredients(selectedIngredients);
+            System.out.println(data);
+            etIngredients.setText(data);
+            dialog.dismiss();
+        });
+
+        InitAutoCompleteSearchView(dialog);
+    }
+
+    // Set the filter names list + set adapter for the autoCompleteSearchView
+    private void InitAutoCompleteSearchView(Dialog d) {
+        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
+                .getReference().child("ingredients");
+        mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
+            @Override
+            public void onSuccess(DataSnapshot dataSnapshot) {
+                if (dataSnapshot.exists()) {
+                    ingredientNamesList.clear();
+                    for (DataSnapshot snapshot : dataSnapshot.getChildren()) {
+                        String name = snapshot.getValue(String.class);
+                        ingredientNamesList.add(name);
+                    }
+                    arraySearchAdapter = new ArrayAdapter<>(UpdateRecipe.this, android.R.layout.simple_list_item_activated_1, ingredientNamesList);
+                    autoCompleteSearchView.setAdapter(arraySearchAdapter);
+                    autoCompleteSearchView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                        @Override
+                        public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
+                            String ingredient = parent.getItemAtPosition(pos).toString();
+                            addIngredientAmountDialog(ingredient,d);
+                            autoCompleteSearchView.setText("");
+
+                        }
+                    });
+                    autoCompleteSearchView.setOnDismissListener(new AutoCompleteTextView.OnDismissListener() {
+                        @Override
+                        public void onDismiss() {
+                            // Hide my keyboard
+                            InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
+                            imm.hideSoftInputFromWindow(d.getCurrentFocus().getApplicationWindowToken(), 0);
+                        }
+                    });
+                }
+            }
+        });
+    }
+
+
+    private void addIngredientAmountDialog(String ingredient, Dialog d) {
+        AlertDialog.Builder builder = new AlertDialog.Builder(UpdateRecipe.this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
+        EditText editTextGrams = new EditText(this);
+        editTextGrams.setInputType(InputType.TYPE_CLASS_NUMBER);
+        editTextGrams.setTextColor(Color.rgb(255, 255, 255));
+        builder.setView(editTextGrams);
+        builder.setCancelable(false);
+        builder.setTitle("The " + ingredient + "'s Amount in [g]");
+        builder.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int which) {
+//                System.out.println("category- " + category + "\tsubCategory- " + subCategory);
+                if (editTextGrams.getText().toString().isEmpty() || editTextGrams.getText().toString().charAt(0) == '0') {
+                    Toast.makeText(builder.getContext(), "Please try again", Toast.LENGTH_LONG).show();
+                    addIngredientAmountDialog(ingredient,d);
+                } else {
+                    addItem(editTextGrams.getText().toString(), ingredient);
+                    Toast.makeText(builder.getContext(), "added successfully", Toast.LENGTH_LONG).show();
+
+                }
+            }
+        });
+
+        builder.setNegativeButton("Cancel", (dialogInterface, which) -> {
+            InitAutoCompleteSearchView(d);
+        });
+        AlertDialog dialog = builder.create();
+        dialog.show();
+    }
+
+    public static void removeItem(int i) {
+        selectedIngredients.remove(i);
+        listView.setAdapter(adapter);
+    }
+
+    private static void addItem(String amount, String ingredient) {
+        selectedIngredients.add(amount + ":" + ingredient);
+        adapter.notifyDataSetChanged();
     }
 
     public void setLongClickListeners(int i) {
@@ -336,7 +487,6 @@ public class UpdateRecipe extends DashboardActivity {
 
     private void createAllNumberPickers() {
         etTitle = findViewById(R.id.etTitle);
-        etIngredients = findViewById(R.id.etIngredients);
         etDirections = findViewById(R.id.etDirections);
         npCookingTime = findViewById(R.id.npCookTime);
         npCookingTime.setValue(-1);
@@ -411,28 +561,28 @@ public class UpdateRecipe extends DashboardActivity {
     }
 
     private void submitRecipe() {
-        String ingredients = etIngredients.getText().toString();
-        System.out.println(ingredients);
-        String[] ingredients_list = ingredients.split("\n");
-        if (TextUtils.isEmpty(ingredients)) {
-            etIngredients.setError("Ingredients cannot be empty");
-            etIngredients.requestFocus();
-            return;
-        } else {
-            for (String s : ingredients_list) {
-                if (!s.equals("\n")) {
-                    String[] temp = s.trim().split(" ");
-                    try {
-                        Double.parseDouble(temp[0]);
-                    } catch (Exception e) {
-                        etIngredients.setError("Every Ingredient must begin with the quantity..");
-                        etIngredients.requestFocus();
-                        return;
-                    }
-                }
-            }
-        }
-        List<String> ingredientsArray = new ArrayList<>(Arrays.asList(ingredients_list));
+//        String ingredients = etIngredients.getText().toString();
+//        System.out.println(ingredients);
+//        String[] ingredients_list = ingredients.split("\n");
+//        if (TextUtils.isEmpty(ingredients)) {
+//            etIngredients.setError("Ingredients cannot be empty");
+//            etIngredients.requestFocus();
+//            return;
+//        } else {
+//            for (String s : ingredients_list) {
+//                if (!s.equals("\n")) {
+//                    String[] temp = s.trim().split(" ");
+//                    try {
+//                        Double.parseDouble(temp[0]);
+//                    } catch (Exception e) {
+//                        etIngredients.setError("Every Ingredient must begin with the quantity..");
+//                        etIngredients.requestFocus();
+//                        return;
+//                    }
+//                }
+//            }
+//        }
+        List<String> ingredientsArray = new ArrayList<>(selectedIngredients);
 
         String directions = etDirections.getText().toString();
         String[] directions_list = directions.split("\n");
@@ -510,12 +660,9 @@ public class UpdateRecipe extends DashboardActivity {
                                     directionsView.append(s).append("\n");
                                 }
                                 etDirections.setText(directionsView);
-                                List<String> ingredients = r.getIngredients();
-                                StringBuilder ingredientsView = new StringBuilder();
-                                for (String s : ingredients) {
-                                    ingredientsView.append(s).append("\n");
-                                }
-                                etIngredients.setText(ingredientsView);
+                                selectedIngredients = new ArrayList<>(r.getIngredients());
+                                System.out.println("get fron database " + selectedIn);
+                                etIngredients.setText(ingredients(selectedIn));
                                 category = r.getMain_category();
                                 subCategory = r.getCategory();
                                 change_adapter_to_original_values();
@@ -550,6 +697,8 @@ public class UpdateRecipe extends DashboardActivity {
             }
         });
     }
+
+
 
     private String calcTime(int min){
         if (min < 60){

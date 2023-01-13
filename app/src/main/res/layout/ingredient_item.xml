@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:orientation="vertical"-->
+<!--&gt;-->
+
+<!--    -->
+<!--      -->
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:orientation="horizontal"-->
+<!--            android:background="@color/dark_green">-->
+
+<!--            <ImageButton-->
+<!--                android:id="@+id/ib_remove_ingre"-->
+<!--                android:layout_width="20dp"-->
+<!--                android:layout_height="20dp"-->
+<!--                android:layout_marginTop="20dp"-->
+<!--                android:layout_marginRight="20dp"-->
+<!--                android:layout_gravity="right"-->
+<!--                android:adjustViewBounds="true"-->
+<!--                android:background="@null"-->
+<!--                android:src="@drawable/ic_remove_recipe_recycler">-->
+<!--            </ImageButton>-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/ingredient_title"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginLeft="7dp"-->
+<!--                android:layout_marginTop="5dp"-->
+<!--                android:hint="Ingredient title"-->
+<!--                android:textSize="20sp" />-->
+
+
+<!--        </LinearLayout>-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/amount"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginLeft="28dp"-->
+<!--        android:layout_marginTop="28dp"-->
+<!--        android:hint="Amount [g]"-->
+<!--        android:textSize="13sp" />-->
+
+
+<!--</LinearLayout>-->
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/myCardLikedView"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginEnd="4dp"
+            android:layout_marginBottom="4dp"
+            android:backgroundTint="@color/Azure"
+            app:cardUseCompatPadding="true">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:weightSum="3">
+
+                <LinearLayout
+                    android:id="@+id/liked_title_layout"
+                    android:layout_width="300dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="44dp"
+                    android:layout_weight="1.5"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:weightSum="2">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="bottom">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/ingredient_title"
+                                android:layout_width="295dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="40dp"
+                                android:maxLines="1"
+                                android:text="Title"
+                                android:textColor="@color/black"
+                                android:textSize="18sp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/amount"
+                                android:layout_width="285dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="40dp"
+                                android:text="Amount"
+                                android:textColor="@color/darkGray"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="45dp"
+                            android:layout_marginRight="1dp"
+                            android:gravity="end"
+                            android:orientation="horizontal">
+
+
+                        </LinearLayout>
+                    </RelativeLayout>
+
+
+                </LinearLayout>
+
+                <ImageButton
+                    android:id="@+id/ib_remove_ingre"
+                    android:layout_width="wrap_content"
+                    android:layout_height="44dp"
+                    android:layout_marginRight="40dp"
+                    android:background="@null"
+                    android:src="@drawable/ic_remove_recipe_recycler" />
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

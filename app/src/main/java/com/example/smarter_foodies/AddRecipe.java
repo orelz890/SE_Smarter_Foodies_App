@@ -4,31 +4,39 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 
-import android.annotation.SuppressLint;
+import android.app.Dialog;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
+import android.text.InputType;
 import android.text.TextUtils;
 import android.util.Base64;
+import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.view.ViewGroup;
+import android.view.Window;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.ListView;
 import android.widget.NumberPicker;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import com.github.drjacky.imagepicker.ImagePicker;
 import com.google.android.gms.tasks.OnCompleteListener;
-import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
@@ -38,18 +46,10 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.storage.FirebaseStorage;
-import com.google.firebase.storage.ListResult;
-import com.google.firebase.storage.StorageMetadata;
-import com.google.firebase.storage.StorageReference;
-import com.google.firebase.storage.UploadTask;
-import com.squareup.picasso.Picasso;
 
 import java.io.ByteArrayOutputStream;
-import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
@@ -69,7 +69,8 @@ public class AddRecipe extends DashboardActivity {
     DatabaseReference mDatabase;
     // Text inputs from the user
     TextInputEditText etTitle;
-    TextInputEditText etIngredients;
+    TextView etIngredients;
+    ImageButton addIngredients;
     TextInputEditText etDirections;
     // Main & sub categories as the user wish
     AutoCompleteTextView autoCompleteCategory;
@@ -92,7 +93,20 @@ public class AddRecipe extends DashboardActivity {
     List<ImageView> imageViews;
     List<ImageButton> deleteImageButtons;
 
+    AutoCompleteTextView autoCompleteSearchView;
+    ImageButton submit;
+    ArrayAdapter<String> arraySearchAdapter;
+
+    ArrayList<String> ingredientNamesList;
+    static ArrayList<String> selectedIngredients;
+    static ListView listView;
+    static ListViewAdapter adapter;
+
+
     CRUD_RealTimeDatabaseData CRUD;
+    Bundle mbBundle;
+    ArrayList<String> selectedIn;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -103,6 +117,10 @@ public class AddRecipe extends DashboardActivity {
         rootLayout.addView(activityMainView);
         setContentView(rootLayout);
         allocateActivityTitle("AddRecipe");
+
+        etIngredients = findViewById(R.id.etIngredients);
+        addIngredients = findViewById(R.id.ib_add_ingredient);
+
 
         mAuth = FirebaseAuth.getInstance();
         // Create reference to the firebase real time database
@@ -119,6 +137,30 @@ public class AddRecipe extends DashboardActivity {
         this.createAllNumberPickers();
         this.createAllButtons();
         this.createAllAutoCompleteTextViews();
+
+        addIngredients.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                addIngredientDialog();
+            }
+        });
+    }
+
+
+
+
+    public static String ingredients(ArrayList<String> ingredients) {
+        System.out.println("in in");
+        String ingredient = "";
+        if (ingredients != null) {
+            for (int i = 0; i < ingredients.size(); i++) {
+                ingredient = ingredient + ingredients.get(i).replace(":", " ") + "\n";
+            }
+            System.out.println("out out");
+            return ingredient;
+        }
+        System.out.println("out out 2");
+        return " no inga V2 ";
     }
 
     private void fillCategoriesList() {
@@ -268,7 +310,6 @@ public class AddRecipe extends DashboardActivity {
 
     private void createAllNumberPickers() {
         etTitle = findViewById(R.id.etTitle);
-        etIngredients = findViewById(R.id.etIngredients);
         etDirections = findViewById(R.id.etDirections);
         npCookingTime = findViewById(R.id.npCookTime);
         npCookingTime.setValue(-1);
@@ -374,28 +415,30 @@ public class AddRecipe extends DashboardActivity {
                         }
                     }
 
-                    String ingredients = etIngredients.getText().toString();
-                    System.out.println(ingredients);
-                    String[] ingredients_list = ingredients.split("\n");
-                    if (TextUtils.isEmpty(ingredients)) {
-                        etIngredients.setError("Ingredients cannot be empty");
-                        etIngredients.requestFocus();
-                        return;
-                    } else {
-                        for (String s : ingredients_list) {
-                            if (!s.equals("\n")) {
-                                String[] temp = s.trim().split(" ");
-                                try {
-                                    Double.parseDouble(temp[0]);
-                                } catch (Exception e) {
-                                    etIngredients.setError("Every Ingredient must begin with the quantity..");
-                                    etIngredients.requestFocus();
-                                    return;
-                                }
-                            }
-                        }
-                    }
-                    List<String> ingredientsArray = new ArrayList<>(Arrays.asList(ingredients_list));
+//                    String ingredients = etIngredients.getText().toString();
+//                    System.out.println(ingredients);
+//                    String[] ingredients_list = ingredients.split("\n");
+//                    if (TextUtils.isEmpty(ingredients)) {
+//                        etIngredients.setError("Ingredients cannot be empty");
+//                        etIngredients.requestFocus();
+//                        return;
+//                    } else {
+//                        for (String s : ingredients_list) {
+//                            if (!s.equals("\n")) {
+//                                String[] temp = s.trim().split(" ");
+//                                try {
+//                                    Double.parseDouble(temp[0]);
+//                                } catch (Exception e) {
+//                                    etIngredients.setError("Every Ingredient must begin with the quantity..");
+//                                    etIngredients.requestFocus();
+//                                    return;
+//                                }
+//                            }
+//                        }
+//                    }
+//                    List<String> ingredientsArray = new ArrayList<>(Arrays.asList(ingredients_list));
+                    List<String> ingredientsArray = new ArrayList<>(selectedIngredients);
+
 
                     String directions = etDirections.getText().toString();
                     String[] directions_list = directions.split("\n");
@@ -500,6 +543,115 @@ public class AddRecipe extends DashboardActivity {
         } else {
             return (int) min / 60 + " hrs " + min % 60 + " mins";
         }
+    }
+
+    public void addIngredientDialog() {
+        Dialog dialog = new Dialog(this);
+        dialog.setContentView(R.layout.insert_ingre_page);
+        Window window = dialog.getWindow();
+        window.setLayout(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT);
+        window.setGravity(Gravity.CENTER);
+        submit = dialog.findViewById(R.id.submitIngre);
+        listView = dialog.findViewById(R.id.product_list);
+        autoCompleteSearchView = dialog.findViewById(R.id.searchView);
+        dialog.show();
+        ingredientNamesList = new ArrayList<>();
+
+        if (selectedIngredients == null || selectedIngredients.size() == 0) {
+            selectedIngredients = new ArrayList<>();
+        }
+        adapter = new ListViewAdapter(dialog.getContext(), selectedIngredients, "add");
+        listView.setAdapter(adapter);
+
+        CRUD = new CRUD_RealTimeDatabaseData();
+
+        submit.setOnClickListener(view -> {
+            String data = ingredients(selectedIngredients);
+            System.out.println(data);
+            etIngredients.setText(data);
+            dialog.dismiss();
+        });
+
+        InitAutoCompleteSearchView(dialog);
+
+    }
+
+
+    // Set the filter names list + set adapter for the autoCompleteSearchView
+    private void InitAutoCompleteSearchView(Dialog d) {
+        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
+                .getReference().child("ingredients");
+        mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
+            @Override
+            public void onSuccess(DataSnapshot dataSnapshot) {
+                if (dataSnapshot.exists()) {
+                    ingredientNamesList.clear();
+                    for (DataSnapshot snapshot : dataSnapshot.getChildren()) {
+                        String name = snapshot.getValue(String.class);
+                        ingredientNamesList.add(name);
+                    }
+                    arraySearchAdapter = new ArrayAdapter<>(AddRecipe.this, android.R.layout.simple_list_item_activated_1, ingredientNamesList);
+                    autoCompleteSearchView.setAdapter(arraySearchAdapter);
+                    autoCompleteSearchView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                        @Override
+                        public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
+                            String ingredient = parent.getItemAtPosition(pos).toString();
+                            addIngredientAmountDialog(ingredient,d);
+                            autoCompleteSearchView.setText("");
+
+                        }
+                    });
+                    autoCompleteSearchView.setOnDismissListener(new AutoCompleteTextView.OnDismissListener() {
+                        @Override
+                        public void onDismiss() {
+                            // Hide my keyboard
+                            InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
+                            imm.hideSoftInputFromWindow(d.getCurrentFocus().getApplicationWindowToken(), 0);
+                        }
+                    });
+                }
+            }
+        });
+    }
+
+    private void addIngredientAmountDialog(String ingredient, Dialog d) {
+        AlertDialog.Builder builder = new AlertDialog.Builder(AddRecipe.this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
+        EditText editTextGrams = new EditText(this);
+        editTextGrams.setInputType(InputType.TYPE_CLASS_NUMBER);
+        editTextGrams.setTextColor(Color.rgb(255, 255, 255));
+        builder.setView(editTextGrams);
+        builder.setCancelable(false);
+        builder.setTitle("The " + ingredient + "'s Amount in [g]");
+        builder.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int which) {
+//                System.out.println("category- " + category + "\tsubCategory- " + subCategory);
+                if (editTextGrams.getText().toString().isEmpty() || editTextGrams.getText().toString().charAt(0) == '0') {
+                    Toast.makeText(builder.getContext(), "Please try again", Toast.LENGTH_LONG).show();
+                    addIngredientAmountDialog(ingredient,d);
+                } else {
+                    addItem(editTextGrams.getText().toString(), ingredient);
+                    Toast.makeText(builder.getContext(), "added successfully", Toast.LENGTH_LONG).show();
+
+                }
+            }
+        });
+
+        builder.setNegativeButton("Cancel", (dialogInterface, which) -> {
+            InitAutoCompleteSearchView(d);
+        });
+        AlertDialog dialog = builder.create();
+        dialog.show();
+    }
+
+    public static void removeItem(int i) {
+        selectedIngredients.remove(i);
+        listView.setAdapter(adapter);
+    }
+
+    private static void addItem(String amount, String ingredient) {
+        selectedIngredients.add(amount + ":" + ingredient);
+        adapter.notifyDataSetChanged();
     }
 
 }

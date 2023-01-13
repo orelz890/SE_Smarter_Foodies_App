@@ -1,38 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:gravity="start"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:fillViewport="true"
+    android:gravity="start"
     android:padding="16dp">
 
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
         android:gravity="center"
+        android:orientation="vertical"
         android:padding="24dp"
         tools:context=".UpdateRecipe">
 
-<!--        <TextView-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:layout_marginVertical="16dp"-->
-<!--            android:gravity="center_horizontal"-->
-<!--            android:text="Update Recipe"-->
-<!--            android:textColor="@color/teal_700"-->
-<!--            android:textSize="20sp"-->
-<!--            android:textStyle="bold" />-->
+        <!--        <TextView-->
+        <!--            android:layout_width="wrap_content"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:layout_marginVertical="16dp"-->
+        <!--            android:gravity="center_horizontal"-->
+        <!--            android:text="Update Recipe"-->
+        <!--            android:textColor="@color/teal_700"-->
+        <!--            android:textSize="20sp"-->
+        <!--            android:textStyle="bold" />-->
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:gravity="right">
+            android:gravity="right"
+            android:orientation="horizontal">
 
             <ImageButton
                 android:id="@+id/ib_remove_recipe"
@@ -45,10 +44,11 @@
             </ImageButton>
 
         </LinearLayout>
+
         <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            >
+            android:layout_height="match_parent">
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -58,21 +58,20 @@
                 <LinearLayout
                     android:layout_width="150dp"
                     android:layout_height="match_parent"
-                    android:gravity="center"
                     android:background="@drawable/user_images_upload"
+                    android:gravity="center"
                     android:orientation="vertical">
 
                     <RelativeLayout
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        >
+                        android:layout_height="wrap_content">
+
                         <ImageView
                             android:id="@+id/ib_update_upload_recipe_image"
                             android:layout_width="165dp"
                             android:layout_height="105dp"
                             android:background="@drawable/user_images_upload"
-                            android:scaleType="centerCrop"
-                            />
+                            android:scaleType="centerCrop" />
 
                         <ImageButton
                             android:id="@+id/delete_image_view"
@@ -80,21 +79,19 @@
                             android:layout_height="wrap_content"
                             android:layout_marginStart="120dp"
                             android:src="@drawable/ic_baseline_remove_24"
-                            android:visibility="gone"
-                            />
+                            android:visibility="gone" />
                     </RelativeLayout>
 
                     <RelativeLayout
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        >
+                        android:layout_height="wrap_content">
+
                         <ImageView
                             android:id="@+id/ib_update_upload_recipe_image2"
                             android:layout_width="165dp"
                             android:layout_height="105dp"
                             android:background="@drawable/user_images_upload"
-                            android:scaleType="centerCrop"
-                            />
+                            android:scaleType="centerCrop" />
 
                         <ImageButton
                             android:id="@+id/delete_image_view2"
@@ -102,30 +99,28 @@
                             android:layout_height="wrap_content"
                             android:layout_marginStart="120dp"
                             android:src="@drawable/ic_baseline_remove_24"
-                            android:visibility="gone"
-                            />
+                            android:visibility="gone" />
                     </RelativeLayout>
                 </LinearLayout>
 
                 <LinearLayout
                     android:layout_width="150dp"
                     android:layout_height="match_parent"
-                    android:gravity="center"
                     android:layout_marginLeft="2dp"
                     android:background="@drawable/user_images_upload"
+                    android:gravity="center"
                     android:orientation="vertical">
 
                     <RelativeLayout
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        >
+                        android:layout_height="wrap_content">
+
                         <ImageView
                             android:id="@+id/ib_update_upload_recipe_image3"
                             android:layout_width="165dp"
                             android:layout_height="105dp"
                             android:background="@drawable/user_images_upload"
-                            android:scaleType="centerCrop"
-                            />
+                            android:scaleType="centerCrop" />
 
                         <ImageButton
                             android:id="@+id/delete_image_view3"
@@ -133,21 +128,19 @@
                             android:layout_height="wrap_content"
                             android:layout_marginStart="120dp"
                             android:src="@drawable/ic_baseline_remove_24"
-                            android:visibility="gone"
-                            />
+                            android:visibility="gone" />
                     </RelativeLayout>
 
                     <RelativeLayout
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        >
+                        android:layout_height="wrap_content">
+
                         <ImageView
                             android:id="@+id/ib_update_upload_recipe_image4"
                             android:layout_width="165dp"
                             android:layout_height="105dp"
                             android:background="@drawable/user_images_upload"
-                            android:scaleType="centerCrop"
-                            />
+                            android:scaleType="centerCrop" />
 
                         <ImageButton
                             android:id="@+id/delete_image_view4"
@@ -155,8 +148,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginStart="120dp"
                             android:src="@drawable/ic_baseline_remove_24"
-                            android:visibility="gone"
-                            />
+                            android:visibility="gone" />
                     </RelativeLayout>
                 </LinearLayout>
             </LinearLayout>
@@ -165,18 +157,16 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:gravity="end"
                 android:layout_marginTop="170dp"
                 android:layout_marginEnd="0dp"
-                >
+                android:gravity="end">
 
                 <com.google.android.material.floatingactionbutton.FloatingActionButton
                     android:id="@+id/floatingActionButtonAddRecipes"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:clickable="true"
-                    app:srcCompat="@drawable/ic_photo_camera_black_48dp"
-                    />
+                    app:srcCompat="@drawable/ic_photo_camera_black_48dp" />
             </LinearLayout>
         </RelativeLayout>
 
@@ -185,6 +175,8 @@
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textColorHint="@color/dark_green"
             app:boxBackgroundMode="outline"
             app:boxCornerRadiusBottomEnd="16dp"
             app:boxCornerRadiusBottomStart="16dp"
@@ -192,8 +184,6 @@
             app:boxCornerRadiusTopStart="16dp"
             app:counterEnabled="true"
             app:counterMaxLength="27"
-            android:layout_marginTop="20dp"
-            android:textColorHint="@color/dark_green"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -203,11 +193,11 @@
                 android:id="@+id/etTitle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Recipe name"
-                android:textStyle="bold"
                 android:enabled="false"
+                android:hint="Recipe name"
+                android:maxLength="27"
                 android:textColorHighlight="@color/purple_200"
-                android:maxLength="27" />
+                android:textStyle="bold" />
         </com.google.android.material.textfield.TextInputLayout>
 
         <com.google.android.material.textfield.TextInputLayout
@@ -247,23 +237,49 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
+            android:textColorHint="@color/dark_green"
             app:boxBackgroundMode="outline"
             app:boxCornerRadiusBottomEnd="16dp"
             app:boxCornerRadiusBottomStart="16dp"
             app:boxCornerRadiusTopEnd="16dp"
             app:boxCornerRadiusTopStart="16dp"
-            android:textColorHint="@color/dark_green"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent">
 
-            <com.google.android.material.textfield.TextInputEditText
-                android:id="@+id/etIngredients"
+            <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:autofillHints="ingredients"
+                android:backgroundTint="@android:color/transparent"
+                android:foreground="@drawable/card_view_black_borders"
                 android:textStyle="bold"
-                android:hint="Enter the ingredients(separated by enter)" />
+                app:cardCornerRadius="20dp"
+                app:cardElevation="0dp">
+
+                <ImageButton
+                    android:id="@+id/ib_add_ingredientUpdate"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="right"
+                    android:adjustViewBounds="true"
+                    android:background="@null"
+                    android:src="@drawable/ic__add" />
+
+                <TextView
+                    android:id="@+id/etIngredientsUpdate"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="5dp"
+                    android:text="Add ingredients"
+                    android:textColor="@color/dark_green"
+                    android:textStyle="bold" />
+
+
+            </androidx.cardview.widget.CardView>
         </com.google.android.material.textfield.TextInputLayout>
 
         <com.google.android.material.textfield.TextInputLayout
@@ -271,12 +287,12 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
+            android:textColorHint="@color/dark_green"
             app:boxBackgroundMode="outline"
             app:boxCornerRadiusBottomEnd="16dp"
             app:boxCornerRadiusBottomStart="16dp"
             app:boxCornerRadiusTopEnd="16dp"
             app:boxCornerRadiusTopStart="16dp"
-            android:textColorHint="@color/dark_green"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -286,8 +302,8 @@
                 android:id="@+id/etDirections"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textStyle="bold"
-                android:hint="Enter the Directions(separated by enter)" />
+                android:hint="Enter the Directions(separated by enter)"
+                android:textStyle="bold" />
         </com.google.android.material.textfield.TextInputLayout>
 
         <RelativeLayout
@@ -307,16 +323,16 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textColor="@color/dark_green"
-                    android:textStyle="bold"
                     android:text="Cook time"
-                    android:textSize="16sp" />
+                    android:textColor="@color/dark_green"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
 
                 <NumberPicker
                     android:id="@+id/npCookTime"
-                    android:layout_marginTop="25dp"
                     android:layout_width="wrap_content"
-                    android:layout_height="140dp" />
+                    android:layout_height="140dp"
+                    android:layout_marginTop="25dp" />
 
                 <androidx.coordinatorlayout.widget.CoordinatorLayout
                     android:layout_width="wrap_content"
@@ -326,10 +342,10 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="121dp"
-                        android:textColor="@color/dark_green"
-                        android:textStyle="bold"
                         android:text="Prep time"
-                        android:textSize="16sp" />
+                        android:textColor="@color/dark_green"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
 
                     <NumberPicker
                         android:id="@+id/npPrepTime"
@@ -346,16 +362,16 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:textColor="@color/dark_green"
-                        android:textStyle="bold"
                         android:text="Servings"
-                        android:textSize="16sp" />
+                        android:textColor="@color/dark_green"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
 
                     <NumberPicker
                         android:id="@+id/npServings"
-                        android:layout_marginTop="25dp"
                         android:layout_width="wrap_content"
-                        android:layout_height="140dp" />
+                        android:layout_height="140dp"
+                        android:layout_marginTop="25dp" />
                 </androidx.coordinatorlayout.widget.CoordinatorLayout>
             </androidx.coordinatorlayout.widget.CoordinatorLayout>
         </RelativeLayout>
@@ -377,16 +393,16 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textColor="@color/dark_green"
-                    android:textStyle="bold"
                     android:text="Protein"
-                    android:textSize="16sp" />
+                    android:textColor="@color/dark_green"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
 
                 <NumberPicker
                     android:id="@+id/npProtein"
-                    android:layout_marginTop="25dp"
                     android:layout_width="wrap_content"
-                    android:layout_height="140dp" />
+                    android:layout_height="140dp"
+                    android:layout_marginTop="25dp" />
 
                 <androidx.coordinatorlayout.widget.CoordinatorLayout
                     android:layout_width="wrap_content"
@@ -397,16 +413,16 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_gravity="center"
-                        android:textColor="@color/dark_green"
-                        android:textStyle="bold"
                         android:text="Fat"
-                        android:textSize="16sp" />
+                        android:textColor="@color/dark_green"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
 
                     <NumberPicker
                         android:id="@+id/npFat"
-                        android:layout_marginTop="25dp"
                         android:layout_width="wrap_content"
-                        android:layout_height="140dp" />
+                        android:layout_height="140dp"
+                        android:layout_marginTop="25dp" />
                 </androidx.coordinatorlayout.widget.CoordinatorLayout>
 
                 <androidx.coordinatorlayout.widget.CoordinatorLayout
@@ -417,17 +433,17 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:textColor="@color/dark_green"
-                        android:textStyle="bold"
                         android:layout_gravity="center"
                         android:text="Carbs"
-                        android:textSize="16sp" />
+                        android:textColor="@color/dark_green"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
 
                     <NumberPicker
                         android:id="@+id/npCarbs"
-                        android:layout_marginTop="25dp"
                         android:layout_width="wrap_content"
-                        android:layout_height="140dp" />
+                        android:layout_height="140dp"
+                        android:layout_marginTop="25dp" />
                 </androidx.coordinatorlayout.widget.CoordinatorLayout>
             </androidx.coordinatorlayout.widget.CoordinatorLayout>
         </RelativeLayout>
@@ -436,22 +452,21 @@
             android:layout_width="wrap_content"
             android:layout_height="180dp"
             android:layout_gravity="center"
-            android:layout_marginTop="25dp"
-            >
+            android:layout_marginTop="25dp">
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:textStyle="bold"
                 android:layout_gravity="center"
                 android:text="@string/calories"
-                android:textSize="16sp" />
+                android:textSize="16sp"
+                android:textStyle="bold" />
 
             <NumberPicker
                 android:id="@+id/npCaloriesUpdate"
-                android:layout_marginTop="25dp"
                 android:layout_width="wrap_content"
-                android:layout_height="140dp" />
+                android:layout_height="140dp"
+                android:layout_marginTop="25dp" />
         </androidx.coordinatorlayout.widget.CoordinatorLayout>
 
 

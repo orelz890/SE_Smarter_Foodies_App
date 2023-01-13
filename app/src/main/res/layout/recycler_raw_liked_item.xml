@@ -61,19 +61,18 @@
 
                             <TextView
                                 android:id="@+id/tv_liked_title"
-                                android:layout_height="wrap_content"
                                 android:layout_width="295dp"
-                                android:text="Title"
+                                android:layout_height="wrap_content"
                                 android:maxLines="1"
-                                android:textSize="18sp"
-                                android:textStyle="bold"
+                                android:text="Title"
                                 android:textColor="@color/white"
-                                />
+                                android:textSize="18sp"
+                                android:textStyle="bold" />
 
                             <TextView
                                 android:id="@+id/tv_liked_addition_data"
-                                android:layout_height="wrap_content"
                                 android:layout_width="285dp"
+                                android:layout_height="wrap_content"
                                 android:text="title"
                                 android:textSize="14sp" />
                         </LinearLayout>

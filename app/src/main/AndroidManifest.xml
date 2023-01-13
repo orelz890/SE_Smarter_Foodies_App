@@ -53,6 +53,7 @@
         <activity android:name=".profile_page" />
         <activity android:name=".UpdateProfile" />
         <activity android:name=".RecipePage" />
+        <activity android:name=".IngrePage" />
         <activity android:name=".update_profile_photo" />
         <activity android:name=".my_uploads" />
         <activity
