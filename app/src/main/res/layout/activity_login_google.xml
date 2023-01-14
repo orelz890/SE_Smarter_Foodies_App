@@ -11,11 +11,10 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="291dp"
-        android:layout_height="276dp"
-        android:layout_marginStart="20dp"
-        android:layout_marginTop="100dp"
-        android:layout_marginEnd="10dp"
+        android:layout_width="290dp"
+        android:layout_height="290dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
         android:src="@mipmap/app_logo"
         android:transitionName="logo_image"
         app:layout_constraintEnd_toEndOf="parent"
@@ -24,13 +23,13 @@
 
     <ImageView
         android:id="@+id/btnLogin"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
-        android:layout_gravity="center"
-        android:src="@mipmap/signwithgoogle"
-        tools:layout_editor_absoluteX="35dp"
-        tools:layout_editor_absoluteY="576dp" />
+        android:layout_width="99dp"
+        android:layout_height="77dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/google_bg" />
+<!--        android:src="@mipmap/signwithgoogle"-->
+        />
 
 
 </LinearLayout>
