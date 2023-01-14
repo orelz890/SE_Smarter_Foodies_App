@@ -25,9 +25,19 @@ public class RecipePageFunctions {
     public static String ingaridiants(String[] ingardiants) {
         String ingardiant = "";
         if (ingardiants != null) {
-            for (int i = 0; i < ingardiants.length; i++) {
-                ingardiant = ingardiant + ingardiants[i] + "\n";
+            if (ingardiants[0].contains(":")){
+                String[] tempSplit;
+                for (int i = 0; i < ingardiants.length; i++) {
+                    tempSplit = ingardiants[i].split(":");
+                    ingardiant = ingardiant + tempSplit[0] + "g " + tempSplit[1] + "\n";
+                }
             }
+            else{
+                for (int i = 0; i < ingardiants.length; i++) {
+                    ingardiant = ingardiant + ingardiants[i] + "\n";
+                }
+            }
+
             return ingardiant;
         }
         return " no inga V2 ";
