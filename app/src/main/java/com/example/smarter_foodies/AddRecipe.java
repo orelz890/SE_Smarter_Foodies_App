@@ -150,17 +150,14 @@ public class AddRecipe extends DashboardActivity {
 
 
     public static String ingredients(ArrayList<String> ingredients) {
-        System.out.println("in in");
         String ingredient = "";
         if (ingredients != null) {
             for (int i = 0; i < ingredients.size(); i++) {
                 ingredient = ingredient + ingredients.get(i).replace(":", " ") + "\n";
             }
-            System.out.println("out out");
             return ingredient;
         }
-        System.out.println("out out 2");
-        return " no inga V2 ";
+        return " There Are No Ingredients ";
     }
 
     private void fillCategoriesList() {
@@ -560,6 +557,7 @@ public class AddRecipe extends DashboardActivity {
         if (selectedIngredients == null || selectedIngredients.size() == 0) {
             selectedIngredients = new ArrayList<>();
         }
+        InitAutoCompleteSearchView(dialog);
         adapter = new ListViewAdapter(dialog.getContext(), selectedIngredients, "add");
         listView.setAdapter(adapter);
 
@@ -572,7 +570,6 @@ public class AddRecipe extends DashboardActivity {
             dialog.dismiss();
         });
 
-        InitAutoCompleteSearchView(dialog);
 
     }
 
@@ -631,7 +628,7 @@ public class AddRecipe extends DashboardActivity {
                     addIngredientAmountDialog(ingredient,d);
                 } else {
                     addItem(editTextGrams.getText().toString(), ingredient);
-                    Toast.makeText(builder.getContext(), "added successfully", Toast.LENGTH_LONG).show();
+                    Toast.makeText(builder.getContext(), ingredient + " added successfully", Toast.LENGTH_LONG).show();
 
                 }
             }
@@ -651,6 +648,7 @@ public class AddRecipe extends DashboardActivity {
 
     private static void addItem(String amount, String ingredient) {
         selectedIngredients.add(amount + ":" + ingredient);
+        listView.setAdapter(adapter);
         adapter.notifyDataSetChanged();
     }
 

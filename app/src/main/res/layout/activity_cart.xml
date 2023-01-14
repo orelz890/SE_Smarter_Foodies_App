@@ -17,7 +17,7 @@
         android:layout_marginLeft="8dp"
         android:textSize="20dp"
         android:textStyle="bold"
-        android:text="My Cart"/>
+        android:text="My Weekly Plan"/>
 
     <TextView
         android:id="@+id/tv_cart_recipe_count"
@@ -27,23 +27,23 @@
         android:textColor="@color/Gray"
         android:text="0 recipes"/>
 
-<!--    <LinearLayout-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:orientation="horizontal"-->
-<!--        android:gravity="right"-->
-<!--        android:layout_margin="10dp">-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="right"
+        android:layout_margin="10dp">
 
-<!--        <ImageButton-->
-<!--            android:id="@+id/ib_create_cart_list"-->
-<!--            android:layout_width="60dp"-->
-<!--            android:layout_height="60dp"-->
-<!--            android:src="@mipmap/ic_mystery_box"-->
-<!--            android:background="@drawable/ic_round_green_oval"-->
+        <ImageButton
+            android:id="@+id/ib_create_cart_list"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_grocery_list"
+            android:src="@drawable/ic_grocery_list"
 
-<!--            />-->
+            />
 
-<!--    </LinearLayout>-->
+    </LinearLayout>
 
     <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
         android:layout_width="match_parent"

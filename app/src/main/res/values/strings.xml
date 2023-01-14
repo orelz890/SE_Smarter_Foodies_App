@@ -15,13 +15,13 @@
     <string name="menu_drawer_open">Drawer Open</string>
     <string name="menu_drawer_close">Drawer Close</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="home">home</string>
-    <string name="add_recipe">Add recipe</string>
+    <string name="home">Home</string>
+    <string name="add_recipe">Add Recipe</string>
     <string name="others">Others</string>
     <string name="profile">Profile</string>
     <string name="person_search">Person search</string>
-    <string name="search_recipe">Search recipe</string>
-    <string name="update_recipe">Update recipe</string>
+    <string name="search_recipe">Search Recipe</string>
+    <string name="update_recipe">Update Recipe</string>
     <string name="liked">Liked</string>
     <string name="logout">Logout</string>
     <string name="weeklyPlans">WeeklyPlans</string>

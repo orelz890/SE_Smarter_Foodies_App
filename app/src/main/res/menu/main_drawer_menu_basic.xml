@@ -13,25 +13,26 @@
             android:icon="@drawable/ic_favorites"
             android:title="@string/liked"/>
 
-        <item android:id="@+id/nav_cart"
-            android:icon="@drawable/ic_baseline_shopping_cart_24"
-            android:title="@string/cart"/>
+        <item android:id="@+id/nav_weekly_planing"
+            android:icon="@drawable/ic_baseline_edit_calendar_24"
+            android:title="@string/weeklyPlans"/>
+
+<!--        <item android:id="@+id/nav_cart"-->
+<!--            android:icon="@drawable/ic_baseline_shopping_cart_24"-->
+<!--            android:title="@string/cart"/>-->
 
         <item android:id="@+id/nav_apply_as_chef"
             android:icon="@drawable/ic_chef"
-            android:title="@string/apply_as_chef"/>
+            android:title="Apply As Chef"/>
 
-        <item android:id="@+id/nav_person_search"
-            android:icon="@drawable/ic_search_profile"
-            android:title="@string/person_search"/>
+<!--        <item android:id="@+id/nav_person_search"-->
+<!--            android:icon="@drawable/ic_search_profile"-->
+<!--            android:title="@string/person_search"/>-->
 
         <item android:id="@+id/nav_profile"
             android:icon="@drawable/ic_profile"
             android:title="@string/profile"/>
 
-        <item android:id="@+id/nav_weekly_planing"
-            android:icon="@drawable/ic_baseline_edit_calendar_24"
-            android:title="@string/weeklyPlans"/>
 
         <item android:title="@string/others">
             <menu>

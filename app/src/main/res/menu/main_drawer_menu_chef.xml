@@ -14,9 +14,13 @@
             android:icon="@drawable/red_heart_filled"
             android:title="@string/liked"/>
 
-        <item android:id="@+id/nav_cart"
-            android:icon="@drawable/ic_baseline_shopping_cart_24"
-            android:title="@string/cart"/>
+        <item android:id="@+id/nav_weekly_planing"
+            android:icon="@drawable/ic_baseline_edit_calendar_24"
+            android:title="@string/weeklyPlans"/>
+
+<!--        <item android:id="@+id/nav_cart"-->
+<!--            android:icon="@drawable/ic_baseline_shopping_cart_24"-->
+<!--            android:title="@string/cart"/>-->
 
         <item android:id="@+id/nav_add_recipe"
             android:icon="@drawable/ic_baseline_note_add_24"
@@ -26,17 +30,14 @@
             android:icon="@drawable/baseline_edit_document_black_36"
             android:title="@string/update_recipe"/>
 
-        <item android:id="@+id/nav_person_search"
-            android:icon="@drawable/ic_search_profile"
-            android:title="@string/person_search"/>
+<!--        <item android:id="@+id/nav_person_search"-->
+<!--            android:icon="@drawable/ic_search_profile"-->
+<!--            android:title="@string/person_search"/>-->
 
         <item android:id="@+id/nav_profile"
             android:icon="@drawable/ic_profile"
             android:title="@string/profile"/>
 
-        <item android:id="@+id/nav_weekly_planing"
-            android:icon="@drawable/ic_baseline_edit_calendar_24"
-            android:title="@string/weeklyPlans"/>
 
         <item
             android:title="@string/others"

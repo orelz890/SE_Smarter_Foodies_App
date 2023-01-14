@@ -234,7 +234,7 @@ public class UpdateRecipe extends DashboardActivity {
                     addIngredientAmountDialog(ingredient,d);
                 } else {
                     addItem(editTextGrams.getText().toString(), ingredient);
-                    Toast.makeText(builder.getContext(), "added successfully", Toast.LENGTH_LONG).show();
+                    Toast.makeText(builder.getContext(), ingredient +" added successfully", Toast.LENGTH_LONG).show();
 
                 }
             }
@@ -254,6 +254,7 @@ public class UpdateRecipe extends DashboardActivity {
 
     private static void addItem(String amount, String ingredient) {
         selectedIngredients.add(amount + ":" + ingredient);
+        listView.setAdapter(adapter);
         adapter.notifyDataSetChanged();
     }
 
@@ -661,8 +662,7 @@ public class UpdateRecipe extends DashboardActivity {
                                 }
                                 etDirections.setText(directionsView);
                                 selectedIngredients = new ArrayList<>(r.getIngredients());
-                                System.out.println("get fron database " + selectedIn);
-                                etIngredients.setText(ingredients(selectedIn));
+                                etIngredients.setText(ingredients(selectedIngredients));
                                 category = r.getMain_category();
                                 subCategory = r.getCategory();
                                 change_adapter_to_original_values();

@@ -115,8 +115,10 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
                     if (userListName.equals("cart")){
                         myFoodList.remove(r);
                         MyLikedAndCartAdapter.super.notifyDataSetChanged();
-                        Cart cartActivity = (Cart) activity;
-                        cartActivity.setRecipeCountViews(myFoodList.size());
+//                        Cart cartActivity = (Cart) activity;
+//                        cartActivity.setRecipeCountViews(myFoodList.size());
+                        WeeklyPlan weeklyPlan = (WeeklyPlan) activity;
+                        weeklyPlan.setRecipeCountViews(myFoodList.size());
                     }
                     else{
                         foodViewHolder.mCart.setImageResource(R.drawable.ic_baseline_add_shopping_cart_24_not_added);

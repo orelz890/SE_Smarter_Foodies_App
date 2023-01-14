@@ -117,11 +117,11 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
                 // For smooth transition
                 overridePendingTransition(0,0);
                 break;
-
-            case R.id.nav_cart:
-                startActivity(new Intent(this, Cart.class));
-                overridePendingTransition(0,0);
-                break;
+//
+//            case R.id.nav_cart:
+//                startActivity(new Intent(this, Cart.class));
+//                overridePendingTransition(0,0);
+//                break;
 
             case R.id.nav_profile:
                 startActivity(new Intent(this, profile_page.class));
@@ -167,10 +167,10 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
                 overridePendingTransition(0,0);
                 break;
 
-            case R.id.nav_cart:
-                startActivity(new Intent(this, Cart.class));
-                overridePendingTransition(0,0);
-                break;
+//            case R.id.nav_cart:
+//                startActivity(new Intent(this, Cart.class));
+//                overridePendingTransition(0,0);
+//                break;
 
             case R.id.nav_profile:
                 startActivity(new Intent(this, profile_page.class));
