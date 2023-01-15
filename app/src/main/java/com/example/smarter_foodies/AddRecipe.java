@@ -486,7 +486,7 @@ public class AddRecipe extends DashboardActivity {
                 }
             }
         });
-        selectedIngredients = new ArrayList<>();
+        selectedIngredients.clear();
 
     }
 
