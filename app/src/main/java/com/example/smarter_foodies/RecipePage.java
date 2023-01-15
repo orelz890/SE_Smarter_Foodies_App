@@ -65,7 +65,8 @@ public class RecipePage extends AppCompatActivity {
         setBundleContent(mBundle);
 
         listExtract.setOnClickListener(view -> {
-            createWhatsappDialog(mBundle.getString("name") + "\n\nIngeridants:\n\n" + mBundle.getString("ingardiants"));
+            //mBundle.getString("ingardiants")
+            createWhatsappDialog(mBundle.getString("name") + "\n\nIngeridants:\n\n" + ingardiants.getText() );
         });
     }
 
