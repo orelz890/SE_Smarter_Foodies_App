@@ -35,6 +35,7 @@ import android.widget.NumberPicker;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.smarter_foodies.api.AppServer;
 import com.github.drjacky.imagepicker.ImagePicker;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnSuccessListener;
@@ -393,7 +394,6 @@ public class AddRecipe extends DashboardActivity {
         mDatabaseSearchGet.get().addOnCompleteListener(new OnCompleteListener<DataSnapshot>() {
             @Override
             public void onComplete(@NonNull Task<DataSnapshot> task) {
-                System.out.println("\n\nim in\n\n");
                 if (task.isSuccessful()) {
                     DataSnapshot dataSnapshot = task.getResult();
                     for (DataSnapshot categorySnap : dataSnapshot.getChildren()) {
@@ -435,7 +435,10 @@ public class AddRecipe extends DashboardActivity {
 //                    }
 //                    List<String> ingredientsArray = new ArrayList<>(Arrays.asList(ingredients_list));
                     List<String> ingredientsArray = new ArrayList<>(selectedIngredients);
-
+                    if(selectedIngredients.isEmpty()){
+                        etIngredients.setError("Ingredients cannot be empty");
+                        etDirections.requestFocus();
+                    }
 
                     String directions = etDirections.getText().toString();
                     String[] directions_list = directions.split("\n");
@@ -476,22 +479,29 @@ public class AddRecipe extends DashboardActivity {
                         r.setImages(uploadedImages);
                         CRUD.loadDishToDatabase(r);
                         // Load recipe to database
-                        List<String> singleValueList = CRUD.getSingleValueList(r.getTitle());
-                        // Add recipe to the user recipes
-                        CRUD.addToUserLists(singleValueList, "recipes");
+                        if(currentUser!=null) {
+                            addRecipeToUserByServer(currentUser.getUid(), r.getTitle());
+                        }
+//                        List<String> singleValueList = CRUD.getSingleValueList(r.getTitle());
+//                        // Add recipe to the user recipes
+//                        CRUD.addToUserLists(singleValueList, "recipes");
                         flag = false;
                         moveToActivity(r.getTitle());
 
                     }
                 }
             }
+
+            private void addRecipeToUserByServer(String uid, String title) {
+                AppServer.SendToTheServer(uid,title);
+            }
         });
-        selectedIngredients.clear();
 
     }
 
     private void moveToActivity(String title) {
         Toast.makeText(getApplicationContext(), title + "> was loaded!", Toast.LENGTH_LONG).show();
+        selectedIngredients.clear();
         startActivity(new Intent(AddRecipe.this, SearchRecipe.class));
     }
 
