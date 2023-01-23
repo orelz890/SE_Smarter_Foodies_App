@@ -13,12 +13,13 @@ public interface API {
 
     @POST("SubmitRecipeToUser")
     Call<String> SubmitRecipeToUser(
-            @Query("uid") String uid,String recipe
+            @Query("uid") String uid,
+            @Query("title") String recipe
     );
 
     @FormUrlEncoded
     @POST("SubmitRecipeToUser2")
-    Call<String> SubmitRecipeToUser2(
+    Call<ResponseBody> SubmitRecipeToUser2(
             @Field("uid") String uid,
             @Field("recipe") String recipe
     );

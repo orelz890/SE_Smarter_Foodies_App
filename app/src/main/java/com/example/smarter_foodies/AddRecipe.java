@@ -384,10 +384,10 @@ public class AddRecipe extends DashboardActivity {
     private void submitRecipe() {
         flag = true;
         String title = etTitle.getText().toString();
-        if (TextUtils.isEmpty(title)) {
-            etTitle.setError("Title cannot be empty");
-            etTitle.requestFocus();
-        }
+//        if (TextUtils.isEmpty(title)) {
+//            etTitle.setError("Title cannot be empty");
+//            etTitle.requestFocus();
+//        }
 
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
                 .getReference().child("recipes");
@@ -412,27 +412,27 @@ public class AddRecipe extends DashboardActivity {
                         }
                     }
 
-//                    String ingredients = etIngredients.getText().toString();
-//                    System.out.println(ingredients);
-//                    String[] ingredients_list = ingredients.split("\n");
-//                    if (TextUtils.isEmpty(ingredients)) {
-//                        etIngredients.setError("Ingredients cannot be empty");
-//                        etIngredients.requestFocus();
-//                        return;
-//                    } else {
-//                        for (String s : ingredients_list) {
-//                            if (!s.equals("\n")) {
-//                                String[] temp = s.trim().split(" ");
-//                                try {
-//                                    Double.parseDouble(temp[0]);
-//                                } catch (Exception e) {
-//                                    etIngredients.setError("Every Ingredient must begin with the quantity..");
-//                                    etIngredients.requestFocus();
-//                                    return;
-//                                }
-//                            }
-//                        }
-//                    }
+                    String ingredients = etIngredients.getText().toString();
+                    System.out.println(ingredients);
+                    String[] ingredients_list = ingredients.split("\n");
+                    if (TextUtils.isEmpty(ingredients)) {
+                        etIngredients.setError("Ingredients cannot be empty");
+                        etIngredients.requestFocus();
+                        return;
+                    } else {
+                        for (String s : ingredients_list) {
+                            if (!s.equals("\n")) {
+                                String[] temp = s.trim().split(" ");
+                                try {
+                                    Double.parseDouble(temp[0]);
+                                } catch (Exception e) {
+                                    etIngredients.setError("Every Ingredient must begin with the quantity..");
+                                    etIngredients.requestFocus();
+                                    return;
+                                }
+                            }
+                        }
+                    }
 //                    List<String> ingredientsArray = new ArrayList<>(Arrays.asList(ingredients_list));
                     List<String> ingredientsArray = new ArrayList<>(selectedIngredients);
                     if(selectedIngredients.isEmpty()){
@@ -477,7 +477,7 @@ public class AddRecipe extends DashboardActivity {
                             return;
                         }
                         r.setImages(uploadedImages);
-                        CRUD.loadDishToDatabase(r);
+                        //CRUD.loadDishToDatabase(r);
                         // Load recipe to database
                         if(currentUser!=null) {
                             addRecipeToUserByServer(currentUser.getUid(), r.getTitle());
@@ -496,6 +496,7 @@ public class AddRecipe extends DashboardActivity {
                 AppServer.SendToTheServer(uid,title);
             }
         });
+
 
     }
 

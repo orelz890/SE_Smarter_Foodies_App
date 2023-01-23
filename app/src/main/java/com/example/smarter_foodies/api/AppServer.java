@@ -1,5 +1,8 @@
 package com.example.smarter_foodies.api;
 
+import java.io.IOException;
+
+import okhttp3.ResponseBody;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
@@ -19,12 +22,30 @@ public class AppServer {
             public void onResponse(Call<String> call, Response<String> response) { // When the server gives response
                 if (response.isSuccessful()) {
                     String s = response.body();
-                    System.out.println(s);
+                    System.out.println("***********"+ s);
                 }
             }
 
             @Override
             public void onFailure(Call<String> call, Throwable t) {
+
+            }
+        });
+    }
+
+    public static void SendToTheServer2(String uid, String recipe) {
+        Call<ResponseBody> call = ReAPI.getInstance().getAPI().SubmitRecipeToUser2(uid,recipe); // Contact the server with API
+        call.enqueue(new Callback<ResponseBody>() {
+            @Override
+            public void onResponse(Call<ResponseBody> call, Response<ResponseBody> response) { // When the server gives response
+                if (response.isSuccessful()) {
+                    String s = String.valueOf(response.body());
+                    System.out.println("***********"+ s);
+                }
+            }
+
+            @Override
+            public void onFailure(Call<ResponseBody> call, Throwable t) {
 
             }
         });
