@@ -7,14 +7,14 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@drawable/top_background"
-    tools:context=".RecipePage">
+    tools:context=".ViewModel.RecipePage">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:gravity="center"
-        tools:context=".RecipePage">
+        tools:context=".ViewModel.RecipePage">
 
         <!--category and sub category-->
         <TextView

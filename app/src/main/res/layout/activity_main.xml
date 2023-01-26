@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:layout_gravity="center"
     android:id="@+id/swipeLayout"
-    tools:context=".MainActivity"
+    tools:context=".ViewModel.MainActivity"
     android:orientation="vertical">
 
     <LinearLayout

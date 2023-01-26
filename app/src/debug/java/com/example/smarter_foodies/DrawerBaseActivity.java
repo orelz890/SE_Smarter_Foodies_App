@@ -8,23 +8,20 @@ import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
 import android.content.Intent;
-import android.graphics.drawable.Drawable;
-import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.ViewGroup;
 import android.widget.FrameLayout;
 
+import com.example.smarter_foodies.ViewModel.AddRecipe;
+import com.example.smarter_foodies.ViewModel.ApplyChef;
+import com.example.smarter_foodies.ViewModel.LoginGoogle;
+import com.example.smarter_foodies.ViewModel.SearchRecipe;
+import com.example.smarter_foodies.ViewModel.UpdateRecipe;
+import com.example.smarter_foodies.ViewModel.WeeklyPlan;
+import com.example.smarter_foodies.ViewModel.likedRecipes;
+import com.example.smarter_foodies.ViewModel.profile_page;
 import com.google.android.material.navigation.NavigationView;
 import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.auth.FirebaseUser;
-import com.google.firebase.database.DataSnapshot;
-import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.database.ValueEventListener;
-
-import java.util.HashMap;
-import java.util.Map;
 
 public class DrawerBaseActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 

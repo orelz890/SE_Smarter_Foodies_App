@@ -8,7 +8,7 @@
     android:id="@+id/search_layout"
     android:background="@color/black"
     android:orientation="vertical"
-    tools:context=".SearchRecipe">
+    tools:context=".ViewModel.SearchRecipe">
 
 
     <LinearLayout

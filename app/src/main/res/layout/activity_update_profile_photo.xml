@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/top_background"
-    tools:context=".update_profile_photo">
+    tools:context=".ViewModel.update_profile_photo">
 
     <de.hdodenhof.circleimageview.CircleImageView
         android:id="@+id/profile_image"

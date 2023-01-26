@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:padding="24dp"
     android:background="#F8EECF"
-    tools:context=".LoginGoogle">
+    tools:context=".ViewModel.LoginGoogle">
 
     <ImageView
         android:id="@+id/imageView"

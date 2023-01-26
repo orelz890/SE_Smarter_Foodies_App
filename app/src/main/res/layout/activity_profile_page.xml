@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/top_background"
-    tools:context=".profile_page">
+    tools:context=".ViewModel.profile_page">
 
 <!--    <de.hdodenhof.circleimageview.CircleImageView-->
 <!--        xmlns:app="http://schemas.android.com/apk/res-auto"-->

@@ -23,14 +23,14 @@
 <!--                android:value="" />-->
 <!--        </activity>-->
         <activity
-            android:name=".Cart"
+            android:name=".ViewModel.Cart"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".likedRecipes"
+            android:name=".ViewModel.likedRecipes"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -40,33 +40,33 @@
             android:name=".DashboardActivity"
             android:exported="false"></activity>
         <activity
-            android:name=".welcomeActivity"
+            android:name=".ViewModel.welcomeActivity"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
-        <activity android:name=".WeeklyPlan"/>
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".RegisterActivity" />
-        <activity android:name=".ApplyChef" />
-        <activity android:name=".SearchRecipe" />
-        <activity android:name=".profile_page" />
-        <activity android:name=".UpdateProfile" />
-        <activity android:name=".RecipePage" />
-        <activity android:name=".IngrePage" />
-        <activity android:name=".update_profile_photo" />
-        <activity android:name=".my_uploads" />
+        <activity android:name=".ViewModel.WeeklyPlan"/>
+        <activity android:name=".ViewModel.LoginActivity" />
+        <activity android:name=".ViewModel.RegisterActivity" />
+        <activity android:name=".ViewModel.ApplyChef" />
+        <activity android:name=".ViewModel.SearchRecipe" />
+        <activity android:name=".ViewModel.profile_page" />
+        <activity android:name=".ViewModel.UpdateProfile" />
+        <activity android:name=".ViewModel.RecipePage" />
+        <activity android:name=".ViewModel.IngrePage" />
+        <activity android:name=".ViewModel.update_profile_photo" />
+        <activity android:name=".ViewModel.my_uploads" />
         <activity
-            android:name=".UpdateRecipe"
+            android:name=".ViewModel.UpdateRecipe"
             android:theme="@style/Theme.Smarter_Foodies.BackgroundUpdateImageStyle" />
         <activity
-            android:name=".AddRecipe"
+            android:name=".ViewModel.AddRecipe"
             android:theme="@style/Theme.Smarter_Foodies.BackgroundUpdateImageStyle"
             />
 
         <activity
-            android:name=".LoginGoogle"
+            android:name=".ViewModel.LoginGoogle"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -79,7 +79,7 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".ViewModel.MainActivity"
             android:exported="false" />
     </application>
 

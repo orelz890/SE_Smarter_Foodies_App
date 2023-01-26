@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#F8EECF"
-    tools:context=".RecipePage">
+    tools:context=".ViewModel.RecipePage">
     <!--        android:background="@drawable/top_background"-->
 
     <LinearLayout
@@ -16,7 +16,7 @@
         android:orientation="vertical"
         android:gravity="center"
         android:background="#F8EECF"
-        tools:context=".RecipePage">
+        tools:context=".ViewModel.RecipePage">
         <!--recipe pic-->
         <ImageView
             android:id="@+id/recipeImageDisplay"
@@ -478,7 +478,7 @@
             android:layout_gravity="center"
             android:background="#F8EECF"
             android:layout_marginTop="10dp"
-            tools:context=".RecipePage">
+            tools:context=".ViewModel.RecipePage">
 <!--            <Button-->
 <!--                android:id="@+id/recipeLikeButton"-->
 <!--                android:layout_width="40dp"-->
