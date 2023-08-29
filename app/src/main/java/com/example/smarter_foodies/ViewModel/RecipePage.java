@@ -193,8 +193,6 @@ public class RecipePage extends AppCompatActivity {
                     else{
                         recipeImage.setImageResource(R.drawable.iv_no_images_available);
                     }
-
-
                 }
             }
         });

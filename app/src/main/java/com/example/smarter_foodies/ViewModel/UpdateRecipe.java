@@ -148,11 +148,8 @@ public class UpdateRecipe extends DashboardActivity {
             @Override
             public void onClick(View view) {
                 UpdateIngredientDialog();
-
             }
         });
-
-
     }
 
     private void UpdateIngredientDialog() {

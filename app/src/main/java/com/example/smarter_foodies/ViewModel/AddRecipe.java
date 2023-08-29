@@ -153,8 +153,6 @@ public class AddRecipe extends DashboardActivity {
     }
 
 
-
-
     public static String ingredients(ArrayList<String> ingredients) {
         String ingredient = "";
         if (ingredients != null) {
@@ -304,6 +302,7 @@ public class AddRecipe extends DashboardActivity {
         btnSubmit.setOnClickListener(view -> {
             System.out.println("=============================");
             submitRecipe();
+            // If the submit was successful
             if (!flag) {
                 startActivity(new Intent(AddRecipe.this, SearchRecipe.class));
             }
@@ -387,13 +386,9 @@ public class AddRecipe extends DashboardActivity {
     }
 
     private void submitRecipe() {
+        // Check for errors in user input
         flag = true;
         String title = etTitle.getText().toString();
-//        if (TextUtils.isEmpty(title)) {
-//            etTitle.setError("Title cannot be empty");
-//            etTitle.requestFocus();
-//        }
-
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
                 .getReference().child("recipes");
         mDatabaseSearchGet.get().addOnCompleteListener(new OnCompleteListener<DataSnapshot>() {
@@ -440,7 +435,7 @@ public class AddRecipe extends DashboardActivity {
                     }
 //                    List<String> ingredientsArray = new ArrayList<>(Arrays.asList(ingredients_list));
                     List<String> ingredientsArray = new ArrayList<>(selectedIngredients);
-                    if(selectedIngredients.isEmpty()){
+                    if (selectedIngredients.isEmpty()) {
                         etIngredients.setError("Ingredients cannot be empty");
                         etDirections.requestFocus();
                     }
@@ -462,6 +457,7 @@ public class AddRecipe extends DashboardActivity {
                         Toast.makeText(getApplicationContext(), "All bottom half must be filled too!",
                                 Toast.LENGTH_SHORT).show();
                     } else {
+                        // All the user input was good, load the dish to firebase.
                         List<String> directionsArray = new ArrayList<>(Arrays.asList(directions_list));
                         recipe r = new recipe(title, category, subCategory, new ArrayList<>(), directionsArray,
                                 calcTime(npPrepTime.getValue()),
@@ -482,9 +478,9 @@ public class AddRecipe extends DashboardActivity {
                             return;
                         }
                         r.setImages(uploadedImages);
-                        //CRUD.loadDishToDatabase(r);
+                        CRUD.loadDishToDatabase(r);
                         // Load recipe to database
-                        if(currentUser!=null) {
+                        if (currentUser != null) {
                             addRecipeToUserByServer(currentUser.getUid(), r.getTitle());
                         }
 //                        List<String> singleValueList = CRUD.getSingleValueList(r.getTitle());
@@ -498,7 +494,7 @@ public class AddRecipe extends DashboardActivity {
             }
 
             private void addRecipeToUserByServer(String uid, String title) {
-                AppServer.SendToTheServer(uid,title);
+                AppServer.SendToTheServer(uid, title);
             }
         });
 
@@ -511,45 +507,6 @@ public class AddRecipe extends DashboardActivity {
         startActivity(new Intent(AddRecipe.this, SearchRecipe.class));
     }
 
-
-//    public void dialogUploadImage(recipe r){
-//        AlertDialog.Builder builder = new AlertDialog.Builder(AddRecipe.this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
-//        final View customLayout = getLayoutInflater().inflate(R.layout.yes_no_dialog_layout, null);
-//        builder.setView(customLayout);
-//        builder.setCancelable(false);
-//        builder.setTitle("Please upload an image");
-//        builder.setPositiveButton("upload", new DialogInterface.OnClickListener() {
-//            @Override
-//            public void onClick(DialogInterface dialogInterface, int which) {
-//                ImagePicker.with(AddRecipe.this).start();
-//                List<String> images = new ArrayList<>();
-//                if (recipeImage != null) {
-//                    Object tag = recipeImage.getTag();
-//                    if (tag != null && tag instanceof String) {
-//                        String srcUriString = (String) tag;
-//                        Uri srcUri = Uri.parse(srcUriString);
-//                        images.add(srcUri.toString());
-//                        r.setImages(images);
-//                    }
-//                }
-//                if (!r.getImages().isEmpty()){
-//                    // Load recipe to database
-//                    CRUD.loadDishToDatabase(r);
-//                    List<String> singleValueList = CRUD.getSingleValueList(r.getTitle());
-//                    // Add recipe to the user recipes
-//                    CRUD.addToUserLists(singleValueList, "recipes");
-//                    flag = false;
-//                    Toast.makeText(getApplicationContext(), r.toString(), Toast.LENGTH_SHORT).show();
-//                }
-//            }
-//        });
-//
-//        builder.setNegativeButton("cancel", (dialogInterface, which) -> {
-//            startActivity(new Intent(AddRecipe.this, SearchRecipe.class));
-//        });
-//        AlertDialog dialog = builder.create();
-//        dialog.show();
-//    }
 
     private String calcTime(int min) {
         if (min < 60) {
@@ -610,7 +567,7 @@ public class AddRecipe extends DashboardActivity {
                         @Override
                         public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
                             String ingredient = parent.getItemAtPosition(pos).toString();
-                            addIngredientAmountDialog(ingredient,d);
+                            addIngredientAmountDialog(ingredient, d);
                             autoCompleteSearchView.setText("");
 
                         }
@@ -642,7 +599,7 @@ public class AddRecipe extends DashboardActivity {
 //                System.out.println("category- " + category + "\tsubCategory- " + subCategory);
                 if (editTextGrams.getText().toString().isEmpty() || editTextGrams.getText().toString().charAt(0) == '0') {
                     Toast.makeText(builder.getContext(), "Please try again", Toast.LENGTH_LONG).show();
-                    addIngredientAmountDialog(ingredient,d);
+                    addIngredientAmountDialog(ingredient, d);
                 } else {
                     addItem(editTextGrams.getText().toString(), ingredient);
                     Toast.makeText(builder.getContext(), ingredient + " added successfully", Toast.LENGTH_LONG).show();
