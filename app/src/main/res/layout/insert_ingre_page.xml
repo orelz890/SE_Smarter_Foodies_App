@@ -1,33 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/LL"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <com.google.android.material.textfield.MaterialAutoCompleteTextView
-        android:id="@+id/searchView"
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="62dp"
-        android:background="@color/white"
-        android:drawableRight="@drawable/ic_baseline_search_24_white"
-        android:hint="Type here to search"
-        android:textColor="@color/teal_700"
-        android:textStyle="bold" />
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
 
-    <ListView
-        android:id="@+id/product_list"
+        <com.google.android.material.textfield.MaterialAutoCompleteTextView
+            android:id="@+id/searchView"
+            android:layout_width="match_parent"
+            android:layout_height="62dp"
+            android:background="@color/white"
+            android:drawableRight="@drawable/ic_baseline_search_24_white"
+            android:hint="Type here to search"
+            android:textColor="@color/teal_700"
+            android:textStyle="bold"
+            android:layout_alignParentTop="true"
+            />
+
+
+        <ListView
+            android:id="@+id/product_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/Bottom_LL"
+            />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/Bottom_LL"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_alignParentBottom="true"
+        >
 
-    <ImageButton
-        android:id="@+id/submitIngre"
-        android:layout_width="50dp"
-        android:layout_height="50dp"
-        android:layout_marginTop="5dp"
-        android:backgroundTint="@android:color/transparent"
-        android:src="@drawable/ic_baseline_post_add_24"
-        android:layout_gravity="center" />
+        <ImageButton
+            android:id="@+id/submitIngre"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="5dp"
+            android:backgroundTint="@android:color/transparent"
+            android:src="@drawable/ic_baseline_post_add_24"
+            android:layout_gravity="center" />
 
-</LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

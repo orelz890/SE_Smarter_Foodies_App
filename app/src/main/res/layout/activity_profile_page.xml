@@ -34,20 +34,18 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:layout_margin="10dp"
+            android:gravity="center_horizontal">
 
-            <androidx.constraintlayout.widget.ConstraintLayout
-                android:layout_width="match_parent"
-                android:layout_height="664dp">
-
-                <View
-                    android:id="@+id/view"
-                    android:layout_width="wrap_content"
-                    android:layout_height="360dp"
-                    app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintHorizontal_bias="0.0"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
+<!--                <View-->
+<!--                    android:id="@+id/view"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="360dp"-->
+<!--                    app:layout_constraintEnd_toEndOf="parent"-->
+<!--                    app:layout_constraintHorizontal_bias="0.0"-->
+<!--                    app:layout_constraintStart_toStartOf="parent"-->
+<!--                    app:layout_constraintTop_toTopOf="parent" />-->
 
                 <!--                <ImageView-->
 <!--                    android:id="@+id/imageView4"-->
@@ -62,19 +60,35 @@
 <!--                    app:layout_constraintVertical_bias="0.065"/>-->
 <!--                    app:srcCompat="@drawable/ic_eylon" />-->
 
-                <de.hdodenhof.circleimageview.CircleImageView
-                    android:id="@+id/imageView4"
-                    android:layout_width="114dp"
-                    android:layout_height="106dp"
-                    android:src="@drawable/ic_empty"
-                    app:civ_border_color="#FF000000"
-                    app:civ_border_width="2dp"
-                    app:layout_constraintBottom_toTopOf="@+id/linearLayout"
-                    app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintHorizontal_bias="0.498"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent"
-                    app:layout_constraintVertical_bias="0.228" />
+                <RelativeLayout
+                    android:id="@+id/RL_image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/imageView4"
+                        android:layout_width="114dp"
+                        android:layout_height="106dp"
+                        android:src="@drawable/ic_empty"
+                        app:civ_border_color="#FF000000"
+                        app:civ_border_width="2dp"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="0.498"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.228" />
+
+                    <ImageView
+                        android:id="@+id/IV_choose_pic"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_alignEnd="@+id/imageView4"
+                        android:layout_alignBottom="@+id/imageView4"
+                        android:src="@drawable/camera"
+                        />
+                </RelativeLayout>
+
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/full_name_pp"
@@ -102,12 +116,10 @@
 
                 <LinearLayout
                     android:id="@+id/linearLayout"
-                    android:layout_width="346dp"
-                    android:layout_height="382dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
 
-                    android:layout_marginStart="24dp"
-                    android:layout_marginEnd="24dp"
-                    android:layout_marginBottom="72dp"
                     android:background="@drawable/whiat_background"
                     android:elevation="3dp"
                     android:orientation="vertical"
@@ -210,7 +222,8 @@
                             android:layout_weight="0.333"
                             android:background="@drawable/grayy_background"
                             android:elevation="5dp"
-                            android:orientation="vertical">
+                            android:orientation="vertical"
+                            android:visibility="gone">
 
                             <androidx.constraintlayout.widget.ConstraintLayout
                                 android:layout_width="55dp"
@@ -245,6 +258,17 @@
                         </LinearLayout>
                     </LinearLayout>
 
+                    <View
+                        android:id="@+id/view4_5"
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginBottom="1dp"
+                        android:background="#d9d9d9"
+                        />
+
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -258,7 +282,6 @@
                             android:id="@+id/is_chaf"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="1"
                             android:text="Is chaf:"
                             android:textColor="@color/black"
                             android:textSize="16sp"
@@ -268,12 +291,13 @@
                         <com.google.android.material.textfield.TextInputEditText
                             android:id="@+id/is_chaf_pp"
                             android:layout_width="wrap_content"
-                            android:layout_height="34dp"
+                            android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:text=""
                             android:textAlignment="textEnd"
                             android:textColor="@color/black"
-                            android:textSize="15sp" />
+                            android:textSize="15sp"
+                            android:enabled="false"/>
                     </LinearLayout>
 
                     <View
@@ -284,7 +308,9 @@
                         android:layout_marginTop="1dp"
                         android:layout_marginEnd="10dp"
                         android:layout_marginBottom="1dp"
-                        android:background="#d9d9d9" />
+                        android:background="#d9d9d9"
+
+                        />
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -293,7 +319,9 @@
                         android:layout_marginTop="10dp"
                         android:layout_marginEnd="10dp"
                         android:layout_marginBottom="10dp"
-                        android:orientation="horizontal">
+                        android:orientation="horizontal"
+                        android:visibility="gone"
+                        >
 
                         <TextView
                             android:id="@+id/favorit_recpie"
@@ -308,7 +336,7 @@
                         <com.google.android.material.textfield.TextInputEditText
                             android:id="@+id/favorit_recipe_pp"
                             android:layout_width="wrap_content"
-                            android:layout_height="35dp"
+                            android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:text=""
                             android:textAlignment="textEnd"
@@ -324,7 +352,8 @@
                         android:layout_marginTop="1dp"
                         android:layout_marginEnd="10dp"
                         android:layout_marginBottom="1dp"
-                        android:background="#d9d9d9" />
+                        android:background="#d9d9d9"
+                        android:visibility="gone"/>
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -333,7 +362,9 @@
                         android:layout_marginTop="10dp"
                         android:layout_marginEnd="10dp"
                         android:layout_marginBottom="10dp"
-                        android:orientation="horizontal">
+                        android:orientation="horizontal"
+                        android:visibility="gone"
+                        >
 
                         <TextView
                             android:id="@+id/wabsite"
@@ -348,12 +379,14 @@
                         <com.google.android.material.textfield.TextInputEditText
                             android:id="@+id/wabsite_pp"
                             android:layout_width="wrap_content"
-                            android:layout_height="35dp"
+                            android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:text=""
                             android:textAlignment="textEnd"
                             android:textColor="@color/black"
-                            android:textSize="15sp" />
+                            android:textSize="15sp"
+
+                            />
                     </LinearLayout>
 
                     <View
@@ -364,7 +397,9 @@
                         android:layout_marginTop="1dp"
                         android:layout_marginEnd="10dp"
                         android:layout_marginBottom="1dp"
-                        android:background="#d9d9d9" />
+                        android:background="#d9d9d9"
+                        android:visibility="gone"/>
+
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -373,13 +408,13 @@
                         android:layout_marginTop="10dp"
                         android:layout_marginEnd="10dp"
                         android:layout_marginBottom="1dp"
-                        android:orientation="horizontal">
+                        android:orientation="horizontal"
+                        android:visibility="gone">
 
                         <TextView
                             android:id="@+id/textView3"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="1"
                             android:text="Ranking:"
                             android:textColor="@color/black"
                             android:textSize="16sp"
@@ -388,13 +423,28 @@
                         <com.google.android.material.textfield.TextInputEditText
                             android:id="@+id/ranking_p"
                             android:layout_width="wrap_content"
-                            android:layout_height="34dp"
+                            android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:text=""
                             android:textAlignment="textEnd"
                             android:textColor="@color/black"
-                            android:textSize="15sp" />
+                            android:textSize="15sp"
+                            android:enabled="false"/>
+
+
                     </LinearLayout>
+
+                    <View
+                        android:id="@+id/view8"
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginBottom="1dp"
+                        android:background="#d9d9d9"
+                        android:visibility="gone"
+                        />
 
                 </LinearLayout>
 
@@ -418,7 +468,8 @@
                     android:text="Update Image"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="@+id/view2"
-                    app:layout_constraintTop_toBottomOf="@+id/linearLayout" />
+                    app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+                    android:visibility="gone"/>
 
                 <Button
                     android:id="@+id/update_profile_pp"
@@ -429,12 +480,9 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toStartOf="@+id/update_photo_pp"
                     app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toBottomOf="@+id/linearLayout" />
+                    app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+                    android:visibility="gone"/>
 
-
-
-
-            </androidx.constraintlayout.widget.ConstraintLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"

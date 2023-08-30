@@ -143,7 +143,7 @@ public class LoginGoogle extends AppCompatActivity {
                 @Override
                 public void onSuccess(DataSnapshot dataSnapshot) {
                     if (!dataSnapshot.exists()) {
-                        AddEmailToEmailTree();
+//                        AddEmailToEmailTree();
                         Intent intent = new Intent(getApplicationContext(), ApplyChef.class);
                         startActivity(intent);
                     }else {
@@ -170,26 +170,26 @@ public class LoginGoogle extends AppCompatActivity {
         }
     }
 
-    private void AddEmailToEmailTree() {
-        FirebaseUser firebaseUser = mAuth.getCurrentUser();
-        if (firebaseUser != null) {
-            String userEmail = firebaseUser.getEmail();
-            String preUserEmail = userEmail.replace(".", "{*}");
-            String uid = firebaseUser.getUid();
-            FirebaseDatabase.getInstance().getReference("email").child(preUserEmail).setValue(uid).addOnCompleteListener(new OnCompleteListener<Void>() {
-                @Override
-                public void onComplete(@NonNull Task<Void> task) {
-                    if (task.isSuccessful()) {
-                        Toast.makeText(LoginGoogle.this, "Success on adding the email ", Toast.LENGTH_LONG).show();
-
-                    } else {
-                        Toast.makeText(LoginGoogle.this, "Error adding the email ", Toast.LENGTH_LONG).show();
-                    }
-
-                }
-            });
-        }
-    }
+//    private void AddEmailToEmailTree() {
+//        FirebaseUser firebaseUser = mAuth.getCurrentUser();
+//        if (firebaseUser != null) {
+//            String userEmail = firebaseUser.getEmail();
+//            String preUserEmail = userEmail.replace(".", "{*}");
+//            String uid = firebaseUser.getUid();
+//            FirebaseDatabase.getInstance().getReference("email").child(preUserEmail).setValue(uid).addOnCompleteListener(new OnCompleteListener<Void>() {
+//                @Override
+//                public void onComplete(@NonNull Task<Void> task) {
+//                    if (task.isSuccessful()) {
+//                        Toast.makeText(LoginGoogle.this, "Success on adding the email ", Toast.LENGTH_LONG).show();
+//
+//                    } else {
+//                        Toast.makeText(LoginGoogle.this, "Error adding the email ", Toast.LENGTH_LONG).show();
+//                    }
+//
+//                }
+//            });
+//        }
+//    }
 
 
 }

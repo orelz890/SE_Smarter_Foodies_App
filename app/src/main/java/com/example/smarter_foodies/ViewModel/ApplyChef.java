@@ -17,9 +17,12 @@ import android.widget.Toast;
 
 import com.example.smarter_foodies.Model.User;
 import com.example.smarter_foodies.R;
+import com.google.android.gms.auth.api.signin.GoogleSignIn;
+import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.auth.UserProfileChangeRequest;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -111,22 +114,34 @@ public class ApplyChef extends AppCompatActivity {
 
 
     private void insertUser(String name){
-        FirebaseUser firebaseUser = mAuth.getCurrentUser();
+//        FirebaseUser firebaseUser = mAuth.getCurrentUser();
         User user = new User(name);
         if (user.isFirstEntry()) {
             user.setFirstEntry(false);
-            FirebaseDatabase.getInstance().getReference("users").child(firebaseUser.getUid()).setValue(user).addOnCompleteListener(task -> {
-                if(task.isSuccessful()){
-                            Toast.makeText(ApplyChef.this, "WELCOME " + name.toUpperCase(), Toast.LENGTH_LONG).show();
-                            startActivity(new Intent(ApplyChef.this, SearchRecipe.class));
-                        }
-                else{
-                    Toast.makeText(ApplyChef.this, "Error adding the user data", Toast.LENGTH_LONG).show();
-                    startActivity(new Intent(ApplyChef.this, LoginGoogle.class));
-                }
+//            FirebaseDatabase.getInstance().getReference("users").child(firebaseUser.getUid()).setValue(user).addOnCompleteListener(task -> {
+//                if(task.isSuccessful()){
+//                            Toast.makeText(ApplyChef.this, "WELCOME " + name.toUpperCase(), Toast.LENGTH_LONG).show();
+//                            startActivity(new Intent(ApplyChef.this, SearchRecipe.class));
+//                        }
+//                else{
+//                    Toast.makeText(ApplyChef.this, "Error adding the user data", Toast.LENGTH_LONG).show();
+//                    startActivity(new Intent(ApplyChef.this, LoginGoogle.class));
+//                }
+//
+//            });
+            updateUserNicknameToAuth(name);
+        }
 
-            });
+    }
 
+    private void updateUserNicknameToAuth(String name) {
+        FirebaseUser firebaseUser = FirebaseAuth.getInstance().getCurrentUser();
+        if (firebaseUser != null) {
+            UserProfileChangeRequest profileUpdates = new UserProfileChangeRequest.Builder()
+                    .setDisplayName(name)
+                    .build();
+
+            firebaseUser.updateProfile(profileUpdates);
         }
 
     }

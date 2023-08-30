@@ -59,7 +59,8 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"
         android:hint="vegetarian/vegan/carnivore"
-        android:id="@+id/type_up">
+        android:id="@+id/type_up"
+        android:visibility="gone">
 
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
@@ -77,7 +78,8 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"
         android:hint="A favorite recipe"
-        android:id="@+id/favorite_up">
+        android:id="@+id/favorite_up"
+        android:visibility="gone">
 
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
@@ -94,7 +96,9 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"
         android:hint="website"
-        android:id="@+id/website_up">
+        android:id="@+id/website_up"
+        android:visibility="gone"
+        >
 
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"

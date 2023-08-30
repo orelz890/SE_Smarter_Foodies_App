@@ -49,10 +49,9 @@
 
             <TextView
                 android:id="@+id/nn"
-                android:layout_width="22dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="Full name:"
+                android:text="Name:"
                 android:textColor="@color/black"
                 android:textSize="18sp"
                 android:textStyle="bold" />
@@ -60,7 +59,7 @@
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/name_up"
                 android:layout_width="wrap_content"
-                android:layout_height="34dp"
+                android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text=""
                 android:textAlignment="textEnd"
@@ -76,7 +75,8 @@
             android:layout_marginTop="5dp"
             android:layout_marginEnd="10dp"
             android:layout_marginBottom="5dp"
-            android:background="#d9d9d9" />
+            android:background="#d9d9d9"
+            android:visibility="gone"/>
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -85,7 +85,8 @@
             android:layout_marginTop="10dp"
             android:layout_marginEnd="10dp"
             android:layout_marginBottom="10dp"
-            android:orientation="horizontal">
+            android:orientation="horizontal"
+            android:visibility="gone">
 
             <TextView
                 android:id="@+id/favorit_recpie"
@@ -116,7 +117,8 @@
             android:layout_marginTop="5dp"
             android:layout_marginEnd="10dp"
             android:layout_marginBottom="5dp"
-            android:background="#d9d9d9" />
+            android:background="#d9d9d9"
+            android:visibility="gone"/>
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -125,7 +127,8 @@
             android:layout_marginTop="10dp"
             android:layout_marginEnd="10dp"
             android:layout_marginBottom="10dp"
-            android:orientation="horizontal">
+            android:orientation="horizontal"
+            android:visibility="gone">
 
             <TextView
                 android:id="@+id/wabsite"
@@ -165,27 +168,30 @@
             android:layout_marginTop="10dp"
             android:layout_marginEnd="10dp"
             android:layout_marginBottom="10dp"
-            android:orientation="horizontal">
+            android:orientation="horizontal"
+            >
 
             <TextView
                 android:id="@+id/is_chaf"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
                 android:text="Email:"
-                android:textColor="@color/black"
+                android:textColor="@color/Gray"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/email_uup"
                 android:layout_width="wrap_content"
-                android:layout_height="34dp"
+                android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text=""
                 android:textAlignment="textEnd"
-                android:textColor="@color/black"
-                android:textSize="15sp" />
+                android:textColor="@color/Gray"
+                android:textSize="15sp"
+                android:clickable="false"
+                android:enabled="false"
+                />
         </LinearLayout>
     </LinearLayout>
 
