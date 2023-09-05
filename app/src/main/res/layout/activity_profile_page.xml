@@ -67,7 +67,7 @@
                     >
 
                     <de.hdodenhof.circleimageview.CircleImageView
-                        android:id="@+id/imageView4"
+                        android:id="@+id/CIV_pic"
                         android:layout_width="114dp"
                         android:layout_height="106dp"
                         android:src="@drawable/ic_empty"
@@ -83,8 +83,8 @@
                         android:id="@+id/IV_choose_pic"
                         android:layout_width="30dp"
                         android:layout_height="30dp"
-                        android:layout_alignEnd="@+id/imageView4"
-                        android:layout_alignBottom="@+id/imageView4"
+                        android:layout_alignEnd="@+id/CIV_pic"
+                        android:layout_alignBottom="@+id/CIV_pic"
                         android:src="@drawable/camera"
                         />
                 </RelativeLayout>

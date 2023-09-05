@@ -1,6 +1,7 @@
 package com.example.smarter_foodies.ViewModel;
 
 import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 
 import android.content.Intent;
@@ -18,6 +19,7 @@ import android.widget.Toast;
 import com.example.smarter_foodies.DashboardActivity;
 import com.example.smarter_foodies.Model.User;
 import com.example.smarter_foodies.R;
+import com.github.drjacky.imagepicker.ImagePicker;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -49,20 +51,18 @@ public class profile_page extends DashboardActivity {
     String Uid;
 
     //for the popup update
-    TextInputEditText name_pop, email_pop, fevorit_recpie_pop, website_pop, ranking_pop;
+    TextInputEditText name_pop, email_pop;
     Button save_btn_pop, cancel_btn_pop;
 
-    private AlertDialog.Builder dialogbilder;
     private AlertDialog dialog;
 
     // the rating app
     RatingBar ratingBar;
     Button save_rate, cancel_rate, submit_rate;
     TextInputEditText text_rating;
-    private AlertDialog dialog_for_ranking;
-    private AlertDialog.Builder dialogbilder_for_ranking;
     private String email, nickname;
     private ImageView IV_choose_pic;
+    private Uri uriImage;
 
 
     protected void onCreate(Bundle savedInstanceState) {
@@ -101,7 +101,7 @@ public class profile_page extends DashboardActivity {
 
 
         firebaseUser = FirebaseAuth.getInstance().getCurrentUser();
-        image_profile = findViewById(R.id.imageView4);
+        image_profile = findViewById(R.id.CIV_pic);
 
         FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
         assert user != null;
@@ -150,33 +150,43 @@ public class profile_page extends DashboardActivity {
             }
         });
 
-        update_profile_btn.setOnClickListener(view -> {
-            createNewContactDialog();
-        });
+//        update_profile_btn.setOnClickListener(view -> {
+//            createNewContactDialog();
+//        });
 
-//        update_photo_btn.setOnClickListener(view -> {
+        IV_choose_pic.setOnClickListener(view -> {
 //            try {
 //                moveto_my_update_photo();
 //            } catch (MessagingException | IOException | GeneralSecurityException e) {
 //                e.printStackTrace();
 //            }
-//        });
-
-        IV_choose_pic.setOnClickListener(view -> {
             try {
-                moveto_my_update_photo();
-            } catch (MessagingException | IOException | GeneralSecurityException e) {
-                e.printStackTrace();
+                ImagePicker.Companion.with(profile_page.this)
+                        .crop()                    //Crop image(Optional), Check Customization for more option
+//                            .cropSquare()
+                        .cropOval()
+                        .compress(1024)            //Final image size will be less than 1 MB(Optional)
+                        .maxResultSize(1080, 1080)    //Final image resolution will be less than 1080 x 1080(Optional)
+                        .start();
+            } catch (Exception ignored) {
+
             }
         });
 
 
-        ranking_btn.setOnClickListener(view -> {
-            createNewContactDialogforranking();
-        });
+//        ranking_btn.setOnClickListener(view -> {
+//            createNewContactDialogforranking();
+//        });
 
     }
 
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        uriImage = data.getData();
+        image_profile.setImageURI(uriImage);
+
+    }
 
     private void moveto_favorit_dishs() throws MessagingException, IOException, GeneralSecurityException {
         startActivity(new Intent(profile_page.this, likedRecipes.class));
@@ -191,33 +201,54 @@ public class profile_page extends DashboardActivity {
     }
 
 
-    public void createNewContactDialog() {
+//    public void createNewContactDialog() {
+//
+//        dialogbilder = new AlertDialog.Builder(this);
+//        final View popupview = getLayoutInflater().inflate(R.layout.activity_popup, null);
+//        name_pop = popupview.findViewById(R.id.name_up);
+//        email_pop = popupview.findViewById(R.id.email_uup);
+//        save_btn_pop = popupview.findViewById(R.id.update_profile_up);
+//        cancel_btn_pop = popupview.findViewById(R.id.Cancel_changing_up);
+//
+//        dialogbilder.setView(popupview);
+//        dialog = dialogbilder.create();
+//        dialog.show();
+//
+//
+//        // to show the cuurent data on the scrren
+//        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
+//        if (user != null) {
+//            Objects.requireNonNull(name_pop).setText(nickname);
+//            Objects.requireNonNull(email_pop).setText(email);
+//            save_btn_pop.setOnClickListener(view -> {
+//                UpdateProfileUserTree(Objects.requireNonNull(name_pop.getText()).toString());
+//                startActivity(new Intent(profile_page.this, profile_page.class));
+//            });
+//
+//        }
+//
+//        cancel_btn_pop.setOnClickListener(view -> {
+//
+//            startActivity(new Intent(profile_page.this, profile_page.class));
+//        });
+//
+//    }
 
-        dialogbilder = new AlertDialog.Builder(this);
-        final View popupview = getLayoutInflater().inflate(R.layout.activity_popup, null);
-        name_pop = popupview.findViewById(R.id.name_up);
-        email_pop = popupview.findViewById(R.id.email_uup);
-        fevorit_recpie_pop = popupview.findViewById(R.id.favorit_recipe_up);
-        website_pop = popupview.findViewById(R.id.wabsite_up);
-
-        save_btn_pop = popupview.findViewById(R.id.update_profile_up);
-        cancel_btn_pop = popupview.findViewById(R.id.Cancel_changing_up);
-
-        dialogbilder.setView(popupview);
-        dialog = dialogbilder.create();
-        dialog.show();
-
-
-        // to show the cuurent data on the scrren
-        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
-        if (user != null) {
-            Objects.requireNonNull(name_pop).setText(nickname);
-            Objects.requireNonNull(email_pop).setText(email);
-            save_btn_pop.setOnClickListener(view -> {
-                UpdateProfileUserTree(Objects.requireNonNull(name_pop.getText()).toString());
-                startActivity(new Intent(profile_page.this, profile_page.class));
-            });
-
+//    public void createNewContactDialogforranking() {
+//        dialogbilder_for_ranking = new AlertDialog.Builder(this);
+//        final View popupview_ranking = getLayoutInflater().inflate(R.layout.ranking_popup, null);
+//        ratingBar = popupview_ranking.findViewById(R.id.ranking_up_bar);
+//        save_rate = popupview_ranking.findViewById(R.id.save_ranking_up);
+//        cancel_rate = popupview_ranking.findViewById(R.id.Cancel_ranking_up);
+//        text_rating = popupview_ranking.findViewById(R.id.ranking_up_txt);
+//        submit_rate = popupview_ranking.findViewById(R.id.submit);
+//
+//        dialogbilder_for_ranking.setView(popupview_ranking);
+//        dialog_for_ranking = dialogbilder_for_ranking.create();
+//        dialog_for_ranking.show();
+//
+//        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
+//        if (user != null) {
 //            String uid = user.getUid();
 //
 //            DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
@@ -228,16 +259,16 @@ public class profile_page extends DashboardActivity {
 //                    if (snapshot_users.exists()) {
 //                        User user = snapshot_users.getValue(User.class);
 //                        if (user != null) {
-////                            Objects.requireNonNull(name_pop).setText(user.getName());
-////                            Objects.requireNonNull(email_pop).setText(user.getEmail());
-//                            Objects.requireNonNull(fevorit_recpie_pop).setText(user.getFavorite());
-//                            Objects.requireNonNull(website_pop).setText(user.getWebsite());
-//                            Objects.requireNonNull(ischaf).setText("" + user.isChef());
-//
-//                            Objects.requireNonNull(name_pop).setText(nickname);
-//                            Objects.requireNonNull(email_pop).setText(email);
-//                            save_btn_pop.setOnClickListener(view -> {
-//                                UpdateProfileUserTree(reference, user);
+//                            Objects.requireNonNull(text_rating).setText(user.getRating());
+//                            submit_rate.setOnClickListener(view -> {
+//                                String sub = String.valueOf(ratingBar.getRating());
+//                                text_rating.setText(sub);
+//                            });
+//                            save_rate.setOnClickListener(view -> {
+//                                UpdateProfileUserTreee(reference, user);
+//                                startActivity(new Intent(profile_page.this, profile_page.class));
+//                            });
+//                            cancel_rate.setOnClickListener(view -> {
 //                                startActivity(new Intent(profile_page.this, profile_page.class));
 //                            });
 //                        }
@@ -249,12 +280,10 @@ public class profile_page extends DashboardActivity {
 //
 //                }
 //
-//                private void UpdateProfileUserTree(DatabaseReference reference, User user) {
+//                private void UpdateProfileUserTreee(DatabaseReference reference, User user) {
 //                    // what we get after the changing
-//                    user.setName(String.valueOf(Objects.requireNonNull(name_pop).getText()));
-//                    user.setEmail(String.valueOf(Objects.requireNonNull(email_pop).getText()));
-//                    user.setFavorite(String.valueOf(Objects.requireNonNull(fevorit_recpie_pop).getText()));
-//                    user.setWebsite(String.valueOf(Objects.requireNonNull(website_pop).getText()));
+//
+//                    user.setRating(String.valueOf(Objects.requireNonNull(text_rating).getText()));
 //
 //                    reference.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
 //                        @Override
@@ -265,79 +294,10 @@ public class profile_page extends DashboardActivity {
 //
 //                }
 //            });
-        }
-
-        cancel_btn_pop.setOnClickListener(view -> {
-
-            startActivity(new Intent(profile_page.this, profile_page.class));
-        });
-
-    }
-
-    public void createNewContactDialogforranking() {
-        dialogbilder_for_ranking = new AlertDialog.Builder(this);
-        final View popupview_ranking = getLayoutInflater().inflate(R.layout.ranking_popup, null);
-        ratingBar = popupview_ranking.findViewById(R.id.ranking_up_bar);
-        save_rate = popupview_ranking.findViewById(R.id.save_ranking_up);
-        cancel_rate = popupview_ranking.findViewById(R.id.Cancel_ranking_up);
-        text_rating = popupview_ranking.findViewById(R.id.ranking_up_txt);
-        submit_rate = popupview_ranking.findViewById(R.id.submit);
-
-        dialogbilder_for_ranking.setView(popupview_ranking);
-        dialog_for_ranking = dialogbilder_for_ranking.create();
-        dialog_for_ranking.show();
-
-        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
-        if (user != null) {
-            String uid = user.getUid();
-
-            DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
-
-            reference.addValueEventListener(new ValueEventListener() {
-                @Override
-                public void onDataChange(@NonNull DataSnapshot snapshot_users) {
-                    if (snapshot_users.exists()) {
-                        User user = snapshot_users.getValue(User.class);
-                        if (user != null) {
-                            Objects.requireNonNull(text_rating).setText(user.getRating());
-                            submit_rate.setOnClickListener(view -> {
-                                String sub = String.valueOf(ratingBar.getRating());
-                                text_rating.setText(sub);
-                            });
-                            save_rate.setOnClickListener(view -> {
-                                UpdateProfileUserTreee(reference, user);
-                                startActivity(new Intent(profile_page.this, profile_page.class));
-                            });
-                            cancel_rate.setOnClickListener(view -> {
-                                startActivity(new Intent(profile_page.this, profile_page.class));
-                            });
-                        }
-                    }
-                }
-
-                @Override
-                public void onCancelled(@NonNull DatabaseError error) {
-
-                }
-
-                private void UpdateProfileUserTreee(DatabaseReference reference, User user) {
-                    // what we get after the changing
-
-                    user.setRating(String.valueOf(Objects.requireNonNull(text_rating).getText()));
-
-                    reference.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
-                        @Override
-                        public void onComplete(@NonNull Task<Void> task) {
-                            Toast.makeText(profile_page.this, "Data updated!", Toast.LENGTH_LONG).show();
-                        }
-                    });
-
-                }
-            });
-
-
-        }
-    }
+//
+//
+//        }
+//    }
 
     private void UpdateProfileUserTree(String name) {
         System.out.println("/n/nUpdateProfileUserTree -- Name = " + name + "/n/n");

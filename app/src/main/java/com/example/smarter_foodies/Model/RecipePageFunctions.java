@@ -22,32 +22,32 @@ public class RecipePageFunctions {
         return ans;
     }
 
-    public static String ingaridiants(String[] ingardiants) {
-        String ingardiant = "";
-        if (ingardiants != null) {
-            if (ingardiants[0].contains(":")){
+    public static String recipeIngredients(String[] ingredients) {
+        StringBuilder ans = new StringBuilder();
+        if (ingredients != null) {
+            if (ingredients[0].contains(":")){
                 String[] tempSplit;
-                for (int i = 0; i < ingardiants.length; i++) {
-                    tempSplit = ingardiants[i].split(":");
-                    ingardiant = ingardiant + tempSplit[0] + "g " + tempSplit[1] + "\n";
+                for (int i = 0; i < ingredients.length; i++) {
+                    tempSplit = ingredients[i].split(":");
+                    ans.append(tempSplit[0]).append("g ").append(tempSplit[1]).append("\n");
                 }
             }
             else{
-                for (int i = 0; i < ingardiants.length; i++) {
-                    ingardiant = ingardiant + ingardiants[i] + "\n";
+                for (int i = 0; i < ingredients.length; i++) {
+                    ans.append(ingredients[i]).append("\n");
                 }
             }
 
-            return ingardiant;
+            return ans.toString();
         }
         return " no inga V2 ";
     }
 
-    public static String directions(String[] direcations) {
+    public static String directions(String[] directions) {
         String direcation = "";
-        if (direcations != null) {
-            for (int i = 0; i < direcations.length; i++) {
-                direcation = direcation + "STEP " + i + ": " + direcations[i] + "\n\n";
+        if (directions != null) {
+            for (int i = 0; i < directions.length; i++) {
+                direcation = direcation + "STEP " + i + ":\n" + directions[i] + "\n\n";
             }
             return direcation;
         }
@@ -103,7 +103,7 @@ public class RecipePageFunctions {
         intent.putExtra("fats", res.getFat());
         intent.putExtra("calories", res.getCalories());
 
-        intent.putExtra("ingardiants", RecipePageFunctions.List_of_string_to_array(res.getIngredients()));
+        intent.putExtra("ingredients", RecipePageFunctions.List_of_string_to_array(res.getIngredients()));
         intent.putExtra("HowToMake", RecipePageFunctions.List_of_string_to_array(res.getDirections()));
 
         intent.putExtra("prepTime", res.getPrepTime());
