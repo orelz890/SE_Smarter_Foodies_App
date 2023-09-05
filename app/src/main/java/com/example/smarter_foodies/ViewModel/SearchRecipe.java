@@ -279,8 +279,14 @@ public class SearchRecipe extends DashboardActivity {
 
     public void defineRecycleView() {
         mRecyclerView = (RecyclerView) findViewById(R.id.recyclerSearchView);
-        GridLayoutManager gridLayoutManager = new GridLayoutManager(SearchRecipe.this, 1);
+//        GridLayoutManager gridLayoutManager = new GridLayoutManager(SearchRecipe.this, 1);
+        GridLayoutManager gridLayoutManager = new GridLayoutManager(SearchRecipe.this, 2);
         mRecyclerView.setLayoutManager(gridLayoutManager);
+
+// Adjust the spacing as needed
+        int horizontalSpacingInPixels = getResources().getDimensionPixelSize(R.dimen.horizontal_spacing);
+        int verticalSpacingInPixels = getResources().getDimensionPixelSize(R.dimen.vertical_spacing);
+        mRecyclerView.addItemDecoration(new GridSpacingItemDecoration(2, horizontalSpacingInPixels, verticalSpacingInPixels, true));
     }
 
     private void setByNameRecyclerAdapter(String recipeName) {
@@ -297,7 +303,12 @@ public class SearchRecipe extends DashboardActivity {
                         myFoodList.add(curr_recipe);
                     }
                     Collections.shuffle(myFoodList);
-                    myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
+
+                    // Get the height and width of the screen
+                    int screenWidth = getResources().getDisplayMetrics().widthPixels;
+                    int screenHeight = getResources().getDisplayMetrics().heightPixels;
+
+                    myAdapter = new MyAdapter(SearchRecipe.this, myFoodList, screenWidth, screenHeight);
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }
@@ -327,7 +338,11 @@ public class SearchRecipe extends DashboardActivity {
                         }
                     }
                     Collections.shuffle(myFoodList);
-                    myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
+                    // Get the height and width of the screen
+                    int screenWidth = getResources().getDisplayMetrics().widthPixels;
+                    int screenHeight = getResources().getDisplayMetrics().heightPixels;
+
+                    myAdapter = new MyAdapter(SearchRecipe.this, myFoodList, screenWidth, screenHeight);
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }
@@ -351,7 +366,11 @@ public class SearchRecipe extends DashboardActivity {
                         }
                     }
                     Collections.shuffle(myFoodList);
-                    myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
+                    // Get the height and width of the screen
+                    int screenWidth = getResources().getDisplayMetrics().widthPixels;
+                    int screenHeight = getResources().getDisplayMetrics().heightPixels;
+
+                    myAdapter = new MyAdapter(SearchRecipe.this, myFoodList, screenWidth, screenHeight);
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }
@@ -372,7 +391,11 @@ public class SearchRecipe extends DashboardActivity {
                         myFoodList.add(name);
                     }
                     Collections.shuffle(myFoodList);
-                    myAdapter = new MyAdapter(SearchRecipe.this, myFoodList);
+                    // Get the height and width of the screen
+                    int screenWidth = getResources().getDisplayMetrics().widthPixels;
+                    int screenHeight = getResources().getDisplayMetrics().heightPixels;
+
+                    myAdapter = new MyAdapter(SearchRecipe.this, myFoodList, screenWidth, screenHeight);
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }
