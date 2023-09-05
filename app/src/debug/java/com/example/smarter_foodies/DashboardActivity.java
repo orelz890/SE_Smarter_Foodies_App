@@ -27,6 +27,7 @@ public class DashboardActivity extends DrawerBaseActivity {
         super.onCreate(savedInstanceState);
         activityDashboardBinding = ActivityDashboardBinding.inflate(getLayoutInflater());
 
+
         FirebaseUser fUser = FirebaseAuth.getInstance().getCurrentUser();
         if (fUser != null) {
             String uid = fUser.getUid();
@@ -54,56 +55,8 @@ public class DashboardActivity extends DrawerBaseActivity {
                 }
             });
             allocateActivityTitle("Dashboard");
-//            .addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
-//                @Override
-//                public void onSuccess(DataSnapshot dataSnapshot) {
-//                    if (dataSnapshot.exists()) {
-//                        String isChef = dataSnapshot.getValue(String.class);
-//                        if (isChef.equals("true")) {
-//                            setUserContentView(activityDashboardBinding.getRoot(), true);
-////                            setUserContentView(activityDashboardBinding.getRoot(), true);
-//                        } else {
-//                            setUserContentView(activityDashboardBinding.getRoot(), false);
-//                        }
-//                    } else {
-//                        Toast.makeText(DashboardActivity.this, "Please sign in first", Toast.LENGTH_LONG).show();
-//                        startActivity(new Intent(DashboardActivity.this, LoginGoogle.class));
-//                    }
-//                }
-//            }).addOnFailureListener(new OnFailureListener() {
-//                @Override
-//                public void onFailure(@NonNull Exception e) {
-//                    Log.d("TAG", e.getMessage());
-//                }
-//
-//            });
-//            allocateActivityTitle("Dashboard");
-//        }
         }
     }
 }
-//               .addValueEventListener(new ValueEventListener() {
-//                @Override
-//                public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-//                    if (dataSnapshot.exists()) {
-//                        User user1 = dataSnapshot.getValue(User.class);
-//                        if (user1 != null) {
-//                            setUserContentView(activityDashboardBinding.getRoot(), user1.isChef());
-////                            setUserContentView(activityDashboardBinding.getRoot(), true);
-//                        }
-//                        else{
-//                            setUserContentView(activityDashboardBinding.getRoot(), false);
-//                        }
-//                    }else{
-//                        Toast.makeText(DashboardActivity.this, "Please sign in first", Toast.LENGTH_LONG).show();
-//                        startActivity(new Intent(DashboardActivity.this, LoginGoogle.class));
-//                    }
-//                }
-//
-//                @Override
-//                public void onCancelled(@NonNull DatabaseError error) {
-//                    Log.d("TAG", error.getMessage());
-//                }
-//            });
-// allocateActivityTitle("Dashboard");
+
 

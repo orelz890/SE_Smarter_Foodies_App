@@ -166,7 +166,11 @@ public class MainActivity extends DashboardActivity {
                         }
                     }
                     Collections.shuffle(myFoodList);
-                    myAdapter = new MyAdapter(MainActivity.this, myFoodList);
+                    // Get the height and width of the screen
+                    int screenWidth = getResources().getDisplayMetrics().widthPixels;
+                    int screenHeight = getResources().getDisplayMetrics().heightPixels;
+
+                    myAdapter = new MyAdapter(MainActivity.this, myFoodList, screenWidth, screenHeight);
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }

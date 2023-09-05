@@ -34,18 +34,21 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder> {
 
     private Context mContext;
     private List<recipe> myFoodList;
+    private int screenWidth, screenHeight;
 
 
-    public MyAdapter(Context mContext, List<recipe> myFoodList) {
+    public MyAdapter(Context mContext, List<recipe> myFoodList, int screenWidth, int screenHeight) {
         this.mContext = mContext;
         this.myFoodList = myFoodList;
+        this.screenWidth = screenWidth;
+        this.screenHeight = screenHeight;
     }
 
     @Override
     public FoodViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
 
         View mView = LayoutInflater.from(parent.getContext()).inflate(R.layout.recycler_raw_item, parent, false);
-        return new FoodViewHolder(mView);
+        return new FoodViewHolder(mView, screenWidth, screenHeight);
     }
 
     @Override
@@ -217,14 +220,26 @@ class FoodViewHolder extends RecyclerView.ViewHolder {
 
     CRUD_RealTimeDatabaseData CRUD;
 
-    public FoodViewHolder(View itemView) {
+    public FoodViewHolder(View itemView, int screenWidth, int screenHeight) {
         super(itemView);
         CRUD = new CRUD_RealTimeDatabaseData();
         imageView = itemView.findViewById(R.id.iv_image);
         mTitle = itemView.findViewById(R.id.tv_recipe_title);
         mCalories = itemView.findViewById(R.id.tv_calories);
-        mCardView = itemView.findViewById(R.id.myCardView);
         mHeart = itemView.findViewById(R.id.ib_search_like_recycler);
         mCart = itemView.findViewById(R.id.ib_add_to_cart_);
+        mCardView = itemView.findViewById(R.id.myCardView);
+
+
+
+        // Calculate the desired width and height for the CardView
+        int desiredWidth = (int) (screenWidth * 0.45);
+        int desiredHeight = (int) (screenHeight * 0.4);
+
+        // Set the dimensions for the CardView programmatically
+        ViewGroup.LayoutParams layoutParams = mCardView.getLayoutParams();
+        layoutParams.width = desiredWidth;
+//        layoutParams.height = desiredHeight;
+        mCardView.setLayoutParams(layoutParams);
     }
 }

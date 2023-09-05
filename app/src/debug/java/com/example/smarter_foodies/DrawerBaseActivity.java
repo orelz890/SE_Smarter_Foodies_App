@@ -1,13 +1,17 @@
 package com.example.smarter_foodies;
 
 import androidx.annotation.NonNull;
+import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
+import androidx.core.content.ContextCompat;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
 import android.content.Intent;
+import android.graphics.PorterDuff;
+import android.graphics.drawable.Drawable;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.FrameLayout;
@@ -35,20 +39,20 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
     Toolbar toolbar = null;
 
     @Override
-    public void setContentView(View view){
+    public void setContentView(View view) {
         if (flag) {
             if (isChef) {
                 if (navigationView != null) {
                     navigationView.getMenu().clear();
                     navigationView.inflateMenu(R.menu.main_drawer_menu_chef);
                 }
-            }else{
+            } else {
                 if (navigationView != null) {
                     navigationView.getMenu().clear();
                     navigationView.inflateMenu(R.menu.main_drawer_menu_basic);
                 }
             }
-        }else {
+        } else {
             drawerLayout = (DrawerLayout) getLayoutInflater().inflate(R.layout.activity_drawer_base_basic, null);
             FrameLayout container = drawerLayout.findViewById(R.id.activityContainer);
             container.removeAllViews();
@@ -60,7 +64,13 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
                 toolbar.removeAllViews();
             }
             toolbar = drawerLayout.findViewById(R.id.tool_bar);
+
+            if (toolbar != null) {
+                toolbar.setBackgroundColor(ContextCompat.getColor(this, android.R.color.white)); // Set background color to white
+                toolbar.setTitleTextColor(ContextCompat.getColor(this, android.R.color.black)); // Set title text color to black
+            }
             setSupportActionBar(toolbar);
+
 
             if (navigationView != null) {
                 navigationView.removeAllViews();
@@ -81,38 +91,37 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
         drawerLayout.closeDrawer(GravityCompat.START);
         if (isChef) {
             handleChefMenu(item);
-        }
-        else {
+        } else {
             handleBasicMenu(item);
         }
         return false;
     }
 
-    public void setUserContentView(View view, boolean isChef){
+    public void setUserContentView(View view, boolean isChef) {
         this.isChef = isChef;
         flag = true;
         setContentView(view);
     }
 
-    private void handleChefMenu(MenuItem item){
-        switch (item.getItemId()){
+    private void handleChefMenu(MenuItem item) {
+        switch (item.getItemId()) {
             case R.id.nav_weekly_planing:
                 startActivity(new Intent(this, WeeklyPlan.class));
                 // For smooth transition
-                overridePendingTransition(0,0);
+                overridePendingTransition(0, 0);
                 break;
 
             case R.id.nav_home:
                 startActivity(new Intent(this, SearchRecipe.class));
                 // For smooth transition
-                overridePendingTransition(0,0);
+                overridePendingTransition(0, 0);
                 break;
 
 
             case R.id.nav_favorites:             // need to build favorites page first
                 startActivity(new Intent(this, likedRecipes.class));
                 // For smooth transition
-                overridePendingTransition(0,0);
+                overridePendingTransition(0, 0);
                 break;
 //
 //            case R.id.nav_cart:
@@ -123,45 +132,45 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
             case R.id.nav_profile:
                 startActivity(new Intent(this, profile_page.class));
                 // For smooth transition
-                overridePendingTransition(0,0);
+                overridePendingTransition(0, 0);
                 break;
 
             case R.id.nav_add_recipe:
                 startActivity(new Intent(this, AddRecipe.class));
-                overridePendingTransition(0,0);
+                overridePendingTransition(0, 0);
                 break;
 
             case R.id.nav_update_recipe:
                 startActivity(new Intent(this, UpdateRecipe.class));
-                overridePendingTransition(0,0);
+                overridePendingTransition(0, 0);
                 break;
 
             case R.id.nav_logOut:
                 FirebaseAuth.getInstance().signOut();
                 startActivity(new Intent(this, LoginGoogle.class));
-                overridePendingTransition(0,0);
+                overridePendingTransition(0, 0);
                 break;
 
         }
     }
 
-    private void handleBasicMenu(MenuItem item){
-        switch (item.getItemId()){
+    private void handleBasicMenu(MenuItem item) {
+        switch (item.getItemId()) {
             case R.id.nav_weekly_planing:
                 startActivity(new Intent(this, WeeklyPlan.class));
                 // For smooth transition
-                overridePendingTransition(0,0);
+                overridePendingTransition(0, 0);
                 break;
             case R.id.nav_home:
                 startActivity(new Intent(this, SearchRecipe.class));
                 // For smooth transition
-                overridePendingTransition(0,0);
+                overridePendingTransition(0, 0);
                 break;
 
             case R.id.nav_favorites:             // need to build favorites page first
                 startActivity(new Intent(this, likedRecipes.class));
                 // For smooth transition
-                overridePendingTransition(0,0);
+                overridePendingTransition(0, 0);
                 break;
 
 //            case R.id.nav_cart:
@@ -172,24 +181,24 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
             case R.id.nav_profile:
                 startActivity(new Intent(this, profile_page.class));
                 // For smooth transition
-                overridePendingTransition(0,0);
+                overridePendingTransition(0, 0);
                 break;
 
             case R.id.nav_apply_as_chef:
                 startActivity(new Intent(this, ApplyChef.class));
-                overridePendingTransition(0,0);
+                overridePendingTransition(0, 0);
                 break;
 
             case R.id.nav_logOut:
                 FirebaseAuth.getInstance().signOut();
                 startActivity(new Intent(this, LoginGoogle.class));
-                overridePendingTransition(0,0);
+                overridePendingTransition(0, 0);
                 break;
         }
     }
 
-    protected void allocateActivityTitle(String titleString){
-        if (getSupportActionBar() != null){
+    protected void allocateActivityTitle(String titleString) {
+        if (getSupportActionBar() != null) {
             getSupportActionBar().setTitle(titleString);
         }
     }

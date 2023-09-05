@@ -1,24 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="200dp"
-    android:padding="20dp"
-    android:background="@color/black"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
     android:orientation="vertical">
 
     <ImageView
-        android:layout_width="120dp"
-        android:layout_height="120dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="10dp"
         android:layout_gravity="center"
         android:src="@mipmap/app_logo"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="SMARTER FOODIES APP"
+        android:text="SMARTER FOODIES"
         android:textColor="@color/RosyBrown"
         android:layout_gravity="center"
         android:textSize="16sp"
         android:textStyle="bold"/>
+
+    <!-- Add a View for the border line -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/black"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        />
 
 </LinearLayout>

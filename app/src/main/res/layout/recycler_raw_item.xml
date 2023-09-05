@@ -4,6 +4,144 @@
     android:layout_height="wrap_content"
     android:id="@+id/ll_linearLayout"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+
+    >
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/myCardView"
+        android:layout_width="160dp"
+        android:layout_height="200dp"
+        app:cardElevation="3dp"
+        app:cardBackgroundColor="@null"
+        app:cardCornerRadius="25dp"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="5.5">
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/iv_image"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="4"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/iv_no_images_available" />
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginTop="10dp"
+                    >
+
+                    <ImageButton
+                        android:id="@+id/ib_add_to_cart_"
+                        android:layout_width="wrap_content"
+                        android:layout_toStartOf="@+id/ib_search_like_recycler"
+                        android:layout_marginEnd="8dp"
+                        android:layout_height="wrap_content"
+                        android:background="@null"
+                        android:src="@drawable/ic_baseline_add_shopping_cart_24_not_added" />
+
+                    <ImageButton
+                        android:id="@+id/ib_search_like_recycler"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentTop="true"
+                        android:background="@null"
+                        android:src="@drawable/red_heart_not_filled" />
+
+                </RelativeLayout>
+            </RelativeLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="3dp"
+                >
+
+                <TextView
+                    android:id="@+id/tv_recipe_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="title"
+                    android:textColor="@color/colorBlack"
+                    android:textStyle="bold"
+                    android:textSize="13sp" />
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="1dp"
+                    android:layout_marginTop="3dp"
+                    >
+
+                    <TextView
+                        android:id="@+id/tv_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:maxLines="1"
+                        android:text="Cal"
+                        android:textColor="@color/teal_700"
+                        android:textSize="10sp"
+                        android:textStyle="bold"
+                        android:layout_alignParentEnd="true"
+                        />
+
+                    <TextView
+                        android:id="@+id/tv_calories"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Unknown"
+                        android:textAlignment="center"
+                        android:textColor="@color/colorPrimary"
+                        android:textSize="10sp"
+                        android:textStyle="bold"
+                        android:layout_toStartOf="@+id/tv_name"
+                        android:layout_marginEnd="5dp"
+                        />
+
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+</LinearLayout>
+
+
+
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/ll_linearLayout"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical">
 
 
@@ -131,4 +269,4 @@
     </androidx.cardview.widget.CardView>
 
 
-</LinearLayout>
+</LinearLayout>-->
