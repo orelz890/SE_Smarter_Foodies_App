@@ -6,6 +6,7 @@
     android:layout_height="wrap_content"
     android:fillViewport="true"
     android:gravity="start"
+    android:background="@null"
     android:padding="16dp">
 
 

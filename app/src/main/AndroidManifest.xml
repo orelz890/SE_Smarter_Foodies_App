@@ -9,9 +9,9 @@
         android:allowBackup="true"
         android:usesCleartextTraffic="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
-        android:icon="@mipmap/ic_launcher_sf_foreground"
+        android:icon="@mipmap/smarter_foodies_icon_launcher"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_sf_foreground"
+        android:roundIcon="@mipmap/smarter_foodies_icon_launcher_round"
         android:requestLegacyExternalStorage="true"
         android:supportsRtl="true"
         android:theme="@style/Theme.Smarter_Foodies">
@@ -57,13 +57,8 @@
         <activity android:name=".ViewModel.IngrePage" />
         <activity android:name=".ViewModel.update_profile_photo" />
         <activity android:name=".ViewModel.my_uploads" />
-        <activity
-            android:name=".ViewModel.UpdateRecipe"
-            android:theme="@style/Theme.Smarter_Foodies.BackgroundUpdateImageStyle" />
-        <activity
-            android:name=".ViewModel.AddRecipe"
-            android:theme="@style/Theme.Smarter_Foodies.BackgroundUpdateImageStyle"
-            />
+        <activity android:name=".ViewModel.UpdateRecipe"/>
+        <activity android:name=".ViewModel.AddRecipe" />
 
         <activity
             android:name=".ViewModel.LoginGoogle"
