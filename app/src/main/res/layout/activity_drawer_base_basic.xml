@@ -22,7 +22,7 @@
         android:layout_gravity="start"
         android:background="@color/white"
         app:itemIconTint="@color/black"
-        app:itemTextColor="@color/RosyBrown"
+        app:itemTextColor="@color/Gray"
         app:headerLayout="@layout/main_drawer_header"
         app:menu="@menu/main_drawer_menu_basic"
 

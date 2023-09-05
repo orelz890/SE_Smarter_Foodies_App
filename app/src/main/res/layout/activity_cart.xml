@@ -5,59 +5,58 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/black"
+    android:background="@color/white"
     android:orientation="vertical"
     tools:context=".ViewModel.Cart">
 
 
     <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textColor="@color/white"
-        android:layout_marginLeft="8dp"
-        android:textSize="20dp"
-        android:textStyle="bold"
-        android:text="My Weekly Plan"/>
-
-    <TextView
         android:id="@+id/tv_cart_recipe_count"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="9dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="5dp"
         android:textColor="@color/Gray"
         android:text="0 recipes"/>
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:gravity="right"
-        android:layout_margin="10dp">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
-        <ImageButton
-            android:id="@+id/ib_create_cart_list"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:background="@drawable/ic_grocery_list"
-            android:src="@drawable/ic_grocery_list"
-
-            />
-
-    </LinearLayout>
-
-    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/cart_recycler_layout"
-        android:orientation="vertical">
-
-        <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/recyclerCartView"
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:scrollbars="vertical" />
+            android:id="@+id/cart_recycler_layout"
+            android:orientation="vertical">
 
-    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerCartView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="vertical" />
+
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="10dp">
+
+            <ImageButton
+                android:id="@+id/ib_create_cart_list"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/ic_grocery_list"
+                android:src="@drawable/ic_grocery_list"
+                android:layout_marginBottom="20dp"
+                />
+
+        </LinearLayout>
+    </RelativeLayout>
 
 </LinearLayout>
 
