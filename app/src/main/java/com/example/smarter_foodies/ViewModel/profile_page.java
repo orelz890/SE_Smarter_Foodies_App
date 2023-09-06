@@ -4,12 +4,14 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 
+import android.content.ContentResolver;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.webkit.MimeTypeMap;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
@@ -23,6 +25,7 @@ import com.github.drjacky.imagepicker.ImagePicker;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.auth.FirebaseAuth;
@@ -33,6 +36,9 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import com.google.firebase.storage.FirebaseStorage;
+import com.google.firebase.storage.StorageReference;
+import com.google.firebase.storage.UploadTask;
 import com.squareup.picasso.Picasso;
 
 import java.io.IOException;
@@ -44,24 +50,15 @@ import javax.mail.MessagingException;
 
 public class profile_page extends DashboardActivity {
     // for the profile
-    TextInputEditText name_p, email_p, ischaf, fevorit_recpie_p, website_p, ranking_p;
-    ImageView image_profile, likes_pages, ranking_btn, uploads_pages;
-    Button update_profile_btn, update_photo_btn;
-    FirebaseUser firebaseUser;
-    String Uid;
+    private TextInputEditText name_p, email_p, isChef, fevorit_recpie_p, website_p, ranking_p;
+    private ImageView image_profile, likes_pages, uploads_pages, IV_choose_pic;
+    private String Uid;
 
-    //for the popup update
-    TextInputEditText name_pop, email_pop;
-    Button save_btn_pop, cancel_btn_pop;
+    private StorageReference storageReference;
+    private FirebaseUser firebaseUser;
+    private FirebaseAuth mAuth;
 
-    private AlertDialog dialog;
-
-    // the rating app
-    RatingBar ratingBar;
-    Button save_rate, cancel_rate, submit_rate;
-    TextInputEditText text_rating;
     private String email, nickname;
-    private ImageView IV_choose_pic;
     private Uri uriImage;
 
 
@@ -83,10 +80,14 @@ public class profile_page extends DashboardActivity {
             // No user is currently authenticated
         }
 
+        storageReference = FirebaseStorage.getInstance().getReference("Displaypics");
+        mAuth = FirebaseAuth.getInstance();
+        FirebaseUser user = mAuth.getCurrentUser();
+
         // init the text view
         name_p = findViewById(R.id.full_name_pp);
         ranking_p = findViewById(R.id.ranking_p);
-        ischaf = findViewById(R.id.is_chaf_pp);
+        isChef = findViewById(R.id.is_chaf_pp);
         website_p = findViewById(R.id.wabsite_pp);
         email_p = findViewById(R.id.email_pp);
         fevorit_recpie_p = findViewById(R.id.favorit_recipe_pp);
@@ -94,16 +95,11 @@ public class profile_page extends DashboardActivity {
 
         // init the buttons
         uploads_pages = findViewById(R.id.imageViewuploeds);
-        ranking_btn = findViewById(R.id.Ranking_pp);
         likes_pages = findViewById(R.id.imageViewLikes);
-        update_profile_btn = findViewById(R.id.update_profile_pp);
-        update_photo_btn = findViewById(R.id.update_photo_pp);
-
 
         firebaseUser = FirebaseAuth.getInstance().getCurrentUser();
         image_profile = findViewById(R.id.CIV_pic);
 
-        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
         assert user != null;
         this.Uid = user.getUid();
         DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(Uid);
@@ -113,13 +109,11 @@ public class profile_page extends DashboardActivity {
                 if (snapshot_users.exists()) {
                     User user = snapshot_users.getValue(User.class);
                     name_p.setText(nickname);
-//                    name_p.setText(user.getName());
-//                    email_p.setText(user.getEmail());
                     email_p.setText(email);
                     ranking_p.setText(user.getEating());
                     fevorit_recpie_p.setText(user.getFavorite());
                     website_p.setText(user.getWebsite());
-                    ischaf.setText(user.isChef() + "");
+                    isChef.setText(user.isChef() + "");
                 }
                 // set the image profile
                 Uri uri = firebaseUser.getPhotoUrl();
@@ -136,30 +130,22 @@ public class profile_page extends DashboardActivity {
 
         likes_pages.setOnClickListener(view -> {
             try {
-                moveto_favorit_dishs();
-            } catch (MessagingException | IOException | GeneralSecurityException e) {
+                startActivity(new Intent(profile_page.this, likedRecipes.class));
+            } catch (Exception e) {
                 e.printStackTrace();
             }
         });
 
         uploads_pages.setOnClickListener(view -> {
             try {
-                moveto_my_upload_dishs();
-            } catch (MessagingException | IOException | GeneralSecurityException e) {
+                startActivity(new Intent(profile_page.this, my_uploads.class));
+            } catch (Exception e) {
                 e.printStackTrace();
             }
         });
 
-//        update_profile_btn.setOnClickListener(view -> {
-//            createNewContactDialog();
-//        });
 
         IV_choose_pic.setOnClickListener(view -> {
-//            try {
-//                moveto_my_update_photo();
-//            } catch (MessagingException | IOException | GeneralSecurityException e) {
-//                e.printStackTrace();
-//            }
             try {
                 ImagePicker.Companion.with(profile_page.this)
                         .crop()                    //Crop image(Optional), Check Customization for more option
@@ -173,11 +159,6 @@ public class profile_page extends DashboardActivity {
             }
         });
 
-
-//        ranking_btn.setOnClickListener(view -> {
-//            createNewContactDialogforranking();
-//        });
-
     }
 
     @Override
@@ -185,142 +166,63 @@ public class profile_page extends DashboardActivity {
         super.onActivityResult(requestCode, resultCode, data);
         uriImage = data.getData();
         image_profile.setImageURI(uriImage);
+        uploadPicToStorage();
 
     }
 
-    private void moveto_favorit_dishs() throws MessagingException, IOException, GeneralSecurityException {
-        startActivity(new Intent(profile_page.this, likedRecipes.class));
-    }
+    public void uploadPicToStorage() {
+        if (uriImage != null) {
+            StorageReference fileReference = storageReference.child(mAuth.getCurrentUser().getUid()
+                    + "." + getFileExtension(uriImage));
 
-    private void moveto_my_upload_dishs() throws MessagingException, IOException, GeneralSecurityException {
-        startActivity(new Intent(profile_page.this, my_uploads.class));
-    }
+            //upload the image
+            fileReference.putFile(uriImage).addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSnapshot>() {
+                @Override
+                public void onSuccess(UploadTask.TaskSnapshot taskSnapshot) {
+                    fileReference.getDownloadUrl().addOnSuccessListener(new OnSuccessListener<Uri>() {
+                        @Override
+                        public void onSuccess(Uri uri) {
+                            firebaseUser = mAuth.getCurrentUser();
 
-    private void moveto_my_update_photo() throws MessagingException, IOException, GeneralSecurityException {
-        startActivity(new Intent(profile_page.this, update_profile_photo.class));
-    }
-
-
-//    public void createNewContactDialog() {
-//
-//        dialogbilder = new AlertDialog.Builder(this);
-//        final View popupview = getLayoutInflater().inflate(R.layout.activity_popup, null);
-//        name_pop = popupview.findViewById(R.id.name_up);
-//        email_pop = popupview.findViewById(R.id.email_uup);
-//        save_btn_pop = popupview.findViewById(R.id.update_profile_up);
-//        cancel_btn_pop = popupview.findViewById(R.id.Cancel_changing_up);
-//
-//        dialogbilder.setView(popupview);
-//        dialog = dialogbilder.create();
-//        dialog.show();
-//
-//
-//        // to show the cuurent data on the scrren
-//        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
-//        if (user != null) {
-//            Objects.requireNonNull(name_pop).setText(nickname);
-//            Objects.requireNonNull(email_pop).setText(email);
-//            save_btn_pop.setOnClickListener(view -> {
-//                UpdateProfileUserTree(Objects.requireNonNull(name_pop.getText()).toString());
-//                startActivity(new Intent(profile_page.this, profile_page.class));
-//            });
-//
-//        }
-//
-//        cancel_btn_pop.setOnClickListener(view -> {
-//
-//            startActivity(new Intent(profile_page.this, profile_page.class));
-//        });
-//
-//    }
-
-//    public void createNewContactDialogforranking() {
-//        dialogbilder_for_ranking = new AlertDialog.Builder(this);
-//        final View popupview_ranking = getLayoutInflater().inflate(R.layout.ranking_popup, null);
-//        ratingBar = popupview_ranking.findViewById(R.id.ranking_up_bar);
-//        save_rate = popupview_ranking.findViewById(R.id.save_ranking_up);
-//        cancel_rate = popupview_ranking.findViewById(R.id.Cancel_ranking_up);
-//        text_rating = popupview_ranking.findViewById(R.id.ranking_up_txt);
-//        submit_rate = popupview_ranking.findViewById(R.id.submit);
-//
-//        dialogbilder_for_ranking.setView(popupview_ranking);
-//        dialog_for_ranking = dialogbilder_for_ranking.create();
-//        dialog_for_ranking.show();
-//
-//        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
-//        if (user != null) {
-//            String uid = user.getUid();
-//
-//            DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
-//
-//            reference.addValueEventListener(new ValueEventListener() {
-//                @Override
-//                public void onDataChange(@NonNull DataSnapshot snapshot_users) {
-//                    if (snapshot_users.exists()) {
-//                        User user = snapshot_users.getValue(User.class);
-//                        if (user != null) {
-//                            Objects.requireNonNull(text_rating).setText(user.getRating());
-//                            submit_rate.setOnClickListener(view -> {
-//                                String sub = String.valueOf(ratingBar.getRating());
-//                                text_rating.setText(sub);
-//                            });
-//                            save_rate.setOnClickListener(view -> {
-//                                UpdateProfileUserTreee(reference, user);
-//                                startActivity(new Intent(profile_page.this, profile_page.class));
-//                            });
-//                            cancel_rate.setOnClickListener(view -> {
-//                                startActivity(new Intent(profile_page.this, profile_page.class));
-//                            });
-//                        }
-//                    }
-//                }
-//
-//                @Override
-//                public void onCancelled(@NonNull DatabaseError error) {
-//
-//                }
-//
-//                private void UpdateProfileUserTreee(DatabaseReference reference, User user) {
-//                    // what we get after the changing
-//
-//                    user.setRating(String.valueOf(Objects.requireNonNull(text_rating).getText()));
-//
-//                    reference.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
-//                        @Override
-//                        public void onComplete(@NonNull Task<Void> task) {
-//                            Toast.makeText(profile_page.this, "Data updated!", Toast.LENGTH_LONG).show();
-//                        }
-//                    });
-//
-//                }
-//            });
-//
-//
-//        }
-//    }
-
-    private void UpdateProfileUserTree(String name) {
-        System.out.println("/n/nUpdateProfileUserTree -- Name = " + name + "/n/n");
-        FirebaseUser firebaseUser = FirebaseAuth.getInstance().getCurrentUser();
-        if (firebaseUser != null) {
-            UserProfileChangeRequest profileUpdates = new UserProfileChangeRequest.Builder()
-                    .setDisplayName(name)
-                    .build();
-
-            firebaseUser.updateProfile(profileUpdates)
-                    .addOnCompleteListener(task -> {
-                        if (task.isSuccessful()) {
-                            Log.d("ProfileUpdate", "User profile updated.");
-                        } else {
-                            Log.e("ProfileUpdate", "Error updating user profile.", task.getException());
+                            UserProfileChangeRequest profileUpdates = new UserProfileChangeRequest.Builder().
+                                    setPhotoUri(uri).build();
+                            firebaseUser.updateProfile(profileUpdates);
+                            Toast.makeText(profile_page.this, "Upload successful!", Toast.LENGTH_SHORT).show();
                         }
                     });
-        } else {
-            Log.d("ProfileUpdate", "No user is currently authenticated.");
-        }
 
+                }
+            });
+        }
     }
 
+    public String getFileExtension(Uri uri) {
+        ContentResolver cr = getContentResolver();
+        MimeTypeMap mime = MimeTypeMap.getSingleton();
+        return mime.getExtensionFromMimeType(cr.getType(uri));
+    }
+
+
+//    private void UpdateProfilePic(Uri imageUri) {
+//        FirebaseUser firebaseUser = FirebaseAuth.getInstance().getCurrentUser();
+//        if (firebaseUser != null) {
+//            if (imageUri != null) {
+//                UserProfileChangeRequest profileUpdates = new UserProfileChangeRequest.Builder()
+//                        .setPhotoUri(imageUri)
+//                        .build();
+//                firebaseUser.updateProfile(profileUpdates)
+//                        .addOnCompleteListener(task -> {
+//                            if (task.isSuccessful()) {
+//                                Log.d("ProfileUpdate", "User profile updated.");
+//                            } else {
+//                                Log.e("ProfileUpdate", "Error updating user profile.", task.getException());
+//                            }
+//                        });
+//            }
+//        } else {
+//            Log.d("ProfileUpdate", "No user is currently authenticated.");
+//        }
+//    }
 
 }
 
