@@ -21,6 +21,9 @@ import com.example.smarter_foodies.ViewModel.UpdateRecipe;
 import com.example.smarter_foodies.ViewModel.WeeklyPlan;
 import com.example.smarter_foodies.ViewModel.likedRecipes;
 import com.example.smarter_foodies.ViewModel.profile_page;
+import com.google.android.gms.auth.api.signin.GoogleSignIn;
+import com.google.android.gms.auth.api.signin.GoogleSignInClient;
+import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
 import com.google.android.material.navigation.NavigationView;
 import com.google.firebase.auth.FirebaseAuth;
 
@@ -144,6 +147,14 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
 
             case R.id.nav_logOut:
                 FirebaseAuth.getInstance().signOut();
+
+                GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
+                        .requestIdToken(getString(R.string.default_web_client_id)) // Replace with your web client ID
+                        .requestEmail()
+                        .build();
+                GoogleSignInClient client = GoogleSignIn.getClient(this, gso);
+                client.signOut();
+
                 startActivity(new Intent(this, LoginGoogle.class));
                 overridePendingTransition(0, 0);
                 break;
@@ -188,6 +199,14 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
 
             case R.id.nav_logOut:
                 FirebaseAuth.getInstance().signOut();
+
+                GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
+                        .requestIdToken(getString(R.string.default_web_client_id)) // Replace with your web client ID
+                        .requestEmail()
+                        .build();
+                GoogleSignInClient client = GoogleSignIn.getClient(this, gso);
+                client.signOut();
+
                 startActivity(new Intent(this, LoginGoogle.class));
                 overridePendingTransition(0, 0);
                 break;

@@ -57,6 +57,8 @@ public class profile_page extends DashboardActivity {
         View activityMainView = LayoutInflater.from(this).inflate(R.layout.activity_profile_page, rootLayout, false);
         rootLayout.addView(activityMainView);
         setContentView(rootLayout);
+        allocateActivityTitle("Profile");
+
 
         // Inside your activity or fragment code
         GoogleSignInAccount account = GoogleSignIn.getLastSignedInAccount(this);

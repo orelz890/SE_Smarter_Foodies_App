@@ -131,23 +131,24 @@
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:orientation="horizontal">
+                        android:orientation="horizontal"
+                        android:gravity="center_horizontal">
 
                         <LinearLayout
-                            android:layout_width="0dp"
-                            android:layout_height="94dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
                             android:layout_margin="10dp"
-                            android:layout_weight="0.333"
                             android:background="@drawable/grayy_background"
                             android:elevation="5dp"
                             android:orientation="vertical">
 
                             <androidx.constraintlayout.widget.ConstraintLayout
-                                android:layout_width="54dp"
-                                android:layout_height="47dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
                                 android:layout_gravity="center_horizontal"
                                 android:layout_margin="12dp"
-                                android:background="@drawable/ovel_background">
+
+                                >
 
                                 <ImageView
                                     android:id="@+id/imageViewLikes"
@@ -163,10 +164,10 @@
 
                             <TextView
                                 android:id="@+id/textViewLikes"
-                                android:layout_width="match_parent"
+                                android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginBottom="8dp"
-                                android:text="Like dishs"
+                                android:text="Liked dishes"
                                 android:textAlignment="center"
                                 android:textColor="@color/black"
                                 android:textSize="13sp"
@@ -175,20 +176,19 @@
                         </LinearLayout>
 
                         <LinearLayout
-                            android:layout_width="3dp"
-                            android:layout_height="97dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
                             android:layout_margin="10dp"
-                            android:layout_weight="0.333"
                             android:background="@drawable/grayy_background"
                             android:elevation="5dp"
                             android:orientation="vertical">
 
                             <androidx.constraintlayout.widget.ConstraintLayout
-                                android:layout_width="41dp"
-                                android:layout_height="47dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
                                 android:layout_gravity="center_horizontal"
                                 android:layout_margin="12dp"
-                                android:background="@drawable/ovel_background">
+                                >
 
                                 <ImageView
                                     android:id="@+id/imageViewuploeds"
@@ -198,16 +198,17 @@
                                     app:layout_constraintEnd_toEndOf="parent"
                                     app:layout_constraintStart_toStartOf="parent"
                                     app:layout_constraintTop_toTopOf="parent"
-                                    app:srcCompat="@drawable/ic_recipe_book" />
+                                    app:srcCompat="@drawable/recipe_book"
+                                    />
 
                             </androidx.constraintlayout.widget.ConstraintLayout>
 
                             <TextView
                                 android:id="@+id/textViewuploades"
-                                android:layout_width="match_parent"
+                                android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginBottom="8dp"
-                                android:text="upload dishs"
+                                android:text="upload dishes"
                                 android:textAlignment="center"
                                 android:textColor="@color/black"
                                 android:textSize="13sp"
@@ -293,8 +294,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:text=""
-                            android:textAlignment="textEnd"
+                            android:text="false"
+                            android:textAlignment="center"
                             android:textColor="@color/black"
                             android:textSize="15sp"
                             android:enabled="false"/>
