@@ -26,6 +26,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
+import java.util.Objects;
 
 public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
@@ -190,12 +191,16 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
             String main_category = getAsCategoryString(r.getMain_category());
             String sub_category = getAsCategoryString(r.getCategory());
             DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
-                    .child("recipes").child(main_category).child(sub_category);
-            mDatabaseSearch.child(getAsCategoryString(title)).setValue(r).addOnCompleteListener(new OnCompleteListener<Void>() {
+                    .child("recipes").child(main_category).child(sub_category).child(getAsCategoryString(title));
+            mDatabaseSearch.setValue(r).addOnCompleteListener(new OnCompleteListener<Void>() {
                 @Override
                 public void onComplete(@NonNull Task<Void> task) {
                     if (task.isSuccessful()) {
                         System.out.println(r.getTitle() + "> added successfully to Filter!");
+                        FirebaseDatabase.getInstance().getReference().child("myRecipes")
+                                .child(Objects.requireNonNull(FirebaseAuth.getInstance().getUid()))
+                                .child(title)
+                                .setValue(r);
                     }
                 }
             });
@@ -223,49 +228,6 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
     private void addToSearchArray(recipe r) {
         this.recipe_list_search.add(new recipe(r));
     }
-
-
-//    // how to get data from the database- search
-//        public List<recipe> getDishFromSearchTree(String name) {
-//            List<recipe> r = new ArrayList<>();
-//            DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
-//            mDatabaseSearchGet = getToRecipeDepth(mDatabaseSearchGet, name);
-//            mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
-//                @Override
-//                public void onSuccess(DataSnapshot snapshotSearch) {
-//                    if (snapshotSearch.exists()) {
-//                        for (DataSnapshot child : snapshotSearch.getChildren()) {
-//                            System.out.println(child);
-//                            recipe curr_recipe = child.getValue(recipe.class);
-//                            System.out.println(curr_recipe);
-//                            if (curr_recipe != null) {
-//                                r.add(new recipe(curr_recipe));
-//                            }
-//                        }
-//                    }
-//                }
-//            });
-//            return r;
-//        }
-
-
-//    // how to get data from the database - filter
-//    public void getDishFromFilterTree(String mainCategory, String subCategory, String name) {
-//        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference()
-//                .child("filter").child(getAsCategoryString(mainCategory))
-//                .child(getAsCategoryString(subCategory));
-//        mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
-//            @Override
-//            public void onSuccess(DataSnapshot snapshotFilter) {
-//                if (snapshotFilter.exists()) {
-//                    for (DataSnapshot child : snapshotFilter.getChildren()) {
-//                        String curr_recipe = child.getValue(String.class);
-//                        System.out.println(curr_recipe);
-//                    }
-//                }
-//            }
-//        });
-//    }
 
 
     private void removeDataFromSearchTree(String name) {
@@ -305,12 +267,16 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         String title = getAsCategoryString(name);
 
         DatabaseReference mDataFilter = FirebaseDatabase.getInstance().getReference()
-                .child("recipes").child(mainCategory).child(subCategory);
-        mDataFilter.child(title).removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
+                .child("recipes").child(mainCategory).child(subCategory).child(title);
+        mDataFilter.removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
             @Override
             public void onComplete(@NonNull Task<Void> task) {
                 if (task.isSuccessful()) {
                     System.out.println(name + "> name removed successfully!");
+                    FirebaseDatabase.getInstance().getReference().child("myRecipes")
+                            .child(Objects.requireNonNull(FirebaseAuth.getInstance().getUid()))
+                            .child(name)
+                            .removeValue();
                 }
             }
         });
