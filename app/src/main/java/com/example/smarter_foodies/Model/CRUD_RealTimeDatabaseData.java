@@ -26,39 +26,39 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
+import java.util.Objects;
 
 public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
     public Map<String, String[]> subCategoriesList = new HashMap<String, String[]>() {{
         put("", new String[]{});
-        put("animals", new String[]{"Pet_Food"});
-        put("breakfast", new String[]{"Breakfast_and_Brunch", "Breakfast_Burritos", "Breakfast_Casseroles", "Breakfast_Potatoes", "Breakfast_Strata", "Deviled_Eggs", "Eggplant_Parmesan", "Frittata", "Omelets"});
-        put("cakes", new String[]{"Angel_Food_Cake", "Cake_Recipes", "Carrot_Cake", "Cheesecake", "Chocolate_Cake", "Coffee_Cake", "Crab_Cakes", "Cupcakes", "Fruitcake", "Linguine", "Mashed_Potatoes", "Pound_Cake", "Shortcake", "Spice_Cake", "Upside-Down_Cake"});
-        put("carbs", new String[]{"Calzones", "Dumplings", "Egg_Rolls", "Empanada_Recipes", "Fried_Rice", "Fries", "Gnocchi", "Homemade_Pasta", "Noodle_Casserole", "Pancit", "Pasta_Carbonara", "Pasta_Primavera", "Potato_Pancakes", "Quesadillas", "Quiche", "Quinoa", "Ravioli", "Rice_Casserole", "Rice_Pilaf", "Risotto", "Samosa_Recipes", "Shepherd's_Pie", "Spaghetti", "Spanish_Rice", "Tater_Tots®_Casserole", "Tortellini", "Tortillas", "Tostadas", "Tuna_Casserole", "Ziti"});
-        put("cooking_technique_&_channels", new String[]{"Air_Fryer_Recipes", "Allrecipes_Allstars", "Cooking_for_a_Crowd", "Cooking_for_One", "Cooking_for_Two", "Copycat_Recipes", "Food_Wishes®", "Instant_Pot®_Recipes", "Passover_Recipes", "Potluck_Recipes", "Slow_Cooker_Recipes", "Sous_Vide_Recipes", "Stir-Fries", "TVP_Recipes", "Whole30_Recipes"});
-        put("dairy", new String[]{"Macaroni_and_Cheese", "Chowder"});
-        put("dinner", new String[]{"Dinner_Recipes"});
-        put("dips", new String[]{"Artichoke_Dip", "Buffalo_Chicken_Dip", "Cranberry_Sauce", "Gravy", "Guacamole", "Pesto_Sauce", "Relishes", "Salsa", "Spinach_Dips "});
-        put("drinks", new String[]{"Applesauce", "Bloody_Marys", "Cocktails", "Eggnog", "Jell-O®_Shots", "Lemonade", "Margaritas", "Mojitos", "Punch", "Sangria", "Smoothies"});
-        put("easy_recipies_&_leftovers", new String[]{"Everyday_Leftovers", "Quick_and_Easy_Recipes"});
-        put("fish_&_sushi", new String[]{"Ceviche", "Salmon_Recipes", "Sushi"});
-        put("flour", new String[]{"Bagels", "Banana_Bread", "Bread_Recipes", "Bruschetta", "Cornbread", "Crackers", "Flat_Bread", "French_Toast", "Garlic_Bread", "Hushpuppies", "Monkey_Bread", "Panini", "Pierogi", "Pretzels", "Pumpkin_Bread", "Sandwiches", "Scones", "Wheat_Bread", "Yeast_Bread", "Zucchini_Bread"});
-        put("gifts_&_comfort_food", new String[]{"Comfort_Food", "Food_Gifts"});
-        put("healty_&_diets", new String[]{"Baked_Beans", "Broccoli_Salad", "Chicken_Salad", "Diabetic_Recipes", "Egg_Salad", "Fruit_Salads", "Gluten-Free_Recipes", "Granola", "Green_Salads", "Healthy_Recipes", "High-Fiber_Recipes", "Keto_Diet", "Low-Calorie_Recipes", "Low-Cholesterol_Recipes", "Low-Fat_Recipes", "Low-Sodium_Recipes", "Low_Glycemic_Impact_Recipes", "Mediterranean_Diet", "Oatmeal", "Overnight_Oats", "Paleo_Diet", "Potato_Salad", "Raw_Food_Diet", "Refried_Beans", "Salad_Dressings", "Salad_Recipes", "Seitan_Recipes", "Sugar-Free_Recipes", "Tempeh_Recipes", "Tofu_Recipes", "Vegan_Recipes", "Vegetable_Recipes", "Vegetable_Side_Dishes", "Vegetarian_Recipes"});
-        put("holidays_and_traditional_food", new String[]{"Falafel", "Paella", "Tacos", "Tamales"});
-        put("lunch", new String[]{"Lunch_Recipes"});
-        put("main_dishes", new String[]{"Casseroles", "Fajitas", "Lasagna", "Lettuce_Wraps", "Main_Dishes", "Manicotti", "Quiche", "Stew"});
-        put("meat_&_chicken", new String[]{"Bulgogi", "Burgers", "Chili", "Gyros", "Jerky", "Kalbi", "Ribs", "Roasts"});
-        put("per_spesipic_ingridiant", new String[]{"Mushroom_Recipes", "Pickles", "Stuffed_Bell_Peppers", "Stuffed_Mushrooms", "Winter_Squash_Recipes", "Yam_Recipes"});
-        put("pies", new String[]{"Apple_Pie", "Blueberry_Pie", "Cherry_Pie", "Chess_Pie", "Key_Lime_Pie", "Mincemeat_Pie", "Pecan_Pie", "Pie_Crusts", "Pie_Recipes", "Pot_Pie", "Pumpkin_Pie", "Rhubarb_Pie", "Shepherd's_Pie", "Slab_Pie", "Strawberry_Pie", "Sweet_Potato_Pie", "Whoopie_Pies"});
-        put("pizza", new String[]{"Pizza", "Pizza_Dough_and_Crusts"});
-        put("pork", new String[]{"Ground_Pork", "Pork_Chops", "Pork_Recipes", "Pork_Ribs", "Pork_Shoulder", "Pork_Tenderloin", "Pulled_Pork"});
-        put("preserved", new String[]{"Canning_and_Preserving"});
-        put("salads", new String[]{"Broccoli_Salad", "Chicken_Salad", "Coleslaw", "Egg_Salad", "Fruit_Salads", "Green_Salads", "Jell-O®_Salad", "Pasta_Salad", "Potato_Salad", "Salad_Dressings", "Salad_Recipes", "Taco_Salad", "Tomato_Salad", "Tuna_Salad", "Waldorf_Salad"});
-        put("sea_fruit", new String[]{"Etouffee", "Jambalaya", "Shrimp_and_Grits", "Shrimp_Scampi"});
-        put("side_dishes", new String[]{"Grits", "Hummus", "Jalapeno_Poppers", "Meal_Prep", "Pate", "Polenta", "Side_Dishes", "Tapas_Recipes"});
-        put("snacks_&_sweets", new String[]{"Appetizers_and_Snacks", "Bar_Cookies", "Biscotti", "Biscuit", "Blintz", "Blondies", "Brownies", "Cheese_Balls", "Cheese_Fondue", "Chocolate_Chip_Cookies", "Chocolate_Fudge", "Christmas_Cookies", "Cinnamon_Rolls", "Cobbler", "Cookies", "Creme_Brulee", "Crisps_and_Crumbles", "Danishes", "Desserts", "Divinity", "Doughnuts", "Drop_Cookies", "Energy_Balls", "English_Muffins", "Flan", "Fondant", "Frosting_and_Icing_Recipes", "Fudge", "Gingerbread_Cookies", "Gingersnaps", "Ice_Cream", "Jams_and_Jellies", "Kolache", "Lemon_Bars", "Macaroons", "Mousse", "Muffins", "Nachos", "Oatmeal_Cookies", "Pancakes", "Pasties", "Pastries", "Pavlova", "Peanut_Butter_Cookies", "Popcorn", "Popovers_and_Yorkshire_Pudding", "Rice_Pudding", "Road_Trip_Snacks", "Sandwich_Cookies", "Seder_Recipes", "Shortbread_Cookies", "Snickerdoodles", "Spritz_Cookies", "Strawberry_Shortcake", "Sugar_Cookies", "Thumbprint_Cookies", "Tiramisu", "Toffee", "Tortes", "Truffles", "Waffles"});
-        put("soups", new String[]{"Borscht", "Butternut_Squash_Soup", "Chicken_Noodle_Soup", "French_Onion_Soup", "Gazpacho", "Gumbo", "Lentil_Soup", "Minestrone_Soup", "Mushroom_Soup", "Potato_Soup", "Soup", "Split_Pea_Soup"});
+        put("breakfast", new String[]{"Breakfast And Brunch", "Breakfast Burritos", "Breakfast Casseroles", "Breakfast Potatoes", "Breakfast Strata", "Deviled Eggs", "Eggplant Parmesan", "Frittata", "Omelets", "Other"});
+        put("cakes", new String[]{"Angel Cake", "Cake Recipes", "Carrot Cake", "Cheesecake", "Chocolate Cake", "Coffee Cake", "Crab Cakes", "Cupcakes", "Fruitcake", "Linguine", "Mashed Potatoes", "Pound Cake", "Shortcake", "Spice Cake", "Upside Down Cake"});
+        put("carbs", new String[]{"Calzones", "Dumplings", "Egg Rolls", "Empanada Recipes", "Fried Rice", "Fries", "Gnocchi", "Homemade Pasta", "Noodle Casserole", "Pancit", "Pasta Carbonara", "Pasta Primavera", "Potato Pancakes", "Quesadillas", "Quiche", "Quinoa", "Ravioli", "Rice Casserole", "Rice Pilaf", "Risotto", "Samosa Recipes", "Shepherd's Pie", "Spaghetti", "Spanish Rice", "Tater_Tots Casserole", "Tortellini", "Tortillas", "Tostadas", "Tuna Casserole", "Ziti", "Other"});
+        put("dairy", new String[]{"Macaroni & Cheese", "Chowder", "Other"});
+        put("dinner", new String[]{"Dinner_Recipes", "Other"});
+        put("dips", new String[]{"Artichoke Dip", "Buffalo Chicken Dip", "Cranberry Sauce", "Gravy", "Guacamole", "Pesto Sauce", "Relishes", "Salsa", "Spinach Dips", "Other"});
+        put("drinks", new String[]{"Applesauce", "Bloody Marys", "Cocktails", "Eggnog", "Jell Shots", "Lemonade", "Margaritas", "Mojitos", "Punch", "Sangria", "Smoothies", "Other"});
+        put("easy", new String[]{"Everyday_Leftovers", "Quick_and_Easy_Recipes", "Other"});
+        put("fish & sushi", new String[]{"Ceviche", "Salmon", "Sushi", "Other"});
+        put("flour", new String[]{"Bagels", "Banana Bread", "Bread Recipes", "Bruschetta", "Cornbread", "Crackers", "Flat Bread", "French Toast", "Garlic Bread", "Hushpuppies", "Monkey Bread", "Panini", "Pierogi", "Pretzels", "Pumpkin Bread", "Sandwiches", "Scones", "Wheat Bread", "Yeast Bread", "Zucchini Bread", "Other"});
+        put("comfort", new String[]{"Comfort Food", "Food Gifts", "Other"});
+        put("health", new String[]{"Baked Beans", "Broccoli Salad", "Chicken Salad", "Diabetic Recipes", "Egg Salad", "Fruit Salads", "Gluten-Free Recipes", "Granola", "Green Salads", "Healthy Recipes", "High-Fiber Recipes", "Keto Diet", "Low-Calorie Recipes", "Low-Cholesterol Recipes", "Low-Fat Recipes", "Low-Sodium Recipes", "Low Glycemic Impact Recipes", "Mediterranean Diet", "Oatmeal", "Overnight Oats", "Paleo Diet", "Potato Salad", "Raw Food Diet", "Refried Beans", "Salad Dressings", "Salad Recipes", "Seitan Recipes", "Sugar-Free Recipes", "Tempeh Recipes", "Tofu Recipes", "Vegan Recipes", "Vegetable Recipes", "Vegetable Side Dishes", "Vegetarian Recipes", "Other"});
+        put("holidays", new String[]{"Falafel", "Paella", "Tacos", "Tamales", "Other"});
+        put("lunch", new String[]{"Lunch Recipes"});
+        put("main dishes", new String[]{"Casseroles", "Fajitas", "Lasagna", "Lettuce Wraps", "Main Dishes", "Manicotti", "Quiche", "Stew"});
+        put("meat & chicken", new String[]{"Bulgogi", "Burgers", "Chili", "Gyros", "Jerky", "Kalbi", "Ribs", "Roasts"});
+        put("per specific ingredients", new String[]{"Mushroom Recipes", "Pickles", "Stuffed Bell Peppers", "Stuffed Mushrooms", "Winter Squash_Recipes", "Yam Recipes"});
+        put("pies", new String[]{"Apple Pie", "Blueberry Pie", "Cherry Pie", "Chess Pie", "Key Lime Pie", "Mincemeat Pie", "Pecan Pie", "Pie Crusts", "Pie Recipes", "Pot Pie", "Pumpkin Pie", "Rhubarb Pie", "Shepherd's Pie", "Slab Pie", "Strawberry Pie", "Sweet Potato Pie", "Whoopie Pies", "Other"});
+        put("pizza", new String[]{"Pizza", "Pizza Dough And Crusts", "Other"});
+        put("pork", new String[]{"Ground Pork", "Pork Chops", "Pork Recipes", "Pork Ribs", "Pork Shoulder", "Pork Tenderloin", "Pulled Pork", "Other"});
+        put("preserved", new String[]{"Canning_and_Preserving", "Other"});
+        put("salads", new String[]{"Broccoli Salad", "Chicken Salad", "Coleslaw", "Egg Salad", "Fruit Salads", "Green Salads", "Pasta Salad", "Potato Salad", "Salad Dressings", "Salad Recipes", "Taco Salad", "Tomato Salad", "Tuna Salad", "Waldorf Salad", "Other"});
+        put("sea fruit", new String[]{"Etouffee", "Jambalaya", "Shrimp And Grits", "Shrimp Scampi", "Other"});
+        put("side dishes", new String[]{"Grits", "Hummus", "Jalapeno Poppers", "Meal Prep", "Pate", "Polenta", "Side Dishes", "Tapas Recipes", "Other"});
+        put("snacks & sweets", new String[]{"Appetizers And Snacks", "Bar Cookies", "Biscotti", "Biscuit", "Blintz", "Blondies", "Brownies", "Cheese Balls", "Cheese Fondue", "Chocolate Chip Cookies", "Chocolate Fudge", "Christmas Cookies", "Cinnamon Rolls", "Cobbler", "Cookies", "Creme Brulee", "Crisps And Crumbles", "Danishes", "Desserts", "Divinity", "Doughnuts", "Drop Cookies", "Energy Balls", "English Muffins", "Flan", "Fondant", "Frosting And Icing Recipes", "Fudge", "Gingerbread Cookies", "Gingersnaps", "Ice Cream", "Jams and_Jellies", "Kolache", "Lemon Bars", "Macaroons", "Mousse", "Muffins", "Nachos", "Oatmeal Cookies", "Pancakes", "Pasties", "Pastries", "Pavlova", "Peanut Butter Cookies", "Popcorn", "Popovers And Yorkshire Pudding", "Rice Pudding", "Road Trip Snacks", "Sandwich Cookies", "Seder Recipes", "Shortbread Cookies", "Snickerdoodles", "Spritz Cookies", "Strawberry Shortcake", "Sugar Cookies", "Thumbprint Cookies", "Tiramisu", "Toffee", "Tortes", "Truffles", "Waffles", "Other"});
+        put("soups", new String[]{"Borscht", "Butternut Squash Soup", "Chicken Noodle Soup", "French Onion Soup", "Gazpacho", "Gumbo", "Lentil Soup", "Minestrone Soup", "Mushroom Soup", "Potato Soup", "Soup", "Split Pea Soup", "Other"});
+        put("other", new String[]{"Other"});
     }};
 
     DatabaseReference mDatabase;
@@ -191,12 +191,16 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
             String main_category = getAsCategoryString(r.getMain_category());
             String sub_category = getAsCategoryString(r.getCategory());
             DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
-                    .child("recipes").child(main_category).child(sub_category);
-            mDatabaseSearch.child(getAsCategoryString(title)).setValue(r).addOnCompleteListener(new OnCompleteListener<Void>() {
+                    .child("recipes").child(main_category).child(sub_category).child(getAsCategoryString(title));
+            mDatabaseSearch.setValue(r).addOnCompleteListener(new OnCompleteListener<Void>() {
                 @Override
                 public void onComplete(@NonNull Task<Void> task) {
                     if (task.isSuccessful()) {
                         System.out.println(r.getTitle() + "> added successfully to Filter!");
+                        FirebaseDatabase.getInstance().getReference().child("myRecipes")
+                                .child(Objects.requireNonNull(FirebaseAuth.getInstance().getUid()))
+                                .child(title)
+                                .setValue(r);
                     }
                 }
             });
@@ -224,49 +228,6 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
     private void addToSearchArray(recipe r) {
         this.recipe_list_search.add(new recipe(r));
     }
-
-
-//    // how to get data from the database- search
-//        public List<recipe> getDishFromSearchTree(String name) {
-//            List<recipe> r = new ArrayList<>();
-//            DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
-//            mDatabaseSearchGet = getToRecipeDepth(mDatabaseSearchGet, name);
-//            mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
-//                @Override
-//                public void onSuccess(DataSnapshot snapshotSearch) {
-//                    if (snapshotSearch.exists()) {
-//                        for (DataSnapshot child : snapshotSearch.getChildren()) {
-//                            System.out.println(child);
-//                            recipe curr_recipe = child.getValue(recipe.class);
-//                            System.out.println(curr_recipe);
-//                            if (curr_recipe != null) {
-//                                r.add(new recipe(curr_recipe));
-//                            }
-//                        }
-//                    }
-//                }
-//            });
-//            return r;
-//        }
-
-
-//    // how to get data from the database - filter
-//    public void getDishFromFilterTree(String mainCategory, String subCategory, String name) {
-//        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference()
-//                .child("filter").child(getAsCategoryString(mainCategory))
-//                .child(getAsCategoryString(subCategory));
-//        mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
-//            @Override
-//            public void onSuccess(DataSnapshot snapshotFilter) {
-//                if (snapshotFilter.exists()) {
-//                    for (DataSnapshot child : snapshotFilter.getChildren()) {
-//                        String curr_recipe = child.getValue(String.class);
-//                        System.out.println(curr_recipe);
-//                    }
-//                }
-//            }
-//        });
-//    }
 
 
     private void removeDataFromSearchTree(String name) {
@@ -306,12 +267,16 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         String title = getAsCategoryString(name);
 
         DatabaseReference mDataFilter = FirebaseDatabase.getInstance().getReference()
-                .child("recipes").child(mainCategory).child(subCategory);
-        mDataFilter.child(title).removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
+                .child("recipes").child(mainCategory).child(subCategory).child(title);
+        mDataFilter.removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
             @Override
             public void onComplete(@NonNull Task<Void> task) {
                 if (task.isSuccessful()) {
                     System.out.println(name + "> name removed successfully!");
+                    FirebaseDatabase.getInstance().getReference().child("myRecipes")
+                            .child(Objects.requireNonNull(FirebaseAuth.getInstance().getUid()))
+                            .child(name)
+                            .removeValue();
                 }
             }
         });

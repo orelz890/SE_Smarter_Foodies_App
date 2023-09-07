@@ -20,6 +20,7 @@
         android:textColor="@color/Gray"
         android:text="0 recipes"/>
 
+
     <RelativeLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
@@ -42,20 +43,19 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:gravity="center_horizontal"
             android:layout_alignParentBottom="true"
-            android:layout_margin="10dp"
-            android:visibility="gone">
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
 
             <ImageButton
-                android:id="@+id/ib_mystery_box"
+                android:id="@+id/ib_mystery_box_up"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                android:src="@mipmap/ic_mystery_box"
                 android:background="@drawable/ic_round_green_oval"
-                android:layout_marginBottom="20dp"
-                />
+                android:src="@mipmap/ic_mystery_box"
+                android:layout_marginBottom="10dp"/>
 
         </LinearLayout>
 

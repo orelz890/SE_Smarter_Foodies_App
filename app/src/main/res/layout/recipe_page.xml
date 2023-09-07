@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@null"
+    android:backgroundTint="@null"
+    android:orientation="vertical"
+    tools:context=".ViewModel.RecipePage">
+
+
+<!--    <ScrollView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content">-->
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:orientation="vertical"-->
+<!--            >-->
+
+
+<!--            &lt;!&ndash;recipe pic&ndash;&gt;-->
+<!--            <ImageView-->
+<!--                android:id="@+id/recipeImageDisplay"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="250dp"-->
+<!--                android:layout_gravity="center_horizontal"-->
+<!--                android:scaleType="fitXY"-->
+<!--                android:layout_marginBottom="-30dp"-->
+<!--                android:src="@drawable/iv_no_images_available"-->
+<!--                />-->
+
+
+<!--            <RelativeLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content">-->
+
+<!--                <LinearLayout-->
+<!--                    android:id="@+id/LL_recipe_details"-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:background="@drawable/elliptical_background"-->
+<!--                    android:gravity="center_horizontal"-->
+<!--                    android:orientation="vertical"-->
+
+<!--                    >-->
+
+<!--                    <LinearLayout-->
+<!--                        android:layout_width="wrap_content"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:layout_gravity="center_horizontal"-->
+<!--                        android:gravity="center_horizontal"-->
+<!--                        android:orientation="vertical">-->
+<!--                        &lt;!&ndash; recipe name&ndash;&gt;-->
+<!--                        <TextView-->
+<!--                            android:id="@+id/recipeName"-->
+<!--                            android:layout_width="wrap_content"-->
+<!--                            android:layout_height="wrap_content"-->
+<!--                            android:text="pancake"-->
+<!--                            android:textColor="@color/black"-->
+<!--                            android:textSize="30sp"-->
+<!--                            android:textStyle="bold"-->
+
+<!--                            />-->
+
+<!--                        &lt;!&ndash;category and sub category&ndash;&gt;-->
+<!--                        <TextView-->
+<!--                            android:id="@+id/recipeCatAndSub"-->
+<!--                            android:layout_width="wrap_content"-->
+<!--                            android:layout_height="wrap_content"-->
+<!--                            android:text="desert - sweet joy:"-->
+<!--                            android:textColor="@color/Gray"-->
+<!--                            android:textSize="15sp"-->
+
+<!--                            />-->
+<!--                    </LinearLayout>-->
+
+
+<!--                    &lt;!&ndash; Nutrition facts&ndash;&gt;-->
+<!--                    <androidx.cardview.widget.CardView-->
+<!--                        android:layout_width="wrap_content"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:layout_marginTop="10dp"-->
+<!--                        app:cardCornerRadius="10dp">-->
+
+<!--                        <LinearLayout-->
+<!--                            android:layout_width="match_parent"-->
+<!--                            android:layout_height="wrap_content"-->
+<!--                            android:background="@color/white"-->
+<!--                            android:orientation="horizontal"-->
+
+<!--                            >-->
+
+<!--                            <LinearLayout-->
+<!--                                android:layout_width="match_parent"-->
+<!--                                android:layout_height="match_parent"-->
+<!--                                android:layout_marginRight="20dp"-->
+<!--                                android:orientation="vertical">-->
+
+<!--                                <TextView-->
+<!--                                    android:layout_width="wrap_content"-->
+<!--                                    android:layout_height="wrap_content"-->
+<!--                                    android:layout_gravity="left"-->
+<!--                                    android:background="@color/white"-->
+<!--                                    android:text="Carbs"-->
+<!--                                    android:textColor="@color/black"-->
+<!--                                    android:textSize="20sp"-->
+<!--                                    android:textStyle="bold" />-->
+
+<!--                                <TextView-->
+<!--                                    android:id="@+id/recipeCarbs"-->
+<!--                                    android:layout_width="match_parent"-->
+<!--                                    android:layout_height="match_parent"-->
+<!--                                    android:layout_gravity="bottom"-->
+<!--                                    android:background="@color/white"-->
+<!--                                    android:gravity="center"-->
+<!--                                    android:text="200g "-->
+<!--                                    android:textSize="20sp"-->
+<!--                                    android:textStyle="normal"-->
+
+<!--                                    />-->
+<!--                            </LinearLayout>-->
+
+<!--                            <LinearLayout-->
+<!--                                android:layout_width="match_parent"-->
+<!--                                android:layout_height="match_parent"-->
+<!--                                android:layout_marginRight="20dp"-->
+<!--                                android:orientation="vertical">-->
+
+<!--                                <TextView-->
+<!--                                    android:layout_width="match_parent"-->
+<!--                                    android:layout_height="wrap_content"-->
+<!--                                    android:layout_gravity="left"-->
+<!--                                    android:background="@color/white"-->
+<!--                                    android:gravity="center"-->
+<!--                                    android:text="Protein"-->
+<!--                                    android:textColor="@color/black"-->
+<!--                                    android:textSize="20sp"-->
+<!--                                    android:textStyle="bold" />-->
+
+<!--                                <TextView-->
+<!--                                    android:id="@+id/recipeProtein"-->
+<!--                                    android:layout_width="match_parent"-->
+<!--                                    android:layout_height="match_parent"-->
+<!--                                    android:layout_gravity="bottom"-->
+<!--                                    android:background="@color/white"-->
+<!--                                    android:gravity="center"-->
+<!--                                    android:text="200g "-->
+<!--                                    android:textSize="20sp"-->
+<!--                                    android:textStyle="normal"-->
+
+<!--                                    />-->
+<!--                            </LinearLayout>-->
+
+<!--                            <LinearLayout-->
+<!--                                android:layout_width="match_parent"-->
+<!--                                android:layout_height="match_parent"-->
+<!--                                android:layout_marginRight="20dp"-->
+<!--                                android:orientation="vertical">-->
+
+<!--                                <TextView-->
+<!--                                    android:layout_width="wrap_content"-->
+<!--                                    android:layout_height="wrap_content"-->
+<!--                                    android:layout_gravity="left"-->
+<!--                                    android:background="@color/white"-->
+<!--                                    android:gravity="center"-->
+<!--                                    android:text="Fats"-->
+<!--                                    android:textColor="@color/black"-->
+<!--                                    android:textSize="20sp"-->
+<!--                                    android:textStyle="bold" />-->
+
+<!--                                <TextView-->
+<!--                                    android:id="@+id/recipeFats"-->
+<!--                                    android:layout_width="wrap_content"-->
+<!--                                    android:layout_height="match_parent"-->
+<!--                                    android:layout_gravity="bottom"-->
+<!--                                    android:background="@color/white"-->
+<!--                                    android:text="200g "-->
+<!--                                    android:textSize="20sp"-->
+<!--                                    android:textStyle="normal"-->
+
+<!--                                    />-->
+<!--                            </LinearLayout>-->
+
+<!--                            <LinearLayout-->
+<!--                                android:layout_width="match_parent"-->
+<!--                                android:layout_height="match_parent"-->
+<!--                                android:orientation="vertical">-->
+
+<!--                                <TextView-->
+<!--                                    android:layout_width="wrap_content"-->
+<!--                                    android:layout_height="wrap_content"-->
+<!--                                    android:layout_gravity="left"-->
+<!--                                    android:background="@color/white"-->
+<!--                                    android:text="Calories"-->
+<!--                                    android:textColor="@color/black"-->
+<!--                                    android:textSize="20sp"-->
+<!--                                    android:textStyle="bold" />-->
+
+<!--                                <TextView-->
+<!--                                    android:id="@+id/recipeCalories"-->
+<!--                                    android:layout_width="match_parent"-->
+<!--                                    android:layout_height="match_parent"-->
+<!--                                    android:layout_gravity="bottom"-->
+<!--                                    android:background="@color/white"-->
+<!--                                    android:gravity="center"-->
+<!--                                    android:text="250 "-->
+<!--                                    android:textSize="20sp"-->
+<!--                                    android:textStyle="normal"-->
+
+<!--                                    />-->
+<!--                            </LinearLayout>-->
+<!--                        </LinearLayout>-->
+
+<!--                    </androidx.cardview.widget.CardView>-->
+<!--                    &lt;!&ndash; End Nutrition facts &ndash;&gt;-->
+
+
+<!--                    <TextView-->
+<!--                        android:layout_width="wrap_content"-->
+<!--                        android:layout_height="match_parent"-->
+<!--                        android:layout_gravity="left"-->
+<!--                        android:layout_marginTop="10dp"-->
+<!--                        android:text="   Ingaridants:"-->
+<!--                        android:textSize="20sp"-->
+<!--                        android:textStyle="bold"-->
+
+<!--                        />-->
+
+
+<!--                    <androidx.cardview.widget.CardView-->
+<!--                        android:layout_width="match_parent"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:layout_alignParentBottom="true"-->
+<!--                        android:layout_centerHorizontal="true"-->
+<!--                        android:layout_marginLeft="20dp"-->
+<!--                        android:layout_marginTop="1dp"-->
+<!--                        android:layout_marginRight="20dp"-->
+<!--                        app:cardCornerRadius="10dp">-->
+
+<!--                        <TextView-->
+<!--                            android:id="@+id/recipeIngradiants"-->
+<!--                            android:layout_width="match_parent"-->
+<!--                            android:layout_height="match_parent"-->
+<!--                            android:layout_gravity="left"-->
+<!--                            android:layout_marginLeft="5dp"-->
+<!--                            android:background="@color/white"-->
+<!--                            android:text=" 1 kg flower(any flower)\n 1 bag of baking powder(2 TB)\n 1 cup koko powder\n 1 cup shugar\n 3 L eggs\n 2 TB vanlia extract\n 3 cups of milk"-->
+<!--                            android:textSize="20sp"-->
+<!--                            android:textStyle="italic"-->
+
+<!--                            />-->
+<!--                    </androidx.cardview.widget.CardView>-->
+
+
+<!--                    <TextView-->
+<!--                        android:layout_width="wrap_content"-->
+<!--                        android:layout_height="match_parent"-->
+<!--                        android:layout_gravity="left"-->
+<!--                        android:layout_marginTop="10dp"-->
+<!--                        android:text="   How To Make: "-->
+<!--                        android:textSize="20sp"-->
+<!--                        android:textStyle="bold"-->
+
+<!--                        />-->
+
+<!--                    <androidx.cardview.widget.CardView-->
+<!--                        android:layout_width="match_parent"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:layout_alignParentBottom="true"-->
+<!--                        android:layout_centerHorizontal="true"-->
+<!--                        android:layout_marginLeft="20dp"-->
+<!--                        android:layout_marginTop="1dp"-->
+<!--                        android:layout_marginRight="20dp"-->
+<!--                        app:cardCornerRadius="10dp">-->
+
+<!--                        <TextView-->
+<!--                            android:id="@+id/recipeHowToMake"-->
+<!--                            android:layout_width="wrap_content"-->
+<!--                            android:layout_height="match_parent"-->
+<!--                            android:layout_gravity="left"-->
+<!--                            android:layout_marginLeft="5dp"-->
+<!--                            android:background="@color/white"-->
+<!--                            android:text=" put in a ball all of the dry ingardiants\n then add slowly the wet.\n heat a pan on medium heat with butter.\n poor the mixtare.\n flip the pancake when u see bubbles in the top.\n then eat and enjoy : )"-->
+<!--                            android:textSize="20sp"-->
+<!--                            android:textStyle="italic"-->
+
+<!--                            />-->
+<!--                    </androidx.cardview.widget.CardView>-->
+
+
+<!--                    <LinearLayout-->
+<!--                        android:layout_width="wrap_content"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:layout_gravity="center"-->
+<!--                        android:layout_marginTop="10dp"-->
+<!--                        android:background="#F8EECF"-->
+<!--                        android:orientation="horizontal"-->
+<!--                        tools:context=".ViewModel.RecipePage">-->
+
+<!--                        <Button-->
+<!--                            android:id="@+id/recipeListButton"-->
+<!--                            android:layout_width="40dp"-->
+<!--                            android:layout_height="40dp"-->
+<!--                            android:layout_gravity="center"-->
+<!--                            android:layout_marginLeft="20dp"-->
+<!--                            android:background="@drawable/ic_baseline_checklist_rtl_24" />-->
+
+<!--                    </LinearLayout>-->
+
+<!--                </LinearLayout>-->
+
+<!--                &lt;!&ndash; Make Cart List &ndash;&gt;-->
+<!--                <ImageButton-->
+<!--                    android:id="@+id/ib_create_cart_list"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="match_parent"-->
+<!--                    android:background="@drawable/ic_grocery_list"-->
+<!--                    android:src="@drawable/ic_grocery_list"-->
+<!--                    android:layout_alignParentEnd="true"-->
+<!--                    />-->
+
+<!--            </RelativeLayout>-->
+
+<!--        </LinearLayout>-->
+<!--    </ScrollView>-->
+
+
+<!--    &lt;!&ndash;  Bottom Card  &ndash;&gt;-->
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:layout_margin="1dp"-->
+<!--        android:background="@color/white"-->
+<!--        android:orientation="horizontal">-->
+
+<!--        <androidx.cardview.widget.CardView-->
+<!--            android:layout_width="85dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_alignParentBottom="true"-->
+<!--            android:layout_centerHorizontal="true"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            app:cardCornerRadius="10dp">-->
+
+<!--            <ImageView-->
+<!--                android:layout_width="30dp"-->
+<!--                android:layout_height="30dp"-->
+<!--                android:layout_gravity="left"-->
+<!--                android:src="@drawable/ic_baseline_access_time_24" />-->
+
+<!--            <LinearLayout-->
+<!--                android:layout_width="100dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="vertical">-->
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_marginLeft="2dp"-->
+<!--                    android:text=" Prep "-->
+<!--                    android:textSize="20sp"-->
+<!--                    android:textStyle="bold" />-->
+
+<!--                <TextView-->
+<!--                    android:id="@+id/recipePrepTime"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_marginLeft="5dp"-->
+<!--                    android:text="45m"-->
+<!--                    android:textSize="20sp"-->
+<!--                    android:textStyle="italic" />-->
+
+
+<!--            </LinearLayout>-->
+
+<!--        </androidx.cardview.widget.CardView>-->
+
+<!--        <androidx.cardview.widget.CardView-->
+<!--            android:layout_width="85dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_alignParentBottom="true"-->
+<!--            android:layout_centerHorizontal="true"-->
+<!--            android:layout_marginLeft="5dp"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            app:cardCornerRadius="10dp">-->
+
+<!--            <ImageView-->
+<!--                android:layout_width="30dp"-->
+<!--                android:layout_height="30dp"-->
+<!--                android:layout_gravity="left"-->
+<!--                android:src="@drawable/ic_baseline_access_time_24" />-->
+
+<!--            <LinearLayout-->
+<!--                android:layout_width="101dp"-->
+<!--                android:layout_height="match_parent"-->
+<!--                android:orientation="vertical">-->
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_marginLeft="2dp"-->
+<!--                    android:text=" Cook "-->
+<!--                    android:textSize="20sp"-->
+<!--                    android:textStyle="bold" />-->
+
+<!--                <TextView-->
+<!--                    android:id="@+id/recipeCookTime"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_marginLeft="5dp"-->
+<!--                    android:text="55m"-->
+<!--                    android:textSize="20sp"-->
+<!--                    android:textStyle="italic" />-->
+
+
+<!--            </LinearLayout>-->
+
+<!--        </androidx.cardview.widget.CardView>-->
+
+
+<!--        <androidx.cardview.widget.CardView-->
+<!--            android:layout_width="85dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_alignParentBottom="true"-->
+<!--            android:layout_centerHorizontal="true"-->
+<!--            android:layout_marginLeft="5dp"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            app:cardCornerRadius="10dp">-->
+
+<!--            <ImageView-->
+<!--                android:layout_width="30dp"-->
+<!--                android:layout_height="30dp"-->
+<!--                android:layout_gravity="left"-->
+<!--                android:src="@drawable/ic_baseline_access_time_24" />-->
+
+<!--            <LinearLayout-->
+<!--                android:layout_width="100dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="vertical">-->
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_marginLeft="2dp"-->
+<!--                    android:text=" Total "-->
+<!--                    android:textSize="20sp"-->
+<!--                    android:textStyle="bold" />-->
+
+<!--                <TextView-->
+<!--                    android:id="@+id/recipeTotalTime"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_marginLeft="5dp"-->
+<!--                    android:text="140m"-->
+<!--                    android:textSize="20sp"-->
+<!--                    android:textStyle="italic" />-->
+
+
+<!--            </LinearLayout>-->
+
+<!--        </androidx.cardview.widget.CardView>-->
+
+
+<!--        <androidx.cardview.widget.CardView-->
+<!--            android:layout_width="110dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_alignParentBottom="true"-->
+<!--            android:layout_centerHorizontal="true"-->
+<!--            android:layout_marginLeft="5dp"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            app:cardCornerRadius="10dp">-->
+
+<!--            <ImageView-->
+<!--                android:layout_width="30dp"-->
+<!--                android:layout_height="30dp"-->
+<!--                android:layout_gravity="left"-->
+<!--                android:src="@drawable/ic_baseline_local_dining_24" />-->
+
+<!--            <LinearLayout-->
+<!--                android:layout_width="100dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="vertical">-->
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_marginLeft="14dp"-->
+<!--                    android:text="Serving"-->
+<!--                    android:textSize="20sp"-->
+<!--                    android:textStyle="bold" />-->
+
+<!--                <TextView-->
+<!--                    android:id="@+id/recipeServings"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:text="2-4"-->
+<!--                    android:textSize="20sp"-->
+<!--                    android:textStyle="italic" />-->
+
+<!--            </LinearLayout>-->
+
+<!--        </androidx.cardview.widget.CardView>-->
+
+<!--    </LinearLayout>-->
+
+
+</RelativeLayout>

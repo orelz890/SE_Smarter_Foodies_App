@@ -103,52 +103,13 @@ public class update_profile_photo extends AppCompatActivity {
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
-//        try {
-            super.onActivityResult(requestCode, resultCode, data);
-            uriImage = data.getData();
+        super.onActivityResult(requestCode, resultCode, data);
+        uriImage = data.getData();
+        if (uriImage != null){
             profileimageview.setImageURI(uriImage);
-//            if (data != null) {
-//                Uri imgUri = data.getData();
-//                for (ImageView iv : imageViews) {
-//                    if (iv.getDrawable() == null) {
-//                        if (imgUri != null) {
-//                            iv.setImageURI(imgUri);
-//                            String path = uriImage.getPath();
-//                            // Convert image to base64-encoded string
-//                            ByteArrayOutputStream baos = new ByteArrayOutputStream();
-//                            Bitmap bitmap = BitmapFactory.decodeFile(path);
-//                            bitmap.compress(Bitmap.CompressFormat.JPEG, 100, baos);
-//                            byte[] imageData = baos.toByteArray();
-//                            String imageDataBase64 = Base64.encodeToString(imageData, Base64.DEFAULT);
-//                            uploadedImages.add(imageDataBase64);
-//                            break;
-//                        }
-//                    }
-//                }
-//                if (Size + 1 == 4) {
-//                    Toast.makeText(getApplicationContext(), "You have reached the limit of image uploads", Toast.LENGTH_SHORT).show();
-//                }
-//            } else {
-//                Toast.makeText(getApplicationContext(), "You exceeded limit of images", Toast.LENGTH_SHORT).show();
-            }
-//        }
-//    } catch(
-//    Exception ignored)
-//
-//    {
-//
-//    }
+        }
 
-//}
-
-//    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
-//        super.onActivityResult(requestCode, resultCode, data);
-//        if (requestCode == PICK_IMAGE_REQUEST && resultCode == RESULT_OK && data != null &&
-//                data.getData() != null) {
-//            uriImage = data.getData();
-//            profileimageview.setImageURI(uriImage);
-//        }
-//    }
+    }
 
     public void Uplodpic() {
         if (uriImage != null) {

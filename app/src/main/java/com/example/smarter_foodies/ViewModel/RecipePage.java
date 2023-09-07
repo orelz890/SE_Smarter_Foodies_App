@@ -11,6 +11,7 @@ import android.os.Bundle;
 import android.util.Base64;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -30,25 +31,10 @@ import java.util.List;
 import java.util.Locale;
 
 public class RecipePage extends AppCompatActivity {
-    CRUD_RealTimeDatabaseData CRUD;
 
-    TextView ingardiants;
-    TextView howToMake;
-    TextView prepTime;
-    TextView cookTime;
-    TextView totalTime;
-    TextView carbs;
-    TextView protein;
-    TextView fats;
-    TextView caloreis;
-    TextView servings;
-    TextView recipeName;
-    TextView catagoryAndSub;
-    TextView copyRights;
-
-    Button listExtract;
-
-    ImageView recipeImage;
+    private TextView ingredients, howToMake, prepTime, cookTime, totalTime, carbs, protein, fats, calories, servings, recipeName, categoryAndSub, copyRights;
+    private ImageView recipeImage;
+    private ImageButton listExtract;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -61,22 +47,22 @@ public class RecipePage extends AppCompatActivity {
         setBundleContent(mBundle);
 
         listExtract.setOnClickListener(view -> {
-            //mBundle.getString("ingardiants")
-            createWhatsappDialog(mBundle.getString("name") + "\n\nIngeridants:\n\n" + ingardiants.getText() );
+            sendRecipeToWhatsapp(mBundle.getString("name") + "\n\ningredients:\n\n" + ingredients.getText());
         });
     }
 
     private void setFindByIds() {
         recipeImage = (ImageView) findViewById(R.id.recipeImageDisplay);
 
-        catagoryAndSub = (TextView) findViewById(R.id.recipeCatAndSub);
+
+        categoryAndSub = (TextView) findViewById(R.id.recipeCatAndSub);
         recipeName = (TextView) findViewById(R.id.recipeName);
         copyRights = (TextView) findViewById(R.id.recipeHowToMake);
         protein = (TextView) findViewById(R.id.recipeProtein);
         carbs = (TextView) findViewById(R.id.recipeCarbs);
         fats = (TextView) findViewById(R.id.recipeFats);
-        caloreis = (TextView) findViewById(R.id.recipeCalories);
-        ingardiants = (TextView) findViewById(R.id.recipeIngradiants);
+        calories = (TextView) findViewById(R.id.recipeCalories);
+        ingredients = (TextView) findViewById(R.id.recipeIngredients);
         howToMake = (TextView) findViewById(R.id.recipeHowToMake);
         prepTime = (TextView) findViewById(R.id.recipePrepTime);
         cookTime = (TextView) findViewById(R.id.recipeCookTime);
@@ -84,13 +70,13 @@ public class RecipePage extends AppCompatActivity {
         servings = (TextView) findViewById(R.id.recipeServings);
 
 
-        listExtract = (Button) findViewById(R.id.recipeListButton);
+        listExtract = (ImageButton) findViewById(R.id.ib_create_cart_list);
     }
 
     private void setBundleContent(Bundle mBundle) {
         if (mBundle != null) {
 
-            catagoryAndSub.setText(mBundle.getString("CategoryAndSub"));
+            categoryAndSub.setText(mBundle.getString("CategoryAndSub"));
 
             recipeName.setText(mBundle.getString("name"));
             getDishFromSearchTree(recipeName.getText().toString());
@@ -100,9 +86,9 @@ public class RecipePage extends AppCompatActivity {
             carbs.setText(RecipePageFunctions.is_full(mBundle.getString("carbs")));
             protein.setText(RecipePageFunctions.is_full(mBundle.getString("protein")));
             fats.setText(RecipePageFunctions.is_full(mBundle.getString("fats")));
-            caloreis.setText(RecipePageFunctions.is_full(mBundle.getString("calories")));
+            calories.setText(RecipePageFunctions.is_full(mBundle.getString("calories")));
 
-            ingardiants.setText(RecipePageFunctions.ingaridiants(mBundle.getStringArray("ingardiants")));
+            ingredients.setText(RecipePageFunctions.recipeIngredients(mBundle.getStringArray("ingredients")));
             howToMake.setText(RecipePageFunctions.directions(mBundle.getStringArray("HowToMake")));
 
             int prep = RecipePageFunctions.Proper_time_int(mBundle.getString("prepTime"));
@@ -124,33 +110,18 @@ public class RecipePage extends AppCompatActivity {
     }
 
 
-    private void createWhatsappDialog(String itemList) {
+    private void sendRecipeToWhatsapp(String itemList) {
 
-        AlertDialog.Builder builder = new AlertDialog.Builder(this, androidx.appcompat.R.style.Base_Widget_AppCompat_ActionBar_TabBar);
-        final View customLayout = getLayoutInflater().inflate(R.layout.whatsapp_dialog, null);
-        builder.setView(customLayout);
-        builder.setCancelable(false);
-        ImageView imageView = customLayout.findViewById(R.id.btnWhatsapp);
-
-        imageView.setOnClickListener(view -> {
-            Intent intent = new Intent(Intent.ACTION_SEND);
-            intent.putExtra(Intent.EXTRA_TEXT, itemList);
-            intent.setType("text/plain");
-            intent.setPackage("com.whatsapp");
-            try {
-                startActivity(intent);
-            } catch (Exception exception) {
-                Toast.makeText(RecipePage.this, "There is no application that support this action",
-                        Toast.LENGTH_SHORT).show();
-            }
-        });
-        builder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
-            @Override
-            public void onClick(DialogInterface dialog, int which) {
-                dialog.cancel();
-            }
-        });
-        builder.show();
+        Intent intent = new Intent(Intent.ACTION_SEND);
+        intent.putExtra(Intent.EXTRA_TEXT, itemList);
+        intent.setType("text/plain");
+        intent.setPackage("com.whatsapp");
+        try {
+            startActivity(intent);
+        } catch (Exception exception) {
+            Toast.makeText(RecipePage.this, "There is no application that support this action",
+                    Toast.LENGTH_SHORT).show();
+        }
     }
 
 
@@ -178,7 +149,7 @@ public class RecipePage extends AppCompatActivity {
                     System.out.println("image list:   " + r.get(0).getImages());
                     System.out.println("image arr:   " + (RecipePageFunctions.List_of_string_to_array(r.get(0).getImages())).toString());
                     int size = ImageUrl.length;
-                    if (size > 0){
+                    if (size > 0) {
                         if (ImageUrl[size - 1].startsWith("https:")) {
                             Picasso.get().load(ImageUrl[size - 1]).into(recipeImage);
                         } else {
@@ -189,8 +160,7 @@ public class RecipePage extends AppCompatActivity {
                             // Set the image for the ImageView
                             recipeImage.setImageBitmap(bitmap);
                         }
-                    }
-                    else{
+                    } else {
                         recipeImage.setImageResource(R.drawable.iv_no_images_available);
                     }
                 }

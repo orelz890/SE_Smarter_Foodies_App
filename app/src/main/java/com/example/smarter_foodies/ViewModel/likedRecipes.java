@@ -4,6 +4,7 @@ import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -14,6 +15,7 @@ import android.widget.TextView;
 import com.example.smarter_foodies.DashboardActivity;
 import com.example.smarter_foodies.Model.CRUD_RealTimeDatabaseData;
 import com.example.smarter_foodies.Model.MyLikedAndCartAdapter;
+import com.example.smarter_foodies.Model.RecipePageFunctions;
 import com.example.smarter_foodies.Model.User;
 import com.example.smarter_foodies.Model.recipe;
 import com.example.smarter_foodies.R;
@@ -26,6 +28,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Random;
 
 
 public class likedRecipes extends DashboardActivity {
@@ -70,33 +73,19 @@ public class likedRecipes extends DashboardActivity {
     }
 
     private void setImageButtons() {
-        imageButton = findViewById(R.id.ib_mystery_box);
-        //                    Random random = new Random();
-//                    // Generate a random index
-//                    int index = random.nextInt(myFoodList.size());
-//                    // Get the element at the random index
-//                    recipe randomRecipe = myFoodList.get(index);
-//                    setRecipeDialog(randomRecipe);
-
-//        for (int i = 0; i < myFoodList.size(); i++) {
-//
-//            LikedFoodViewHolder viewHolder = (LikedFoodViewHolder) mRecyclerView
-//                    .findViewHolderForAdapterPosition(i);
-//            if (viewHolder != null) {
-//                viewHolder.imageView.setOnClickListener(new View.OnClickListener() {
-//                    @Override
-//                    public void onClick(View view) {
-//                        if (!myFoodList.isEmpty()) {
-//
-//                            viewHolder.imageView.setImageResource(R.drawable.red_heart_not_filled);
-//                            String recipeName = viewHolder.mTitle.getText().toString();
-//                            CRUD.removeFromUserLists(CRUD.getSingleValueList(recipeName), "liked");
-//                            setRecycleView();
-//                        }
-//                    }
-//                });
-//            }
-//        }
+        imageButton = findViewById(R.id.ib_mystery_box_up);
+        imageButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                int size = myFoodList.size();
+                Random ran = new Random();
+                int index = ran.nextInt(size);
+                Intent intent = new Intent(likedRecipes.this, RecipePage.class);
+                recipe res= myFoodList.get(index);
+                RecipePageFunctions.setIntentContent(intent,res);
+                startActivity(intent);
+            }
+        });
 
     }
 
