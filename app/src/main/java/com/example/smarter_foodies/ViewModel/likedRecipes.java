@@ -54,7 +54,7 @@ public class likedRecipes extends DashboardActivity {
                 .inflate(R.layout.activity_liked_recipes, rootLayout, false);
         rootLayout.addView(activityMainView);
         setContentView(rootLayout);
-        allocateActivityTitle("Likes");
+        allocateActivityTitle("Liked");
 
         myFoodList = new ArrayList<>();
 

@@ -17,8 +17,6 @@ import android.widget.Toast;
 
 import com.example.smarter_foodies.Model.User;
 import com.example.smarter_foodies.R;
-import com.google.android.gms.auth.api.signin.GoogleSignIn;
-import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;

@@ -23,13 +23,6 @@
 <!--                android:value="" />-->
 <!--        </activity>-->
         <activity
-            android:name=".ViewModel.Cart"
-            android:exported="false">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
             android:name=".ViewModel.likedRecipes"
             android:exported="false">
             <meta-data
@@ -50,13 +43,12 @@
         <activity android:name=".ViewModel.LoginActivity" />
         <activity android:name=".ViewModel.RegisterActivity" />
         <activity android:name=".ViewModel.ApplyChef" />
-        <activity android:name=".ViewModel.SearchRecipe" />
+        <activity android:name=".ViewModel.MainActivity" />
         <activity android:name=".ViewModel.profile_page" />
         <activity android:name=".ViewModel.UpdateProfile" />
         <activity android:name=".ViewModel.RecipePage" />
         <activity android:name=".ViewModel.IngrePage" />
-        <activity android:name=".ViewModel.update_profile_photo" />
-        <activity android:name=".ViewModel.my_uploads" />
+        <activity android:name=".ViewModel.myUploads" />
         <activity android:name=".ViewModel.UpdateRecipe"/>
         <activity android:name=".ViewModel.AddRecipe" />
 
@@ -73,9 +65,6 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
-        <activity
-            android:name=".ViewModel.MainActivity"
-            android:exported="false" />
     </application>
 
 </manifest>

@@ -122,7 +122,7 @@ public class AddRecipe extends DashboardActivity {
         View activityMainView = LayoutInflater.from(this).inflate(R.layout.activity_add_recipe, rootLayout, false);
         rootLayout.addView(activityMainView);
         setContentView(rootLayout);
-        allocateActivityTitle("AddRecipe");
+        allocateActivityTitle("Add Recipe");
 
         etIngredients = findViewById(R.id.etIngredients);
         addIngredients = findViewById(R.id.ib_add_ingredient);
@@ -304,7 +304,7 @@ public class AddRecipe extends DashboardActivity {
             submitRecipe();
             // If the submit was successful
             if (!flag) {
-                startActivity(new Intent(AddRecipe.this, SearchRecipe.class));
+                startActivity(new Intent(AddRecipe.this, MainActivity.class));
             }
             System.out.println("============================");
         });
@@ -506,7 +506,7 @@ public class AddRecipe extends DashboardActivity {
     private void moveToActivity(String title) {
         Toast.makeText(getApplicationContext(), title + "> was loaded!", Toast.LENGTH_LONG).show();
         selectedIngredients.clear();
-        startActivity(new Intent(AddRecipe.this, SearchRecipe.class));
+        startActivity(new Intent(AddRecipe.this, MainActivity.class));
     }
 
 

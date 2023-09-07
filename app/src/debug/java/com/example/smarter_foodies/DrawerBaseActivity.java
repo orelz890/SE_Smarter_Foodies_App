@@ -1,7 +1,6 @@
 package com.example.smarter_foodies;
 
 import androidx.annotation.NonNull;
-import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
@@ -10,8 +9,6 @@ import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
 import android.content.Intent;
-import android.graphics.PorterDuff;
-import android.graphics.drawable.Drawable;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.FrameLayout;
@@ -19,7 +16,7 @@ import android.widget.FrameLayout;
 import com.example.smarter_foodies.ViewModel.AddRecipe;
 import com.example.smarter_foodies.ViewModel.ApplyChef;
 import com.example.smarter_foodies.ViewModel.LoginGoogle;
-import com.example.smarter_foodies.ViewModel.SearchRecipe;
+import com.example.smarter_foodies.ViewModel.MainActivity;
 import com.example.smarter_foodies.ViewModel.UpdateRecipe;
 import com.example.smarter_foodies.ViewModel.WeeklyPlan;
 import com.example.smarter_foodies.ViewModel.likedRecipes;
@@ -112,7 +109,7 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
                 break;
 
             case R.id.nav_home:
-                startActivity(new Intent(this, SearchRecipe.class));
+                startActivity(new Intent(this, MainActivity.class));
                 // For smooth transition
                 overridePendingTransition(0, 0);
                 break;
@@ -162,7 +159,7 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
                 overridePendingTransition(0, 0);
                 break;
             case R.id.nav_home:
-                startActivity(new Intent(this, SearchRecipe.class));
+                startActivity(new Intent(this, MainActivity.class));
                 // For smooth transition
                 overridePendingTransition(0, 0);
                 break;
