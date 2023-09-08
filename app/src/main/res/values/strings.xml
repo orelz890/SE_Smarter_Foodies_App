@@ -30,5 +30,6 @@
     <string name="recipe_details">Recipe Details</string>
     <string name="calories">Calories</string>
     <string name="submit">submit</string>
+    <string name="Cart">Cart</string>
 
 </resources>

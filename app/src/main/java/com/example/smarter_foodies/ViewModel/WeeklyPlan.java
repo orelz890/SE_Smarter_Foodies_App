@@ -53,7 +53,7 @@ public class WeeklyPlan extends DashboardActivity {
                 .inflate(R.layout.activity_cart, rootLayout, false);
         rootLayout.addView(activityMainView);
         setContentView(rootLayout);
-        allocateActivityTitle("My Weekly Plan");
+        allocateActivityTitle("My Cart");
 
         ingredientList = findViewById(R.id.ib_create_cart_list);
         myFoodList = new ArrayList<>();

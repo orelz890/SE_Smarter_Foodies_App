@@ -121,7 +121,7 @@ public class UpdateRecipe extends DashboardActivity {
         View activityMainView = LayoutInflater.from(this).inflate(R.layout.activity_update_recipe, rootLayout, false);
         rootLayout.addView(activityMainView);
         setContentView(rootLayout);
-        allocateActivityTitle("UpdateRecipe");
+        allocateActivityTitle("Update Recipe");
 
         mAuth = FirebaseAuth.getInstance();
         // Create reference to the firebase real time database
@@ -442,7 +442,7 @@ public class UpdateRecipe extends DashboardActivity {
         });
 
         builder.setNegativeButton("cancel", (dialogInterface, which) -> {
-            startActivity(new Intent(UpdateRecipe.this, SearchRecipe.class));
+            startActivity(new Intent(UpdateRecipe.this, MainActivity.class));
         });
         AlertDialog dialog = builder.create();
         dialog.show();
@@ -459,7 +459,7 @@ public class UpdateRecipe extends DashboardActivity {
             public void onClick(DialogInterface dialogInterface, int which) {
                 CRUD.deleteRecipe(name);
                 CRUD.removeFromUserLists(CRUD.getSingleValueList(name), "recipes");
-                startActivity(new Intent(UpdateRecipe.this, SearchRecipe.class));
+                startActivity(new Intent(UpdateRecipe.this, MainActivity.class));
             }
         });
 
@@ -483,7 +483,7 @@ public class UpdateRecipe extends DashboardActivity {
             btnSubmit.setOnClickListener(view -> {
                 System.out.println("=============================");
                 submitRecipe();
-                startActivity(new Intent(UpdateRecipe.this, SearchRecipe.class));
+                startActivity(new Intent(UpdateRecipe.this, MainActivity.class));
                 System.out.println("============================");
             });
         }

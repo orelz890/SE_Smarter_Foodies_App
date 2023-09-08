@@ -1,7 +1,6 @@
 package com.example.smarter_foodies;
 
 import androidx.annotation.NonNull;
-import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
@@ -10,8 +9,6 @@ import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
 import android.content.Intent;
-import android.graphics.PorterDuff;
-import android.graphics.drawable.Drawable;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.FrameLayout;
@@ -19,11 +16,14 @@ import android.widget.FrameLayout;
 import com.example.smarter_foodies.ViewModel.AddRecipe;
 import com.example.smarter_foodies.ViewModel.ApplyChef;
 import com.example.smarter_foodies.ViewModel.LoginGoogle;
-import com.example.smarter_foodies.ViewModel.SearchRecipe;
+import com.example.smarter_foodies.ViewModel.MainActivity;
 import com.example.smarter_foodies.ViewModel.UpdateRecipe;
 import com.example.smarter_foodies.ViewModel.WeeklyPlan;
 import com.example.smarter_foodies.ViewModel.likedRecipes;
 import com.example.smarter_foodies.ViewModel.profile_page;
+import com.google.android.gms.auth.api.signin.GoogleSignIn;
+import com.google.android.gms.auth.api.signin.GoogleSignInClient;
+import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
 import com.google.android.material.navigation.NavigationView;
 import com.google.firebase.auth.FirebaseAuth;
 
@@ -112,7 +112,7 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
                 break;
 
             case R.id.nav_home:
-                startActivity(new Intent(this, SearchRecipe.class));
+                startActivity(new Intent(this, MainActivity.class));
                 // For smooth transition
                 overridePendingTransition(0, 0);
                 break;
@@ -147,6 +147,14 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
 
             case R.id.nav_logOut:
                 FirebaseAuth.getInstance().signOut();
+
+                GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
+                        .requestIdToken(getString(R.string.default_web_client_id)) // Replace with your web client ID
+                        .requestEmail()
+                        .build();
+                GoogleSignInClient client = GoogleSignIn.getClient(this, gso);
+                client.signOut();
+
                 startActivity(new Intent(this, LoginGoogle.class));
                 overridePendingTransition(0, 0);
                 break;
@@ -162,7 +170,7 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
                 overridePendingTransition(0, 0);
                 break;
             case R.id.nav_home:
-                startActivity(new Intent(this, SearchRecipe.class));
+                startActivity(new Intent(this, MainActivity.class));
                 // For smooth transition
                 overridePendingTransition(0, 0);
                 break;
@@ -191,6 +199,14 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
 
             case R.id.nav_logOut:
                 FirebaseAuth.getInstance().signOut();
+
+                GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
+                        .requestIdToken(getString(R.string.default_web_client_id)) // Replace with your web client ID
+                        .requestEmail()
+                        .build();
+                GoogleSignInClient client = GoogleSignIn.getClient(this, gso);
+                client.signOut();
+
                 startActivity(new Intent(this, LoginGoogle.class));
                 overridePendingTransition(0, 0);
                 break;

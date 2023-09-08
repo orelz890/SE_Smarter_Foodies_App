@@ -15,7 +15,7 @@
 
         <item android:id="@+id/nav_weekly_planing"
             android:icon="@drawable/ic_baseline_edit_calendar_24"
-            android:title="@string/weeklyPlans"/>
+            android:title="@string/Cart"/>
 
 <!--        <item android:id="@+id/nav_cart"-->
 <!--            android:icon="@drawable/ic_baseline_shopping_cart_24"-->
