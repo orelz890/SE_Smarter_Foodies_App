@@ -14,7 +14,6 @@ import android.widget.TextView;
 
 import com.example.smarter_foodies.DashboardActivity;
 import com.example.smarter_foodies.Model.CRUD_RealTimeDatabaseData;
-import com.example.smarter_foodies.Model.MyAdapter;
 import com.example.smarter_foodies.Model.MyLikedAndCartAdapter;
 import com.example.smarter_foodies.Model.RecipePageFunctions;
 import com.example.smarter_foodies.Model.User;
@@ -32,7 +31,7 @@ import java.util.List;
 import java.util.Objects;
 import java.util.Random;
 
-public class my_uploads extends DashboardActivity {
+public class myUploads extends DashboardActivity {
 
 
     FirebaseAuth mAuth;
@@ -86,7 +85,7 @@ public class my_uploads extends DashboardActivity {
                 int size = myFoodList.size();
                 Random ran = new Random();
                 int index = ran.nextInt(size);
-                Intent intent = new Intent(my_uploads.this, RecipePage.class);
+                Intent intent = new Intent(myUploads.this, RecipePage.class);
                 recipe res= myFoodList.get(index);
                 RecipePageFunctions.setIntentContent(intent,res);
                 startActivity(intent);
@@ -113,7 +112,7 @@ public class my_uploads extends DashboardActivity {
     private void setRecycleView() {
         mRecyclerView = (RecyclerView) findViewById(R.id.recyclerLikedView_up);
 
-        GridLayoutManager gridLayoutManager = new GridLayoutManager(my_uploads.this, 1);
+        GridLayoutManager gridLayoutManager = new GridLayoutManager(myUploads.this, 1);
         mRecyclerView.setLayoutManager(gridLayoutManager);
 
         myFoodList = new ArrayList<>();
@@ -155,7 +154,7 @@ public class my_uploads extends DashboardActivity {
                     int screenWidth = getResources().getDisplayMetrics().widthPixels;
                     int screenHeight = getResources().getDisplayMetrics().heightPixels;
 
-                    myAdapter = new MyLikedAndCartAdapter(my_uploads.this, myFoodList, "myUploads");
+                    myAdapter = new MyLikedAndCartAdapter(myUploads.this, myFoodList, "myUploads");
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }

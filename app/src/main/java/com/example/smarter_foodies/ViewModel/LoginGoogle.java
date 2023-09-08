@@ -21,7 +21,6 @@ import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.gms.auth.api.signin.GoogleSignInClient;
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
 import com.google.android.gms.common.api.ApiException;
-import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
@@ -150,7 +149,7 @@ public class LoginGoogle extends AppCompatActivity {
                         User user1 = dataSnapshot.getValue(User.class);
                         if (user1 != null && !user1.isFirstEntry()) {
 //                            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
-                            Intent intent = new Intent(getApplicationContext(), SearchRecipe.class);
+                            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
                             startActivity(intent);
                         }
                     }

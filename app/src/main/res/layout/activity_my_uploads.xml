@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="@null"
     android:orientation="vertical"
-    tools:context=".ViewModel.my_uploads">
+    tools:context=".ViewModel.myUploads">
 
 
     <TextView
