@@ -10,6 +10,7 @@ import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.util.Base64;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.ImageView;
@@ -134,24 +135,18 @@ public class RecipePage extends AppCompatActivity {
             @Override
             public void onSuccess(DataSnapshot dataSnapshot) {
                 if (dataSnapshot.exists()) {
-                    System.out.println("snap yay ");
                     for (DataSnapshot child : dataSnapshot.getChildren()) {
-                        System.out.println("in for yay");
-                        System.out.println(child);
                         recipe curr_recipe = child.getValue(recipe.class);
-                        System.out.println(curr_recipe);
                         if (curr_recipe != null) {
                             r.add(curr_recipe);
                         }
                     }
-                    System.out.println(r.get(0));
                     String[] ImageUrl = RecipePageFunctions.List_of_string_to_array(r.get(0).getImages());
-                    System.out.println("image list:   " + r.get(0).getImages());
-                    System.out.println("image arr:   " + (RecipePageFunctions.List_of_string_to_array(r.get(0).getImages())).toString());
                     int size = ImageUrl.length;
                     if (size > 0) {
                         if (ImageUrl[size - 1].startsWith("https:")) {
                             Picasso.get().load(ImageUrl[size - 1]).into(recipeImage);
+
                         } else {
                             // Decode the image data from base64 to a Bitmap
                             byte[] imageData = Base64.decode(ImageUrl[size - 1], Base64.DEFAULT);
@@ -159,6 +154,12 @@ public class RecipePage extends AppCompatActivity {
 
                             // Set the image for the ImageView
                             recipeImage.setImageBitmap(bitmap);
+
+//                            // Ensure the ImageView dimensions match the loaded image
+//                            ViewGroup.LayoutParams layoutParams = recipeImage.getLayoutParams();
+//                            layoutParams.width = bitmap.getWidth();
+//                            layoutParams.height = bitmap.getHeight();
+//                            recipeImage.setLayoutParams(layoutParams);
                         }
                     } else {
                         recipeImage.setImageResource(R.drawable.iv_no_images_available);
@@ -172,7 +173,6 @@ public class RecipePage extends AppCompatActivity {
         DataRef = FirebaseDatabase.getInstance().getReference();
         if (name.length() > 0) {
             String new_name = getCleanStringForSearch(name);
-            //            System.out.println(new_name);
             int len = new_name.length();
             DataRef = DataRef.child("search");
             // Max tree depth is 32

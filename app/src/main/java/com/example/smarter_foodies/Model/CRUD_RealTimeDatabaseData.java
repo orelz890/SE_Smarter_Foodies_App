@@ -73,44 +73,44 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         mDatabase = FirebaseDatabase.getInstance().getReference();
     }
 
-    private boolean init_database_with_existing_scraped_data() {
-        try {
-            AssetManager assetManager = getAssets();
-            String[] files = assetManager.list("per_category_data2");
-            for (String f : files) {
-                String[] files2 = assetManager.list("per_category_data2/" + f);
-                System.out.println(">>>>>>>>>>>>>>> " + f + " <<<<<<<<<<<<<<<<<<<");
-                for (String f2 : files2) {
-                    String[] files3 = assetManager.list("per_category_data2/" + f + "/" + f2);
-
-//                        System.out.println(f2);
-                    for (String f3 : files3) {
-                        try {
-                            String file_path = "per_category_data2/" + f + "/" + f2 + "/" + f3;
-                            InputStream inputStream = getAssets().open(file_path);
-                            int size = inputStream.available();
-                            byte[] buffer = new byte[size];
-                            inputStream.read(buffer);
-                            String json_str = new String(buffer);
-                            JsonObject jsonObject = new JsonParser().parse(json_str).getAsJsonObject();
-                            String copy_rights = "https://www.allrecipes.com/";
-                            recipe curr_recipe = new recipe(jsonObject, copy_rights);
-                            System.out.println(curr_recipe);
-                            loadDishToDatabase(curr_recipe);
-                        } catch (Exception e) {
-                            e.printStackTrace();
-                            return false;
-                        }
-                    }
-                    System.out.println("\n=====================================\n");
-                }
-            }
-
-        } catch (Exception ex) {
-            ex.printStackTrace();
-        }
-        return true;
-    }
+//    private boolean init_database_with_existing_scraped_data() {
+//        try {
+//            AssetManager assetManager = getAssets();
+//            String[] files = assetManager.list("per_category_data2");
+//            for (String f : files) {
+//                String[] files2 = assetManager.list("per_category_data2/" + f);
+//                System.out.println(">>>>>>>>>>>>>>> " + f + " <<<<<<<<<<<<<<<<<<<");
+//                for (String f2 : files2) {
+//                    String[] files3 = assetManager.list("per_category_data2/" + f + "/" + f2);
+//
+////                        System.out.println(f2);
+//                    for (String f3 : files3) {
+//                        try {
+//                            String file_path = "per_category_data2/" + f + "/" + f2 + "/" + f3;
+//                            InputStream inputStream = getAssets().open(file_path);
+//                            int size = inputStream.available();
+//                            byte[] buffer = new byte[size];
+//                            inputStream.read(buffer);
+//                            String json_str = new String(buffer);
+//                            JsonObject jsonObject = new JsonParser().parse(json_str).getAsJsonObject();
+//                            String copy_rights = "https://www.allrecipes.com/";
+//                            recipe curr_recipe = new recipe(jsonObject, copy_rights);
+//                            System.out.println(curr_recipe);
+//                            loadDishToDatabase(curr_recipe);
+//                        } catch (Exception e) {
+//                            e.printStackTrace();
+//                            return false;
+//                        }
+//                    }
+//                    System.out.println("\n=====================================\n");
+//                }
+//            }
+//
+//        } catch (Exception ex) {
+//            ex.printStackTrace();
+//        }
+//        return true;
+//    }
 
     private String getCleanStringForSearch(String input_str) {
         input_str = input_str.replace("\"", "").replace(" ", "");
@@ -139,13 +139,13 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         return DataRef;
     }
 
-    private boolean deleteAllInitData() {
-        mDatabase = FirebaseDatabase.getInstance().getReference();
-        mDatabase.child("filter").removeValue();
-        mDatabase.child("search").removeValue();
-        mDatabase.child("recipes").removeValue();
-        return true;
-    }
+//    private boolean deleteAllInitData() {
+//        mDatabase = FirebaseDatabase.getInstance().getReference();
+//        mDatabase.child("filter").removeValue();
+//        mDatabase.child("search").removeValue();
+//        mDatabase.child("recipes").removeValue();
+//        return true;
+//    }
 
     private void loadDishToSearchTree(recipe r) {
         if (r != null) {

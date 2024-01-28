@@ -684,6 +684,7 @@ public class UpdateRecipe extends DashboardActivity {
                             }
                         }
                         catch (Exception e){
+                            System.out.println(e.getStackTrace().toString());
                             e.printStackTrace();
                             Toast.makeText(getApplicationContext(),
                                     "We had a problem please try again..",
