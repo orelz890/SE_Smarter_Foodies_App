@@ -220,7 +220,12 @@ public class WeeklyPlan extends DashboardActivity {
                         tvRecipeCount.setText(myFoodList.size() + " recipes");
                     }
                     Collections.shuffle(myFoodList);
-                    myAdapter = new MyLikedAndCartAdapter(WeeklyPlan.this, myFoodList, "cart");
+
+                    // Get the height and width of the screen
+                    int screenWidth = getResources().getDisplayMetrics().widthPixels;
+                    int screenHeight = getResources().getDisplayMetrics().heightPixels;
+
+                    myAdapter = new MyLikedAndCartAdapter(WeeklyPlan.this, myFoodList, "cart", screenWidth, screenHeight);
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }

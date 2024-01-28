@@ -233,13 +233,14 @@ class FoodViewHolder extends RecyclerView.ViewHolder {
 
 
         // Calculate the desired width and height for the CardView
-        int desiredWidth = (int) (screenWidth * 0.45);
-        int desiredHeight = (int) (screenHeight * 0.4);
+        int desiredWidth = (int) (screenWidth * 0.4);
+        int desiredHeight = (int) (screenHeight * 0.2);
 
-        // Set the dimensions for the CardView programmatically
-        ViewGroup.LayoutParams layoutParams = mCardView.getLayoutParams();
-        layoutParams.width = desiredWidth;
+//        // Set the dimensions for the CardView programmatically
+//        ViewGroup.LayoutParams layoutParams = mCardView.getLayoutParams();
+//        layoutParams.width = desiredWidth;
+
 //        layoutParams.height = desiredHeight;
-        mCardView.setLayoutParams(layoutParams);
+//        mCardView.setLayoutParams(layoutParams);
     }
 }

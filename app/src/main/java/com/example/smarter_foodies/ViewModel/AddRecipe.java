@@ -119,13 +119,13 @@ public class AddRecipe extends DashboardActivity {
         super.onCreate(savedInstanceState);
         LinearLayout rootLayout = new LinearLayout(this);
         rootLayout.setOrientation(LinearLayout.VERTICAL);
-        View activityMainView = LayoutInflater.from(this).inflate(R.layout.activity_add_recipe, rootLayout, false);
+        View activityMainView = LayoutInflater.from(this).inflate(R.layout.activity_update_recipe, rootLayout, false);
         rootLayout.addView(activityMainView);
         setContentView(rootLayout);
         allocateActivityTitle("Add Recipe");
 
-        etIngredients = findViewById(R.id.etIngredients);
-        addIngredients = findViewById(R.id.ib_add_ingredient);
+        etIngredients = findViewById(R.id.etIngredientsUpdate);
+        addIngredients = findViewById(R.id.ib_add_ingredientUpdate);
 
 
         mAuth = FirebaseAuth.getInstance();
@@ -229,6 +229,9 @@ public class AddRecipe extends DashboardActivity {
                 }
             }
         });
+
+        // Remove the trash image button
+        findViewById(R.id.ib_remove_recipe).setVisibility(View.GONE);
     }
 
     @Override
@@ -373,7 +376,7 @@ public class AddRecipe extends DashboardActivity {
                 npFat.setValue(newValue);
             }
         });
-        npCalories = findViewById(R.id.npCalories);
+        npCalories = findViewById(R.id.npCaloriesUpdate);
         npCalories.setValue(-1);
         npCalories.setMaxValue(2000);
         npCalories.setMinValue(0);

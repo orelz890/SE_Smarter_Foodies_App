@@ -162,7 +162,12 @@ public class likedRecipes extends DashboardActivity {
                         tvRecipeCount.setText(myFoodList.size() + " recipes");
                     }
                     Collections.shuffle(myFoodList);
-                    myAdapter = new MyLikedAndCartAdapter(likedRecipes.this, myFoodList, "liked");
+
+                    // Get the height and width of the screen
+                    int screenWidth = getResources().getDisplayMetrics().widthPixels;
+                    int screenHeight = getResources().getDisplayMetrics().heightPixels;
+
+                    myAdapter = new MyLikedAndCartAdapter(likedRecipes.this, myFoodList, "liked", screenWidth, screenHeight);
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }

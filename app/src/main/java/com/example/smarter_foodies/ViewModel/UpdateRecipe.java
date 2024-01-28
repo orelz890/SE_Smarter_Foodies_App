@@ -303,14 +303,14 @@ public class UpdateRecipe extends DashboardActivity {
                 setDialogApproval(name);
             }
         });
-        imageViews.add(findViewById(R.id.ib_update_upload_recipe_image));
-        imageViews.add(findViewById(R.id.ib_update_upload_recipe_image2));
-        imageViews.add(findViewById(R.id.ib_update_upload_recipe_image3));
-        imageViews.add(findViewById(R.id.ib_update_upload_recipe_image4));
+        imageViews.add(findViewById(R.id.ib_upload_recipe_image));
+        imageViews.add(findViewById(R.id.ib_upload_recipe_image2));
+        imageViews.add(findViewById(R.id.ib_upload_recipe_image3));
+        imageViews.add(findViewById(R.id.ib_upload_recipe_image4));
         for (int i = 0; i < imageViews.size(); i++) {
             setLongClickListeners(i);
         }
-        fab = findViewById(R.id.floatingActionButtonAddRecipes);
+        fab = findViewById(R.id.floatingActionButtonAddRecipe);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
