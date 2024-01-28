@@ -154,7 +154,7 @@ public class myUploads extends DashboardActivity {
                     int screenWidth = getResources().getDisplayMetrics().widthPixels;
                     int screenHeight = getResources().getDisplayMetrics().heightPixels;
 
-                    myAdapter = new MyLikedAndCartAdapter(myUploads.this, myFoodList, "myUploads");
+                    myAdapter = new MyLikedAndCartAdapter(myUploads.this, myFoodList, "myUploads", screenWidth, screenHeight);
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }

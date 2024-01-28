@@ -47,6 +47,7 @@
                 android:padding="8dp"
                 android:background="@drawable/bordered_layout"
                 android:layout_marginTop="20dp"
+                android:id="@+id/auto_complete_search_RL"
                 >
 
                 <com.google.android.material.textfield.MaterialAutoCompleteTextView
@@ -106,15 +107,16 @@
 
         <GridLayout
             android:id="@+id/gv_search"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:columnCount="2"
-            android:layout_marginTop="0dp"
+            android:layout_gravity="center"
+            android:numColumns="auto_fit"
+            android:orientation="horizontal"
             >
 
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/recyclerSearchView"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:scrollbars="vertical"
                 />

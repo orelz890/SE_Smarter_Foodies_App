@@ -11,6 +11,7 @@ import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AlertDialog;
@@ -34,25 +35,26 @@ import java.util.List;
 import java.util.Set;
 
 public class MainActivity extends DashboardActivity {
-    AutoCompleteTextView autoCompleteSearchView;
-    ImageButton ib_filter;
-    ImageButton ib_refresh;
-    ArrayAdapter<String> arraySearchAdapter;
-    List<String> recipesNamesList;
-    CRUD_RealTimeDatabaseData CRUD;
-    RecyclerView mRecyclerView;
-    List<recipe> myFoodList;
-    MyAdapter myAdapter;
+    private AutoCompleteTextView autoCompleteSearchView;
+    private ImageButton ib_filter;
+    private ImageButton ib_refresh;
+    private ArrayAdapter<String> arraySearchAdapter;
+    private List<String> recipesNamesList;
+    private CRUD_RealTimeDatabaseData CRUD;
+    private RecyclerView mRecyclerView;
+    private List<recipe> myFoodList;
+    private MyAdapter myAdapter;
 
-    AutoCompleteTextView autoCompleteCategory;
-    ArrayAdapter<String> adapterCategories;
-    AutoCompleteTextView autoCompleteSubCategory;
-    ArrayAdapter<String> adapterSubCategories;
-    SwipeRefreshLayout swipeRefreshLayout;
-    String category;
-    String subCategory;
-    String[] categoriesList;
-
+    private AutoCompleteTextView autoCompleteCategory;
+    private ArrayAdapter<String> adapterCategories;
+    private AutoCompleteTextView autoCompleteSubCategory;
+    private ArrayAdapter<String> adapterSubCategories;
+    private SwipeRefreshLayout swipeRefreshLayout;
+    private String category;
+    private String subCategory;
+    private String[] categoriesList;
+    private int screenWidth;
+    private int screenHeight;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -69,6 +71,9 @@ public class MainActivity extends DashboardActivity {
         myFoodList = new ArrayList<>();
         category = "";
         subCategory = "";
+        // Get the height and width of the screen
+        this.screenWidth = getResources().getDisplayMetrics().widthPixels;
+        this.screenHeight = getResources().getDisplayMetrics().heightPixels;
 
         defineRecycleView();
         setMainRecyclerAdapter();
@@ -185,6 +190,7 @@ public class MainActivity extends DashboardActivity {
     // Set the filter names list + set adapter for the autoCompleteSearchView
     private void InitAutoCompleteSearchView() {
         autoCompleteSearchView = findViewById(R.id.ac_searchView);
+
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
                 .getReference().child("filter");
         mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
@@ -280,13 +286,25 @@ public class MainActivity extends DashboardActivity {
     public void defineRecycleView() {
         mRecyclerView = (RecyclerView) findViewById(R.id.recyclerSearchView);
 //        GridLayoutManager gridLayoutManager = new GridLayoutManager(SearchRecipe.this, 1);
-        GridLayoutManager gridLayoutManager = new GridLayoutManager(MainActivity.this, 2);
+//        GridLayoutManager gridLayoutManager = new GridLayoutManager(MainActivity.this, 2);
+
+        int horizontalSpacingInPixels = getResources().getDimensionPixelSize(R.dimen.horizontal_spacing);
+        int spacing = getResources().getDimensionPixelSize(R.dimen.spacing);
+        int recipeCrdWidth = getResources().getDimensionPixelSize(R.dimen.main_activity_recipe_width);
+
+// Calculate the number of columns based on available width considering both card width and spacing
+        int totalItemWidth = recipeCrdWidth + horizontalSpacingInPixels;
+        int numCols = (this.screenWidth - spacing) / totalItemWidth;
+
+
+        int verticalSpacingInPixels = getResources().getDimensionPixelSize(R.dimen.vertical_spacing);
+
+        GridLayoutManager gridLayoutManager = new GridLayoutManager(MainActivity.this, numCols);
+
+
         mRecyclerView.setLayoutManager(gridLayoutManager);
 
-// Adjust the spacing as needed
-        int horizontalSpacingInPixels = getResources().getDimensionPixelSize(R.dimen.horizontal_spacing);
-        int verticalSpacingInPixels = getResources().getDimensionPixelSize(R.dimen.vertical_spacing);
-        mRecyclerView.addItemDecoration(new GridSpacingItemDecoration(2, horizontalSpacingInPixels, verticalSpacingInPixels, true));
+        mRecyclerView.addItemDecoration(new GridSpacingItemDecoration(numCols, horizontalSpacingInPixels, verticalSpacingInPixels, true));
     }
 
     private void setByNameRecyclerAdapter(String recipeName) {
@@ -303,10 +321,6 @@ public class MainActivity extends DashboardActivity {
                         myFoodList.add(curr_recipe);
                     }
                     Collections.shuffle(myFoodList);
-
-                    // Get the height and width of the screen
-                    int screenWidth = getResources().getDisplayMetrics().widthPixels;
-                    int screenHeight = getResources().getDisplayMetrics().heightPixels;
 
                     myAdapter = new MyAdapter(MainActivity.this, myFoodList, screenWidth, screenHeight);
                     mRecyclerView.setAdapter(myAdapter);

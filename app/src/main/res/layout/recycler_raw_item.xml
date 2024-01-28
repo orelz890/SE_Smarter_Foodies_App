@@ -11,12 +11,11 @@
 
     <androidx.cardview.widget.CardView
         android:id="@+id/myCardView"
-        android:layout_width="160dp"
-        android:layout_height="200dp"
-        app:cardElevation="3dp"
+        android:layout_width="@dimen/main_activity_recipe_width"
+        android:layout_height="@dimen/main_activity_recipe_height"
         app:cardBackgroundColor="@null"
         app:cardCornerRadius="25dp"
-        >
+        app:cardElevation="3dp">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -27,8 +26,7 @@
 
             <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                >
+                android:layout_height="wrap_content">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -48,16 +46,15 @@
                 <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginEnd="10dp"
                     android:layout_marginTop="10dp"
-                    >
+                    android:layout_marginEnd="10dp">
 
                     <ImageButton
                         android:id="@+id/ib_add_to_cart_"
                         android:layout_width="wrap_content"
-                        android:layout_toStartOf="@+id/ib_search_like_recycler"
-                        android:layout_marginEnd="8dp"
                         android:layout_height="wrap_content"
+                        android:layout_marginEnd="8dp"
+                        android:layout_toStartOf="@+id/ib_search_like_recycler"
                         android:background="@null"
                         android:src="@drawable/ic_baseline_add_shopping_cart_24_not_added" />
 
@@ -65,8 +62,8 @@
                         android:id="@+id/ib_search_like_recycler"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_alignParentEnd="true"
                         android:layout_alignParentTop="true"
+                        android:layout_alignParentEnd="true"
                         android:background="@null"
                         android:src="@drawable/red_heart_not_filled" />
 
@@ -78,8 +75,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="vertical"
-                android:padding="3dp"
-                >
+                android:padding="3dp">
 
                 <TextView
                     android:id="@+id/tv_recipe_title"
@@ -87,41 +83,38 @@
                     android:layout_height="wrap_content"
                     android:text="title"
                     android:textColor="@color/colorBlack"
-                    android:textStyle="bold"
-                    android:textSize="13sp" />
+                    android:textSize="13sp"
+                    android:textStyle="bold" />
 
                 <RelativeLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginBottom="1dp"
                     android:layout_marginTop="3dp"
-                    >
+                    android:layout_marginBottom="1dp">
 
                     <TextView
                         android:id="@+id/tv_name"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
                         android:gravity="center"
                         android:maxLines="1"
                         android:text="Cal"
                         android:textColor="@color/teal_700"
                         android:textSize="10sp"
-                        android:textStyle="bold"
-                        android:layout_alignParentEnd="true"
-                        />
+                        android:textStyle="bold" />
 
                     <TextView
                         android:id="@+id/tv_calories"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_marginEnd="5dp"
+                        android:layout_toStartOf="@+id/tv_name"
                         android:text="Unknown"
                         android:textAlignment="center"
                         android:textColor="@color/colorPrimary"
                         android:textSize="10sp"
-                        android:textStyle="bold"
-                        android:layout_toStartOf="@+id/tv_name"
-                        android:layout_marginEnd="5dp"
-                        />
+                        android:textStyle="bold" />
 
 
                 </RelativeLayout>

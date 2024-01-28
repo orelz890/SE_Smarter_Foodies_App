@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/top_background"
     tools:context=".ViewModel.profile_page">
 
 <!--    <de.hdodenhof.circleimageview.CircleImageView-->
@@ -68,8 +67,8 @@
 
                     <de.hdodenhof.circleimageview.CircleImageView
                         android:id="@+id/CIV_pic"
-                        android:layout_width="114dp"
-                        android:layout_height="106dp"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
                         android:src="@drawable/ic_empty"
                         app:civ_border_color="#FF000000"
                         app:civ_border_width="2dp"
@@ -94,7 +93,7 @@
                     android:id="@+id/full_name_pp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text=""
+                    android:text="Name"
                     android:textColor="@color/black"
                     android:textSize="18sp"
                     android:textStyle="bold"
@@ -106,27 +105,32 @@
                     android:id="@+id/email_pp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text=""
+                    android:text="Email"
                     android:textSize="13sp"
                     android:textStyle="bold"
                     app:layout_constraintEnd_toEndOf="@+id/full_name_pp"
                     app:layout_constraintHorizontal_bias="0.493"
                     app:layout_constraintStart_toStartOf="@+id/full_name_pp"
-                    app:layout_constraintTop_toBottomOf="@+id/full_name_pp" />
+                    app:layout_constraintTop_toBottomOf="@+id/full_name_pp"
+                    android:background="@null"
+                    app:boxBackgroundMode="none"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="10dp"
+                    />
 
                 <LinearLayout
                     android:id="@+id/linearLayout"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
-
-                    android:background="@drawable/whiat_background"
+                    android:background="@drawable/white_background"
                     android:elevation="3dp"
                     android:orientation="vertical"
                     android:padding="8dp"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintStart_toStartOf="parent">
+                    app:layout_constraintStart_toStartOf="parent"
+                    >
 
                     <LinearLayout
                         android:layout_width="match_parent"

@@ -319,7 +319,6 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         if (newRecipe != null) {
 //            deleteRecipe(former_name);
             loadDishToDatabase(newRecipe);
-
         }
     }
 

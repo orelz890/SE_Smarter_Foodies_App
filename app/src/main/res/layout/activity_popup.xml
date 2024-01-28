@@ -28,7 +28,7 @@
         android:layout_marginStart="24dp"
         android:layout_marginEnd="24dp"
         android:layout_marginBottom="80dp"
-        android:background="@drawable/whiat_background"
+        android:background="@drawable/white_background"
         android:elevation="3dp"
         android:orientation="vertical"
         android:padding="8dp"
