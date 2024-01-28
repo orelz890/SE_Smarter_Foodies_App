@@ -157,11 +157,11 @@ public class MainActivity extends DashboardActivity {
     }
 
     private void setFirstDialog() {
-        AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
+        AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this, android.R.style.Theme_Material_Light_Dialog);
         final View customLayout = getLayoutInflater().inflate(R.layout.filter_search_dialog, null);
         builder.setView(customLayout);
         builder.setCancelable(false);
-        builder.setTitle("Recipe name");
+        builder.setTitle("Filter");
         autoCompleteCategory = customLayout.findViewById(R.id.auto_complete_category);
         autoCompleteSubCategory = customLayout.findViewById(R.id.auto_complete_sub_category);
         createAllAutoCompleteTextViews();

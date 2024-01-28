@@ -77,7 +77,7 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder> {
         setImageButtons(foodViewHolder, uid, recipe);
 
 
-        foodViewHolder.mCardView.setOnClickListener(new View.OnClickListener() {
+        foodViewHolder.imageView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(mContext, RecipePage.class);

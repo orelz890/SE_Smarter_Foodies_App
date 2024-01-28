@@ -112,22 +112,22 @@ public class ApplyChef extends AppCompatActivity {
 
 
     private void insertUser(String name){
-//        FirebaseUser firebaseUser = mAuth.getCurrentUser();
+        FirebaseUser firebaseUser = mAuth.getCurrentUser();
         User user = new User(name);
         if (user.isFirstEntry()) {
             user.setFirstEntry(false);
-//            FirebaseDatabase.getInstance().getReference("users").child(firebaseUser.getUid()).setValue(user).addOnCompleteListener(task -> {
-//                if(task.isSuccessful()){
-//                            Toast.makeText(ApplyChef.this, "WELCOME " + name.toUpperCase(), Toast.LENGTH_LONG).show();
-//                            startActivity(new Intent(ApplyChef.this, SearchRecipe.class));
-//                        }
-//                else{
-//                    Toast.makeText(ApplyChef.this, "Error adding the user data", Toast.LENGTH_LONG).show();
-//                    startActivity(new Intent(ApplyChef.this, LoginGoogle.class));
-//                }
-//
-//            });
-            updateUserNicknameToAuth(name);
+            FirebaseDatabase.getInstance().getReference("users").child(firebaseUser.getUid()).setValue(user).addOnCompleteListener(task -> {
+                if(task.isSuccessful()){
+                    updateUserNicknameToAuth(name);
+                    Toast.makeText(ApplyChef.this, "WELCOME " + name.toUpperCase(), Toast.LENGTH_LONG).show();
+                    startActivity(new Intent(ApplyChef.this, MainActivity.class));
+                }
+                else{
+                    Toast.makeText(ApplyChef.this, "Error adding the user data " + task.getResult(), Toast.LENGTH_LONG).show();
+                    startActivity(new Intent(ApplyChef.this, LoginGoogle.class));
+                }
+
+            });
         }
 
     }
@@ -189,7 +189,7 @@ public class ApplyChef extends AppCompatActivity {
         if (fuser != null) {
             String uid = fuser.getUid();
             DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
-            reference.addValueEventListener(new ValueEventListener() {                // Check if onDataChange is needed or simple .get() will do the trick
+            reference.addValueEventListener(new ValueEventListener() {
                 @Override
                 public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                     if (!dataSnapshot.exists()) {
@@ -198,8 +198,8 @@ public class ApplyChef extends AppCompatActivity {
                         User user1 = dataSnapshot.getValue(User.class);
                         if (user1 != null && !user1.isFirstEntry()) {
 
-                            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
-                            startActivity(intent);
+//                            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+//                            startActivity(intent);
 
                         }
                     }
