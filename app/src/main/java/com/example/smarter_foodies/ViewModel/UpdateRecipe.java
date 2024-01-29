@@ -491,6 +491,7 @@ public class UpdateRecipe extends DashboardActivity {
 
     private void createAllNumberPickers() {
         etTitle = findViewById(R.id.etTitle);
+        etTitle.setEnabled(false);
         etDirections = findViewById(R.id.etDirections);
         npCookingTime = findViewById(R.id.npCookTime);
         npCookingTime.setValue(-1);

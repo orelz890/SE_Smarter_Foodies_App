@@ -3,6 +3,7 @@ package com.example.smarter_foodies.ViewModel;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
@@ -14,6 +15,7 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
@@ -24,14 +26,22 @@ import com.example.smarter_foodies.Model.CRUD_RealTimeDatabaseData;
 import com.example.smarter_foodies.Model.MyAdapter;
 import com.example.smarter_foodies.Model.recipe;
 import com.example.smarter_foodies.R;
+import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.android.gms.tasks.Task;
+import com.google.android.gms.tasks.TaskCompletionSource;
+import com.google.android.gms.tasks.Tasks;
 import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Objects;
 import java.util.Set;
 
 public class MainActivity extends DashboardActivity {
@@ -314,20 +324,81 @@ public class MainActivity extends DashboardActivity {
         mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
             @Override
             public void onSuccess(DataSnapshot dataSnapshot) {
+
                 if (dataSnapshot.exists()) {
                     myFoodList.clear();
+                    List<Task<DataSnapshot>> tasks = new ArrayList<>();
+
                     for (DataSnapshot child : dataSnapshot.getChildren()) {
-                        recipe curr_recipe = child.getValue(recipe.class);
-                        myFoodList.add(curr_recipe);
+                        DatabaseReference userReference = child.getValue(DatabaseReference.class);
+//                        Task<DataSnapshot> task = getUserDataTask(userReference);
+                        Task<DataSnapshot> task = CRUD.fetchDataTask(userReference);
+
+                        tasks.add(task);
                     }
+
+                    Tasks.whenAllSuccess(tasks).addOnSuccessListener(new OnSuccessListener<List<Object>>() {
+                        @Override
+                        public void onSuccess(List<Object> snapshots) {
+                            // Handle the results when all tasks are successful
+                            for (Object snapshot : snapshots) {
+                                if (snapshot instanceof DataSnapshot) {
+                                    DataSnapshot dataSnapshot = (DataSnapshot) snapshot;
+                                    // Process each user's data
+                                    recipe curr_recipe = dataSnapshot.getValue(recipe.class);
+                                    if (curr_recipe != null) {
+                                        myFoodList.add(curr_recipe);
+                                    }
+                                }
+                            }
+                        }
+                    }).addOnFailureListener(new OnFailureListener() {
+                        @Override
+                        public void onFailure(@NonNull Exception e) {
+                            // Handle failure
+                            System.out.println("setByNameRecyclerAdapter - whenAllSuccess - Failed");
+                            e.printStackTrace();
+                        }
+                    });
+
                     Collections.shuffle(myFoodList);
 
                     myAdapter = new MyAdapter(MainActivity.this, myFoodList, screenWidth, screenHeight);
                     mRecyclerView.setAdapter(myAdapter);
                 }
             }
+
         });
+
     }
+
+
+
+
+//    private Task<DataSnapshot> getUserDataTask(DatabaseReference userReference /* , String type */) {
+//        if (userReference != null) {
+//            final TaskCompletionSource<DataSnapshot> taskCompletionSource = new TaskCompletionSource<>();
+//            userReference.addListenerForSingleValueEvent(new ValueEventListener() {
+//                @Override
+//                public void onDataChange(DataSnapshot dataSnapshot) {
+//                    taskCompletionSource.setResult(dataSnapshot);
+//                }
+//
+//                @Override
+//                public void onCancelled(DatabaseError databaseError) {
+//                    taskCompletionSource.setException(databaseError.toException());
+//                }
+//            });
+//
+////            switch (type) {
+////                case "recipes":
+////                    return taskCompletionSource.getTask();
+////
+////            }
+//            return taskCompletionSource.getTask();
+//        }
+//        return null;
+//    }
 
     private void setMainRecyclerAdapter() {
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()

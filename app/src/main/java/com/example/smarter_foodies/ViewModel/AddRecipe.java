@@ -484,13 +484,6 @@ public class AddRecipe extends DashboardActivity {
                         CRUD.loadDishToDatabase(r);
 
 
-//                        // Load recipe to database
-//                        if (currentUser != null) {
-//                            addRecipeToUserByServer(currentUser.getUid(), r.getTitle());
-//                        }
-//                        List<String> singleValueList = CRUD.getSingleValueList(r.getTitle());
-//                        // Add recipe to the user recipes
-//                        CRUD.addToUserLists(singleValueList, "recipes");
                         flag = false;
                         moveToActivity(r.getTitle());
 

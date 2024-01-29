@@ -5,13 +5,15 @@ import java.util.List;
 
 public class User {
 
-    private String name,resume;
+//    private String email;
+//    private String eating;
+//    private String favorite;
+//    private String website;
+//    private String rating;
+//    private String resume;
+
+    private String name;
     private boolean firstEntry, isChef;
-    private String email;
-    private String eating;
-    private String favorite;
-    private String website;
-    private String rating;
     private List<String> liked;
     private List<String> cart;
     private List<String> myRecipes;
@@ -20,14 +22,14 @@ public class User {
         liked = new ArrayList<>();
         cart = new ArrayList<>();
         myRecipes = new ArrayList<>();
-        this.eating = "";
-        this.email = "";
-        this.favorite = "";
-        this.website = "";
-        this.resume = "";
-        this.rating = "";
         this.firstEntry = true;
         this.isChef = false;
+//        this.eating = "";
+//        this.email = "";
+//        this.favorite = "";
+//        this.website = "";
+//        this.resume = "";
+//        this.rating = "";
     }
 
     public User(String name) {
@@ -38,11 +40,8 @@ public class User {
 
     public User(String name, String re){
         this(name);
-        this.resume = re;
+//        this.resume = re;
     }
-    public String getRating(){return rating;}
-
-    public void setRating(String x){this.rating = x;}
 
     public String getName() {
         return name;
@@ -52,13 +51,7 @@ public class User {
         this.name = name;
     }
 
-    public String getResume() {
-        return resume;
-    }
 
-    public void setResume(String resume) {
-        this.resume = resume;
-    }
 
     public boolean isFirstEntry() {
         return firstEntry;
@@ -76,37 +69,47 @@ public class User {
         isChef = chef;
     }
 
-    public String getEmail() {
-        return email;
-    }
-
-    public void setEmail(String email) {
-        this.email = email;
-    }
-
-    public String getEating() {
-        return eating;
-    }
-
-    public void setEating(String eating) {
-        this.eating = eating;
-    }
-
-    public String getFavorite() {
-        return favorite;
-    }
-
-    public void setFavorite(String favorite) {
-        this.favorite = favorite;
-    }
-
-    public String getWebsite() {
-        return website;
-    }
-
-    public void setWebsite(String website) {
-        this.website = website;
-    }
+//    public String getRating(){return rating;}
+//
+//    public void setRating(String x){this.rating = x;}
+//    public String getResume() {
+//        return resume;
+//    }
+//
+//    public void setResume(String resume) {
+//        this.resume = resume;
+//    }
+//    public String getEmail() {
+//        return email;
+//    }
+//
+//    public void setEmail(String email) {
+//        this.email = email;
+//    }
+//
+//    public String getEating() {
+//        return eating;
+//    }
+//
+//    public void setEating(String eating) {
+//        this.eating = eating;
+//    }
+//
+//    public String getFavorite() {
+//        return favorite;
+//    }
+//
+//    public void setFavorite(String favorite) {
+//        this.favorite = favorite;
+//    }
+//
+//    public String getWebsite() {
+//        return website;
+//    }
+//
+//    public void setWebsite(String website) {
+//        this.website = website;
+//    }
 
     // liked
 
@@ -222,16 +225,16 @@ public class User {
     public String toString() {
         return "User{" +
                 "name='" + name + '\'' +
-                ", resume='" + resume + '\'' +
                 ", firstEntry=" + firstEntry +
                 ", isChef=" + isChef +
-                ", email='" + email + '\'' +
-                ", eating='" + eating + '\'' +
-                ", favorite='" + favorite + '\'' +
-                ", website='" + website + '\'' +
                 ", liked=" + liked + '\'' +
                 ", myRecipes=" + myRecipes + '\'' +
                 ", cart=" + cart +
+//                ", resume='" + resume + '\'' +
+//                ", email='" + email + '\'' +
+//                ", eating='" + eating + '\'' +
+//                ", favorite='" + favorite + '\'' +
+//                ", website='" + website + '\'' +
                 '}';
     }
 }
