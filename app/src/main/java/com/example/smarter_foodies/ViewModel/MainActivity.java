@@ -343,6 +343,10 @@ public class MainActivity extends DashboardActivity {
                                     }
                                 }
                             }
+                            Collections.shuffle(myFoodList);
+
+                            myAdapter = new MyAdapter(MainActivity.this, myFoodList, screenWidth, screenHeight);
+                            mRecyclerView.setAdapter(myAdapter);
                         }
                     }).addOnFailureListener(new OnFailureListener() {
                         @Override
@@ -353,10 +357,7 @@ public class MainActivity extends DashboardActivity {
                         }
                     });
 
-                    Collections.shuffle(myFoodList);
 
-                    myAdapter = new MyAdapter(MainActivity.this, myFoodList, screenWidth, screenHeight);
-                    mRecyclerView.setAdapter(myAdapter);
                 }
             }
 
