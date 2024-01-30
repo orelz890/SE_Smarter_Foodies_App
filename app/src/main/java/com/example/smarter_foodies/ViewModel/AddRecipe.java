@@ -468,7 +468,7 @@ public class AddRecipe extends DashboardActivity {
                                 npServings.getValue() + "", npProtein.getValue() + "",
                                 npCalories.getValue() + "", npFat.getValue() + "",
                                 npCarbs.getValue() + "", 0, new ArrayList<>(),
-                                0, new HashMap<>(), "");
+                                0, new HashMap<>(), "","");
                         r.setIngredients(ingredientsArray);
                         FirebaseUser currentUser = mAuth.getCurrentUser();
                         if (currentUser != null) {

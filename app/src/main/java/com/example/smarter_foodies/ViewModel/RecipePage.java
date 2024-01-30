@@ -1,5 +1,6 @@
 package com.example.smarter_foodies.ViewModel;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -21,7 +22,10 @@ import com.example.smarter_foodies.Model.CRUD_RealTimeDatabaseData;
 import com.example.smarter_foodies.Model.RecipePageFunctions;
 import com.example.smarter_foodies.Model.recipe;
 import com.example.smarter_foodies.R;
+import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.android.gms.tasks.Task;
+import com.google.android.gms.tasks.Tasks;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
@@ -30,17 +34,21 @@ import com.squareup.picasso.Picasso;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
+import java.util.Objects;
 
 public class RecipePage extends AppCompatActivity {
 
     private TextView ingredients, howToMake, prepTime, cookTime, totalTime, carbs, protein, fats, calories, servings, recipeName, categoryAndSub, copyRights;
     private ImageView recipeImage;
     private ImageButton listExtract;
+    private CRUD_RealTimeDatabaseData CRUD;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_recipe_page);
+
+        CRUD = new CRUD_RealTimeDatabaseData();
 
         setFindByIds();
 
@@ -135,35 +143,64 @@ public class RecipePage extends AppCompatActivity {
             @Override
             public void onSuccess(DataSnapshot dataSnapshot) {
                 if (dataSnapshot.exists()) {
+                    List<Task<DataSnapshot>> tasks = new ArrayList<>();
                     for (DataSnapshot child : dataSnapshot.getChildren()) {
-                        recipe curr_recipe = child.getValue(recipe.class);
-                        if (curr_recipe != null) {
-                            r.add(curr_recipe);
+                        String recipeRefString = child.getValue(String.class);
+                        if (recipeRefString != null) {
+                            DatabaseReference recipesNodeReference = FirebaseDatabase.getInstance().getReference().child(recipeRefString);
+                            Task<DataSnapshot> task = CRUD.fetchDataTask(recipesNodeReference);
+                            tasks.add(task);
                         }
                     }
-                    String[] ImageUrl = RecipePageFunctions.List_of_string_to_array(r.get(0).getImages());
-                    int size = ImageUrl.length;
-                    if (size > 0) {
-                        if (ImageUrl[size - 1].startsWith("https:")) {
-                            Picasso.get().load(ImageUrl[size - 1]).into(recipeImage);
+                    Tasks.whenAllSuccess(tasks).addOnSuccessListener(new OnSuccessListener<List<Object>>() {
+                        @Override
+                        public void onSuccess(List<Object> snapshots) {
+                            // Handle the results when all tasks are successful
+                            for (Object snapshot : snapshots) {
+                                if (snapshot instanceof DataSnapshot) {
+                                    DataSnapshot dataSnapshot = (DataSnapshot) snapshot;
+                                    // Process each user's data
+                                    recipe curr_recipe = dataSnapshot.getValue(recipe.class);
+                                    if (curr_recipe != null) {
+                                        r.add(curr_recipe);
+                                    }
+                                }
+                            }
+                            String[] ImageUrl = RecipePageFunctions.List_of_string_to_array(r.get(0).getImages());
+                            int size = ImageUrl.length;
+                            if (size > 0) {
+                                if (ImageUrl[size - 1].startsWith("https:")) {
+                                    Picasso.get().load(ImageUrl[size - 1]).into(recipeImage);
 
-                        } else {
-                            // Decode the image data from base64 to a Bitmap
-                            byte[] imageData = Base64.decode(ImageUrl[size - 1], Base64.DEFAULT);
-                            Bitmap bitmap = BitmapFactory.decodeByteArray(imageData, 0, imageData.length);
+                                } else {
+                                    // Decode the image data from base64 to a Bitmap
+                                    byte[] imageData = Base64.decode(ImageUrl[size - 1], Base64.DEFAULT);
+                                    Bitmap bitmap = BitmapFactory.decodeByteArray(imageData, 0, imageData.length);
 
-                            // Set the image for the ImageView
-                            recipeImage.setImageBitmap(bitmap);
+                                    // Set the image for the ImageView
+                                    recipeImage.setImageBitmap(bitmap);
 
 //                            // Ensure the ImageView dimensions match the loaded image
 //                            ViewGroup.LayoutParams layoutParams = recipeImage.getLayoutParams();
 //                            layoutParams.width = bitmap.getWidth();
 //                            layoutParams.height = bitmap.getHeight();
 //                            recipeImage.setLayoutParams(layoutParams);
+                                }
+                            } else {
+                                recipeImage.setImageResource(R.drawable.iv_no_images_available);
+                            }
+
                         }
-                    } else {
-                        recipeImage.setImageResource(R.drawable.iv_no_images_available);
-                    }
+                    }).addOnFailureListener(new OnFailureListener() {
+                        @Override
+                        public void onFailure(@NonNull Exception e) {
+                            // Handle failure
+                            System.out.println("setByNameRecyclerAdapter - whenAllSuccess - Failed");
+                            e.printStackTrace();
+                        }
+                    });
+
+
                 }
             }
         });

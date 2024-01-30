@@ -1,5 +1,6 @@
 package com.example.smarter_foodies.Model;
 
+import com.google.firebase.database.DatabaseReference;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import java.util.HashMap;
@@ -31,6 +32,16 @@ public class recipe {
     private List<String> images;
     private HashMap<String, String> comments;
 
+    public String getDatabaseRef() {
+        return databaseRef;
+    }
+
+    public void setDatabaseRef(String databaseRef) {
+        this.databaseRef = databaseRef;
+    }
+
+    private String databaseRef;
+
     public recipe() {
         init();
     } // recipe(<empty>)
@@ -39,7 +50,7 @@ public class recipe {
                   List<String> ingredients, List<String> directions,
                   String prepTime, String cookingTime, String servings, String protein, String calories,
                   String fat, String carbs, double stars, List<String> images, int numOfStarGivers,
-                  HashMap<String, String> comments, String copy_rights) {
+                  HashMap<String, String> comments, String copy_rights,String ref) {
         init();
         this.setTitle(title);
         this.setMain_category(main_category);
@@ -59,13 +70,14 @@ public class recipe {
         this.setComments(comments);
         this.calories = calories;
         this.setCopy_rights(copy_rights);
+        this.setDatabaseRef(ref);
 
     } // recipe(<data>)
 
     public recipe(recipe r){
         this(r.title,r.main_category,r.category,r.ingredients,r.directions,r.prepTime,
                 r.cookingTime,r.servings,r.protein,r.calories,r.fat,r.carbs,r.stars,r.images,
-                r.numOfStarGivers,r.comments,r.copy_rights);
+                r.numOfStarGivers,r.comments,r.copy_rights,r.databaseRef);
         this.totalTime = r.totalTime;
         this.setIngredientsFromList(r.ingredients);
         this.setImagesFromList(r.images);

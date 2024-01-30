@@ -32,16 +32,22 @@ import android.widget.ListView;
 import android.widget.NumberPicker;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 
 import com.example.smarter_foodies.DashboardActivity;
 import com.example.smarter_foodies.Model.CRUD_RealTimeDatabaseData;
 import com.example.smarter_foodies.Model.ListViewAdapter;
+import com.example.smarter_foodies.Model.MyLikedAndCartAdapter;
 import com.example.smarter_foodies.Model.recipe;
 import com.example.smarter_foodies.R;
 import com.github.drjacky.imagepicker.ImagePicker;
+import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.android.gms.tasks.Task;
+import com.google.android.gms.tasks.Tasks;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.auth.FirebaseAuth;
@@ -53,6 +59,7 @@ import com.squareup.picasso.Picasso;
 import java.io.ByteArrayOutputStream;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Objects;
@@ -123,27 +130,36 @@ public class UpdateRecipe extends DashboardActivity {
         setContentView(rootLayout);
         allocateActivityTitle("Update Recipe");
 
-        mAuth = FirebaseAuth.getInstance();
+        // Prepared CRUD functions to the database
+        CRUD = new CRUD_RealTimeDatabaseData();
+
         // Create reference to the firebase real time database
         mDatabase = FirebaseDatabase.getInstance().getReference();
-        CRUD = new CRUD_RealTimeDatabaseData();
+        mAuth = FirebaseAuth.getInstance();
+
+
+
         myImages = new ArrayList<>();
         imageViews = new ArrayList<>();
 
+
+        // Get the name of the recipe from user
+        setDialogGetRecipeName();
+
+        // Fill the categories list which the user can chose from
+        fillCategoriesList();
+
+        // Set the view
+        createAllAutoCompleteTextViews("", "");
+        createAllNumberPickers();
+        createButtons();
+
+    }
+
+    private void createButtons() {
         addIngredients = findViewById(R.id.ib_add_ingredientUpdate);
         etIngredients = findViewById(R.id.etIngredientsUpdate);
 
-
-        // Get the name of the recipe
-        setDialogGetRecipeName();
-        // Fill the categories list which the user can chose from
-        fillCategoriesList();
-        createAllAutoCompleteTextViews("", "");
-        //    ========================= Get data from user =============================================
-        createAllNumberPickers();
-
-
-        //selectedIn = new ArrayList<>();
         addIngredients.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -152,6 +168,8 @@ public class UpdateRecipe extends DashboardActivity {
         });
     }
 
+    // When the addIngredients button is clicked - this window appears and receives ingredients
+    // from the user.
     private void UpdateIngredientDialog() {
         Dialog dialog = new Dialog(this);
         dialog.setContentView(R.layout.insert_ingre_page);
@@ -184,12 +202,16 @@ public class UpdateRecipe extends DashboardActivity {
 
     // Set the filter names list + set adapter for the autoCompleteSearchView
     private void InitAutoCompleteSearchView(Dialog d) {
+
+        // Get the ingredients available from the database
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
                 .getReference().child("ingredients");
         mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
             @Override
             public void onSuccess(DataSnapshot dataSnapshot) {
                 if (dataSnapshot.exists()) {
+
+                    // Set the ingredients received into autoCompleteSearchView
                     ingredientNamesList.clear();
                     for (DataSnapshot snapshot : dataSnapshot.getChildren()) {
                         String name = snapshot.getValue(String.class);
@@ -197,13 +219,13 @@ public class UpdateRecipe extends DashboardActivity {
                     }
                     arraySearchAdapter = new ArrayAdapter<>(UpdateRecipe.this, android.R.layout.simple_list_item_activated_1, ingredientNamesList);
                     autoCompleteSearchView.setAdapter(arraySearchAdapter);
+
                     autoCompleteSearchView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                         @Override
                         public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
                             String ingredient = parent.getItemAtPosition(pos).toString();
                             addIngredientAmountDialog(ingredient,d);
                             autoCompleteSearchView.setText("");
-
                         }
                     });
                     autoCompleteSearchView.setOnDismissListener(new AutoCompleteTextView.OnDismissListener() {
@@ -219,7 +241,7 @@ public class UpdateRecipe extends DashboardActivity {
         });
     }
 
-
+    // When user adds an ingredient this amount dialog appears
     private void addIngredientAmountDialog(String ingredient, Dialog d) {
         AlertDialog.Builder builder = new AlertDialog.Builder(UpdateRecipe.this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
         EditText editTextGrams = new EditText(this);
@@ -231,7 +253,7 @@ public class UpdateRecipe extends DashboardActivity {
         builder.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialogInterface, int which) {
-//                System.out.println("category- " + category + "\tsubCategory- " + subCategory);
+//                System.out.println("category- " + category + "\t subCategory- " + subCategory);
                 if (editTextGrams.getText().toString().isEmpty() || editTextGrams.getText().toString().charAt(0) == '0') {
                     Toast.makeText(builder.getContext(), "Please try again", Toast.LENGTH_LONG).show();
                     addIngredientAmountDialog(ingredient,d);
@@ -261,6 +283,7 @@ public class UpdateRecipe extends DashboardActivity {
         adapter.notifyDataSetChanged();
     }
 
+    // When user long click on an image he added this delete image dialog appears
     public void setLongClickListeners(int i) {
         imageViews.get(i).setOnLongClickListener(new View.OnLongClickListener() {
             @Override
@@ -329,7 +352,7 @@ public class UpdateRecipe extends DashboardActivity {
         });
     }
 
-
+    // Handling the received img from the user phone
     @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
         try {
@@ -411,8 +434,6 @@ public class UpdateRecipe extends DashboardActivity {
         });
 
         autoCompleteSubCategory = findViewById(R.id.auto_complete_sub_category);
-//        if (!sub_category.isEmpty()) {
-//        }
         adapterSubCategories = new ArrayAdapter<String>(this, R.layout.list_items, CRUD.subCategoriesList.get(category));
         autoCompleteSubCategory.setAdapter(adapterSubCategories);
         autoCompleteSubCategory.setOnItemClickListener(new AdapterView.OnItemClickListener() {
@@ -424,6 +445,7 @@ public class UpdateRecipe extends DashboardActivity {
         });
     }
 
+    // When entering the page ask for the recipe name
     private void setDialogGetRecipeName() {
         AlertDialog.Builder builder = new AlertDialog.Builder(UpdateRecipe.this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
         final View customLayout = getLayoutInflater().inflate(R.layout.custom_dialog_layout, null);
@@ -448,6 +470,7 @@ public class UpdateRecipe extends DashboardActivity {
         dialog.show();
     }
 
+    // If the user pressed the delete button
     private void setDialogApproval(String name) {
         AlertDialog.Builder builder = new AlertDialog.Builder(UpdateRecipe.this, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
         final View customLayout = getLayoutInflater().inflate(R.layout.yes_no_dialog_layout, null);
@@ -565,32 +588,15 @@ public class UpdateRecipe extends DashboardActivity {
         });
     }
 
+    // Submit the changes & update the database
     private void submitRecipe() {
-//        String ingredients = etIngredients.getText().toString();
-//        System.out.println(ingredients);
-//        String[] ingredients_list = ingredients.split("\n");
-//        if (TextUtils.isEmpty(ingredients)) {
-//            etIngredients.setError("Ingredients cannot be empty");
-//            etIngredients.requestFocus();
-//            return;
-//        } else {
-//            for (String s : ingredients_list) {
-//                if (!s.equals("\n")) {
-//                    String[] temp = s.trim().split(" ");
-//                    try {
-//                        Double.parseDouble(temp[0]);
-//                    } catch (Exception e) {
-//                        etIngredients.setError("Every Ingredient must begin with the quantity..");
-//                        etIngredients.requestFocus();
-//                        return;
-//                    }
-//                }
-//            }
-//        }
+
         List<String> ingredientsArray = new ArrayList<>(selectedIngredients);
 
         String directions = etDirections.getText().toString();
         String[] directions_list = directions.split("\n");
+
+        // If the fields are empty requestFocus
         if (TextUtils.isEmpty(directions)) {
             etDirections.setError("Directions cannot be empty");
             etDirections.requestFocus();
@@ -606,16 +612,19 @@ public class UpdateRecipe extends DashboardActivity {
             Toast.makeText(getApplicationContext(), "All bottom half must be filled too!",
                     Toast.LENGTH_LONG).show();
         } else {
+            // Create the updated recipe
             List<String> directionsArray = new ArrayList<>(Arrays.asList(directions_list));
             recipe r = new recipe(recipeToUpdateName, category, subCategory, new ArrayList<>(), directionsArray,
                     calcTime(npPrepTime.getValue()), calcTime(npCookingTime.getValue()),
                     npServings.getValue() + "", npProtein.getValue() + "",
                     npCalories.getValue() + "", npFat.getValue() + "",
                     npCarbs.getValue() + "", 0, myImages, 0,
-                    new HashMap<>(), "");
+                    new HashMap<>(), "","");
             r.setIngredients(ingredientsArray);
             r.setCopy_rights(Objects.requireNonNull(mAuth.getCurrentUser()).getUid());
             Toast.makeText(getApplicationContext(), r.getTitle() + "> was updated!", Toast.LENGTH_LONG).show();
+
+            // Update the database
             CRUD.loadDishToDatabase(r);
         }
     }
@@ -626,73 +635,62 @@ public class UpdateRecipe extends DashboardActivity {
     }
 
     private void setKnownDataToTextViews(String name) {
-        //// how to get data from the database- search
+        // Search recipe by name
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
-        mDatabaseSearchGet = CRUD.getToRecipeDepth(mDatabaseSearchGet, name);
+        mDatabaseSearchGet = CRUD.getToRecipeDepth(name);
         mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
             @Override
             public void onSuccess(DataSnapshot dataSnapshot) {
                 if (dataSnapshot.exists()) {
-                    for (DataSnapshot child : dataSnapshot.getChildren()) {
-                        System.out.println(child);
-                        try {
-                            recipe r = child.getValue(recipe.class);
-                            System.out.println(r);
-                            if (r != null && r.getCopy_rights()
-                                    .equals(Objects.requireNonNull(mAuth.getCurrentUser()).getUid())) {
-                                List<String> images = r.getImages();
-                                if (!images.isEmpty()) {
-                                    myImages.addAll(images);
-                                    for (int i = 0; i < myImages.size(); i++) {
-                                        ImageView imageView = imageViews.get(i);
-                                        String imgUrl = myImages.get(i);
-                                        if (imgUrl.startsWith("https:")) {
-                                            Picasso.get().load(imgUrl).into(imageView);
+                    // Got the reference to the actual recipe/s so create the task to get the actual recipe
+                    List<Task<DataSnapshot>> tasks = CRUD.getTasksFromDataSnapshot(dataSnapshot);
+
+                    // Execute the task
+                    Tasks.whenAllSuccess(tasks).addOnSuccessListener(new OnSuccessListener<List<Object>>() {
+                        @Override
+                        public void onSuccess(List<Object> snapshots) {
+                            // Handle the results when all tasks are successful
+                            for (Object snapshot : snapshots) {
+                                if (snapshot instanceof DataSnapshot) {
+                                    DataSnapshot dataSnapshot = (DataSnapshot) snapshot;
+                                    // Process each user's data
+                                    recipe r = dataSnapshot.getValue(recipe.class);
+                                    if (r != null) {
+                                        try {
+                                            // Check if this user is the owner of the recipe
+                                            if (r.getCopy_rights()
+                                                    .equals(Objects.requireNonNull(mAuth.getCurrentUser()).getUid())) {
+                                                // Set the recipe details to view
+                                                setRecipeDetails(r);
+                                            } else {
+                                                Toast.makeText(getApplicationContext(),
+                                                        "You are not authorized to change this recipe..",
+                                                        Toast.LENGTH_LONG).show();
+                                                setDialogGetRecipeName();
+                                            }
                                         }
-                                        else {
-                                            // Decode the image data from base64 to a Bitmap
-                                            byte[] imageData = Base64.decode(imgUrl, Base64.DEFAULT);
-                                            Bitmap bitmap = BitmapFactory.decodeByteArray(imageData, 0, imageData.length);
-                                            // Set the image for the ImageView
-                                            imageView.setImageBitmap(bitmap);
+                                        catch (Exception e){
+                                            System.out.println(e.getStackTrace().toString());
+                                            e.printStackTrace();
+                                            Toast.makeText(getApplicationContext(),
+                                                    "We had a problem showing the recipe pls try again..",
+                                                    Toast.LENGTH_LONG).show();
+                                            startActivity(new Intent(UpdateRecipe.this, UpdateRecipe.class));
                                         }
                                     }
                                 }
-                                etTitle.setText(r.getTitle());
-                                List<String> directions = r.getDirections();
-                                StringBuilder directionsView = new StringBuilder();
-                                for (String s : directions) {
-                                    directionsView.append(s).append("\n");
-                                }
-                                etDirections.setText(directionsView);
-                                selectedIngredients = new ArrayList<>(r.getIngredients());
-                                etIngredients.setText(ingredients(selectedIngredients));
-                                category = r.getMain_category();
-                                subCategory = r.getCategory();
-                                change_adapter_to_original_values();
-                                npCookingTime.setValue(reverseCalcTime(r.getCookingTime()));
-                                npPrepTime.setValue(reverseCalcTime(r.getPrepTime()));
-                                npServings.setValue(Integer.parseInt(r.getServings()));
-                                npCarbs.setValue(Integer.parseInt(r.getCarbs()));
-                                npProtein.setValue(Integer.parseInt(r.getProtein()));
-                                npFat.setValue(Integer.parseInt(r.getFat()));
-                                npCalories.setValue(Integer.parseInt(r.getCalories()));
-                            } else {
-                                Toast.makeText(getApplicationContext(),
-                                        "You are not authorized to change this recipe..",
-                                        Toast.LENGTH_LONG).show();
-                                setDialogGetRecipeName();
                             }
+
                         }
-                        catch (Exception e){
-                            System.out.println(e.getStackTrace().toString());
+                    }).addOnFailureListener(new OnFailureListener() {
+                        @Override
+                        public void onFailure(@NonNull Exception e) {
+                            // Handle failure
+                            System.out.println("UpdateRecipe - setKnownDataToTextViews - whenAllSuccess - Failed");
                             e.printStackTrace();
-                            Toast.makeText(getApplicationContext(),
-                                    "We had a problem please try again..",
-                                    Toast.LENGTH_LONG).show();
-                            startActivity(new Intent(UpdateRecipe.this, UpdateRecipe.class));
                         }
-                    }
+                    });
+
                 } else {
                     Toast.makeText(getApplicationContext(),
                             "This recipe don't exist..",
@@ -703,6 +701,58 @@ public class UpdateRecipe extends DashboardActivity {
         });
     }
 
+    // Sets stored data to view
+    private void setRecipeDetails(recipe r) {
+        // Set its images
+        List<String> images = r.getImages();
+        if (!images.isEmpty()) {
+            myImages.addAll(images);
+            for (int i = 0; i < myImages.size(); i++) {
+                ImageView imageView = imageViews.get(i);
+                String imgUrl = myImages.get(i);
+                if (imgUrl.startsWith("https:")) {
+                    Picasso.get().load(imgUrl).into(imageView);
+                }
+                else {
+                    // Decode the image data from base64 to a Bitmap
+                    byte[] imageData = Base64.decode(imgUrl, Base64.DEFAULT);
+                    Bitmap bitmap = BitmapFactory.decodeByteArray(imageData, 0, imageData.length);
+                    // Set the image for the ImageView
+                    imageView.setImageBitmap(bitmap);
+                }
+            }
+        }
+        // Set title
+        etTitle.setText(r.getTitle());
+
+        // Set directions
+        List<String> directions = r.getDirections();
+        StringBuilder directionsView = new StringBuilder();
+        for (String s : directions) {
+            directionsView.append(s).append("\n");
+        }
+        etDirections.setText(directionsView);
+
+        // Set ingredients
+        selectedIngredients = new ArrayList<>(r.getIngredients());
+        etIngredients.setText(ingredients(selectedIngredients));
+
+        // Set main & sub categories
+        category = r.getMain_category();
+        subCategory = r.getCategory();
+
+        // Set auto complete text boxes
+        change_adapter_to_original_values();
+
+        // Set Details
+        npCookingTime.setValue(reverseCalcTime(r.getCookingTime()));
+        npPrepTime.setValue(reverseCalcTime(r.getPrepTime()));
+        npServings.setValue(Integer.parseInt(r.getServings()));
+        npCarbs.setValue(Integer.parseInt(r.getCarbs()));
+        npProtein.setValue(Integer.parseInt(r.getProtein()));
+        npFat.setValue(Integer.parseInt(r.getFat()));
+        npCalories.setValue(Integer.parseInt(r.getCalories()));
+    }
 
 
     private String calcTime(int min){
@@ -713,6 +763,7 @@ public class UpdateRecipe extends DashboardActivity {
             return (int)min/60 + " hrs " + min%60 + " mins";
         }
     }
+
 
     private int reverseCalcTime(String total){
         if (!total.isEmpty()) {

@@ -31,6 +31,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;
+import java.util.Map;
 
 public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFoodViewHolder> {
 
@@ -153,12 +154,12 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
                     if (dataSnapshot.exists()) {
                         User user = dataSnapshot.getValue(User.class);
                         if (user != null) {
-                            if (user.getLiked().contains(recipe.getTitle())) {
+                            if (user.getLiked().containsKey(recipe.getTitle())) {
                                 foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_filled);
                             }else{
                                 foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_not_filled);
                             }
-                            if (user.getCart().contains(recipe.getTitle())){
+                            if (user.getCart().containsKey(recipe.getTitle())){
                                 foodViewHolder.mCart.setImageResource(R.drawable.ic_baseline_shopping_cart_24);
                             }else{
                                 foodViewHolder.mCart.setImageResource(R.drawable.ic_baseline_add_shopping_cart_24_not_added);
@@ -181,13 +182,13 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
                             if (dataSnapshot.exists()) {
                                 User user = dataSnapshot.getValue(User.class);
                                 if (user != null) {
-                                    if (user.getLiked().contains(recipe.getTitle())) {
+                                    if (user.getLiked().containsKey(recipe.getTitle())) {
                                         setDialogApproval(foodViewHolder, recipe, "liked");
                                     }
                                     else{
                                         foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_filled);
-                                        List<String> singleValueList = foodViewHolder.CRUD.getSingleValueList(recipe.getTitle());
-                                        foodViewHolder.CRUD.addToUserLists(singleValueList, "liked");
+                                        Map<String, String> singleValueMap = foodViewHolder.CRUD.getSingleValueMap(recipe.getTitle(), recipe.getDatabaseRef());
+                                        foodViewHolder.CRUD.addToUserLists(singleValueMap, "liked");
                                     }
                                 }
                             }
@@ -209,13 +210,13 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
                             if (dataSnapshot.exists()) {
                                 User user = dataSnapshot.getValue(User.class);
                                 if (user != null) {
-                                    if (user.getCart().contains(recipe.getTitle())) {
+                                    if (user.getCart().containsKey(recipe.getTitle())) {
                                         setDialogApproval(foodViewHolder, recipe, "cart");
                                     }
                                     else{
                                         foodViewHolder.mCart.setImageResource(R.drawable.ic_baseline_shopping_cart_24);
-                                        List<String> singleValueList = foodViewHolder.CRUD.getSingleValueList(recipe.getTitle());
-                                        foodViewHolder.CRUD.addToUserLists(singleValueList, "cart");
+                                        Map<String, String> singleValueMap = foodViewHolder.CRUD.getSingleValueMap(recipe.getTitle(), recipe.getDatabaseRef());
+                                        foodViewHolder.CRUD.addToUserLists(singleValueMap, "cart");
                                     }
                                 }
                             }

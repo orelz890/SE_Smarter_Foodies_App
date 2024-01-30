@@ -320,22 +320,14 @@ public class MainActivity extends DashboardActivity {
     private void setByNameRecyclerAdapter(String recipeName) {
         // how to get data from the database- search
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
-        mDatabaseSearchGet = CRUD.getToRecipeDepth(mDatabaseSearchGet, recipeName);
+        mDatabaseSearchGet = CRUD.getToRecipeDepth(recipeName);
         mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
             @Override
             public void onSuccess(DataSnapshot dataSnapshot) {
 
                 if (dataSnapshot.exists()) {
                     myFoodList.clear();
-                    List<Task<DataSnapshot>> tasks = new ArrayList<>();
-
-                    for (DataSnapshot child : dataSnapshot.getChildren()) {
-                        DatabaseReference userReference = child.getValue(DatabaseReference.class);
-//                        Task<DataSnapshot> task = getUserDataTask(userReference);
-                        Task<DataSnapshot> task = CRUD.fetchDataTask(userReference);
-
-                        tasks.add(task);
-                    }
+                    List<Task<DataSnapshot>> tasks = CRUD.getTasksFromDataSnapshot(dataSnapshot);
 
                     Tasks.whenAllSuccess(tasks).addOnSuccessListener(new OnSuccessListener<List<Object>>() {
                         @Override

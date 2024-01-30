@@ -126,8 +126,8 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
     }
 
-    public DatabaseReference getToRecipeDepth(DatabaseReference DataRef, String name) {
-        DataRef = FirebaseDatabase.getInstance().getReference();
+    public DatabaseReference getToRecipeDepth(String name) {
+        DatabaseReference DataRef = FirebaseDatabase.getInstance().getReference();
         if (name.length() > 0) {
             String new_name = getCleanStringForSearch(name);
             //            System.out.println(new_name);
@@ -238,14 +238,19 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
             String title = r.getTitle();
             String main_category = getAsCategoryString(r.getMain_category());
             String sub_category = getAsCategoryString(r.getCategory());
-            DatabaseReference mDatabaseRecipes = FirebaseDatabase.getInstance().getReference()
-                    .child("recipes").child(main_category).child(sub_category).child(getAsCategoryString(title));
+
+            String recipeRefString = "recipes/" + main_category + "/" + sub_category + "/" + getAsCategoryString(title);
+            r.setDatabaseRef(recipeRefString);
+
+            DatabaseReference mDatabaseRecipes = FirebaseDatabase.getInstance().getReference().child(recipeRefString);
+
+
             mDatabaseRecipes.setValue(r).addOnCompleteListener(new OnCompleteListener<Void>() {
                 @Override
                 public void onComplete(@NonNull Task<Void> task) {
                     if (task.isSuccessful()) {
                         System.out.println(r.getTitle() + "> added successfully to recipes!");
-                        addRecipeToSearch(r, mDatabaseRecipes);
+                        addRecipeToSearch(r, recipeRefString);
                     } else {
                         System.out.println(r.getTitle() + "> failed to add to recipes!");
                         removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), title);
@@ -262,12 +267,11 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         }
     }
 
-    private void addRecipeToSearch(recipe r, DatabaseReference mDatabaseRecipes) {
+    private void addRecipeToSearch(recipe r, String mDatabaseRecipes) {
         if (mDatabaseRecipes != null) {
             String title = r.getTitle();
             String cleanTitle = getAsCategoryString(title);
-            DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference();
-            getToRecipeDepth(mDatabaseSearch, title).child(cleanTitle).setValue(mDatabaseRecipes)
+            getToRecipeDepth(title).child(cleanTitle).setValue(mDatabaseRecipes)
                     .addOnCompleteListener(new OnCompleteListener<Void>() {
                         @Override
                         public void onComplete(@NonNull Task<Void> task) {
@@ -290,7 +294,7 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
     }
 
 
-    private void addRecipeToUserUploads(recipe r, DatabaseReference mDatabaseRecipes) {
+    private void addRecipeToUserUploads(recipe r, String mDatabaseRecipes) {
         String title = r.getTitle();
         FirebaseDatabase.getInstance().getReference().child("users")
                 .child(Objects.requireNonNull(FirebaseAuth.getInstance().getUid()))
@@ -358,7 +362,7 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
     private void removeDataFromSearchTree(String main_category, String sub_category, String title) {
         DatabaseReference mDataSearchDelete = FirebaseDatabase.getInstance().getReference();
-        mDataSearchDelete = getToRecipeDepth(mDataSearchDelete, title);
+        mDataSearchDelete = getToRecipeDepth(title);
         mDataSearchDelete.removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
             @Override
             public void onComplete(@NonNull Task<Void> task) {
@@ -429,7 +433,7 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
     public void deleteRecipe(String name) {
         DatabaseReference mDataSearch = FirebaseDatabase.getInstance().getReference();
-        mDataSearch = getToRecipeDepth(mDataSearch, name);
+        mDataSearch = getToRecipeDepth(name);
         mDataSearch.get().addOnCompleteListener(new OnCompleteListener<DataSnapshot>() {
             @Override
             public void onComplete(@NonNull Task<DataSnapshot> task) {
@@ -570,7 +574,7 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 //                });
 //    }
 
-    public void addToUserLists(List<String> newRecipes, String listName) {
+    public void addToUserLists(Map<String,String> newRecipes, String listName) {
         String uid = FirebaseAuth.getInstance().getUid();
         if (uid != null) {
             DatabaseReference usersRef = FirebaseDatabase.getInstance()
@@ -658,6 +662,50 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         strings.add(title);
         return strings;
     }
+
+    public Map<String,String> getSingleValueMap(String k,String v) {
+        Map<String,String> m = new HashMap<>();
+        m.put(k,v);
+        return m;
+    }
+
+    public List<Task<DataSnapshot>> getTasksFromRefMap(Map<String,String> m){
+        List<Task<DataSnapshot>> tasks = new ArrayList<>();
+
+        for (String refString : m.values()) {
+        // Convert the saved string back to DatabaseReference
+            DatabaseReference restoredDatabaseReference = FirebaseDatabase.getInstance().getReference().child(refString);//                        Task<DataSnapshot> task = getUserDataTask(userReference);
+            Task<DataSnapshot> task = fetchDataTask(restoredDatabaseReference);
+
+            tasks.add(task);
+        }
+        return tasks;
+    }
+
+    public List<Task<DataSnapshot>> getTasksFromDataSnapshot(DataSnapshot dataSnapshot){
+        List<Task<DataSnapshot>> tasks = new ArrayList<>();
+        if (dataSnapshot.exists()) {
+
+            for (DataSnapshot child : dataSnapshot.getChildren()) {
+                DatabaseReference ref = null;
+                if (child.getValue() instanceof String){
+                    String refString = child.getValue(String.class);
+                    ref = FirebaseDatabase.getInstance().getReference().child(refString);
+                }
+                else if (child.getValue() instanceof DatabaseReference) {
+                    ref = child.getValue(DatabaseReference.class);
+
+                }
+                else {
+                    continue;
+                }
+                Task<DataSnapshot> task = fetchDataTask(ref);
+                tasks.add(task);
+            }
+        }
+        return tasks;
+    }
+
 
 
 //    public void uploadImageToImageStorage(ImageView iv, recipe r, int i, Uri imgUri) {

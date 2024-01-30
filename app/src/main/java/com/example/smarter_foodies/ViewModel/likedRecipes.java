@@ -1,5 +1,6 @@
 package com.example.smarter_foodies.ViewModel;
 
+import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
@@ -19,7 +20,10 @@ import com.example.smarter_foodies.Model.RecipePageFunctions;
 import com.example.smarter_foodies.Model.User;
 import com.example.smarter_foodies.Model.recipe;
 import com.example.smarter_foodies.R;
+import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.android.gms.tasks.Task;
+import com.google.android.gms.tasks.Tasks;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseReference;
@@ -127,51 +131,50 @@ public class likedRecipes extends DashboardActivity {
                     if (dataSnapshot.exists()) {
                         User user = dataSnapshot.getValue(User.class);
                         if (user != null) {
-                            setRecyclerAdapter(user.getLiked());
+                            List<Task<DataSnapshot>> tasks = CRUD.getTasksFromRefMap(user.getLiked());
+
+                            Tasks.whenAllSuccess(tasks).addOnSuccessListener(new OnSuccessListener<List<Object>>() {
+                                @Override
+                                public void onSuccess(List<Object> snapshots) {
+                                    // Handle the results when all tasks are successful
+
+                                    myFoodList.clear();
+                                    for (Object snapshot : snapshots) {
+                                        if (snapshot instanceof DataSnapshot) {
+                                            DataSnapshot dataSnapshot = (DataSnapshot) snapshot;
+                                            // Process each user's data
+                                            recipe curr_recipe = dataSnapshot.getValue(recipe.class);
+                                            if (curr_recipe != null) {
+                                                myFoodList.add(curr_recipe);
+                                            }
+                                        }
+                                    }
+                                    if (myFoodList != null) {
+                                        tvRecipeCount.setText(myFoodList.size() + " recipes");
+                                    }
+                                    Collections.shuffle(myFoodList);
+
+                                    // Get the height and width of the screen
+                                    int screenWidth = getResources().getDisplayMetrics().widthPixels;
+                                    int screenHeight = getResources().getDisplayMetrics().heightPixels;
+
+                                    myAdapter = new MyLikedAndCartAdapter(likedRecipes.this, myFoodList, "liked", screenWidth, screenHeight);
+                                    mRecyclerView.setAdapter(myAdapter);
+                                }
+                            }).addOnFailureListener(new OnFailureListener() {
+                                @Override
+                                public void onFailure(@NonNull Exception e) {
+                                    // Handle failure
+                                    System.out.println("likedRecipes - setRecycler - whenAllSuccess - Failed");
+                                    e.printStackTrace();
+                                }
+                            });
+
                         }
                     }
                 }
             });
         }
-    }
-
-
-    private void setRecyclerAdapter(List<String> liked) {
-
-        DatabaseReference databaseReference = FirebaseDatabase.getInstance()
-                .getReference().child("recipes");
-        databaseReference.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
-            @Override
-            public void onSuccess(DataSnapshot dataSnapshot) {
-                if (dataSnapshot.exists()) {
-                    myFoodList.clear();
-                    for (DataSnapshot snapshot : dataSnapshot.getChildren()) {
-                        Iterable<DataSnapshot> categorySnapshot = snapshot.getChildren();
-                        for (DataSnapshot subCategorySnapshot : categorySnapshot) {
-                            Iterable<DataSnapshot> recipeNamesSnapshot
-                                    = subCategorySnapshot.getChildren();
-                            for (DataSnapshot recipeNameSnap : recipeNamesSnapshot) {
-                                recipe r = recipeNameSnap.getValue(recipe.class);
-                                if (r != null && liked.contains(r.getTitle()) && !myFoodList.contains(r)) {
-                                    myFoodList.add(r);
-                                }
-                            }
-                        }
-                    }
-                    if (myFoodList != null) {
-                        tvRecipeCount.setText(myFoodList.size() + " recipes");
-                    }
-                    Collections.shuffle(myFoodList);
-
-                    // Get the height and width of the screen
-                    int screenWidth = getResources().getDisplayMetrics().widthPixels;
-                    int screenHeight = getResources().getDisplayMetrics().heightPixels;
-
-                    myAdapter = new MyLikedAndCartAdapter(likedRecipes.this, myFoodList, "liked", screenWidth, screenHeight);
-                    mRecyclerView.setAdapter(myAdapter);
-                }
-            }
-        });
     }
 
     public void setRecipeCountViews(int num) {
