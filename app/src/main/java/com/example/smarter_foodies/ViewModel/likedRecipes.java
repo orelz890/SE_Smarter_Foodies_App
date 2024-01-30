@@ -12,6 +12,7 @@ import android.view.View;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.example.smarter_foodies.DashboardActivity;
 import com.example.smarter_foodies.Model.CRUD_RealTimeDatabaseData;
@@ -20,6 +21,7 @@ import com.example.smarter_foodies.Model.RecipePageFunctions;
 import com.example.smarter_foodies.Model.User;
 import com.example.smarter_foodies.Model.recipe;
 import com.example.smarter_foodies.R;
+import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
@@ -32,6 +34,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Map;
 import java.util.Random;
 
 
@@ -123,7 +126,7 @@ public class likedRecipes extends DashboardActivity {
         myFoodList = new ArrayList<>();
         String uid = FirebaseAuth.getInstance().getUid();
         if (uid != null) {
-            DatabaseReference databaseReference = FirebaseDatabase.getInstance()
+            final DatabaseReference databaseReference = FirebaseDatabase.getInstance()
                     .getReference().child("users").child(uid);
             databaseReference.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
                 @Override
@@ -131,35 +134,14 @@ public class likedRecipes extends DashboardActivity {
                     if (dataSnapshot.exists()) {
                         User user = dataSnapshot.getValue(User.class);
                         if (user != null) {
-                            List<Task<DataSnapshot>> tasks = CRUD.getTasksFromRefMap(user.getLiked());
+                            List<Task<Object>> tasks = CRUD.getTasksFromRefMap(user.getLiked());
 
                             Tasks.whenAllSuccess(tasks).addOnSuccessListener(new OnSuccessListener<List<Object>>() {
                                 @Override
                                 public void onSuccess(List<Object> snapshots) {
                                     // Handle the results when all tasks are successful
 
-                                    myFoodList.clear();
-                                    for (Object snapshot : snapshots) {
-                                        if (snapshot instanceof DataSnapshot) {
-                                            DataSnapshot dataSnapshot = (DataSnapshot) snapshot;
-                                            // Process each user's data
-                                            recipe curr_recipe = dataSnapshot.getValue(recipe.class);
-                                            if (curr_recipe != null) {
-                                                myFoodList.add(curr_recipe);
-                                            }
-                                        }
-                                    }
-                                    if (myFoodList != null) {
-                                        tvRecipeCount.setText(myFoodList.size() + " recipes");
-                                    }
-                                    Collections.shuffle(myFoodList);
-
-                                    // Get the height and width of the screen
-                                    int screenWidth = getResources().getDisplayMetrics().widthPixels;
-                                    int screenHeight = getResources().getDisplayMetrics().heightPixels;
-
-                                    myAdapter = new MyLikedAndCartAdapter(likedRecipes.this, myFoodList, "liked", screenWidth, screenHeight);
-                                    mRecyclerView.setAdapter(myAdapter);
+                                    handleSuccess(tasks, databaseReference.child("liked"), user.getLiked());
                                 }
                             }).addOnFailureListener(new OnFailureListener() {
                                 @Override
@@ -176,6 +158,47 @@ public class likedRecipes extends DashboardActivity {
             });
         }
     }
+
+    private void handleSuccess(List<Task<Object>> tasks, DatabaseReference databaseRef, Map<String,String> liked) {
+        // Fill myFoodList with the recipes received.
+        myFoodList.clear();
+        for (int i = 0; i < tasks.size(); i++) {
+            Object snapshot = tasks.get(i).getResult();
+            if (snapshot instanceof DataSnapshot) {
+                DataSnapshot dataSnapshot = (DataSnapshot) snapshot;
+                // Process each user's data
+                recipe r = dataSnapshot.getValue(recipe.class);
+                if (r != null) {
+                    myFoodList.add(r);
+                    liked.remove(r.getTitle());
+                }
+            }
+        }
+        // Remove redundant child's - their actual recipe was deleted
+        for (String k : liked.keySet()) {
+            databaseRef.child(k).removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
+                @Override
+                public void onComplete(@NonNull Task<Void> task) {
+                    System.out.println("Removed redundant child");
+                }
+            });
+        }
+        // Show result in view
+        if (myFoodList != null && myFoodList.size() > 0){
+
+            tvRecipeCount.setText(myFoodList.size() + " recipes");
+            Collections.shuffle(myFoodList);
+
+            // Get the height and width of the screen
+            int screenWidth = getResources().getDisplayMetrics().widthPixels;
+            int screenHeight = getResources().getDisplayMetrics().heightPixels;
+
+            myAdapter = new MyLikedAndCartAdapter(likedRecipes.this, myFoodList, "liked", screenWidth, screenHeight);
+            mRecyclerView.setAdapter(myAdapter);
+        }
+
+    }
+
 
     public void setRecipeCountViews(int num) {
         if (myFoodList != null) {

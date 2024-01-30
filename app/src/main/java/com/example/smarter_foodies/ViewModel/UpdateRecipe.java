@@ -44,6 +44,7 @@ import com.example.smarter_foodies.Model.MyLikedAndCartAdapter;
 import com.example.smarter_foodies.Model.recipe;
 import com.example.smarter_foodies.R;
 import com.github.drjacky.imagepicker.ImagePicker;
+import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
@@ -68,55 +69,55 @@ import java.util.Set;
 
 public class UpdateRecipe extends DashboardActivity {
 
-    FirebaseAuth mAuth;
+    private FirebaseAuth mAuth;
     // These strings role is to help us sync between what the user see in the sub category
     // AutoCompleteTextView and his choice of main category
-    String[] categoriesList;
-    String category = "";
-    String subCategory = "";
-    String recipeToUpdateName = "";
+    private String[] categoriesList;
+    private String category = "";
+    private String subCategory = "";
+    private String recipeToUpdateName = "";
     // Reference to the realtime database
-    DatabaseReference mDatabase;
+    private DatabaseReference mDatabase;
     // Text inputs from the user
-    TextInputEditText etTitle;
-    TextView etIngredients;
-    TextInputEditText etDirections;
+    private TextInputEditText etTitle;
+    private TextView etIngredients;
+    private TextInputEditText etDirections;
     // Main & sub categories as the user wish
     AutoCompleteTextView autoCompleteCategory;
     ArrayAdapter<String> adapterCategories;
-    AutoCompleteTextView autoCompleteSubCategory;
-    ArrayAdapter<String> adapterSubCategories;
+    private AutoCompleteTextView autoCompleteSubCategory;
+    private ArrayAdapter<String> adapterSubCategories;
     // Number inputs from the user
-    NumberPicker npCookingTime;
-    NumberPicker npPrepTime;
-    NumberPicker npServings;
-    NumberPicker npCarbs;
-    NumberPicker npProtein;
-    NumberPicker npFat;
-    NumberPicker npCalories;
+    private NumberPicker npCookingTime;
+    private NumberPicker npPrepTime;
+    private NumberPicker npServings;
+    private NumberPicker npCarbs;
+    private NumberPicker npProtein;
+    private NumberPicker npFat;
+    private NumberPicker npCalories;
 
     // Submit recipe button
-    Button btnSubmit;
-    ImageButton ibRemoveRecipe;
+    private Button btnSubmit;
+    private ImageButton ibRemoveRecipe;
 
-    FloatingActionButton fab;
-    List<String> myImages;
-    List<ImageView> imageViews;
+    private FloatingActionButton fab;
+    private List<String> myImages;
+    private List<ImageView> imageViews;
 
 
-    CRUD_RealTimeDatabaseData CRUD;
+    private CRUD_RealTimeDatabaseData CRUD;
 
-    ArrayList<String> selectedIn;
-    ImageButton addIngredients;
+    private ArrayList<String> selectedIn;
+    private ImageButton addIngredients;
 
-    AutoCompleteTextView autoCompleteSearchView;
-    ImageButton submit;
-    ArrayAdapter<String> arraySearchAdapter;
+    private AutoCompleteTextView autoCompleteSearchView;
+    private ImageButton submit;
+    private ArrayAdapter<String> arraySearchAdapter;
 
-    ArrayList<String> ingredientNamesList;
-    static ArrayList<String> selectedIngredients;
-    static ListView listView;
-    static ListViewAdapter adapter;
+    private ArrayList<String> ingredientNamesList;
+    private static ArrayList<String> selectedIngredients;
+    private static ListView listView;
+    private static ListViewAdapter adapter;
 
 
 
@@ -481,10 +482,10 @@ public class UpdateRecipe extends DashboardActivity {
             @Override
             public void onClick(DialogInterface dialogInterface, int which) {
                 CRUD.deleteRecipe(name);
-                CRUD.removeFromUserLists(CRUD.getSingleValueList(name), "recipes");
                 startActivity(new Intent(UpdateRecipe.this, MainActivity.class));
             }
         });
+
 
         builder.setNegativeButton("no", (dialogInterface, which) -> {
 
@@ -636,14 +637,13 @@ public class UpdateRecipe extends DashboardActivity {
 
     private void setKnownDataToTextViews(String name) {
         // Search recipe by name
-        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
-        mDatabaseSearchGet = CRUD.getToRecipeDepth(name);
+        final DatabaseReference mDatabaseSearchGet = CRUD.getToRecipeDepth(name);
         mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
             @Override
             public void onSuccess(DataSnapshot dataSnapshot) {
                 if (dataSnapshot.exists()) {
                     // Got the reference to the actual recipe/s so create the task to get the actual recipe
-                    List<Task<DataSnapshot>> tasks = CRUD.getTasksFromDataSnapshot(dataSnapshot);
+                    List<Task<Object>> tasks = CRUD.getTasksFromDataSnapshot(dataSnapshot, mDatabaseSearchGet);
 
                     // Execute the task
                     Tasks.whenAllSuccess(tasks).addOnSuccessListener(new OnSuccessListener<List<Object>>() {

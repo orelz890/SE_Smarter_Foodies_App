@@ -32,7 +32,7 @@ import java.util.Objects;
 
 public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
-    public Map<String, String[]> subCategoriesList = new HashMap<String, String[]>() {{
+    public Map<String, String[]> subCategoriesList = new HashMap<>() {{
         put("", new String[]{});
         put("breakfast", new String[]{"Breakfast And Brunch", "Breakfast Burritos", "Breakfast Casseroles", "Breakfast Potatoes", "Breakfast Strata", "Deviled Eggs", "Eggplant Parmesan", "Frittata", "Omelets", "Other"});
         put("cakes", new String[]{"Angel Cake", "Cake Recipes", "Carrot Cake", "Cheesecake", "Chocolate Cake", "Coffee Cake", "Crab Cakes", "Cupcakes", "Fruitcake", "Linguine", "Mashed Potatoes", "Pound Cake", "Shortcake", "Spice Cake", "Upside Down Cake"});
@@ -63,7 +63,7 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         put("other", new String[]{"Other"});
     }};
 
-    DatabaseReference mDatabase;
+    private DatabaseReference mDatabase;
     // Arrays to store data received from the realtime database
     private final List<recipe> recipe_list_search = new ArrayList<>();
     private final List<recipe> recipe_list_filter = new ArrayList<>();
@@ -126,6 +126,7 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
     }
 
+
     public DatabaseReference getToRecipeDepth(String name) {
         DatabaseReference DataRef = FirebaseDatabase.getInstance().getReference();
         if (name.length() > 0) {
@@ -141,77 +142,16 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         return DataRef;
     }
 
-//    private boolean deleteAllInitData() {
-//        mDatabase = FirebaseDatabase.getInstance().getReference();
-//        mDatabase.child("filter").removeValue();
-//        mDatabase.child("search").removeValue();
-//        mDatabase.child("recipes").removeValue();
-//        return true;
-//    }
-
-//    private void loadDishToSearchTree(recipe r) {
-//        if (r != null) {
-//            String title = getAsCategoryString(r.getTitle());
-//            DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference();
-//            getToRecipeDepth(mDatabaseSearch, r.getTitle()).child(title).setValue(r)
-//                    .addOnCompleteListener(new OnCompleteListener<Void>() {
-//                        @Override
-//                        public void onComplete(@NonNull Task<Void> task) {
-//                            if (task.isSuccessful()) {
-//                                System.out.println(r.getTitle() + "> added successfully to search!");
-//                            }
-//                        }
-//                    });
-//        }
-//    }
 
     public String getAsCategoryString(String input_str) {
         return input_str.replace(" ", "_").replace("\"", "");
     }
 
-//    private void loadDishToFilterTree(recipe r) {
-//        if (r != null) {
-//            String title = r.getTitle();
-//            String main_category = getAsCategoryString(r.getMain_category());
-//            String sub_category = getAsCategoryString(r.getCategory());
-//            DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
-//                    .child("filter").child(main_category).child(sub_category);
-//            mDatabaseSearch.child(getAsCategoryString(title)).setValue(title).addOnCompleteListener(new OnCompleteListener<Void>() {
-//                @Override
-//                public void onComplete(@NonNull Task<Void> task) {
-//                    if (task.isSuccessful()) {
-//                        System.out.println(r.getTitle() + "> added successfully to Filter!");
-//                    }
-//                }
-//            });
-//        }
-//    }
-
-//    private void loadDishToRecipesTree(recipe r) {
-//        if (r != null) {
-//            String title = r.getTitle();
-//            String main_category = getAsCategoryString(r.getMain_category());
-//            String sub_category = getAsCategoryString(r.getCategory());
-//            DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
-//                    .child("recipes").child(main_category).child(sub_category).child(getAsCategoryString(title));
-//            mDatabaseSearch.setValue(r).addOnCompleteListener(new OnCompleteListener<Void>() {
-//                @Override
-//                public void onComplete(@NonNull Task<Void> task) {
-//                    if (task.isSuccessful()) {
-//                        System.out.println(r.getTitle() + "> added successfully to Filter!");
-//                        FirebaseDatabase.getInstance().getReference().child("myRecipes")
-//                                .child(Objects.requireNonNull(FirebaseAuth.getInstance().getUid()))
-//                                .child(title)
-//                                .setValue(r);
-//                    }
-//                }
-//            });
-//        }
-//    }
 
     public void loadDishToDatabase(recipe r) {
         addRecipeToRecipes(r);
     }
+
 
     private void addRecipeToFilter(recipe r) {
         if (r != null) {
@@ -220,18 +160,16 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
             String sub_category = getAsCategoryString(r.getCategory());
             DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
                     .child("filter").child(main_category).child(sub_category);
-            mDatabaseSearch.child(getAsCategoryString(title)).setValue(title).addOnCompleteListener(new OnCompleteListener<Void>() {
-                @Override
-                public void onComplete(@NonNull Task<Void> task) {
-                    if (task.isSuccessful()) {
-                        System.out.println(title + "> added successfully to Filter!");
-                    } else {
-                        System.out.println("Failed to add - " + title + " to Filter!");
-                    }
+            mDatabaseSearch.child(getAsCategoryString(title)).setValue(title).addOnCompleteListener(task -> {
+                if (task.isSuccessful()) {
+                    System.out.println(title + "> added successfully to Filter!");
+                } else {
+                    System.out.println("Failed to add - " + title + " to Filter!");
                 }
             });
         }
     }
+
 
     private void addRecipeToRecipes(recipe r) {
         if (r != null) {
@@ -245,50 +183,39 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
             DatabaseReference mDatabaseRecipes = FirebaseDatabase.getInstance().getReference().child(recipeRefString);
 
 
-            mDatabaseRecipes.setValue(r).addOnCompleteListener(new OnCompleteListener<Void>() {
-                @Override
-                public void onComplete(@NonNull Task<Void> task) {
-                    if (task.isSuccessful()) {
-                        System.out.println(r.getTitle() + "> added successfully to recipes!");
-                        addRecipeToSearch(r, recipeRefString);
-                    } else {
-                        System.out.println(r.getTitle() + "> failed to add to recipes!");
-                        removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), title);
-                    }
-                }
-            }).addOnFailureListener(new OnFailureListener() {
-                @Override
-                public void onFailure(@NonNull Exception e) {
-                    System.out.println("addRecipeToRecipes - Failed");
-                    e.printStackTrace();
+            mDatabaseRecipes.setValue(r).addOnCompleteListener(task -> {
+                if (task.isSuccessful()) {
+                    System.out.println(r.getTitle() + "> added successfully to recipes!");
+                    addRecipeToSearch(r, recipeRefString);
+                } else {
+                    System.out.println(r.getTitle() + "> failed to add to recipes!");
                     removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), title);
                 }
+            }).addOnFailureListener(e -> {
+                System.out.println("addRecipeToRecipes - Failed");
+                e.printStackTrace();
+                removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), title);
             });
         }
     }
+
 
     private void addRecipeToSearch(recipe r, String mDatabaseRecipes) {
         if (mDatabaseRecipes != null) {
             String title = r.getTitle();
             String cleanTitle = getAsCategoryString(title);
             getToRecipeDepth(title).child(cleanTitle).setValue(mDatabaseRecipes)
-                    .addOnCompleteListener(new OnCompleteListener<Void>() {
-                        @Override
-                        public void onComplete(@NonNull Task<Void> task) {
-                            if (task.isSuccessful()) {
-                                System.out.println(title + "> added successfully to search!");
-                                addRecipeToUserUploads(r, mDatabaseRecipes);
-                            } else {
-                                removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), title);
-                            }
-                        }
-                    }).addOnFailureListener(new OnFailureListener() {
-                        @Override
-                        public void onFailure(@NonNull Exception e) {
-                            System.out.println("removeDataFromFilterTree - Failed");
-                            e.printStackTrace();
+                    .addOnCompleteListener(task -> {
+                        if (task.isSuccessful()) {
+                            System.out.println(title + "> added successfully to search!");
+                            addRecipeToUserUploads(r, mDatabaseRecipes);
+                        } else {
                             removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), title);
                         }
+                    }).addOnFailureListener(e -> {
+                        System.out.println("removeDataFromFilterTree - Failed");
+                        e.printStackTrace();
+                        removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), title);
                     });
         }
     }
@@ -300,83 +227,49 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
                 .child(Objects.requireNonNull(FirebaseAuth.getInstance().getUid()))
                 .child("myRecipes")
                 .child(title)
-                .setValue(mDatabaseRecipes).addOnCompleteListener(new OnCompleteListener<Void>() {
-                    @Override
-                    public void onComplete(@NonNull Task<Void> task) {
-                        if (task.isSuccessful()) {
-                            System.out.println("Recipe added to the user uploaded recipes.");
-                            addRecipeToFilter(r);
-                        } else {
+                .setValue(mDatabaseRecipes).addOnCompleteListener(task -> {
+                    if (task.isSuccessful()) {
+                        System.out.println("Recipe added to the user uploaded recipes.");
+                        addRecipeToFilter(r);
+                    } else {
 //                            removeDataFromSearchTree(title);
-                            removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), title);
-                        }
-                    }
-                }).addOnFailureListener(new OnFailureListener() {
-                    @Override
-                    public void onFailure(@NonNull Exception e) {
-                        System.out.println("addRecipeToUserUploads - Failed");
-                        e.printStackTrace();
                         removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), title);
                     }
+                }).addOnFailureListener(e -> {
+                    System.out.println("addRecipeToUserUploads - Failed");
+                    e.printStackTrace();
+                    removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), title);
                 });
     }
 
-
-//    private void clearFilterArray() {
-//        this.recipe_list_filter.clear();
-//    }
-//
-//    private void clearSearchArray() {
-//        this.recipe_list_search.clear();
-//    }
-//
-//    private void addToFilerArray(recipe r) {
-//        this.recipe_list_filter.add(new recipe(r));
-//    }
-//
-//    private void addToSearchArray(recipe r) {
-//        this.recipe_list_search.add(new recipe(r));
-//    }
 
     private void removeDataFromUserUploads(String main_category, String sub_category, String title) {
 
         FirebaseDatabase.getInstance().getReference().child("users")
                 .child(Objects.requireNonNull(FirebaseAuth.getInstance().getUid()))
                 .child("myRecipes")
-                .child(title).removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
-                    @Override
-                    public void onComplete(@NonNull Task<Void> task) {
-                        if (task.isSuccessful()) {
-                            System.out.println(title + "> class removed successfully from user uploads!");
-                            removeDataFromFilterTree(main_category, sub_category, title);
-                        }
+                .child(title).removeValue().addOnCompleteListener(task -> {
+                    if (task.isSuccessful()) {
+                        System.out.println(title + "> class removed successfully from user uploads!");
+                        removeDataFromFilterTree(main_category, sub_category, title);
                     }
-                }).addOnFailureListener(new OnFailureListener() {
-                    @Override
-                    public void onFailure(@NonNull Exception e) {
-                        System.out.println("removeDataFromUserUploads - Failed");
-                        e.printStackTrace();
-                    }
+                }).addOnFailureListener(e -> {
+                    System.out.println("removeDataFromUserUploads - Failed");
+                    e.printStackTrace();
                 });
     }
 
     private void removeDataFromSearchTree(String main_category, String sub_category, String title) {
         DatabaseReference mDataSearchDelete = FirebaseDatabase.getInstance().getReference();
         mDataSearchDelete = getToRecipeDepth(title);
-        mDataSearchDelete.removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
-            @Override
-            public void onComplete(@NonNull Task<Void> task) {
-                if (task.isSuccessful()) {
-                    System.out.println(title + "> class removed successfully from search!");
-                    removeDataFromUserUploads(main_category, sub_category, title);
-                }
+        mDataSearchDelete.removeValue().addOnCompleteListener(task -> {
+            if (task.isSuccessful()) {
+                System.out.println(title + "> class removed successfully from search!");
+                removeDataFromUserUploads(main_category, sub_category, title);
             }
-        }).addOnFailureListener(new OnFailureListener() {
-            @Override
-            public void onFailure(@NonNull Exception e) {
-                System.out.println("removeDataFromSearchTree - Failed");
-                e.printStackTrace();
-            }
+        }).addOnFailureListener(e -> {
+            System.out.println("removeDataFromSearchTree - Failed");
+            e.printStackTrace();
         });
 
     }
@@ -388,19 +281,13 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
         DatabaseReference mDataFilter = FirebaseDatabase.getInstance().getReference()
                 .child("filter").child(mainCategory).child(subCategory);
-        mDataFilter.child(title).removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
-            @Override
-            public void onComplete(@NonNull Task<Void> task) {
-                if (task.isSuccessful()) {
-                    System.out.println(name + "> name removed successfully from filter!");
-                }
+        mDataFilter.child(title).removeValue().addOnCompleteListener(task -> {
+            if (task.isSuccessful()) {
+                System.out.println(name + "> name removed successfully from filter!");
             }
-        }).addOnFailureListener(new OnFailureListener() {
-            @Override
-            public void onFailure(@NonNull Exception e) {
-                System.out.println("removeDataFromFilterTree - Failed");
-                e.printStackTrace();
-            }
+        }).addOnFailureListener(e -> {
+            System.out.println("removeDataFromFilterTree - Failed");
+            e.printStackTrace();
         });
 
     }
@@ -412,199 +299,125 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
         DatabaseReference mDataFilter = FirebaseDatabase.getInstance().getReference()
                 .child("recipes").child(mainCategory).child(subCategory).child(cleanTitle);
-        mDataFilter.removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
-            @Override
-            public void onComplete(@NonNull Task<Void> task) {
-                if (task.isSuccessful()) {
-                    System.out.println(title + "> name removed successfully!");
-                    removeDataFromSearchTree(main_category, sub_category, title);
-                }
+        mDataFilter.removeValue().addOnCompleteListener(task -> {
+            if (task.isSuccessful()) {
+                System.out.println(title + "> name removed successfully!");
+                removeDataFromSearchTree(main_category, sub_category, title);
             }
-        }).addOnFailureListener(new OnFailureListener() {
-            @Override
-            public void onFailure(@NonNull Exception e) {
-                System.out.println("removeDataFromRecipesTree - Failed");
-                e.printStackTrace();
-            }
+        }).addOnFailureListener(e -> {
+            System.out.println("removeDataFromRecipesTree - Failed");
+            e.printStackTrace();
         });
 
     }
 
 
     public void deleteRecipe(String name) {
-        DatabaseReference mDataSearch = FirebaseDatabase.getInstance().getReference();
-        mDataSearch = getToRecipeDepth(name);
-        mDataSearch.get().addOnCompleteListener(new OnCompleteListener<DataSnapshot>() {
-            @Override
-            public void onComplete(@NonNull Task<DataSnapshot> task) {
-                if (task.isSuccessful()) {
-                    DataSnapshot snapshot_delete = task.getResult();
-                    if (snapshot_delete.exists()) {
-                        Iterable<DataSnapshot> childrens = snapshot_delete.getChildren();
+        final DatabaseReference mDataSearch = getToRecipeDepth(name);
+        mDataSearch.get().addOnCompleteListener(task -> {
+            if (task.isSuccessful()) {
+                DataSnapshot snapshot_delete = task.getResult();
+                if (snapshot_delete.exists()) {
+                    Iterable<DataSnapshot> childrens = snapshot_delete.getChildren();
 
-                        List<Task<DataSnapshot>> refToRemove = new ArrayList<>();
+                    List<Task<Object>> refToRemove = new ArrayList<>();
 
-                        // Add all the references under this name in the search tree
-                        for (DataSnapshot filter_child : childrens) {
-                            DatabaseReference recipeRef = filter_child.getValue(DatabaseReference.class);
-                            Task<DataSnapshot> getRefTask = fetchDataTask(recipeRef);
+                    // Add all the references under this name in the search tree
+                    for (DataSnapshot filter_child : childrens) {
+                        String recipeRefString = filter_child.getValue(String.class);
+                        if (recipeRefString != null){
+                            DatabaseReference recipeRef =  FirebaseDatabase.getInstance().getReference().child(recipeRefString);
+                            Task<Object> getRefTask = fetchDataTask(recipeRef);
+//                            if (!getRefTask.isSuccessful())
                             refToRemove.add(getRefTask);
                         }
+                    }
 
-                        Tasks.whenAllSuccess(refToRemove)
-                                .addOnSuccessListener(new OnSuccessListener<List<Object>>() {
-                                    @Override
-                                    public void onSuccess(List<Object> snapshots) {
-                                        // Handle success, all removal tasks completed successfully
-                                        for (Object snapshot : snapshots) {
-                                            if (snapshot instanceof DataSnapshot) {
-                                                DataSnapshot dataSnapshot = (DataSnapshot) snapshot;
-                                                // Process each user's data
-                                                recipe r = dataSnapshot.getValue(recipe.class);
-                                                if (r != null) {
-                                                    removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), r.getTitle());
-                                                }
-                                            }
+                    Tasks.whenAllSuccess(refToRemove)
+                            .addOnSuccessListener(snapshots -> {
+                                // Handle success, all removal tasks completed successfully
+                                for (Object snapshot : snapshots) {
+                                    if (snapshot instanceof DataSnapshot) {
+                                        DataSnapshot dataSnapshot = (DataSnapshot) snapshot;
+                                        // Process each user's data
+                                        recipe r = dataSnapshot.getValue(recipe.class);
+                                        if (r != null) {
+                                            removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), r.getTitle());
                                         }
                                     }
-                                })
-                                .addOnFailureListener(new OnFailureListener() {
-                                    @Override
-                                    public void onFailure(@NonNull Exception e) {
-                                        // Handle failure, at least one removal task failed
-                                        System.out.println("deleteRecipe - whenAllSuccess - Failed");
-                                        e.printStackTrace();
-                                    }
-                                });
+                                }
+                            })
+                            .addOnFailureListener(e -> {
+                                // Handle failure, at least one removal task failed
+                                System.out.println("deleteRecipe - whenAllSuccess - Failed");
+                                e.printStackTrace();
+                            });
 
 
-                    } else {
-                        System.out.println("deleteRecipe - data don't exist");
-                    }
+                } else {
+                    System.out.println("deleteRecipe - data don't exist");
                 }
             }
         });
     }
 
-    public Task<DataSnapshot> fetchDataTask(DatabaseReference Reference) {
-        if (Reference != null) {
-            final TaskCompletionSource<DataSnapshot> taskCompletionSource = new TaskCompletionSource<>();
+    public Task<Object> fetchDataTask(DatabaseReference recipeRef) {
+        if (recipeRef != null) {
+            final TaskCompletionSource<Object> taskCompletionSource = new TaskCompletionSource<>();
 
-            Reference.get().addOnCompleteListener(new OnCompleteListener<DataSnapshot>() {
-                @Override
-                public void onComplete(@NonNull Task<DataSnapshot> task) {
-                    if (task.isSuccessful()) {
-                        taskCompletionSource.setResult(task.getResult());
-                    } else {
-                        taskCompletionSource.setException(Objects.requireNonNull(task.getException()));
-                    }
+            recipeRef.get().addOnCompleteListener(task -> {
+                if (task.isSuccessful()) {
+                    taskCompletionSource.setResult(task.getResult());
+                } else {
+                    taskCompletionSource.setException(Objects.requireNonNull(task.getException()));
                 }
             });
 
             return taskCompletionSource.getTask();
         }
-        return Tasks.forResult(null); // Return a completed task if userReference is null
+        return Tasks.forResult(null); // Return a completed task if recipeRef is null
     }
 
-
-    public Task<Void> removeDataTask(DatabaseReference Reference) {
-        if (Reference != null) {
-            final TaskCompletionSource<Void> taskCompletionSource = new TaskCompletionSource<>();
-
-            Reference.removeValue(new DatabaseReference.CompletionListener() {
-                @Override
-                public void onComplete(DatabaseError databaseError, @NonNull DatabaseReference databaseReference) {
-                    if (databaseError == null) {
-                        taskCompletionSource.setResult(null); // Task completed successfully
-                    } else {
-                        taskCompletionSource.setException(databaseError.toException()); // Task failed
-                    }
+    private void handleRemoveDataTask(DatabaseReference reference, TaskCompletionSource<Object> taskCompletionSource) {
+        if (reference != null) {
+            reference.removeValue((databaseError, databaseReference) -> {
+                if (databaseError == null) {
+                    taskCompletionSource.setResult(null); // Task completed successfully
+                } else {
+                    taskCompletionSource.setException(databaseError.toException()); // Task failed
                 }
             });
-
-            return taskCompletionSource.getTask();
+        } else {
+            taskCompletionSource.setResult(null); // Return a completed task if reference is null
         }
-        return Tasks.forResult(null); // Return a completed task if userReference is null
     }
 
-//    public void updateRecipe(String former_name, recipe newRecipe) {
-//        if (newRecipe != null) {
-////            deleteRecipe(former_name);
-//            loadDishToDatabase(newRecipe);
-//        }
-//    }
-
-//    public static void updateUserAsChef(String email) {
-//        String preUserEmail = email.replace(".", "{*}");
-//        DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("email").child(preUserEmail);
-//        reference.addValueEventListener(new ValueEventListener() {
-//            @Override
-//            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-//                if (!dataSnapshot.exists()) {
-//                    System.out.println("email doesn't exist");
-//                } else {
-//                    String uid = dataSnapshot.getValue(String.class);
-//                    updateUser(uid);
-//                }
-//            }
-//
-//            @Override
-//            public void onCancelled(@NonNull DatabaseError error) {
-//                Log.d("TAG", error.getMessage());
-//            }
-//        });
-//
-//    }
-
-//    private static void updateUser(String uid) {
-//        Map<String, Object> userUpdates = new HashMap<>();
-//        userUpdates.put("isChef", true);
-//        FirebaseDatabase.getInstance().getReference().child("users").child(uid)
-//                .updateChildren(userUpdates).addOnSuccessListener(new OnSuccessListener<Void>() {
-//                    @Override
-//                    public void onSuccess(Void aVoid) {
-//                        System.out.println("success to update user");
-//                    }
-//                })
-//                .addOnFailureListener(new OnFailureListener() {
-//                    @Override
-//                    public void onFailure(@NonNull Exception e) {
-//                        System.err.println("error to update user");
-//                    }
-//                });
-//    }
 
     public void addToUserLists(Map<String,String> newRecipes, String listName) {
         String uid = FirebaseAuth.getInstance().getUid();
         if (uid != null) {
             DatabaseReference usersRef = FirebaseDatabase.getInstance()
                     .getReference().child("users").child(uid);
-            usersRef.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
-                @Override
-                public void onSuccess(DataSnapshot dataSnapshot) {
-                    if (dataSnapshot.exists()) {
-                        User user = dataSnapshot.getValue(User.class);
-                        if (user != null) {
-                            switch (listName) {
-                                case "recipes":
-                                    user.addToUserRecipes(newRecipes);
-                                    break;
-                                case "cart":
-                                    user.addToCart(newRecipes);
-                                    break;
-                                case "liked":
-                                    user.addToLiked(newRecipes);
-                                    break;
-                            }
-                            DatabaseReference usersRef = FirebaseDatabase.getInstance()
-                                    .getReference().child("users").child(uid);
-                            usersRef.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
-                                @Override
-                                public void onComplete(@NonNull Task<Void> task) {
-
-                                }
-                            });
+            usersRef.get().addOnSuccessListener(dataSnapshot -> {
+                if (dataSnapshot.exists()) {
+                    User user = dataSnapshot.getValue(User.class);
+                    if (user != null) {
+                        switch (listName) {
+                            case "recipes":
+                                user.addToUserRecipes(newRecipes);
+                                break;
+                            case "cart":
+                                user.addToCart(newRecipes);
+                                break;
+                            case "liked":
+                                user.addToLiked(newRecipes);
+                                break;
                         }
+                        DatabaseReference usersRef1 = FirebaseDatabase.getInstance()
+                                .getReference().child("users").child(uid);
+                        usersRef1.setValue(user).addOnCompleteListener(task -> {
+
+                        });
                     }
                 }
             });
@@ -618,43 +431,30 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         if (uid != null) {
             DatabaseReference usersRef = FirebaseDatabase.getInstance().getReference()
                     .child("users").child(uid);
-            usersRef.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
-                @Override
-                public void onSuccess(DataSnapshot dataSnapshot) {
-                    if (dataSnapshot.exists()) {
-                        User user = dataSnapshot.getValue(User.class);
-                        if (user != null) {
-                            switch (listName) {
-                                case "recipes":
-                                    user.removeFromUserRecipes(delList);
-                                    break;
-                                case "cart":
-                                    user.removeFromCart(delList);
-                                    break;
-                                case "liked":
-                                    user.removeFromLiked(delList);
-                                    break;
-                            }
-                            DatabaseReference usersRef = FirebaseDatabase.getInstance()
-                                    .getReference().child("users").child(uid);
-                            usersRef.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
-                                @Override
-                                public void onComplete(@NonNull Task<Void> task) {
-
-                                }
-                            });
+            usersRef.get().addOnSuccessListener(dataSnapshot -> {
+                if (dataSnapshot.exists()) {
+                    User user = dataSnapshot.getValue(User.class);
+                    if (user != null) {
+                        switch (listName) {
+                            case "recipes":
+                                user.removeFromUserRecipes(delList);
+                                break;
+                            case "cart":
+                                user.removeFromCart(delList);
+                                break;
+                            case "liked":
+                                user.removeFromLiked(delList);
+                                break;
                         }
+                        DatabaseReference usersRef1 = FirebaseDatabase.getInstance()
+                                .getReference().child("users").child(uid);
+                        usersRef1.setValue(user).addOnCompleteListener(task -> {
+
+                        });
                     }
                 }
             });
         }
-    }
-
-
-    public List<String> getSingleValueAsCategoryList(String title) {
-        List<String> strings = new ArrayList<>();
-        strings.add(getAsCategoryString(title));
-        return strings;
     }
 
     public List<String> getSingleValueList(String title) {
@@ -669,28 +469,35 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         return m;
     }
 
-    public List<Task<DataSnapshot>> getTasksFromRefMap(Map<String,String> m){
-        List<Task<DataSnapshot>> tasks = new ArrayList<>();
+    public List<Task<Object>> getTasksFromRefMap(Map<String,String> m){
+        List<Task<Object>> tasks = new ArrayList<>();
 
-        for (String refString : m.values()) {
+        for (String v : m.values()) {
         // Convert the saved string back to DatabaseReference
-            DatabaseReference restoredDatabaseReference = FirebaseDatabase.getInstance().getReference().child(refString);//                        Task<DataSnapshot> task = getUserDataTask(userReference);
-            Task<DataSnapshot> task = fetchDataTask(restoredDatabaseReference);
+            if (v != null) {
+                DatabaseReference restoredDatabaseReference = FirebaseDatabase.getInstance().getReference().child(v);//                        Task<DataSnapshot> task = getUserDataTask(userReference);
+                Task<Object> task = fetchDataTask(restoredDatabaseReference);
 
-            tasks.add(task);
+                tasks.add(task);
+            }
         }
         return tasks;
     }
 
-    public List<Task<DataSnapshot>> getTasksFromDataSnapshot(DataSnapshot dataSnapshot){
-        List<Task<DataSnapshot>> tasks = new ArrayList<>();
+    public List<Task<Object>> getTasksFromDataSnapshot(DataSnapshot dataSnapshot, DatabaseReference databaseRef){
+        List<Task<Object>> tasks = new ArrayList<>();
         if (dataSnapshot.exists()) {
 
             for (DataSnapshot child : dataSnapshot.getChildren()) {
-                DatabaseReference ref = null;
+                DatabaseReference ref;
                 if (child.getValue() instanceof String){
                     String refString = child.getValue(String.class);
-                    ref = FirebaseDatabase.getInstance().getReference().child(refString);
+                    if (refString != null){
+                        ref = FirebaseDatabase.getInstance().getReference().child(refString);
+                    }
+                    else {
+                        continue;
+                    }
                 }
                 else if (child.getValue() instanceof DatabaseReference) {
                     ref = child.getValue(DatabaseReference.class);
@@ -699,85 +506,12 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
                 else {
                     continue;
                 }
-                Task<DataSnapshot> task = fetchDataTask(ref);
+                Task<Object> task = fetchDataTask(ref);
                 tasks.add(task);
             }
         }
         return tasks;
     }
-
-
-
-//    public void uploadImageToImageStorage(ImageView iv, recipe r, int i, Uri imgUri) {
-//
-//
-//        if (iv.getDrawable() == null) {
-//            // First, create a reference to the image file in Firebase Storage
-//            FirebaseStorage storage = FirebaseStorage.getInstance();
-//            StorageReference storageRef = storage.getReference()
-//                    .child("images")
-//                    .child(getAsCategoryString(r.getTitle()))
-//                    .child("" + i);
-//            // Upload the file to Firebase Storage
-//            storageRef.putFile(imgUri)
-//                    .addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSnapshot>() {
-//                        @Override
-//                        public void onSuccess(UploadTask.TaskSnapshot taskSnapshot) {
-//                            StorageMetadata metadata = taskSnapshot.getMetadata();
-//                            if (metadata != null) {
-//                                StorageReference reference = metadata.getReference();
-//                                if (reference != null) {
-//                                    // Get the URL of the image
-//                                    String imageUrl = reference.getDownloadUrl().toString();
-//                                    // Save the URL to the Firebase Realtime Database
-//                                    FirebaseDatabase database = FirebaseDatabase.getInstance();
-//                                    DatabaseReference myRef = database.getReference("image_url");
-//                                    myRef.setValue(imageUrl);
-//                                    uploadImageToRecipeImages(r.getMain_category(), r.getCategory(),
-//                                            r.getTitle(), imageUrl, i);
-//                                }
-//                            }
-//                        }
-//                    })
-//                    .addOnFailureListener(new OnFailureListener() {
-//                        @Override
-//                        public void onFailure(@NonNull Exception e) {
-//                            // Handle the error
-//                            System.out.println(e.getStackTrace());
-//                        }
-//                    });
-//        }
-//    }
-
-//    public void uploadImageToRecipeImages(String category, String subCategory, String title, Uri imgUri, int pos) {
-//        String path = imgUri.getPath();
-//        // Convert image to base64-encoded string
-//        ByteArrayOutputStream baos = new ByteArrayOutputStream();
-//        Bitmap bitmap = BitmapFactory.decodeFile(path);
-//        bitmap.compress(Bitmap.CompressFormat.JPEG, 100, baos);
-//        byte[] imageData = baos.toByteArray();
-//        String imageDataBase64 = Base64.encodeToString(imageData, Base64.DEFAULT);
-//        String main_category = getAsCategoryString(category);
-//        String sub_category = getAsCategoryString(subCategory);
-//        DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
-//                .child("recipes").child(main_category).child(sub_category);
-//        mDatabaseSearch.child(getAsCategoryString(title)).child("images").child("" + pos)
-//                .setValue(imageDataBase64).addOnFailureListener(new OnFailureListener() {
-//                    @Override
-//                    public void onFailure(@NonNull Exception e) {
-//                        e.printStackTrace();
-//                    }
-//                });
-//        mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
-//                .child("search").child(main_category).child(sub_category);
-//        mDatabaseSearch.child(getAsCategoryString(title)).child("images").child("" + pos)
-//                .setValue(imageDataBase64).addOnFailureListener(new OnFailureListener() {
-//                    @Override
-//                    public void onFailure(@NonNull Exception e) {
-//                        e.printStackTrace();
-//                    }
-//                });
-//    }
 }
 
 
