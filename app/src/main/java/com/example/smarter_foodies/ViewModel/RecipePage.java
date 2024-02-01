@@ -134,77 +134,6 @@ public class RecipePage extends AppCompatActivity {
     }
 
 
-//    private void getDishFromSearchTree(String recipeName) {
-//        // how to get data from the database- search
-//        List<recipe> r = new ArrayList<>();
-//        final DatabaseReference mDatabaseSearchGet = getToRecipeDepth(recipeName);
-//        mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
-//            @Override
-//            public void onSuccess(DataSnapshot dataSnapshot) {
-//                if (dataSnapshot.exists()) {
-//                    List<Task<Object>> tasks = new ArrayList<>();
-//                    for (DataSnapshot child : dataSnapshot.getChildren()) {
-//                        String recipeRefString = child.getValue(String.class);
-//                        if (recipeRefString != null) {
-//                            DatabaseReference recipesNodeReference = FirebaseDatabase.getInstance().getReference().child(recipeRefString);
-//                            Task<Object> task = CRUD.fetchDataTask(recipesNodeReference, mDatabaseSearchGet);
-//                            tasks.add(task);
-//                        }
-//                    }
-//                    Tasks.whenAllSuccess(tasks).addOnSuccessListener(new OnSuccessListener<List<Object>>() {
-//                        @Override
-//                        public void onSuccess(List<Object> snapshots) {
-//                            // Handle the results when all tasks are successful
-//                            for (Object snapshot : snapshots) {
-//                                if (snapshot instanceof DataSnapshot) {
-//                                    DataSnapshot dataSnapshot = (DataSnapshot) snapshot;
-//                                    // Process each user's data
-//                                    recipe curr_recipe = dataSnapshot.getValue(recipe.class);
-//                                    if (curr_recipe != null) {
-//                                        r.add(curr_recipe);
-//                                    }
-//                                }
-//                            }
-//                            String[] ImageUrl = RecipePageFunctions.List_of_string_to_array(r.get(0).getImages());
-//                            int size = ImageUrl.length;
-//                            if (size > 0) {
-//                                if (ImageUrl[size - 1].startsWith("https:")) {
-//                                    Picasso.get().load(ImageUrl[size - 1]).into(recipeImage);
-//
-//                                } else {
-//                                    // Decode the image data from base64 to a Bitmap
-//                                    byte[] imageData = Base64.decode(ImageUrl[size - 1], Base64.DEFAULT);
-//                                    Bitmap bitmap = BitmapFactory.decodeByteArray(imageData, 0, imageData.length);
-//
-//                                    // Set the image for the ImageView
-//                                    recipeImage.setImageBitmap(bitmap);
-//
-////                            // Ensure the ImageView dimensions match the loaded image
-////                            ViewGroup.LayoutParams layoutParams = recipeImage.getLayoutParams();
-////                            layoutParams.width = bitmap.getWidth();
-////                            layoutParams.height = bitmap.getHeight();
-////                            recipeImage.setLayoutParams(layoutParams);
-//                                }
-//                            } else {
-//                                recipeImage.setImageResource(R.drawable.iv_no_images_available);
-//                            }
-//
-//                        }
-//                    }).addOnFailureListener(new OnFailureListener() {
-//                        @Override
-//                        public void onFailure(@NonNull Exception e) {
-//                            // Handle failure
-//                            System.out.println("setByNameRecyclerAdapter - whenAllSuccess - Failed");
-//                            e.printStackTrace();
-//                        }
-//                    });
-//
-//
-//                }
-//            }
-//        });
-//    }
-
     private void getDishFromSearchTree(String recipeName) {
         // how to get data from the database- search
         List<recipe> r = new ArrayList<>();
@@ -245,7 +174,7 @@ public class RecipePage extends AppCompatActivity {
     }
 
     private void handleSuccess(List<recipe> recipes, List<Task<Object>> tasks) {
-        // Handle the results when all tasks are successful
+        // Fill recipes list with the recipes received.
         for (int i = 0; i < tasks.size(); i++) {
             Object snapshot = tasks.get(i).getResult();
             if (snapshot instanceof DataSnapshot) {
@@ -255,13 +184,10 @@ public class RecipePage extends AppCompatActivity {
                 if (curr_recipe != null) {
                     recipes.add(curr_recipe);
                 }
-            } else {
-                System.out.println("Removed redundant child");
-                startActivity(new Intent(this, MainActivity.class));
-                return;
             }
         }
 
+        // Show result in view
         if (recipes.size() > 0) {
             // Now, handle the logic for successful data retrieval here
             String[] ImageUrl = RecipePageFunctions.List_of_string_to_array(recipes.get(0).getImages());

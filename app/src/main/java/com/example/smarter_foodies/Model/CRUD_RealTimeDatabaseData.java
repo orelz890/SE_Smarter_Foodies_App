@@ -34,9 +34,10 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
     public Map<String, String[]> subCategoriesList = new HashMap<>() {{
         put("", new String[]{});
-        put("breakfast", new String[]{"Breakfast And Brunch", "Breakfast Burritos", "Breakfast Casseroles", "Breakfast Potatoes", "Breakfast Strata", "Deviled Eggs", "Eggplant Parmesan", "Frittata", "Omelets", "Other"});
-        put("cakes", new String[]{"Angel Cake", "Cake Recipes", "Carrot Cake", "Cheesecake", "Chocolate Cake", "Coffee Cake", "Crab Cakes", "Cupcakes", "Fruitcake", "Linguine", "Mashed Potatoes", "Pound Cake", "Shortcake", "Spice Cake", "Upside Down Cake"});
+        put("breakfast", new String[]{"Burritos", "Casseroles", "Potatoes", "Strata", "Deviled Eggs", "Eggplant Parmesan", "Frittata", "Omelets", "Special"});
+        put("cakes", new String[]{"Angel Cake", "Carrot Cake", "Cheesecake", "Chocolate Cake", "Coffee Cake", "Crab Cakes", "Cupcakes", "Fruitcake", "Linguine", "Pound Cake", "Shortcake", "Spice Cake", "Upside Down Cake", "Special"});
         put("carbs", new String[]{"Calzones", "Dumplings", "Egg Rolls", "Empanada Recipes", "Fried Rice", "Fries", "Gnocchi", "Homemade Pasta", "Noodle Casserole", "Pancit", "Pasta Carbonara", "Pasta Primavera", "Potato Pancakes", "Quesadillas", "Quiche", "Quinoa", "Ravioli", "Rice Casserole", "Rice Pilaf", "Risotto", "Samosa Recipes", "Shepherd's Pie", "Spaghetti", "Spanish Rice", "Tater_Tots Casserole", "Tortellini", "Tortillas", "Tostadas", "Tuna Casserole", "Ziti", "Other"});
+        put("Brunch", new String[]{"Special"});
         put("dairy", new String[]{"Macaroni & Cheese", "Chowder", "Other"});
         put("dinner", new String[]{"Dinner_Recipes", "Other"});
         put("dips", new String[]{"Artichoke Dip", "Buffalo Chicken Dip", "Cranberry Sauce", "Gravy", "Guacamole", "Pesto Sauce", "Relishes", "Salsa", "Spinach Dips", "Other"});
@@ -115,15 +116,15 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 //    }
 
     private String getCleanStringForSearch(String input_str) {
-        input_str = input_str.replace("\"", "").replace(" ", "");
-        StringBuilder new_str = new StringBuilder();
-        for (int i = 0; i < input_str.length(); i++) {
-            if (Character.isDigit(input_str.charAt(i)) || Character.isAlphabetic(input_str.charAt(i))) {
-                new_str.append(input_str.charAt(i));
-            }
-        }
-        return new_str.toString().toLowerCase(Locale.ROOT);
-
+//        input_str = input_str.replace("\"", "").replace(" ", "");
+//        StringBuilder new_str = new StringBuilder();
+//        for (int i = 0; i < input_str.length(); i++) {
+//            if (Character.isDigit(input_str.charAt(i)) || Character.isAlphabetic(input_str.charAt(i))) {
+//                new_str.append(input_str.charAt(i));
+//            }
+//        }
+//        return new_str.toString().toLowerCase(Locale.ROOT);
+        return input_str;
     }
 
 
@@ -132,19 +133,21 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         if (name.length() > 0) {
             String new_name = getCleanStringForSearch(name);
             //            System.out.println(new_name);
-            int len = new_name.length();
-            DataRef = DataRef.child("search");
-            // Max tree depth is 32
-            for (int i = 0; i < len && i < 27; i++) {
-                DataRef = DataRef.child(new_name.charAt(i) + "");
-            }
+//            int len = new_name.length();
+//            DataRef = DataRef.child("search");
+//            // Max tree depth is 32
+//            for (int i = 0; i < len && i < 27; i++) {
+//                DataRef = DataRef.child(new_name.charAt(i) + "");
+//            }
+            DataRef = DataRef.child("search").child(name);
         }
         return DataRef;
     }
 
 
     public String getAsCategoryString(String input_str) {
-        return input_str.replace(" ", "_").replace("\"", "");
+//        return input_str.replace(" ", "_").replace("\"", "");
+        return input_str;
     }
 
 
@@ -203,8 +206,8 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
     private void addRecipeToSearch(recipe r, String mDatabaseRecipes) {
         if (mDatabaseRecipes != null) {
             String title = r.getTitle();
-            String cleanTitle = getAsCategoryString(title);
-            getToRecipeDepth(title).child(cleanTitle).setValue(mDatabaseRecipes)
+//            String cleanTitle = getAsCategoryString(title);
+            getToRecipeDepth(title).setValue(mDatabaseRecipes)
                     .addOnCompleteListener(task -> {
                         if (task.isSuccessful()) {
                             System.out.println(title + "> added successfully to search!");
@@ -260,8 +263,7 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
     }
 
     private void removeDataFromSearchTree(String main_category, String sub_category, String title) {
-        DatabaseReference mDataSearchDelete = FirebaseDatabase.getInstance().getReference();
-        mDataSearchDelete = getToRecipeDepth(title);
+        DatabaseReference mDataSearchDelete = FirebaseDatabase.getInstance().getReference().child("search").child(title);
         mDataSearchDelete.removeValue().addOnCompleteListener(task -> {
             if (task.isSuccessful()) {
                 System.out.println(title + "> class removed successfully from search!");
@@ -313,46 +315,20 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
 
     public void deleteRecipe(String name) {
-        final DatabaseReference mDataSearch = getToRecipeDepth(name);
+        final DatabaseReference mDataSearch = FirebaseDatabase.getInstance().getReference().child("search").child(name);
         mDataSearch.get().addOnCompleteListener(task -> {
             if (task.isSuccessful()) {
                 DataSnapshot snapshot_delete = task.getResult();
-                if (snapshot_delete.exists()) {
-                    Iterable<DataSnapshot> childrens = snapshot_delete.getChildren();
 
-                    List<Task<Object>> refToRemove = new ArrayList<>();
+                if (snapshot_delete.exists()) {
 
                     // Add all the references under this name in the search tree
-                    for (DataSnapshot filter_child : childrens) {
-                        String recipeRefString = filter_child.getValue(String.class);
-                        if (recipeRefString != null){
-                            DatabaseReference recipeRef =  FirebaseDatabase.getInstance().getReference().child(recipeRefString);
-                            Task<Object> getRefTask = fetchDataTask(recipeRef);
-//                            if (!getRefTask.isSuccessful())
-                            refToRemove.add(getRefTask);
-                        }
+                    String recipeRefString = snapshot_delete.getValue(String.class);
+                    if (recipeRefString != null) {
+                        String[] spited = recipeRefString.split("/");
+                        System.out.println("recipeRefString = " + recipeRefString);
+                        removeDataFromRecipesTree(spited[1],spited[2],name);
                     }
-
-                    Tasks.whenAllSuccess(refToRemove)
-                            .addOnSuccessListener(snapshots -> {
-                                // Handle success, all removal tasks completed successfully
-                                for (Object snapshot : snapshots) {
-                                    if (snapshot instanceof DataSnapshot) {
-                                        DataSnapshot dataSnapshot = (DataSnapshot) snapshot;
-                                        // Process each user's data
-                                        recipe r = dataSnapshot.getValue(recipe.class);
-                                        if (r != null) {
-                                            removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), r.getTitle());
-                                        }
-                                    }
-                                }
-                            })
-                            .addOnFailureListener(e -> {
-                                // Handle failure, at least one removal task failed
-                                System.out.println("deleteRecipe - whenAllSuccess - Failed");
-                                e.printStackTrace();
-                            });
-
 
                 } else {
                     System.out.println("deleteRecipe - data don't exist");
@@ -393,7 +369,7 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
     }
 
 
-    public void addToUserLists(Map<String,String> newRecipes, String listName) {
+    public void addToUserLists(Map<String, String> newRecipes, String listName) {
         String uid = FirebaseAuth.getInstance().getUid();
         if (uid != null) {
             DatabaseReference usersRef = FirebaseDatabase.getInstance()
@@ -463,17 +439,17 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         return strings;
     }
 
-    public Map<String,String> getSingleValueMap(String k,String v) {
-        Map<String,String> m = new HashMap<>();
-        m.put(k,v);
+    public Map<String, String> getSingleValueMap(String k, String v) {
+        Map<String, String> m = new HashMap<>();
+        m.put(k, v);
         return m;
     }
 
-    public List<Task<Object>> getTasksFromRefMap(Map<String,String> m){
+    public List<Task<Object>> getTasksFromRefMap(Map<String, String> m) {
         List<Task<Object>> tasks = new ArrayList<>();
 
         for (String v : m.values()) {
-        // Convert the saved string back to DatabaseReference
+            // Convert the saved string back to DatabaseReference
             if (v != null) {
                 DatabaseReference restoredDatabaseReference = FirebaseDatabase.getInstance().getReference().child(v);//                        Task<DataSnapshot> task = getUserDataTask(userReference);
                 Task<Object> task = fetchDataTask(restoredDatabaseReference);
@@ -484,26 +460,23 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         return tasks;
     }
 
-    public List<Task<Object>> getTasksFromDataSnapshot(DataSnapshot dataSnapshot, DatabaseReference databaseRef){
+    public List<Task<Object>> getTasksFromDataSnapshot(DataSnapshot dataSnapshot, DatabaseReference databaseRef) {
         List<Task<Object>> tasks = new ArrayList<>();
         if (dataSnapshot.exists()) {
 
             for (DataSnapshot child : dataSnapshot.getChildren()) {
                 DatabaseReference ref;
-                if (child.getValue() instanceof String){
+                if (child.getValue() instanceof String) {
                     String refString = child.getValue(String.class);
-                    if (refString != null){
+                    if (refString != null) {
                         ref = FirebaseDatabase.getInstance().getReference().child(refString);
-                    }
-                    else {
+                    } else {
                         continue;
                     }
-                }
-                else if (child.getValue() instanceof DatabaseReference) {
+                } else if (child.getValue() instanceof DatabaseReference) {
                     ref = child.getValue(DatabaseReference.class);
 
-                }
-                else {
+                } else {
                     continue;
                 }
                 Task<Object> task = fetchDataTask(ref);

@@ -637,7 +637,7 @@ public class UpdateRecipe extends DashboardActivity {
 
     private void setKnownDataToTextViews(String name) {
         // Search recipe by name
-        final DatabaseReference mDatabaseSearchGet = CRUD.getToRecipeDepth(name);
+        final DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference().child("search");
         mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
             @Override
             public void onSuccess(DataSnapshot dataSnapshot) {

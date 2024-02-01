@@ -485,7 +485,7 @@ public class AddRecipe extends DashboardActivity {
 
 
                         flag = false;
-                        moveToActivity(r.getTitle());
+//                        moveToActivity(r.getTitle());
 
                     }
                 }
