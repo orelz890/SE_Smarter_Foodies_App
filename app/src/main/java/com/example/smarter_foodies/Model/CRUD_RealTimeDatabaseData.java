@@ -32,38 +32,6 @@ import java.util.Objects;
 
 public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
-    public Map<String, String[]> subCategoriesList = new HashMap<>() {{
-        put("", new String[]{});
-        put("breakfast", new String[]{"Burritos", "Casseroles", "Potatoes", "Strata", "Deviled Eggs", "Eggplant Parmesan", "Frittata", "Omelets", "Special"});
-        put("cakes", new String[]{"Angel Cake", "Carrot Cake", "Cheesecake", "Chocolate Cake", "Coffee Cake", "Crab Cakes", "Cupcakes", "Fruitcake", "Linguine", "Pound Cake", "Shortcake", "Spice Cake", "Upside Down Cake", "Special"});
-        put("carbs", new String[]{"Calzones", "Dumplings", "Egg Rolls", "Empanada Recipes", "Fried Rice", "Fries", "Gnocchi", "Homemade Pasta", "Noodle Casserole", "Pancit", "Pasta Carbonara", "Pasta Primavera", "Potato Pancakes", "Quesadillas", "Quiche", "Quinoa", "Ravioli", "Rice Casserole", "Rice Pilaf", "Risotto", "Samosa Recipes", "Shepherd's Pie", "Spaghetti", "Spanish Rice", "Tater_Tots Casserole", "Tortellini", "Tortillas", "Tostadas", "Tuna Casserole", "Ziti", "Other"});
-        put("Brunch", new String[]{"Special"});
-        put("dairy", new String[]{"Macaroni & Cheese", "Chowder", "Other"});
-        put("dinner", new String[]{"Dinner_Recipes", "Other"});
-        put("dips", new String[]{"Artichoke Dip", "Buffalo Chicken Dip", "Cranberry Sauce", "Gravy", "Guacamole", "Pesto Sauce", "Relishes", "Salsa", "Spinach Dips", "Other"});
-        put("drinks", new String[]{"Applesauce", "Bloody Marys", "Cocktails", "Eggnog", "Jell Shots", "Lemonade", "Margaritas", "Mojitos", "Punch", "Sangria", "Smoothies", "Other"});
-        put("easy", new String[]{"Everyday_Leftovers", "Quick_and_Easy_Recipes", "Other"});
-        put("fish & sushi", new String[]{"Ceviche", "Salmon", "Sushi", "Other"});
-        put("flour", new String[]{"Bagels", "Banana Bread", "Bread Recipes", "Bruschetta", "Cornbread", "Crackers", "Flat Bread", "French Toast", "Garlic Bread", "Hushpuppies", "Monkey Bread", "Panini", "Pierogi", "Pretzels", "Pumpkin Bread", "Sandwiches", "Scones", "Wheat Bread", "Yeast Bread", "Zucchini Bread", "Other"});
-        put("comfort", new String[]{"Comfort Food", "Food Gifts", "Other"});
-        put("health", new String[]{"Baked Beans", "Broccoli Salad", "Chicken Salad", "Diabetic Recipes", "Egg Salad", "Fruit Salads", "Gluten-Free Recipes", "Granola", "Green Salads", "Healthy Recipes", "High-Fiber Recipes", "Keto Diet", "Low-Calorie Recipes", "Low-Cholesterol Recipes", "Low-Fat Recipes", "Low-Sodium Recipes", "Low Glycemic Impact Recipes", "Mediterranean Diet", "Oatmeal", "Overnight Oats", "Paleo Diet", "Potato Salad", "Raw Food Diet", "Refried Beans", "Salad Dressings", "Salad Recipes", "Seitan Recipes", "Sugar-Free Recipes", "Tempeh Recipes", "Tofu Recipes", "Vegan Recipes", "Vegetable Recipes", "Vegetable Side Dishes", "Vegetarian Recipes", "Other"});
-        put("holidays", new String[]{"Falafel", "Paella", "Tacos", "Tamales", "Other"});
-        put("lunch", new String[]{"Lunch Recipes"});
-        put("main dishes", new String[]{"Casseroles", "Fajitas", "Lasagna", "Lettuce Wraps", "Main Dishes", "Manicotti", "Quiche", "Stew"});
-        put("meat & chicken", new String[]{"Bulgogi", "Burgers", "Chili", "Gyros", "Jerky", "Kalbi", "Ribs", "Roasts"});
-        put("per specific ingredients", new String[]{"Mushroom Recipes", "Pickles", "Stuffed Bell Peppers", "Stuffed Mushrooms", "Winter Squash_Recipes", "Yam Recipes"});
-        put("pies", new String[]{"Apple Pie", "Blueberry Pie", "Cherry Pie", "Chess Pie", "Key Lime Pie", "Mincemeat Pie", "Pecan Pie", "Pie Crusts", "Pie Recipes", "Pot Pie", "Pumpkin Pie", "Rhubarb Pie", "Shepherd's Pie", "Slab Pie", "Strawberry Pie", "Sweet Potato Pie", "Whoopie Pies", "Other"});
-        put("pizza", new String[]{"Pizza", "Pizza Dough And Crusts", "Other"});
-        put("pork", new String[]{"Ground Pork", "Pork Chops", "Pork Recipes", "Pork Ribs", "Pork Shoulder", "Pork Tenderloin", "Pulled Pork", "Other"});
-        put("preserved", new String[]{"Canning_and_Preserving", "Other"});
-        put("salads", new String[]{"Broccoli Salad", "Chicken Salad", "Coleslaw", "Egg Salad", "Fruit Salads", "Green Salads", "Pasta Salad", "Potato Salad", "Salad Dressings", "Salad Recipes", "Taco Salad", "Tomato Salad", "Tuna Salad", "Waldorf Salad", "Other"});
-        put("sea fruit", new String[]{"Etouffee", "Jambalaya", "Shrimp And Grits", "Shrimp Scampi", "Other"});
-        put("side dishes", new String[]{"Grits", "Hummus", "Jalapeno Poppers", "Meal Prep", "Pate", "Polenta", "Side Dishes", "Tapas Recipes", "Other"});
-        put("snacks & sweets", new String[]{"Appetizers And Snacks", "Bar Cookies", "Biscotti", "Biscuit", "Blintz", "Blondies", "Brownies", "Cheese Balls", "Cheese Fondue", "Chocolate Chip Cookies", "Chocolate Fudge", "Christmas Cookies", "Cinnamon Rolls", "Cobbler", "Cookies", "Creme Brulee", "Crisps And Crumbles", "Danishes", "Desserts", "Divinity", "Doughnuts", "Drop Cookies", "Energy Balls", "English Muffins", "Flan", "Fondant", "Frosting And Icing Recipes", "Fudge", "Gingerbread Cookies", "Gingersnaps", "Ice Cream", "Jams and_Jellies", "Kolache", "Lemon Bars", "Macaroons", "Mousse", "Muffins", "Nachos", "Oatmeal Cookies", "Pancakes", "Pasties", "Pastries", "Pavlova", "Peanut Butter Cookies", "Popcorn", "Popovers And Yorkshire Pudding", "Rice Pudding", "Road Trip Snacks", "Sandwich Cookies", "Seder Recipes", "Shortbread Cookies", "Snickerdoodles", "Spritz Cookies", "Strawberry Shortcake", "Sugar Cookies", "Thumbprint Cookies", "Tiramisu", "Toffee", "Tortes", "Truffles", "Waffles", "Other"});
-        put("soups", new String[]{"Borscht", "Butternut Squash Soup", "Chicken Noodle Soup", "French Onion Soup", "Gazpacho", "Gumbo", "Lentil Soup", "Minestrone Soup", "Mushroom Soup", "Potato Soup", "Soup", "Split Pea Soup", "Other"});
-        put("other", new String[]{"Other"});
-    }};
-
     private DatabaseReference mDatabase;
     // Arrays to store data received from the realtime database
     private final List<recipe> recipe_list_search = new ArrayList<>();
@@ -75,6 +43,7 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         // Create reference to the firebase real time database
         mDatabase = FirebaseDatabase.getInstance().getReference();
     }
+
 
 //    private boolean init_database_with_existing_scraped_data() {
 //        try {
@@ -115,30 +84,19 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 //        return true;
 //    }
 
-    private String getCleanStringForSearch(String input_str) {
-//        input_str = input_str.replace("\"", "").replace(" ", "");
-//        StringBuilder new_str = new StringBuilder();
-//        for (int i = 0; i < input_str.length(); i++) {
-//            if (Character.isDigit(input_str.charAt(i)) || Character.isAlphabetic(input_str.charAt(i))) {
-//                new_str.append(input_str.charAt(i));
-//            }
-//        }
-//        return new_str.toString().toLowerCase(Locale.ROOT);
-        return input_str;
-    }
 
 
+//    <TODO> Get filter data from database instead of locally.
+
+
+
+    /*
+     * Returns a DatabaseReference of the recipe in the search tree.
+     * @param name - Recipe name.
+     * */
     public DatabaseReference getToRecipeDepth(String name) {
         DatabaseReference DataRef = FirebaseDatabase.getInstance().getReference();
         if (name.length() > 0) {
-            String new_name = getCleanStringForSearch(name);
-            //            System.out.println(new_name);
-//            int len = new_name.length();
-//            DataRef = DataRef.child("search");
-//            // Max tree depth is 32
-//            for (int i = 0; i < len && i < 27; i++) {
-//                DataRef = DataRef.child(new_name.charAt(i) + "");
-//            }
             DataRef = DataRef.child("search").child(name);
         }
         return DataRef;
@@ -146,16 +104,24 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
 
     public String getAsCategoryString(String input_str) {
-//        return input_str.replace(" ", "_").replace("\"", "");
-        return input_str;
+        return input_str.replace(" ", "_").replace("\"", "");
     }
 
 
+    /*
+     * Add the recipe object and necessary data to the database(pipe).
+     * @param recipe - only value
+     * */
     public void loadDishToDatabase(recipe r) {
         addRecipeToRecipes(r);
     }
 
 
+    /*
+     * Add the recipe name to the filter tree.
+     * If the operation fails - remove already saved data related.
+     * @param recipe - only value
+     * */
     private void addRecipeToFilter(recipe r) {
         if (r != null) {
             String title = r.getTitle();
@@ -174,6 +140,11 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
     }
 
 
+    /*
+     * Add the recipe object to the recipe tree + pass it on to addRecipeToSearch.
+     * If the operation fails - remove already saved data related.
+     * @param recipe - only value
+     * */
     private void addRecipeToRecipes(recipe r) {
         if (r != null) {
             String title = r.getTitle();
@@ -202,11 +173,15 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         }
     }
 
-
+    /*
+     * Add the recipe reference to the search tree + pass it on to addRecipeToUserUploads.
+     * If the operation fails - remove already saved data related.
+     * @param recipe - object
+     * @param recipe - recipe reference in the database
+     * */
     private void addRecipeToSearch(recipe r, String mDatabaseRecipes) {
         if (mDatabaseRecipes != null) {
             String title = r.getTitle();
-//            String cleanTitle = getAsCategoryString(title);
             getToRecipeDepth(title).setValue(mDatabaseRecipes)
                     .addOnCompleteListener(task -> {
                         if (task.isSuccessful()) {
@@ -223,7 +198,12 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         }
     }
 
-
+    /*
+     * Add the recipe reference to the user own recipes tree + pass it on to addRecipeToFilter.
+     * If the operation fails - remove already saved data related.
+     * @param recipe - object
+     * @param recipe - recipe reference in the database
+     * */
     private void addRecipeToUserUploads(recipe r, String mDatabaseRecipes) {
         String title = r.getTitle();
         FirebaseDatabase.getInstance().getReference().child("users")
@@ -246,6 +226,12 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
     }
 
 
+    /*
+     * Remove the recipe reference from the user own recipes tree + pass it on to removeDataFromFilterTree.
+     * @param main_category - recipe main category
+     * @param sub_category - recipe sub category
+     * @param title - recipe name
+     * */
     private void removeDataFromUserUploads(String main_category, String sub_category, String title) {
 
         FirebaseDatabase.getInstance().getReference().child("users")
@@ -262,6 +248,13 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
                 });
     }
 
+
+    /*
+     * Remove the recipe reference from the search tree + pass it on to removeDataFromFilterTree.
+     * @param main_category - recipe main category
+     * @param sub_category - recipe sub category
+     * @param title - recipe name
+     * */
     private void removeDataFromSearchTree(String main_category, String sub_category, String title) {
         DatabaseReference mDataSearchDelete = FirebaseDatabase.getInstance().getReference().child("search").child(title);
         mDataSearchDelete.removeValue().addOnCompleteListener(task -> {
@@ -276,6 +269,12 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
     }
 
+
+    /*
+     * Remove the recipe name from the filter tree.
+     * @param main_category - recipe main category
+     * @param sub_category - recipe sub category
+     * @param title - recipe name     * */
     private void removeDataFromFilterTree(String main_category, String sub_category, String name) {
         String mainCategory = getAsCategoryString(main_category);
         String subCategory = getAsCategoryString(sub_category);
@@ -294,6 +293,12 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
     }
 
+
+    /*
+     * Remove the recipe object from the recipes tree + pass it on to removeDataFromSearchTree.
+     * @param main_category - recipe main category
+     * @param sub_category - recipe sub category
+     * @param title - recipe name     * */
     private void removeDataFromRecipesTree(String main_category, String sub_category, String title) {
         String mainCategory = getAsCategoryString(main_category);
         String subCategory = getAsCategoryString(sub_category);
@@ -314,6 +319,10 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
     }
 
 
+    /*
+     * Removes the recipe and related data from the database(pipe).
+     * @param name - recipe name
+     * */
     public void deleteRecipe(String name) {
         final DatabaseReference mDataSearch = FirebaseDatabase.getInstance().getReference().child("search").child(name);
         mDataSearch.get().addOnCompleteListener(task -> {
@@ -337,6 +346,11 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         });
     }
 
+
+    /*
+     * Create task from a request in order to fetch more then on request in a single query.
+     * @param recipeRef - database reference to get from.
+     * */
     public Task<Object> fetchDataTask(DatabaseReference recipeRef) {
         if (recipeRef != null) {
             final TaskCompletionSource<Object> taskCompletionSource = new TaskCompletionSource<>();
@@ -354,21 +368,27 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         return Tasks.forResult(null); // Return a completed task if recipeRef is null
     }
 
-    private void handleRemoveDataTask(DatabaseReference reference, TaskCompletionSource<Object> taskCompletionSource) {
-        if (reference != null) {
-            reference.removeValue((databaseError, databaseReference) -> {
-                if (databaseError == null) {
-                    taskCompletionSource.setResult(null); // Task completed successfully
-                } else {
-                    taskCompletionSource.setException(databaseError.toException()); // Task failed
-                }
-            });
-        } else {
-            taskCompletionSource.setResult(null); // Return a completed task if reference is null
-        }
-    }
+
+//    private void handleRemoveDataTask(DatabaseReference reference, TaskCompletionSource<Object> taskCompletionSource) {
+//        if (reference != null) {
+//            reference.removeValue((databaseError, databaseReference) -> {
+//                if (databaseError == null) {
+//                    taskCompletionSource.setResult(null); // Task completed successfully
+//                } else {
+//                    taskCompletionSource.setException(databaseError.toException()); // Task failed
+//                }
+//            });
+//        } else {
+//            taskCompletionSource.setResult(null); // Return a completed task if reference is null
+//        }
+//    }
 
 
+    /*
+     * Add the recipes to the right list and update the dataset.
+     * @param newRecipes - recipes to add
+     * @param listName - which list to add to
+     * */
     public void addToUserLists(Map<String, String> newRecipes, String listName) {
         String uid = FirebaseAuth.getInstance().getUid();
         if (uid != null) {
@@ -378,22 +398,24 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
                 if (dataSnapshot.exists()) {
                     User user = dataSnapshot.getValue(User.class);
                     if (user != null) {
+
+                        DatabaseReference userRef = FirebaseDatabase.getInstance()
+                                .getReference().child("users").child(uid);
+
                         switch (listName) {
                             case "recipes":
                                 user.addToUserRecipes(newRecipes);
+                                userRef.child("myRecipes").setValue(user.getMyRecipes());
                                 break;
                             case "cart":
                                 user.addToCart(newRecipes);
+                                userRef.child("cart").setValue(user.getCart());
                                 break;
                             case "liked":
                                 user.addToLiked(newRecipes);
+                                userRef.child("liked").setValue(user.getLiked());
                                 break;
                         }
-                        DatabaseReference usersRef1 = FirebaseDatabase.getInstance()
-                                .getReference().child("users").child(uid);
-                        usersRef1.setValue(user).addOnCompleteListener(task -> {
-
-                        });
                     }
                 }
             });
@@ -445,6 +467,11 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         return m;
     }
 
+
+    /*
+     * Create tasks list from a map in order to fetch more then on request in a single query.
+     * @param m - Map with string of database references as values.
+     * */
     public List<Task<Object>> getTasksFromRefMap(Map<String, String> m) {
         List<Task<Object>> tasks = new ArrayList<>();
 
@@ -460,7 +487,12 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         return tasks;
     }
 
-    public List<Task<Object>> getTasksFromDataSnapshot(DataSnapshot dataSnapshot, DatabaseReference databaseRef) {
+
+    /*
+     * Create tasks list from a DataSnapshot in order to fetch more then on request in a single query.
+     * @param m - DataSnapshot.
+     * */
+    public List<Task<Object>> getTasksFromDataSnapshot(DataSnapshot dataSnapshot) {
         List<Task<Object>> tasks = new ArrayList<>();
         if (dataSnapshot.exists()) {
 

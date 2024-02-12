@@ -20,6 +20,7 @@ import com.example.smarter_foodies.ViewModel.MainActivity;
 import com.example.smarter_foodies.ViewModel.UpdateRecipe;
 import com.example.smarter_foodies.ViewModel.WeeklyPlan;
 import com.example.smarter_foodies.ViewModel.likedRecipes;
+import com.example.smarter_foodies.ViewModel.myUploads;
 import com.example.smarter_foodies.ViewModel.profile_page;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInClient;
@@ -140,8 +141,8 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
                 overridePendingTransition(0, 0);
                 break;
 
-            case R.id.nav_update_recipe:
-                startActivity(new Intent(this, UpdateRecipe.class));
+            case R.id.nav_my_recipes:
+                startActivity(new Intent(this, myUploads.class));
                 overridePendingTransition(0, 0);
                 break;
 

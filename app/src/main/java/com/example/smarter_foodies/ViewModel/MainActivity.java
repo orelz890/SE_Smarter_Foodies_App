@@ -1,6 +1,7 @@
 package com.example.smarter_foodies.ViewModel;
 
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -11,6 +12,7 @@ import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 
+import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
@@ -29,12 +31,14 @@ import com.google.firebase.database.FirebaseDatabase;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 
 public class MainActivity extends DashboardActivity {
     private AutoCompleteTextView autoCompleteSearchView;
-    private ImageButton ib_filter,ib_refresh;
+    private ImageButton ib_filter, ib_refresh;
 
     private CRUD_RealTimeDatabaseData CRUD;
 
@@ -52,6 +56,7 @@ public class MainActivity extends DashboardActivity {
     private List<recipe> myFoodList;
 
     private int screenWidth, screenHeight;
+    public static Map<String, List<String>> categoriesAndSubs;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -70,6 +75,8 @@ public class MainActivity extends DashboardActivity {
         myFoodList = new ArrayList<>();
         category = "";
         subCategory = "";
+        categoriesAndSubs = new HashMap<>();
+
         // Get the height and width of the screen
         this.screenWidth = getResources().getDisplayMetrics().widthPixels;
         this.screenHeight = getResources().getDisplayMetrics().heightPixels;
@@ -111,40 +118,56 @@ public class MainActivity extends DashboardActivity {
         });
     }
 
-    private void fillCategoriesList() {
-        Set<String> keys = CRUD.subCategoriesList.keySet();
-        categoriesList = new String[keys.size() - 1];
-        int i = 0;
-        for (String s : keys) {
-            if (!s.isEmpty()) {
-                categoriesList[i++] = s;
-            }
-        }
-    }
 
     private void change_adapter() {
-        adapterSubCategories = new ArrayAdapter<>(this, R.layout.list_items, CRUD.subCategoriesList.get(category));
+        adapterSubCategories = new ArrayAdapter<>(this, R.layout.list_items, categoriesAndSubs.get(category));
         autoCompleteSubCategory.setAdapter(adapterSubCategories);
     }
 
+
     private void createAllAutoCompleteTextViews() {
-        fillCategoriesList();
-        category = "";
-        subCategory = "";
-        ArrayAdapter<String> adapterCategories = new ArrayAdapter<>(this, R.layout.list_items, categoriesList);
-        autoCompleteCategory.setAdapter(adapterCategories);
-        autoCompleteCategory.setOnItemClickListener((parent, view, pos, id) -> {
-            category = parent.getItemAtPosition(pos).toString();
-            Toast.makeText(getApplicationContext(), "Item: " + category, Toast.LENGTH_SHORT).show();
-            change_adapter();
-        });
-        adapterSubCategories = new ArrayAdapter<>(this, R.layout.list_items, CRUD.subCategoriesList.get(category));
-        autoCompleteSubCategory.setAdapter(adapterSubCategories);
-        autoCompleteSubCategory.setOnItemClickListener((parent, view, pos, id) -> {
-            subCategory = parent.getItemAtPosition(pos).toString();
-            Toast.makeText(getApplicationContext(), "Item: " + subCategory, Toast.LENGTH_SHORT).show();
+        // Get all recipes names from database to initialize the autoCompleteSearchBar
+        categoriesAndSubs = new HashMap<>();
+
+        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
+                .getReference().child("filter");
+        mDatabaseSearchGet.get().addOnSuccessListener(dataSnapshot -> {
+            if (dataSnapshot.exists()) {
+                recipesNamesList.clear();
+                for (DataSnapshot snapshot : dataSnapshot.getChildren()) {
+                    String category = snapshot.getKey();
+                    List<String> subs = new ArrayList<>();
+
+                    for (DataSnapshot subCategorySnapshot : snapshot.getChildren()) {
+                       String subCategory = subCategorySnapshot.getKey();
+                       subs.add(subCategory);
+                    }
+                    categoriesAndSubs.put(category, subs);
+                }
+
+                category = "";
+                subCategory = "";
+                List<String> categoriesList = new ArrayList<>(categoriesAndSubs.keySet());
+                System.out.println((categoriesList.get(0)));
+
+                ArrayAdapter<String> adapterCategories = new ArrayAdapter<String>(this, R.layout.list_items,categoriesList);
+
+                autoCompleteCategory.setAdapter(adapterCategories);
+                autoCompleteCategory.setOnItemClickListener((parent, view, pos, id) -> {
+                    category = parent.getItemAtPosition(pos).toString();
+                    Toast.makeText(getApplicationContext(), "Item: " + category, Toast.LENGTH_SHORT).show();
+                    change_adapter();
+                });
+                ArrayAdapter<String> adapterSubCategories = new ArrayAdapter<>(this, R.layout.list_items, categoriesAndSubs.get(category));
+                autoCompleteSubCategory.setAdapter(adapterSubCategories);
+                autoCompleteSubCategory.setOnItemClickListener((parent, view, pos, id) -> {
+                    subCategory = parent.getItemAtPosition(pos).toString();
+                    Toast.makeText(getApplicationContext(), "Item: " + subCategory, Toast.LENGTH_SHORT).show();
+                });
+            }
         });
     }
+
 
     // When the filter button is clicked this dialog appears.
     private void setFirstDialog() {
@@ -171,6 +194,7 @@ public class MainActivity extends DashboardActivity {
         AlertDialog dialog = builder.create();
         dialog.show();
     }
+
 
     // Set the filter names list + set adapter for the autoCompleteSearchView
     private void InitAutoCompleteSearchView() {
@@ -209,6 +233,7 @@ public class MainActivity extends DashboardActivity {
             }
         });
     }
+
 
     // When filters are chosen adjust the AutoCompleteTextViews accordingly
     private void adjustAutoCompleteFilterView() {
@@ -259,6 +284,7 @@ public class MainActivity extends DashboardActivity {
         });
     }
 
+
     public void defineRecycleView() {
         mRecyclerView = (RecyclerView) findViewById(R.id.recyclerSearchView);
 
@@ -279,6 +305,7 @@ public class MainActivity extends DashboardActivity {
         mRecyclerView.addItemDecoration(new GridSpacingItemDecoration(numCols, horizontalSpacingInPixels, verticalSpacingInPixels, true));
     }
 
+
     private void setByNameRecyclerAdapter(String recipeName) {
         // Get the recipe reference from name
         final DatabaseReference mDatabaseSearchGet = CRUD.getToRecipeDepth(recipeName);
@@ -288,7 +315,7 @@ public class MainActivity extends DashboardActivity {
                 myFoodList.clear();
 
                 // Create task to receive the actual recipe/s from the database
-                List<Task<Object>> tasks = CRUD.getTasksFromDataSnapshot(dataSnapshot, mDatabaseSearchGet);
+                List<Task<Object>> tasks = CRUD.getTasksFromDataSnapshot(dataSnapshot);
 
                 Tasks.whenAllSuccess(tasks).addOnSuccessListener(snapshots -> {
                     // Handle the results when all tasks are successful
@@ -315,14 +342,12 @@ public class MainActivity extends DashboardActivity {
                     System.out.println("setByNameRecyclerAdapter - whenAllSuccess - Failed");
                     e.printStackTrace();
                 });
-
-
             }
         });
-
     }
 
-    private void setMainRecyclerAdapter() {
+
+    public void setMainRecyclerAdapter() {
 
         // Get the actual recipes from database
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
@@ -360,6 +385,7 @@ public class MainActivity extends DashboardActivity {
         });
     }
 
+
     private void setByCategoryRecyclerAdapter(String category) {
         // Same as setMainRecyclerAdapter
         DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
@@ -385,6 +411,7 @@ public class MainActivity extends DashboardActivity {
             }
         });
     }
+
 
     private void setBySubCategoryRecyclerAdapter(String category, String subCategory) {
         // Same as setMainRecyclerAdapter

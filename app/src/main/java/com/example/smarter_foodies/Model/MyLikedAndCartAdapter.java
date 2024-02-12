@@ -21,6 +21,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.smarter_foodies.R;
 import com.example.smarter_foodies.ViewModel.RecipePage;
+import com.example.smarter_foodies.ViewModel.UpdateRecipe;
 import com.example.smarter_foodies.ViewModel.WeeklyPlan;
 import com.example.smarter_foodies.ViewModel.likedRecipes;
 import com.google.android.gms.tasks.OnSuccessListener;
@@ -41,6 +42,7 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
     private String userListName;
     private int screenWidth;
     private int screenHeight;
+
 
     public MyLikedAndCartAdapter(Context mContext, List<recipe> myFoodList, String userListName, int screenWidth, int screenHeight) {
         this.mContext = mContext;
@@ -93,7 +95,44 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
                 mContext.startActivity(intent);
             }
         });
+
+        if (userListName.equals("myUploads")) {
+            foodViewHolder.mCardView.setOnLongClickListener(new View.OnLongClickListener() {
+                @Override
+                public boolean onLongClick(View view) {
+                    setEditDialogApproval(foodViewHolder);
+                    return false;
+                }
+            });
+        }
     }
+
+
+
+    private void setEditDialogApproval(LikedAndCartFoodViewHolder foodViewHolder) {
+        AlertDialog.Builder builder = new AlertDialog.Builder(mContext, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
+        final View customLayout = activity.getLayoutInflater().inflate(R.layout.yes_no_dialog_layout, null);
+        builder.setView(customLayout);
+        builder.setCancelable(false);
+        builder.setTitle("Do you want to edit this recipe?");
+        builder.setPositiveButton("yes", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int which) {
+                Intent intent = new Intent(mContext, UpdateRecipe.class);
+                recipe r = myFoodList.get(foodViewHolder.getAdapterPosition());
+                intent.putExtra("recipeName", r.getTitle());
+                mContext.startActivity(intent);
+            }
+
+        });
+
+        builder.setNegativeButton("no", (dialogInterface, which) -> {
+
+        });
+        AlertDialog dialog = builder.create();
+        dialog.show();
+    }
+
 
     private void setDialogApproval(LikedAndCartFoodViewHolder foodViewHolder, recipe r, String listName) {
         AlertDialog.Builder builder = new AlertDialog.Builder(mContext, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
@@ -233,6 +272,7 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
         return myFoodList.size();
     }
 
+
 }
 
 
@@ -244,6 +284,7 @@ class LikedAndCartFoodViewHolder extends RecyclerView.ViewHolder {
     ImageButton mHeart;
     ImageButton mCart;
     CRUD_RealTimeDatabaseData CRUD;
+
 
     public LikedAndCartFoodViewHolder(View itemView, int screenWidth, int screenHeight) {
         super(itemView);

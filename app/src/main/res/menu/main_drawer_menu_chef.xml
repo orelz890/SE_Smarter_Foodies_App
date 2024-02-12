@@ -26,9 +26,9 @@
             android:icon="@drawable/ic_baseline_note_add_24"
             android:title="@string/add_recipe"/>
 
-        <item android:id="@+id/nav_update_recipe"
+        <item android:id="@+id/nav_my_recipes"
             android:icon="@drawable/baseline_edit_document_black_36"
-            android:title="@string/update_recipe"/>
+            android:title="@string/my_recipes"/>
 
 <!--        <item android:id="@+id/nav_person_search"-->
 <!--            android:icon="@drawable/ic_search_profile"-->

@@ -14,6 +14,7 @@ import android.os.Bundle;
 import android.text.InputType;
 import android.text.TextUtils;
 import android.util.Base64;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -63,6 +64,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.Objects;
 import java.util.Set;
 
@@ -72,7 +74,7 @@ public class UpdateRecipe extends DashboardActivity {
     private FirebaseAuth mAuth;
     // These strings role is to help us sync between what the user see in the sub category
     // AutoCompleteTextView and his choice of main category
-    private String[] categoriesList;
+//    private String[] categoriesList;
     private String category = "";
     private String subCategory = "";
     private String recipeToUpdateName = "";
@@ -118,6 +120,7 @@ public class UpdateRecipe extends DashboardActivity {
     private static ArrayList<String> selectedIngredients;
     private static ListView listView;
     private static ListViewAdapter adapter;
+    private Map<String, List<String>> categoriesAndSubs;
 
 
 
@@ -133,6 +136,7 @@ public class UpdateRecipe extends DashboardActivity {
 
         // Prepared CRUD functions to the database
         CRUD = new CRUD_RealTimeDatabaseData();
+        fillCategoriesAndSubs();
 
         // Create reference to the firebase real time database
         mDatabase = FirebaseDatabase.getInstance().getReference();
@@ -144,16 +148,55 @@ public class UpdateRecipe extends DashboardActivity {
         imageViews = new ArrayList<>();
 
 
-        // Get the name of the recipe from user
-        setDialogGetRecipeName();
+//        // Get the name of the recipe from user
+//        setDialogGetRecipeName();
 
-        // Fill the categories list which the user can chose from
-        fillCategoriesList();
+        String receivedString = getIntent().getStringExtra("recipeName");
 
-        // Set the view
-        createAllAutoCompleteTextViews("", "");
-        createAllNumberPickers();
-        createButtons();
+        if (receivedString != null && !receivedString.isEmpty()) {
+            // Do something with the received string
+            Log.d("SecondActivity", "Received String: " + receivedString);
+
+            recipeToUpdateName = receivedString;
+            createAllButtons();
+            setImageButtons(recipeToUpdateName);
+
+            // Set the view
+            createAllNumberPickers();
+            createButtons();
+        }
+        else {
+            Log.d("SecondActivity", "No String received");
+            Toast.makeText(getApplicationContext(), "Recipe not found",Toast.LENGTH_LONG).show();
+            startActivity(new Intent(UpdateRecipe.this, myUploads.class));
+
+        }
+
+
+
+    }
+
+    private void fillCategoriesAndSubs(){
+        categoriesAndSubs = new HashMap<>();
+
+        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
+                .getReference().child("filter");
+        mDatabaseSearchGet.get().addOnSuccessListener(dataSnapshot -> {
+            if (dataSnapshot.exists()) {
+                for (DataSnapshot snapshot : dataSnapshot.getChildren()) {
+                    String category = snapshot.getKey();
+                    List<String> subs = new ArrayList<>();
+
+                    for (DataSnapshot subCategorySnapshot : snapshot.getChildren()) {
+                        String subCategory = subCategorySnapshot.getKey();
+                        subs.add(subCategory);
+                    }
+                    categoriesAndSubs.put(category, subs);
+                    createAllAutoCompleteTextViews();
+
+                }
+            }
+        });
 
     }
 
@@ -358,6 +401,7 @@ public class UpdateRecipe extends DashboardActivity {
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
         try {
             super.onActivityResult(requestCode, resultCode, data);
+
             if (data != null) {
                 int size = myImages.size();
                 if (size < 4) {
@@ -390,60 +434,14 @@ public class UpdateRecipe extends DashboardActivity {
 
     }
 
-    private void fillCategoriesList() {
-        Set<String> keys = CRUD.subCategoriesList.keySet();
-        categoriesList = new String[keys.size() - 1];
-        int i = 0;
-        for (String s : keys) {
-            if (!s.isEmpty()) {
-                categoriesList[i++] = s;
-            }
-        }
-    }
 
-    private void change_adapter() {
-        autoCompleteSubCategory.setText("");
-        adapterSubCategories = new ArrayAdapter<String>(this, R.layout.list_items, CRUD.subCategoriesList.get(category));
-        autoCompleteSubCategory.setAdapter(adapterSubCategories);
-    }
+    private void createAllAutoCompleteTextViews() {
 
-    private void change_adapter_to_original_values() {
-        autoCompleteCategory.setText(this.category);
-        adapterCategories = new ArrayAdapter<>(this, R.layout.list_items, categoriesList);
-        autoCompleteCategory.setAdapter(adapterCategories);
-        autoCompleteSubCategory.setText(this.subCategory);
-        adapterSubCategories = new ArrayAdapter<String>(this, R.layout.list_items, CRUD.subCategoriesList.get(category));
-        autoCompleteSubCategory.setAdapter(adapterSubCategories);
-    }
-
-    private void createAllAutoCompleteTextViews(String main_category, String sub_category) {
-        System.out.println(main_category);
-        System.out.println(sub_category);
         autoCompleteCategory = findViewById(R.id.auto_complete_category);
-        if (!main_category.isEmpty()) {
-            autoCompleteCategory.setText(main_category);
-        }
-        adapterCategories = new ArrayAdapter<>(this, R.layout.list_items, categoriesList);
-        autoCompleteCategory.setAdapter(adapterCategories);
-        autoCompleteCategory.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
-                category = parent.getItemAtPosition(pos).toString();
-                Toast.makeText(getApplicationContext(), "Item: " + category, Toast.LENGTH_LONG).show();
-                change_adapter();
-            }
-        });
+        autoCompleteCategory.setEnabled(false);
 
         autoCompleteSubCategory = findViewById(R.id.auto_complete_sub_category);
-        adapterSubCategories = new ArrayAdapter<String>(this, R.layout.list_items, CRUD.subCategoriesList.get(category));
-        autoCompleteSubCategory.setAdapter(adapterSubCategories);
-        autoCompleteSubCategory.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> parent, View view, int pos, long id) {
-                subCategory = parent.getItemAtPosition(pos).toString();
-                Toast.makeText(getApplicationContext(), "Item: " + subCategory, Toast.LENGTH_LONG).show();
-            }
-        });
+        autoCompleteSubCategory.setEnabled(false);
     }
 
     // When entering the page ask for the recipe name
@@ -630,30 +628,25 @@ public class UpdateRecipe extends DashboardActivity {
         }
     }
 
-    private void setCategories(String main, String sub) {
-        this.category = main;
-        this.subCategory = sub;
-    }
 
     private void setKnownDataToTextViews(String name) {
-        // Search recipe by name
-        final DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference().child("search");
+        // Search recipe by name to get the reference to the actual recipe
+        final DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference().child("search").child(name);
         mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
             @Override
             public void onSuccess(DataSnapshot dataSnapshot) {
                 if (dataSnapshot.exists()) {
-                    // Got the reference to the actual recipe/s so create the task to get the actual recipe
-                    List<Task<Object>> tasks = CRUD.getTasksFromDataSnapshot(dataSnapshot, mDatabaseSearchGet);
+                    // Got the reference to the actual recipe
+                    String refToRecipe = dataSnapshot.getValue(String.class);
 
-                    // Execute the task
-                    Tasks.whenAllSuccess(tasks).addOnSuccessListener(new OnSuccessListener<List<Object>>() {
-                        @Override
-                        public void onSuccess(List<Object> snapshots) {
-                            // Handle the results when all tasks are successful
-                            for (Object snapshot : snapshots) {
-                                if (snapshot instanceof DataSnapshot) {
-                                    DataSnapshot dataSnapshot = (DataSnapshot) snapshot;
-                                    // Process each user's data
+                    // Now get the recipe details
+                    if (refToRecipe != null) {
+                        FirebaseDatabase.getInstance().getReference().child(refToRecipe).get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
+                            @Override
+                            public void onSuccess(DataSnapshot dataSnapshot) {
+                                if (dataSnapshot.exists()) {
+
+                                    // Actual recipe from database
                                     recipe r = dataSnapshot.getValue(recipe.class);
                                     if (r != null) {
                                         try {
@@ -668,8 +661,7 @@ public class UpdateRecipe extends DashboardActivity {
                                                         Toast.LENGTH_LONG).show();
                                                 setDialogGetRecipeName();
                                             }
-                                        }
-                                        catch (Exception e){
+                                        } catch (Exception e) {
                                             System.out.println(e.getStackTrace().toString());
                                             e.printStackTrace();
                                             Toast.makeText(getApplicationContext(),
@@ -680,16 +672,15 @@ public class UpdateRecipe extends DashboardActivity {
                                     }
                                 }
                             }
-
-                        }
-                    }).addOnFailureListener(new OnFailureListener() {
-                        @Override
-                        public void onFailure(@NonNull Exception e) {
-                            // Handle failure
-                            System.out.println("UpdateRecipe - setKnownDataToTextViews - whenAllSuccess - Failed");
-                            e.printStackTrace();
-                        }
-                    });
+                        }).addOnFailureListener(new OnFailureListener() {
+                            @Override
+                            public void onFailure(@NonNull Exception e) {
+                                // Handle failure
+                                System.out.println("UpdateRecipe - setKnownDataToTextViews - whenAllSuccess - Failed");
+                                e.printStackTrace();
+                            }
+                        });
+                    }
 
                 } else {
                     Toast.makeText(getApplicationContext(),
@@ -741,8 +732,8 @@ public class UpdateRecipe extends DashboardActivity {
         category = r.getMain_category();
         subCategory = r.getCategory();
 
-        // Set auto complete text boxes
-        change_adapter_to_original_values();
+        autoCompleteCategory.setText(category);
+        autoCompleteSubCategory.setText(subCategory);
 
         // Set Details
         npCookingTime.setValue(reverseCalcTime(r.getCookingTime()));
