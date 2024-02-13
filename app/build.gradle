@@ -61,7 +61,7 @@ dependencies {
     implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.5.1'
     implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1'
     implementation 'com.google.android.gms:play-services-auth:20.4.0'
-    implementation 'com.google.firebase:firebase-database:20.1.0'
+    implementation 'com.google.firebase:firebase-database:latest'
     implementation 'javax.mail:mail:1.4.7'
 
     implementation 'com.google.auth:google-auth-library-oauth2-http:1.11.0'

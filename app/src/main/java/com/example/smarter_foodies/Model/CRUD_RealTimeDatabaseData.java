@@ -85,11 +85,6 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 //    }
 
 
-
-//    <TODO> Get filter data from database instead of locally.
-
-
-
     /*
      * Returns a DatabaseReference of the recipe in the search tree.
      * @param name - Recipe name.

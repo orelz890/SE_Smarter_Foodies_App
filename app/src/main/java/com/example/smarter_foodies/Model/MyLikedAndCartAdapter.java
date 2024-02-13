@@ -64,6 +64,8 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
     @Override
     public void onBindViewHolder(@NonNull LikedAndCartFoodViewHolder foodViewHolder, int i) {
         recipe recipe = myFoodList.get(i);
+
+        // Set the recipe image
         if (!myFoodList.get(i).getImages().isEmpty()) {
             List<String> images = recipe.getImages();
             if (images.get(images.size() - 1).startsWith("https:")) {
@@ -80,6 +82,8 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
         else{
             foodViewHolder.imageView.setImageResource(R.drawable.iv_no_images_available);
         }
+
+        // Set recipe details
         foodViewHolder.mTitle.setText(recipe.getTitle());
         foodViewHolder.mAdditional.setText(recipe.getMain_category() + "- " + recipe.getCategory());
 
@@ -96,7 +100,8 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
             }
         });
 
-        if (userListName.equals("myUploads")) {
+        // Set edit ability for myRecipes Fragment case
+        if (userListName.equals("myRecipesFragment")) {
             foodViewHolder.mCardView.setOnLongClickListener(new View.OnLongClickListener() {
                 @Override
                 public boolean onLongClick(View view) {
@@ -104,11 +109,18 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
                     return false;
                 }
             });
+            // Disable the ability to like/add to cart from my recipes list
+            foodViewHolder.mCart.setVisibility(View.GONE);
+            foodViewHolder.mHeart.setVisibility(View.GONE);
+        }
+        else {
+            // Restore the ability to like/add to cart from other lists
+            foodViewHolder.mCart.setVisibility(View.VISIBLE);
+            foodViewHolder.mHeart.setVisibility(View.VISIBLE);
         }
     }
 
-
-
+    // Dialog for myRecipesFragment long click case
     private void setEditDialogApproval(LikedAndCartFoodViewHolder foodViewHolder) {
         AlertDialog.Builder builder = new AlertDialog.Builder(mContext, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
         final View customLayout = activity.getLayoutInflater().inflate(R.layout.yes_no_dialog_layout, null);
@@ -133,7 +145,7 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
         dialog.show();
     }
 
-
+    // Dialog to remove liked/carted recipe
     private void setDialogApproval(LikedAndCartFoodViewHolder foodViewHolder, recipe r, String listName) {
         AlertDialog.Builder builder = new AlertDialog.Builder(mContext, androidx.appcompat.R.style.Base_V7_Theme_AppCompat_Dialog);
         final View customLayout = activity.getLayoutInflater().inflate(R.layout.yes_no_dialog_layout, null);
@@ -147,11 +159,14 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
                 if (listName.equals("liked")) {
                     foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_not_filled);
                     foodViewHolder.CRUD.removeFromUserLists(singleValueList, "liked");
-                    if (userListName.equals("liked")){
+                    if (userListName.equals("liked") || userListName.equals("likedFragment")){
                         myFoodList.remove(r);
                         MyLikedAndCartAdapter.super.notifyDataSetChanged();
-                        likedRecipes likedActivity = (likedRecipes) activity;
-                        likedActivity.setRecipeCountViews(myFoodList.size());
+
+                        if (userListName.equals("liked")){
+                            likedRecipes likedActivity = (likedRecipes) activity;
+                            likedActivity.setRecipeCountViews(myFoodList.size());
+                        }
                     }
                     else{
                         foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_not_filled);
@@ -160,13 +175,16 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
                 else if (listName.equals("cart")){
                     foodViewHolder.mCart.setImageResource(R.drawable.ic_baseline_add_shopping_cart_24_not_added);
                     foodViewHolder.CRUD.removeFromUserLists(singleValueList, "cart");
-                    if (userListName.equals("cart")){
+                    if (userListName.equals("cart") || userListName.equals("cartFragment")){
                         myFoodList.remove(r);
                         MyLikedAndCartAdapter.super.notifyDataSetChanged();
+
 //                        Cart cartActivity = (Cart) activity;
 //                        cartActivity.setRecipeCountViews(myFoodList.size());
-                        WeeklyPlan weeklyPlan = (WeeklyPlan) activity;
-                        weeklyPlan.setRecipeCountViews(myFoodList.size());
+                        if (userListName.equals("cart")){
+                            WeeklyPlan weeklyPlan = (WeeklyPlan) activity;
+                            weeklyPlan.setRecipeCountViews(myFoodList.size());
+                        }
                     }
                     else{
                         foodViewHolder.mCart.setImageResource(R.drawable.ic_baseline_add_shopping_cart_24_not_added);
@@ -183,6 +201,7 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
     }
 
 
+    // Sets the cart and like image views to enable saving/removing a recipe
     public void setImageButtons(LikedAndCartFoodViewHolder foodViewHolder, String uid, recipe recipe){
         if (uid != null) {
             DatabaseReference usersRef = FirebaseDatabase.getInstance()
@@ -235,7 +254,7 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
                     });
                 }
             }
-        });
+        }); // Like image view is set
 
         foodViewHolder.mCart.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -263,7 +282,7 @@ public class MyLikedAndCartAdapter extends RecyclerView.Adapter<LikedAndCartFood
                     });
                 }
             }
-        });
+        }); // Cart image view is set
 
     }
 
@@ -296,15 +315,15 @@ class LikedAndCartFoodViewHolder extends RecyclerView.ViewHolder {
         mHeart = itemView.findViewById(R.id.ib_like_recycler);
         mCart = itemView.findViewById(R.id.ib_add_to_cart);
 
-        // Calculate the desired width and height for the CardView
-        int desiredWidth = (int) (screenWidth);
-//        int desiredHeight = (int) (screenHeight * 0.1);
-
-        // Set the dimensions for the CardView programmatically
-        ViewGroup.LayoutParams layoutParams = mCardView.getLayoutParams();
-        layoutParams.width = desiredWidth;
-//        layoutParams.height = desiredHeight;
-
-        mCardView.setLayoutParams(layoutParams);
+//        // Calculate the desired width and height for the CardView
+//        int desiredWidth = (int) (screenWidth);
+////        int desiredHeight = (int) (screenHeight * 0.1);
+//
+//        // Set the dimensions for the CardView programmatically
+//        ViewGroup.LayoutParams layoutParams = mCardView.getLayoutParams();
+//        layoutParams.width = desiredWidth;
+////        layoutParams.height = desiredHeight;
+//
+//        mCardView.setLayoutParams(layoutParams);
     }
 }
