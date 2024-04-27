@@ -1,8 +1,10 @@
 package com.example.smarter_foodies.Model;
 
+import android.content.Context;
 import android.content.res.AssetManager;
 import android.os.Bundle;
 import android.util.Log;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -492,7 +494,10 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         if (dataSnapshot.exists()) {
 
             for (DataSnapshot child : dataSnapshot.getChildren()) {
-                DatabaseReference ref;
+                DatabaseReference ref = null;
+                System.out.println("\n\nChild: " + child + "\n\n");
+                System.out.println("\n\nType of child.getValue(): " + child.getValue().getClass().getSimpleName() + "\n\n");
+
                 if (child.getValue() instanceof String) {
                     String refString = child.getValue(String.class);
                     if (refString != null) {
@@ -503,14 +508,78 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
                 } else if (child.getValue() instanceof DatabaseReference) {
                     ref = child.getValue(DatabaseReference.class);
 
-                } else {
+                } else if (child.getValue() instanceof HashMap){
+                    try {
+                        System.out.println("\n\nim in\n\n");
+                        report rep = child.getValue(report.class);
+                        if (rep != null) {
+                            System.out.println("\n\nreported: " + rep.getRecipe_ref() + "\n\n");
+
+                            ref = FirebaseDatabase.getInstance().getReference().child(rep.getRecipe_ref());
+                        }
+                    } catch (Exception e){
+                        e.printStackTrace();
+                    }
+                }
+                else {
                     continue;
                 }
-                Task<Object> task = fetchDataTask(ref);
-                tasks.add(task);
+                if (ref != null) {
+                    Task<Object> task = fetchDataTask(ref);
+                    tasks.add(task);
+                }
             }
         }
         return tasks;
+    }
+
+
+    public void sendReport(report report, String title, Context mContext) {
+        FirebaseDatabase.getInstance().getReference().child("reports")
+                .child(title)
+                .setValue(report)
+                .addOnCompleteListener(task -> {
+                    if (task.isSuccessful()){
+                        Toast.makeText(mContext, "Thank you for helping us to keep the app clean!", Toast.LENGTH_SHORT).show();
+                    }
+                    else {
+                        Log.d("MyAdapter","reports - set - not successful");
+                        System.out.println("\n\nreports - set - not successful\n\n" + task.getException());
+                    }
+                }).addOnFailureListener(new OnFailureListener() {
+                    @Override
+                    public void onFailure(@NonNull Exception e) {
+                        e.printStackTrace();
+                    }
+                });
+    }
+
+
+    public void banUser(Context mContext, String uid, String recipeName){
+        // Ban the user from logging in to his account
+        final DatabaseReference databaseReference = FirebaseDatabase.getInstance()
+                .getReference().child("users").child(uid).child("ban");
+        databaseReference.setValue(true).addOnSuccessListener(new OnSuccessListener<Void>() {
+            @Override
+            public void onSuccess(Void unused) {
+                Toast.makeText(mContext, "Account: " + uid + " is banned!", Toast.LENGTH_SHORT).show();
+            }
+        }).addOnFailureListener(new OnFailureListener() {
+            @Override
+            public void onFailure(@NonNull Exception e) {
+                Toast.makeText(mContext, "Failed to ban Account: " + uid + ".\n" + e.getMessage(), Toast.LENGTH_SHORT).show();
+            }
+        });
+
+        // Delete the reported recipe
+        if (!recipeName.isEmpty()) {
+            deleteRecipe(recipeName);
+        }
+
+        // Remove from reports
+        final DatabaseReference databaseReference2 = FirebaseDatabase.getInstance()
+                .getReference().child("reports").child(recipeName);
+        databaseReference2.removeValue();
     }
 }
 

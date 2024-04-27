@@ -1,10 +1,5 @@
 package com.example.smarter_foodies.ViewModel;
 
-import androidx.annotation.NonNull;
-import androidx.recyclerview.widget.GridLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
-import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,14 +7,22 @@ import android.view.View;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.recyclerview.widget.DividerItemDecoration;
+import androidx.recyclerview.widget.GridLayoutManager;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
+import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 import com.example.smarter_foodies.DashboardActivity;
 import com.example.smarter_foodies.Model.CRUD_RealTimeDatabaseData;
 import com.example.smarter_foodies.Model.MyLikedAndCartAdapter;
 import com.example.smarter_foodies.Model.RecipePageFunctions;
+import com.example.smarter_foodies.Model.ReportsAdapter;
 import com.example.smarter_foodies.Model.User;
 import com.example.smarter_foodies.Model.recipe;
+import com.example.smarter_foodies.Model.report;
 import com.example.smarter_foodies.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
@@ -27,25 +30,27 @@ import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
 import com.google.android.gms.tasks.Tasks;
 import com.google.firebase.auth.FirebaseAuth;
+
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
 
 
-public class likedRecipes extends DashboardActivity {
+public class reportedRecipes extends DashboardActivity {
 
     FirebaseAuth mAuth;
     CRUD_RealTimeDatabaseData CRUD;
     RecyclerView mRecyclerView;
-    List<recipe> myFoodList;
+    List<recipe> myReportedList;
     SwipeRefreshLayout swipeRefreshLayout;
-    MyLikedAndCartAdapter myAdapter;
+    ReportsAdapter myAdapter;
     ImageButton imageButton;
     TextView tvRecipeCount;
 
@@ -58,39 +63,23 @@ public class likedRecipes extends DashboardActivity {
         LinearLayout rootLayout = new LinearLayout(this);
         rootLayout.setOrientation(LinearLayout.VERTICAL);
         View activityMainView = LayoutInflater.from(this)
-                .inflate(R.layout.activity_liked_recipes, rootLayout, false);
+                .inflate(R.layout.activity_reported_recipes, rootLayout, false);
         rootLayout.addView(activityMainView);
         setContentView(rootLayout);
-        allocateActivityTitle("Liked");
+        allocateActivityTitle("Reports");
 
-        myFoodList = new ArrayList<>();
+        myReportedList = new ArrayList<>();
 
         setSwipeRefresh();
         setTextViews();
         setRecycleView();
-        setImageButtons();
-
     }
 
     private void setTextViews() {
         tvRecipeCount = findViewById(R.id.tv_recipe_count);
-        if (myFoodList != null) {
-            tvRecipeCount.setText(myFoodList.size() + " recipes");
+        if (myReportedList != null) {
+            tvRecipeCount.setText(myReportedList.size() + " recipes");
         }
-    }
-
-    private void setImageButtons() {
-        imageButton = findViewById(R.id.ib_mystery_box_up);
-        imageButton.setOnClickListener(view -> {
-            int size = myFoodList.size();
-            Random ran = new Random();
-            int index = ran.nextInt(size);
-            Intent intent = new Intent(likedRecipes.this, RecipePage.class);
-            recipe res= myFoodList.get(index);
-            RecipePageFunctions.setIntentContent(intent,res);
-            startActivity(intent);
-        });
-
     }
 
 
@@ -100,9 +89,9 @@ public class likedRecipes extends DashboardActivity {
             @Override
             public void onRefresh() {
                 if (myAdapter != null) {
-                    Collections.shuffle(myFoodList);
+                    Collections.shuffle(myReportedList);
                     myAdapter.notifyDataSetChanged();
-                    setRecipeCountViews(myFoodList.size());
+                    setRecipeCountViews(myReportedList.size());
                     swipeRefreshLayout.setRefreshing(false);
                 }
             }
@@ -110,55 +99,73 @@ public class likedRecipes extends DashboardActivity {
     }
 
     private void setRecycleView() {
-        mRecyclerView = (RecyclerView) findViewById(R.id.recyclerLikedView);
+        mRecyclerView = (RecyclerView) findViewById(R.id.recyclerReportedView);
 
-        GridLayoutManager gridLayoutManager = new GridLayoutManager(likedRecipes.this, 1);
+
+        // Creating spacing between items
+//        LinearLayoutManager layoutManager = new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false);
+//        mRecyclerView.setLayoutManager(layoutManager);
+//
+//        DividerItemDecoration dividerItemDecoration = new DividerItemDecoration(mRecyclerView.getContext(),
+//                layoutManager.getOrientation());
+//        mRecyclerView.addItemDecoration(dividerItemDecoration);
+
+        int horizontalSpacing = getResources().getDimensionPixelSize(R.dimen.horizontal_spacing); // Adjust as needed
+        int verticalSpacing = getResources().getDimensionPixelSize(R.dimen.vertical_spacing); // Adjust as needed
+        boolean includeEdge = true; // Adjust based on your layout
+
+
+        GridLayoutManager gridLayoutManager = new GridLayoutManager(reportedRecipes.this, 1);
         mRecyclerView.setLayoutManager(gridLayoutManager);
 
+        GridSpacingItemDecoration itemDecoration = new GridSpacingItemDecoration(1, horizontalSpacing, verticalSpacing, includeEdge);
+        mRecyclerView.addItemDecoration(itemDecoration);
+
+
+        // Set the items
         setRecycler();
     }
 
 
     private void setRecycler() {
-        myFoodList = new ArrayList<>();
+        myReportedList = new ArrayList<>();
         String uid = FirebaseAuth.getInstance().getUid();
         if (uid != null) {
             final DatabaseReference databaseReference = FirebaseDatabase.getInstance()
-                    .getReference().child("users").child(uid);
+                    .getReference().child("reports");
             databaseReference.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
                 @Override
                 public void onSuccess(DataSnapshot dataSnapshot) {
                     if (dataSnapshot.exists()) {
-                        User user = dataSnapshot.getValue(User.class);
-                        if (user != null) {
-                            List<Task<Object>> tasks = CRUD.getTasksFromRefMap(user.getLiked());
+                        System.out.println("\n\n" + dataSnapshot + "\n\n");
+                        List<Task<Object>> tasks = CRUD.getTasksFromDataSnapshot(dataSnapshot);
 
-                            Tasks.whenAllSuccess(tasks).addOnSuccessListener(new OnSuccessListener<List<Object>>() {
-                                @Override
-                                public void onSuccess(List<Object> snapshots) {
-                                    // Handle the results when all tasks are successful
+                        Tasks.whenAllSuccess(tasks).addOnSuccessListener(new OnSuccessListener<List<Object>>() {
+                            @Override
+                            public void onSuccess(List<Object> snapshots) {
+                                // Handle the results when all tasks are successful
 
-                                    handleSuccess(tasks, databaseReference.child("liked"), user.getLiked());
-                                }
-                            }).addOnFailureListener(new OnFailureListener() {
-                                @Override
-                                public void onFailure(@NonNull Exception e) {
-                                    // Handle failure
-                                    System.out.println("likedRecipes - setRecycler - whenAllSuccess - Failed");
-                                    e.printStackTrace();
-                                }
-                            });
+                                handleSuccess(tasks);
+                            }
+                        }).addOnFailureListener(new OnFailureListener() {
+                            @Override
+                            public void onFailure(@NonNull Exception e) {
+                                // Handle failure
+                                System.out.println("likedRecipes - setRecycler - whenAllSuccess - Failed");
+                                e.printStackTrace();
+                            }
+                        });
 
-                        }
+
                     }
                 }
             });
         }
     }
 
-    private void handleSuccess(List<Task<Object>> tasks, DatabaseReference databaseRef, Map<String,String> liked) {
+    private void handleSuccess(List<Task<Object>> tasks) {
         // Fill myFoodList with the recipes received.
-        myFoodList.clear();
+        myReportedList.clear();
         for (int i = 0; i < tasks.size(); i++) {
             Object snapshot = tasks.get(i).getResult();
             if (snapshot instanceof DataSnapshot) {
@@ -166,31 +173,22 @@ public class likedRecipes extends DashboardActivity {
                 // Process each user's data
                 recipe r = dataSnapshot.getValue(recipe.class);
                 if (r != null) {
-                    myFoodList.add(r);
-                    liked.remove(r.getTitle());
+                    myReportedList.add(r);
                 }
             }
         }
-        // Remove redundant child's - their actual recipe was deleted
-        for (String k : liked.keySet()) {
-            databaseRef.child(k).removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
-                @Override
-                public void onComplete(@NonNull Task<Void> task) {
-                    System.out.println("Removed redundant child");
-                }
-            });
-        }
-        // Show result in view
-        if (myFoodList != null && myFoodList.size() > 0){
 
-            tvRecipeCount.setText(myFoodList.size() + " recipes");
-            Collections.shuffle(myFoodList);
+        // Show result in view
+        if (myReportedList != null && myReportedList.size() > 0){
+
+            tvRecipeCount.setText(myReportedList.size() + " recipes");
+            Collections.shuffle(myReportedList);
 
             // Get the height and width of the screen
             int screenWidth = getResources().getDisplayMetrics().widthPixels;
             int screenHeight = getResources().getDisplayMetrics().heightPixels;
 
-            myAdapter = new MyLikedAndCartAdapter(likedRecipes.this, myFoodList, "liked", screenWidth, screenHeight);
+            myAdapter = new ReportsAdapter(reportedRecipes.this, myReportedList, screenWidth, screenHeight, CRUD);
             mRecyclerView.setAdapter(myAdapter);
         }
 
@@ -198,10 +196,11 @@ public class likedRecipes extends DashboardActivity {
 
 
     public void setRecipeCountViews(int num) {
-        if (myFoodList != null) {
+        if (myReportedList != null) {
             tvRecipeCount.setText(num + " recipes");
         }
     }
+
 
 
 }

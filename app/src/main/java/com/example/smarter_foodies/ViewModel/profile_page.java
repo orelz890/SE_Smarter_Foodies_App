@@ -4,23 +4,28 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
-import androidx.fragment.app.FragmentPagerAdapter;
 import androidx.fragment.app.FragmentStatePagerAdapter;
 import androidx.viewpager.widget.ViewPager;
-
 import android.content.ContentResolver;
 import android.content.Intent;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.net.Uri;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Looper;
+import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.MimeTypeMap;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.PopupWindow;
+import android.widget.TextView;
 import android.widget.Toast;
-
 import com.example.smarter_foodies.DashboardActivity;
+import com.example.smarter_foodies.Model.ProfileTabFragment;
 import com.example.smarter_foodies.Model.User;
 import com.example.smarter_foodies.R;
 import com.github.drjacky.imagepicker.ImagePicker;
@@ -161,6 +166,64 @@ public class profile_page extends DashboardActivity {
         // Connect the ViewPager to the TabLayout
         tabLayout.setupWithViewPager(viewPager);
 
+        tabLayout.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
+            @Override
+            public void onTabSelected(TabLayout.Tab tab) {
+
+                ProfileTabFragment currentFragment = pagerAdapter.getCurrentFragment(tab.getPosition());
+                if (currentFragment != null){
+                    ShowRecipeCount(viewPager, tabLayout, currentFragment.getRecipeCount());
+                }
+            }
+
+            @Override
+            public void onTabUnselected(TabLayout.Tab tab) {
+
+            }
+
+            @Override
+            public void onTabReselected(TabLayout.Tab tab) {
+                ProfileTabFragment currentFragment = pagerAdapter.getCurrentFragment(tab.getPosition());
+                if (currentFragment != null){
+                    ShowRecipeCount(viewPager, tabLayout, currentFragment.getRecipeCount());
+                }
+            }
+        });
+
+    }
+
+    private void ShowRecipeCount(ViewPager viewPager, TabLayout tabLayout, int recipeCount) {
+        final View popupView = getLayoutInflater().inflate(R.layout.popup_content_layout, null);
+        final TextView popupNumberTextView = popupView.findViewById(R.id.popupNumber);
+
+        final PopupWindow popupWindow = new PopupWindow(
+                popupView,
+                ViewGroup.LayoutParams.WRAP_CONTENT,
+                ViewGroup.LayoutParams.WRAP_CONTENT,
+                true
+        );
+
+        // Set the background drawable to dismiss the popup when touched outside
+        popupWindow.setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
+
+        // Set the animation style if desired
+        popupWindow.setAnimationStyle(R.anim.popup_animation_recipe_count);
+
+        // Tab selected, show the popup window
+        popupNumberTextView.setText(String.valueOf(recipeCount) + " Recipes");
+        int[] location = new int[2];
+        viewPager.getLocationOnScreen(location);
+
+        popupWindow.showAtLocation(tabLayout, Gravity.VERTICAL_GRAVITY_MASK | Gravity.END, location[0], location[1]);
+
+        // Dismiss the popup window after 2 seconds
+        new Handler(Looper.getMainLooper()).postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                popupWindow.dismiss();
+            }
+        }, 2000);
+
     }
 
 
@@ -168,24 +231,26 @@ public class profile_page extends DashboardActivity {
     private static class PagerAdapter extends FragmentStatePagerAdapter {
 
         private final String[] tabTitles = {"Likes", "Uploads", "Cart"};
+        private ProfileTabFragment[] fragments;
 
         PagerAdapter(FragmentManager fm) {
 
             super(fm, BEHAVIOR_SET_USER_VISIBLE_HINT);
-//            super.
+            fragments = new ProfileTabFragment[3];
         }
-
-
 
         @Override
         public Fragment getItem(int position) {
             switch (position) {
                 case 0:
-                    return new likedFragment();
+                    fragments[0] = new likedFragment();
+                    return fragments[0];
                 case 1:
-                    return new myRecipesFragment();
+                    fragments[1] = new myRecipesFragment();
+                    return fragments[1];
                 case 2:
-                    return new cartFragment();
+                    fragments[2] = new cartFragment();
+                    return fragments[2];
 
                 default:
                     return null;
@@ -201,6 +266,13 @@ public class profile_page extends DashboardActivity {
         public CharSequence getPageTitle(int position) {
             // Return the title for each tab
             return tabTitles[position];
+        }
+
+        public ProfileTabFragment getCurrentFragment(int pos){
+            if (pos >= 0 && pos < 3) {
+                return fragments[pos];
+            }
+            return null;
         }
 
     }

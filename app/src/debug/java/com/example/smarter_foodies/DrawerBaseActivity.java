@@ -17,14 +17,17 @@ import com.example.smarter_foodies.ViewModel.AddRecipe;
 import com.example.smarter_foodies.ViewModel.ApplyChef;
 import com.example.smarter_foodies.ViewModel.LoginGoogle;
 import com.example.smarter_foodies.ViewModel.MainActivity;
+import com.example.smarter_foodies.ViewModel.SearchActivity;
 import com.example.smarter_foodies.ViewModel.UpdateRecipe;
 import com.example.smarter_foodies.ViewModel.WeeklyPlan;
 import com.example.smarter_foodies.ViewModel.likedRecipes;
 import com.example.smarter_foodies.ViewModel.myUploads;
 import com.example.smarter_foodies.ViewModel.profile_page;
+import com.example.smarter_foodies.ViewModel.reportedRecipes;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInClient;
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
+import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationView;
 import com.google.firebase.auth.FirebaseAuth;
 
@@ -34,22 +37,28 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
 
 
     boolean isChef = false;
+    boolean isAdmin = false;
     boolean flag = false;
     ActionBarDrawerToggle toggle = null;
     NavigationView navigationView = null;
     Toolbar toolbar = null;
 
+
     @Override
     public void setContentView(View view) {
         if (flag) {
-            if (isChef) {
-                if (navigationView != null) {
-                    navigationView.getMenu().clear();
-                    navigationView.inflateMenu(R.menu.main_drawer_menu_chef);
-                }
-            } else {
-                if (navigationView != null) {
-                    navigationView.getMenu().clear();
+            if (navigationView != null) {
+                navigationView.getMenu().clear();
+
+                if (isChef) {
+                    if (isAdmin) {
+                        navigationView.inflateMenu(R.menu.main_drawer_menu_admin);
+                    }
+                    else {
+                        navigationView.inflateMenu(R.menu.main_drawer_menu_chef);
+                    }
+
+                } else {
                     navigationView.inflateMenu(R.menu.main_drawer_menu_basic);
                 }
             }
@@ -84,24 +93,94 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
             drawerLayout.addDrawerListener(toggle);
             toggle.syncState();
         }
-
     }
 
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
         drawerLayout.closeDrawer(GravityCompat.START);
         if (isChef) {
-            handleChefMenu(item);
+            if (isAdmin){
+                handleAdminMenu(item);
+            }
+            else {
+                handleChefMenu(item);
+            }
         } else {
             handleBasicMenu(item);
         }
         return false;
     }
 
-    public void setUserContentView(View view, boolean isChef) {
+    public void setUserContentView(View view, boolean isChef, boolean isAdmin) {
         this.isChef = isChef;
+        this.isAdmin = isAdmin;
         flag = true;
+
         setContentView(view);
+    }
+
+    private void handleAdminMenu(MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.nav_weekly_planing:
+                startActivity(new Intent(this, WeeklyPlan.class));
+                // For smooth transition
+                overridePendingTransition(0, 0);
+                break;
+
+            case R.id.nav_home:
+                startActivity(new Intent(this, MainActivity.class));
+                // For smooth transition
+                overridePendingTransition(0, 0);
+                break;
+
+            case R.id.nav_search:
+                startActivity(new Intent(this, SearchActivity.class));
+                // For smooth transition
+                overridePendingTransition(0, 0);
+                break;
+
+            case R.id.nav_favorites:             // need to build favorites page first
+                startActivity(new Intent(this, likedRecipes.class));
+                // For smooth transition
+                overridePendingTransition(0, 0);
+                break;
+
+            case R.id.nav_profile:
+                startActivity(new Intent(this, profile_page.class));
+                // For smooth transition
+                overridePendingTransition(0, 0);
+                break;
+
+            case R.id.nav_add_recipe:
+                startActivity(new Intent(this, AddRecipe.class));
+                overridePendingTransition(0, 0);
+                break;
+
+            case R.id.nav_my_recipes:
+                startActivity(new Intent(this, myUploads.class));
+                overridePendingTransition(0, 0);
+                break;
+
+            case R.id.nav_reports:
+                startActivity(new Intent(this, reportedRecipes.class));
+                overridePendingTransition(0, 0);
+                break;
+
+            case R.id.nav_logOut:
+                FirebaseAuth.getInstance().signOut();
+
+                GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
+                        .requestIdToken(getString(R.string.default_web_client_id)) // Replace with your web client ID
+                        .requestEmail()
+                        .build();
+                GoogleSignInClient client = GoogleSignIn.getClient(this, gso);
+                client.signOut();
+
+                startActivity(new Intent(this, LoginGoogle.class));
+                overridePendingTransition(0, 0);
+                break;
+
+        }
     }
 
     private void handleChefMenu(MenuItem item) {
@@ -118,6 +197,11 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
                 overridePendingTransition(0, 0);
                 break;
 
+            case R.id.nav_search:
+                startActivity(new Intent(this, SearchActivity.class));
+                // For smooth transition
+                overridePendingTransition(0, 0);
+                break;
 
             case R.id.nav_favorites:             // need to build favorites page first
                 startActivity(new Intent(this, likedRecipes.class));
@@ -176,6 +260,12 @@ public class DrawerBaseActivity extends AppCompatActivity implements NavigationV
                 overridePendingTransition(0, 0);
                 break;
 
+            case R.id.nav_search:
+                startActivity(new Intent(this, SearchActivity.class));
+                // For smooth transition
+                overridePendingTransition(0, 0);
+                break;
+                
             case R.id.nav_favorites:             // need to build favorites page first
                 startActivity(new Intent(this, likedRecipes.class));
                 // For smooth transition

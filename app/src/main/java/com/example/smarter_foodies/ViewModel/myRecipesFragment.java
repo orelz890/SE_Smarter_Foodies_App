@@ -1,49 +1,37 @@
 package com.example.smarter_foodies.ViewModel;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-
-import androidx.annotation.NonNull;
-import androidx.fragment.app.Fragment;
+import android.content.Context;
 import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
-
 import com.example.smarter_foodies.Model.CRUD_RealTimeDatabaseData;
-import com.example.smarter_foodies.Model.MyLikedAndCartAdapter;
 import com.example.smarter_foodies.Model.ProfileTabFragment;
-import com.example.smarter_foodies.Model.User;
-import com.example.smarter_foodies.Model.recipe;
 import com.example.smarter_foodies.R;
-import com.google.android.gms.tasks.OnCompleteListener;
-import com.google.android.gms.tasks.OnFailureListener;
-import com.google.android.gms.tasks.OnSuccessListener;
-import com.google.android.gms.tasks.Task;
-import com.google.android.gms.tasks.Tasks;
-import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.database.DataSnapshot;
-import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
-
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-import java.util.Map;
+
 
 
 public class myRecipesFragment extends ProfileTabFragment {
+
+    private Context mContext;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.profile_frame_liked, container, false);
 
+        mContext = getContext();
+
         // Initialize RecyclerView
         mRecyclerView = view.findViewById(R.id.recyclerLikedView);
         emptyView = view.findViewById(R.id.tv_empty_recipe_list);
-        emptyView.setVisibility(View.GONE);
         applyTV = view.findViewById(R.id.tv_apply_as_chef);
+        doSomethingIB = view.findViewById(R.id.ib_do_something);
+
+        emptyView.setVisibility(View.GONE);
         applyTV.setVisibility(View.GONE);
 
         mRecyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
@@ -54,6 +42,8 @@ public class myRecipesFragment extends ProfileTabFragment {
 
         // Set up RecyclerView
         setRecycler("myRecipes");
+        setDoSomething();
+        setTextViews();
 
         return view;
     }
@@ -64,4 +54,14 @@ public class myRecipesFragment extends ProfileTabFragment {
         super.onResume();
         setRecycler("myRecipes");
     }
+
+    private void setTextViews(){
+        applyTV.setVisibility(View.VISIBLE);
+        applyTV.setOnClickListener(view -> {
+            Intent intent = new Intent(mContext, ApplyChef.class);
+            startActivity(intent);
+        });
+    }
+
+
 }

@@ -23,6 +23,10 @@
         <item name="android:windowBackground">@drawable/add_recipe_background</item>
     </style>
 
+    <style name="Theme.Smarter_Foodies.ReportButtonsColor">
+        <item name="android:windowBackground">@drawable/reports_bordered_layout</item>
+    </style>
+
     <style name="Theme.Smarter_Foodies.BackgroundUpdateImageStyle">
         <item name="android:windowBackground">@drawable/update_background_image</item>
     </style>

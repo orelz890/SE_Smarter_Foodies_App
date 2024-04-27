@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageButton;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -40,6 +41,7 @@ public class ProfileTabFragment extends Fragment {
     protected MyLikedAndCartAdapter myAdapter;
     protected TextView emptyView, applyTV;
     protected int screenWidth, screenHeight;
+    protected ImageButton doSomethingIB;
 
 
     @Override
@@ -50,8 +52,10 @@ public class ProfileTabFragment extends Fragment {
         // Initialize RecyclerView
         mRecyclerView = view.findViewById(R.id.recyclerLikedView);
         emptyView = view.findViewById(R.id.tv_empty_recipe_list);
-        emptyView.setVisibility(View.GONE);
         applyTV = view.findViewById(R.id.tv_apply_as_chef);
+        doSomethingIB = view.findViewById(R.id.ib_do_something);
+
+        emptyView.setVisibility(View.GONE);
         applyTV.setVisibility(View.GONE);
 
         mRecyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
@@ -61,10 +65,14 @@ public class ProfileTabFragment extends Fragment {
 
         // Set up RecyclerView
         setRecycler("liked");
+        setDoSomething();
 
         return view;
     }
 
+    public void setDoSomething(){
+        doSomethingIB.setVisibility(View.GONE);
+    }
 
     public void setRecycler(String userListName) {
         applyTV.setVisibility(View.GONE);
@@ -186,6 +194,10 @@ public class ProfileTabFragment extends Fragment {
 
         }
 
+    }
+
+    public int getRecipeCount() {
+        return myFoodList != null? myFoodList.size(): 0;
     }
 
 }

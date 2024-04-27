@@ -36,7 +36,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-public class MainActivity extends DashboardActivity {
+public class SearchActivity extends DashboardActivity {
     private AutoCompleteTextView autoCompleteSearchView;
     private ImageButton ib_filter, ib_refresh;
 
@@ -57,6 +57,7 @@ public class MainActivity extends DashboardActivity {
 
     private int screenWidth, screenHeight;
     public static Map<String, List<String>> categoriesAndSubs;
+    private Context mContext;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -67,6 +68,9 @@ public class MainActivity extends DashboardActivity {
         rootLayout.addView(activityMainView);
         setContentView(rootLayout);
         allocateActivityTitle("Home");
+
+
+        mContext = this;
 
         // Prepared CRUD functions to the database
         CRUD = new CRUD_RealTimeDatabaseData();
@@ -85,8 +89,8 @@ public class MainActivity extends DashboardActivity {
         defineRecycleView();
         setMainRecyclerAdapter();
         setSwipeRefresh();
-//        InitAutoCompleteSearchView();
-//        InitManageSearchImageButton();
+        InitAutoCompleteSearchView();
+        InitManageSearchImageButton();
     }
 
 
@@ -139,8 +143,8 @@ public class MainActivity extends DashboardActivity {
                     List<String> subs = new ArrayList<>();
 
                     for (DataSnapshot subCategorySnapshot : snapshot.getChildren()) {
-                       String subCategory = subCategorySnapshot.getKey();
-                       subs.add(subCategory);
+                        String subCategory = subCategorySnapshot.getKey();
+                        subs.add(subCategory);
                     }
                     categoriesAndSubs.put(category, subs);
                 }
@@ -171,7 +175,7 @@ public class MainActivity extends DashboardActivity {
 
     // When the filter button is clicked this dialog appears.
     private void setFirstDialog() {
-        AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this, android.R.style.Theme_Material_Light_Dialog);
+        AlertDialog.Builder builder = new AlertDialog.Builder(mContext, android.R.style.Theme_Material_Light_Dialog);
         final View customLayout = getLayoutInflater().inflate(R.layout.filter_search_dialog, null);
         builder.setView(customLayout);
         builder.setCancelable(false);
@@ -198,6 +202,10 @@ public class MainActivity extends DashboardActivity {
 
     // Set the filter names list + set adapter for the autoCompleteSearchView
     private void InitAutoCompleteSearchView() {
+        // Set thee search layout visible
+        findViewById(R.id.search_text_input_layout).setVisibility(View.VISIBLE);
+
+        // Set autoComplete search view
         autoCompleteSearchView = findViewById(R.id.ac_searchView);
 
         // Get all recipes names from database to initialize the autoCompleteSearchBar
@@ -217,7 +225,7 @@ public class MainActivity extends DashboardActivity {
                     }
                 }
                 // Initialize the autoCompleteSearchBar
-                arraySearchAdapter = new ArrayAdapter<>(MainActivity.this, android.R.layout.simple_list_item_activated_1, recipesNamesList);
+                arraySearchAdapter = new ArrayAdapter<>(mContext, android.R.layout.simple_list_item_activated_1, recipesNamesList);
                 autoCompleteSearchView.setAdapter(arraySearchAdapter);
 
                 // Handle item is clicked
@@ -267,7 +275,7 @@ public class MainActivity extends DashboardActivity {
                 }
 
                 // Adjust autoCompleteSearchBar
-                arraySearchAdapter = new ArrayAdapter<>(MainActivity.this, android.R.layout.simple_list_item_activated_1, recipesNamesList);
+                arraySearchAdapter = new ArrayAdapter<>(mContext, android.R.layout.simple_list_item_activated_1, recipesNamesList);
                 autoCompleteSearchView.setAdapter(arraySearchAdapter);
 
                 // Handle item is clicked
@@ -298,7 +306,7 @@ public class MainActivity extends DashboardActivity {
 
         int verticalSpacingInPixels = getResources().getDimensionPixelSize(R.dimen.vertical_spacing);
 
-        GridLayoutManager gridLayoutManager = new GridLayoutManager(MainActivity.this, numCols);
+        GridLayoutManager gridLayoutManager = new GridLayoutManager(mContext, numCols);
 
         mRecyclerView.setLayoutManager(gridLayoutManager);
 
@@ -335,7 +343,7 @@ public class MainActivity extends DashboardActivity {
                     Collections.shuffle(myFoodList);
 
                     // Set the new list to the recycler view
-                    myAdapter = new MyAdapter(MainActivity.this, myFoodList, screenWidth, screenHeight);
+                    myAdapter = new MyAdapter(mContext, myFoodList, screenWidth, screenHeight);
                     mRecyclerView.setAdapter(myAdapter);
                 }).addOnFailureListener(e -> {
                     // Handle failure
@@ -379,7 +387,7 @@ public class MainActivity extends DashboardActivity {
                 int screenHeight = getResources().getDisplayMetrics().heightPixels;
 
                 // Set the new list to the recycler view
-                myAdapter = new MyAdapter(MainActivity.this, myFoodList, screenWidth, screenHeight);
+                myAdapter = new MyAdapter(mContext, myFoodList, screenWidth, screenHeight);
                 mRecyclerView.setAdapter(myAdapter);
             }
         });
@@ -406,7 +414,7 @@ public class MainActivity extends DashboardActivity {
                 int screenWidth = getResources().getDisplayMetrics().widthPixels;
                 int screenHeight = getResources().getDisplayMetrics().heightPixels;
 
-                myAdapter = new MyAdapter(MainActivity.this, myFoodList, screenWidth, screenHeight);
+                myAdapter = new MyAdapter(mContext, myFoodList, screenWidth, screenHeight);
                 mRecyclerView.setAdapter(myAdapter);
             }
         });
@@ -430,7 +438,7 @@ public class MainActivity extends DashboardActivity {
                 int screenWidth = getResources().getDisplayMetrics().widthPixels;
                 int screenHeight = getResources().getDisplayMetrics().heightPixels;
 
-                myAdapter = new MyAdapter(MainActivity.this, myFoodList, screenWidth, screenHeight);
+                myAdapter = new MyAdapter(mContext, myFoodList, screenWidth, screenHeight);
                 mRecyclerView.setAdapter(myAdapter);
             }
         });

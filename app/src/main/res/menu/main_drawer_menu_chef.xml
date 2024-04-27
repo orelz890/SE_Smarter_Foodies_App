@@ -10,6 +10,10 @@
             android:icon="@drawable/ic_home"
             android:title="@string/home"/>
 
+        <item android:id="@+id/nav_search"
+            android:icon="@drawable/ic_search"
+            android:title="Search"/>
+
         <item android:id="@+id/nav_favorites"
             android:icon="@drawable/red_heart_filled"
             android:title="@string/liked"/>

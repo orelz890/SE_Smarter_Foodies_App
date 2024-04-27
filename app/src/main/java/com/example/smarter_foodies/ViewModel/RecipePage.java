@@ -10,6 +10,7 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.util.Base64;
+import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
@@ -135,45 +136,51 @@ public class RecipePage extends AppCompatActivity {
 
 
     private void getDishFromSearchTree(String recipeName) {
-        // how to get data from the database- search
-        List<recipe> r = new ArrayList<>();
-        final DatabaseReference mDatabaseSearchGet = getToRecipeDepth(recipeName);
-        mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
-            @Override
-            public void onSuccess(DataSnapshot dataSnapshot) {
-                if (dataSnapshot.exists()) {
-                    List<Task<Object>> tasks = new ArrayList<>();
-                    for (DataSnapshot child : dataSnapshot.getChildren()) {
-                        String recipeRefString = child.getValue(String.class);
-                        if (recipeRefString != null) {
-                            DatabaseReference recipesNodeReference = FirebaseDatabase.getInstance().getReference().child(recipeRefString);
-                            Task<Object> task = CRUD.fetchDataTask(recipesNodeReference);
-                            tasks.add(task);
-                        }
-                    }
 
-                    Tasks.whenAllSuccess(tasks).addOnSuccessListener(new OnSuccessListener<List<Object>>() {
-                        @Override
-                        public void onSuccess(List<Object> snapshots) {
-                            handleSuccess(r, tasks);
-                        }
-                    }).addOnFailureListener(new OnFailureListener() {
-                        @Override
-                        public void onFailure(@NonNull Exception e) {
-                            // Handle failure
-                            System.out.println("setByNameRecyclerAdapter - whenAllSuccess - Failed");
-                            e.printStackTrace();
-                            // If fetching data fails, you may choose to handle it here
-                            // Alternatively, you can call handleRemoveDataTask here
-                            // handleRemoveDataTask(mDatabaseSearchGet);
-                        }
-                    });
+        List<recipe> r = new ArrayList<>();
+
+        // Create the reference to the specific recipe reference in search tree
+        final DatabaseReference mDatabaseSearchGet = CRUD.getToRecipeDepth(recipeName);
+
+        // Get the actual recipe reference
+        mDatabaseSearchGet.get().addOnSuccessListener(dataSnapshot -> {
+            if (dataSnapshot.exists()) {
+                List<Task<Object>> tasks = new ArrayList<>();
+                String recipeRefString = dataSnapshot.getValue(String.class);
+                if (recipeRefString != null) {
+                    DatabaseReference recipesNodeReference = FirebaseDatabase.getInstance().getReference().child(recipeRefString);
+                    Task<Object> task = CRUD.fetchDataTask(recipesNodeReference);
+                    tasks.add(task);
                 }
+
+                Tasks.whenAllSuccess(tasks).addOnSuccessListener(new OnSuccessListener<List<Object>>() {
+                    @Override
+                    public void onSuccess(List<Object> snapshots) {
+                        handleSuccess(r, tasks);
+                    }
+                }).addOnFailureListener(new OnFailureListener() {
+                    @Override
+                    public void onFailure(@NonNull Exception e) {
+                        // Handle failure
+                        Log.d("RecipePage", "setByNameRecyclerAdapter - whenAllSuccess - Failed");
+                        e.printStackTrace();
+                    }
+                });
+            }
+            else {
+                Log.d("RecipePage", "\n\nRecipe page - Data snap do not exist\n\n");
+            }
+        })
+        .addOnFailureListener(new OnFailureListener() {
+            @Override
+            public void onFailure(@NonNull Exception e) {
+                e.printStackTrace();
             }
         });
     }
 
     private void handleSuccess(List<recipe> recipes, List<Task<Object>> tasks) {
+
         // Fill recipes list with the recipes received.
         for (int i = 0; i < tasks.size(); i++) {
             Object snapshot = tasks.get(i).getResult();
@@ -187,12 +194,14 @@ public class RecipePage extends AppCompatActivity {
             }
         }
 
-        // Show result in view
+        // Show result/image in view
         if (recipes.size() > 0) {
             // Now, handle the logic for successful data retrieval here
             String[] ImageUrl = RecipePageFunctions.List_of_string_to_array(recipes.get(0).getImages());
             int size = ImageUrl.length;
+
             if (size > 0) {
+
                 if (ImageUrl[size - 1].startsWith("https:")) {
                     Picasso.get().load(ImageUrl[size - 1]).into(recipeImage);
                 } else {
@@ -207,33 +216,6 @@ public class RecipePage extends AppCompatActivity {
                 recipeImage.setImageResource(R.drawable.iv_no_images_available);
             }
         }
-    }
-
-
-    public DatabaseReference getToRecipeDepth(String name) {
-        DatabaseReference DataRef = FirebaseDatabase.getInstance().getReference();
-        if (name.length() > 0) {
-            String new_name = getCleanStringForSearch(name);
-            int len = new_name.length();
-            DataRef = DataRef.child("search");
-            // Max tree depth is 32
-            for (int i = 0; i < len && i < 27; i++) {
-                DataRef = DataRef.child(new_name.charAt(i) + "");
-            }
-        }
-        return DataRef;
-    }
-
-    private String getCleanStringForSearch(String input_str) {
-        input_str = input_str.replace("\"", "").replace(" ", "");
-        StringBuilder new_str = new StringBuilder();
-        for (int i = 0; i < input_str.length(); i++) {
-            if (Character.isDigit(input_str.charAt(i)) || Character.isAlphabetic(input_str.charAt(i))) {
-                new_str.append(input_str.charAt(i));
-            }
-        }
-        return new_str.toString().toLowerCase(Locale.ROOT);
-
     }
 
 

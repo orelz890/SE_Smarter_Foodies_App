@@ -44,6 +44,7 @@
         <activity android:name=".ViewModel.RegisterActivity" />
         <activity android:name=".ViewModel.ApplyChef" />
         <activity android:name=".ViewModel.MainActivity" />
+        <activity android:name=".ViewModel.SearchActivity" />
         <activity android:name=".ViewModel.profile_page" />
         <activity android:name=".ViewModel.UpdateProfile" />
         <activity android:name=".ViewModel.RecipePage" />
@@ -51,6 +52,8 @@
         <activity android:name=".ViewModel.myUploads" />
         <activity android:name=".ViewModel.UpdateRecipe"/>
         <activity android:name=".ViewModel.AddRecipe" />
+        <activity android:name=".ViewModel.reportedRecipes" />
+
 
         <activity
             android:name=".ViewModel.LoginGoogle"

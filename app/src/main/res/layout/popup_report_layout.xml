@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#80000000"
+    android:padding="16dp">
+
+    <RelativeLayout
+        android:id="@+id/report_RL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+
+        <LinearLayout
+            android:id="@+id/report_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:background="@drawable/bordered_layout"
+            >
+
+            <CheckBox
+                android:id="@+id/checkBoxOption1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="INAPPROPRIATE IMAGE" />
+
+            <CheckBox
+                android:id="@+id/checkBoxOption2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="OFFENSIVE OR INAPPROPRIATE NAME" />
+
+            <CheckBox
+                android:id="@+id/checkBoxOption3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="VERBAL ABUSE" />
+
+            <CheckBox
+                android:id="@+id/checkBoxOption4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HATE SPEECH" />
+
+
+            <Button
+                android:id="@+id/btnSubmit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Submit" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/report_layout"
+            android:layout_margin="1dp"
+            >
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/cancel"
+                android:background="@null"
+                />
+        </LinearLayout>
+
+
+
+    </RelativeLayout>
+
+
+
+</LinearLayout>

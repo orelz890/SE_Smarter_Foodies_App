@@ -35,12 +35,17 @@ public class User {
     @SerializedName("myRecipes")
     private Map<String,String> myRecipes;
 
+    @SerializedName("ban")
+    private boolean ban;
+
+
     public User() {
         liked = new HashMap<>();
         cart = new HashMap<>();
         myRecipes = new HashMap<>();
         this.firstEntry = true;
         this.isChef = false;
+        this.ban = false;
 //        this.eating = "";
 //        this.email = "";
 //        this.favorite = "";
@@ -58,6 +63,15 @@ public class User {
     public User(String name, String re){
         this(name);
 //        this.resume = re;
+    }
+
+
+    public boolean isBan() {
+        return ban;
+    }
+
+    public void setBan(boolean ban) {
+        this.ban = ban;
     }
 
     public String getName() {

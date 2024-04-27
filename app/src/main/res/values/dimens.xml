@@ -5,4 +5,8 @@
     <dimen name="vertical_spacing">40dp</dimen>
     <dimen name="main_activity_recipe_width">163dp</dimen>
     <dimen name="main_activity_recipe_height">200dp</dimen>
+    <dimen name="reported_recipe_width">350dp</dimen>
+    <dimen name="reported_recipe_height">450dp</dimen>
+    <dimen name="item_spacing">80dp</dimen>
+
 </resources>
