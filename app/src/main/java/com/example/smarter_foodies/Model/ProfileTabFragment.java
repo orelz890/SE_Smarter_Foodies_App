@@ -181,8 +181,8 @@ public class ProfileTabFragment extends Fragment {
             System.out.println("\n\n"+screenWidth + "\n\n" + screenHeight + "\n\n");
             try {
                 // Get the height and width of the screen
-                screenWidth = getResources().getDisplayMetrics().widthPixels;
-                screenHeight = getResources().getDisplayMetrics().heightPixels;
+                screenWidth = (int)(getResources().getDisplayMetrics().widthPixels);
+                screenHeight = (int)(getResources().getDisplayMetrics().heightPixels);
             }
             catch (Exception e) {
                 e.printStackTrace();

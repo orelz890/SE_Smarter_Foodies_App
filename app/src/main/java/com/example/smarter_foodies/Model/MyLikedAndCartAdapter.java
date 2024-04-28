@@ -315,7 +315,8 @@ class LikedAndCartFoodViewHolder extends RecyclerView.ViewHolder {
         mHeart = itemView.findViewById(R.id.ib_like_recycler);
         mCart = itemView.findViewById(R.id.ib_add_to_cart);
 
-//        // Calculate the desired width and height for the CardView
+        // Calculate the desired width and height for the CardView
+
 //        int desiredWidth = (int) (screenWidth);
 ////        int desiredHeight = (int) (screenHeight * 0.1);
 //
