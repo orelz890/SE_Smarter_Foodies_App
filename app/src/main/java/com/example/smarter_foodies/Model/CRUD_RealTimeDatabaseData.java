@@ -613,6 +613,14 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
                 .getReference().child("reports").child(recipeName);
         databaseReference2.removeValue();
     }
+
+    public void approveUser(Context mContext, String uid, String recipeName){
+
+        // Remove from reports
+        final DatabaseReference databaseReference = FirebaseDatabase.getInstance()
+                .getReference().child("reports").child(recipeName);
+        databaseReference.removeValue();
+    }
 }
 
 

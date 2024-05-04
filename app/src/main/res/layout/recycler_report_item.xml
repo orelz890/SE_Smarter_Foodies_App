@@ -81,6 +81,15 @@
                     android:layout_margin="2dp"
                     android:text="Ban Account"/>
 
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/button_approved"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/reports_bordered_layout"
+                    android:backgroundTint="@color/LimeGreen"
+                    android:layout_margin="2dp"
+                    android:text="Approved"/>
             </LinearLayout>
 
         </LinearLayout>

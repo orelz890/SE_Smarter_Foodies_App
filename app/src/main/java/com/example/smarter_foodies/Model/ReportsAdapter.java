@@ -106,6 +106,22 @@ public class ReportsAdapter extends RecyclerView.Adapter<ReportedFoodViewHolder>
         foodViewHolder.mBanButton.setOnClickListener(view -> {
             setDialogApproval(foodViewHolder, pos);
         });
+
+        foodViewHolder.mApprovedButton.setOnClickListener(view -> {
+            try {
+                String uid = myReportedList.get(pos).getCopy_rights();
+                String name = myReportedList.get(pos).getTitle();
+
+                if (uid != null) {
+                    CRUD.approveUser(mContext, uid, name);
+                }
+                // Remove from reports list
+                myReportedList.remove(pos);
+            }
+            catch (Exception e) {
+                e.printStackTrace();
+            }
+        });
     }
 
 
@@ -156,7 +172,7 @@ class ReportedFoodViewHolder extends RecyclerView.ViewHolder {
     ImageView imageView;
     TextView mTitle;
     CardView mCardView;
-    AppCompatButton mBanButton, mDeleteRecipeButton;
+    AppCompatButton mBanButton, mApprovedButton;
     CRUD_RealTimeDatabaseData CRUD;
 
     public ReportedFoodViewHolder(View itemView, int screenWidth, int screenHeight) {
@@ -166,7 +182,7 @@ class ReportedFoodViewHolder extends RecyclerView.ViewHolder {
         mTitle = itemView.findViewById(R.id.tv_recipe_title);
         mCardView = itemView.findViewById(R.id.myCardView);
         mBanButton = itemView.findViewById(R.id.button_ban_account);
-
+        mApprovedButton = itemView.findViewById(R.id.button_approved);
 
 
 
