@@ -335,8 +335,9 @@ public class MainActivity extends DashboardActivity {
                     Collections.shuffle(myFoodList);
 
                     // Set the new list to the recycler view
-                    myAdapter = new MyAdapter(MainActivity.this, myFoodList, screenWidth, screenHeight);
+                    myAdapter = new MyAdapter(MainActivity.this, myFoodList, screenWidth, screenHeight, getSupportFragmentManager());
                     mRecyclerView.setAdapter(myAdapter);
+
                 }).addOnFailureListener(e -> {
                     // Handle failure
                     System.out.println("setByNameRecyclerAdapter - whenAllSuccess - Failed");
@@ -379,7 +380,7 @@ public class MainActivity extends DashboardActivity {
                 int screenHeight = getResources().getDisplayMetrics().heightPixels;
 
                 // Set the new list to the recycler view
-                myAdapter = new MyAdapter(MainActivity.this, myFoodList, screenWidth, screenHeight);
+                myAdapter = new MyAdapter(MainActivity.this, myFoodList, screenWidth, screenHeight, getSupportFragmentManager());
                 mRecyclerView.setAdapter(myAdapter);
             }
         });
@@ -406,7 +407,7 @@ public class MainActivity extends DashboardActivity {
                 int screenWidth = getResources().getDisplayMetrics().widthPixels;
                 int screenHeight = getResources().getDisplayMetrics().heightPixels;
 
-                myAdapter = new MyAdapter(MainActivity.this, myFoodList, screenWidth, screenHeight);
+                myAdapter = new MyAdapter(MainActivity.this, myFoodList, screenWidth, screenHeight, getSupportFragmentManager());
                 mRecyclerView.setAdapter(myAdapter);
             }
         });
@@ -430,7 +431,7 @@ public class MainActivity extends DashboardActivity {
                 int screenWidth = getResources().getDisplayMetrics().widthPixels;
                 int screenHeight = getResources().getDisplayMetrics().heightPixels;
 
-                myAdapter = new MyAdapter(MainActivity.this, myFoodList, screenWidth, screenHeight);
+                myAdapter = new MyAdapter(MainActivity.this, myFoodList, screenWidth, screenHeight, getSupportFragmentManager());
                 mRecyclerView.setAdapter(myAdapter);
             }
         });

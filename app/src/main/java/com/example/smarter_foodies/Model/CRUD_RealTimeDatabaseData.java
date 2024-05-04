@@ -20,6 +20,8 @@ import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.MutableData;
+import com.google.firebase.database.Transaction;
 import com.google.firebase.database.ValueEventListener;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
@@ -534,24 +536,54 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
     }
 
 
-    public void sendReport(report report, String title, Context mContext) {
-        FirebaseDatabase.getInstance().getReference().child("reports")
-                .child(title)
-                .setValue(report)
-                .addOnCompleteListener(task -> {
-                    if (task.isSuccessful()){
-                        Toast.makeText(mContext, "Thank you for helping us to keep the app clean!", Toast.LENGTH_SHORT).show();
+    public void sendReport(Context mContext, int hate, int inappropriate, int offensive, int verbal, String title, String ref) {
+
+        System.out.println("im going to send a report:\nref = " + ref);
+
+
+        DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("reports")
+                .child(title);
+
+        reference.runTransaction(new Transaction.Handler() {
+            @Override
+            public Transaction.Result doTransaction(@NonNull MutableData mutableData) {
+                // Attempt to retrieve the current data at this path.
+                report r = mutableData.getValue(report.class);
+                String reporting_uid = FirebaseAuth.getInstance().getUid();
+
+
+                if (r == null){
+                    List<String> reporters = new ArrayList<>();
+                    reporters.add(reporting_uid);
+                    r = new report(verbal, inappropriate, hate, offensive, reporters, ref);
+                    mutableData.setValue(r);
+                }
+                else {
+                    if (!r.getReporters().contains(reporting_uid)) {
+                        r.increment_abuse(verbal);
+                        r.increment_hate(hate);
+                        r.increment_inappropriate(inappropriate);
+                        r.increment_offensive(offensive);
+                        r.addReporter(reporting_uid);
+                        mutableData.setValue(r);
                     }
-                    else {
-                        Log.d("MyAdapter","reports - set - not successful");
-                        System.out.println("\n\nreports - set - not successful\n\n" + task.getException());
-                    }
-                }).addOnFailureListener(new OnFailureListener() {
-                    @Override
-                    public void onFailure(@NonNull Exception e) {
-                        e.printStackTrace();
-                    }
-                });
+                }
+
+                // Return success
+                return Transaction.success(mutableData);
+            }
+
+            @Override
+            public void onComplete(DatabaseError databaseError, boolean committed, DataSnapshot dataSnapshot) {
+                if (databaseError != null) {
+                    Log.d("FirebaseData", "Firebase transaction failed: " + databaseError.getMessage());
+                } else if (committed) {
+                    Log.d("FirebaseData", "Transaction committed successfully.");
+                } else {
+                    Log.d("FirebaseData", "Transaction not committed.");
+                }
+            }
+        });
     }
 
 

@@ -67,6 +67,15 @@
                         android:background="@null"
                         android:src="@drawable/red_heart_not_filled" />
 
+                    <ImageButton
+                        android:id="@+id/ib_report_recipe"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginEnd="8dp"
+                        android:layout_toStartOf="@+id/ib_add_to_cart_"
+                        android:background="@null"
+                        android:src="@drawable/report_icon" />
+
                 </RelativeLayout>
             </RelativeLayout>
 

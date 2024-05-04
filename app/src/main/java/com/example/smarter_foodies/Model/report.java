@@ -96,12 +96,20 @@ public class report {
         this.verbal_abuse = verbal_abuse;
     }
 
+    public void increment_abuse(int by){
+        this.verbal_abuse += by;
+    }
+
     public int getInappropriate_image() {
         return inappropriate_image;
     }
 
     public void setInappropriate_image(int inappropriate_image) {
         this.inappropriate_image = inappropriate_image;
+    }
+
+    public void increment_inappropriate(int by){
+        this.inappropriate_image += by;
     }
 
     public int getHate_speech() {
@@ -112,11 +120,19 @@ public class report {
         this.hate_speech = hate_speech;
     }
 
+    public void increment_hate(int by){
+        this.hate_speech += by;
+    }
+
     public int getOffensive_name() {
         return offensive_name;
     }
 
     public void setOffensive_name(int offensive_name) {
         this.offensive_name = offensive_name;
+    }
+
+    public void increment_offensive(int by){
+        this.offensive_name += by;
     }
 }

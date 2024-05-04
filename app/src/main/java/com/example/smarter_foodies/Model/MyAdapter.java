@@ -17,10 +17,12 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.cardview.widget.CardView;
+import androidx.fragment.app.FragmentManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.smarter_foodies.R;
 import com.example.smarter_foodies.ViewModel.RecipePage;
+import com.example.smarter_foodies.ViewModel.ReportDialogFragment;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
@@ -36,13 +38,15 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder> {
     private Context mContext;
     private List<recipe> myFoodList;
     private int screenWidth, screenHeight;
+    private FragmentManager fragmentManager;
 
 
-    public MyAdapter(Context mContext, List<recipe> myFoodList, int screenWidth, int screenHeight) {
+    public MyAdapter(Context mContext, List<recipe> myFoodList, int screenWidth, int screenHeight, FragmentManager fragmentManager) {
         this.mContext = mContext;
         this.myFoodList = myFoodList;
         this.screenWidth = screenWidth;
         this.screenHeight = screenHeight;
+        this.fragmentManager = fragmentManager;
     }
 
     @Override
@@ -205,6 +209,21 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder> {
             }
         });
 
+        foodViewHolder.mReport.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                setReportPopupWindow(recipe);
+            }
+        });
+
+    }
+
+    private void setReportPopupWindow(recipe r) {
+        // TODO- complete reports popup
+        ReportDialogFragment rd = new ReportDialogFragment(mContext ,r.getDatabaseRef(), r.getTitle());
+        rd.show(this.fragmentManager, "tag");
+
+        System.out.println("i clicked report");
     }
 
     @Override
@@ -222,6 +241,7 @@ class FoodViewHolder extends RecyclerView.ViewHolder {
     CardView mCardView;
     ImageButton mHeart;
     ImageButton mCart;
+    ImageButton mReport;
 
     CRUD_RealTimeDatabaseData CRUD;
 
@@ -234,6 +254,8 @@ class FoodViewHolder extends RecyclerView.ViewHolder {
         mHeart = itemView.findViewById(R.id.ib_search_like_recycler);
         mCart = itemView.findViewById(R.id.ib_add_to_cart_);
         mCardView = itemView.findViewById(R.id.myCardView);
+        mReport = itemView.findViewById(R.id.ib_report_recipe);
+
 
 
 
