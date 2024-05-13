@@ -1,5 +1,6 @@
 package com.example.smarter_foodies.ViewModel;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,6 +10,7 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.util.Base64;
+import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
@@ -21,7 +23,10 @@ import com.example.smarter_foodies.Model.CRUD_RealTimeDatabaseData;
 import com.example.smarter_foodies.Model.RecipePageFunctions;
 import com.example.smarter_foodies.Model.recipe;
 import com.example.smarter_foodies.R;
+import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.android.gms.tasks.Task;
+import com.google.android.gms.tasks.Tasks;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
@@ -30,17 +35,21 @@ import com.squareup.picasso.Picasso;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
+import java.util.Objects;
 
 public class RecipePage extends AppCompatActivity {
 
     private TextView ingredients, howToMake, prepTime, cookTime, totalTime, carbs, protein, fats, calories, servings, recipeName, categoryAndSub, copyRights;
     private ImageView recipeImage;
     private ImageButton listExtract;
+    private CRUD_RealTimeDatabaseData CRUD;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_recipe_page);
+
+        CRUD = new CRUD_RealTimeDatabaseData();
 
         setFindByIds();
 
@@ -127,72 +136,86 @@ public class RecipePage extends AppCompatActivity {
 
 
     private void getDishFromSearchTree(String recipeName) {
-        // how to get data from the database- search
+
         List<recipe> r = new ArrayList<>();
-        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance().getReference();
-        mDatabaseSearchGet = getToRecipeDepth(mDatabaseSearchGet, recipeName);
-        mDatabaseSearchGet.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
-            @Override
-            public void onSuccess(DataSnapshot dataSnapshot) {
-                if (dataSnapshot.exists()) {
-                    for (DataSnapshot child : dataSnapshot.getChildren()) {
-                        recipe curr_recipe = child.getValue(recipe.class);
-                        if (curr_recipe != null) {
-                            r.add(curr_recipe);
-                        }
-                    }
-                    String[] ImageUrl = RecipePageFunctions.List_of_string_to_array(r.get(0).getImages());
-                    int size = ImageUrl.length;
-                    if (size > 0) {
-                        if (ImageUrl[size - 1].startsWith("https:")) {
-                            Picasso.get().load(ImageUrl[size - 1]).into(recipeImage);
 
-                        } else {
-                            // Decode the image data from base64 to a Bitmap
-                            byte[] imageData = Base64.decode(ImageUrl[size - 1], Base64.DEFAULT);
-                            Bitmap bitmap = BitmapFactory.decodeByteArray(imageData, 0, imageData.length);
+        // Create the reference to the specific recipe reference in search tree
+        final DatabaseReference mDatabaseSearchGet = CRUD.getToRecipeDepth(recipeName);
 
-                            // Set the image for the ImageView
-                            recipeImage.setImageBitmap(bitmap);
-
-//                            // Ensure the ImageView dimensions match the loaded image
-//                            ViewGroup.LayoutParams layoutParams = recipeImage.getLayoutParams();
-//                            layoutParams.width = bitmap.getWidth();
-//                            layoutParams.height = bitmap.getHeight();
-//                            recipeImage.setLayoutParams(layoutParams);
-                        }
-                    } else {
-                        recipeImage.setImageResource(R.drawable.iv_no_images_available);
-                    }
+        // Get the actual recipe reference
+        mDatabaseSearchGet.get().addOnSuccessListener(dataSnapshot -> {
+            if (dataSnapshot.exists()) {
+                List<Task<Object>> tasks = new ArrayList<>();
+                String recipeRefString = dataSnapshot.getValue(String.class);
+                if (recipeRefString != null) {
+                    DatabaseReference recipesNodeReference = FirebaseDatabase.getInstance().getReference().child(recipeRefString);
+                    Task<Object> task = CRUD.fetchDataTask(recipesNodeReference);
+                    tasks.add(task);
                 }
+
+                Tasks.whenAllSuccess(tasks).addOnSuccessListener(new OnSuccessListener<List<Object>>() {
+                    @Override
+                    public void onSuccess(List<Object> snapshots) {
+                        handleSuccess(r, tasks);
+                    }
+                }).addOnFailureListener(new OnFailureListener() {
+                    @Override
+                    public void onFailure(@NonNull Exception e) {
+                        // Handle failure
+                        Log.d("RecipePage", "setByNameRecyclerAdapter - whenAllSuccess - Failed");
+                        e.printStackTrace();
+                    }
+                });
+            }
+            else {
+                Log.d("RecipePage", "\n\nRecipe page - Data snap do not exist\n\n");
+            }
+        })
+        .addOnFailureListener(new OnFailureListener() {
+            @Override
+            public void onFailure(@NonNull Exception e) {
+                e.printStackTrace();
             }
         });
     }
 
-    public DatabaseReference getToRecipeDepth(DatabaseReference DataRef, String name) {
-        DataRef = FirebaseDatabase.getInstance().getReference();
-        if (name.length() > 0) {
-            String new_name = getCleanStringForSearch(name);
-            int len = new_name.length();
-            DataRef = DataRef.child("search");
-            // Max tree depth is 32
-            for (int i = 0; i < len && i < 27; i++) {
-                DataRef = DataRef.child(new_name.charAt(i) + "");
+    private void handleSuccess(List<recipe> recipes, List<Task<Object>> tasks) {
+
+        // Fill recipes list with the recipes received.
+        for (int i = 0; i < tasks.size(); i++) {
+            Object snapshot = tasks.get(i).getResult();
+            if (snapshot instanceof DataSnapshot) {
+                DataSnapshot dataSnapshot = (DataSnapshot) snapshot;
+                // Process each user's data
+                recipe curr_recipe = dataSnapshot.getValue(recipe.class);
+                if (curr_recipe != null) {
+                    recipes.add(curr_recipe);
+                }
             }
         }
-        return DataRef;
-    }
 
-    private String getCleanStringForSearch(String input_str) {
-        input_str = input_str.replace("\"", "").replace(" ", "");
-        StringBuilder new_str = new StringBuilder();
-        for (int i = 0; i < input_str.length(); i++) {
-            if (Character.isDigit(input_str.charAt(i)) || Character.isAlphabetic(input_str.charAt(i))) {
-                new_str.append(input_str.charAt(i));
+        // Show result/image in view
+        if (recipes.size() > 0) {
+            // Now, handle the logic for successful data retrieval here
+            String[] ImageUrl = RecipePageFunctions.List_of_string_to_array(recipes.get(0).getImages());
+            int size = ImageUrl.length;
+
+            if (size > 0) {
+
+                if (ImageUrl[size - 1].startsWith("https:")) {
+                    Picasso.get().load(ImageUrl[size - 1]).into(recipeImage);
+                } else {
+                    // Decode the image data from base64 to a Bitmap
+                    byte[] imageData = Base64.decode(ImageUrl[size - 1], Base64.DEFAULT);
+                    Bitmap bitmap = BitmapFactory.decodeByteArray(imageData, 0, imageData.length);
+
+                    // Set the image for the ImageView
+                    recipeImage.setImageBitmap(bitmap);
+                }
+            } else {
+                recipeImage.setImageResource(R.drawable.iv_no_images_available);
             }
         }
-        return new_str.toString().toLowerCase(Locale.ROOT);
-
     }
 
 

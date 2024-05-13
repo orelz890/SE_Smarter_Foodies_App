@@ -153,7 +153,7 @@
                 android:id="@+id/etTitle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:enabled="false"
+                android:enabled="true"
                 android:hint="Recipe name"
                 android:maxLength="27"
                 android:textColorHighlight="@color/purple_200"

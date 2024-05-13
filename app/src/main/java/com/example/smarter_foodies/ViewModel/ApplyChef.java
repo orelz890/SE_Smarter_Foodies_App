@@ -100,7 +100,6 @@ public class ApplyChef extends AppCompatActivity {
             Toast.makeText(ApplyChef.this, "There is no application that support this action",
                     Toast.LENGTH_SHORT).show();
         }
-
     }
 
     @Override

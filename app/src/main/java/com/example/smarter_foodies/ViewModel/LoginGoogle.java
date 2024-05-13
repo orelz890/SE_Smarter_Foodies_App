@@ -70,7 +70,6 @@ public class LoginGoogle extends AppCompatActivity {
         logo.setAnimation(topAnim);
 
 
-
         mAuth = FirebaseAuth.getInstance();
 
         createRequest();
@@ -122,18 +121,15 @@ public class LoginGoogle extends AppCompatActivity {
         mAuth.signInWithCredential(credential)
                 .addOnCompleteListener(this, task -> {
                     if (task.isSuccessful()) {
-                        Toast.makeText(LoginGoogle.this, "Sign in success", Toast.LENGTH_LONG).show();
                         checkUser();
                     } else {
                         Toast.makeText(LoginGoogle.this, "Sorry auth failed.", Toast.LENGTH_LONG).show();
                     }
-
                 });
-
-
     }
 
-    private void checkUser(){
+
+    private void checkUser() {
         FirebaseUser fUser = mAuth.getCurrentUser();
         if (fUser != null) {
             String uid = fUser.getUid();
@@ -145,13 +141,22 @@ public class LoginGoogle extends AppCompatActivity {
 //                        AddEmailToEmailTree();
                         Intent intent = new Intent(getApplicationContext(), ApplyChef.class);
                         startActivity(intent);
-                    }else {
+                    } else {
                         User user1 = dataSnapshot.getValue(User.class);
-                        if (user1 != null && !user1.isFirstEntry()) {
-//                            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
-                            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
-                            startActivity(intent);
+
+                        if (user1 != null) {
+                            if (user1.isBan()) {
+                                Toast.makeText(getApplicationContext(), "Your Account is banned.", Toast.LENGTH_LONG).show();
+                                mAuth.signOut();
+                            } else {
+                                if (!user1.isFirstEntry()) {
+                                    Toast.makeText(LoginGoogle.this, "Sign in success", Toast.LENGTH_LONG).show();
+                                    Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                                    startActivity(intent);
+                                }
+                            }
                         }
+
                     }
                 }
             }).addOnFailureListener(new OnFailureListener() {

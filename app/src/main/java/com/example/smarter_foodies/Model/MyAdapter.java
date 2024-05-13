@@ -17,10 +17,12 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.cardview.widget.CardView;
+import androidx.fragment.app.FragmentManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.smarter_foodies.R;
 import com.example.smarter_foodies.ViewModel.RecipePage;
+import com.example.smarter_foodies.ViewModel.ReportDialogFragment;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
@@ -29,19 +31,22 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;
+import java.util.Map;
 
 public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder> {
 
     private Context mContext;
     private List<recipe> myFoodList;
     private int screenWidth, screenHeight;
+    private FragmentManager fragmentManager;
 
 
-    public MyAdapter(Context mContext, List<recipe> myFoodList, int screenWidth, int screenHeight) {
+    public MyAdapter(Context mContext, List<recipe> myFoodList, int screenWidth, int screenHeight, FragmentManager fragmentManager) {
         this.mContext = mContext;
         this.myFoodList = myFoodList;
         this.screenWidth = screenWidth;
         this.screenHeight = screenHeight;
+        this.fragmentManager = fragmentManager;
     }
 
     @Override
@@ -129,13 +134,16 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder> {
                 public void onSuccess(DataSnapshot dataSnapshot) {
                     if (dataSnapshot.exists()) {
                         User user = dataSnapshot.getValue(User.class);
+
+
+
                         if (user != null) {
-                            if (user.getLiked().contains(recipe.getTitle())) {
+                            if (user.getLiked().containsKey(recipe.getTitle())) {
                                 foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_filled);
                             } else {
                                 foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_not_filled);
                             }
-                            if (user.getCart().contains(recipe.getTitle())) {
+                            if (user.getCart().containsKey(recipe.getTitle())) {
                                 foodViewHolder.mCart.setImageResource(R.drawable.ic_baseline_shopping_cart_24);
                             } else {
                                 foodViewHolder.mCart.setImageResource(R.drawable.ic_baseline_add_shopping_cart_24_not_added);
@@ -158,12 +166,13 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder> {
                             if (dataSnapshot.exists()) {
                                 User user = dataSnapshot.getValue(User.class);
                                 if (user != null) {
-                                    if (user.getLiked().contains(recipe.getTitle())) {
+                                    if (user.getLiked().containsKey(recipe.getTitle())) {
                                         setDialogApproval(foodViewHolder, recipe, "liked");
                                     } else {
                                         foodViewHolder.mHeart.setImageResource(R.drawable.red_heart_filled);
-                                        List<String> singleValueList = foodViewHolder.CRUD.getSingleValueList(recipe.getTitle());
-                                        foodViewHolder.CRUD.addToUserLists(singleValueList, "liked");
+//                                        List<String> singleValueList = foodViewHolder.CRUD.getSingleValueMap(recipe.getTitle());
+                                        Map<String, String> singleValueMap = foodViewHolder.CRUD.getSingleValueMap(recipe.getTitle(), recipe.getDatabaseRef());
+                                        foodViewHolder.CRUD.addToUserLists(singleValueMap, "liked");
                                     }
                                 }
                             }
@@ -185,12 +194,12 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder> {
                             if (dataSnapshot.exists()) {
                                 User user = dataSnapshot.getValue(User.class);
                                 if (user != null) {
-                                    if (user.getCart().contains(recipe.getTitle())) {
+                                    if (user.getCart().containsKey(recipe.getTitle())) {
                                         setDialogApproval(foodViewHolder, recipe, "cart");
                                     } else {
                                         foodViewHolder.mCart.setImageResource(R.drawable.ic_baseline_shopping_cart_24);
-                                        List<String> singleValueList = foodViewHolder.CRUD.getSingleValueList(recipe.getTitle());
-                                        foodViewHolder.CRUD.addToUserLists(singleValueList, "cart");
+                                        Map<String, String> singleValueMap = foodViewHolder.CRUD.getSingleValueMap(recipe.getTitle(), recipe.getDatabaseRef());
+                                        foodViewHolder.CRUD.addToUserLists(singleValueMap, "cart");
                                     }
                                 }
                             }
@@ -200,6 +209,21 @@ public class MyAdapter extends RecyclerView.Adapter<FoodViewHolder> {
             }
         });
 
+        foodViewHolder.mReport.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                setReportPopupWindow(recipe);
+            }
+        });
+
+    }
+
+    private void setReportPopupWindow(recipe r) {
+        // TODO- complete reports popup
+        ReportDialogFragment rd = new ReportDialogFragment(mContext ,r.getDatabaseRef(), r.getTitle());
+        rd.show(this.fragmentManager, "tag");
+
+        System.out.println("i clicked report");
     }
 
     @Override
@@ -217,6 +241,7 @@ class FoodViewHolder extends RecyclerView.ViewHolder {
     CardView mCardView;
     ImageButton mHeart;
     ImageButton mCart;
+    ImageButton mReport;
 
     CRUD_RealTimeDatabaseData CRUD;
 
@@ -229,6 +254,8 @@ class FoodViewHolder extends RecyclerView.ViewHolder {
         mHeart = itemView.findViewById(R.id.ib_search_like_recycler);
         mCart = itemView.findViewById(R.id.ib_add_to_cart_);
         mCardView = itemView.findViewById(R.id.myCardView);
+        mReport = itemView.findViewById(R.id.ib_report_recipe);
+
 
 
 

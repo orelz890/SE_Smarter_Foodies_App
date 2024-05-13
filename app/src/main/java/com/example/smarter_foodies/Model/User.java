@@ -1,33 +1,57 @@
 package com.example.smarter_foodies.Model;
 
+import com.google.gson.annotations.SerializedName;
+
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class User {
 
-    private String name,resume;
-    private boolean firstEntry, isChef;
-    private String email;
-    private String eating;
-    private String favorite;
-    private String website;
-    private String rating;
-    private List<String> liked;
-    private List<String> cart;
-    private List<String> myRecipes;
+//    private String email;
+//    private String eating;
+//    private String favorite;
+//    private String website;
+//    private String rating;
+//    private String resume;
+
+    @SerializedName("name")
+    private String name;
+
+    @SerializedName("firstEntry")
+    private boolean firstEntry;
+
+    @SerializedName("chef")
+    private boolean isChef;
+
+    @SerializedName("liked")
+    private Map<String,String> liked;
+
+    @SerializedName("cart")
+    private Map<String,String> cart;
+
+    @SerializedName("myRecipes")
+    private Map<String,String> myRecipes;
+
+    @SerializedName("ban")
+    private boolean ban;
+
 
     public User() {
-        liked = new ArrayList<>();
-        cart = new ArrayList<>();
-        myRecipes = new ArrayList<>();
-        this.eating = "";
-        this.email = "";
-        this.favorite = "";
-        this.website = "";
-        this.resume = "";
-        this.rating = "";
+        liked = new HashMap<>();
+        cart = new HashMap<>();
+        myRecipes = new HashMap<>();
         this.firstEntry = true;
         this.isChef = false;
+        this.ban = false;
+//        this.eating = "";
+//        this.email = "";
+//        this.favorite = "";
+//        this.website = "";
+//        this.resume = "";
+//        this.rating = "";
     }
 
     public User(String name) {
@@ -38,11 +62,17 @@ public class User {
 
     public User(String name, String re){
         this(name);
-        this.resume = re;
+//        this.resume = re;
     }
-    public String getRating(){return rating;}
 
-    public void setRating(String x){this.rating = x;}
+
+    public boolean isBan() {
+        return ban;
+    }
+
+    public void setBan(boolean ban) {
+        this.ban = ban;
+    }
 
     public String getName() {
         return name;
@@ -52,13 +82,7 @@ public class User {
         this.name = name;
     }
 
-    public String getResume() {
-        return resume;
-    }
 
-    public void setResume(String resume) {
-        this.resume = resume;
-    }
 
     public boolean isFirstEntry() {
         return firstEntry;
@@ -76,63 +100,75 @@ public class User {
         isChef = chef;
     }
 
-    public String getEmail() {
-        return email;
-    }
-
-    public void setEmail(String email) {
-        this.email = email;
-    }
-
-    public String getEating() {
-        return eating;
-    }
-
-    public void setEating(String eating) {
-        this.eating = eating;
-    }
-
-    public String getFavorite() {
-        return favorite;
-    }
-
-    public void setFavorite(String favorite) {
-        this.favorite = favorite;
-    }
-
-    public String getWebsite() {
-        return website;
-    }
-
-    public void setWebsite(String website) {
-        this.website = website;
-    }
+//    public String getRating(){return rating;}
+//
+//    public void setRating(String x){this.rating = x;}
+//    public String getResume() {
+//        return resume;
+//    }
+//
+//    public void setResume(String resume) {
+//        this.resume = resume;
+//    }
+//    public String getEmail() {
+//        return email;
+//    }
+//
+//    public void setEmail(String email) {
+//        this.email = email;
+//    }
+//
+//    public String getEating() {
+//        return eating;
+//    }
+//
+//    public void setEating(String eating) {
+//        this.eating = eating;
+//    }
+//
+//    public String getFavorite() {
+//        return favorite;
+//    }
+//
+//    public void setFavorite(String favorite) {
+//        this.favorite = favorite;
+//    }
+//
+//    public String getWebsite() {
+//        return website;
+//    }
+//
+//    public void setWebsite(String website) {
+//        this.website = website;
+//    }
 
     // liked
 
-    public List<String> getLiked() {
+    public Map<String,String> getLiked() {
         return liked;
     }
 
-    public void setLiked(List<String> liked) {
+    public void setLiked(Map<String,String> liked) {
         this.liked = liked;
     }
 
-    public void addToLiked(String r) {
-        if (!this.liked.contains(r)){
-            this.liked.add(r);
+    public void addToLiked(String k, String v) {
+        if (!this.liked.containsKey(k)){
+            this.liked.put(k,v);
         }
     }
 
-    public void addToLiked(List<String> newRecipes) {
-        for (String r: newRecipes){
-            if (!this.liked.contains(r)){
-                this.liked.add(r);
+    public void addToLiked(Map<String,String> newRecipes) {
+        for (String k: newRecipes.keySet()){
+            if (!this.liked.containsKey(k)){
+                this.liked.put(k, newRecipes.get(k));
             }
         }
     }
     public void removeFromLiked(List<String> delList) {
-        this.liked.removeAll(delList);
+        for (String k: delList) {
+            this.liked.remove(k);
+        }
     }
 
     public void removeFromLiked(String r) {
@@ -140,35 +176,27 @@ public class User {
     }
 
 
-    public void addTomyRecipes(List<String> newRecipes) {
-        for (String r: newRecipes){
-            if (!this.myRecipes.contains(r)){
-                this.myRecipes.add(r);
-            }
-        }
-    }
-
     // cart
 
 
-    public List<String> getCart() {
+    public Map<String,String> getCart() {
         return cart;
     }
 
-    public void setCart(List<String> cart) {
+    public void setCart(Map<String,String> cart) {
         this.cart = cart;
     }
 
-    public void addToCart(String r) {
-        if (!this.cart.contains(r)){
-            this.cart.add(r);
+    public void addToCart(String k, String v) {
+        if (!this.cart.containsKey(k)){
+            this.cart.put(k,v);
         }
     }
 
-    public void addToCart(List<String> newRecipes) {
-        for (String r: newRecipes){
-            if (!this.cart.contains(r)){
-                this.cart.add(r);
+    public void addToCart(Map<String,String> newRecipes) {
+        for (String k: newRecipes.keySet()){
+            if (!this.cart.containsKey(k)){
+                this.cart.put(k,newRecipes.get(k));
             }
         }
     }
@@ -178,30 +206,32 @@ public class User {
     }
 
     public void removeFromCart(List<String> delList) {
-        this.cart.removeAll(delList);
+        for (String k: delList) {
+            this.cart.remove(k);
+        }
     }
 
 
     // my recipes
 
-    public List<String> getMyRecipes() {
+    public Map<String,String> getMyRecipes() {
         return myRecipes;
     }
 
-    public void setMyRecipes(List<String> myRecipes) {
+    public void setMyRecipes(Map<String,String> myRecipes) {
         this.myRecipes = myRecipes;
     }
 
-    public void addToUserRecipes(String r) {
-        if (!this.myRecipes.contains(r)){
-            this.myRecipes.add(r);
+    public void addToUserRecipes(String k, String v) {
+        if (!this.myRecipes.containsKey(k)){
+            this.myRecipes.put(k,v);
         }
     }
 
-    public void addToUserRecipes(List<String> newRecipes) {
-        for (String r: newRecipes){
-            if (!this.myRecipes.contains(r)){
-                this.myRecipes.add(r);
+    public void addToUserRecipes(Map<String,String> newRecipes) {
+        for (String key: newRecipes.keySet()){
+            if (!this.myRecipes.containsKey(key)){
+                this.myRecipes.put(key, newRecipes.get(key));
             }
         }
     }
@@ -222,16 +252,16 @@ public class User {
     public String toString() {
         return "User{" +
                 "name='" + name + '\'' +
-                ", resume='" + resume + '\'' +
                 ", firstEntry=" + firstEntry +
                 ", isChef=" + isChef +
-                ", email='" + email + '\'' +
-                ", eating='" + eating + '\'' +
-                ", favorite='" + favorite + '\'' +
-                ", website='" + website + '\'' +
                 ", liked=" + liked + '\'' +
-                ", myRecipes=" + myRecipes + '\'' +
+                ", myRecipes=" + Arrays.toString(myRecipes.keySet().toArray()) + '\'' +
                 ", cart=" + cart +
+//                ", resume='" + resume + '\'' +
+//                ", email='" + email + '\'' +
+//                ", eating='" + eating + '\'' +
+//                ", favorite='" + favorite + '\'' +
+//                ", website='" + website + '\'' +
                 '}';
     }
 }

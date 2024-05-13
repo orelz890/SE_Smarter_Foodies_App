@@ -1,8 +1,10 @@
 package com.example.smarter_foodies.Model;
 
+import android.content.Context;
 import android.content.res.AssetManager;
 import android.os.Bundle;
 import android.util.Log;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -11,11 +13,15 @@ import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
+import com.google.android.gms.tasks.TaskCompletionSource;
+import com.google.android.gms.tasks.Tasks;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.MutableData;
+import com.google.firebase.database.Transaction;
 import com.google.firebase.database.ValueEventListener;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
@@ -30,38 +36,7 @@ import java.util.Objects;
 
 public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
-    public Map<String, String[]> subCategoriesList = new HashMap<String, String[]>() {{
-        put("", new String[]{});
-        put("breakfast", new String[]{"Breakfast And Brunch", "Breakfast Burritos", "Breakfast Casseroles", "Breakfast Potatoes", "Breakfast Strata", "Deviled Eggs", "Eggplant Parmesan", "Frittata", "Omelets", "Other"});
-        put("cakes", new String[]{"Angel Cake", "Cake Recipes", "Carrot Cake", "Cheesecake", "Chocolate Cake", "Coffee Cake", "Crab Cakes", "Cupcakes", "Fruitcake", "Linguine", "Mashed Potatoes", "Pound Cake", "Shortcake", "Spice Cake", "Upside Down Cake"});
-        put("carbs", new String[]{"Calzones", "Dumplings", "Egg Rolls", "Empanada Recipes", "Fried Rice", "Fries", "Gnocchi", "Homemade Pasta", "Noodle Casserole", "Pancit", "Pasta Carbonara", "Pasta Primavera", "Potato Pancakes", "Quesadillas", "Quiche", "Quinoa", "Ravioli", "Rice Casserole", "Rice Pilaf", "Risotto", "Samosa Recipes", "Shepherd's Pie", "Spaghetti", "Spanish Rice", "Tater_Tots Casserole", "Tortellini", "Tortillas", "Tostadas", "Tuna Casserole", "Ziti", "Other"});
-        put("dairy", new String[]{"Macaroni & Cheese", "Chowder", "Other"});
-        put("dinner", new String[]{"Dinner_Recipes", "Other"});
-        put("dips", new String[]{"Artichoke Dip", "Buffalo Chicken Dip", "Cranberry Sauce", "Gravy", "Guacamole", "Pesto Sauce", "Relishes", "Salsa", "Spinach Dips", "Other"});
-        put("drinks", new String[]{"Applesauce", "Bloody Marys", "Cocktails", "Eggnog", "Jell Shots", "Lemonade", "Margaritas", "Mojitos", "Punch", "Sangria", "Smoothies", "Other"});
-        put("easy", new String[]{"Everyday_Leftovers", "Quick_and_Easy_Recipes", "Other"});
-        put("fish & sushi", new String[]{"Ceviche", "Salmon", "Sushi", "Other"});
-        put("flour", new String[]{"Bagels", "Banana Bread", "Bread Recipes", "Bruschetta", "Cornbread", "Crackers", "Flat Bread", "French Toast", "Garlic Bread", "Hushpuppies", "Monkey Bread", "Panini", "Pierogi", "Pretzels", "Pumpkin Bread", "Sandwiches", "Scones", "Wheat Bread", "Yeast Bread", "Zucchini Bread", "Other"});
-        put("comfort", new String[]{"Comfort Food", "Food Gifts", "Other"});
-        put("health", new String[]{"Baked Beans", "Broccoli Salad", "Chicken Salad", "Diabetic Recipes", "Egg Salad", "Fruit Salads", "Gluten-Free Recipes", "Granola", "Green Salads", "Healthy Recipes", "High-Fiber Recipes", "Keto Diet", "Low-Calorie Recipes", "Low-Cholesterol Recipes", "Low-Fat Recipes", "Low-Sodium Recipes", "Low Glycemic Impact Recipes", "Mediterranean Diet", "Oatmeal", "Overnight Oats", "Paleo Diet", "Potato Salad", "Raw Food Diet", "Refried Beans", "Salad Dressings", "Salad Recipes", "Seitan Recipes", "Sugar-Free Recipes", "Tempeh Recipes", "Tofu Recipes", "Vegan Recipes", "Vegetable Recipes", "Vegetable Side Dishes", "Vegetarian Recipes", "Other"});
-        put("holidays", new String[]{"Falafel", "Paella", "Tacos", "Tamales", "Other"});
-        put("lunch", new String[]{"Lunch Recipes"});
-        put("main dishes", new String[]{"Casseroles", "Fajitas", "Lasagna", "Lettuce Wraps", "Main Dishes", "Manicotti", "Quiche", "Stew"});
-        put("meat & chicken", new String[]{"Bulgogi", "Burgers", "Chili", "Gyros", "Jerky", "Kalbi", "Ribs", "Roasts"});
-        put("per specific ingredients", new String[]{"Mushroom Recipes", "Pickles", "Stuffed Bell Peppers", "Stuffed Mushrooms", "Winter Squash_Recipes", "Yam Recipes"});
-        put("pies", new String[]{"Apple Pie", "Blueberry Pie", "Cherry Pie", "Chess Pie", "Key Lime Pie", "Mincemeat Pie", "Pecan Pie", "Pie Crusts", "Pie Recipes", "Pot Pie", "Pumpkin Pie", "Rhubarb Pie", "Shepherd's Pie", "Slab Pie", "Strawberry Pie", "Sweet Potato Pie", "Whoopie Pies", "Other"});
-        put("pizza", new String[]{"Pizza", "Pizza Dough And Crusts", "Other"});
-        put("pork", new String[]{"Ground Pork", "Pork Chops", "Pork Recipes", "Pork Ribs", "Pork Shoulder", "Pork Tenderloin", "Pulled Pork", "Other"});
-        put("preserved", new String[]{"Canning_and_Preserving", "Other"});
-        put("salads", new String[]{"Broccoli Salad", "Chicken Salad", "Coleslaw", "Egg Salad", "Fruit Salads", "Green Salads", "Pasta Salad", "Potato Salad", "Salad Dressings", "Salad Recipes", "Taco Salad", "Tomato Salad", "Tuna Salad", "Waldorf Salad", "Other"});
-        put("sea fruit", new String[]{"Etouffee", "Jambalaya", "Shrimp And Grits", "Shrimp Scampi", "Other"});
-        put("side dishes", new String[]{"Grits", "Hummus", "Jalapeno Poppers", "Meal Prep", "Pate", "Polenta", "Side Dishes", "Tapas Recipes", "Other"});
-        put("snacks & sweets", new String[]{"Appetizers And Snacks", "Bar Cookies", "Biscotti", "Biscuit", "Blintz", "Blondies", "Brownies", "Cheese Balls", "Cheese Fondue", "Chocolate Chip Cookies", "Chocolate Fudge", "Christmas Cookies", "Cinnamon Rolls", "Cobbler", "Cookies", "Creme Brulee", "Crisps And Crumbles", "Danishes", "Desserts", "Divinity", "Doughnuts", "Drop Cookies", "Energy Balls", "English Muffins", "Flan", "Fondant", "Frosting And Icing Recipes", "Fudge", "Gingerbread Cookies", "Gingersnaps", "Ice Cream", "Jams and_Jellies", "Kolache", "Lemon Bars", "Macaroons", "Mousse", "Muffins", "Nachos", "Oatmeal Cookies", "Pancakes", "Pasties", "Pastries", "Pavlova", "Peanut Butter Cookies", "Popcorn", "Popovers And Yorkshire Pudding", "Rice Pudding", "Road Trip Snacks", "Sandwich Cookies", "Seder Recipes", "Shortbread Cookies", "Snickerdoodles", "Spritz Cookies", "Strawberry Shortcake", "Sugar Cookies", "Thumbprint Cookies", "Tiramisu", "Toffee", "Tortes", "Truffles", "Waffles", "Other"});
-        put("soups", new String[]{"Borscht", "Butternut Squash Soup", "Chicken Noodle Soup", "French Onion Soup", "Gazpacho", "Gumbo", "Lentil Soup", "Minestrone Soup", "Mushroom Soup", "Potato Soup", "Soup", "Split Pea Soup", "Other"});
-        put("other", new String[]{"Other"});
-    }};
-
-    DatabaseReference mDatabase;
+    private DatabaseReference mDatabase;
     // Arrays to store data received from the realtime database
     private final List<recipe> recipe_list_search = new ArrayList<>();
     private final List<recipe> recipe_list_filter = new ArrayList<>();
@@ -72,6 +47,7 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         // Create reference to the firebase real time database
         mDatabase = FirebaseDatabase.getInstance().getReference();
     }
+
 
 //    private boolean init_database_with_existing_scraped_data() {
 //        try {
@@ -112,137 +88,192 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 //        return true;
 //    }
 
-    private String getCleanStringForSearch(String input_str) {
-        input_str = input_str.replace("\"", "").replace(" ", "");
-        StringBuilder new_str = new StringBuilder();
-        for (int i = 0; i < input_str.length(); i++) {
-            if (Character.isDigit(input_str.charAt(i)) || Character.isAlphabetic(input_str.charAt(i))) {
-                new_str.append(input_str.charAt(i));
-            }
-        }
-        return new_str.toString().toLowerCase(Locale.ROOT);
 
-    }
-
-    public DatabaseReference getToRecipeDepth(DatabaseReference DataRef, String name) {
-        DataRef = FirebaseDatabase.getInstance().getReference();
+    /*
+     * Returns a DatabaseReference of the recipe in the search tree.
+     * @param name - Recipe name.
+     * */
+    public DatabaseReference getToRecipeDepth(String name) {
+        DatabaseReference DataRef = FirebaseDatabase.getInstance().getReference();
         if (name.length() > 0) {
-            String new_name = getCleanStringForSearch(name);
-            //            System.out.println(new_name);
-            int len = new_name.length();
-            DataRef = DataRef.child("search");
-            // Max tree depth is 32
-            for (int i = 0; i < len && i < 27; i++) {
-                DataRef = DataRef.child(new_name.charAt(i) + "");
-            }
+            DataRef = DataRef.child("search").child(name);
         }
         return DataRef;
     }
 
-//    private boolean deleteAllInitData() {
-//        mDatabase = FirebaseDatabase.getInstance().getReference();
-//        mDatabase.child("filter").removeValue();
-//        mDatabase.child("search").removeValue();
-//        mDatabase.child("recipes").removeValue();
-//        return true;
-//    }
-
-    private void loadDishToSearchTree(recipe r) {
-        if (r != null) {
-            String title = getAsCategoryString(r.getTitle());
-            DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference();
-            getToRecipeDepth(mDatabaseSearch, r.getTitle()).child(title).setValue(r)
-                    .addOnCompleteListener(new OnCompleteListener<Void>() {
-                        @Override
-                        public void onComplete(@NonNull Task<Void> task) {
-                            if (task.isSuccessful()) {
-                                System.out.println(r.getTitle() + "> added successfully to search!");
-                            }
-                        }
-                    });
-        }
-    }
 
     public String getAsCategoryString(String input_str) {
         return input_str.replace(" ", "_").replace("\"", "");
     }
 
-    private void loadDishToFilterTree(recipe r) {
+
+    /*
+     * Add the recipe object and necessary data to the database(pipe).
+     * @param recipe - only value
+     * */
+    public void loadDishToDatabase(recipe r) {
+        addRecipeToRecipes(r);
+    }
+
+
+    /*
+     * Add the recipe name to the filter tree.
+     * If the operation fails - remove already saved data related.
+     * @param recipe - only value
+     * */
+    private void addRecipeToFilter(recipe r) {
         if (r != null) {
             String title = r.getTitle();
             String main_category = getAsCategoryString(r.getMain_category());
             String sub_category = getAsCategoryString(r.getCategory());
             DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
                     .child("filter").child(main_category).child(sub_category);
-            mDatabaseSearch.child(getAsCategoryString(title)).setValue(title).addOnCompleteListener(new OnCompleteListener<Void>() {
-                @Override
-                public void onComplete(@NonNull Task<Void> task) {
-                    if (task.isSuccessful()) {
-                        System.out.println(r.getTitle() + "> added successfully to Filter!");
-                    }
+            mDatabaseSearch.child(getAsCategoryString(title)).setValue(title).addOnCompleteListener(task -> {
+                if (task.isSuccessful()) {
+                    System.out.println(title + "> added successfully to Filter!");
+                } else {
+                    System.out.println("Failed to add - " + title + " to Filter!");
                 }
             });
         }
     }
 
-    private void loadDishToRecipesTree(recipe r) {
+
+    /*
+     * Add the recipe object to the recipe tree + pass it on to addRecipeToSearch.
+     * If the operation fails - remove already saved data related.
+     * @param recipe - only value
+     * */
+    private void addRecipeToRecipes(recipe r) {
         if (r != null) {
             String title = r.getTitle();
             String main_category = getAsCategoryString(r.getMain_category());
             String sub_category = getAsCategoryString(r.getCategory());
-            DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
-                    .child("recipes").child(main_category).child(sub_category).child(getAsCategoryString(title));
-            mDatabaseSearch.setValue(r).addOnCompleteListener(new OnCompleteListener<Void>() {
-                @Override
-                public void onComplete(@NonNull Task<Void> task) {
-                    if (task.isSuccessful()) {
-                        System.out.println(r.getTitle() + "> added successfully to Filter!");
-                        FirebaseDatabase.getInstance().getReference().child("myRecipes")
-                                .child(Objects.requireNonNull(FirebaseAuth.getInstance().getUid()))
-                                .child(title)
-                                .setValue(r);
-                    }
+
+            String recipeRefString = "recipes/" + main_category + "/" + sub_category + "/" + getAsCategoryString(title);
+            r.setDatabaseRef(recipeRefString);
+
+            DatabaseReference mDatabaseRecipes = FirebaseDatabase.getInstance().getReference().child(recipeRefString);
+
+
+            mDatabaseRecipes.setValue(r).addOnCompleteListener(task -> {
+                if (task.isSuccessful()) {
+                    System.out.println(r.getTitle() + "> added successfully to recipes!");
+                    addRecipeToSearch(r, recipeRefString);
+                } else {
+                    System.out.println(r.getTitle() + "> failed to add to recipes!");
+                    removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), title);
                 }
+            }).addOnFailureListener(e -> {
+                System.out.println("addRecipeToRecipes - Failed");
+                e.printStackTrace();
+                removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), title);
             });
         }
     }
 
-    public void loadDishToDatabase(recipe r) {
-        loadDishToFilterTree(r);
-        loadDishToSearchTree(r);
-        loadDishToRecipesTree(r);
+    /*
+     * Add the recipe reference to the search tree + pass it on to addRecipeToUserUploads.
+     * If the operation fails - remove already saved data related.
+     * @param recipe - object
+     * @param recipe - recipe reference in the database
+     * */
+    private void addRecipeToSearch(recipe r, String mDatabaseRecipes) {
+        if (mDatabaseRecipes != null) {
+            String title = r.getTitle();
+            getToRecipeDepth(title).setValue(mDatabaseRecipes)
+                    .addOnCompleteListener(task -> {
+                        if (task.isSuccessful()) {
+                            System.out.println(title + "> added successfully to search!");
+                            addRecipeToUserUploads(r, mDatabaseRecipes);
+                        } else {
+                            removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), title);
+                        }
+                    }).addOnFailureListener(e -> {
+                        System.out.println("removeDataFromFilterTree - Failed");
+                        e.printStackTrace();
+                        removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), title);
+                    });
+        }
     }
 
-    private void clearFilterArray() {
-        this.recipe_list_filter.clear();
+    /*
+     * Add the recipe reference to the user own recipes tree + pass it on to addRecipeToFilter.
+     * If the operation fails - remove already saved data related.
+     * @param recipe - object
+     * @param recipe - recipe reference in the database
+     * */
+    private void addRecipeToUserUploads(recipe r, String mDatabaseRecipes) {
+        String title = r.getTitle();
+        FirebaseDatabase.getInstance().getReference().child("users")
+                .child(Objects.requireNonNull(FirebaseAuth.getInstance().getUid()))
+                .child("myRecipes")
+                .child(title)
+                .setValue(mDatabaseRecipes).addOnCompleteListener(task -> {
+                    if (task.isSuccessful()) {
+                        System.out.println("Recipe added to the user uploaded recipes.");
+                        addRecipeToFilter(r);
+                    } else {
+//                            removeDataFromSearchTree(title);
+                        removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), title);
+                    }
+                }).addOnFailureListener(e -> {
+                    System.out.println("addRecipeToUserUploads - Failed");
+                    e.printStackTrace();
+                    removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), title);
+                });
     }
 
-    private void clearSearchArray() {
-        this.recipe_list_search.clear();
+
+    /*
+     * Remove the recipe reference from the user own recipes tree + pass it on to removeDataFromFilterTree.
+     * @param main_category - recipe main category
+     * @param sub_category - recipe sub category
+     * @param title - recipe name
+     * */
+    private void removeDataFromUserUploads(String main_category, String sub_category, String title) {
+
+        FirebaseDatabase.getInstance().getReference().child("users")
+                .child(Objects.requireNonNull(FirebaseAuth.getInstance().getUid()))
+                .child("myRecipes")
+                .child(title).removeValue().addOnCompleteListener(task -> {
+                    if (task.isSuccessful()) {
+                        System.out.println(title + "> class removed successfully from user uploads!");
+                        removeDataFromFilterTree(main_category, sub_category, title);
+                    }
+                }).addOnFailureListener(e -> {
+                    System.out.println("removeDataFromUserUploads - Failed");
+                    e.printStackTrace();
+                });
     }
 
-    private void addToFilerArray(recipe r) {
-        this.recipe_list_filter.add(new recipe(r));
-    }
 
-    private void addToSearchArray(recipe r) {
-        this.recipe_list_search.add(new recipe(r));
-    }
-
-
-    private void removeDataFromSearchTree(String name) {
-        DatabaseReference mDataSearchDelete = FirebaseDatabase.getInstance().getReference();
-        mDataSearchDelete = getToRecipeDepth(mDataSearchDelete, name);
-        mDataSearchDelete.removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
-            @Override
-            public void onComplete(@NonNull Task<Void> task) {
-                if (task.isSuccessful()) {
-                    System.out.println(name + "> class removed successfully!");
-                }
+    /*
+     * Remove the recipe reference from the search tree + pass it on to removeDataFromFilterTree.
+     * @param main_category - recipe main category
+     * @param sub_category - recipe sub category
+     * @param title - recipe name
+     * */
+    private void removeDataFromSearchTree(String main_category, String sub_category, String title) {
+        DatabaseReference mDataSearchDelete = FirebaseDatabase.getInstance().getReference().child("search").child(title);
+        mDataSearchDelete.removeValue().addOnCompleteListener(task -> {
+            if (task.isSuccessful()) {
+                System.out.println(title + "> class removed successfully from search!");
+                removeDataFromUserUploads(main_category, sub_category, title);
             }
+        }).addOnFailureListener(e -> {
+            System.out.println("removeDataFromSearchTree - Failed");
+            e.printStackTrace();
         });
+
     }
 
+
+    /*
+     * Remove the recipe name from the filter tree.
+     * @param main_category - recipe main category
+     * @param sub_category - recipe sub category
+     * @param title - recipe name     * */
     private void removeDataFromFilterTree(String main_category, String sub_category, String name) {
         String mainCategory = getAsCategoryString(main_category);
         String subCategory = getAsCategoryString(sub_category);
@@ -250,148 +281,139 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
 
         DatabaseReference mDataFilter = FirebaseDatabase.getInstance().getReference()
                 .child("filter").child(mainCategory).child(subCategory);
-        mDataFilter.child(title).removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
-            @Override
-            public void onComplete(@NonNull Task<Void> task) {
-                if (task.isSuccessful()) {
-                    System.out.println(name + "> name removed successfully!");
-                }
+        mDataFilter.child(title).removeValue().addOnCompleteListener(task -> {
+            if (task.isSuccessful()) {
+                System.out.println(name + "> name removed successfully from filter!");
             }
+        }).addOnFailureListener(e -> {
+            System.out.println("removeDataFromFilterTree - Failed");
+            e.printStackTrace();
         });
 
     }
 
-    private void removeDataFromRecipesTree(String main_category, String sub_category, String name) {
+
+    /*
+     * Remove the recipe object from the recipes tree + pass it on to removeDataFromSearchTree.
+     * @param main_category - recipe main category
+     * @param sub_category - recipe sub category
+     * @param title - recipe name     * */
+    private void removeDataFromRecipesTree(String main_category, String sub_category, String title) {
         String mainCategory = getAsCategoryString(main_category);
         String subCategory = getAsCategoryString(sub_category);
-        String title = getAsCategoryString(name);
+        String cleanTitle = getAsCategoryString(title);
 
         DatabaseReference mDataFilter = FirebaseDatabase.getInstance().getReference()
-                .child("recipes").child(mainCategory).child(subCategory).child(title);
-        mDataFilter.removeValue().addOnCompleteListener(new OnCompleteListener<Void>() {
-            @Override
-            public void onComplete(@NonNull Task<Void> task) {
-                if (task.isSuccessful()) {
-                    System.out.println(name + "> name removed successfully!");
-                    FirebaseDatabase.getInstance().getReference().child("myRecipes")
-                            .child(Objects.requireNonNull(FirebaseAuth.getInstance().getUid()))
-                            .child(name)
-                            .removeValue();
-                }
+                .child("recipes").child(mainCategory).child(subCategory).child(cleanTitle);
+        mDataFilter.removeValue().addOnCompleteListener(task -> {
+            if (task.isSuccessful()) {
+                System.out.println(title + "> name removed successfully!");
+                removeDataFromSearchTree(main_category, sub_category, title);
             }
+        }).addOnFailureListener(e -> {
+            System.out.println("removeDataFromRecipesTree - Failed");
+            e.printStackTrace();
         });
 
     }
 
 
+    /*
+     * Removes the recipe and related data from the database(pipe).
+     * @param name - recipe name
+     * */
     public void deleteRecipe(String name) {
-        DatabaseReference mDataSearch = FirebaseDatabase.getInstance().getReference();
-        mDataSearch = getToRecipeDepth(mDataSearch, name);
-        mDataSearch.get().addOnCompleteListener(new OnCompleteListener<DataSnapshot>() {
-            @Override
-            public void onComplete(@NonNull Task<DataSnapshot> task) {
-                if (task.isSuccessful()) {
-                    DataSnapshot snapshot_delete = task.getResult();
-                    if (snapshot_delete.exists()) {
-                        Iterable<DataSnapshot> childrens = snapshot_delete.getChildren();
-                        for (DataSnapshot filter_child : childrens) {
-                            try {
-                                recipe r = filter_child.getValue(recipe.class);
-//                                System.out.println(">>>>>>>" + r + "<<<<<<<<");
-                                if (r != null && getAsCategoryString(name).equals(getAsCategoryString(r.getTitle()))) {
-                                    removeDataFromSearchTree(r.getTitle());
-                                    removeDataFromFilterTree(r.getMain_category(), r.getCategory(), r.getTitle());
-                                    removeDataFromRecipesTree(r.getMain_category(), r.getCategory(), r.getTitle());
-                                }
-                            } catch (Exception e) {
-                                e.printStackTrace();
-                            }
-                        }
-                    } else {
-                        System.out.println("deleteRecipe - data don't exist");
+        final DatabaseReference mDataSearch = FirebaseDatabase.getInstance().getReference().child("search").child(name);
+        mDataSearch.get().addOnCompleteListener(task -> {
+            if (task.isSuccessful()) {
+                DataSnapshot snapshot_delete = task.getResult();
+
+                if (snapshot_delete.exists()) {
+
+                    // Add all the references under this name in the search tree
+                    String recipeRefString = snapshot_delete.getValue(String.class);
+                    if (recipeRefString != null) {
+                        String[] spited = recipeRefString.split("/");
+                        System.out.println("recipeRefString = " + recipeRefString);
+                        removeDataFromRecipesTree(spited[1],spited[2],name);
                     }
-                }
-            }
-        });
-    }
 
-    public void updateRecipe(String former_name, recipe newRecipe) {
-        if (newRecipe != null) {
-//            deleteRecipe(former_name);
-            loadDishToDatabase(newRecipe);
-        }
-    }
-
-    public static void updateUserAsChef(String email) {
-        String preUserEmail = email.replace(".", "{*}");
-        DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("email").child(preUserEmail);
-        reference.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-                if (!dataSnapshot.exists()) {
-                    System.out.println("email doesn't exist");
                 } else {
-                    String uid = dataSnapshot.getValue(String.class);
-                    updateUser(uid);
+                    System.out.println("deleteRecipe - data don't exist");
                 }
             }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-                Log.d("TAG", error.getMessage());
-            }
         });
-
     }
 
-    private static void updateUser(String uid) {
-        Map<String, Object> userUpdates = new HashMap<>();
-        userUpdates.put("isChef", true);
-        FirebaseDatabase.getInstance().getReference().child("users").child(uid)
-                .updateChildren(userUpdates).addOnSuccessListener(new OnSuccessListener<Void>() {
-                    @Override
-                    public void onSuccess(Void aVoid) {
-                        System.out.println("success to update user");
-                    }
-                })
-                .addOnFailureListener(new OnFailureListener() {
-                    @Override
-                    public void onFailure(@NonNull Exception e) {
-                        System.err.println("error to update user");
-                    }
-                });
+
+    /*
+     * Create task from a request in order to fetch more then on request in a single query.
+     * @param recipeRef - database reference to get from.
+     * */
+    public Task<Object> fetchDataTask(DatabaseReference recipeRef) {
+        if (recipeRef != null) {
+            final TaskCompletionSource<Object> taskCompletionSource = new TaskCompletionSource<>();
+
+            recipeRef.get().addOnCompleteListener(task -> {
+                if (task.isSuccessful()) {
+                    taskCompletionSource.setResult(task.getResult());
+                } else {
+                    taskCompletionSource.setException(Objects.requireNonNull(task.getException()));
+                }
+            });
+
+            return taskCompletionSource.getTask();
+        }
+        return Tasks.forResult(null); // Return a completed task if recipeRef is null
     }
 
-    public void addToUserLists(List<String> newRecipes, String listName) {
+
+//    private void handleRemoveDataTask(DatabaseReference reference, TaskCompletionSource<Object> taskCompletionSource) {
+//        if (reference != null) {
+//            reference.removeValue((databaseError, databaseReference) -> {
+//                if (databaseError == null) {
+//                    taskCompletionSource.setResult(null); // Task completed successfully
+//                } else {
+//                    taskCompletionSource.setException(databaseError.toException()); // Task failed
+//                }
+//            });
+//        } else {
+//            taskCompletionSource.setResult(null); // Return a completed task if reference is null
+//        }
+//    }
+
+
+    /*
+     * Add the recipes to the right list and update the dataset.
+     * @param newRecipes - recipes to add
+     * @param listName - which list to add to
+     * */
+    public void addToUserLists(Map<String, String> newRecipes, String listName) {
         String uid = FirebaseAuth.getInstance().getUid();
         if (uid != null) {
             DatabaseReference usersRef = FirebaseDatabase.getInstance()
                     .getReference().child("users").child(uid);
-            usersRef.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
-                @Override
-                public void onSuccess(DataSnapshot dataSnapshot) {
-                    if (dataSnapshot.exists()) {
-                        User user = dataSnapshot.getValue(User.class);
-                        if (user != null) {
-                            switch (listName) {
-                                case "recipes":
-                                    user.addToUserRecipes(newRecipes);
-                                    break;
-                                case "cart":
-                                    user.addToCart(newRecipes);
-                                    break;
-                                case "liked":
-                                    user.addToLiked(newRecipes);
-                                    break;
-                            }
-                            DatabaseReference usersRef = FirebaseDatabase.getInstance()
-                                    .getReference().child("users").child(uid);
-                            usersRef.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
-                                @Override
-                                public void onComplete(@NonNull Task<Void> task) {
+            usersRef.get().addOnSuccessListener(dataSnapshot -> {
+                if (dataSnapshot.exists()) {
+                    User user = dataSnapshot.getValue(User.class);
+                    if (user != null) {
 
-                                }
-                            });
+                        DatabaseReference userRef = FirebaseDatabase.getInstance()
+                                .getReference().child("users").child(uid);
+
+                        switch (listName) {
+                            case "recipes":
+                                user.addToUserRecipes(newRecipes);
+                                userRef.child("myRecipes").setValue(user.getMyRecipes());
+                                break;
+                            case "cart":
+                                user.addToCart(newRecipes);
+                                userRef.child("cart").setValue(user.getCart());
+                                break;
+                            case "liked":
+                                user.addToLiked(newRecipes);
+                                userRef.child("liked").setValue(user.getLiked());
+                                break;
                         }
                     }
                 }
@@ -406,43 +428,30 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         if (uid != null) {
             DatabaseReference usersRef = FirebaseDatabase.getInstance().getReference()
                     .child("users").child(uid);
-            usersRef.get().addOnSuccessListener(new OnSuccessListener<DataSnapshot>() {
-                @Override
-                public void onSuccess(DataSnapshot dataSnapshot) {
-                    if (dataSnapshot.exists()) {
-                        User user = dataSnapshot.getValue(User.class);
-                        if (user != null) {
-                            switch (listName) {
-                                case "recipes":
-                                    user.removeFromUserRecipes(delList);
-                                    break;
-                                case "cart":
-                                    user.removeFromCart(delList);
-                                    break;
-                                case "liked":
-                                    user.removeFromLiked(delList);
-                                    break;
-                            }
-                            DatabaseReference usersRef = FirebaseDatabase.getInstance()
-                                    .getReference().child("users").child(uid);
-                            usersRef.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
-                                @Override
-                                public void onComplete(@NonNull Task<Void> task) {
-
-                                }
-                            });
+            usersRef.get().addOnSuccessListener(dataSnapshot -> {
+                if (dataSnapshot.exists()) {
+                    User user = dataSnapshot.getValue(User.class);
+                    if (user != null) {
+                        switch (listName) {
+                            case "recipes":
+                                user.removeFromUserRecipes(delList);
+                                break;
+                            case "cart":
+                                user.removeFromCart(delList);
+                                break;
+                            case "liked":
+                                user.removeFromLiked(delList);
+                                break;
                         }
+                        DatabaseReference usersRef1 = FirebaseDatabase.getInstance()
+                                .getReference().child("users").child(uid);
+                        usersRef1.setValue(user).addOnCompleteListener(task -> {
+
+                        });
                     }
                 }
             });
         }
-    }
-
-
-    public List<String> getSingleValueAsCategoryList(String title) {
-        List<String> strings = new ArrayList<>();
-        strings.add(getAsCategoryString(title));
-        return strings;
     }
 
     public List<String> getSingleValueList(String title) {
@@ -451,77 +460,167 @@ public class CRUD_RealTimeDatabaseData extends AppCompatActivity {
         return strings;
     }
 
+    public Map<String, String> getSingleValueMap(String k, String v) {
+        Map<String, String> m = new HashMap<>();
+        m.put(k, v);
+        return m;
+    }
 
-//    public void uploadImageToImageStorage(ImageView iv, recipe r, int i, Uri imgUri) {
-//
-//
-//        if (iv.getDrawable() == null) {
-//            // First, create a reference to the image file in Firebase Storage
-//            FirebaseStorage storage = FirebaseStorage.getInstance();
-//            StorageReference storageRef = storage.getReference()
-//                    .child("images")
-//                    .child(getAsCategoryString(r.getTitle()))
-//                    .child("" + i);
-//            // Upload the file to Firebase Storage
-//            storageRef.putFile(imgUri)
-//                    .addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSnapshot>() {
-//                        @Override
-//                        public void onSuccess(UploadTask.TaskSnapshot taskSnapshot) {
-//                            StorageMetadata metadata = taskSnapshot.getMetadata();
-//                            if (metadata != null) {
-//                                StorageReference reference = metadata.getReference();
-//                                if (reference != null) {
-//                                    // Get the URL of the image
-//                                    String imageUrl = reference.getDownloadUrl().toString();
-//                                    // Save the URL to the Firebase Realtime Database
-//                                    FirebaseDatabase database = FirebaseDatabase.getInstance();
-//                                    DatabaseReference myRef = database.getReference("image_url");
-//                                    myRef.setValue(imageUrl);
-//                                    uploadImageToRecipeImages(r.getMain_category(), r.getCategory(),
-//                                            r.getTitle(), imageUrl, i);
-//                                }
-//                            }
-//                        }
-//                    })
-//                    .addOnFailureListener(new OnFailureListener() {
-//                        @Override
-//                        public void onFailure(@NonNull Exception e) {
-//                            // Handle the error
-//                            System.out.println(e.getStackTrace());
-//                        }
-//                    });
-//        }
-//    }
 
-//    public void uploadImageToRecipeImages(String category, String subCategory, String title, Uri imgUri, int pos) {
-//        String path = imgUri.getPath();
-//        // Convert image to base64-encoded string
-//        ByteArrayOutputStream baos = new ByteArrayOutputStream();
-//        Bitmap bitmap = BitmapFactory.decodeFile(path);
-//        bitmap.compress(Bitmap.CompressFormat.JPEG, 100, baos);
-//        byte[] imageData = baos.toByteArray();
-//        String imageDataBase64 = Base64.encodeToString(imageData, Base64.DEFAULT);
-//        String main_category = getAsCategoryString(category);
-//        String sub_category = getAsCategoryString(subCategory);
-//        DatabaseReference mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
-//                .child("recipes").child(main_category).child(sub_category);
-//        mDatabaseSearch.child(getAsCategoryString(title)).child("images").child("" + pos)
-//                .setValue(imageDataBase64).addOnFailureListener(new OnFailureListener() {
-//                    @Override
-//                    public void onFailure(@NonNull Exception e) {
-//                        e.printStackTrace();
-//                    }
-//                });
-//        mDatabaseSearch = FirebaseDatabase.getInstance().getReference()
-//                .child("search").child(main_category).child(sub_category);
-//        mDatabaseSearch.child(getAsCategoryString(title)).child("images").child("" + pos)
-//                .setValue(imageDataBase64).addOnFailureListener(new OnFailureListener() {
-//                    @Override
-//                    public void onFailure(@NonNull Exception e) {
-//                        e.printStackTrace();
-//                    }
-//                });
-//    }
+    /*
+     * Create tasks list from a map in order to fetch more then on request in a single query.
+     * @param m - Map with string of database references as values.
+     * */
+    public List<Task<Object>> getTasksFromRefMap(Map<String, String> m) {
+        List<Task<Object>> tasks = new ArrayList<>();
+
+        for (String v : m.values()) {
+            // Convert the saved string back to DatabaseReference
+            if (v != null) {
+                DatabaseReference restoredDatabaseReference = FirebaseDatabase.getInstance().getReference().child(v);//                        Task<DataSnapshot> task = getUserDataTask(userReference);
+                Task<Object> task = fetchDataTask(restoredDatabaseReference);
+
+                tasks.add(task);
+            }
+        }
+        return tasks;
+    }
+
+
+    /*
+     * Create tasks list from a DataSnapshot in order to fetch more then on request in a single query.
+     * @param m - DataSnapshot.
+     * */
+    public List<Task<Object>> getTasksFromDataSnapshot(DataSnapshot dataSnapshot) {
+        List<Task<Object>> tasks = new ArrayList<>();
+        if (dataSnapshot.exists()) {
+
+            for (DataSnapshot child : dataSnapshot.getChildren()) {
+                DatabaseReference ref = null;
+                System.out.println("\n\nChild: " + child + "\n\n");
+                System.out.println("\n\nType of child.getValue(): " + child.getValue().getClass().getSimpleName() + "\n\n");
+
+                if (child.getValue() instanceof String) {
+                    String refString = child.getValue(String.class);
+                    if (refString != null) {
+                        ref = FirebaseDatabase.getInstance().getReference().child(refString);
+                    } else {
+                        continue;
+                    }
+                } else if (child.getValue() instanceof DatabaseReference) {
+                    ref = child.getValue(DatabaseReference.class);
+
+                } else if (child.getValue() instanceof HashMap){
+                    try {
+                        System.out.println("\n\nim in\n\n");
+                        report rep = child.getValue(report.class);
+                        if (rep != null) {
+                            System.out.println("\n\nreported: " + rep.getRecipe_ref() + "\n\n");
+
+                            ref = FirebaseDatabase.getInstance().getReference().child(rep.getRecipe_ref());
+                        }
+                    } catch (Exception e){
+                        e.printStackTrace();
+                    }
+                }
+                else {
+                    continue;
+                }
+                if (ref != null) {
+                    Task<Object> task = fetchDataTask(ref);
+                    tasks.add(task);
+                }
+            }
+        }
+        return tasks;
+    }
+
+
+    public void sendReport(Context mContext, int hate, int inappropriate, int offensive, int verbal, String title, String ref) {
+
+        System.out.println("im going to send a report:\nref = " + ref);
+
+
+        DatabaseReference reference = FirebaseDatabase.getInstance().getReference().child("reports")
+                .child(title);
+
+        reference.runTransaction(new Transaction.Handler() {
+            @Override
+            public Transaction.Result doTransaction(@NonNull MutableData mutableData) {
+                // Attempt to retrieve the current data at this path.
+                report r = mutableData.getValue(report.class);
+                String reporting_uid = FirebaseAuth.getInstance().getUid();
+
+
+                if (r == null){
+                    List<String> reporters = new ArrayList<>();
+                    reporters.add(reporting_uid);
+                    r = new report(verbal, inappropriate, hate, offensive, reporters, ref);
+                    mutableData.setValue(r);
+                }
+                else {
+                    if (!r.getReporters().contains(reporting_uid)) {
+                        r.increment_abuse(verbal);
+                        r.increment_hate(hate);
+                        r.increment_inappropriate(inappropriate);
+                        r.increment_offensive(offensive);
+                        r.addReporter(reporting_uid);
+                        mutableData.setValue(r);
+                    }
+                }
+
+                // Return success
+                return Transaction.success(mutableData);
+            }
+
+            @Override
+            public void onComplete(DatabaseError databaseError, boolean committed, DataSnapshot dataSnapshot) {
+                if (databaseError != null) {
+                    Log.d("FirebaseData", "Firebase transaction failed: " + databaseError.getMessage());
+                } else if (committed) {
+                    Log.d("FirebaseData", "Transaction committed successfully.");
+                } else {
+                    Log.d("FirebaseData", "Transaction not committed.");
+                }
+            }
+        });
+    }
+
+
+    public void banUser(Context mContext, String uid, String recipeName){
+        // Ban the user from logging in to his account
+        final DatabaseReference databaseReference = FirebaseDatabase.getInstance()
+                .getReference().child("users").child(uid).child("ban");
+        databaseReference.setValue(true).addOnSuccessListener(new OnSuccessListener<Void>() {
+            @Override
+            public void onSuccess(Void unused) {
+                Toast.makeText(mContext, "Account: " + uid + " is banned!", Toast.LENGTH_SHORT).show();
+            }
+        }).addOnFailureListener(new OnFailureListener() {
+            @Override
+            public void onFailure(@NonNull Exception e) {
+                Toast.makeText(mContext, "Failed to ban Account: " + uid + ".\n" + e.getMessage(), Toast.LENGTH_SHORT).show();
+            }
+        });
+
+        // Delete the reported recipe
+        if (!recipeName.isEmpty()) {
+            deleteRecipe(recipeName);
+        }
+
+        // Remove from reports
+        final DatabaseReference databaseReference2 = FirebaseDatabase.getInstance()
+                .getReference().child("reports").child(recipeName);
+        databaseReference2.removeValue();
+    }
+
+    public void approveUser(Context mContext, String uid, String recipeName){
+
+        // Remove from reports
+        final DatabaseReference databaseReference = FirebaseDatabase.getInstance()
+                .getReference().child("reports").child(recipeName);
+        databaseReference.removeValue();
+    }
 }
 
 

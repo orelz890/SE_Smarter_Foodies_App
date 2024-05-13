@@ -43,6 +43,7 @@ import com.example.smarter_foodies.R;
 import com.example.smarter_foodies.ServerAPI.AppServer;
 import com.github.drjacky.imagepicker.ImagePicker;
 import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
@@ -59,6 +60,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
+import java.util.Map;
 import java.util.Set;
 
 public class AddRecipe extends DashboardActivity {
@@ -66,7 +68,6 @@ public class AddRecipe extends DashboardActivity {
     FirebaseAuth mAuth;
     // These strings role is to help us sync between what the user see in the sub category
     // AutoCompleteTextView and his choice of main category
-    String[] categoriesList;
     String category = "";
     String subCategory = "";
     boolean flag;
@@ -112,6 +113,7 @@ public class AddRecipe extends DashboardActivity {
     CRUD_RealTimeDatabaseData CRUD;
     Bundle mbBundle;
     ArrayList<String> selectedIn;
+    private Map<String, List<String>> categoriesAndSubs;
 
 
     @Override
@@ -131,18 +133,21 @@ public class AddRecipe extends DashboardActivity {
         mAuth = FirebaseAuth.getInstance();
         // Create reference to the firebase real time database
         mDatabase = FirebaseDatabase.getInstance().getReference();
+
         CRUD = new CRUD_RealTimeDatabaseData();
+
         imageViews = new ArrayList<>();
         deleteImageButtons = new ArrayList<>();
         flag = false;
         // Fill the categories list which the user can chose from
-        this.fillCategoriesList();
+
+
         this.setImageButtons();
 
         //    ========================= Get data from user =============================================
         this.createAllNumberPickers();
         this.createAllButtons();
-        this.createAllAutoCompleteTextViews();
+//        this.createAllAutoCompleteTextViews();
 
         addIngredients.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -150,8 +155,45 @@ public class AddRecipe extends DashboardActivity {
                 addIngredientDialog();
             }
         });
+        fillCategoriesAndSubs();
     }
 
+
+    private void fillCategoriesAndSubs(){
+        categoriesAndSubs = new HashMap<>();
+
+        DatabaseReference mDatabaseSearchGet = FirebaseDatabase.getInstance()
+                .getReference().child("CategoriesAndSubs");
+        mDatabaseSearchGet.get().addOnSuccessListener(dataSnapshot -> {
+            if (dataSnapshot.exists()) {
+
+                for (DataSnapshot snapshot : dataSnapshot.getChildren()) {
+                    String category = snapshot.getKey();
+                    List<String> subs = new ArrayList<>();
+
+                    for (DataSnapshot subCategorySnapshot : snapshot.getChildren()) {
+                        String subCategory = subCategorySnapshot.getValue(String.class);
+//                        System.out.println(subCategory);
+                        subs.add(subCategory);
+                    }
+                    categoriesAndSubs.put(category, subs);
+                }
+//
+                // Now that we have filled the map we can set the autocomplete texts
+                createAllAutoCompleteTextViews();
+            }
+            else{
+                System.out.println("\n\ndataSnapshot do not exists\n\n");
+            }
+        }).addOnFailureListener(new OnFailureListener() {
+            @Override
+            public void onFailure(@NonNull Exception e) {
+                System.out.println("Failure - Exception: ");
+                e.printStackTrace();
+            }
+        });
+
+    }
 
     public static String ingredients(ArrayList<String> ingredients) {
         String ingredient = "";
@@ -164,16 +206,6 @@ public class AddRecipe extends DashboardActivity {
         return " There Are No Ingredients ";
     }
 
-    private void fillCategoriesList() {
-        Set<String> keys = CRUD.subCategoriesList.keySet();
-        categoriesList = new String[keys.size() - 1];
-        int i = 0;
-        for (String s : keys) {
-            if (!s.isEmpty()) {
-                categoriesList[i++] = s;
-            }
-        }
-    }
 
     public void setLongClickListeners(int i) {
         imageViews.get(i).setOnLongClickListener(new View.OnLongClickListener() {
@@ -272,12 +304,15 @@ public class AddRecipe extends DashboardActivity {
 
     private void change_adapter() {
         autoCompleteSubCategory = findViewById(R.id.auto_complete_sub_category);
-        adapterSubCategories = new ArrayAdapter<String>(this, R.layout.list_items, CRUD.subCategoriesList.get(category));
+        adapterSubCategories = new ArrayAdapter<String>(this, R.layout.list_items, categoriesAndSubs.get(category));
         autoCompleteSubCategory.setAdapter(adapterSubCategories);
     }
 
     private void createAllAutoCompleteTextViews() {
         autoCompleteCategory = findViewById(R.id.auto_complete_category);
+
+        List<String> categoriesList = new ArrayList<>(categoriesAndSubs.keySet());
+
         adapterCategories = new ArrayAdapter<String>(this, R.layout.list_items, categoriesList);
         autoCompleteCategory.setAdapter(adapterCategories);
         autoCompleteCategory.setOnItemClickListener(new AdapterView.OnItemClickListener() {
@@ -289,7 +324,7 @@ public class AddRecipe extends DashboardActivity {
             }
         });
         autoCompleteSubCategory = findViewById(R.id.auto_complete_sub_category);
-        adapterSubCategories = new ArrayAdapter<String>(this, R.layout.list_items, CRUD.subCategoriesList.get(category));
+        adapterSubCategories = new ArrayAdapter<String>(this, R.layout.list_items, categoriesAndSubs.get(category));
         autoCompleteSubCategory.setAdapter(adapterSubCategories);
         autoCompleteSubCategory.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
@@ -468,7 +503,7 @@ public class AddRecipe extends DashboardActivity {
                                 npServings.getValue() + "", npProtein.getValue() + "",
                                 npCalories.getValue() + "", npFat.getValue() + "",
                                 npCarbs.getValue() + "", 0, new ArrayList<>(),
-                                0, new HashMap<>(), "");
+                                0, new HashMap<>(), "","");
                         r.setIngredients(ingredientsArray);
                         FirebaseUser currentUser = mAuth.getCurrentUser();
                         if (currentUser != null) {
@@ -484,15 +519,8 @@ public class AddRecipe extends DashboardActivity {
                         CRUD.loadDishToDatabase(r);
 
 
-//                        // Load recipe to database
-//                        if (currentUser != null) {
-//                            addRecipeToUserByServer(currentUser.getUid(), r.getTitle());
-//                        }
-//                        List<String> singleValueList = CRUD.getSingleValueList(r.getTitle());
-//                        // Add recipe to the user recipes
-//                        CRUD.addToUserLists(singleValueList, "recipes");
                         flag = false;
-                        moveToActivity(r.getTitle());
+//                        moveToActivity(r.getTitle());
 
                     }
                 }
